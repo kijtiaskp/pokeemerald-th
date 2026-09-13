@@ -21,11 +21,11 @@ const THAI_BLOCK_END = '@ Thai end';
 const JAPANESE_SECTION = '@ Hiragana';
 
 export const FONT_LAYOUTS: Record<string, FontLayout> = {
-  normal: { sheet: 'latin_normal', widthTable: 'gFontNormalLatinGlyphWidths', bodyRows: 7, lowerMarkTop: 13, height: 15 },
-  short: { sheet: 'latin_short', widthTable: 'gFontShortLatinGlyphWidths', bodyRows: 7, lowerMarkTop: 12, height: 14 },
-  narrow: { sheet: 'latin_narrow', widthTable: 'gFontNarrowLatinGlyphWidths', bodyRows: 7, lowerMarkTop: 13, height: 15 },
-  small: { sheet: 'latin_small', widthTable: 'gFontSmallLatinGlyphWidths', bodyRows: 6, lowerMarkTop: 11, height: 13 },
-  smallNarrow: { sheet: 'latin_small_narrow', widthTable: 'gFontSmallNarrowLatinGlyphWidths', bodyRows: 6, lowerMarkTop: 11, height: 12 },
+  normal: { sheet: 'latin_normal', widthTable: 'gFontNormalLatinGlyphWidths', bodyRows: 7, lowerMarkTop: 13, height: 15, narrow: false },
+  short: { sheet: 'latin_short', widthTable: 'gFontShortLatinGlyphWidths', bodyRows: 7, lowerMarkTop: 12, height: 14, narrow: false },
+  narrow: { sheet: 'latin_narrow', widthTable: 'gFontNarrowLatinGlyphWidths', bodyRows: 7, lowerMarkTop: 13, height: 15, narrow: false },
+  small: { sheet: 'latin_small', widthTable: 'gFontSmallLatinGlyphWidths', bodyRows: 6, lowerMarkTop: 11, height: 13, narrow: true },
+  smallNarrow: { sheet: 'latin_small_narrow', widthTable: 'gFontSmallNarrowLatinGlyphWidths', bodyRows: 6, lowerMarkTop: 11, height: 12, narrow: true },
 };
 
 interface Cell {

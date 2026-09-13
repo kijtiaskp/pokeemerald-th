@@ -10,6 +10,7 @@ export interface FontLayout {
   bodyRows: 6 | 7;
   lowerMarkTop: number;
   height: number;
+  narrow: boolean;
 }
 
 export interface ThaiGlyph {
@@ -124,6 +125,40 @@ function shiftRows(source: Rows, offset: number): Rows {
   return rows;
 }
 
+const NARROWING_MIN_WIDTH = 6;
+
+function columnMask(rows: Rows, column: number): number {
+  return rows.reduce((mask, row, y) => (row & (0x80 >> column) ? mask | (1 << y) : mask), 0);
+}
+
+// Removes one interior column, preferring a column identical to its neighbour, so small fonts fit name slots.
+// Marks keep their right edge (they are right-aligned to the base glyph), bases keep their left edge.
+function narrowRows(rows: Rows, isMark: boolean): Rows {
+  const columns = [...Array(8).keys()].filter((x) => columnMask(rows, x) !== 0);
+  if (columns.length === 0) return rows;
+  const left = Math.min(...columns);
+  const right = Math.max(...columns);
+  if (right - left + 1 < NARROWING_MIN_WIDTH) return rows;
+
+  let best = -1;
+  let bestScore = Infinity;
+  for (let x = left + 1; x < right; x++) {
+    const duplicatePenalty = columnMask(rows, x) === columnMask(rows, x + 1) || columnMask(rows, x) === columnMask(rows, x - 1) ? 0 : 100;
+    const score = duplicatePenalty + popcount(columnMask(rows, x));
+    if (score < bestScore) {
+      best = x;
+      bestScore = score;
+    }
+  }
+
+  const keepMask = 0x80 >> best;
+  const leftMask = (0xff << (8 - best)) & 0xff;
+  const rightMask = 0xff >> (best + 1);
+  return rows.map((row) =>
+    isMark ? ((row & leftMask) >> 1) | (row & rightMask) : (row & leftMask) | ((row & rightMask) << 1) & ~keepMask & 0xff,
+  );
+}
+
 function alignMarkToBaseStem(rows: Rows): Rows {
   const overflows = rows.some((mask) => mask & RIGHTMOST_COLUMN_BIT);
   return overflows ? rows.map((mask) => (mask << 1) & 0xff) : rows;
@@ -179,7 +214,10 @@ export function buildThaiGlyphs(): ThaiGlyph[] {
   ];
   if (marks.length > MARK_SLOTS.length) throw new Error('not enough mark slots');
 
-  return [...glyphs, ...marks.map((glyph, i) => ({ ...glyph, slot: MARK_SLOTS[i] }))];
+  return [...glyphs, ...marks.map((glyph, i) => ({ ...glyph, slot: MARK_SLOTS[i] }))].map((glyph) => ({
+    ...glyph,
+    rows: (layout: FontLayout) => (layout.narrow ? narrowRows(glyph.rows(layout), glyph.isMark) : glyph.rows(layout)),
+  }));
 }
 
 function mark(
