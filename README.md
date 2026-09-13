@@ -17,7 +17,7 @@
 ## โครงสร้าง
 | path | หน้าที่ |
 |---|---|
-| `rom/` | pokeemerald (branch `thai`, tag `thai-engine` = engine ที่ยังเป็นข้อความอังกฤษ) |
+| `rom/` | submodule [kijtiaskp/pokeemerald-th-rom](https://github.com/kijtiaskp/pokeemerald-th-rom) (branch `thai`, tag `thai-engine` = engine ที่ยังเป็นข้อความอังกฤษ) |
 | `tools/src/font/` | สร้างฟอนต์ไทยจาก GNU Unifont ลง glyph sheet ทั้ง 5 ฟอนต์ + width table + charmap |
 | `tools/src/extract.ts` | ดึงข้อความทั้งหมด + บริบทผู้พูด → `tools/data/strings.jsonl` |
 | `tools/data/translations/` | คำแปล (`{id, th}`) |
@@ -36,6 +36,8 @@
 
 ## Build
 ```sh
+git clone --recurse-submodules https://github.com/kijtiaskp/pokeemerald-th && cd pokeemerald-th
+
 # ครั้งแรก: devkit + agbcc + ฟอนต์ต้นแบบ
 brew install arm-none-eabi-binutils arm-none-eabi-gcc libpng pkgconf
 git clone https://github.com/pret/agbcc && (cd agbcc && ./build.sh && ./install.sh ../rom)

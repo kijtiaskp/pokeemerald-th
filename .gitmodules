@@ -1,0 +1,4 @@
+[submodule "rom"]
+	path = rom
+	url = https://github.com/kijtiaskp/pokeemerald-th-rom.git
+	branch = thai
