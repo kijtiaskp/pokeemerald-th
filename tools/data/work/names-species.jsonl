@@ -1,0 +1,773 @@
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NONE.categoryName","kind":"dex_category","en":"UNKNOWN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BULBASAUR.categoryName","kind":"dex_category","en":"SEED","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_IVYSAUR.categoryName","kind":"dex_category","en":"SEED","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_VENUSAUR.categoryName","kind":"dex_category","en":"SEED","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CHARMANDER.categoryName","kind":"dex_category","en":"LIZARD","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CHARMELEON.categoryName","kind":"dex_category","en":"FLAME","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CHARIZARD.categoryName","kind":"dex_category","en":"FLAME","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SQUIRTLE.categoryName","kind":"dex_category","en":"TINY TURTLE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WARTORTLE.categoryName","kind":"dex_category","en":"TURTLE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BLASTOISE.categoryName","kind":"dex_category","en":"SHELLFISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CATERPIE.categoryName","kind":"dex_category","en":"WORM","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_METAPOD.categoryName","kind":"dex_category","en":"COCOON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BUTTERFREE.categoryName","kind":"dex_category","en":"BUTTERFLY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WEEDLE.categoryName","kind":"dex_category","en":"HAIRY BUG","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_KAKUNA.categoryName","kind":"dex_category","en":"COCOON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BEEDRILL.categoryName","kind":"dex_category","en":"POISON BEE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PIDGEY.categoryName","kind":"dex_category","en":"TINY BIRD","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PIDGEOTTO.categoryName","kind":"dex_category","en":"BIRD","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PIDGEOT.categoryName","kind":"dex_category","en":"BIRD","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_RATTATA.categoryName","kind":"dex_category","en":"MOUSE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_RATICATE.categoryName","kind":"dex_category","en":"MOUSE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SPEAROW.categoryName","kind":"dex_category","en":"TINY BIRD","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_FEAROW.categoryName","kind":"dex_category","en":"BEAK","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_EKANS.categoryName","kind":"dex_category","en":"SNAKE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ARBOK.categoryName","kind":"dex_category","en":"COBRA","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PIKACHU.categoryName","kind":"dex_category","en":"MOUSE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_RAICHU.categoryName","kind":"dex_category","en":"MOUSE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SANDSHREW.categoryName","kind":"dex_category","en":"MOUSE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SANDSLASH.categoryName","kind":"dex_category","en":"MOUSE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NIDORAN_F.categoryName","kind":"dex_category","en":"POISON PIN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NIDORINA.categoryName","kind":"dex_category","en":"POISON PIN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NIDOQUEEN.categoryName","kind":"dex_category","en":"DRILL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NIDORAN_M.categoryName","kind":"dex_category","en":"POISON PIN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NIDORINO.categoryName","kind":"dex_category","en":"POISON PIN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NIDOKING.categoryName","kind":"dex_category","en":"DRILL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CLEFAIRY.categoryName","kind":"dex_category","en":"FAIRY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CLEFABLE.categoryName","kind":"dex_category","en":"FAIRY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_VULPIX.categoryName","kind":"dex_category","en":"FOX","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NINETALES.categoryName","kind":"dex_category","en":"FOX","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_JIGGLYPUFF.categoryName","kind":"dex_category","en":"BALLOON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WIGGLYTUFF.categoryName","kind":"dex_category","en":"BALLOON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ZUBAT.categoryName","kind":"dex_category","en":"BAT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GOLBAT.categoryName","kind":"dex_category","en":"BAT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ODDISH.categoryName","kind":"dex_category","en":"WEED","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GLOOM.categoryName","kind":"dex_category","en":"WEED","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_VILEPLUME.categoryName","kind":"dex_category","en":"FLOWER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PARAS.categoryName","kind":"dex_category","en":"MUSHROOM","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PARASECT.categoryName","kind":"dex_category","en":"MUSHROOM","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_VENONAT.categoryName","kind":"dex_category","en":"INSECT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_VENOMOTH.categoryName","kind":"dex_category","en":"POISON MOTH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DIGLETT.categoryName","kind":"dex_category","en":"MOLE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DUGTRIO.categoryName","kind":"dex_category","en":"MOLE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MEOWTH.categoryName","kind":"dex_category","en":"SCRATCH CAT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PERSIAN.categoryName","kind":"dex_category","en":"CLASSY CAT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PSYDUCK.categoryName","kind":"dex_category","en":"DUCK","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GOLDUCK.categoryName","kind":"dex_category","en":"DUCK","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MANKEY.categoryName","kind":"dex_category","en":"PIG MONKEY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PRIMEAPE.categoryName","kind":"dex_category","en":"PIG MONKEY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GROWLITHE.categoryName","kind":"dex_category","en":"PUPPY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ARCANINE.categoryName","kind":"dex_category","en":"LEGENDARY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_POLIWAG.categoryName","kind":"dex_category","en":"TADPOLE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_POLIWHIRL.categoryName","kind":"dex_category","en":"TADPOLE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_POLIWRATH.categoryName","kind":"dex_category","en":"TADPOLE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ABRA.categoryName","kind":"dex_category","en":"PSI","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_KADABRA.categoryName","kind":"dex_category","en":"PSI","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ALAKAZAM.categoryName","kind":"dex_category","en":"PSI","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MACHOP.categoryName","kind":"dex_category","en":"SUPERPOWER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MACHOKE.categoryName","kind":"dex_category","en":"SUPERPOWER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MACHAMP.categoryName","kind":"dex_category","en":"SUPERPOWER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BELLSPROUT.categoryName","kind":"dex_category","en":"FLOWER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WEEPINBELL.categoryName","kind":"dex_category","en":"FLYCATCHER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_VICTREEBEL.categoryName","kind":"dex_category","en":"FLYCATCHER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TENTACOOL.categoryName","kind":"dex_category","en":"JELLYFISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TENTACRUEL.categoryName","kind":"dex_category","en":"JELLYFISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GEODUDE.categoryName","kind":"dex_category","en":"ROCK","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GRAVELER.categoryName","kind":"dex_category","en":"ROCK","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GOLEM.categoryName","kind":"dex_category","en":"MEGATON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PONYTA.categoryName","kind":"dex_category","en":"FIRE HORSE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_RAPIDASH.categoryName","kind":"dex_category","en":"FIRE HORSE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SLOWPOKE.categoryName","kind":"dex_category","en":"DOPEY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SLOWBRO.categoryName","kind":"dex_category","en":"HERMIT CRAB","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MAGNEMITE.categoryName","kind":"dex_category","en":"MAGNET","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MAGNETON.categoryName","kind":"dex_category","en":"MAGNET","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_FARFETCHD.categoryName","kind":"dex_category","en":"WILD DUCK","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DODUO.categoryName","kind":"dex_category","en":"TWIN BIRD","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DODRIO.categoryName","kind":"dex_category","en":"TRIPLE BIRD","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SEEL.categoryName","kind":"dex_category","en":"SEA LION","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DEWGONG.categoryName","kind":"dex_category","en":"SEA LION","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GRIMER.categoryName","kind":"dex_category","en":"SLUDGE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MUK.categoryName","kind":"dex_category","en":"SLUDGE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SHELLDER.categoryName","kind":"dex_category","en":"BIVALVE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CLOYSTER.categoryName","kind":"dex_category","en":"BIVALVE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GASTLY.categoryName","kind":"dex_category","en":"GAS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HAUNTER.categoryName","kind":"dex_category","en":"GAS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GENGAR.categoryName","kind":"dex_category","en":"SHADOW","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ONIX.categoryName","kind":"dex_category","en":"ROCK SNAKE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DROWZEE.categoryName","kind":"dex_category","en":"HYPNOSIS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HYPNO.categoryName","kind":"dex_category","en":"HYPNOSIS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_KRABBY.categoryName","kind":"dex_category","en":"RIVER CRAB","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_KINGLER.categoryName","kind":"dex_category","en":"PINCER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_VOLTORB.categoryName","kind":"dex_category","en":"BALL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ELECTRODE.categoryName","kind":"dex_category","en":"BALL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_EXEGGCUTE.categoryName","kind":"dex_category","en":"EGG","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_EXEGGUTOR.categoryName","kind":"dex_category","en":"COCONUT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CUBONE.categoryName","kind":"dex_category","en":"LONELY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MAROWAK.categoryName","kind":"dex_category","en":"BONE KEEPER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HITMONLEE.categoryName","kind":"dex_category","en":"KICKING","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HITMONCHAN.categoryName","kind":"dex_category","en":"PUNCHING","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LICKITUNG.categoryName","kind":"dex_category","en":"LICKING","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_KOFFING.categoryName","kind":"dex_category","en":"POISON GAS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WEEZING.categoryName","kind":"dex_category","en":"POISON GAS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_RHYHORN.categoryName","kind":"dex_category","en":"SPIKES","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_RHYDON.categoryName","kind":"dex_category","en":"DRILL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CHANSEY.categoryName","kind":"dex_category","en":"EGG","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TANGELA.categoryName","kind":"dex_category","en":"VINE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_KANGASKHAN.categoryName","kind":"dex_category","en":"PARENT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HORSEA.categoryName","kind":"dex_category","en":"DRAGON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SEADRA.categoryName","kind":"dex_category","en":"DRAGON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GOLDEEN.categoryName","kind":"dex_category","en":"GOLDFISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SEAKING.categoryName","kind":"dex_category","en":"GOLDFISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_STARYU.categoryName","kind":"dex_category","en":"STAR SHAPE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_STARMIE.categoryName","kind":"dex_category","en":"MYSTERIOUS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MR_MIME.categoryName","kind":"dex_category","en":"BARRIER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SCYTHER.categoryName","kind":"dex_category","en":"MANTIS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_JYNX.categoryName","kind":"dex_category","en":"HUMAN SHAPE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ELECTABUZZ.categoryName","kind":"dex_category","en":"ELECTRIC","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MAGMAR.categoryName","kind":"dex_category","en":"SPITFIRE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PINSIR.categoryName","kind":"dex_category","en":"STAG BEETLE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TAUROS.categoryName","kind":"dex_category","en":"WILD BULL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MAGIKARP.categoryName","kind":"dex_category","en":"FISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GYARADOS.categoryName","kind":"dex_category","en":"ATROCIOUS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LAPRAS.categoryName","kind":"dex_category","en":"TRANSPORT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DITTO.categoryName","kind":"dex_category","en":"TRANSFORM","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_EEVEE.categoryName","kind":"dex_category","en":"EVOLUTION","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_VAPOREON.categoryName","kind":"dex_category","en":"BUBBLE JET","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_JOLTEON.categoryName","kind":"dex_category","en":"LIGHTNING","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_FLAREON.categoryName","kind":"dex_category","en":"FLAME","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PORYGON.categoryName","kind":"dex_category","en":"VIRTUAL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_OMANYTE.categoryName","kind":"dex_category","en":"SPIRAL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_OMASTAR.categoryName","kind":"dex_category","en":"SPIRAL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_KABUTO.categoryName","kind":"dex_category","en":"SHELLFISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_KABUTOPS.categoryName","kind":"dex_category","en":"SHELLFISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_AERODACTYL.categoryName","kind":"dex_category","en":"FOSSIL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SNORLAX.categoryName","kind":"dex_category","en":"SLEEPING","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ARTICUNO.categoryName","kind":"dex_category","en":"FREEZE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ZAPDOS.categoryName","kind":"dex_category","en":"ELECTRIC","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MOLTRES.categoryName","kind":"dex_category","en":"FLAME","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DRATINI.categoryName","kind":"dex_category","en":"DRAGON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DRAGONAIR.categoryName","kind":"dex_category","en":"DRAGON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DRAGONITE.categoryName","kind":"dex_category","en":"DRAGON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MEWTWO.categoryName","kind":"dex_category","en":"GENETIC","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MEW.categoryName","kind":"dex_category","en":"NEW SPECIES","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CHIKORITA.categoryName","kind":"dex_category","en":"LEAF","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BAYLEEF.categoryName","kind":"dex_category","en":"LEAF","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MEGANIUM.categoryName","kind":"dex_category","en":"HERB","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CYNDAQUIL.categoryName","kind":"dex_category","en":"FIRE MOUSE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_QUILAVA.categoryName","kind":"dex_category","en":"VOLCANO","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TYPHLOSION.categoryName","kind":"dex_category","en":"VOLCANO","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TOTODILE.categoryName","kind":"dex_category","en":"BIG JAW","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CROCONAW.categoryName","kind":"dex_category","en":"BIG JAW","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_FERALIGATR.categoryName","kind":"dex_category","en":"BIG JAW","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SENTRET.categoryName","kind":"dex_category","en":"SCOUT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_FURRET.categoryName","kind":"dex_category","en":"LONG BODY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HOOTHOOT.categoryName","kind":"dex_category","en":"OWL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NOCTOWL.categoryName","kind":"dex_category","en":"OWL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LEDYBA.categoryName","kind":"dex_category","en":"FIVE STAR","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LEDIAN.categoryName","kind":"dex_category","en":"FIVE STAR","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SPINARAK.categoryName","kind":"dex_category","en":"STRING SPIT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ARIADOS.categoryName","kind":"dex_category","en":"LONG LEG","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CROBAT.categoryName","kind":"dex_category","en":"BAT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CHINCHOU.categoryName","kind":"dex_category","en":"ANGLER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LANTURN.categoryName","kind":"dex_category","en":"LIGHT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PICHU.categoryName","kind":"dex_category","en":"TINY MOUSE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CLEFFA.categoryName","kind":"dex_category","en":"STAR SHAPE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_IGGLYBUFF.categoryName","kind":"dex_category","en":"BALLOON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TOGEPI.categoryName","kind":"dex_category","en":"SPIKE BALL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TOGETIC.categoryName","kind":"dex_category","en":"HAPPINESS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NATU.categoryName","kind":"dex_category","en":"TINY BIRD","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_XATU.categoryName","kind":"dex_category","en":"MYSTIC","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MAREEP.categoryName","kind":"dex_category","en":"WOOL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_FLAAFFY.categoryName","kind":"dex_category","en":"WOOL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_AMPHAROS.categoryName","kind":"dex_category","en":"LIGHT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BELLOSSOM.categoryName","kind":"dex_category","en":"FLOWER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MARILL.categoryName","kind":"dex_category","en":"AQUA MOUSE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_AZUMARILL.categoryName","kind":"dex_category","en":"AQUA RABBIT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SUDOWOODO.categoryName","kind":"dex_category","en":"IMITATION","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_POLITOED.categoryName","kind":"dex_category","en":"FROG","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HOPPIP.categoryName","kind":"dex_category","en":"COTTONWEED","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SKIPLOOM.categoryName","kind":"dex_category","en":"COTTONWEED","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_JUMPLUFF.categoryName","kind":"dex_category","en":"COTTONWEED","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_AIPOM.categoryName","kind":"dex_category","en":"LONG TAIL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SUNKERN.categoryName","kind":"dex_category","en":"SEED","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SUNFLORA.categoryName","kind":"dex_category","en":"SUN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_YANMA.categoryName","kind":"dex_category","en":"CLEAR WING","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WOOPER.categoryName","kind":"dex_category","en":"WATER FISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_QUAGSIRE.categoryName","kind":"dex_category","en":"WATER FISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ESPEON.categoryName","kind":"dex_category","en":"SUN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_UMBREON.categoryName","kind":"dex_category","en":"MOONLIGHT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MURKROW.categoryName","kind":"dex_category","en":"DARKNESS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SLOWKING.categoryName","kind":"dex_category","en":"ROYAL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MISDREAVUS.categoryName","kind":"dex_category","en":"SCREECH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_UNOWN.categoryName","kind":"dex_category","en":"SYMBOL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WOBBUFFET.categoryName","kind":"dex_category","en":"PATIENT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GIRAFARIG.categoryName","kind":"dex_category","en":"LONG NECK","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PINECO.categoryName","kind":"dex_category","en":"BAGWORM","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_FORRETRESS.categoryName","kind":"dex_category","en":"BAGWORM","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DUNSPARCE.categoryName","kind":"dex_category","en":"LAND SNAKE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GLIGAR.categoryName","kind":"dex_category","en":"FLYSCORPION","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_STEELIX.categoryName","kind":"dex_category","en":"IRON SNAKE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SNUBBULL.categoryName","kind":"dex_category","en":"FAIRY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GRANBULL.categoryName","kind":"dex_category","en":"FAIRY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_QWILFISH.categoryName","kind":"dex_category","en":"BALLOON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SCIZOR.categoryName","kind":"dex_category","en":"PINCER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SHUCKLE.categoryName","kind":"dex_category","en":"MOLD","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HERACROSS.categoryName","kind":"dex_category","en":"SINGLE HORN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SNEASEL.categoryName","kind":"dex_category","en":"SHARP CLAW","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TEDDIURSA.categoryName","kind":"dex_category","en":"LITTLE BEAR","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_URSARING.categoryName","kind":"dex_category","en":"HIBERNATOR","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SLUGMA.categoryName","kind":"dex_category","en":"LAVA","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MAGCARGO.categoryName","kind":"dex_category","en":"LAVA","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SWINUB.categoryName","kind":"dex_category","en":"PIG","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PILOSWINE.categoryName","kind":"dex_category","en":"SWINE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CORSOLA.categoryName","kind":"dex_category","en":"CORAL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_REMORAID.categoryName","kind":"dex_category","en":"JET","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_OCTILLERY.categoryName","kind":"dex_category","en":"JET","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DELIBIRD.categoryName","kind":"dex_category","en":"DELIVERY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MANTINE.categoryName","kind":"dex_category","en":"KITE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SKARMORY.categoryName","kind":"dex_category","en":"ARMOR BIRD","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HOUNDOUR.categoryName","kind":"dex_category","en":"DARK","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HOUNDOOM.categoryName","kind":"dex_category","en":"DARK","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_KINGDRA.categoryName","kind":"dex_category","en":"DRAGON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PHANPY.categoryName","kind":"dex_category","en":"LONG NOSE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DONPHAN.categoryName","kind":"dex_category","en":"ARMOR","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PORYGON2.categoryName","kind":"dex_category","en":"VIRTUAL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_STANTLER.categoryName","kind":"dex_category","en":"BIG HORN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SMEARGLE.categoryName","kind":"dex_category","en":"PAINTER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TYROGUE.categoryName","kind":"dex_category","en":"SCUFFLE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HITMONTOP.categoryName","kind":"dex_category","en":"HANDSTAND","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SMOOCHUM.categoryName","kind":"dex_category","en":"KISS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ELEKID.categoryName","kind":"dex_category","en":"ELECTRIC","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MAGBY.categoryName","kind":"dex_category","en":"LIVE COAL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MILTANK.categoryName","kind":"dex_category","en":"MILK COW","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BLISSEY.categoryName","kind":"dex_category","en":"HAPPINESS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_RAIKOU.categoryName","kind":"dex_category","en":"THUNDER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ENTEI.categoryName","kind":"dex_category","en":"VOLCANO","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SUICUNE.categoryName","kind":"dex_category","en":"AURORA","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LARVITAR.categoryName","kind":"dex_category","en":"ROCK SKIN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PUPITAR.categoryName","kind":"dex_category","en":"HARD SHELL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TYRANITAR.categoryName","kind":"dex_category","en":"ARMOR","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LUGIA.categoryName","kind":"dex_category","en":"DIVING","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HO_OH.categoryName","kind":"dex_category","en":"RAINBOW","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CELEBI.categoryName","kind":"dex_category","en":"TIME TRAVEL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TREECKO.categoryName","kind":"dex_category","en":"WOOD GECKO","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GROVYLE.categoryName","kind":"dex_category","en":"WOOD GECKO","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SCEPTILE.categoryName","kind":"dex_category","en":"FOREST","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TORCHIC.categoryName","kind":"dex_category","en":"CHICK","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_COMBUSKEN.categoryName","kind":"dex_category","en":"YOUNG FOWL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BLAZIKEN.categoryName","kind":"dex_category","en":"BLAZE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MUDKIP.categoryName","kind":"dex_category","en":"MUD FISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MARSHTOMP.categoryName","kind":"dex_category","en":"MUD FISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SWAMPERT.categoryName","kind":"dex_category","en":"MUD FISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_POOCHYENA.categoryName","kind":"dex_category","en":"BITE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MIGHTYENA.categoryName","kind":"dex_category","en":"BITE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ZIGZAGOON.categoryName","kind":"dex_category","en":"TINYRACCOON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LINOONE.categoryName","kind":"dex_category","en":"RUSHING","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WURMPLE.categoryName","kind":"dex_category","en":"WORM","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SILCOON.categoryName","kind":"dex_category","en":"COCOON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BEAUTIFLY.categoryName","kind":"dex_category","en":"BUTTERFLY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CASCOON.categoryName","kind":"dex_category","en":"COCOON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DUSTOX.categoryName","kind":"dex_category","en":"POISON MOTH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LOTAD.categoryName","kind":"dex_category","en":"WATER WEED","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LOMBRE.categoryName","kind":"dex_category","en":"JOLLY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LUDICOLO.categoryName","kind":"dex_category","en":"CAREFREE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SEEDOT.categoryName","kind":"dex_category","en":"ACORN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NUZLEAF.categoryName","kind":"dex_category","en":"WILY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SHIFTRY.categoryName","kind":"dex_category","en":"WICKED","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TAILLOW.categoryName","kind":"dex_category","en":"TINYSWALLOW","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SWELLOW.categoryName","kind":"dex_category","en":"SWALLOW","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WINGULL.categoryName","kind":"dex_category","en":"SEAGULL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PELIPPER.categoryName","kind":"dex_category","en":"WATER BIRD","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_RALTS.categoryName","kind":"dex_category","en":"FEELING","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_KIRLIA.categoryName","kind":"dex_category","en":"EMOTION","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GARDEVOIR.categoryName","kind":"dex_category","en":"EMBRACE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SURSKIT.categoryName","kind":"dex_category","en":"POND SKATER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MASQUERAIN.categoryName","kind":"dex_category","en":"EYEBALL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SHROOMISH.categoryName","kind":"dex_category","en":"MUSHROOM","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BRELOOM.categoryName","kind":"dex_category","en":"MUSHROOM","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SLAKOTH.categoryName","kind":"dex_category","en":"SLACKER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_VIGOROTH.categoryName","kind":"dex_category","en":"WILD MONKEY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SLAKING.categoryName","kind":"dex_category","en":"LAZY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NINCADA.categoryName","kind":"dex_category","en":"TRAINEE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NINJASK.categoryName","kind":"dex_category","en":"NINJA","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SHEDINJA.categoryName","kind":"dex_category","en":"SHED","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WHISMUR.categoryName","kind":"dex_category","en":"WHISPER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LOUDRED.categoryName","kind":"dex_category","en":"BIG VOICE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_EXPLOUD.categoryName","kind":"dex_category","en":"LOUD NOISE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MAKUHITA.categoryName","kind":"dex_category","en":"GUTS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HARIYAMA.categoryName","kind":"dex_category","en":"ARM THRUST","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_AZURILL.categoryName","kind":"dex_category","en":"POLKA DOT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NOSEPASS.categoryName","kind":"dex_category","en":"COMPASS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SKITTY.categoryName","kind":"dex_category","en":"KITTEN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DELCATTY.categoryName","kind":"dex_category","en":"PRIM","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SABLEYE.categoryName","kind":"dex_category","en":"DARKNESS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MAWILE.categoryName","kind":"dex_category","en":"DECEIVER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ARON.categoryName","kind":"dex_category","en":"IRON ARMOR","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LAIRON.categoryName","kind":"dex_category","en":"IRON ARMOR","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_AGGRON.categoryName","kind":"dex_category","en":"IRON ARMOR","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MEDITITE.categoryName","kind":"dex_category","en":"MEDITATE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MEDICHAM.categoryName","kind":"dex_category","en":"MEDITATE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ELECTRIKE.categoryName","kind":"dex_category","en":"LIGHTNING","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MANECTRIC.categoryName","kind":"dex_category","en":"DISCHARGE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_PLUSLE.categoryName","kind":"dex_category","en":"CHEERING","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MINUN.categoryName","kind":"dex_category","en":"CHEERING","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_VOLBEAT.categoryName","kind":"dex_category","en":"FIREFLY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ILLUMISE.categoryName","kind":"dex_category","en":"FIREFLY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ROSELIA.categoryName","kind":"dex_category","en":"THORN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GULPIN.categoryName","kind":"dex_category","en":"STOMACH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SWALOT.categoryName","kind":"dex_category","en":"POISON BAG","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CARVANHA.categoryName","kind":"dex_category","en":"SAVAGE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SHARPEDO.categoryName","kind":"dex_category","en":"BRUTAL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WAILMER.categoryName","kind":"dex_category","en":"BALL WHALE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WAILORD.categoryName","kind":"dex_category","en":"FLOAT WHALE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_NUMEL.categoryName","kind":"dex_category","en":"NUMB","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CAMERUPT.categoryName","kind":"dex_category","en":"ERUPTION","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TORKOAL.categoryName","kind":"dex_category","en":"COAL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SPOINK.categoryName","kind":"dex_category","en":"BOUNCE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GRUMPIG.categoryName","kind":"dex_category","en":"MANIPULATE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SPINDA.categoryName","kind":"dex_category","en":"SPOT PANDA","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TRAPINCH.categoryName","kind":"dex_category","en":"ANT PIT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_VIBRAVA.categoryName","kind":"dex_category","en":"VIBRATION","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_FLYGON.categoryName","kind":"dex_category","en":"MYSTIC","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CACNEA.categoryName","kind":"dex_category","en":"CACTUS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CACTURNE.categoryName","kind":"dex_category","en":"SCARECROW","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SWABLU.categoryName","kind":"dex_category","en":"COTTON BIRD","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ALTARIA.categoryName","kind":"dex_category","en":"HUMMING","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ZANGOOSE.categoryName","kind":"dex_category","en":"CAT FERRET","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SEVIPER.categoryName","kind":"dex_category","en":"FANG SNAKE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LUNATONE.categoryName","kind":"dex_category","en":"METEORITE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SOLROCK.categoryName","kind":"dex_category","en":"METEORITE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BARBOACH.categoryName","kind":"dex_category","en":"WHISKERS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WHISCASH.categoryName","kind":"dex_category","en":"WHISKERS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CORPHISH.categoryName","kind":"dex_category","en":"RUFFIAN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CRAWDAUNT.categoryName","kind":"dex_category","en":"ROGUE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BALTOY.categoryName","kind":"dex_category","en":"CLAY DOLL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CLAYDOL.categoryName","kind":"dex_category","en":"CLAY DOLL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LILEEP.categoryName","kind":"dex_category","en":"SEA LILY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CRADILY.categoryName","kind":"dex_category","en":"BARNACLE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ANORITH.categoryName","kind":"dex_category","en":"OLD SHRIMP","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ARMALDO.categoryName","kind":"dex_category","en":"PLATE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_FEEBAS.categoryName","kind":"dex_category","en":"FISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_MILOTIC.categoryName","kind":"dex_category","en":"TENDER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CASTFORM.categoryName","kind":"dex_category","en":"WEATHER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_KECLEON.categoryName","kind":"dex_category","en":"COLOR SWAP","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SHUPPET.categoryName","kind":"dex_category","en":"PUPPET","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BANETTE.categoryName","kind":"dex_category","en":"MARIONETTE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DUSKULL.categoryName","kind":"dex_category","en":"REQUIEM","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DUSCLOPS.categoryName","kind":"dex_category","en":"BECKON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_TROPIUS.categoryName","kind":"dex_category","en":"FRUIT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CHIMECHO.categoryName","kind":"dex_category","en":"WIND CHIME","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_ABSOL.categoryName","kind":"dex_category","en":"DISASTER","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WYNAUT.categoryName","kind":"dex_category","en":"BRIGHT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SNORUNT.categoryName","kind":"dex_category","en":"SNOW HAT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GLALIE.categoryName","kind":"dex_category","en":"FACE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SPHEAL.categoryName","kind":"dex_category","en":"CLAP","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SEALEO.categoryName","kind":"dex_category","en":"BALL ROLL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_WALREIN.categoryName","kind":"dex_category","en":"ICE BREAK","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_CLAMPERL.categoryName","kind":"dex_category","en":"BIVALVE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_HUNTAIL.categoryName","kind":"dex_category","en":"DEEP SEA","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GOREBYSS.categoryName","kind":"dex_category","en":"SOUTH SEA","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_RELICANTH.categoryName","kind":"dex_category","en":"LONGEVITY","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LUVDISC.categoryName","kind":"dex_category","en":"RENDEZVOUS","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BAGON.categoryName","kind":"dex_category","en":"ROCK HEAD","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SHELGON.categoryName","kind":"dex_category","en":"ENDURANCE","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_SALAMENCE.categoryName","kind":"dex_category","en":"DRAGON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_BELDUM.categoryName","kind":"dex_category","en":"IRON BALL","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_METANG.categoryName","kind":"dex_category","en":"IRON CLAW","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_METAGROSS.categoryName","kind":"dex_category","en":"IRON LEG","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_REGIROCK.categoryName","kind":"dex_category","en":"ROCK PEAK","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_REGICE.categoryName","kind":"dex_category","en":"ICEBERG","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_REGISTEEL.categoryName","kind":"dex_category","en":"IRON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LATIAS.categoryName","kind":"dex_category","en":"EON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_LATIOS.categoryName","kind":"dex_category","en":"EON","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_KYOGRE.categoryName","kind":"dex_category","en":"SEA BASIN","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_GROUDON.categoryName","kind":"dex_category","en":"CONTINENT","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_RAYQUAZA.categoryName","kind":"dex_category","en":"SKY HIGH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_JIRACHI.categoryName","kind":"dex_category","en":"WISH","maxBytes":11}
+{"id":"src/data/pokemon/pokedex_entries.h#NATIONAL_DEX_DEOXYS.categoryName","kind":"dex_category","en":"DNA","maxBytes":11}
+{"id":"src/data/text/species_names.h#SPECIES_BULBASAUR","kind":"species","en":"BULBASAUR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_IVYSAUR","kind":"species","en":"IVYSAUR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_VENUSAUR","kind":"species","en":"VENUSAUR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CHARMANDER","kind":"species","en":"CHARMANDER","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CHARMELEON","kind":"species","en":"CHARMELEON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CHARIZARD","kind":"species","en":"CHARIZARD","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SQUIRTLE","kind":"species","en":"SQUIRTLE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WARTORTLE","kind":"species","en":"WARTORTLE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BLASTOISE","kind":"species","en":"BLASTOISE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CATERPIE","kind":"species","en":"CATERPIE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_METAPOD","kind":"species","en":"METAPOD","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BUTTERFREE","kind":"species","en":"BUTTERFREE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WEEDLE","kind":"species","en":"WEEDLE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_KAKUNA","kind":"species","en":"KAKUNA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BEEDRILL","kind":"species","en":"BEEDRILL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PIDGEY","kind":"species","en":"PIDGEY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PIDGEOTTO","kind":"species","en":"PIDGEOTTO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PIDGEOT","kind":"species","en":"PIDGEOT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_RATTATA","kind":"species","en":"RATTATA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_RATICATE","kind":"species","en":"RATICATE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SPEAROW","kind":"species","en":"SPEAROW","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_FEAROW","kind":"species","en":"FEAROW","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_EKANS","kind":"species","en":"EKANS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ARBOK","kind":"species","en":"ARBOK","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PIKACHU","kind":"species","en":"PIKACHU","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_RAICHU","kind":"species","en":"RAICHU","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SANDSHREW","kind":"species","en":"SANDSHREW","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SANDSLASH","kind":"species","en":"SANDSLASH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NIDORAN_F","kind":"species","en":"NIDORAN♀","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NIDORINA","kind":"species","en":"NIDORINA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NIDOQUEEN","kind":"species","en":"NIDOQUEEN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NIDORAN_M","kind":"species","en":"NIDORAN♂","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NIDORINO","kind":"species","en":"NIDORINO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NIDOKING","kind":"species","en":"NIDOKING","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CLEFAIRY","kind":"species","en":"CLEFAIRY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CLEFABLE","kind":"species","en":"CLEFABLE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_VULPIX","kind":"species","en":"VULPIX","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NINETALES","kind":"species","en":"NINETALES","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_JIGGLYPUFF","kind":"species","en":"JIGGLYPUFF","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WIGGLYTUFF","kind":"species","en":"WIGGLYTUFF","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ZUBAT","kind":"species","en":"ZUBAT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GOLBAT","kind":"species","en":"GOLBAT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ODDISH","kind":"species","en":"ODDISH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GLOOM","kind":"species","en":"GLOOM","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_VILEPLUME","kind":"species","en":"VILEPLUME","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PARAS","kind":"species","en":"PARAS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PARASECT","kind":"species","en":"PARASECT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_VENONAT","kind":"species","en":"VENONAT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_VENOMOTH","kind":"species","en":"VENOMOTH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DIGLETT","kind":"species","en":"DIGLETT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DUGTRIO","kind":"species","en":"DUGTRIO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MEOWTH","kind":"species","en":"MEOWTH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PERSIAN","kind":"species","en":"PERSIAN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PSYDUCK","kind":"species","en":"PSYDUCK","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GOLDUCK","kind":"species","en":"GOLDUCK","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MANKEY","kind":"species","en":"MANKEY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PRIMEAPE","kind":"species","en":"PRIMEAPE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GROWLITHE","kind":"species","en":"GROWLITHE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ARCANINE","kind":"species","en":"ARCANINE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_POLIWAG","kind":"species","en":"POLIWAG","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_POLIWHIRL","kind":"species","en":"POLIWHIRL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_POLIWRATH","kind":"species","en":"POLIWRATH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ABRA","kind":"species","en":"ABRA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_KADABRA","kind":"species","en":"KADABRA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ALAKAZAM","kind":"species","en":"ALAKAZAM","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MACHOP","kind":"species","en":"MACHOP","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MACHOKE","kind":"species","en":"MACHOKE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MACHAMP","kind":"species","en":"MACHAMP","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BELLSPROUT","kind":"species","en":"BELLSPROUT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WEEPINBELL","kind":"species","en":"WEEPINBELL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_VICTREEBEL","kind":"species","en":"VICTREEBEL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TENTACOOL","kind":"species","en":"TENTACOOL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TENTACRUEL","kind":"species","en":"TENTACRUEL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GEODUDE","kind":"species","en":"GEODUDE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GRAVELER","kind":"species","en":"GRAVELER","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GOLEM","kind":"species","en":"GOLEM","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PONYTA","kind":"species","en":"PONYTA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_RAPIDASH","kind":"species","en":"RAPIDASH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SLOWPOKE","kind":"species","en":"SLOWPOKE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SLOWBRO","kind":"species","en":"SLOWBRO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MAGNEMITE","kind":"species","en":"MAGNEMITE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MAGNETON","kind":"species","en":"MAGNETON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_FARFETCHD","kind":"species","en":"FARFETCH'D","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DODUO","kind":"species","en":"DODUO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DODRIO","kind":"species","en":"DODRIO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SEEL","kind":"species","en":"SEEL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DEWGONG","kind":"species","en":"DEWGONG","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GRIMER","kind":"species","en":"GRIMER","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MUK","kind":"species","en":"MUK","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SHELLDER","kind":"species","en":"SHELLDER","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CLOYSTER","kind":"species","en":"CLOYSTER","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GASTLY","kind":"species","en":"GASTLY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HAUNTER","kind":"species","en":"HAUNTER","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GENGAR","kind":"species","en":"GENGAR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ONIX","kind":"species","en":"ONIX","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DROWZEE","kind":"species","en":"DROWZEE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HYPNO","kind":"species","en":"HYPNO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_KRABBY","kind":"species","en":"KRABBY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_KINGLER","kind":"species","en":"KINGLER","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_VOLTORB","kind":"species","en":"VOLTORB","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ELECTRODE","kind":"species","en":"ELECTRODE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_EXEGGCUTE","kind":"species","en":"EXEGGCUTE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_EXEGGUTOR","kind":"species","en":"EXEGGUTOR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CUBONE","kind":"species","en":"CUBONE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MAROWAK","kind":"species","en":"MAROWAK","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HITMONLEE","kind":"species","en":"HITMONLEE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HITMONCHAN","kind":"species","en":"HITMONCHAN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LICKITUNG","kind":"species","en":"LICKITUNG","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_KOFFING","kind":"species","en":"KOFFING","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WEEZING","kind":"species","en":"WEEZING","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_RHYHORN","kind":"species","en":"RHYHORN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_RHYDON","kind":"species","en":"RHYDON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CHANSEY","kind":"species","en":"CHANSEY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TANGELA","kind":"species","en":"TANGELA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_KANGASKHAN","kind":"species","en":"KANGASKHAN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HORSEA","kind":"species","en":"HORSEA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SEADRA","kind":"species","en":"SEADRA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GOLDEEN","kind":"species","en":"GOLDEEN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SEAKING","kind":"species","en":"SEAKING","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_STARYU","kind":"species","en":"STARYU","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_STARMIE","kind":"species","en":"STARMIE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MR_MIME","kind":"species","en":"MR. MIME","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SCYTHER","kind":"species","en":"SCYTHER","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_JYNX","kind":"species","en":"JYNX","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ELECTABUZZ","kind":"species","en":"ELECTABUZZ","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MAGMAR","kind":"species","en":"MAGMAR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PINSIR","kind":"species","en":"PINSIR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TAUROS","kind":"species","en":"TAUROS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MAGIKARP","kind":"species","en":"MAGIKARP","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GYARADOS","kind":"species","en":"GYARADOS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LAPRAS","kind":"species","en":"LAPRAS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DITTO","kind":"species","en":"DITTO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_EEVEE","kind":"species","en":"EEVEE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_VAPOREON","kind":"species","en":"VAPOREON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_JOLTEON","kind":"species","en":"JOLTEON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_FLAREON","kind":"species","en":"FLAREON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PORYGON","kind":"species","en":"PORYGON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_OMANYTE","kind":"species","en":"OMANYTE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_OMASTAR","kind":"species","en":"OMASTAR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_KABUTO","kind":"species","en":"KABUTO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_KABUTOPS","kind":"species","en":"KABUTOPS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_AERODACTYL","kind":"species","en":"AERODACTYL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SNORLAX","kind":"species","en":"SNORLAX","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ARTICUNO","kind":"species","en":"ARTICUNO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ZAPDOS","kind":"species","en":"ZAPDOS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MOLTRES","kind":"species","en":"MOLTRES","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DRATINI","kind":"species","en":"DRATINI","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DRAGONAIR","kind":"species","en":"DRAGONAIR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DRAGONITE","kind":"species","en":"DRAGONITE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MEWTWO","kind":"species","en":"MEWTWO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MEW","kind":"species","en":"MEW","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CHIKORITA","kind":"species","en":"CHIKORITA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BAYLEEF","kind":"species","en":"BAYLEEF","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MEGANIUM","kind":"species","en":"MEGANIUM","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CYNDAQUIL","kind":"species","en":"CYNDAQUIL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_QUILAVA","kind":"species","en":"QUILAVA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TYPHLOSION","kind":"species","en":"TYPHLOSION","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TOTODILE","kind":"species","en":"TOTODILE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CROCONAW","kind":"species","en":"CROCONAW","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_FERALIGATR","kind":"species","en":"FERALIGATR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SENTRET","kind":"species","en":"SENTRET","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_FURRET","kind":"species","en":"FURRET","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HOOTHOOT","kind":"species","en":"HOOTHOOT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NOCTOWL","kind":"species","en":"NOCTOWL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LEDYBA","kind":"species","en":"LEDYBA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LEDIAN","kind":"species","en":"LEDIAN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SPINARAK","kind":"species","en":"SPINARAK","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ARIADOS","kind":"species","en":"ARIADOS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CROBAT","kind":"species","en":"CROBAT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CHINCHOU","kind":"species","en":"CHINCHOU","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LANTURN","kind":"species","en":"LANTURN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PICHU","kind":"species","en":"PICHU","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CLEFFA","kind":"species","en":"CLEFFA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_IGGLYBUFF","kind":"species","en":"IGGLYBUFF","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TOGEPI","kind":"species","en":"TOGEPI","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TOGETIC","kind":"species","en":"TOGETIC","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NATU","kind":"species","en":"NATU","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_XATU","kind":"species","en":"XATU","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MAREEP","kind":"species","en":"MAREEP","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_FLAAFFY","kind":"species","en":"FLAAFFY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_AMPHAROS","kind":"species","en":"AMPHAROS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BELLOSSOM","kind":"species","en":"BELLOSSOM","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MARILL","kind":"species","en":"MARILL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_AZUMARILL","kind":"species","en":"AZUMARILL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SUDOWOODO","kind":"species","en":"SUDOWOODO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_POLITOED","kind":"species","en":"POLITOED","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HOPPIP","kind":"species","en":"HOPPIP","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SKIPLOOM","kind":"species","en":"SKIPLOOM","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_JUMPLUFF","kind":"species","en":"JUMPLUFF","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_AIPOM","kind":"species","en":"AIPOM","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SUNKERN","kind":"species","en":"SUNKERN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SUNFLORA","kind":"species","en":"SUNFLORA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_YANMA","kind":"species","en":"YANMA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WOOPER","kind":"species","en":"WOOPER","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_QUAGSIRE","kind":"species","en":"QUAGSIRE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ESPEON","kind":"species","en":"ESPEON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_UMBREON","kind":"species","en":"UMBREON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MURKROW","kind":"species","en":"MURKROW","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SLOWKING","kind":"species","en":"SLOWKING","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MISDREAVUS","kind":"species","en":"MISDREAVUS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_UNOWN","kind":"species","en":"UNOWN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WOBBUFFET","kind":"species","en":"WOBBUFFET","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GIRAFARIG","kind":"species","en":"GIRAFARIG","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PINECO","kind":"species","en":"PINECO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_FORRETRESS","kind":"species","en":"FORRETRESS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DUNSPARCE","kind":"species","en":"DUNSPARCE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GLIGAR","kind":"species","en":"GLIGAR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_STEELIX","kind":"species","en":"STEELIX","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SNUBBULL","kind":"species","en":"SNUBBULL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GRANBULL","kind":"species","en":"GRANBULL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_QWILFISH","kind":"species","en":"QWILFISH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SCIZOR","kind":"species","en":"SCIZOR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SHUCKLE","kind":"species","en":"SHUCKLE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HERACROSS","kind":"species","en":"HERACROSS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SNEASEL","kind":"species","en":"SNEASEL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TEDDIURSA","kind":"species","en":"TEDDIURSA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_URSARING","kind":"species","en":"URSARING","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SLUGMA","kind":"species","en":"SLUGMA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MAGCARGO","kind":"species","en":"MAGCARGO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SWINUB","kind":"species","en":"SWINUB","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PILOSWINE","kind":"species","en":"PILOSWINE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CORSOLA","kind":"species","en":"CORSOLA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_REMORAID","kind":"species","en":"REMORAID","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_OCTILLERY","kind":"species","en":"OCTILLERY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DELIBIRD","kind":"species","en":"DELIBIRD","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MANTINE","kind":"species","en":"MANTINE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SKARMORY","kind":"species","en":"SKARMORY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HOUNDOUR","kind":"species","en":"HOUNDOUR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HOUNDOOM","kind":"species","en":"HOUNDOOM","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_KINGDRA","kind":"species","en":"KINGDRA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PHANPY","kind":"species","en":"PHANPY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DONPHAN","kind":"species","en":"DONPHAN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PORYGON2","kind":"species","en":"PORYGON2","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_STANTLER","kind":"species","en":"STANTLER","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SMEARGLE","kind":"species","en":"SMEARGLE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TYROGUE","kind":"species","en":"TYROGUE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HITMONTOP","kind":"species","en":"HITMONTOP","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SMOOCHUM","kind":"species","en":"SMOOCHUM","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ELEKID","kind":"species","en":"ELEKID","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MAGBY","kind":"species","en":"MAGBY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MILTANK","kind":"species","en":"MILTANK","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BLISSEY","kind":"species","en":"BLISSEY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_RAIKOU","kind":"species","en":"RAIKOU","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ENTEI","kind":"species","en":"ENTEI","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SUICUNE","kind":"species","en":"SUICUNE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LARVITAR","kind":"species","en":"LARVITAR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PUPITAR","kind":"species","en":"PUPITAR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TYRANITAR","kind":"species","en":"TYRANITAR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LUGIA","kind":"species","en":"LUGIA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HO_OH","kind":"species","en":"HO-OH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CELEBI","kind":"species","en":"CELEBI","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TREECKO","kind":"species","en":"TREECKO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GROVYLE","kind":"species","en":"GROVYLE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SCEPTILE","kind":"species","en":"SCEPTILE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TORCHIC","kind":"species","en":"TORCHIC","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_COMBUSKEN","kind":"species","en":"COMBUSKEN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BLAZIKEN","kind":"species","en":"BLAZIKEN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MUDKIP","kind":"species","en":"MUDKIP","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MARSHTOMP","kind":"species","en":"MARSHTOMP","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SWAMPERT","kind":"species","en":"SWAMPERT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_POOCHYENA","kind":"species","en":"POOCHYENA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MIGHTYENA","kind":"species","en":"MIGHTYENA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ZIGZAGOON","kind":"species","en":"ZIGZAGOON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LINOONE","kind":"species","en":"LINOONE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WURMPLE","kind":"species","en":"WURMPLE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SILCOON","kind":"species","en":"SILCOON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BEAUTIFLY","kind":"species","en":"BEAUTIFLY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CASCOON","kind":"species","en":"CASCOON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DUSTOX","kind":"species","en":"DUSTOX","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LOTAD","kind":"species","en":"LOTAD","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LOMBRE","kind":"species","en":"LOMBRE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LUDICOLO","kind":"species","en":"LUDICOLO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SEEDOT","kind":"species","en":"SEEDOT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NUZLEAF","kind":"species","en":"NUZLEAF","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SHIFTRY","kind":"species","en":"SHIFTRY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NINCADA","kind":"species","en":"NINCADA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NINJASK","kind":"species","en":"NINJASK","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SHEDINJA","kind":"species","en":"SHEDINJA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TAILLOW","kind":"species","en":"TAILLOW","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SWELLOW","kind":"species","en":"SWELLOW","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SHROOMISH","kind":"species","en":"SHROOMISH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BRELOOM","kind":"species","en":"BRELOOM","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SPINDA","kind":"species","en":"SPINDA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WINGULL","kind":"species","en":"WINGULL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PELIPPER","kind":"species","en":"PELIPPER","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SURSKIT","kind":"species","en":"SURSKIT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MASQUERAIN","kind":"species","en":"MASQUERAIN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WAILMER","kind":"species","en":"WAILMER","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WAILORD","kind":"species","en":"WAILORD","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SKITTY","kind":"species","en":"SKITTY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DELCATTY","kind":"species","en":"DELCATTY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_KECLEON","kind":"species","en":"KECLEON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BALTOY","kind":"species","en":"BALTOY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CLAYDOL","kind":"species","en":"CLAYDOL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NOSEPASS","kind":"species","en":"NOSEPASS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TORKOAL","kind":"species","en":"TORKOAL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SABLEYE","kind":"species","en":"SABLEYE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BARBOACH","kind":"species","en":"BARBOACH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WHISCASH","kind":"species","en":"WHISCASH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LUVDISC","kind":"species","en":"LUVDISC","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CORPHISH","kind":"species","en":"CORPHISH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CRAWDAUNT","kind":"species","en":"CRAWDAUNT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_FEEBAS","kind":"species","en":"FEEBAS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MILOTIC","kind":"species","en":"MILOTIC","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CARVANHA","kind":"species","en":"CARVANHA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SHARPEDO","kind":"species","en":"SHARPEDO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TRAPINCH","kind":"species","en":"TRAPINCH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_VIBRAVA","kind":"species","en":"VIBRAVA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_FLYGON","kind":"species","en":"FLYGON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MAKUHITA","kind":"species","en":"MAKUHITA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HARIYAMA","kind":"species","en":"HARIYAMA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ELECTRIKE","kind":"species","en":"ELECTRIKE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MANECTRIC","kind":"species","en":"MANECTRIC","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_NUMEL","kind":"species","en":"NUMEL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CAMERUPT","kind":"species","en":"CAMERUPT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SPHEAL","kind":"species","en":"SPHEAL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SEALEO","kind":"species","en":"SEALEO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WALREIN","kind":"species","en":"WALREIN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CACNEA","kind":"species","en":"CACNEA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CACTURNE","kind":"species","en":"CACTURNE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SNORUNT","kind":"species","en":"SNORUNT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GLALIE","kind":"species","en":"GLALIE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LUNATONE","kind":"species","en":"LUNATONE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SOLROCK","kind":"species","en":"SOLROCK","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_AZURILL","kind":"species","en":"AZURILL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SPOINK","kind":"species","en":"SPOINK","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GRUMPIG","kind":"species","en":"GRUMPIG","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_PLUSLE","kind":"species","en":"PLUSLE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MINUN","kind":"species","en":"MINUN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MAWILE","kind":"species","en":"MAWILE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MEDITITE","kind":"species","en":"MEDITITE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_MEDICHAM","kind":"species","en":"MEDICHAM","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SWABLU","kind":"species","en":"SWABLU","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ALTARIA","kind":"species","en":"ALTARIA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WYNAUT","kind":"species","en":"WYNAUT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DUSKULL","kind":"species","en":"DUSKULL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DUSCLOPS","kind":"species","en":"DUSCLOPS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ROSELIA","kind":"species","en":"ROSELIA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SLAKOTH","kind":"species","en":"SLAKOTH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_VIGOROTH","kind":"species","en":"VIGOROTH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SLAKING","kind":"species","en":"SLAKING","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GULPIN","kind":"species","en":"GULPIN","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SWALOT","kind":"species","en":"SWALOT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_TROPIUS","kind":"species","en":"TROPIUS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_WHISMUR","kind":"species","en":"WHISMUR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LOUDRED","kind":"species","en":"LOUDRED","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_EXPLOUD","kind":"species","en":"EXPLOUD","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CLAMPERL","kind":"species","en":"CLAMPERL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_HUNTAIL","kind":"species","en":"HUNTAIL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GOREBYSS","kind":"species","en":"GOREBYSS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ABSOL","kind":"species","en":"ABSOL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SHUPPET","kind":"species","en":"SHUPPET","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BANETTE","kind":"species","en":"BANETTE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SEVIPER","kind":"species","en":"SEVIPER","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ZANGOOSE","kind":"species","en":"ZANGOOSE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_RELICANTH","kind":"species","en":"RELICANTH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ARON","kind":"species","en":"ARON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LAIRON","kind":"species","en":"LAIRON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_AGGRON","kind":"species","en":"AGGRON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CASTFORM","kind":"species","en":"CASTFORM","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_VOLBEAT","kind":"species","en":"VOLBEAT","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ILLUMISE","kind":"species","en":"ILLUMISE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LILEEP","kind":"species","en":"LILEEP","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CRADILY","kind":"species","en":"CRADILY","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ANORITH","kind":"species","en":"ANORITH","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_ARMALDO","kind":"species","en":"ARMALDO","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_RALTS","kind":"species","en":"RALTS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_KIRLIA","kind":"species","en":"KIRLIA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GARDEVOIR","kind":"species","en":"GARDEVOIR","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BAGON","kind":"species","en":"BAGON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SHELGON","kind":"species","en":"SHELGON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_SALAMENCE","kind":"species","en":"SALAMENCE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_BELDUM","kind":"species","en":"BELDUM","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_METANG","kind":"species","en":"METANG","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_METAGROSS","kind":"species","en":"METAGROSS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_REGIROCK","kind":"species","en":"REGIROCK","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_REGICE","kind":"species","en":"REGICE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_REGISTEEL","kind":"species","en":"REGISTEEL","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_KYOGRE","kind":"species","en":"KYOGRE","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_GROUDON","kind":"species","en":"GROUDON","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_RAYQUAZA","kind":"species","en":"RAYQUAZA","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LATIAS","kind":"species","en":"LATIAS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_LATIOS","kind":"species","en":"LATIOS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_JIRACHI","kind":"species","en":"JIRACHI","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_DEOXYS","kind":"species","en":"DEOXYS","maxBytes":12}
+{"id":"src/data/text/species_names.h#SPECIES_CHIMECHO","kind":"species","en":"CHIMECHO","maxBytes":12}

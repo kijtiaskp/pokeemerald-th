@@ -1,0 +1,9 @@
+rom/
+agbcc/
+*.gba
+*.log
+tools/vendor/
+tools/qa/command.txt
+tools/qa/status.txt
+tools/qa/shots/
+node_modules/

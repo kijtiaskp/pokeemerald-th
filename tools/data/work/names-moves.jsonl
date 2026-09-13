@@ -1,0 +1,539 @@
+{"id":"src/battle_main.c#TYPE_NORMAL","kind":"type","en":"NORMAL","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_FIGHTING","kind":"type","en":"FIGHT","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_FLYING","kind":"type","en":"FLYING","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_POISON","kind":"type","en":"POISON","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_GROUND","kind":"type","en":"GROUND","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_ROCK","kind":"type","en":"ROCK","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_BUG","kind":"type","en":"BUG","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_GHOST","kind":"type","en":"GHOST","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_STEEL","kind":"type","en":"STEEL","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_FIRE","kind":"type","en":"FIRE","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_WATER","kind":"type","en":"WATER","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_GRASS","kind":"type","en":"GRASS","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_ELECTRIC","kind":"type","en":"ELECTR","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_PSYCHIC","kind":"type","en":"PSYCHC","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_ICE","kind":"type","en":"ICE","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_DRAGON","kind":"type","en":"DRAGON","maxBytes":7}
+{"id":"src/battle_main.c#TYPE_DARK","kind":"type","en":"DARK","maxBytes":7}
+{"id":"src/data/text/abilities.h#ABILITY_STENCH","kind":"ability","en":"STENCH","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_DRIZZLE","kind":"ability","en":"DRIZZLE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_SPEED_BOOST","kind":"ability","en":"SPEED BOOST","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_BATTLE_ARMOR","kind":"ability","en":"BATTLE ARMOR","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_STURDY","kind":"ability","en":"STURDY","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_DAMP","kind":"ability","en":"DAMP","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_LIMBER","kind":"ability","en":"LIMBER","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_SAND_VEIL","kind":"ability","en":"SAND VEIL","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_STATIC","kind":"ability","en":"STATIC","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_VOLT_ABSORB","kind":"ability","en":"VOLT ABSORB","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_WATER_ABSORB","kind":"ability","en":"WATER ABSORB","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_OBLIVIOUS","kind":"ability","en":"OBLIVIOUS","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_CLOUD_NINE","kind":"ability","en":"CLOUD NINE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_COMPOUND_EYES","kind":"ability","en":"COMPOUNDEYES","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_INSOMNIA","kind":"ability","en":"INSOMNIA","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_COLOR_CHANGE","kind":"ability","en":"COLOR CHANGE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_IMMUNITY","kind":"ability","en":"IMMUNITY","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_FLASH_FIRE","kind":"ability","en":"FLASH FIRE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_SHIELD_DUST","kind":"ability","en":"SHIELD DUST","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_OWN_TEMPO","kind":"ability","en":"OWN TEMPO","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_SUCTION_CUPS","kind":"ability","en":"SUCTION CUPS","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_INTIMIDATE","kind":"ability","en":"INTIMIDATE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_SHADOW_TAG","kind":"ability","en":"SHADOW TAG","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_ROUGH_SKIN","kind":"ability","en":"ROUGH SKIN","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_WONDER_GUARD","kind":"ability","en":"WONDER GUARD","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_LEVITATE","kind":"ability","en":"LEVITATE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_EFFECT_SPORE","kind":"ability","en":"EFFECT SPORE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_SYNCHRONIZE","kind":"ability","en":"SYNCHRONIZE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_CLEAR_BODY","kind":"ability","en":"CLEAR BODY","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_NATURAL_CURE","kind":"ability","en":"NATURAL CURE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_LIGHTNING_ROD","kind":"ability","en":"LIGHTNINGROD","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_SERENE_GRACE","kind":"ability","en":"SERENE GRACE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_SWIFT_SWIM","kind":"ability","en":"SWIFT SWIM","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_CHLOROPHYLL","kind":"ability","en":"CHLOROPHYLL","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_ILLUMINATE","kind":"ability","en":"ILLUMINATE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_TRACE","kind":"ability","en":"TRACE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_HUGE_POWER","kind":"ability","en":"HUGE POWER","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_POISON_POINT","kind":"ability","en":"POISON POINT","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_INNER_FOCUS","kind":"ability","en":"INNER FOCUS","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_MAGMA_ARMOR","kind":"ability","en":"MAGMA ARMOR","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_WATER_VEIL","kind":"ability","en":"WATER VEIL","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_MAGNET_PULL","kind":"ability","en":"MAGNET PULL","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_SOUNDPROOF","kind":"ability","en":"SOUNDPROOF","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_RAIN_DISH","kind":"ability","en":"RAIN DISH","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_SAND_STREAM","kind":"ability","en":"SAND STREAM","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_PRESSURE","kind":"ability","en":"PRESSURE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_THICK_FAT","kind":"ability","en":"THICK FAT","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_EARLY_BIRD","kind":"ability","en":"EARLY BIRD","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_FLAME_BODY","kind":"ability","en":"FLAME BODY","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_RUN_AWAY","kind":"ability","en":"RUN AWAY","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_KEEN_EYE","kind":"ability","en":"KEEN EYE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_HYPER_CUTTER","kind":"ability","en":"HYPER CUTTER","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_PICKUP","kind":"ability","en":"PICKUP","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_TRUANT","kind":"ability","en":"TRUANT","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_HUSTLE","kind":"ability","en":"HUSTLE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_CUTE_CHARM","kind":"ability","en":"CUTE CHARM","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_PLUS","kind":"ability","en":"PLUS","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_MINUS","kind":"ability","en":"MINUS","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_FORECAST","kind":"ability","en":"FORECAST","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_STICKY_HOLD","kind":"ability","en":"STICKY HOLD","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_SHED_SKIN","kind":"ability","en":"SHED SKIN","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_GUTS","kind":"ability","en":"GUTS","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_MARVEL_SCALE","kind":"ability","en":"MARVEL SCALE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_LIQUID_OOZE","kind":"ability","en":"LIQUID OOZE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_OVERGROW","kind":"ability","en":"OVERGROW","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_BLAZE","kind":"ability","en":"BLAZE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_TORRENT","kind":"ability","en":"TORRENT","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_SWARM","kind":"ability","en":"SWARM","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_ROCK_HEAD","kind":"ability","en":"ROCK HEAD","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_DROUGHT","kind":"ability","en":"DROUGHT","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_ARENA_TRAP","kind":"ability","en":"ARENA TRAP","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_VITAL_SPIRIT","kind":"ability","en":"VITAL SPIRIT","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_WHITE_SMOKE","kind":"ability","en":"WHITE SMOKE","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_PURE_POWER","kind":"ability","en":"PURE POWER","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_SHELL_ARMOR","kind":"ability","en":"SHELL ARMOR","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_CACOPHONY","kind":"ability","en":"CACOPHONY","maxBytes":12}
+{"id":"src/data/text/abilities.h#ABILITY_AIR_LOCK","kind":"ability","en":"AIR LOCK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_POUND","kind":"move","en":"POUND","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_KARATE_CHOP","kind":"move","en":"KARATE CHOP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DOUBLE_SLAP","kind":"move","en":"DOUBLESLAP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_COMET_PUNCH","kind":"move","en":"COMET PUNCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MEGA_PUNCH","kind":"move","en":"MEGA PUNCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PAY_DAY","kind":"move","en":"PAY DAY","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FIRE_PUNCH","kind":"move","en":"FIRE PUNCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ICE_PUNCH","kind":"move","en":"ICE PUNCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_THUNDER_PUNCH","kind":"move","en":"THUNDERPUNCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SCRATCH","kind":"move","en":"SCRATCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_VICE_GRIP","kind":"move","en":"VICEGRIP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_GUILLOTINE","kind":"move","en":"GUILLOTINE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_RAZOR_WIND","kind":"move","en":"RAZOR WIND","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SWORDS_DANCE","kind":"move","en":"SWORDS DANCE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CUT","kind":"move","en":"CUT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_GUST","kind":"move","en":"GUST","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_WING_ATTACK","kind":"move","en":"WING ATTACK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_WHIRLWIND","kind":"move","en":"WHIRLWIND","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FLY","kind":"move","en":"FLY","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BIND","kind":"move","en":"BIND","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SLAM","kind":"move","en":"SLAM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_VINE_WHIP","kind":"move","en":"VINE WHIP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_STOMP","kind":"move","en":"STOMP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DOUBLE_KICK","kind":"move","en":"DOUBLE KICK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MEGA_KICK","kind":"move","en":"MEGA KICK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_JUMP_KICK","kind":"move","en":"JUMP KICK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ROLLING_KICK","kind":"move","en":"ROLLING KICK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SAND_ATTACK","kind":"move","en":"SAND-ATTACK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HEADBUTT","kind":"move","en":"HEADBUTT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HORN_ATTACK","kind":"move","en":"HORN ATTACK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FURY_ATTACK","kind":"move","en":"FURY ATTACK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HORN_DRILL","kind":"move","en":"HORN DRILL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TACKLE","kind":"move","en":"TACKLE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BODY_SLAM","kind":"move","en":"BODY SLAM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_WRAP","kind":"move","en":"WRAP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TAKE_DOWN","kind":"move","en":"TAKE DOWN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_THRASH","kind":"move","en":"THRASH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DOUBLE_EDGE","kind":"move","en":"DOUBLE-EDGE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TAIL_WHIP","kind":"move","en":"TAIL WHIP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_POISON_STING","kind":"move","en":"POISON STING","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TWINEEDLE","kind":"move","en":"TWINEEDLE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PIN_MISSILE","kind":"move","en":"PIN MISSILE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_LEER","kind":"move","en":"LEER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BITE","kind":"move","en":"BITE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_GROWL","kind":"move","en":"GROWL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ROAR","kind":"move","en":"ROAR","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SING","kind":"move","en":"SING","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SUPERSONIC","kind":"move","en":"SUPERSONIC","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SONIC_BOOM","kind":"move","en":"SONICBOOM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DISABLE","kind":"move","en":"DISABLE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ACID","kind":"move","en":"ACID","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_EMBER","kind":"move","en":"EMBER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FLAMETHROWER","kind":"move","en":"FLAMETHROWER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MIST","kind":"move","en":"MIST","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_WATER_GUN","kind":"move","en":"WATER GUN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HYDRO_PUMP","kind":"move","en":"HYDRO PUMP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SURF","kind":"move","en":"SURF","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ICE_BEAM","kind":"move","en":"ICE BEAM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BLIZZARD","kind":"move","en":"BLIZZARD","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PSYBEAM","kind":"move","en":"PSYBEAM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BUBBLE_BEAM","kind":"move","en":"BUBBLEBEAM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_AURORA_BEAM","kind":"move","en":"AURORA BEAM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HYPER_BEAM","kind":"move","en":"HYPER BEAM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PECK","kind":"move","en":"PECK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DRILL_PECK","kind":"move","en":"DRILL PECK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SUBMISSION","kind":"move","en":"SUBMISSION","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_LOW_KICK","kind":"move","en":"LOW KICK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_COUNTER","kind":"move","en":"COUNTER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SEISMIC_TOSS","kind":"move","en":"SEISMIC TOSS","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_STRENGTH","kind":"move","en":"STRENGTH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ABSORB","kind":"move","en":"ABSORB","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MEGA_DRAIN","kind":"move","en":"MEGA DRAIN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_LEECH_SEED","kind":"move","en":"LEECH SEED","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_GROWTH","kind":"move","en":"GROWTH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_RAZOR_LEAF","kind":"move","en":"RAZOR LEAF","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SOLAR_BEAM","kind":"move","en":"SOLARBEAM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_POISON_POWDER","kind":"move","en":"POISONPOWDER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_STUN_SPORE","kind":"move","en":"STUN SPORE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SLEEP_POWDER","kind":"move","en":"SLEEP POWDER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PETAL_DANCE","kind":"move","en":"PETAL DANCE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_STRING_SHOT","kind":"move","en":"STRING SHOT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DRAGON_RAGE","kind":"move","en":"DRAGON RAGE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FIRE_SPIN","kind":"move","en":"FIRE SPIN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_THUNDER_SHOCK","kind":"move","en":"THUNDERSHOCK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_THUNDERBOLT","kind":"move","en":"THUNDERBOLT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_THUNDER_WAVE","kind":"move","en":"THUNDER WAVE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_THUNDER","kind":"move","en":"THUNDER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ROCK_THROW","kind":"move","en":"ROCK THROW","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_EARTHQUAKE","kind":"move","en":"EARTHQUAKE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FISSURE","kind":"move","en":"FISSURE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DIG","kind":"move","en":"DIG","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TOXIC","kind":"move","en":"TOXIC","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CONFUSION","kind":"move","en":"CONFUSION","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PSYCHIC","kind":"move","en":"PSYCHIC","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HYPNOSIS","kind":"move","en":"HYPNOSIS","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MEDITATE","kind":"move","en":"MEDITATE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_AGILITY","kind":"move","en":"AGILITY","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_QUICK_ATTACK","kind":"move","en":"QUICK ATTACK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_RAGE","kind":"move","en":"RAGE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TELEPORT","kind":"move","en":"TELEPORT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_NIGHT_SHADE","kind":"move","en":"NIGHT SHADE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MIMIC","kind":"move","en":"MIMIC","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SCREECH","kind":"move","en":"SCREECH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DOUBLE_TEAM","kind":"move","en":"DOUBLE TEAM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_RECOVER","kind":"move","en":"RECOVER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HARDEN","kind":"move","en":"HARDEN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MINIMIZE","kind":"move","en":"MINIMIZE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SMOKESCREEN","kind":"move","en":"SMOKESCREEN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CONFUSE_RAY","kind":"move","en":"CONFUSE RAY","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_WITHDRAW","kind":"move","en":"WITHDRAW","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DEFENSE_CURL","kind":"move","en":"DEFENSE CURL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BARRIER","kind":"move","en":"BARRIER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_LIGHT_SCREEN","kind":"move","en":"LIGHT SCREEN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HAZE","kind":"move","en":"HAZE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_REFLECT","kind":"move","en":"REFLECT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FOCUS_ENERGY","kind":"move","en":"FOCUS ENERGY","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BIDE","kind":"move","en":"BIDE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_METRONOME","kind":"move","en":"METRONOME","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MIRROR_MOVE","kind":"move","en":"MIRROR MOVE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SELF_DESTRUCT","kind":"move","en":"SELFDESTRUCT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_EGG_BOMB","kind":"move","en":"EGG BOMB","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_LICK","kind":"move","en":"LICK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SMOG","kind":"move","en":"SMOG","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SLUDGE","kind":"move","en":"SLUDGE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BONE_CLUB","kind":"move","en":"BONE CLUB","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FIRE_BLAST","kind":"move","en":"FIRE BLAST","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_WATERFALL","kind":"move","en":"WATERFALL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CLAMP","kind":"move","en":"CLAMP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SWIFT","kind":"move","en":"SWIFT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SKULL_BASH","kind":"move","en":"SKULL BASH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SPIKE_CANNON","kind":"move","en":"SPIKE CANNON","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CONSTRICT","kind":"move","en":"CONSTRICT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_AMNESIA","kind":"move","en":"AMNESIA","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_KINESIS","kind":"move","en":"KINESIS","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SOFT_BOILED","kind":"move","en":"SOFTBOILED","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HI_JUMP_KICK","kind":"move","en":"HI JUMP KICK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_GLARE","kind":"move","en":"GLARE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DREAM_EATER","kind":"move","en":"DREAM EATER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_POISON_GAS","kind":"move","en":"POISON GAS","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BARRAGE","kind":"move","en":"BARRAGE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_LEECH_LIFE","kind":"move","en":"LEECH LIFE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_LOVELY_KISS","kind":"move","en":"LOVELY KISS","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SKY_ATTACK","kind":"move","en":"SKY ATTACK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TRANSFORM","kind":"move","en":"TRANSFORM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BUBBLE","kind":"move","en":"BUBBLE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DIZZY_PUNCH","kind":"move","en":"DIZZY PUNCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SPORE","kind":"move","en":"SPORE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FLASH","kind":"move","en":"FLASH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PSYWAVE","kind":"move","en":"PSYWAVE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SPLASH","kind":"move","en":"SPLASH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ACID_ARMOR","kind":"move","en":"ACID ARMOR","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CRABHAMMER","kind":"move","en":"CRABHAMMER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_EXPLOSION","kind":"move","en":"EXPLOSION","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FURY_SWIPES","kind":"move","en":"FURY SWIPES","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BONEMERANG","kind":"move","en":"BONEMERANG","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_REST","kind":"move","en":"REST","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ROCK_SLIDE","kind":"move","en":"ROCK SLIDE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HYPER_FANG","kind":"move","en":"HYPER FANG","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SHARPEN","kind":"move","en":"SHARPEN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CONVERSION","kind":"move","en":"CONVERSION","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TRI_ATTACK","kind":"move","en":"TRI ATTACK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SUPER_FANG","kind":"move","en":"SUPER FANG","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SLASH","kind":"move","en":"SLASH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SUBSTITUTE","kind":"move","en":"SUBSTITUTE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_STRUGGLE","kind":"move","en":"STRUGGLE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SKETCH","kind":"move","en":"SKETCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TRIPLE_KICK","kind":"move","en":"TRIPLE KICK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_THIEF","kind":"move","en":"THIEF","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SPIDER_WEB","kind":"move","en":"SPIDER WEB","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MIND_READER","kind":"move","en":"MIND READER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_NIGHTMARE","kind":"move","en":"NIGHTMARE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FLAME_WHEEL","kind":"move","en":"FLAME WHEEL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SNORE","kind":"move","en":"SNORE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CURSE","kind":"move","en":"CURSE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FLAIL","kind":"move","en":"FLAIL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CONVERSION_2","kind":"move","en":"CONVERSION 2","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_AEROBLAST","kind":"move","en":"AEROBLAST","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_COTTON_SPORE","kind":"move","en":"COTTON SPORE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_REVERSAL","kind":"move","en":"REVERSAL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SPITE","kind":"move","en":"SPITE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_POWDER_SNOW","kind":"move","en":"POWDER SNOW","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PROTECT","kind":"move","en":"PROTECT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MACH_PUNCH","kind":"move","en":"MACH PUNCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SCARY_FACE","kind":"move","en":"SCARY FACE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FAINT_ATTACK","kind":"move","en":"FAINT ATTACK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SWEET_KISS","kind":"move","en":"SWEET KISS","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BELLY_DRUM","kind":"move","en":"BELLY DRUM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SLUDGE_BOMB","kind":"move","en":"SLUDGE BOMB","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MUD_SLAP","kind":"move","en":"MUD-SLAP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_OCTAZOOKA","kind":"move","en":"OCTAZOOKA","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SPIKES","kind":"move","en":"SPIKES","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ZAP_CANNON","kind":"move","en":"ZAP CANNON","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FORESIGHT","kind":"move","en":"FORESIGHT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DESTINY_BOND","kind":"move","en":"DESTINY BOND","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PERISH_SONG","kind":"move","en":"PERISH SONG","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ICY_WIND","kind":"move","en":"ICY WIND","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DETECT","kind":"move","en":"DETECT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BONE_RUSH","kind":"move","en":"BONE RUSH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_LOCK_ON","kind":"move","en":"LOCK-ON","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_OUTRAGE","kind":"move","en":"OUTRAGE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SANDSTORM","kind":"move","en":"SANDSTORM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_GIGA_DRAIN","kind":"move","en":"GIGA DRAIN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ENDURE","kind":"move","en":"ENDURE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CHARM","kind":"move","en":"CHARM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ROLLOUT","kind":"move","en":"ROLLOUT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FALSE_SWIPE","kind":"move","en":"FALSE SWIPE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SWAGGER","kind":"move","en":"SWAGGER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MILK_DRINK","kind":"move","en":"MILK DRINK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SPARK","kind":"move","en":"SPARK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FURY_CUTTER","kind":"move","en":"FURY CUTTER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_STEEL_WING","kind":"move","en":"STEEL WING","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MEAN_LOOK","kind":"move","en":"MEAN LOOK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ATTRACT","kind":"move","en":"ATTRACT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SLEEP_TALK","kind":"move","en":"SLEEP TALK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HEAL_BELL","kind":"move","en":"HEAL BELL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_RETURN","kind":"move","en":"RETURN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PRESENT","kind":"move","en":"PRESENT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FRUSTRATION","kind":"move","en":"FRUSTRATION","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SAFEGUARD","kind":"move","en":"SAFEGUARD","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PAIN_SPLIT","kind":"move","en":"PAIN SPLIT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SACRED_FIRE","kind":"move","en":"SACRED FIRE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MAGNITUDE","kind":"move","en":"MAGNITUDE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DYNAMIC_PUNCH","kind":"move","en":"DYNAMICPUNCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MEGAHORN","kind":"move","en":"MEGAHORN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DRAGON_BREATH","kind":"move","en":"DRAGONBREATH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BATON_PASS","kind":"move","en":"BATON PASS","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ENCORE","kind":"move","en":"ENCORE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PURSUIT","kind":"move","en":"PURSUIT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_RAPID_SPIN","kind":"move","en":"RAPID SPIN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SWEET_SCENT","kind":"move","en":"SWEET SCENT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_IRON_TAIL","kind":"move","en":"IRON TAIL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_METAL_CLAW","kind":"move","en":"METAL CLAW","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_VITAL_THROW","kind":"move","en":"VITAL THROW","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MORNING_SUN","kind":"move","en":"MORNING SUN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SYNTHESIS","kind":"move","en":"SYNTHESIS","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MOONLIGHT","kind":"move","en":"MOONLIGHT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HIDDEN_POWER","kind":"move","en":"HIDDEN POWER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CROSS_CHOP","kind":"move","en":"CROSS CHOP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TWISTER","kind":"move","en":"TWISTER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_RAIN_DANCE","kind":"move","en":"RAIN DANCE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SUNNY_DAY","kind":"move","en":"SUNNY DAY","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CRUNCH","kind":"move","en":"CRUNCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MIRROR_COAT","kind":"move","en":"MIRROR COAT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PSYCH_UP","kind":"move","en":"PSYCH UP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_EXTREME_SPEED","kind":"move","en":"EXTREMESPEED","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ANCIENT_POWER","kind":"move","en":"ANCIENTPOWER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SHADOW_BALL","kind":"move","en":"SHADOW BALL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FUTURE_SIGHT","kind":"move","en":"FUTURE SIGHT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ROCK_SMASH","kind":"move","en":"ROCK SMASH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_WHIRLPOOL","kind":"move","en":"WHIRLPOOL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BEAT_UP","kind":"move","en":"BEAT UP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FAKE_OUT","kind":"move","en":"FAKE OUT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_UPROAR","kind":"move","en":"UPROAR","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_STOCKPILE","kind":"move","en":"STOCKPILE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SPIT_UP","kind":"move","en":"SPIT UP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SWALLOW","kind":"move","en":"SWALLOW","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HEAT_WAVE","kind":"move","en":"HEAT WAVE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HAIL","kind":"move","en":"HAIL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TORMENT","kind":"move","en":"TORMENT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FLATTER","kind":"move","en":"FLATTER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_WILL_O_WISP","kind":"move","en":"WILL-O-WISP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MEMENTO","kind":"move","en":"MEMENTO","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FACADE","kind":"move","en":"FACADE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FOCUS_PUNCH","kind":"move","en":"FOCUS PUNCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SMELLING_SALT","kind":"move","en":"SMELLINGSALT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FOLLOW_ME","kind":"move","en":"FOLLOW ME","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_NATURE_POWER","kind":"move","en":"NATURE POWER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CHARGE","kind":"move","en":"CHARGE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TAUNT","kind":"move","en":"TAUNT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HELPING_HAND","kind":"move","en":"HELPING HAND","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TRICK","kind":"move","en":"TRICK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ROLE_PLAY","kind":"move","en":"ROLE PLAY","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_WISH","kind":"move","en":"WISH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ASSIST","kind":"move","en":"ASSIST","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_INGRAIN","kind":"move","en":"INGRAIN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SUPERPOWER","kind":"move","en":"SUPERPOWER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MAGIC_COAT","kind":"move","en":"MAGIC COAT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_RECYCLE","kind":"move","en":"RECYCLE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_REVENGE","kind":"move","en":"REVENGE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BRICK_BREAK","kind":"move","en":"BRICK BREAK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_YAWN","kind":"move","en":"YAWN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_KNOCK_OFF","kind":"move","en":"KNOCK OFF","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ENDEAVOR","kind":"move","en":"ENDEAVOR","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ERUPTION","kind":"move","en":"ERUPTION","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SKILL_SWAP","kind":"move","en":"SKILL SWAP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_IMPRISON","kind":"move","en":"IMPRISON","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_REFRESH","kind":"move","en":"REFRESH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_GRUDGE","kind":"move","en":"GRUDGE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SNATCH","kind":"move","en":"SNATCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SECRET_POWER","kind":"move","en":"SECRET POWER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DIVE","kind":"move","en":"DIVE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ARM_THRUST","kind":"move","en":"ARM THRUST","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CAMOUFLAGE","kind":"move","en":"CAMOUFLAGE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TAIL_GLOW","kind":"move","en":"TAIL GLOW","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_LUSTER_PURGE","kind":"move","en":"LUSTER PURGE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MIST_BALL","kind":"move","en":"MIST BALL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FEATHER_DANCE","kind":"move","en":"FEATHERDANCE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TEETER_DANCE","kind":"move","en":"TEETER DANCE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BLAZE_KICK","kind":"move","en":"BLAZE KICK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MUD_SPORT","kind":"move","en":"MUD SPORT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ICE_BALL","kind":"move","en":"ICE BALL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_NEEDLE_ARM","kind":"move","en":"NEEDLE ARM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SLACK_OFF","kind":"move","en":"SLACK OFF","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HYPER_VOICE","kind":"move","en":"HYPER VOICE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_POISON_FANG","kind":"move","en":"POISON FANG","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CRUSH_CLAW","kind":"move","en":"CRUSH CLAW","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BLAST_BURN","kind":"move","en":"BLAST BURN","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HYDRO_CANNON","kind":"move","en":"HYDRO CANNON","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_METEOR_MASH","kind":"move","en":"METEOR MASH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ASTONISH","kind":"move","en":"ASTONISH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_WEATHER_BALL","kind":"move","en":"WEATHER BALL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_AROMATHERAPY","kind":"move","en":"AROMATHERAPY","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FAKE_TEARS","kind":"move","en":"FAKE TEARS","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_AIR_CUTTER","kind":"move","en":"AIR CUTTER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_OVERHEAT","kind":"move","en":"OVERHEAT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ODOR_SLEUTH","kind":"move","en":"ODOR SLEUTH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ROCK_TOMB","kind":"move","en":"ROCK TOMB","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SILVER_WIND","kind":"move","en":"SILVER WIND","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_METAL_SOUND","kind":"move","en":"METAL SOUND","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_GRASS_WHISTLE","kind":"move","en":"GRASSWHISTLE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_TICKLE","kind":"move","en":"TICKLE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_COSMIC_POWER","kind":"move","en":"COSMIC POWER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_WATER_SPOUT","kind":"move","en":"WATER SPOUT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SIGNAL_BEAM","kind":"move","en":"SIGNAL BEAM","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SHADOW_PUNCH","kind":"move","en":"SHADOW PUNCH","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_EXTRASENSORY","kind":"move","en":"EXTRASENSORY","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SKY_UPPERCUT","kind":"move","en":"SKY UPPERCUT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SAND_TOMB","kind":"move","en":"SAND TOMB","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SHEER_COLD","kind":"move","en":"SHEER COLD","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MUDDY_WATER","kind":"move","en":"MUDDY WATER","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BULLET_SEED","kind":"move","en":"BULLET SEED","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_AERIAL_ACE","kind":"move","en":"AERIAL ACE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ICICLE_SPEAR","kind":"move","en":"ICICLE SPEAR","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_IRON_DEFENSE","kind":"move","en":"IRON DEFENSE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BLOCK","kind":"move","en":"BLOCK","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_HOWL","kind":"move","en":"HOWL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DRAGON_CLAW","kind":"move","en":"DRAGON CLAW","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_FRENZY_PLANT","kind":"move","en":"FRENZY PLANT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BULK_UP","kind":"move","en":"BULK UP","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_BOUNCE","kind":"move","en":"BOUNCE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MUD_SHOT","kind":"move","en":"MUD SHOT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_POISON_TAIL","kind":"move","en":"POISON TAIL","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_COVET","kind":"move","en":"COVET","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_VOLT_TACKLE","kind":"move","en":"VOLT TACKLE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_MAGICAL_LEAF","kind":"move","en":"MAGICAL LEAF","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_WATER_SPORT","kind":"move","en":"WATER SPORT","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_CALM_MIND","kind":"move","en":"CALM MIND","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_LEAF_BLADE","kind":"move","en":"LEAF BLADE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DRAGON_DANCE","kind":"move","en":"DRAGON DANCE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_ROCK_BLAST","kind":"move","en":"ROCK BLAST","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_SHOCK_WAVE","kind":"move","en":"SHOCK WAVE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_WATER_PULSE","kind":"move","en":"WATER PULSE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_DOOM_DESIRE","kind":"move","en":"DOOM DESIRE","maxBytes":12}
+{"id":"src/data/text/move_names.h#MOVE_PSYCHO_BOOST","kind":"move","en":"PSYCHO BOOST","maxBytes":12}
+{"id":"src/data/text/nature_names.h#sHardyNatureName","kind":"nature","en":"HARDY"}
+{"id":"src/data/text/nature_names.h#sLonelyNatureName","kind":"nature","en":"LONELY"}
+{"id":"src/data/text/nature_names.h#sBraveNatureName","kind":"nature","en":"BRAVE"}
+{"id":"src/data/text/nature_names.h#sAdamantNatureName","kind":"nature","en":"ADAMANT"}
+{"id":"src/data/text/nature_names.h#sNaughtyNatureName","kind":"nature","en":"NAUGHTY"}
+{"id":"src/data/text/nature_names.h#sBoldNatureName","kind":"nature","en":"BOLD"}
+{"id":"src/data/text/nature_names.h#sDocileNatureName","kind":"nature","en":"DOCILE"}
+{"id":"src/data/text/nature_names.h#sRelaxedNatureName","kind":"nature","en":"RELAXED"}
+{"id":"src/data/text/nature_names.h#sImpishNatureName","kind":"nature","en":"IMPISH"}
+{"id":"src/data/text/nature_names.h#sLaxNatureName","kind":"nature","en":"LAX"}
+{"id":"src/data/text/nature_names.h#sTimidNatureName","kind":"nature","en":"TIMID"}
+{"id":"src/data/text/nature_names.h#sHastyNatureName","kind":"nature","en":"HASTY"}
+{"id":"src/data/text/nature_names.h#sSeriousNatureName","kind":"nature","en":"SERIOUS"}
+{"id":"src/data/text/nature_names.h#sJollyNatureName","kind":"nature","en":"JOLLY"}
+{"id":"src/data/text/nature_names.h#sNaiveNatureName","kind":"nature","en":"NAIVE"}
+{"id":"src/data/text/nature_names.h#sModestNatureName","kind":"nature","en":"MODEST"}
+{"id":"src/data/text/nature_names.h#sMildNatureName","kind":"nature","en":"MILD"}
+{"id":"src/data/text/nature_names.h#sQuietNatureName","kind":"nature","en":"QUIET"}
+{"id":"src/data/text/nature_names.h#sBashfulNatureName","kind":"nature","en":"BASHFUL"}
+{"id":"src/data/text/nature_names.h#sRashNatureName","kind":"nature","en":"RASH"}
+{"id":"src/data/text/nature_names.h#sCalmNatureName","kind":"nature","en":"CALM"}
+{"id":"src/data/text/nature_names.h#sGentleNatureName","kind":"nature","en":"GENTLE"}
+{"id":"src/data/text/nature_names.h#sSassyNatureName","kind":"nature","en":"SASSY"}
+{"id":"src/data/text/nature_names.h#sCarefulNatureName","kind":"nature","en":"CAREFUL"}
+{"id":"src/data/text/nature_names.h#sQuirkyNatureName","kind":"nature","en":"QUIRKY"}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_PKMN_TRAINER_1","kind":"trainer_class","en":"{PKMN} TRAINER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_PKMN_TRAINER_2","kind":"trainer_class","en":"{PKMN} TRAINER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_HIKER","kind":"trainer_class","en":"HIKER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_TEAM_AQUA","kind":"trainer_class","en":"TEAM AQUA","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_PKMN_BREEDER","kind":"trainer_class","en":"{PKMN} BREEDER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_COOLTRAINER","kind":"trainer_class","en":"COOLTRAINER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_BIRD_KEEPER","kind":"trainer_class","en":"BIRD KEEPER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_COLLECTOR","kind":"trainer_class","en":"COLLECTOR","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_SWIMMER_M","kind":"trainer_class","en":"SWIMMER♂","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_TEAM_MAGMA","kind":"trainer_class","en":"TEAM MAGMA","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_EXPERT","kind":"trainer_class","en":"EXPERT","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_AQUA_ADMIN","kind":"trainer_class","en":"AQUA ADMIN","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_BLACK_BELT","kind":"trainer_class","en":"BLACK BELT","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_AQUA_LEADER","kind":"trainer_class","en":"AQUA LEADER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_HEX_MANIAC","kind":"trainer_class","en":"HEX MANIAC","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_AROMA_LADY","kind":"trainer_class","en":"AROMA LADY","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_RUIN_MANIAC","kind":"trainer_class","en":"RUIN MANIAC","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_INTERVIEWER","kind":"trainer_class","en":"INTERVIEWER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_TUBER_F","kind":"trainer_class","en":"TUBER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_TUBER_M","kind":"trainer_class","en":"TUBER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_LADY","kind":"trainer_class","en":"LADY","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_BEAUTY","kind":"trainer_class","en":"BEAUTY","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_RICH_BOY","kind":"trainer_class","en":"RICH BOY","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_POKEMANIAC","kind":"trainer_class","en":"POKéMANIAC","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_GUITARIST","kind":"trainer_class","en":"GUITARIST","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_KINDLER","kind":"trainer_class","en":"KINDLER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_CAMPER","kind":"trainer_class","en":"CAMPER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_PICNICKER","kind":"trainer_class","en":"PICNICKER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_BUG_MANIAC","kind":"trainer_class","en":"BUG MANIAC","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_PSYCHIC","kind":"trainer_class","en":"PSYCHIC","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_GENTLEMAN","kind":"trainer_class","en":"GENTLEMAN","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_ELITE_FOUR","kind":"trainer_class","en":"ELITE FOUR","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_LEADER","kind":"trainer_class","en":"LEADER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_SCHOOL_KID","kind":"trainer_class","en":"SCHOOL KID","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_SR_AND_JR","kind":"trainer_class","en":"SR. AND JR.","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_WINSTRATE","kind":"trainer_class","en":"WINSTRATE","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_POKEFAN","kind":"trainer_class","en":"POKéFAN","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_YOUNGSTER","kind":"trainer_class","en":"YOUNGSTER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_CHAMPION","kind":"trainer_class","en":"CHAMPION","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_FISHERMAN","kind":"trainer_class","en":"FISHERMAN","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_TRIATHLETE","kind":"trainer_class","en":"TRIATHLETE","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_DRAGON_TAMER","kind":"trainer_class","en":"DRAGON TAMER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_NINJA_BOY","kind":"trainer_class","en":"NINJA BOY","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_BATTLE_GIRL","kind":"trainer_class","en":"BATTLE GIRL","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_PARASOL_LADY","kind":"trainer_class","en":"PARASOL LADY","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_SWIMMER_F","kind":"trainer_class","en":"SWIMMER♀","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_TWINS","kind":"trainer_class","en":"TWINS","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_SAILOR","kind":"trainer_class","en":"SAILOR","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_COOLTRAINER_2","kind":"trainer_class","en":"COOLTRAINER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_MAGMA_ADMIN","kind":"trainer_class","en":"MAGMA ADMIN","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_RIVAL","kind":"trainer_class","en":"{PKMN} TRAINER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_BUG_CATCHER","kind":"trainer_class","en":"BUG CATCHER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_PKMN_RANGER","kind":"trainer_class","en":"{PKMN} RANGER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_MAGMA_LEADER","kind":"trainer_class","en":"MAGMA LEADER","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_LASS","kind":"trainer_class","en":"LASS","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_YOUNG_COUPLE","kind":"trainer_class","en":"YOUNG COUPLE","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_OLD_COUPLE","kind":"trainer_class","en":"OLD COUPLE","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_SIS_AND_BRO","kind":"trainer_class","en":"SIS AND BRO","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_SALON_MAIDEN","kind":"trainer_class","en":"SALON MAIDEN","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_DOME_ACE","kind":"trainer_class","en":"DOME ACE","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_PALACE_MAVEN","kind":"trainer_class","en":"PALACE MAVEN","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_ARENA_TYCOON","kind":"trainer_class","en":"ARENA TYCOON","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_FACTORY_HEAD","kind":"trainer_class","en":"FACTORY HEAD","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_PIKE_QUEEN","kind":"trainer_class","en":"PIKE QUEEN","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_PYRAMID_KING","kind":"trainer_class","en":"PYRAMID KING","maxBytes":12}
+{"id":"src/data/text/trainer_class_names.h#TRAINER_CLASS_RS_PROTAG","kind":"trainer_class","en":"{PKMN} TRAINER","maxBytes":12}

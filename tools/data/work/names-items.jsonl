@@ -1,0 +1,685 @@
+{"id":"src/berry.c#name","kind":"berry","en":"CHERI"}
+{"id":"src/berry.c#name~2","kind":"berry","en":"CHESTO"}
+{"id":"src/berry.c#name~3","kind":"berry","en":"PECHA"}
+{"id":"src/berry.c#name~4","kind":"berry","en":"RAWST"}
+{"id":"src/berry.c#name~5","kind":"berry","en":"ASPEAR"}
+{"id":"src/berry.c#name~6","kind":"berry","en":"LEPPA"}
+{"id":"src/berry.c#name~7","kind":"berry","en":"ORAN"}
+{"id":"src/berry.c#name~8","kind":"berry","en":"PERSIM"}
+{"id":"src/berry.c#name~9","kind":"berry","en":"LUM"}
+{"id":"src/berry.c#name~10","kind":"berry","en":"SITRUS"}
+{"id":"src/berry.c#name~11","kind":"berry","en":"FIGY"}
+{"id":"src/berry.c#name~12","kind":"berry","en":"WIKI"}
+{"id":"src/berry.c#name~13","kind":"berry","en":"MAGO"}
+{"id":"src/berry.c#name~14","kind":"berry","en":"AGUAV"}
+{"id":"src/berry.c#name~15","kind":"berry","en":"IAPAPA"}
+{"id":"src/berry.c#name~16","kind":"berry","en":"RAZZ"}
+{"id":"src/berry.c#name~17","kind":"berry","en":"BLUK"}
+{"id":"src/berry.c#name~18","kind":"berry","en":"NANAB"}
+{"id":"src/berry.c#name~19","kind":"berry","en":"WEPEAR"}
+{"id":"src/berry.c#name~20","kind":"berry","en":"PINAP"}
+{"id":"src/berry.c#name~21","kind":"berry","en":"POMEG"}
+{"id":"src/berry.c#name~22","kind":"berry","en":"KELPSY"}
+{"id":"src/berry.c#name~23","kind":"berry","en":"QUALOT"}
+{"id":"src/berry.c#name~24","kind":"berry","en":"HONDEW"}
+{"id":"src/berry.c#name~25","kind":"berry","en":"GREPA"}
+{"id":"src/berry.c#name~26","kind":"berry","en":"TAMATO"}
+{"id":"src/berry.c#name~27","kind":"berry","en":"CORNN"}
+{"id":"src/berry.c#name~28","kind":"berry","en":"MAGOST"}
+{"id":"src/berry.c#name~29","kind":"berry","en":"RABUTA"}
+{"id":"src/berry.c#name~30","kind":"berry","en":"NOMEL"}
+{"id":"src/berry.c#name~31","kind":"berry","en":"SPELON"}
+{"id":"src/berry.c#name~32","kind":"berry","en":"PAMTRE"}
+{"id":"src/berry.c#name~33","kind":"berry","en":"WATMEL"}
+{"id":"src/berry.c#name~34","kind":"berry","en":"DURIN"}
+{"id":"src/berry.c#name~35","kind":"berry","en":"BELUE"}
+{"id":"src/berry.c#name~36","kind":"berry","en":"LIECHI"}
+{"id":"src/berry.c#name~37","kind":"berry","en":"GANLON"}
+{"id":"src/berry.c#name~38","kind":"berry","en":"SALAC"}
+{"id":"src/berry.c#name~39","kind":"berry","en":"PETAYA"}
+{"id":"src/berry.c#name~40","kind":"berry","en":"APICOT"}
+{"id":"src/berry.c#name~41","kind":"berry","en":"LANSAT"}
+{"id":"src/berry.c#name~42","kind":"berry","en":"STARF"}
+{"id":"src/berry.c#name~43","kind":"berry","en":"ENIGMA"}
+{"id":"src/data/decoration/header.h#DECOR_NONE.name","kind":"decoration","en":"SMALL DESK","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SMALL_DESK.name","kind":"decoration","en":"SMALL DESK","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_POKEMON_DESK.name","kind":"decoration","en":"POKéMON DESK","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_HEAVY_DESK.name","kind":"decoration","en":"HEAVY DESK","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_RAGGED_DESK.name","kind":"decoration","en":"RAGGED DESK","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_COMFORT_DESK.name","kind":"decoration","en":"COMFORT DESK","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_PRETTY_DESK.name","kind":"decoration","en":"PRETTY DESK","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_BRICK_DESK.name","kind":"decoration","en":"BRICK DESK","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_CAMP_DESK.name","kind":"decoration","en":"CAMP DESK","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_HARD_DESK.name","kind":"decoration","en":"HARD DESK","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SMALL_CHAIR.name","kind":"decoration","en":"SMALL CHAIR","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_POKEMON_CHAIR.name","kind":"decoration","en":"POKéMON CHAIR","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_HEAVY_CHAIR.name","kind":"decoration","en":"HEAVY CHAIR","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_PRETTY_CHAIR.name","kind":"decoration","en":"PRETTY CHAIR","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_COMFORT_CHAIR.name","kind":"decoration","en":"COMFORT CHAIR","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_RAGGED_CHAIR.name","kind":"decoration","en":"RAGGED CHAIR","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_BRICK_CHAIR.name","kind":"decoration","en":"BRICK CHAIR","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_CAMP_CHAIR.name","kind":"decoration","en":"CAMP CHAIR","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_HARD_CHAIR.name","kind":"decoration","en":"HARD CHAIR","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_RED_PLANT.name","kind":"decoration","en":"RED PLANT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_TROPICAL_PLANT.name","kind":"decoration","en":"TROPICAL PLANT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_PRETTY_FLOWERS.name","kind":"decoration","en":"PRETTY FLOWERS","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_COLORFUL_PLANT.name","kind":"decoration","en":"COLORFUL PLANT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_BIG_PLANT.name","kind":"decoration","en":"BIG PLANT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_GORGEOUS_PLANT.name","kind":"decoration","en":"GORGEOUS PLANT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_RED_BRICK.name","kind":"decoration","en":"RED BRICK","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_YELLOW_BRICK.name","kind":"decoration","en":"YELLOW BRICK","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_BLUE_BRICK.name","kind":"decoration","en":"BLUE BRICK","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_RED_BALLOON.name","kind":"decoration","en":"RED BALLOON","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_BLUE_BALLOON.name","kind":"decoration","en":"BLUE BALLOON","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_YELLOW_BALLOON.name","kind":"decoration","en":"YELLOW BALLOON","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_RED_TENT.name","kind":"decoration","en":"RED TENT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_BLUE_TENT.name","kind":"decoration","en":"BLUE TENT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SOLID_BOARD.name","kind":"decoration","en":"SOLID BOARD","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SLIDE.name","kind":"decoration","en":"SLIDE","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_FENCE_LENGTH.name","kind":"decoration","en":"FENCE LENGTH","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_FENCE_WIDTH.name","kind":"decoration","en":"FENCE WIDTH","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_TIRE.name","kind":"decoration","en":"TIRE","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_STAND.name","kind":"decoration","en":"STAND","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_MUD_BALL.name","kind":"decoration","en":"MUD BALL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_BREAKABLE_DOOR.name","kind":"decoration","en":"BREAKABLE DOOR","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SAND_ORNAMENT.name","kind":"decoration","en":"SAND ORNAMENT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SILVER_SHIELD.name","kind":"decoration","en":"SILVER SHIELD","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_GOLD_SHIELD.name","kind":"decoration","en":"GOLD SHIELD","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_GLASS_ORNAMENT.name","kind":"decoration","en":"GLASS ORNAMENT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_TV.name","kind":"decoration","en":"TV","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_ROUND_TV.name","kind":"decoration","en":"ROUND TV","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_CUTE_TV.name","kind":"decoration","en":"CUTE TV","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_GLITTER_MAT.name","kind":"decoration","en":"GLITTER MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_JUMP_MAT.name","kind":"decoration","en":"JUMP MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SPIN_MAT.name","kind":"decoration","en":"SPIN MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_C_LOW_NOTE_MAT.name","kind":"decoration","en":"C Low NOTE MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_D_NOTE_MAT.name","kind":"decoration","en":"D NOTE MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_E_NOTE_MAT.name","kind":"decoration","en":"E NOTE MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_F_NOTE_MAT.name","kind":"decoration","en":"F NOTE MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_G_NOTE_MAT.name","kind":"decoration","en":"G NOTE MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_A_NOTE_MAT.name","kind":"decoration","en":"A NOTE MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_B_NOTE_MAT.name","kind":"decoration","en":"B NOTE MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_C_HIGH_NOTE_MAT.name","kind":"decoration","en":"C High NOTE MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SURF_MAT.name","kind":"decoration","en":"SURF MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_THUNDER_MAT.name","kind":"decoration","en":"THUNDER MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_FIRE_BLAST_MAT.name","kind":"decoration","en":"FIRE BLAST MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_POWDER_SNOW_MAT.name","kind":"decoration","en":"POWDER SNOW MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_ATTRACT_MAT.name","kind":"decoration","en":"ATTRACT MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_FISSURE_MAT.name","kind":"decoration","en":"FISSURE MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SPIKES_MAT.name","kind":"decoration","en":"SPIKES MAT","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_BALL_POSTER.name","kind":"decoration","en":"BALL POSTER","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_GREEN_POSTER.name","kind":"decoration","en":"GREEN POSTER","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_RED_POSTER.name","kind":"decoration","en":"RED POSTER","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_BLUE_POSTER.name","kind":"decoration","en":"BLUE POSTER","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_CUTE_POSTER.name","kind":"decoration","en":"CUTE POSTER","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_PIKA_POSTER.name","kind":"decoration","en":"PIKA POSTER","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_LONG_POSTER.name","kind":"decoration","en":"LONG POSTER","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SEA_POSTER.name","kind":"decoration","en":"SEA POSTER","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SKY_POSTER.name","kind":"decoration","en":"SKY POSTER","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_KISS_POSTER.name","kind":"decoration","en":"KISS POSTER","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_PICHU_DOLL.name","kind":"decoration","en":"PICHU DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_PIKACHU_DOLL.name","kind":"decoration","en":"PIKACHU DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_MARILL_DOLL.name","kind":"decoration","en":"MARILL DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_TOGEPI_DOLL.name","kind":"decoration","en":"TOGEPI DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_CYNDAQUIL_DOLL.name","kind":"decoration","en":"CYNDAQUIL DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_CHIKORITA_DOLL.name","kind":"decoration","en":"CHIKORITA DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_TOTODILE_DOLL.name","kind":"decoration","en":"TOTODILE DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_JIGGLYPUFF_DOLL.name","kind":"decoration","en":"JIGGLYPUFF DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_MEOWTH_DOLL.name","kind":"decoration","en":"MEOWTH DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_CLEFAIRY_DOLL.name","kind":"decoration","en":"CLEFAIRY DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_DITTO_DOLL.name","kind":"decoration","en":"DITTO DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SMOOCHUM_DOLL.name","kind":"decoration","en":"SMOOCHUM DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_TREECKO_DOLL.name","kind":"decoration","en":"TREECKO DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_TORCHIC_DOLL.name","kind":"decoration","en":"TORCHIC DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_MUDKIP_DOLL.name","kind":"decoration","en":"MUDKIP DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_DUSKULL_DOLL.name","kind":"decoration","en":"DUSKULL DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_WYNAUT_DOLL.name","kind":"decoration","en":"WYNAUT DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_BALTOY_DOLL.name","kind":"decoration","en":"BALTOY DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_KECLEON_DOLL.name","kind":"decoration","en":"KECLEON DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_AZURILL_DOLL.name","kind":"decoration","en":"AZURILL DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SKITTY_DOLL.name","kind":"decoration","en":"SKITTY DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SWABLU_DOLL.name","kind":"decoration","en":"SWABLU DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_GULPIN_DOLL.name","kind":"decoration","en":"GULPIN DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_LOTAD_DOLL.name","kind":"decoration","en":"LOTAD DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SEEDOT_DOLL.name","kind":"decoration","en":"SEEDOT DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_PIKA_CUSHION.name","kind":"decoration","en":"PIKA CUSHION","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_ROUND_CUSHION.name","kind":"decoration","en":"ROUND CUSHION","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_KISS_CUSHION.name","kind":"decoration","en":"KISS CUSHION","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_ZIGZAG_CUSHION.name","kind":"decoration","en":"ZIGZAG CUSHION","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SPIN_CUSHION.name","kind":"decoration","en":"SPIN CUSHION","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_DIAMOND_CUSHION.name","kind":"decoration","en":"DIAMOND CUSHION","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_BALL_CUSHION.name","kind":"decoration","en":"BALL CUSHION","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_GRASS_CUSHION.name","kind":"decoration","en":"GRASS CUSHION","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_FIRE_CUSHION.name","kind":"decoration","en":"FIRE CUSHION","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_WATER_CUSHION.name","kind":"decoration","en":"WATER CUSHION","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_SNORLAX_DOLL.name","kind":"decoration","en":"SNORLAX DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_RHYDON_DOLL.name","kind":"decoration","en":"RHYDON DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_LAPRAS_DOLL.name","kind":"decoration","en":"LAPRAS DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_VENUSAUR_DOLL.name","kind":"decoration","en":"VENUSAUR DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_CHARIZARD_DOLL.name","kind":"decoration","en":"CHARIZARD DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_BLASTOISE_DOLL.name","kind":"decoration","en":"BLASTOISE DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_WAILMER_DOLL.name","kind":"decoration","en":"WAILMER DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_REGIROCK_DOLL.name","kind":"decoration","en":"REGIROCK DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_REGICE_DOLL.name","kind":"decoration","en":"REGICE DOLL","maxBytes":15}
+{"id":"src/data/decoration/header.h#DECOR_REGISTEEL_DOLL.name","kind":"decoration","en":"REGISTEEL DOLL","maxBytes":15}
+{"id":"src/data/items.h#ITEM_MASTER_BALL.name","kind":"item","en":"MASTER BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ULTRA_BALL.name","kind":"item","en":"ULTRA BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_GREAT_BALL.name","kind":"item","en":"GREAT BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_POKE_BALL.name","kind":"item","en":"POKé BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SAFARI_BALL.name","kind":"item","en":"SAFARI BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_NET_BALL.name","kind":"item","en":"NET BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_DIVE_BALL.name","kind":"item","en":"DIVE BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_NEST_BALL.name","kind":"item","en":"NEST BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_REPEAT_BALL.name","kind":"item","en":"REPEAT BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TIMER_BALL.name","kind":"item","en":"TIMER BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LUXURY_BALL.name","kind":"item","en":"LUXURY BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_PREMIER_BALL.name","kind":"item","en":"PREMIER BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_POTION.name","kind":"item","en":"POTION","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ANTIDOTE.name","kind":"item","en":"ANTIDOTE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BURN_HEAL.name","kind":"item","en":"BURN HEAL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ICE_HEAL.name","kind":"item","en":"ICE HEAL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_AWAKENING.name","kind":"item","en":"AWAKENING","maxBytes":13}
+{"id":"src/data/items.h#ITEM_PARALYZE_HEAL.name","kind":"item","en":"PARLYZ HEAL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_FULL_RESTORE.name","kind":"item","en":"FULL RESTORE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MAX_POTION.name","kind":"item","en":"MAX POTION","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HYPER_POTION.name","kind":"item","en":"HYPER POTION","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SUPER_POTION.name","kind":"item","en":"SUPER POTION","maxBytes":13}
+{"id":"src/data/items.h#ITEM_FULL_HEAL.name","kind":"item","en":"FULL HEAL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_REVIVE.name","kind":"item","en":"REVIVE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MAX_REVIVE.name","kind":"item","en":"MAX REVIVE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_FRESH_WATER.name","kind":"item","en":"FRESH WATER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SODA_POP.name","kind":"item","en":"SODA POP","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LEMONADE.name","kind":"item","en":"LEMONADE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MOOMOO_MILK.name","kind":"item","en":"MOOMOO MILK","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ENERGY_POWDER.name","kind":"item","en":"ENERGYPOWDER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ENERGY_ROOT.name","kind":"item","en":"ENERGY ROOT","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HEAL_POWDER.name","kind":"item","en":"HEAL POWDER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_REVIVAL_HERB.name","kind":"item","en":"REVIVAL HERB","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ETHER.name","kind":"item","en":"ETHER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MAX_ETHER.name","kind":"item","en":"MAX ETHER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ELIXIR.name","kind":"item","en":"ELIXIR","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MAX_ELIXIR.name","kind":"item","en":"MAX ELIXIR","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LAVA_COOKIE.name","kind":"item","en":"LAVA COOKIE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BLUE_FLUTE.name","kind":"item","en":"BLUE FLUTE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_YELLOW_FLUTE.name","kind":"item","en":"YELLOW FLUTE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_RED_FLUTE.name","kind":"item","en":"RED FLUTE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BLACK_FLUTE.name","kind":"item","en":"BLACK FLUTE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_WHITE_FLUTE.name","kind":"item","en":"WHITE FLUTE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BERRY_JUICE.name","kind":"item","en":"BERRY JUICE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SACRED_ASH.name","kind":"item","en":"SACRED ASH","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SHOAL_SALT.name","kind":"item","en":"SHOAL SALT","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SHOAL_SHELL.name","kind":"item","en":"SHOAL SHELL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_RED_SHARD.name","kind":"item","en":"RED SHARD","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BLUE_SHARD.name","kind":"item","en":"BLUE SHARD","maxBytes":13}
+{"id":"src/data/items.h#ITEM_YELLOW_SHARD.name","kind":"item","en":"YELLOW SHARD","maxBytes":13}
+{"id":"src/data/items.h#ITEM_GREEN_SHARD.name","kind":"item","en":"GREEN SHARD","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HP_UP.name","kind":"item","en":"HP UP","maxBytes":13}
+{"id":"src/data/items.h#ITEM_PROTEIN.name","kind":"item","en":"PROTEIN","maxBytes":13}
+{"id":"src/data/items.h#ITEM_IRON.name","kind":"item","en":"IRON","maxBytes":13}
+{"id":"src/data/items.h#ITEM_CARBOS.name","kind":"item","en":"CARBOS","maxBytes":13}
+{"id":"src/data/items.h#ITEM_CALCIUM.name","kind":"item","en":"CALCIUM","maxBytes":13}
+{"id":"src/data/items.h#ITEM_RARE_CANDY.name","kind":"item","en":"RARE CANDY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_PP_UP.name","kind":"item","en":"PP UP","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ZINC.name","kind":"item","en":"ZINC","maxBytes":13}
+{"id":"src/data/items.h#ITEM_PP_MAX.name","kind":"item","en":"PP MAX","maxBytes":13}
+{"id":"src/data/items.h#ITEM_GUARD_SPEC.name","kind":"item","en":"GUARD SPEC.","maxBytes":13}
+{"id":"src/data/items.h#ITEM_DIRE_HIT.name","kind":"item","en":"DIRE HIT","maxBytes":13}
+{"id":"src/data/items.h#ITEM_X_ATTACK.name","kind":"item","en":"X ATTACK","maxBytes":13}
+{"id":"src/data/items.h#ITEM_X_DEFEND.name","kind":"item","en":"X DEFEND","maxBytes":13}
+{"id":"src/data/items.h#ITEM_X_SPEED.name","kind":"item","en":"X SPEED","maxBytes":13}
+{"id":"src/data/items.h#ITEM_X_ACCURACY.name","kind":"item","en":"X ACCURACY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_X_SPECIAL.name","kind":"item","en":"X SPECIAL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_POKE_DOLL.name","kind":"item","en":"POKé DOLL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_FLUFFY_TAIL.name","kind":"item","en":"FLUFFY TAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SUPER_REPEL.name","kind":"item","en":"SUPER REPEL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MAX_REPEL.name","kind":"item","en":"MAX REPEL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ESCAPE_ROPE.name","kind":"item","en":"ESCAPE ROPE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_REPEL.name","kind":"item","en":"REPEL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SUN_STONE.name","kind":"item","en":"SUN STONE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MOON_STONE.name","kind":"item","en":"MOON STONE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_FIRE_STONE.name","kind":"item","en":"FIRE STONE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_THUNDER_STONE.name","kind":"item","en":"THUNDERSTONE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_WATER_STONE.name","kind":"item","en":"WATER STONE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LEAF_STONE.name","kind":"item","en":"LEAF STONE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TINY_MUSHROOM.name","kind":"item","en":"TINYMUSHROOM","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BIG_MUSHROOM.name","kind":"item","en":"BIG MUSHROOM","maxBytes":13}
+{"id":"src/data/items.h#ITEM_PEARL.name","kind":"item","en":"PEARL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BIG_PEARL.name","kind":"item","en":"BIG PEARL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_STARDUST.name","kind":"item","en":"STARDUST","maxBytes":13}
+{"id":"src/data/items.h#ITEM_STAR_PIECE.name","kind":"item","en":"STAR PIECE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_NUGGET.name","kind":"item","en":"NUGGET","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HEART_SCALE.name","kind":"item","en":"HEART SCALE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ORANGE_MAIL.name","kind":"item","en":"ORANGE MAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HARBOR_MAIL.name","kind":"item","en":"HARBOR MAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_GLITTER_MAIL.name","kind":"item","en":"GLITTER MAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MECH_MAIL.name","kind":"item","en":"MECH MAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_WOOD_MAIL.name","kind":"item","en":"WOOD MAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_WAVE_MAIL.name","kind":"item","en":"WAVE MAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BEAD_MAIL.name","kind":"item","en":"BEAD MAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SHADOW_MAIL.name","kind":"item","en":"SHADOW MAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TROPIC_MAIL.name","kind":"item","en":"TROPIC MAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_DREAM_MAIL.name","kind":"item","en":"DREAM MAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_FAB_MAIL.name","kind":"item","en":"FAB MAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_RETRO_MAIL.name","kind":"item","en":"RETRO MAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_CHERI_BERRY.name","kind":"item","en":"CHERI BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_CHESTO_BERRY.name","kind":"item","en":"CHESTO BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_PECHA_BERRY.name","kind":"item","en":"PECHA BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_RAWST_BERRY.name","kind":"item","en":"RAWST BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ASPEAR_BERRY.name","kind":"item","en":"ASPEAR BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LEPPA_BERRY.name","kind":"item","en":"LEPPA BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ORAN_BERRY.name","kind":"item","en":"ORAN BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_PERSIM_BERRY.name","kind":"item","en":"PERSIM BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LUM_BERRY.name","kind":"item","en":"LUM BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SITRUS_BERRY.name","kind":"item","en":"SITRUS BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_FIGY_BERRY.name","kind":"item","en":"FIGY BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_WIKI_BERRY.name","kind":"item","en":"WIKI BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MAGO_BERRY.name","kind":"item","en":"MAGO BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_AGUAV_BERRY.name","kind":"item","en":"AGUAV BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_IAPAPA_BERRY.name","kind":"item","en":"IAPAPA BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_RAZZ_BERRY.name","kind":"item","en":"RAZZ BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BLUK_BERRY.name","kind":"item","en":"BLUK BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_NANAB_BERRY.name","kind":"item","en":"NANAB BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_WEPEAR_BERRY.name","kind":"item","en":"WEPEAR BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_PINAP_BERRY.name","kind":"item","en":"PINAP BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_POMEG_BERRY.name","kind":"item","en":"POMEG BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_KELPSY_BERRY.name","kind":"item","en":"KELPSY BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_QUALOT_BERRY.name","kind":"item","en":"QUALOT BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HONDEW_BERRY.name","kind":"item","en":"HONDEW BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_GREPA_BERRY.name","kind":"item","en":"GREPA BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TAMATO_BERRY.name","kind":"item","en":"TAMATO BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_CORNN_BERRY.name","kind":"item","en":"CORNN BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MAGOST_BERRY.name","kind":"item","en":"MAGOST BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_RABUTA_BERRY.name","kind":"item","en":"RABUTA BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_NOMEL_BERRY.name","kind":"item","en":"NOMEL BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SPELON_BERRY.name","kind":"item","en":"SPELON BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_PAMTRE_BERRY.name","kind":"item","en":"PAMTRE BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_WATMEL_BERRY.name","kind":"item","en":"WATMEL BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_DURIN_BERRY.name","kind":"item","en":"DURIN BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BELUE_BERRY.name","kind":"item","en":"BELUE BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LIECHI_BERRY.name","kind":"item","en":"LIECHI BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_GANLON_BERRY.name","kind":"item","en":"GANLON BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SALAC_BERRY.name","kind":"item","en":"SALAC BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_PETAYA_BERRY.name","kind":"item","en":"PETAYA BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_APICOT_BERRY.name","kind":"item","en":"APICOT BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LANSAT_BERRY.name","kind":"item","en":"LANSAT BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_STARF_BERRY.name","kind":"item","en":"STARF BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ENIGMA_BERRY.name","kind":"item","en":"ENIGMA BERRY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BRIGHT_POWDER.name","kind":"item","en":"BRIGHTPOWDER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_WHITE_HERB.name","kind":"item","en":"WHITE HERB","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MACHO_BRACE.name","kind":"item","en":"MACHO BRACE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_EXP_SHARE.name","kind":"item","en":"EXP. SHARE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_QUICK_CLAW.name","kind":"item","en":"QUICK CLAW","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SOOTHE_BELL.name","kind":"item","en":"SOOTHE BELL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MENTAL_HERB.name","kind":"item","en":"MENTAL HERB","maxBytes":13}
+{"id":"src/data/items.h#ITEM_CHOICE_BAND.name","kind":"item","en":"CHOICE BAND","maxBytes":13}
+{"id":"src/data/items.h#ITEM_KINGS_ROCK.name","kind":"item","en":"KING'S ROCK","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SILVER_POWDER.name","kind":"item","en":"SILVERPOWDER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_AMULET_COIN.name","kind":"item","en":"AMULET COIN","maxBytes":13}
+{"id":"src/data/items.h#ITEM_CLEANSE_TAG.name","kind":"item","en":"CLEANSE TAG","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SOUL_DEW.name","kind":"item","en":"SOUL DEW","maxBytes":13}
+{"id":"src/data/items.h#ITEM_DEEP_SEA_TOOTH.name","kind":"item","en":"DEEPSEATOOTH","maxBytes":13}
+{"id":"src/data/items.h#ITEM_DEEP_SEA_SCALE.name","kind":"item","en":"DEEPSEASCALE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SMOKE_BALL.name","kind":"item","en":"SMOKE BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_EVERSTONE.name","kind":"item","en":"EVERSTONE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_FOCUS_BAND.name","kind":"item","en":"FOCUS BAND","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LUCKY_EGG.name","kind":"item","en":"LUCKY EGG","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SCOPE_LENS.name","kind":"item","en":"SCOPE LENS","maxBytes":13}
+{"id":"src/data/items.h#ITEM_METAL_COAT.name","kind":"item","en":"METAL COAT","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LEFTOVERS.name","kind":"item","en":"LEFTOVERS","maxBytes":13}
+{"id":"src/data/items.h#ITEM_DRAGON_SCALE.name","kind":"item","en":"DRAGON SCALE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LIGHT_BALL.name","kind":"item","en":"LIGHT BALL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SOFT_SAND.name","kind":"item","en":"SOFT SAND","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HARD_STONE.name","kind":"item","en":"HARD STONE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MIRACLE_SEED.name","kind":"item","en":"MIRACLE SEED","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BLACK_GLASSES.name","kind":"item","en":"BLACKGLASSES","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BLACK_BELT.name","kind":"item","en":"BLACK BELT","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MAGNET.name","kind":"item","en":"MAGNET","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MYSTIC_WATER.name","kind":"item","en":"MYSTIC WATER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SHARP_BEAK.name","kind":"item","en":"SHARP BEAK","maxBytes":13}
+{"id":"src/data/items.h#ITEM_POISON_BARB.name","kind":"item","en":"POISON BARB","maxBytes":13}
+{"id":"src/data/items.h#ITEM_NEVER_MELT_ICE.name","kind":"item","en":"NEVERMELTICE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SPELL_TAG.name","kind":"item","en":"SPELL TAG","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TWISTED_SPOON.name","kind":"item","en":"TWISTEDSPOON","maxBytes":13}
+{"id":"src/data/items.h#ITEM_CHARCOAL.name","kind":"item","en":"CHARCOAL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_DRAGON_FANG.name","kind":"item","en":"DRAGON FANG","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SILK_SCARF.name","kind":"item","en":"SILK SCARF","maxBytes":13}
+{"id":"src/data/items.h#ITEM_UP_GRADE.name","kind":"item","en":"UP-GRADE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SHELL_BELL.name","kind":"item","en":"SHELL BELL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SEA_INCENSE.name","kind":"item","en":"SEA INCENSE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LAX_INCENSE.name","kind":"item","en":"LAX INCENSE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LUCKY_PUNCH.name","kind":"item","en":"LUCKY PUNCH","maxBytes":13}
+{"id":"src/data/items.h#ITEM_METAL_POWDER.name","kind":"item","en":"METAL POWDER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_THICK_CLUB.name","kind":"item","en":"THICK CLUB","maxBytes":13}
+{"id":"src/data/items.h#ITEM_STICK.name","kind":"item","en":"STICK","maxBytes":13}
+{"id":"src/data/items.h#ITEM_RED_SCARF.name","kind":"item","en":"RED SCARF","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BLUE_SCARF.name","kind":"item","en":"BLUE SCARF","maxBytes":13}
+{"id":"src/data/items.h#ITEM_PINK_SCARF.name","kind":"item","en":"PINK SCARF","maxBytes":13}
+{"id":"src/data/items.h#ITEM_GREEN_SCARF.name","kind":"item","en":"GREEN SCARF","maxBytes":13}
+{"id":"src/data/items.h#ITEM_YELLOW_SCARF.name","kind":"item","en":"YELLOW SCARF","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MACH_BIKE.name","kind":"item","en":"MACH BIKE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_COIN_CASE.name","kind":"item","en":"COIN CASE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ITEMFINDER.name","kind":"item","en":"ITEMFINDER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_OLD_ROD.name","kind":"item","en":"OLD ROD","maxBytes":13}
+{"id":"src/data/items.h#ITEM_GOOD_ROD.name","kind":"item","en":"GOOD ROD","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SUPER_ROD.name","kind":"item","en":"SUPER ROD","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SS_TICKET.name","kind":"item","en":"S.S. TICKET","maxBytes":13}
+{"id":"src/data/items.h#ITEM_CONTEST_PASS.name","kind":"item","en":"CONTEST PASS","maxBytes":13}
+{"id":"src/data/items.h#ITEM_WAILMER_PAIL.name","kind":"item","en":"WAILMER PAIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_DEVON_GOODS.name","kind":"item","en":"DEVON GOODS","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SOOT_SACK.name","kind":"item","en":"SOOT SACK","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BASEMENT_KEY.name","kind":"item","en":"BASEMENT KEY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ACRO_BIKE.name","kind":"item","en":"ACRO BIKE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_POKEBLOCK_CASE.name","kind":"item","en":"{POKEBLOCK} CASE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LETTER.name","kind":"item","en":"LETTER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_EON_TICKET.name","kind":"item","en":"EON TICKET","maxBytes":13}
+{"id":"src/data/items.h#ITEM_RED_ORB.name","kind":"item","en":"RED ORB","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BLUE_ORB.name","kind":"item","en":"BLUE ORB","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SCANNER.name","kind":"item","en":"SCANNER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_GO_GOGGLES.name","kind":"item","en":"GO-GOGGLES","maxBytes":13}
+{"id":"src/data/items.h#ITEM_METEORITE.name","kind":"item","en":"METEORITE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ROOM_1_KEY.name","kind":"item","en":"RM. 1 KEY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ROOM_2_KEY.name","kind":"item","en":"RM. 2 KEY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ROOM_4_KEY.name","kind":"item","en":"RM. 4 KEY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ROOM_6_KEY.name","kind":"item","en":"RM. 6 KEY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_STORAGE_KEY.name","kind":"item","en":"STORAGE KEY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_ROOT_FOSSIL.name","kind":"item","en":"ROOT FOSSIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_CLAW_FOSSIL.name","kind":"item","en":"CLAW FOSSIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_DEVON_SCOPE.name","kind":"item","en":"DEVON SCOPE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_FOCUS_PUNCH.name","kind":"item","en":"TM01","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_DRAGON_CLAW.name","kind":"item","en":"TM02","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_WATER_PULSE.name","kind":"item","en":"TM03","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_CALM_MIND.name","kind":"item","en":"TM04","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_ROAR.name","kind":"item","en":"TM05","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_TOXIC.name","kind":"item","en":"TM06","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_HAIL.name","kind":"item","en":"TM07","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_BULK_UP.name","kind":"item","en":"TM08","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_BULLET_SEED.name","kind":"item","en":"TM09","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_HIDDEN_POWER.name","kind":"item","en":"TM10","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_SUNNY_DAY.name","kind":"item","en":"TM11","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_TAUNT.name","kind":"item","en":"TM12","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_ICE_BEAM.name","kind":"item","en":"TM13","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_BLIZZARD.name","kind":"item","en":"TM14","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_HYPER_BEAM.name","kind":"item","en":"TM15","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_LIGHT_SCREEN.name","kind":"item","en":"TM16","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_PROTECT.name","kind":"item","en":"TM17","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_RAIN_DANCE.name","kind":"item","en":"TM18","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_GIGA_DRAIN.name","kind":"item","en":"TM19","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_SAFEGUARD.name","kind":"item","en":"TM20","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_FRUSTRATION.name","kind":"item","en":"TM21","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_SOLAR_BEAM.name","kind":"item","en":"TM22","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_IRON_TAIL.name","kind":"item","en":"TM23","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_THUNDERBOLT.name","kind":"item","en":"TM24","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_THUNDER.name","kind":"item","en":"TM25","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_EARTHQUAKE.name","kind":"item","en":"TM26","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_RETURN.name","kind":"item","en":"TM27","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_DIG.name","kind":"item","en":"TM28","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_PSYCHIC.name","kind":"item","en":"TM29","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_SHADOW_BALL.name","kind":"item","en":"TM30","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_BRICK_BREAK.name","kind":"item","en":"TM31","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_DOUBLE_TEAM.name","kind":"item","en":"TM32","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_REFLECT.name","kind":"item","en":"TM33","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_SHOCK_WAVE.name","kind":"item","en":"TM34","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_FLAMETHROWER.name","kind":"item","en":"TM35","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_SLUDGE_BOMB.name","kind":"item","en":"TM36","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_SANDSTORM.name","kind":"item","en":"TM37","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_FIRE_BLAST.name","kind":"item","en":"TM38","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_ROCK_TOMB.name","kind":"item","en":"TM39","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_AERIAL_ACE.name","kind":"item","en":"TM40","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_TORMENT.name","kind":"item","en":"TM41","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_FACADE.name","kind":"item","en":"TM42","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_SECRET_POWER.name","kind":"item","en":"TM43","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_REST.name","kind":"item","en":"TM44","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_ATTRACT.name","kind":"item","en":"TM45","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_THIEF.name","kind":"item","en":"TM46","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_STEEL_WING.name","kind":"item","en":"TM47","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_SKILL_SWAP.name","kind":"item","en":"TM48","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_SNATCH.name","kind":"item","en":"TM49","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_OVERHEAT.name","kind":"item","en":"TM50","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HM_CUT.name","kind":"item","en":"HM01","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HM_FLY.name","kind":"item","en":"HM02","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HM_SURF.name","kind":"item","en":"HM03","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HM_STRENGTH.name","kind":"item","en":"HM04","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HM_FLASH.name","kind":"item","en":"HM05","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HM_ROCK_SMASH.name","kind":"item","en":"HM06","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HM_WATERFALL.name","kind":"item","en":"HM07","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HM_DIVE.name","kind":"item","en":"HM08","maxBytes":13}
+{"id":"src/data/items.h#ITEM_OAKS_PARCEL.name","kind":"item","en":"OAK'S PARCEL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_POKE_FLUTE.name","kind":"item","en":"POKé FLUTE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SECRET_KEY.name","kind":"item","en":"SECRET KEY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BIKE_VOUCHER.name","kind":"item","en":"BIKE VOUCHER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_GOLD_TEETH.name","kind":"item","en":"GOLD TEETH","maxBytes":13}
+{"id":"src/data/items.h#ITEM_OLD_AMBER.name","kind":"item","en":"OLD AMBER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_CARD_KEY.name","kind":"item","en":"CARD KEY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_LIFT_KEY.name","kind":"item","en":"LIFT KEY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_HELIX_FOSSIL.name","kind":"item","en":"HELIX FOSSIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_DOME_FOSSIL.name","kind":"item","en":"DOME FOSSIL","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SILPH_SCOPE.name","kind":"item","en":"SILPH SCOPE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BICYCLE.name","kind":"item","en":"BICYCLE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TOWN_MAP.name","kind":"item","en":"TOWN MAP","maxBytes":13}
+{"id":"src/data/items.h#ITEM_VS_SEEKER.name","kind":"item","en":"VS SEEKER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_FAME_CHECKER.name","kind":"item","en":"FAME CHECKER","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TM_CASE.name","kind":"item","en":"TM CASE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_BERRY_POUCH.name","kind":"item","en":"BERRY POUCH","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TEACHY_TV.name","kind":"item","en":"TEACHY TV","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TRI_PASS.name","kind":"item","en":"TRI-PASS","maxBytes":13}
+{"id":"src/data/items.h#ITEM_RAINBOW_PASS.name","kind":"item","en":"RAINBOW PASS","maxBytes":13}
+{"id":"src/data/items.h#ITEM_TEA.name","kind":"item","en":"TEA","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MYSTIC_TICKET.name","kind":"item","en":"MYSTICTICKET","maxBytes":13}
+{"id":"src/data/items.h#ITEM_AURORA_TICKET.name","kind":"item","en":"AURORATICKET","maxBytes":13}
+{"id":"src/data/items.h#ITEM_POWDER_JAR.name","kind":"item","en":"POWDER JAR","maxBytes":13}
+{"id":"src/data/items.h#ITEM_RUBY.name","kind":"item","en":"RUBY","maxBytes":13}
+{"id":"src/data/items.h#ITEM_SAPPHIRE.name","kind":"item","en":"SAPPHIRE","maxBytes":13}
+{"id":"src/data/items.h#ITEM_MAGMA_EMBLEM.name","kind":"item","en":"MAGMA EMBLEM","maxBytes":13}
+{"id":"src/data/items.h#ITEM_OLD_SEA_MAP.name","kind":"item","en":"OLD SEA MAP","maxBytes":13}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_LITTLEROOT_TOWN","kind":"location","en":"LITTLEROOT TOWN","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_OLDALE_TOWN","kind":"location","en":"OLDALE TOWN","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_DEWFORD_TOWN","kind":"location","en":"DEWFORD TOWN","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_LAVARIDGE_TOWN","kind":"location","en":"LAVARIDGE TOWN","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FALLARBOR_TOWN","kind":"location","en":"FALLARBOR TOWN","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_VERDANTURF_TOWN","kind":"location","en":"VERDANTURF TOWN","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_PACIFIDLOG_TOWN","kind":"location","en":"PACIFIDLOG TOWN","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_PETALBURG_CITY","kind":"location","en":"PETALBURG CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SLATEPORT_CITY","kind":"location","en":"SLATEPORT CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MAUVILLE_CITY","kind":"location","en":"MAUVILLE CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_RUSTBORO_CITY","kind":"location","en":"RUSTBORO CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FORTREE_CITY","kind":"location","en":"FORTREE CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_LILYCOVE_CITY","kind":"location","en":"LILYCOVE CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MOSSDEEP_CITY","kind":"location","en":"MOSSDEEP CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SOOTOPOLIS_CITY","kind":"location","en":"SOOTOPOLIS CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_EVER_GRANDE_CITY","kind":"location","en":"EVER GRANDE CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_101","kind":"location","en":"ROUTE 101","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_102","kind":"location","en":"ROUTE 102","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_103","kind":"location","en":"ROUTE 103","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_104","kind":"location","en":"ROUTE 104","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_105","kind":"location","en":"ROUTE 105","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_106","kind":"location","en":"ROUTE 106","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_107","kind":"location","en":"ROUTE 107","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_108","kind":"location","en":"ROUTE 108","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_109","kind":"location","en":"ROUTE 109","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_110","kind":"location","en":"ROUTE 110","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_111","kind":"location","en":"ROUTE 111","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_112","kind":"location","en":"ROUTE 112","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_113","kind":"location","en":"ROUTE 113","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_114","kind":"location","en":"ROUTE 114","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_115","kind":"location","en":"ROUTE 115","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_116","kind":"location","en":"ROUTE 116","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_117","kind":"location","en":"ROUTE 117","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_118","kind":"location","en":"ROUTE 118","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_119","kind":"location","en":"ROUTE 119","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_120","kind":"location","en":"ROUTE 120","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_121","kind":"location","en":"ROUTE 121","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_122","kind":"location","en":"ROUTE 122","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_123","kind":"location","en":"ROUTE 123","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_124","kind":"location","en":"ROUTE 124","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_125","kind":"location","en":"ROUTE 125","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_126","kind":"location","en":"ROUTE 126","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_127","kind":"location","en":"ROUTE 127","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_128","kind":"location","en":"ROUTE 128","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_129","kind":"location","en":"ROUTE 129","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_130","kind":"location","en":"ROUTE 130","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_131","kind":"location","en":"ROUTE 131","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_132","kind":"location","en":"ROUTE 132","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_133","kind":"location","en":"ROUTE 133","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_134","kind":"location","en":"ROUTE 134","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_124","kind":"location","en":"UNDERWATER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_126","kind":"location","en":"UNDERWATER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_127","kind":"location","en":"UNDERWATER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_128","kind":"location","en":"UNDERWATER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_SOOTOPOLIS","kind":"location","en":"UNDERWATER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_GRANITE_CAVE","kind":"location","en":"GRANITE CAVE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MT_CHIMNEY","kind":"location","en":"MT. CHIMNEY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SAFARI_ZONE","kind":"location","en":"SAFARI ZONE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_BATTLE_FRONTIER","kind":"location","en":"BATTLE FRONTIER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_PETALBURG_WOODS","kind":"location","en":"PETALBURG WOODS","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_RUSTURF_TUNNEL","kind":"location","en":"RUSTURF TUNNEL","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ABANDONED_SHIP","kind":"location","en":"ABANDONED SHIP","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_NEW_MAUVILLE","kind":"location","en":"NEW MAUVILLE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_METEOR_FALLS","kind":"location","en":"METEOR FALLS","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_METEOR_FALLS2","kind":"location","en":"METEOR FALLS","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MT_PYRE","kind":"location","en":"MT. PYRE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_AQUA_HIDEOUT_OLD","kind":"location","en":"{AQUA} HIDEOUT","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SHOAL_CAVE","kind":"location","en":"SHOAL CAVE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEAFLOOR_CAVERN","kind":"location","en":"SEAFLOOR CAVERN","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_SEAFLOOR_CAVERN","kind":"location","en":"UNDERWATER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_VICTORY_ROAD","kind":"location","en":"VICTORY ROAD","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MIRAGE_ISLAND","kind":"location","en":"MIRAGE ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CAVE_OF_ORIGIN","kind":"location","en":"CAVE OF ORIGIN","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SOUTHERN_ISLAND","kind":"location","en":"SOUTHERN ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FIERY_PATH","kind":"location","en":"FIERY PATH","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FIERY_PATH2","kind":"location","en":"FIERY PATH","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_JAGGED_PASS","kind":"location","en":"JAGGED PASS","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_JAGGED_PASS2","kind":"location","en":"JAGGED PASS","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEALED_CHAMBER","kind":"location","en":"SEALED CHAMBER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_SEALED_CHAMBER","kind":"location","en":"UNDERWATER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SCORCHED_SLAB","kind":"location","en":"SCORCHED SLAB","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ISLAND_CAVE","kind":"location","en":"ISLAND CAVE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_DESERT_RUINS","kind":"location","en":"DESERT RUINS","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ANCIENT_TOMB","kind":"location","en":"ANCIENT TOMB","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_INSIDE_OF_TRUCK","kind":"location","en":"INSIDE OF TRUCK","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SKY_PILLAR","kind":"location","en":"SKY PILLAR","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SECRET_BASE","kind":"location","en":"SECRET BASE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_PALLET_TOWN","kind":"location","en":"PALLET TOWN","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_VIRIDIAN_CITY","kind":"location","en":"VIRIDIAN CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_PEWTER_CITY","kind":"location","en":"PEWTER CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CERULEAN_CITY","kind":"location","en":"CERULEAN CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_LAVENDER_TOWN","kind":"location","en":"LAVENDER TOWN","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_VERMILION_CITY","kind":"location","en":"VERMILION CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CELADON_CITY","kind":"location","en":"CELADON CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FUCHSIA_CITY","kind":"location","en":"FUCHSIA CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CINNABAR_ISLAND","kind":"location","en":"CINNABAR ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_INDIGO_PLATEAU","kind":"location","en":"INDIGO PLATEAU","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SAFFRON_CITY","kind":"location","en":"SAFFRON CITY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_4_POKECENTER","kind":"location","en":"ROUTE 4","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_10_POKECENTER","kind":"location","en":"ROUTE 10","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_1","kind":"location","en":"ROUTE 1","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_2","kind":"location","en":"ROUTE 2","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_3","kind":"location","en":"ROUTE 3","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_4","kind":"location","en":"ROUTE 4","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_5","kind":"location","en":"ROUTE 5","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_6","kind":"location","en":"ROUTE 6","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_7","kind":"location","en":"ROUTE 7","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_8","kind":"location","en":"ROUTE 8","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_9","kind":"location","en":"ROUTE 9","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_10","kind":"location","en":"ROUTE 10","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_11","kind":"location","en":"ROUTE 11","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_12","kind":"location","en":"ROUTE 12","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_13","kind":"location","en":"ROUTE 13","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_14","kind":"location","en":"ROUTE 14","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_15","kind":"location","en":"ROUTE 15","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_16","kind":"location","en":"ROUTE 16","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_17","kind":"location","en":"ROUTE 17","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_18","kind":"location","en":"ROUTE 18","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_19","kind":"location","en":"ROUTE 19","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_20","kind":"location","en":"ROUTE 20","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_21","kind":"location","en":"ROUTE 21","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_22","kind":"location","en":"ROUTE 22","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_23","kind":"location","en":"ROUTE 23","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_24","kind":"location","en":"ROUTE 24","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_25","kind":"location","en":"ROUTE 25","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_VIRIDIAN_FOREST","kind":"location","en":"VIRIDIAN FOREST","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MT_MOON","kind":"location","en":"MT. MOON","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_S_S_ANNE","kind":"location","en":"S.S. ANNE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERGROUND_PATH","kind":"location","en":"UNDERGROUND PATH","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERGROUND_PATH_2","kind":"location","en":"UNDERGROUND PATH","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_DIGLETTS_CAVE","kind":"location","en":"DIGLETT'S CAVE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_KANTO_VICTORY_ROAD","kind":"location","en":"VICTORY ROAD","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROCKET_HIDEOUT","kind":"location","en":"ROCKET HIDEOUT","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SILPH_CO","kind":"location","en":"SILPH CO.","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_POKEMON_MANSION","kind":"location","en":"POKéMON MANSION","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_KANTO_SAFARI_ZONE","kind":"location","en":"SAFARI ZONE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_POKEMON_LEAGUE","kind":"location","en":"POKéMON LEAGUE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROCK_TUNNEL","kind":"location","en":"ROCK TUNNEL","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEAFOAM_ISLANDS","kind":"location","en":"SEAFOAM ISLANDS","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_POKEMON_TOWER","kind":"location","en":"POKéMON TOWER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CERULEAN_CAVE","kind":"location","en":"CERULEAN CAVE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_POWER_PLANT","kind":"location","en":"POWER PLANT","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ONE_ISLAND","kind":"location","en":"ONE ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TWO_ISLAND","kind":"location","en":"TWO ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_THREE_ISLAND","kind":"location","en":"THREE ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FOUR_ISLAND","kind":"location","en":"FOUR ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FIVE_ISLAND","kind":"location","en":"FIVE ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVEN_ISLAND","kind":"location","en":"SEVEN ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SIX_ISLAND","kind":"location","en":"SIX ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_KINDLE_ROAD","kind":"location","en":"KINDLE ROAD","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TREASURE_BEACH","kind":"location","en":"TREASURE BEACH","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CAPE_BRINK","kind":"location","en":"CAPE BRINK","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_BOND_BRIDGE","kind":"location","en":"BOND BRIDGE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_THREE_ISLE_PORT","kind":"location","en":"THREE ISLE PORT","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_6","kind":"location","en":"SEVII ISLE 6","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_7","kind":"location","en":"SEVII ISLE 7","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_8","kind":"location","en":"SEVII ISLE 8","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_9","kind":"location","en":"SEVII ISLE 9","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_RESORT_GORGEOUS","kind":"location","en":"RESORT GORGEOUS","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_WATER_LABYRINTH","kind":"location","en":"WATER LABYRINTH","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FIVE_ISLE_MEADOW","kind":"location","en":"FIVE ISLE MEADOW","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MEMORIAL_PILLAR","kind":"location","en":"MEMORIAL PILLAR","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_OUTCAST_ISLAND","kind":"location","en":"OUTCAST ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_GREEN_PATH","kind":"location","en":"GREEN PATH","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_WATER_PATH","kind":"location","en":"WATER PATH","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_RUIN_VALLEY","kind":"location","en":"RUIN VALLEY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TRAINER_TOWER","kind":"location","en":"TRAINER TOWER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CANYON_ENTRANCE","kind":"location","en":"CANYON ENTRANCE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVAULT_CANYON","kind":"location","en":"SEVAULT CANYON","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TANOBY_RUINS","kind":"location","en":"TANOBY RUINS","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_22","kind":"location","en":"SEVII ISLE 22","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_23","kind":"location","en":"SEVII ISLE 23","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_24","kind":"location","en":"SEVII ISLE 24","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_NAVEL_ROCK_FRLG","kind":"location","en":"NAVEL ROCK","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MT_EMBER","kind":"location","en":"MT. EMBER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_BERRY_FOREST","kind":"location","en":"BERRY FOREST","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ICEFALL_CAVE","kind":"location","en":"ICEFALL CAVE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROCKET_WAREHOUSE","kind":"location","en":"ROCKET WAREHOUSE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TRAINER_TOWER_2","kind":"location","en":"TRAINER TOWER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_DOTTED_HOLE","kind":"location","en":"DOTTED HOLE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_LOST_CAVE","kind":"location","en":"LOST CAVE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_PATTERN_BUSH","kind":"location","en":"PATTERN BUSH","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ALTERING_CAVE_FRLG","kind":"location","en":"ALTERING CAVE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TANOBY_CHAMBERS","kind":"location","en":"TANOBY CHAMBERS","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_THREE_ISLE_PATH","kind":"location","en":"THREE ISLE PATH","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TANOBY_KEY","kind":"location","en":"TANOBY KEY","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_BIRTH_ISLAND_FRLG","kind":"location","en":"BIRTH ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MONEAN_CHAMBER","kind":"location","en":"MONEAN CHAMBER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_LIPTOO_CHAMBER","kind":"location","en":"LIPTOO CHAMBER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_WEEPTH_CHAMBER","kind":"location","en":"WEEPTH CHAMBER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_DILFORD_CHAMBER","kind":"location","en":"DILFORD CHAMBER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SCUFIB_CHAMBER","kind":"location","en":"SCUFIB CHAMBER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_RIXY_CHAMBER","kind":"location","en":"RIXY CHAMBER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_VIAPOIS_CHAMBER","kind":"location","en":"VIAPOIS CHAMBER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_EMBER_SPA","kind":"location","en":"EMBER SPA","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SPECIAL_AREA","kind":"location","en":"SPECIAL AREA","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_AQUA_HIDEOUT","kind":"location","en":"AQUA HIDEOUT","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MAGMA_HIDEOUT","kind":"location","en":"MAGMA HIDEOUT","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MIRAGE_TOWER","kind":"location","en":"MIRAGE TOWER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_BIRTH_ISLAND","kind":"location","en":"BIRTH ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FARAWAY_ISLAND","kind":"location","en":"FARAWAY ISLAND","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ARTISAN_CAVE","kind":"location","en":"ARTISAN CAVE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MARINE_CAVE","kind":"location","en":"MARINE CAVE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_MARINE_CAVE","kind":"location","en":"UNDERWATER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TERRA_CAVE","kind":"location","en":"TERRA CAVE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_105","kind":"location","en":"UNDERWATER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_125","kind":"location","en":"UNDERWATER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_129","kind":"location","en":"UNDERWATER","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_DESERT_UNDERPASS","kind":"location","en":"DESERT UNDERPASS","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ALTERING_CAVE","kind":"location","en":"ALTERING CAVE","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_NAVEL_ROCK","kind":"location","en":"NAVEL ROCK","maxBytes":16}
+{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TRAINER_HILL","kind":"location","en":"TRAINER HILL","maxBytes":16}

@@ -1,0 +1,13 @@
+{
+  "name": "pokeemerald-th-tools",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "font": "node src/font/build-font.ts",
+    "extract": "node src/extract.ts",
+    "insert": "node src/insert.ts",
+    "validate": "node src/validate.ts",
+    "build:th": "node src/font/build-font.ts && node src/insert.ts && make -C ../rom -j8"
+  }
+}
