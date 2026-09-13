@@ -21,11 +21,11 @@ const THAI_BLOCK_END = '@ Thai end';
 const JAPANESE_SECTION = '@ Hiragana';
 
 export const FONT_LAYOUTS: Record<string, FontLayout> = {
-  normal: { sheet: 'latin_normal', widthTable: 'gFontNormalLatinGlyphWidths', bodyRows: 7, lowerMarkTop: 13, height: 15, narrow: false },
-  short: { sheet: 'latin_short', widthTable: 'gFontShortLatinGlyphWidths', bodyRows: 7, lowerMarkTop: 12, height: 14, narrow: false },
-  narrow: { sheet: 'latin_narrow', widthTable: 'gFontNarrowLatinGlyphWidths', bodyRows: 7, lowerMarkTop: 13, height: 15, narrow: false },
-  small: { sheet: 'latin_small', widthTable: 'gFontSmallLatinGlyphWidths', bodyRows: 6, lowerMarkTop: 11, height: 13, narrow: true },
-  smallNarrow: { sheet: 'latin_small_narrow', widthTable: 'gFontSmallNarrowLatinGlyphWidths', bodyRows: 6, lowerMarkTop: 11, height: 12, narrow: true },
+  normal: { sheet: 'latin_normal', widthTable: 'gFontNormalLatinGlyphWidths', bodyTop: 6, bodyRows: 6, lowerMarkTop: 13, height: 15, narrow: false },
+  short: { sheet: 'latin_short', widthTable: 'gFontShortLatinGlyphWidths', bodyTop: 6, bodyRows: 6, lowerMarkTop: 12, height: 14, narrow: false },
+  narrow: { sheet: 'latin_narrow', widthTable: 'gFontNarrowLatinGlyphWidths', bodyTop: 6, bodyRows: 6, lowerMarkTop: 13, height: 15, narrow: false },
+  small: { sheet: 'latin_small', widthTable: 'gFontSmallLatinGlyphWidths', bodyTop: 6, bodyRows: 5, lowerMarkTop: 11, height: 13, narrow: true },
+  smallNarrow: { sheet: 'latin_small_narrow', widthTable: 'gFontSmallNarrowLatinGlyphWidths', bodyTop: 6, bodyRows: 5, lowerMarkTop: 11, height: 12, narrow: true },
 };
 
 interface Cell {
@@ -62,6 +62,17 @@ function renderCell(glyph: ThaiGlyph, layout: FontLayout): Cell {
   return { width, pixels };
 }
 
+function assertDistinctBases(fontName: string, cells: { glyph: ThaiGlyph; cell: Cell }[]): void {
+  const charsByBitmap = new Map<string, string>();
+  for (const { glyph, cell } of cells) {
+    if (glyph.isMark) continue;
+    const bitmap = JSON.stringify(cell.pixels);
+    const twin = charsByBitmap.get(bitmap);
+    if (twin) throw new Error(`${fontName}: ${twin} and ${glyph.char} render identically; add a body override`);
+    charsByBitmap.set(bitmap, glyph.char);
+  }
+}
+
 function drawCell(image: IndexedImage, slot: number, cell: Cell): void {
   const originX = (slot % CELLS_PER_ROW) * CELL_SIZE;
   const originY = Math.floor(slot / CELLS_PER_ROW) * CELL_SIZE;
@@ -91,12 +102,20 @@ function updateCharmap(glyphs: ThaiGlyph[]): void {
   const output: string[] = [];
   let inThaiBlock = false;
   let inLatinSection = true;
+  let skipBlankAfterBlock = false;
 
   for (const line of lines) {
     if (line === THAI_BLOCK_BEGIN) inThaiBlock = true;
     if (inThaiBlock) {
-      if (line === THAI_BLOCK_END) inThaiBlock = false;
+      if (line === THAI_BLOCK_END) {
+        inThaiBlock = false;
+        skipBlankAfterBlock = true;
+      }
       continue;
+    }
+    if (skipBlankAfterBlock) {
+      skipBlankAfterBlock = false;
+      if (line === '') continue;
     }
     if (line.startsWith(JAPANESE_SECTION)) {
       inLatinSection = false;
@@ -135,6 +154,7 @@ function main(): void {
     const image = decodeIndexedPng(readFileSync(sheetPath));
     const table = readWidthTable(fontsSource, layout.widthTable);
     const cells = glyphs.map((glyph) => ({ glyph, cell: renderCell(glyph, layout) }));
+    assertDistinctBases(fontName, cells);
 
     for (const { glyph, cell } of cells) {
       drawCell(image, glyph.slot, cell);

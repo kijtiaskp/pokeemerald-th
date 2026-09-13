@@ -7,7 +7,8 @@ export type Rows = number[];
 export interface FontLayout {
   sheet: string;
   widthTable: string;
-  bodyRows: 6 | 7;
+  bodyTop: number;
+  bodyRows: 5 | 6;
   lowerMarkTop: number;
   height: number;
   narrow: boolean;
@@ -26,6 +27,8 @@ const GLYPH_ROWS = 16;
 const RIGHTMOST_COLUMN_BIT = 0x01;
 const UNIFONT_PATH = path.join(TOOLS_DIR, 'vendor/unifont-16.0.04.hex');
 const TALL_SHIFT = 2;
+const TALL_ASCENDER_ROWS = 3;
+const UPPER_MARK_BOTTOM = 4;
 
 const TALL_CONSONANTS = new Set(['ป', 'ฝ', 'ฟ', 'ฬ']);
 const SPACING_VOWELS = ['ฯ', 'ะ', 'า', 'เ', 'แ', 'โ', 'ใ', 'ไ', 'ๅ', 'ๆ'];
@@ -45,6 +48,20 @@ const HIGH_TONE_CODEPOINT = 0xf701;
 const SHIFTED_UPPER_CODEPOINT = 0xf710;
 const SHIFTED_LOW_TONE_CODEPOINT = 0xf717;
 const SHIFTED_HIGH_TONE_CODEPOINT = 0xf71c;
+
+// Unifont draws ข and บ (and ป) as one shape, so their reduced bodies are hand-drawn in Unifont columns.
+const BAW_BAIMAI_BODY: Record<FontLayout['bodyRows'], string[]> = {
+  6: ['..##..#.', '..##..#.', '...#..#.', '...#..#.', '...#..#.', '...####.'],
+  5: ['..##..#.', '...#..#.', '...#..#.', '...#..#.', '...####.'],
+};
+const BODY_OVERRIDES: Record<string, Record<FontLayout['bodyRows'], string[]>> = {
+  'ข': {
+    6: ['.##..#..', '.##..#..', '..#..#..', '.#...#..', '.#...#..', '..###...'],
+    5: ['.##..#..', '..#..#..', '.#...#..', '.#...#..', '..###...'],
+  },
+  'บ': BAW_BAIMAI_BODY,
+  'ป': BAW_BAIMAI_BODY,
+};
 
 const HIGH_TONE_ROWS: Record<string, [string, string]> = {
   '่': ['.....#..', '.....#..'],
@@ -104,17 +121,15 @@ function padRows(rows: Rows): Rows {
   return [...rows, ...Array(GLYPH_ROWS).fill(0)].slice(0, GLYPH_ROWS);
 }
 
-// Unifont bodies span rows 6-13; the game font puts the body at rows 5-11 (tall) or 5-10 (small).
-function deriveBaseRows(source: Rows, layout: FontLayout, isTall: boolean): Rows {
-  if (!isTall) {
-    const body = removeRows(source.slice(6, 14), 8 - layout.bodyRows);
-    return padRows([...source.slice(1, 6), ...body, ...source.slice(14)]);
-  }
-
-  const body = removeRows(source.slice(7, 14), 7 - layout.bodyRows);
-  const rows = padRows([...source.slice(2, 7), ...body, ...source.slice(14)]);
-  rows[2] |= rows[3];
-  return rows;
+// Unifont bodies span rows 6-13 (7-13 for tall consonants, whose ascender is the row 6 stem).
+// The game font shrinks the body so a blank row separates it from upper marks and tones.
+function deriveBaseRows(char: string, source: Rows, layout: FontLayout): Rows {
+  const isTall = TALL_CONSONANTS.has(char);
+  const bodyStart = isTall ? 7 : 6;
+  const override = BODY_OVERRIDES[char]?.[layout.bodyRows];
+  const body = override ? parseRowStrings(override) : removeRows(source.slice(bodyStart, 14), 14 - bodyStart - layout.bodyRows);
+  const above = isTall ? Array(TALL_ASCENDER_ROWS).fill(source[6]) : source.slice(1, 6);
+  return shiftRows([...above, ...body, ...source.slice(14)], layout.bodyTop - above.length);
 }
 
 function shiftRows(source: Rows, offset: number): Rows {
@@ -159,6 +174,11 @@ function narrowRows(rows: Rows, isMark: boolean): Rows {
   );
 }
 
+function alignBottom(source: Rows, bottom: number): Rows {
+  const lastRow = source.findLastIndex((mask) => mask !== 0);
+  return shiftRows(source, bottom - lastRow);
+}
+
 function alignMarkToBaseStem(rows: Rows): Rows {
   const overflows = rows.some((mask) => mask & RIGHTMOST_COLUMN_BIT);
   return overflows ? rows.map((mask) => (mask << 1) & 0xff) : rows;
@@ -182,32 +202,29 @@ export function buildThaiGlyphs(): ThaiGlyph[] {
     isMark: false,
     shiftLeft: 0,
     shadowBelow: true,
-    rows: (layout) => deriveBaseRows(source(char), layout, TALL_CONSONANTS.has(char)),
+    rows: (layout) => deriveBaseRows(char, source(char), layout),
   }));
 
   const upperRows = (char: string): Rows => {
-    if (char === 'ํ') return alignMarkToBaseStem(shiftRows(source(char), 1));
-    if (char === '็') {
-      const s = source(char);
-      return alignMarkToBaseStem(shiftRows([0, s[1], s[3], s[4]], 0));
-    }
-    return alignMarkToBaseStem(shiftRows(source(char), -1));
+    const s = source(char);
+    const rows = char === '็' ? [s[1], s[3], s[4]] : s;
+    return alignMarkToBaseStem(alignBottom(rows, UPPER_MARK_BOTTOM));
   };
-  const lowToneRows = (char: string): Rows => alignMarkToBaseStem(shiftRows(source(char), 1));
+  const lowToneRows = (char: string): Rows => alignMarkToBaseStem(alignBottom(source(char), UPPER_MARK_BOTTOM));
   const highToneRows = (char: string): Rows => padRows(parseRowStrings(HIGH_TONE_ROWS[char]));
   const lowerRows = (char: string, layout: FontLayout): Rows =>
     alignMarkToBaseStem(shiftRows(source(char).slice(14), layout.lowerMarkTop));
 
   const upperMarks = [...UPPER_VOWELS, 'ํ', '็'];
   const marks: Omit<ThaiGlyph, 'slot'>[] = [
-    ...UPPER_VOWELS.map((char) => mark(char, () => upperRows(char))),
+    ...UPPER_VOWELS.map((char) => mark(char, () => upperRows(char), 0, false)),
     ...LOWER_VOWELS.map((char) => mark(char, (layout) => lowerRows(char, layout))),
-    mark('็', () => upperRows('็')),
-    ...TONES.map((char) => mark(char, () => lowToneRows(char))),
-    mark('ํ', () => upperRows('ํ')),
+    mark('็', () => upperRows('็'), 0, false),
+    ...TONES.map((char) => mark(char, () => lowToneRows(char), 0, false)),
+    mark('ํ', () => upperRows('ํ'), 0, false),
     ...TONES.map((char, i) => mark(String.fromCodePoint(HIGH_TONE_CODEPOINT + i), () => highToneRows(char), 0, false)),
-    ...upperMarks.map((char, i) => mark(String.fromCodePoint(SHIFTED_UPPER_CODEPOINT + i), () => upperRows(char), TALL_SHIFT)),
-    ...TONES.map((char, i) => mark(String.fromCodePoint(SHIFTED_LOW_TONE_CODEPOINT + i), () => lowToneRows(char), TALL_SHIFT)),
+    ...upperMarks.map((char, i) => mark(String.fromCodePoint(SHIFTED_UPPER_CODEPOINT + i), () => upperRows(char), TALL_SHIFT, false)),
+    ...TONES.map((char, i) => mark(String.fromCodePoint(SHIFTED_LOW_TONE_CODEPOINT + i), () => lowToneRows(char), TALL_SHIFT, false)),
     ...TONES.map((char, i) =>
       mark(String.fromCodePoint(SHIFTED_HIGH_TONE_CODEPOINT + i), () => highToneRows(char), TALL_SHIFT, false),
     ),
