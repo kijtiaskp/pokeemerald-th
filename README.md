@@ -3,10 +3,12 @@
 แปล Pokémon Emerald เป็นภาษาไทยทั้งเกม บนฐาน decompilation [pret/pokeemerald](https://github.com/pret/pokeemerald)
 แจกเป็นไฟล์ patch เท่านั้น ต้องใช้ ROM ของตัวเอง (`Pokemon - Emerald Version (USA, Europe)`, SHA-1 `f3ae088181bf583e55daf962a92bb46f4f1d07b7`)
 
-## ใช้งาน patch
-1. เปิด [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) หรือ Floating IPS
-2. เลือก ROM ต้นฉบับ + `dist/pokeemerald-th.bps` แล้วบันทึกผลลัพธ์ `.gba`
+## ใช้งาน patch (Windows / Mac / มือถือ)
+1. เปิด **https://kijtiaskp.github.io/pokeemerald-th/** (หรือดาวน์โหลด `pokeemerald-th-patcher.html` จาก [Releases](https://github.com/kijtiaskp/pokeemerald-th/releases) แล้วดับเบิลคลิกเปิดในเบราว์เซอร์ ใช้ได้แบบออฟไลน์)
+2. ลาก ROM ต้นฉบับมาวาง หน้าเว็บจะตรวจ SHA-1 ใส่คำแปล และให้บันทึกไฟล์ `.gba` ภาษาไทย ไฟล์ไม่ถูกส่งออกจากเครื่อง
 3. ROM ที่ได้ต้องมี SHA-1 `fb378919bb14dad64c4ef4461932c725e2ada5af`
+
+ทางเลือก: ใช้ `dist/pokeemerald-th.bps` กับ [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) หรือ Floating IPS
 
 ## สิ่งที่แปล
 - บทพูด ป้าย ข้อความระบบ การต่อสู้ ทีวี โปเกนาวี คำอธิบายโปเกเด็กซ์/ไอเท็ม/คุณสมบัติ easy chat (~16,300 ข้อความ)
@@ -24,6 +26,7 @@
 | `tools/src/validate.ts` | ตรวจ token, `$`, byte limit, ตัวอักษรที่รองรับ |
 | `tools/src/insert.ts` | ตัดบรรทัดภาษาไทย (Intl.Segmenter + พจนานุกรมชื่อเฉพาะ) แล้วเขียนกลับ source จาก `thai-engine` |
 | `tools/src/make-bps.ts` | สร้าง/ตรวจ BPS patch |
+| `tools/src/make-patcher.ts` | สร้าง patcher หน้าเดียว (`dist/pokeemerald-th-patcher.html`, `docs/index.html`) ฝัง BPS ไว้ในไฟล์ |
 | `tools/qa/harness.lua` + `tools/src/qa.ts` | สั่ง mGBA (กดปุ่ม/ถ่ายภาพ/savestate) อัตโนมัติ |
 
 การเปลี่ยนแปลงใน engine (`rom/`)
@@ -47,6 +50,7 @@ cd tools
 npm run insert        # เขียนคำแปลลง rom/
 npm run build:th      # insert + make → rom/pokeemerald.gba
 npm run patch         # ต้องมี ../vanilla-src (git -C rom worktree add ../vanilla-src vanilla แล้ว make)
+npm run patcher       # สร้าง patcher HTML จาก dist/pokeemerald-th.bps
 ```
 
 ## ข้อจำกัดที่ทราบ

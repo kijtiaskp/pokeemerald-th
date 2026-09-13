@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pokémon Emerald ภาษาไทย — Patcher</title>
+<style>
+  :root { --bg: #f4f6f4; --card: #ffffff; --fg: #1d2620; --muted: #5d6a61; --accent: #1f8a4c; --accent-fg: #ffffff; --border: #d5dcd6; --error: #b3261e; --ok: #1f8a4c; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #131714; --card: #1c221d; --fg: #e8ece8; --muted: #9aa69d; --accent: #3fbf74; --accent-fg: #0d130f; --border: #2c352e; --error: #ff7b72; --ok: #3fbf74; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.55 -apple-system, "Segoe UI", "Noto Sans Thai", "Sarabun", system-ui, sans-serif; }
+  main { max-width: 640px; margin: 0 auto; padding: 32px 16px 48px; }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 24px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 20px; margin-bottom: 16px; }
+  ol { padding-left: 22px; margin: 0; }
+  li + li { margin-top: 6px; }
+  code { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 0.85em; word-break: break-all; }
+  .drop { display: block; border: 2px dashed var(--border); border-radius: 12px; padding: 36px 16px; text-align: center; cursor: pointer; transition: border-color .15s, background .15s; }
+  .drop.over { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); }
+  .drop strong { display: block; font-size: 1.1rem; margin-bottom: 4px; }
+  .drop span { color: var(--muted); }
+  input[type=file] { display: none; }
+  .status { margin-top: 16px; min-height: 1.5em; }
+  .status.error { color: var(--error); }
+  .status.ok { color: var(--ok); }
+  progress { width: 100%; height: 8px; margin-top: 12px; accent-color: var(--accent); }
+  .btn { display: inline-block; margin-top: 16px; padding: 12px 20px; border-radius: 10px; background: var(--accent); color: var(--accent-fg); font-weight: 600; text-decoration: none; }
+  .hidden { display: none; }
+  footer { color: var(--muted); font-size: 0.85rem; margin-top: 24px; }
+  footer a { color: inherit; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Pokémon Emerald ภาษาไทย</h1>
+  <p class="sub">Patcher เวอร์ชัน __VERSION__ ทำงานในเบราว์เซอร์ ไม่ส่งไฟล์ออกจากเครื่อง ใช้ได้ทั้ง Windows และ Mac</p>
+
+  <div class="card">
+    <ol>
+      <li>เตรียม ROM ของตัวเอง <code>Pokemon - Emerald Version (USA, Europe).gba</code></li>
+      <li>ลากไฟล์ ROM มาวางในกรอบด้านล่าง หรือคลิกเพื่อเลือกไฟล์</li>
+      <li>รอสักครู่ แล้วบันทึกไฟล์ที่ได้ไปเปิดในอีมูเลเตอร์ (mGBA, Delta, Pizza Boy ฯลฯ)</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <label class="drop" id="drop">
+      <strong>วาง ROM ที่นี่</strong>
+      <span>หรือคลิกเพื่อเลือกไฟล์ .gba</span>
+      <input type="file" id="file" accept=".gba,application/octet-stream">
+    </label>
+    <progress id="progress" class="hidden" max="100" value="0"></progress>
+    <div id="status" class="status"></div>
+    <a id="download" class="btn hidden" download="Pokemon - Emerald Version (TH).gba">บันทึก ROM ภาษาไทย</a>
+  </div>
+
+  <footer>
+    ROM ต้นฉบับต้องมี SHA-1 <code>__SOURCE_SHA1__</code><br>
+    ROM ที่ได้จะมี SHA-1 <code>__TARGET_SHA1__</code><br>
+    โค้ดและคำแปล: <a href="https://github.com/kijtiaskp/pokeemerald-th">github.com/kijtiaskp/pokeemerald-th</a>
+  </footer>
+</main>
+
+<script id="bps" type="application/octet-stream">__BPS_BASE64__</script>
+<script>
+const SOURCE_SHA1 = '__SOURCE_SHA1__';
+const TARGET_SHA1 = '__TARGET_SHA1__';
+
+const drop = document.getElementById('drop');
+const fileInput = document.getElementById('file');
+const progress = document.getElementById('progress');
+const status = document.getElementById('status');
+const download = document.getElementById('download');
+
+function setStatus(text, kind = '') {
+  status.textContent = text;
+  status.className = `status ${kind}`;
+}
+
+function setProgress(value) {
+  progress.classList.toggle('hidden', value === null);
+  if (value !== null) progress.value = value;
+}
+
+function decodeBase64(text) {
+  const binary = atob(text.trim());
+  const bytes = new Uint8Array(binary.length);
+  for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
+  return bytes;
+}
+
+async function sha1Hex(bytes) {
+  if (crypto.subtle) {
+    const digest = await crypto.subtle.digest('SHA-1', bytes);
+    return [...new Uint8Array(digest)].map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+  return sha1Fallback(bytes);
+}
+
+function sha1Fallback(bytes) {
+  const words = new Uint32Array(80);
+  let h0 = 0x67452301, h1 = 0xefcdab89, h2 = 0x98badcfe, h3 = 0x10325476, h4 = 0xc3d2e1f0;
+  const bitLength = bytes.length * 8;
+  const padded = new Uint8Array(Math.ceil((bytes.length + 9) / 64) * 64);
+  padded.set(bytes);
+  padded[bytes.length] = 0x80;
+  const view = new DataView(padded.buffer);
+  view.setUint32(padded.length - 8, Math.floor(bitLength / 0x100000000));
+  view.setUint32(padded.length - 4, bitLength >>> 0);
+  for (let offset = 0; offset < padded.length; offset += 64) {
+    for (let i = 0; i < 16; i++) words[i] = view.getUint32(offset + i * 4);
+    for (let i = 16; i < 80; i++) { const w = words[i - 3] ^ words[i - 8] ^ words[i - 14] ^ words[i - 16]; words[i] = (w << 1) | (w >>> 31); }
+    let a = h0, b = h1, c = h2, d = h3, e = h4;
+    for (let i = 0; i < 80; i++) {
+      let f, k;
+      if (i < 20) { f = (b & c) | (~b & d); k = 0x5a827999; }
+      else if (i < 40) { f = b ^ c ^ d; k = 0x6ed9eba1; }
+      else if (i < 60) { f = (b & c) | (b & d) | (c & d); k = 0x8f1bbcdc; }
+      else { f = b ^ c ^ d; k = 0xca62c1d6; }
+      const t = (((a << 5) | (a >>> 27)) + f + e + k + words[i]) >>> 0;
+      e = d; d = c; c = (b << 30) | (b >>> 2); b = a; a = t;
+    }
+    h0 = (h0 + a) >>> 0; h1 = (h1 + b) >>> 0; h2 = (h2 + c) >>> 0; h3 = (h3 + d) >>> 0; h4 = (h4 + e) >>> 0;
+  }
+  return [h0, h1, h2, h3, h4].map(h => h.toString(16).padStart(8, '0')).join('');
+}
+
+function decodeNumber(patch, cursor) {
+  let data = 0;
+  let shift = 1;
+  while (true) {
+    const x = patch[cursor.offset++];
+    data += (x & 0x7f) * shift;
+    if (x & 0x80) return data;
+    shift *= 128;
+    data += shift;
+  }
+}
+
+async function applyBps(source, patch, onProgress) {
+  const cursor = { offset: 4 };
+  decodeNumber(patch, cursor);
+  const target = new Uint8Array(decodeNumber(patch, cursor));
+  const metadataSize = decodeNumber(patch, cursor);
+  cursor.offset += metadataSize;
+  let outputOffset = 0;
+  let sourceRelative = 0;
+  let targetRelative = 0;
+  let nextYield = 0;
+  const end = patch.length - 12;
+  while (cursor.offset < end) {
+    const data = decodeNumber(patch, cursor);
+    const action = data & 3;
+    const length = Math.floor(data / 4) + 1;
+    if (action === 0) {
+      target.set(source.subarray(outputOffset, outputOffset + length), outputOffset);
+    } else if (action === 1) {
+      target.set(patch.subarray(cursor.offset, cursor.offset + length), outputOffset);
+      cursor.offset += length;
+    } else {
+      const encoded = decodeNumber(patch, cursor);
+      const delta = (encoded & 1 ? -1 : 1) * Math.floor(encoded / 2);
+      if (action === 2) {
+        sourceRelative += delta;
+        target.set(source.subarray(sourceRelative, sourceRelative + length), outputOffset);
+        sourceRelative += length;
+      } else {
+        targetRelative += delta;
+        for (let i = 0; i < length; i++) target[outputOffset + i] = target[targetRelative++];
+      }
+    }
+    outputOffset += length;
+    if (outputOffset >= nextYield) {
+      nextYield = outputOffset + target.length / 50;
+      onProgress(outputOffset / target.length);
+      await new Promise(resolve => setTimeout(resolve));
+    }
+  }
+  return target;
+}
+
+async function handleFile(file) {
+  download.classList.add('hidden');
+  if (download.href) URL.revokeObjectURL(download.href);
+  setProgress(0);
+  setStatus('กำลังตรวจสอบ ROM…');
+  try {
+    const source = new Uint8Array(await file.arrayBuffer());
+    const sourceHash = await sha1Hex(source);
+    if (sourceHash !== SOURCE_SHA1) {
+      setProgress(null);
+      setStatus(`ไฟล์นี้ไม่ใช่ ROM Emerald (USA, Europe) ต้นฉบับ (SHA-1 ${sourceHash}) ต้องเป็นไฟล์ที่ยังไม่ถูกแก้ไข ขนาด 16 MB`, 'error');
+      return;
+    }
+    setStatus('กำลังใส่คำแปล…');
+    const patch = decodeBase64(document.getElementById('bps').textContent);
+    const target = await applyBps(source, patch, value => setProgress(Math.round(value * 90)));
+    setStatus('กำลังตรวจสอบผลลัพธ์…');
+    setProgress(95);
+    const targetHash = await sha1Hex(target);
+    if (targetHash !== TARGET_SHA1) {
+      setProgress(null);
+      setStatus(`ผลลัพธ์ไม่ตรงที่คาดไว้ (SHA-1 ${targetHash}) ลองใหม่หรือแจ้งปัญหาที่ GitHub`, 'error');
+      return;
+    }
+    download.href = URL.createObjectURL(new Blob([target], { type: 'application/octet-stream' }));
+    download.classList.remove('hidden');
+    setProgress(100);
+    setStatus('เสร็จแล้ว กดปุ่มด้านล่างเพื่อบันทึกไฟล์', 'ok');
+  } catch (error) {
+    setProgress(null);
+    setStatus(`เกิดข้อผิดพลาด: ${error.message}`, 'error');
+  }
+}
+
+fileInput.addEventListener('change', () => { if (fileInput.files[0]) handleFile(fileInput.files[0]); });
+['dragenter', 'dragover'].forEach(name => drop.addEventListener(name, event => { event.preventDefault(); drop.classList.add('over'); }));
+['dragleave', 'drop'].forEach(name => drop.addEventListener(name, event => { event.preventDefault(); drop.classList.remove('over'); }));
+drop.addEventListener('drop', event => { const file = event.dataTransfer.files[0]; if (file) handleFile(file); });
+</script>
+</body>
+</html>

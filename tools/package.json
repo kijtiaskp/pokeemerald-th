@@ -14,6 +14,8 @@
     "insert": "node --disable-warning=ExperimentalWarning src/insert.ts",
     "build:th": "node --disable-warning=ExperimentalWarning src/insert.ts && make -C ../rom -j8",
     "build:qa": "node --disable-warning=ExperimentalWarning src/insert.ts && touch ../rom/src/new_game.c ../rom/src/text_marquee.c && make -C ../rom -j8 THAI_QA=1 && touch ../rom/src/new_game.c ../rom/src/text_marquee.c",
-    "patch": "node --disable-warning=ExperimentalWarning src/make-bps.ts ../vanilla-src/pokeemerald.gba ../rom/pokeemerald.gba ../dist/pokeemerald-th.bps"
+    "patch": "node --disable-warning=ExperimentalWarning src/make-bps.ts ../vanilla-src/pokeemerald.gba ../rom/pokeemerald.gba ../dist/pokeemerald-th.bps",
+    "patcher": "node --disable-warning=ExperimentalWarning src/make-patcher.ts ../dist/pokeemerald-th.bps ../rom/pokeemerald.gba $(git describe --tags --abbrev=0) ../dist/pokeemerald-th-patcher.html ../docs/index.html",
+    "release": "npm run patch && npm run patcher"
   }
 }
