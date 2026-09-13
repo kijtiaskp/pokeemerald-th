@@ -69,6 +69,16 @@ local function runCommand(line)
     emu:saveStateSlot(tonumber(rest))
   elseif verb == "load" then
     emu:loadStateSlot(tonumber(rest))
+  elseif verb == "dump" then
+    local address, length, path = rest:match("^(%S+)%s+(%d+)%s+(%S+)$")
+    local file = io.open(path, "wb")
+    if file then
+      local base = tonumber(address)
+      for offset = 0, tonumber(length) - 1 do
+        file:write(string.char(emu:read8(base + offset)))
+      end
+      file:close()
+    end
   elseif verb == "reset" then
     emu:reset()
     waitFrames = 30
