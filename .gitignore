@@ -8,3 +8,5 @@ tools/qa/status.txt
 tools/qa/shots/
 node_modules/
 vanilla-src/
+*.sav
+*.ss[0-9]
