@@ -39,8 +39,11 @@ export function loadSourceEntries(): Map<string, SourceEntry> {
   return new Map(readJsonl<SourceEntry>(path.join(DATA_DIR, 'strings.jsonl')).map((entry) => [entry.id, entry]));
 }
 
+// Glyph constants that only draw English logos; Thai text may drop them.
+const OPTIONAL_GLYPH_CONSTANTS = new Set(['{PKMN}', '{PK}', '{MN}', '{POKEBLOCK}', '{SUPER_E}', '{SUPER_ER}', '{SUPER_RE}']);
+
 function placeholders(text: string): string[] {
-  return (text.match(/\{[^}]*\}/g) ?? []).sort();
+  return (text.match(/\{[^}]*\}/g) ?? []).filter((token) => !OPTIONAL_GLYPH_CONSTANTS.has(token)).sort();
 }
 
 export function validateTranslation(translation: Translation, source: SourceEntry | undefined, charmap: Charmap): Issue[] {

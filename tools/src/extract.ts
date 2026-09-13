@@ -60,13 +60,14 @@ const MAX_BYTES: Record<string, number> = {
   dex_category: 11,
   move: 12,
   ability: 12,
-  type: 7,
+  type: 8,
   trainer_class: 12,
   trainer_name: 10,
   item: 13,
-  decoration: 15,
-  location: 16,
+  decoration: 19,
+  location: 18,
   berry_name: 6,
+  easy_chat: 11,
 };
 
 function classify(site: StringSite): { kind: string; maxBytes?: number } {
@@ -77,7 +78,7 @@ function classify(site: StringSite): { kind: string; maxBytes?: number } {
   if (site.file.endsWith('items.h')) kind = site.key.endsWith('.name') ? 'item' : 'ui';
   if (site.file.endsWith('trainers.h') && site.key.endsWith('.trainerName')) kind = 'trainer_name';
   if (site.file.endsWith('battle_main.c') && site.key.startsWith('TYPE_')) kind = 'type';
-  if (kind === 'berry' && site.key.endsWith('.name')) kind = 'berry_name';
+  if (kind === 'berry' && /^name(~\d+)?$/.test(site.key)) kind = 'berry_name';
   if (kind === 'decoration' && !site.key.endsWith('.name') && !site.key.startsWith('DECOR_')) kind = 'decoration_desc';
 
   return { kind, maxBytes: MAX_BYTES[kind] };

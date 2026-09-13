@@ -1,0 +1,1254 @@
+{"id":"src/data/text/item_descriptions.h#sLumBerryDesc","kind":"item_desc","en":"A hold item that\\nheals any status\\nproblem in battle."}
+{"id":"src/data/text/item_descriptions.h#sSitrusBerryDesc","kind":"item_desc","en":"A hold item that\\nrestores 30 HP in\\nbattle."}
+{"id":"src/data/text/item_descriptions.h#sFigyBerryDesc","kind":"item_desc","en":"A hold item that\\nrestores HP but\\nmay confuse."}
+{"id":"src/data/text/item_descriptions.h#sWikiBerryDesc","kind":"item_desc","en":"A hold item that\\nrestores HP but\\nmay confuse."}
+{"id":"src/data/text/item_descriptions.h#sMagoBerryDesc","kind":"item_desc","en":"A hold item that\\nrestores HP but\\nmay confuse."}
+{"id":"src/data/text/item_descriptions.h#sAguavBerryDesc","kind":"item_desc","en":"A hold item that\\nrestores HP but\\nmay confuse."}
+{"id":"src/data/text/item_descriptions.h#sIapapaBerryDesc","kind":"item_desc","en":"A hold item that\\nrestores HP but\\nmay confuse."}
+{"id":"src/data/text/item_descriptions.h#sRazzBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow RAZZ."}
+{"id":"src/data/text/item_descriptions.h#sBlukBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow BLUK."}
+{"id":"src/data/text/item_descriptions.h#sNanabBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow NANAB."}
+{"id":"src/data/text/item_descriptions.h#sWepearBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow WEPEAR."}
+{"id":"src/data/text/item_descriptions.h#sPinapBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow PINAP."}
+{"id":"src/data/text/item_descriptions.h#sPomegBerryDesc","kind":"item_desc","en":"Makes a POKéMON\\nfriendly but lowers\\nbase HP."}
+{"id":"src/data/text/item_descriptions.h#sKelpsyBerryDesc","kind":"item_desc","en":"Makes a POKéMON\\nfriendly but lowers\\nbase ATTACK."}
+{"id":"src/data/text/item_descriptions.h#sQualotBerryDesc","kind":"item_desc","en":"Makes a POKéMON\\nfriendly but lowers\\nbase DEFENSE."}
+{"id":"src/data/text/item_descriptions.h#sHondewBerryDesc","kind":"item_desc","en":"Makes a POKéMON\\nfriendly but lowers\\nbase SP. ATK."}
+{"id":"src/data/text/item_descriptions.h#sGrepaBerryDesc","kind":"item_desc","en":"Makes a POKéMON\\nfriendly but lowers\\nbase SP. DEF."}
+{"id":"src/data/text/item_descriptions.h#sTamatoBerryDesc","kind":"item_desc","en":"Makes a POKéMON\\nfriendly but lowers\\nbase SPEED."}
+{"id":"src/data/text/item_descriptions.h#sCornnBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow CORNN."}
+{"id":"src/data/text/item_descriptions.h#sMagostBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow MAGOST."}
+{"id":"src/data/text/item_descriptions.h#sRabutaBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow RABUTA."}
+{"id":"src/data/text/item_descriptions.h#sNomelBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow NOMEL."}
+{"id":"src/data/text/item_descriptions.h#sSpelonBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow SPELON."}
+{"id":"src/data/text/item_descriptions.h#sPamtreBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow PAMTRE."}
+{"id":"src/data/text/item_descriptions.h#sWatmelBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow WATMEL."}
+{"id":"src/data/text/item_descriptions.h#sDurinBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow DURIN."}
+{"id":"src/data/text/item_descriptions.h#sBelueBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow BELUE."}
+{"id":"src/data/text/item_descriptions.h#sLiechiBerryDesc","kind":"item_desc","en":"A hold item that\\nraises ATTACK in\\na pinch."}
+{"id":"src/data/text/item_descriptions.h#sGanlonBerryDesc","kind":"item_desc","en":"A hold item that\\nraises DEFENSE in\\na pinch."}
+{"id":"src/data/text/item_descriptions.h#sSalacBerryDesc","kind":"item_desc","en":"A hold item that\\nraises SPEED in\\na pinch."}
+{"id":"src/data/text/item_descriptions.h#sPetayaBerryDesc","kind":"item_desc","en":"A hold item that\\nraises SP. ATK in\\na pinch."}
+{"id":"src/data/text/item_descriptions.h#sApicotBerryDesc","kind":"item_desc","en":"A hold item that\\nraises SP. DEF in\\na pinch."}
+{"id":"src/data/text/item_descriptions.h#sLansatBerryDesc","kind":"item_desc","en":"A hold item that\\nups the critical-\\nhit rate in a pinch."}
+{"id":"src/data/text/item_descriptions.h#sStarfBerryDesc","kind":"item_desc","en":"A hold item that\\nsharply boosts a\\nstat in a pinch."}
+{"id":"src/data/text/item_descriptions.h#sEnigmaBerryDesc","kind":"item_desc","en":"{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow a mystery."}
+{"id":"src/data/text/item_descriptions.h#sBrightPowderDesc","kind":"item_desc","en":"A hold item that\\ncasts a glare to\\nreduce accuracy."}
+{"id":"src/data/text/item_descriptions.h#sWhiteHerbDesc","kind":"item_desc","en":"A hold item that\\nrestores any\\nlowered stat."}
+{"id":"src/data/text/item_descriptions.h#sMachoBraceDesc","kind":"item_desc","en":"A hold item that\\npromotes growth,\\nbut reduces SPEED."}
+{"id":"src/data/text/item_descriptions.h#sExpShareDesc","kind":"item_desc","en":"A hold item that\\ngets EXP. points\\nfrom battles."}
+{"id":"src/data/text/item_descriptions.h#sQuickClawDesc","kind":"item_desc","en":"A hold item that\\noccasionally allows\\nthe first strike."}
+{"id":"src/data/text/item_descriptions.h#sSootheBellDesc","kind":"item_desc","en":"A hold item that\\ncalms spirits and\\nfosters friendship."}
+{"id":"src/data/text/item_descriptions.h#sMentalHerbDesc","kind":"item_desc","en":"A hold item that\\nsnaps POKéMON out\\nof infatuation."}
+{"id":"src/data/text/item_descriptions.h#sChoiceBandDesc","kind":"item_desc","en":"Raises a move's\\npower, but permits\\nonly that move."}
+{"id":"src/data/text/item_descriptions.h#sKingsRockDesc","kind":"item_desc","en":"A hold item that\\nmay cause flinching\\nwhen the foe is hit."}
+{"id":"src/data/text/item_descriptions.h#sSilverPowderDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nBUG-type moves."}
+{"id":"src/data/text/item_descriptions.h#sAmuletCoinDesc","kind":"item_desc","en":"Doubles money in\\nbattle if the\\nholder takes part."}
+{"id":"src/data/text/item_descriptions.h#sCleanseTagDesc","kind":"item_desc","en":"A hold item that\\nhelps repel wild\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sSoulDewDesc","kind":"item_desc","en":"Hold item: raises\\nSP. ATK & SP. DEF of\\nLATIOS & LATIAS."}
+{"id":"src/data/text/item_descriptions.h#sDeepSeaToothDesc","kind":"item_desc","en":"A hold item that\\nraises the SP. ATK\\nof CLAMPERL."}
+{"id":"src/data/text/item_descriptions.h#sDeepSeaScaleDesc","kind":"item_desc","en":"A hold item that\\nraises the SP. DEF\\nof CLAMPERL."}
+{"id":"src/data/text/item_descriptions.h#sSmokeBallDesc","kind":"item_desc","en":"A hold item that\\nassures fleeing\\nfrom wild POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sEverstoneDesc","kind":"item_desc","en":"A wondrous hold\\nitem that prevents\\nevolution."}
+{"id":"src/data/text/item_descriptions.h#sFocusBandDesc","kind":"item_desc","en":"A hold item that\\noccasionally\\nprevents fainting."}
+{"id":"src/data/text/item_descriptions.h#sLuckyEggDesc","kind":"item_desc","en":"A hold item that\\nboosts EXP. points\\nearned in battle."}
+{"id":"src/data/text/item_descriptions.h#sScopeLensDesc","kind":"item_desc","en":"A hold item that\\nimproves the\\ncritical-hit rate."}
+{"id":"src/data/text/item_descriptions.h#sMetalCoatDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nSTEEL-type moves."}
+{"id":"src/data/text/item_descriptions.h#sLeftoversDesc","kind":"item_desc","en":"A hold item that\\ngradually restores\\nHP in battle."}
+{"id":"src/data/text/item_descriptions.h#sDragonScaleDesc","kind":"item_desc","en":"A strange scale\\nheld by DRAGON-\\ntype POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sLightBallDesc","kind":"item_desc","en":"A hold item that\\nraises the SP. ATK\\nof PIKACHU."}
+{"id":"src/data/text/item_descriptions.h#sSoftSandDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nGROUND-type moves."}
+{"id":"src/data/text/item_descriptions.h#sHardStoneDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nROCK-type moves."}
+{"id":"src/data/text/item_descriptions.h#sMiracleSeedDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nGRASS-type moves."}
+{"id":"src/data/text/item_descriptions.h#sBlackGlassesDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nDARK-type moves."}
+{"id":"src/data/text/item_descriptions.h#sBlackBeltDesc","kind":"item_desc","en":"A hold item that\\nboosts FIGHTING-\\ntype moves."}
+{"id":"src/data/text/item_descriptions.h#sMagnetDesc","kind":"item_desc","en":"A hold item that\\nboosts ELECTRIC-\\ntype moves."}
+{"id":"src/data/text/item_descriptions.h#sMysticWaterDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nWATER-type moves."}
+{"id":"src/data/text/item_descriptions.h#sSharpBeakDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nFLYING-type moves."}
+{"id":"src/data/text/item_descriptions.h#sPoisonBarbDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nPOISON-type moves."}
+{"id":"src/data/text/item_descriptions.h#sNeverMeltIceDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nICE-type moves."}
+{"id":"src/data/text/item_descriptions.h#sSpellTagDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nGHOST-type moves."}
+{"id":"src/data/text/item_descriptions.h#sTwistedSpoonDesc","kind":"item_desc","en":"A hold item that\\nboosts PSYCHIC-\\ntype moves."}
+{"id":"src/data/text/item_descriptions.h#sCharcoalDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nFIRE-type moves."}
+{"id":"src/data/text/item_descriptions.h#sDragonFangDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nDRAGON-type moves."}
+{"id":"src/data/text/item_descriptions.h#sSilkScarfDesc","kind":"item_desc","en":"A hold item that\\nraises the power of\\nNORMAL-type moves."}
+{"id":"src/data/text/item_descriptions.h#sUpGradeDesc","kind":"item_desc","en":"A peculiar box made\\nby SILPH CO."}
+{"id":"src/data/text/item_descriptions.h#sShellBellDesc","kind":"item_desc","en":"A hold item that\\nrestores HP upon\\nstriking the foe."}
+{"id":"src/data/text/item_descriptions.h#sSeaIncenseDesc","kind":"item_desc","en":"A hold item that\\nslightly boosts\\nWATER-type moves."}
+{"id":"src/data/text/item_descriptions.h#sLaxIncenseDesc","kind":"item_desc","en":"A hold item that\\nslightly lowers the\\nfoe's accuracy."}
+{"id":"src/data/text/item_descriptions.h#sLuckyPunchDesc","kind":"item_desc","en":"A hold item that\\nraises CHANSEY's\\ncritical-hit rate."}
+{"id":"src/data/text/item_descriptions.h#sMetalPowderDesc","kind":"item_desc","en":"A hold item that\\nraises DITTO's\\nDEFENSE."}
+{"id":"src/data/text/item_descriptions.h#sThickClubDesc","kind":"item_desc","en":"A hold item that \\nraises CUBONE or\\nMAROWAK's ATTACK."}
+{"id":"src/data/text/item_descriptions.h#sStickDesc","kind":"item_desc","en":"A hold item that\\nraises FARFETCH'D's\\ncritical-hit ratio."}
+{"id":"src/data/text/item_descriptions.h#sRedScarfDesc","kind":"item_desc","en":"A hold item that\\nraises COOL in\\nCONTESTS."}
+{"id":"src/data/text/item_descriptions.h#sBlueScarfDesc","kind":"item_desc","en":"A hold item that\\nraises BEAUTY in\\nCONTESTS."}
+{"id":"src/data/text/item_descriptions.h#sPinkScarfDesc","kind":"item_desc","en":"A hold item that\\nraises CUTE in\\nCONTESTS."}
+{"id":"src/data/text/item_descriptions.h#sGreenScarfDesc","kind":"item_desc","en":"A hold item that\\nraises SMART in\\nCONTESTS."}
+{"id":"src/data/text/item_descriptions.h#sYellowScarfDesc","kind":"item_desc","en":"A hold item that\\nraises TOUGH in\\nCONTESTS."}
+{"id":"src/data/text/item_descriptions.h#sMachBikeDesc","kind":"item_desc","en":"A folding bicycle\\nthat doubles your\\nspeed or better."}
+{"id":"src/data/text/item_descriptions.h#sCoinCaseDesc","kind":"item_desc","en":"A case that holds\\nup to 9,999 COINS."}
+{"id":"src/data/text/item_descriptions.h#sItemfinderDesc","kind":"item_desc","en":"A device that\\nsignals an invisible\\nitem by sound."}
+{"id":"src/data/text/item_descriptions.h#sOldRodDesc","kind":"item_desc","en":"Use by any body of\\nwater to fish for\\nwild POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sGoodRodDesc","kind":"item_desc","en":"A decent fishing\\nrod for catching\\nwild POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sSuperRodDesc","kind":"item_desc","en":"The best fishing\\nrod for catching\\nwild POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sSSTicketDesc","kind":"item_desc","en":"The ticket required\\nfor sailing on a\\nferry."}
+{"id":"src/data/text/item_descriptions.h#sContestPassDesc","kind":"item_desc","en":"The pass required\\nfor entering\\nPOKéMON CONTESTS."}
+{"id":"src/data/text/item_descriptions.h#sWailmerPailDesc","kind":"item_desc","en":"A tool used for\\nwatering BERRIES\\nand plants."}
+{"id":"src/data/text/item_descriptions.h#sDevonGoodsDesc","kind":"item_desc","en":"A package that\\ncontains DEVON's\\nmachine parts."}
+{"id":"src/data/text/item_descriptions.h#sSootSackDesc","kind":"item_desc","en":"A sack used to\\ngather and hold\\nvolcanic ash."}
+{"id":"src/data/text/item_descriptions.h#sBasementKeyDesc","kind":"item_desc","en":"The key for NEW\\nMAUVILLE beneath\\nMAUVILLE CITY."}
+{"id":"src/data/text/item_descriptions.h#sAcroBikeDesc","kind":"item_desc","en":"A folding bicycle\\ncapable of jumps\\nand wheelies."}
+{"id":"src/data/text/item_descriptions.h#sPokeblockCaseDesc","kind":"item_desc","en":"A case for holding\\n{POKEBLOCK}S made with\\na BERRY BLENDER."}
+{"id":"src/data/text/item_descriptions.h#sLetterDesc","kind":"item_desc","en":"A letter to STEVEN\\nfrom the PRESIDENT\\nof the DEVON CORP."}
+{"id":"src/data/text/item_descriptions.h#sEonTicketDesc","kind":"item_desc","en":"The ticket for a\\nferry to a distant\\nsouthern island."}
+{"id":"src/data/text/item_descriptions.h#sRedOrbDesc","kind":"item_desc","en":"A red, glowing orb\\nsaid to contain an\\nancient power."}
+{"id":"src/data/text/item_descriptions.h#sBlueOrbDesc","kind":"item_desc","en":"A blue, glowing orb\\nsaid to contain an\\nancient power."}
+{"id":"src/data/text/item_descriptions.h#sScannerDesc","kind":"item_desc","en":"A device found\\ninside the\\nABANDONED SHIP."}
+{"id":"src/data/text/item_descriptions.h#sGoGogglesDesc","kind":"item_desc","en":"Nifty goggles that\\nprotect eyes from\\ndesert sandstorms."}
+{"id":"src/data/text/item_descriptions.h#sMeteoriteDesc","kind":"item_desc","en":"A meteorite found\\nat METEOR FALLS."}
+{"id":"src/data/text/item_descriptions.h#sRoom1KeyDesc","kind":"item_desc","en":"A key that opens a\\ndoor inside the\\nABANDONED SHIP."}
+{"id":"src/data/text/item_descriptions.h#sRoom2KeyDesc","kind":"item_desc","en":"A key that opens a\\ndoor inside the\\nABANDONED SHIP."}
+{"id":"src/data/text/item_descriptions.h#sRoom4KeyDesc","kind":"item_desc","en":"A key that opens a\\ndoor inside the\\nABANDONED SHIP."}
+{"id":"src/data/text/item_descriptions.h#sRoom6KeyDesc","kind":"item_desc","en":"A key that opens a\\ndoor inside the\\nABANDONED SHIP."}
+{"id":"src/data/text/item_descriptions.h#sStorageKeyDesc","kind":"item_desc","en":"The key to the\\nstorage inside the\\nABANDONED SHIP."}
+{"id":"src/data/text/item_descriptions.h#sRootFossilDesc","kind":"item_desc","en":"A fossil of an\\nancient, seafloor-\\ndwelling POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sClawFossilDesc","kind":"item_desc","en":"A fossil of an\\nancient, seafloor-\\ndwelling POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sDevonScopeDesc","kind":"item_desc","en":"A device by DEVON\\nthat signals any\\nunseeable POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sTM01Desc","kind":"item_desc","en":"Powerful, but makes\\nthe user flinch if\\nhit by the foe."}
+{"id":"src/data/text/item_descriptions.h#sTM02Desc","kind":"item_desc","en":"Hooks and slashes\\nthe foe with long,\\nsharp claws."}
+{"id":"src/data/text/item_descriptions.h#sTM03Desc","kind":"item_desc","en":"Generates an\\nultrasonic wave\\nthat may confuse."}
+{"id":"src/data/text/item_descriptions.h#sTM04Desc","kind":"item_desc","en":"Raises SP. ATK and\\nSP. DEF by focusing\\nthe mind."}
+{"id":"src/data/text/item_descriptions.h#sTM05Desc","kind":"item_desc","en":"A savage roar that\\nmakes the foe flee \\nto end the battle."}
+{"id":"src/data/text/item_descriptions.h#sTM06Desc","kind":"item_desc","en":"Poisons the foe\\nwith a toxin that\\ngradually worsens."}
+{"id":"src/data/text/item_descriptions.h#sTM07Desc","kind":"item_desc","en":"Creates a hailstorm\\nthat damages all\\ntypes except ICE."}
+{"id":"src/data/text/item_descriptions.h#sTM08Desc","kind":"item_desc","en":"Bulks up the body\\nto boost both\\nATTACK & DEFENSE."}
+{"id":"src/data/text/item_descriptions.h#sTM09Desc","kind":"item_desc","en":"Shoots 2 to 5 seeds\\nin a row to strike\\nthe foe."}
+{"id":"src/data/text/item_descriptions.h#sTM10Desc","kind":"item_desc","en":"The attack power\\nvaries among\\ndifferent POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sTM11Desc","kind":"item_desc","en":"Raises the power of\\nFIRE-type moves\\nfor 5 turns."}
+{"id":"src/data/text/item_descriptions.h#sTM12Desc","kind":"item_desc","en":"Enrages the foe so\\nit can only use\\nattack moves."}
+{"id":"src/data/text/item_descriptions.h#sTM13Desc","kind":"item_desc","en":"Fires an icy cold\\nbeam that may\\nfreeze the foe."}
+{"id":"src/data/text/item_descriptions.h#sTM14Desc","kind":"item_desc","en":"A brutal snow-and-\\nwind attack that\\nmay freeze the foe."}
+{"id":"src/data/text/item_descriptions.h#sTM15Desc","kind":"item_desc","en":"Powerful, but needs\\nrecharging the\\nnext turn."}
+{"id":"src/data/text/item_descriptions.h#sTM16Desc","kind":"item_desc","en":"Creates a wall of\\nlight that lowers\\nSP. ATK damage."}
+{"id":"src/data/text/item_descriptions.h#sTM17Desc","kind":"item_desc","en":"Negates all damage,\\nbut may fail if used\\nin succession."}
+{"id":"src/data/text/item_descriptions.h#sTM18Desc","kind":"item_desc","en":"Raises the power of\\nWATER-type moves\\nfor 5 turns."}
+{"id":"src/data/text/item_descriptions.h#sTM19Desc","kind":"item_desc","en":"Recovers half the\\nHP of the damage \\nthis move inflicts."}
+{"id":"src/data/text/item_descriptions.h#sTM20Desc","kind":"item_desc","en":"Prevents status\\nabnormality with a\\nmystical power."}
+{"id":"src/data/text/item_descriptions.h#sTM21Desc","kind":"item_desc","en":"The less the user\\nlikes you, the more\\npowerful this move."}
+{"id":"src/data/text/item_descriptions.h#sTM22Desc","kind":"item_desc","en":"Absorbs sunlight in\\nthe 1st turn, then\\nattacks next turn."}
+{"id":"src/data/text/item_descriptions.h#sTM23Desc","kind":"item_desc","en":"Slams the foe with\\na hard tail. It may\\nlower DEFENSE."}
+{"id":"src/data/text/item_descriptions.h#sTM24Desc","kind":"item_desc","en":"A powerful electric\\nattack that may\\ncause paralysis."}
+{"id":"src/data/text/item_descriptions.h#sTM25Desc","kind":"item_desc","en":"Strikes the foe\\nwith a thunderbolt.\\nIt may paralyze."}
+{"id":"src/data/text/item_descriptions.h#sTM26Desc","kind":"item_desc","en":"Causes a quake\\nthat has no effect\\non flying foes."}
+{"id":"src/data/text/item_descriptions.h#sTM27Desc","kind":"item_desc","en":"The more the user\\nlikes you, the more\\npowerful this move."}
+{"id":"src/data/text/item_descriptions.h#sTM28Desc","kind":"item_desc","en":"Digs underground\\nthe 1st turn, then\\nstrikes next turn."}
+{"id":"src/data/text/item_descriptions.h#sTM29Desc","kind":"item_desc","en":"A powerful psychic\\nattack that may\\nlower SP. DEF."}
+{"id":"src/data/text/item_descriptions.h#sTM30Desc","kind":"item_desc","en":"Hurls a dark lump\\nat the foe. It may\\nlower SP. DEF."}
+{"id":"src/data/text/item_descriptions.h#sTM31Desc","kind":"item_desc","en":"Destroys barriers\\nlike LIGHT SCREEN\\nand causes damage."}
+{"id":"src/data/text/item_descriptions.h#sTM32Desc","kind":"item_desc","en":"Creates illusory\\ncopies to enhance\\nelusiveness."}
+{"id":"src/data/text/item_descriptions.h#sTM33Desc","kind":"item_desc","en":"Creates a wall of\\nlight that weakens\\nphysical attacks."}
+{"id":"src/data/text/item_descriptions.h#sTM34Desc","kind":"item_desc","en":"Zaps the foe with a\\njolt of electricity\\nthat never misses."}
+{"id":"src/data/text/item_descriptions.h#sTM35Desc","kind":"item_desc","en":"Looses a stream of\\nfire that may burn\\nthe foe."}
+{"id":"src/data/text/item_descriptions.h#sTM36Desc","kind":"item_desc","en":"Hurls sludge at the\\nfoe. It may poison\\nthe foe."}
+{"id":"src/data/text/item_descriptions.h#sTM37Desc","kind":"item_desc","en":"Causes a sandstorm\\nthat hits the foe\\nover several turns."}
+{"id":"src/data/text/item_descriptions.h#sTM38Desc","kind":"item_desc","en":"A powerful fire\\nattack that may\\nburn the foe."}
+{"id":"src/data/text/item_descriptions.h#sTM39Desc","kind":"item_desc","en":"Stops the foe from\\nmoving with rocks.\\nMay lower SPEED."}
+{"id":"src/data/text/item_descriptions.h#sTM40Desc","kind":"item_desc","en":"An extremely fast\\nattack that can't\\nbe avoided."}
+{"id":"src/data/text/item_descriptions.h#sTM41Desc","kind":"item_desc","en":"Prevents the foe\\nfrom using the same\\nmove in a row."}
+{"id":"src/data/text/item_descriptions.h#sTM42Desc","kind":"item_desc","en":"Raises ATTACK when\\npoisoned, burned,\\nor paralyzed."}
+{"id":"src/data/text/item_descriptions.h#sTM43Desc","kind":"item_desc","en":"Adds an effect to\\nattack depending\\non the location."}
+{"id":"src/data/text/item_descriptions.h#sTM44Desc","kind":"item_desc","en":"The user sleeps for\\n2 turns to restore\\nhealth and status."}
+{"id":"src/data/text/item_descriptions.h#sTM45Desc","kind":"item_desc","en":"Makes it tough to\\nattack a foe of the\\nopposite gender."}
+{"id":"src/data/text/item_descriptions.h#sTM46Desc","kind":"item_desc","en":"While attacking,\\nit may steal the\\nfoe's held item."}
+{"id":"src/data/text/item_descriptions.h#sTM47Desc","kind":"item_desc","en":"Spreads hard-\\nedged wings and\\nslams into the foe."}
+{"id":"src/data/text/item_descriptions.h#sTM48Desc","kind":"item_desc","en":"Switches abilities\\nwith the foe on the\\nturn this is used."}
+{"id":"src/data/text/item_descriptions.h#sTM49Desc","kind":"item_desc","en":"Steals the effects\\nof the move the foe\\nis trying to use."}
+{"id":"src/data/text/item_descriptions.h#sTM50Desc","kind":"item_desc","en":"Enables full-power\\nattack, but sharply\\nlowers SP. ATK."}
+{"id":"src/data/text/item_descriptions.h#sHM01Desc","kind":"item_desc","en":"Attacks the foe\\nwith sharp blades\\nor claws."}
+{"id":"src/data/text/item_descriptions.h#sHM02Desc","kind":"item_desc","en":"Flies up on the\\nfirst turn, then\\nattacks next turn."}
+{"id":"src/data/text/item_descriptions.h#sHM03Desc","kind":"item_desc","en":"Creates a huge\\nwave, then crashes\\nit down on the foe."}
+{"id":"src/data/text/item_descriptions.h#sHM04Desc","kind":"item_desc","en":"Builds enormous\\npower, then slams\\nthe foe."}
+{"id":"src/data/text/item_descriptions.h#sHM05Desc","kind":"item_desc","en":"Looses a powerful\\nblast of light that\\nreduces accuracy."}
+{"id":"src/data/text/item_descriptions.h#sHM06Desc","kind":"item_desc","en":"A rock-crushingly\\ntough attack that\\nmay lower DEFENSE."}
+{"id":"src/data/text/item_descriptions.h#sHM07Desc","kind":"item_desc","en":"Attacks the foe\\nwith enough power\\nto climb waterfalls."}
+{"id":"src/data/text/item_descriptions.h#sHM08Desc","kind":"item_desc","en":"Dives underwater\\nthe 1st turn, then\\nattacks next turn."}
+{"id":"src/data/text/item_descriptions.h#sOaksParcelDesc","kind":"item_desc","en":"A parcel for PROF.\\nOAK from a POKéMON\\nMART's clerk."}
+{"id":"src/data/text/item_descriptions.h#sPokeFluteDesc","kind":"item_desc","en":"A sweet-sounding\\nflute that awakens\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sSecretKeyDesc","kind":"item_desc","en":"The key to the\\nCINNABAR ISLAND\\nGYM's entrance."}
+{"id":"src/data/text/item_descriptions.h#sBikeVoucherDesc","kind":"item_desc","en":"A voucher for\\nobtaining a bicycle\\nfrom the BIKE SHOP."}
+{"id":"src/data/text/item_descriptions.h#sGoldTeethDesc","kind":"item_desc","en":"Gold dentures lost\\nby the SAFARI\\nZONE's WARDEN."}
+{"id":"src/data/text/item_descriptions.h#sOldAmberDesc","kind":"item_desc","en":"A stone containing\\nthe genes of an\\nancient POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sCardKeyDesc","kind":"item_desc","en":"A card-type door\\nkey used in SILPH\\nCO's office."}
+{"id":"src/data/text/item_descriptions.h#sLiftKeyDesc","kind":"item_desc","en":"An elevator key\\nused in TEAM\\nROCKET's HIDEOUT."}
+{"id":"src/data/text/item_descriptions.h#sHelixFossilDesc","kind":"item_desc","en":"A piece of an\\nancient marine\\nPOKéMON's seashell."}
+{"id":"src/data/text/item_descriptions.h#sDomeFossilDesc","kind":"item_desc","en":"A piece of an\\nancient marine\\nPOKéMON's shell."}
+{"id":"src/data/text/item_descriptions.h#sSilphScopeDesc","kind":"item_desc","en":"SILPH CO's scope\\nmakes unseeable\\nPOKéMON visible."}
+{"id":"src/data/text/item_descriptions.h#sBicycleDesc","kind":"item_desc","en":"A folding bicycle\\nthat is faster than\\nthe RUNNING SHOES."}
+{"id":"src/data/text/item_descriptions.h#sTownMapDesc","kind":"item_desc","en":"Can be viewed\\nanytime. Shows your\\npresent location."}
+{"id":"src/data/text/item_descriptions.h#sVSSeekerDesc","kind":"item_desc","en":"A rechargeable unit\\nthat flags battle-\\nready TRAINERS."}
+{"id":"src/data/text/item_descriptions.h#sFameCheckerDesc","kind":"item_desc","en":"Stores information\\non famous people\\nfor instant recall."}
+{"id":"src/data/text/item_descriptions.h#sTMCaseDesc","kind":"item_desc","en":"A convenient case \\nthat holds TMs and\\nHMs."}
+{"id":"src/data/text/item_descriptions.h#sBerryPouchDesc","kind":"item_desc","en":"A convenient\\ncontainer that\\nholds BERRIES."}
+{"id":"src/data/text/item_descriptions.h#sTeachyTVDesc","kind":"item_desc","en":"A TV set tuned to\\nan advice program\\nfor TRAINERS."}
+{"id":"src/data/text/item_descriptions.h#sTriPassDesc","kind":"item_desc","en":"A pass for ferries\\nbetween ONE, TWO,\\nand THREE ISLAND."}
+{"id":"src/data/text/item_descriptions.h#sRainbowPassDesc","kind":"item_desc","en":"For ferries serving\\nVERMILION and the\\nSEVII ISLANDS."}
+{"id":"src/data/text/item_descriptions.h#sTeaDesc","kind":"item_desc","en":"A thirst-quenching\\ntea prepared by an\\nold lady."}
+{"id":"src/data/text/item_descriptions.h#sMysticTicketDesc","kind":"item_desc","en":"A ticket required\\nto board the ship\\nto NAVEL ROCK."}
+{"id":"src/data/text/item_descriptions.h#sAuroraTicketDesc","kind":"item_desc","en":"A ticket required\\nto board the ship\\nto BIRTH ISLAND."}
+{"id":"src/data/text/item_descriptions.h#sPowderJarDesc","kind":"item_desc","en":"Stores BERRY\\nPOWDER made using\\na BERRY CRUSHER."}
+{"id":"src/data/text/item_descriptions.h#sRubyDesc","kind":"item_desc","en":"An exquisite, red-\\nglowing gem that\\nsymbolizes passion."}
+{"id":"src/data/text/item_descriptions.h#sSapphireDesc","kind":"item_desc","en":"A brilliant blue gem\\nthat symbolizes\\nhonesty."}
+{"id":"src/data/text/item_descriptions.h#sMagmaEmblemDesc","kind":"item_desc","en":"A medal-like item in\\nthe same shape as\\nTEAM MAGMA's mark."}
+{"id":"src/data/text/item_descriptions.h#sOldSeaMapDesc","kind":"item_desc","en":"A faded sea chart\\nthat shows the way\\nto a certain island."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallAromaLady_Rose_Strategy","kind":"match_call","en":"Becalm fighting emotions."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallAromaLady_Rose_Pokemon","kind":"match_call","en":"Fragrant GRASS POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallAromaLady_Rose_Intro1","kind":"match_call","en":"Soothing aromas make the"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallAromaLady_Rose_Intro2","kind":"match_call","en":"body and mind healthy."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Andres_Strategy","kind":"match_call","en":"I'm not very good at this."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Andres_Pokemon","kind":"match_call","en":"Ruin-exploration partners."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Andres_Intro1","kind":"match_call","en":"I am searching for undersea"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Andres_Intro2","kind":"match_call","en":"ruins and relics."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Dusty_Strategy","kind":"match_call","en":"Overwhelm with power!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Dusty_Pokemon","kind":"match_call","en":"Craggy ROCK POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Dusty_Intro1","kind":"match_call","en":"In search of ancient lore,"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Dusty_Intro2","kind":"match_call","en":"I travel the world."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Lola_Strategy","kind":"match_call","en":"I'm going to try hard!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Lola_Pokemon","kind":"match_call","en":"Good swimmer POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Lola_Intro1","kind":"match_call","en":"I wish I could swim without"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Lola_Intro2","kind":"match_call","en":"using an inner tube."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Ricky_Strategy","kind":"match_call","en":"I don't know. I'll try hard."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Ricky_Pokemon","kind":"match_call","en":"WATER POKéMON are buddies."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Ricky_Intro1","kind":"match_call","en":"It's not like I can't swim."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Ricky_Intro2","kind":"match_call","en":"I just like my inner tube."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSisAndBro_LilaAndRoy_Strategy","kind":"match_call","en":"We split our duties."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSisAndBro_LilaAndRoy_Pokemon","kind":"match_call","en":"We like friendly POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSisAndBro_LilaAndRoy_Intro1","kind":"match_call","en":"We enjoy POKéMON together"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSisAndBro_LilaAndRoy_Intro2","kind":"match_call","en":"as sister and brother."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCooltrainer_Cristin_Strategy","kind":"match_call","en":"I finish with power moves!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCooltrainer_Cristin_Pokemon","kind":"match_call","en":"A mix of different types."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCooltrainer_Cristin_Intro1","kind":"match_call","en":"I aim to become the ultimate"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCooltrainer_Cristin_Intro2","kind":"match_call","en":"TRAINER!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCooltrainer_Brooke_Strategy","kind":"match_call","en":"Exploit the foe's weakness."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCooltrainer_Brooke_Pokemon","kind":"match_call","en":"Balance is crucial."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCooltrainer_Brooke_Intro1","kind":"match_call","en":"My goal is to become the"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCooltrainer_Brooke_Intro2","kind":"match_call","en":"POKéMON CHAMPION."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCooltrainer_Wilton_Strategy","kind":"match_call","en":"Upset the opponent."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCooltrainer_Wilton_Pokemon","kind":"match_call","en":"Type doesn't matter."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCooltrainer_Wilton_Intro1","kind":"match_call","en":"I'm a top student at the"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCooltrainer_Wilton_Intro2","kind":"match_call","en":"TRAINER'S SCHOOL."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallHexManiac_Valerie_Strategy","kind":"match_call","en":"Slow, steady suffering."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallHexManiac_Valerie_Pokemon","kind":"match_call","en":"Scary to meet at night."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallHexManiac_Valerie_Intro1","kind":"match_call","en":"I see things that others"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallHexManiac_Valerie_Intro2","kind":"match_call","en":"can't see..."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallLady_Cindy_Strategy","kind":"match_call","en":"Anything to win."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallLady_Cindy_Pokemon","kind":"match_call","en":"Gorgeous type!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallLady_Cindy_Intro1","kind":"match_call","en":"I have a pool specially for"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallLady_Cindy_Intro2","kind":"match_call","en":"my POKéMON at home."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Thalia_Strategy","kind":"match_call","en":"You'll fall under my spell!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Thalia_Pokemon","kind":"match_call","en":"Mature WATER type."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Thalia_Intro1","kind":"match_call","en":"I dream of cruising around"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Thalia_Intro2","kind":"match_call","en":"the world on a luxury liner."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Jessica_Strategy","kind":"match_call","en":"I'll lead you astray."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Jessica_Pokemon","kind":"match_call","en":"Cute, of course."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Jessica_Intro1","kind":"match_call","en":"I love the SAFARI ZONE."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Jessica_Intro2","kind":"match_call","en":"I seem to end up there."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRichBoy_Winston_Strategy","kind":"match_call","en":"Strategy? Who needs it?"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRichBoy_Winston_Pokemon","kind":"match_call","en":"I spent big money on it!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRichBoy_Winston_Intro1","kind":"match_call","en":"I, being rich, sleep in a"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRichBoy_Winston_Intro2","kind":"match_call","en":"custom POKéMON bed."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPokeManiac_Steve_Strategy","kind":"match_call","en":"Wrestle down with power."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPokeManiac_Steve_Pokemon","kind":"match_call","en":"Took all night to catch."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPokeManiac_Steve_Intro1","kind":"match_call","en":"Big, burly, and buff"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPokeManiac_Steve_Intro2","kind":"match_call","en":"POKéMON are the best..."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Tony_Strategy","kind":"match_call","en":"Ram at full speed!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Tony_Pokemon","kind":"match_call","en":"Funky WATER type!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Tony_Intro1","kind":"match_call","en":"If I can't be out swimming,"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Tony_Intro2","kind":"match_call","en":"I'll be pumping weights."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Nob_Strategy","kind":"match_call","en":"Grand slam pummeling!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Nob_Pokemon","kind":"match_call","en":"FIGHTING type."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Nob_Intro1","kind":"match_call","en":"Not to brag, but I can bust"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Nob_Intro2","kind":"match_call","en":"ten roof tiles!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Koji_Strategy","kind":"match_call","en":"Witness karate power!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Koji_Pokemon","kind":"match_call","en":"My partners in training!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Koji_Intro1","kind":"match_call","en":"Let us discuss matters of"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Koji_Intro2","kind":"match_call","en":"the world with bare fists!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Fernando_Strategy","kind":"match_call","en":"Rock to stunning sounds!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Fernando_Pokemon","kind":"match_call","en":"Electric-and-sound combo!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Fernando_Intro1","kind":"match_call","en":"My compositions will shock"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Fernando_Intro2","kind":"match_call","en":"you and stun you!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Dalton_Strategy","kind":"match_call","en":"I'll electrify you!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Dalton_Pokemon","kind":"match_call","en":"They're ELECTRIC!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Dalton_Intro1","kind":"match_call","en":"I want to make people cry"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Dalton_Intro2","kind":"match_call","en":"with songs from my heart."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallKindler_Bernie_Strategy","kind":"match_call","en":"Burn it all down!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallKindler_Bernie_Pokemon","kind":"match_call","en":"Burn-inducing POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallKindler_Bernie_Intro1","kind":"match_call","en":"When you light a campfire,"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallKindler_Bernie_Intro2","kind":"match_call","en":"be sure there's some water."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCamper_Ethan_Strategy","kind":"match_call","en":"Hang in and be tenacious!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCamper_Ethan_Pokemon","kind":"match_call","en":"I'll raise any POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCamper_Ethan_Intro1","kind":"match_call","en":"POKéMON raised in the wild"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCamper_Ethan_Intro2","kind":"match_call","en":"grow strong!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallOldCouple_JohnAndJay_Strategy","kind":"match_call","en":"Our love lets us prevail."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallOldCouple_JohnAndJay_Pokemon","kind":"match_call","en":"We've had them for years."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallOldCouple_JohnAndJay_Intro1","kind":"match_call","en":"Married 50 years, we've"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallOldCouple_JohnAndJay_Intro2","kind":"match_call","en":"devotedly raised POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugManiac_Jeffrey_Strategy","kind":"match_call","en":"Attack in waves!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugManiac_Jeffrey_Pokemon","kind":"match_call","en":"BUG POKéMON are cool."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugManiac_Jeffrey_Intro1","kind":"match_call","en":"I go into the forest every"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugManiac_Jeffrey_Intro2","kind":"match_call","en":"day to catch BUG POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPsychic_Cameron_Strategy","kind":"match_call","en":"Daze and confuse!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPsychic_Cameron_Pokemon","kind":"match_call","en":"Ones with weird powers."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPsychic_Cameron_Intro1","kind":"match_call","en":"I can see through exactly"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPsychic_Cameron_Intro2","kind":"match_call","en":"what you're thinking!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPsychic_Jacki_Strategy","kind":"match_call","en":"Battle at full power."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPsychic_Jacki_Pokemon","kind":"match_call","en":"POKéMON of many mysteries."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPsychic_Jacki_Intro1","kind":"match_call","en":"When we spoke, I was really"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPsychic_Jacki_Intro2","kind":"match_call","en":"using telepathy."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallGentleman_Walter_Strategy","kind":"match_call","en":"Calm and collected."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallGentleman_Walter_Pokemon","kind":"match_call","en":"POKéMON of distinction."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallGentleman_Walter_Intro1","kind":"match_call","en":"We enjoy a spot of tea"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallGentleman_Walter_Intro2","kind":"match_call","en":"every day. It's imported."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSchoolKid_Karen_Strategy","kind":"match_call","en":"I use my head to battle."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSchoolKid_Karen_Pokemon","kind":"match_call","en":"I love any kind of POKéMON!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSchoolKid_Karen_Intro1","kind":"match_call","en":"My daddy gives me spending"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSchoolKid_Karen_Intro2","kind":"match_call","en":"money if I ace a test."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSchoolKid_Jerry_Strategy","kind":"match_call","en":"My knowledge rules!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSchoolKid_Jerry_Pokemon","kind":"match_call","en":"Any smart POKéMON!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSchoolKid_Jerry_Intro1","kind":"match_call","en":"I want to be a POKéMON"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSchoolKid_Jerry_Intro2","kind":"match_call","en":"researcher in the future."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSrAndJr_AnnaAndMeg_Strategy","kind":"match_call","en":"We talk it over first."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSrAndJr_AnnaAndMeg_Pokemon","kind":"match_call","en":"POKéMON that we both like."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSrAndJr_AnnaAndMeg_Intro1","kind":"match_call","en":"We're senior and junior"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSrAndJr_AnnaAndMeg_Intro2","kind":"match_call","en":"students into POKéMON!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPokefan_Isabel_Strategy","kind":"match_call","en":"Go for it, my dears!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPokefan_Isabel_Pokemon","kind":"match_call","en":"I have no likes or dislikes."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPokefan_Isabel_Intro1","kind":"match_call","en":"While out shopping for"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPokefan_Isabel_Intro2","kind":"match_call","en":"supper, I battle too."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPokefan_Miguel_Strategy","kind":"match_call","en":"I battle with love!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPokefan_Miguel_Pokemon","kind":"match_call","en":"A POKéMON raised with love!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPokefan_Miguel_Intro1","kind":"match_call","en":"It's important to build"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPokefan_Miguel_Intro2","kind":"match_call","en":"trust with your POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Timothy_Strategy","kind":"match_call","en":"I see through your moves!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Timothy_Pokemon","kind":"match_call","en":"The essence of FIGHTING."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Timothy_Intro1","kind":"match_call","en":"I'm not ready to give way"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Timothy_Intro2","kind":"match_call","en":"to the young yet!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Shelby_Strategy","kind":"match_call","en":"Attack while defending."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Shelby_Pokemon","kind":"match_call","en":"The FIGHTING type."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Shelby_Intro1","kind":"match_call","en":"Being old, I have my own"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Shelby_Intro2","kind":"match_call","en":"style of battling."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallYoungster_Calvin_Strategy","kind":"match_call","en":"I do what I can."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallYoungster_Calvin_Pokemon","kind":"match_call","en":"I use different types."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallYoungster_Calvin_Intro1","kind":"match_call","en":"I'm going to keep working"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallYoungster_Calvin_Intro2","kind":"match_call","en":"until I beat a GYM LEADER."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallFisherman_Elliot_Strategy","kind":"match_call","en":"I battle patiently."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallFisherman_Elliot_Pokemon","kind":"match_call","en":"WATER POKéMON to battle!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallFisherman_Elliot_Intro1","kind":"match_call","en":"I'm the world's only guy to"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallFisherman_Elliot_Intro2","kind":"match_call","en":"catch a huge POKéMON!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Isaiah_Strategy","kind":"match_call","en":"Exploit the environment!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Isaiah_Pokemon","kind":"match_call","en":"All hail the WATER type!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Isaiah_Intro1","kind":"match_call","en":"I won't be beaten by some"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Isaiah_Intro2","kind":"match_call","en":"beach bum SWIMMER!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Maria_Strategy","kind":"match_call","en":"Speed above all!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Maria_Pokemon","kind":"match_call","en":"I use a speedy POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Maria_Intro1","kind":"match_call","en":"A marathon is a challenge"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Maria_Intro2","kind":"match_call","en":"against your own self."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Abigail_Strategy","kind":"match_call","en":"Defense is crucial."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Abigail_Pokemon","kind":"match_call","en":"My POKéMON is solid."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Abigail_Intro1","kind":"match_call","en":"I started this for dieting,"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Abigail_Intro2","kind":"match_call","en":"but I got right into it."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Dylan_Strategy","kind":"match_call","en":"Strike before stricken!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Dylan_Pokemon","kind":"match_call","en":"A fast-running POKéMON!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Dylan_Intro1","kind":"match_call","en":"If you ran and ran, you'd"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Dylan_Intro2","kind":"match_call","en":"become one with the wind."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Katelyn_Strategy","kind":"match_call","en":"All-out offensive!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Katelyn_Pokemon","kind":"match_call","en":"WATER POKéMON rule!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Katelyn_Intro1","kind":"match_call","en":"I must swim over 6 miles"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Katelyn_Intro2","kind":"match_call","en":"every day."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Benjamin_Strategy","kind":"match_call","en":"Push and push again!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Benjamin_Pokemon","kind":"match_call","en":"The strength of STEEL."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Benjamin_Intro1","kind":"match_call","en":"If you're sweating, get"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Benjamin_Intro2","kind":"match_call","en":"fluids into you regularly."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Pablo_Strategy","kind":"match_call","en":"Draw the power of WATER."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Pablo_Pokemon","kind":"match_call","en":"Toughened WATER POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Pablo_Intro1","kind":"match_call","en":"Training POKéMON is good,"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Pablo_Intro2","kind":"match_call","en":"but don't neglect yourself."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallDragonTamer_Nicolas_Strategy","kind":"match_call","en":"It's about POKéMON power!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallDragonTamer_Nicolas_Pokemon","kind":"match_call","en":"See the power of DRAGONS!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallDragonTamer_Nicolas_Intro1","kind":"match_call","en":"I'll become legendary as the"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallDragonTamer_Nicolas_Intro2","kind":"match_call","en":"strongest one day!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBirdKeeper_Robert_Strategy","kind":"match_call","en":"I'll show you my technique!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBirdKeeper_Robert_Pokemon","kind":"match_call","en":"Elegantly wheeling BIRDS."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBirdKeeper_Robert_Intro1","kind":"match_call","en":"My BIRD POKéMON, deliver my"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBirdKeeper_Robert_Intro2","kind":"match_call","en":"love to that girl!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallNinjaBoy_Lao_Strategy","kind":"match_call","en":"You'll suffer from poison!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallNinjaBoy_Lao_Pokemon","kind":"match_call","en":"Poisonous POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallNinjaBoy_Lao_Intro1","kind":"match_call","en":"I undertake training so"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallNinjaBoy_Lao_Intro2","kind":"match_call","en":"that I may become a ninja."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBattleGirl_Cyndy_Strategy","kind":"match_call","en":"The first strike wins!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBattleGirl_Cyndy_Pokemon","kind":"match_call","en":"Speedy FIGHTING type."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBattleGirl_Cyndy_Intro1","kind":"match_call","en":"If my POKéMON lose,"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBattleGirl_Cyndy_Intro2","kind":"match_call","en":"I'll carry on the fight!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallParasolLady_Madeline_Strategy","kind":"match_call","en":"Go, go, my POKéMON!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallParasolLady_Madeline_Pokemon","kind":"match_call","en":"I'll raise anything."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallParasolLady_Madeline_Intro1","kind":"match_call","en":"UV rays are your skin's"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallParasolLady_Madeline_Intro2","kind":"match_call","en":"enemy. Get protected."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Jenny_Strategy","kind":"match_call","en":"No mercy!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Jenny_Pokemon","kind":"match_call","en":"Cute WATER POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Jenny_Intro1","kind":"match_call","en":"I have too many fans."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Jenny_Intro2","kind":"match_call","en":"I was interviewed on TV."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPicnicker_Diana_Strategy","kind":"match_call","en":"I think about this & that."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPicnicker_Diana_Pokemon","kind":"match_call","en":"I like all POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPicnicker_Diana_Intro1","kind":"match_call","en":"What lies beyond that"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPicnicker_Diana_Intro2","kind":"match_call","en":"yonder hill?"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTwins_AmyAndLiv_Strategy","kind":"match_call","en":"We battle together!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTwins_AmyAndLiv_Pokemon","kind":"match_call","en":"We train together!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTwins_AmyAndLiv_Intro1","kind":"match_call","en":"We like the same POKéMON,"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTwins_AmyAndLiv_Intro2","kind":"match_call","en":"but different desserts."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Ernest_Strategy","kind":"match_call","en":"I force things with power!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Ernest_Pokemon","kind":"match_call","en":"WATER and FIGHTING types."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Ernest_Intro1","kind":"match_call","en":"Seamen are rough spirits!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Ernest_Intro2","kind":"match_call","en":"Any complaints?"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Cory_Strategy","kind":"match_call","en":"Up for a fight anytime!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Cory_Pokemon","kind":"match_call","en":"WATER POKéMON are my faves!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Cory_Intro1","kind":"match_call","en":"If you want to shout loud,"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Cory_Intro2","kind":"match_call","en":"suck in air with your belly!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCollector_Edwin_Strategy","kind":"match_call","en":"Protect POKéMON from harm."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCollector_Edwin_Pokemon","kind":"match_call","en":"I love rare POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCollector_Edwin_Intro1","kind":"match_call","en":"I want to collect all the"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallCollector_Edwin_Intro2","kind":"match_call","en":"world's rare POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnBreeder_Lydia_Strategy","kind":"match_call","en":"I count on power."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnBreeder_Lydia_Pokemon","kind":"match_call","en":"POKéMON are my children."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnBreeder_Lydia_Intro1","kind":"match_call","en":"It takes knowledge and"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnBreeder_Lydia_Intro2","kind":"match_call","en":"love to raise POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnBreeder_Isaac_Strategy","kind":"match_call","en":"Full-on attack!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnBreeder_Isaac_Pokemon","kind":"match_call","en":"Anything. I'll raise it."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnBreeder_Isaac_Intro1","kind":"match_call","en":"I give them {POKEBLOCK}S for"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnBreeder_Isaac_Intro2","kind":"match_call","en":"going after CONTEST titles."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnBreeder_Gabrielle_Strategy","kind":"match_call","en":"I raise POKéMON with care."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnBreeder_Gabrielle_Pokemon","kind":"match_call","en":"Fun-to-raise POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnBreeder_Gabrielle_Intro1","kind":"match_call","en":"Treat every POKéMON you"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnBreeder_Gabrielle_Intro2","kind":"match_call","en":"meet with respect."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnRanger_Catherine_Strategy","kind":"match_call","en":"I believe in my POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnRanger_Catherine_Pokemon","kind":"match_call","en":"I like strong POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnRanger_Catherine_Intro1","kind":"match_call","en":"I'm training for rescue"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnRanger_Catherine_Intro2","kind":"match_call","en":"work with my POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnRanger_Jackson_Strategy","kind":"match_call","en":"Attack in waves!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnRanger_Jackson_Pokemon","kind":"match_call","en":"I use different types."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnRanger_Jackson_Intro1","kind":"match_call","en":"Those who destroy nature"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnRanger_Jackson_Intro2","kind":"match_call","en":"must never be forgiven!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallLass_Haley_Strategy","kind":"match_call","en":"I'll show you some guts!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallLass_Haley_Pokemon","kind":"match_call","en":"Cute POKéMON are my faves!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallLass_Haley_Intro1","kind":"match_call","en":"After a battle, I always"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallLass_Haley_Intro2","kind":"match_call","en":"bathe with my POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugCatcher_James_Strategy","kind":"match_call","en":"Lightning-fast attack!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugCatcher_James_Pokemon","kind":"match_call","en":"BUG POKéMON are number 1!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugCatcher_James_Intro1","kind":"match_call","en":"If you want to catch BUG"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugCatcher_James_Intro2","kind":"match_call","en":"POKéMON, wake up early."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallHiker_Trent_Strategy","kind":"match_call","en":"I battle with power."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallHiker_Trent_Pokemon","kind":"match_call","en":"Hard-bodied POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallHiker_Trent_Intro1","kind":"match_call","en":"I've been planning a month"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallHiker_Trent_Intro2","kind":"match_call","en":"for today's hike."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallHiker_Sawyer_Strategy","kind":"match_call","en":"I like it hot!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallHiker_Sawyer_Pokemon","kind":"match_call","en":"Hot POKéMON!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallHiker_Sawyer_Intro1","kind":"match_call","en":"As much as I love POKéMON,"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallHiker_Sawyer_Intro2","kind":"match_call","en":"I surely like hiking!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallYoungCouple_LoisAndHal_Strategy","kind":"match_call","en":"Lovey-dovey strategy!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallYoungCouple_LoisAndHal_Pokemon","kind":"match_call","en":"Lovey-dovey POKéMON!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallYoungCouple_LoisAndHal_Intro1","kind":"match_call","en":"We're lovey-dovey!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallYoungCouple_LoisAndHal_Intro2","kind":"match_call","en":"Forever lovey-dovey!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnTrainer_Wally_Strategy","kind":"match_call","en":"We let it all hang out."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnTrainer_Wally_Pokemon","kind":"match_call","en":"The 1st POKéMON I caught."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnTrainer_Wally_Intro1","kind":"match_call","en":"POKéMON and I have grown"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnTrainer_Wally_Intro2","kind":"match_call","en":"stronger together."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRockinWhiz_Roxanne_Strategy","kind":"match_call","en":"ROCK-type power attack."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRockinWhiz_Roxanne_Pokemon","kind":"match_call","en":"I prefer rock-hard POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRockinWhiz_Roxanne_Intro1","kind":"match_call","en":"A LEADER of a big GYM bears"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRockinWhiz_Roxanne_Intro2","kind":"match_call","en":"a lot of responsibility."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTheBigHit_Brawly_Strategy","kind":"match_call","en":"Direct physical action!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTheBigHit_Brawly_Pokemon","kind":"match_call","en":"FIGHTING POKéMON rule!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTheBigHit_Brawly_Intro1","kind":"match_call","en":"The world awaits me as the"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTheBigHit_Brawly_Intro2","kind":"match_call","en":"next big wave!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwellShock_Wattson_Strategy","kind":"match_call","en":"I choose to electrify."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwellShock_Wattson_Pokemon","kind":"match_call","en":"Get shocked by electricity!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwellShock_Wattson_Intro1","kind":"match_call","en":"One must never throw a"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwellShock_Wattson_Intro2","kind":"match_call","en":"match. Even I must not."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPassionBurn_Flannery_Strategy","kind":"match_call","en":"Battle aggressively."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPassionBurn_Flannery_Pokemon","kind":"match_call","en":"Burn with passion!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPassionBurn_Flannery_Intro1","kind":"match_call","en":"Completely wash away daily"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallPassionBurn_Flannery_Intro2","kind":"match_call","en":"fatigue in hot springs!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallReliableOne_Dad_Strategy","kind":"match_call","en":"I flexibly adapt my style."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallReliableOne_Dad_Pokemon","kind":"match_call","en":"Grown in a balanced manner."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallReliableOne_Dad_Intro1","kind":"match_call","en":"I walk the 30 minutes from"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallReliableOne_Dad_Intro2","kind":"match_call","en":"home to here every day."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSkyTamer_Winona_Strategy","kind":"match_call","en":"I take advantage of speed."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSkyTamer_Winona_Pokemon","kind":"match_call","en":"Graceful sky dancers."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSkyTamer_Winona_Intro1","kind":"match_call","en":"The ultimate would be to"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSkyTamer_Winona_Intro2","kind":"match_call","en":"live as one with nature."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallMysticDuo_TateAndLiza_Strategy","kind":"match_call","en":"We battle in cooperation."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallMysticDuo_TateAndLiza_Pokemon","kind":"match_call","en":"Always friendly POKéMON."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallMysticDuo_TateAndLiza_Intro1","kind":"match_call","en":"Papa has trouble telling"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallMysticDuo_TateAndLiza_Intro2","kind":"match_call","en":"the two of us apart!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallDandyCharm_Juan_Strategy","kind":"match_call","en":"I use splendid waterpower."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallDandyCharm_Juan_Pokemon","kind":"match_call","en":"POKéMON of elegance!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallDandyCharm_Juan_Intro1","kind":"match_call","en":"The adulation of beautiful"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallDandyCharm_Juan_Intro2","kind":"match_call","en":"ladies fills me with energy!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Sidney_Strategy","kind":"match_call","en":"Offense over defense!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Sidney_Pokemon","kind":"match_call","en":"The DARK side's beauties."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Sidney_Intro1","kind":"match_call","en":"They said I was a punk, but"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Sidney_Intro2","kind":"match_call","en":"I'm one of the ELITE FOUR!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Phoebe_Strategy","kind":"match_call","en":"Confuse and confound."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Phoebe_Pokemon","kind":"match_call","en":"There's nothing definite."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Phoebe_Intro1","kind":"match_call","en":"I wonder how my grandma at"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Phoebe_Intro2","kind":"match_call","en":"MT. PYRE is doing?"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Glacia_Strategy","kind":"match_call","en":"I use items for help."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Glacia_Pokemon","kind":"match_call","en":"Flaming passion in icy cold!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Glacia_Intro1","kind":"match_call","en":"The ICE type can be better"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Glacia_Intro2","kind":"match_call","en":"trained in this hot land."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Drake_Strategy","kind":"match_call","en":"Harness strong abilities."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Drake_Pokemon","kind":"match_call","en":"The raw power of DRAGONS!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Drake_Intro1","kind":"match_call","en":"I dedicate myself to the"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Drake_Intro2","kind":"match_call","en":"POKéMON that saved me."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallChampion_Wallace_Strategy","kind":"match_call","en":"Dignity and respect."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallChampion_Wallace_Pokemon","kind":"match_call","en":"I prefer POKéMON of grace."}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallChampion_Wallace_Intro1","kind":"match_call","en":"I represent beauty as"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallChampion_Wallace_Intro2","kind":"match_call","en":"well as intelligence."}
+{"id":"src/data/text/move_descriptions.h#sPoundDescription","kind":"move_desc","en":"Pounds the foe with\\nforelegs or tail."}
+{"id":"src/data/text/move_descriptions.h#sKarateChopDescription","kind":"move_desc","en":"A chopping attack with a\\nhigh critical-hit ratio."}
+{"id":"src/data/text/move_descriptions.h#sDoubleSlapDescription","kind":"move_desc","en":"Repeatedly slaps the foe\\n2 to 5 times."}
+{"id":"src/data/text/move_descriptions.h#sCometPunchDescription","kind":"move_desc","en":"Repeatedly punches the foe\\n2 to 5 times."}
+{"id":"src/data/text/move_descriptions.h#sMegaPunchDescription","kind":"move_desc","en":"A strong punch thrown with\\nincredible power."}
+{"id":"src/data/text/move_descriptions.h#sPayDayDescription","kind":"move_desc","en":"Throws coins at the foe.\\nMoney is recovered after."}
+{"id":"src/data/text/move_descriptions.h#sFirePunchDescription","kind":"move_desc","en":"A fiery punch that may burn\\nthe foe."}
+{"id":"src/data/text/move_descriptions.h#sIcePunchDescription","kind":"move_desc","en":"An icy punch that may\\nfreeze the foe."}
+{"id":"src/data/text/move_descriptions.h#sThunderPunchDescription","kind":"move_desc","en":"An electrified punch that\\nmay paralyze the foe."}
+{"id":"src/data/text/move_descriptions.h#sScratchDescription","kind":"move_desc","en":"Scratches the foe with\\nsharp claws."}
+{"id":"src/data/text/move_descriptions.h#sViceGripDescription","kind":"move_desc","en":"Grips the foe with large and\\npowerful pincers."}
+{"id":"src/data/text/move_descriptions.h#sGuillotineDescription","kind":"move_desc","en":"A powerful pincer attack\\nthat may cause fainting."}
+{"id":"src/data/text/move_descriptions.h#sRazorWindDescription","kind":"move_desc","en":"A 2-turn move that strikes\\nthe foe on the 2nd turn."}
+{"id":"src/data/text/move_descriptions.h#sSwordsDanceDescription","kind":"move_desc","en":"A fighting dance that\\nsharply raises ATTACK."}
+{"id":"src/data/text/move_descriptions.h#sCutDescription","kind":"move_desc","en":"Cuts the foe with sharp\\nscythes, claws, etc."}
+{"id":"src/data/text/move_descriptions.h#sGustDescription","kind":"move_desc","en":"Strikes the foe with a gust\\nof wind whipped up by wings."}
+{"id":"src/data/text/move_descriptions.h#sWingAttackDescription","kind":"move_desc","en":"Strikes the foe with wings\\nspread wide."}
+{"id":"src/data/text/move_descriptions.h#sWhirlwindDescription","kind":"move_desc","en":"Blows away the foe with\\nwind and ends the battle."}
+{"id":"src/data/text/move_descriptions.h#sFlyDescription","kind":"move_desc","en":"Flies up on the first turn,\\nthen strikes the next turn."}
+{"id":"src/data/text/move_descriptions.h#sBindDescription","kind":"move_desc","en":"Binds and squeezes the foe\\nfor 2 to 5 turns."}
+{"id":"src/data/text/move_descriptions.h#sSlamDescription","kind":"move_desc","en":"Slams the foe with a long\\ntail, vine, etc."}
+{"id":"src/data/text/move_descriptions.h#sVineWhipDescription","kind":"move_desc","en":"Strikes the foe with\\nslender, whiplike vines."}
+{"id":"src/data/text/move_descriptions.h#sStompDescription","kind":"move_desc","en":"Stomps the enemy with a big\\nfoot. May cause flinching."}
+{"id":"src/data/text/move_descriptions.h#sDoubleKickDescription","kind":"move_desc","en":"A double-kicking attack\\nthat strikes the foe twice."}
+{"id":"src/data/text/move_descriptions.h#sMegaKickDescription","kind":"move_desc","en":"An extremely powerful kick\\nwith intense force."}
+{"id":"src/data/text/move_descriptions.h#sJumpKickDescription","kind":"move_desc","en":"A strong jumping kick. May\\nmiss and hurt the kicker."}
+{"id":"src/data/text/move_descriptions.h#sRollingKickDescription","kind":"move_desc","en":"A fast kick delivered from\\na rapid spin."}
+{"id":"src/data/text/move_descriptions.h#sSandAttackDescription","kind":"move_desc","en":"Reduces the foe's accuracy\\nby hurling sand in its face."}
+{"id":"src/data/text/move_descriptions.h#sHeadbuttDescription","kind":"move_desc","en":"A ramming attack that may\\ncause flinching."}
+{"id":"src/data/text/move_descriptions.h#sHornAttackDescription","kind":"move_desc","en":"Jabs the foe with sharp\\nhorns."}
+{"id":"src/data/text/move_descriptions.h#sFuryAttackDescription","kind":"move_desc","en":"Jabs the foe 2 to 5 times\\nwith sharp horns, etc."}
+{"id":"src/data/text/move_descriptions.h#sHornDrillDescription","kind":"move_desc","en":"A one-hit KO attack that\\nuses a horn like a drill."}
+{"id":"src/data/text/move_descriptions.h#sTackleDescription","kind":"move_desc","en":"Charges the foe with a full-\\nbody tackle."}
+{"id":"src/data/text/move_descriptions.h#sBodySlamDescription","kind":"move_desc","en":"A full-body slam that may\\ncause paralysis."}
+{"id":"src/data/text/move_descriptions.h#sWrapDescription","kind":"move_desc","en":"Wraps and squeezes the foe\\n2 to 5 times with vines, etc."}
+{"id":"src/data/text/move_descriptions.h#sTakeDownDescription","kind":"move_desc","en":"A reckless charge attack\\nthat also hurts the user."}
+{"id":"src/data/text/move_descriptions.h#sThrashDescription","kind":"move_desc","en":"A rampage of 2 to 3 turns\\nthat confuses the user."}
+{"id":"src/data/text/move_descriptions.h#sDoubleEdgeDescription","kind":"move_desc","en":"A life-risking tackle that\\nalso hurts the user."}
+{"id":"src/data/text/move_descriptions.h#sTailWhipDescription","kind":"move_desc","en":"Wags the tail to lower the\\nfoe's DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sPoisonStingDescription","kind":"move_desc","en":"A toxic attack with barbs,\\netc., that may poison."}
+{"id":"src/data/text/move_descriptions.h#sTwineedleDescription","kind":"move_desc","en":"Stingers on the forelegs\\njab the foe twice."}
+{"id":"src/data/text/move_descriptions.h#sPinMissileDescription","kind":"move_desc","en":"Sharp pins are fired to\\nstrike 2 to 5 times."}
+{"id":"src/data/text/move_descriptions.h#sLeerDescription","kind":"move_desc","en":"Frightens the foe with a\\nleer to lower DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sBiteDescription","kind":"move_desc","en":"Bites with vicious fangs.\\nMay cause flinching."}
+{"id":"src/data/text/move_descriptions.h#sGrowlDescription","kind":"move_desc","en":"Growls cutely to reduce the\\nfoe's ATTACK."}
+{"id":"src/data/text/move_descriptions.h#sRoarDescription","kind":"move_desc","en":"Makes the foe flee to end\\nthe battle."}
+{"id":"src/data/text/move_descriptions.h#sSingDescription","kind":"move_desc","en":"A soothing song lulls the\\nfoe into a deep slumber."}
+{"id":"src/data/text/move_descriptions.h#sSupersonicDescription","kind":"move_desc","en":"Emits bizarre sound waves\\nthat may confuse the foe."}
+{"id":"src/data/text/move_descriptions.h#sSonicBoomDescription","kind":"move_desc","en":"Launches shock waves that\\nalways inflict 20 HP damage."}
+{"id":"src/data/text/move_descriptions.h#sDisableDescription","kind":"move_desc","en":"Psychically disables one of\\nthe foe's moves."}
+{"id":"src/data/text/move_descriptions.h#sAcidDescription","kind":"move_desc","en":"Sprays a hide-melting acid.\\nMay lower DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sEmberDescription","kind":"move_desc","en":"A weak fire attack that may\\ninflict a burn."}
+{"id":"src/data/text/move_descriptions.h#sFlamethrowerDescription","kind":"move_desc","en":"A powerful fire attack that\\nmay inflict a burn."}
+{"id":"src/data/text/move_descriptions.h#sMistDescription","kind":"move_desc","en":"Creates a mist that stops\\nreduction of abilities."}
+{"id":"src/data/text/move_descriptions.h#sWaterGunDescription","kind":"move_desc","en":"Squirts water to attack\\nthe foe."}
+{"id":"src/data/text/move_descriptions.h#sHydroPumpDescription","kind":"move_desc","en":"Blasts water at high power\\nto strike the foe."}
+{"id":"src/data/text/move_descriptions.h#sSurfDescription","kind":"move_desc","en":"Creates a huge wave, then\\ncrashes it down on the foe."}
+{"id":"src/data/text/move_descriptions.h#sIceBeamDescription","kind":"move_desc","en":"Blasts the foe with an icy\\nbeam that may freeze it."}
+{"id":"src/data/text/move_descriptions.h#sBlizzardDescription","kind":"move_desc","en":"Hits the foe with an icy\\nstorm that may freeze it."}
+{"id":"src/data/text/move_descriptions.h#sPsybeamDescription","kind":"move_desc","en":"Fires a peculiar ray that\\nmay confuse the foe."}
+{"id":"src/data/text/move_descriptions.h#sBubbleBeamDescription","kind":"move_desc","en":"Forcefully sprays bubbles\\nthat may lower SPEED."}
+{"id":"src/data/text/move_descriptions.h#sAuroraBeamDescription","kind":"move_desc","en":"Fires a rainbow-colored\\nbeam that may lower ATTACK."}
+{"id":"src/data/text/move_descriptions.h#sHyperBeamDescription","kind":"move_desc","en":"Powerful, but leaves the\\nuser immobile the next turn."}
+{"id":"src/data/text/move_descriptions.h#sPeckDescription","kind":"move_desc","en":"Attacks the foe with a\\njabbing beak, etc."}
+{"id":"src/data/text/move_descriptions.h#sDrillPeckDescription","kind":"move_desc","en":"A corkscrewing attack with\\nthe beak acting as a drill."}
+{"id":"src/data/text/move_descriptions.h#sSubmissionDescription","kind":"move_desc","en":"A reckless body slam that\\nalso hurts the user."}
+{"id":"src/data/text/move_descriptions.h#sLowKickDescription","kind":"move_desc","en":"A kick that inflicts more\\ndamage on heavier foes."}
+{"id":"src/data/text/move_descriptions.h#sCounterDescription","kind":"move_desc","en":"Retaliates any physical hit\\nwith double the power."}
+{"id":"src/data/text/move_descriptions.h#sSeismicTossDescription","kind":"move_desc","en":"Inflicts damage identical\\nto the user's level."}
+{"id":"src/data/text/move_descriptions.h#sStrengthDescription","kind":"move_desc","en":"Builds enormous power,\\nthen slams the foe."}
+{"id":"src/data/text/move_descriptions.h#sAbsorbDescription","kind":"move_desc","en":"An attack that absorbs\\nhalf the damage inflicted."}
+{"id":"src/data/text/move_descriptions.h#sMegaDrainDescription","kind":"move_desc","en":"An attack that absorbs\\nhalf the damage inflicted."}
+{"id":"src/data/text/move_descriptions.h#sLeechSeedDescription","kind":"move_desc","en":"Plants a seed on the foe to\\nsteal HP on every turn."}
+{"id":"src/data/text/move_descriptions.h#sGrowthDescription","kind":"move_desc","en":"Forces the body to grow\\nand heightens SP. ATK."}
+{"id":"src/data/text/move_descriptions.h#sRazorLeafDescription","kind":"move_desc","en":"Cuts the enemy with leaves.\\nHigh critical-hit ratio."}
+{"id":"src/data/text/move_descriptions.h#sSolarBeamDescription","kind":"move_desc","en":"Absorbs light in one turn,\\nthen attacks next turn."}
+{"id":"src/data/text/move_descriptions.h#sPoisonPowderDescription","kind":"move_desc","en":"Scatters a toxic powder\\nthat may poison the foe."}
+{"id":"src/data/text/move_descriptions.h#sStunSporeDescription","kind":"move_desc","en":"Scatters a powder that may\\nparalyze the foe."}
+{"id":"src/data/text/move_descriptions.h#sSleepPowderDescription","kind":"move_desc","en":"Scatters a powder that may\\ncause the foe to sleep."}
+{"id":"src/data/text/move_descriptions.h#sPetalDanceDescription","kind":"move_desc","en":"A rampage of 2 to 3 turns\\nthat confuses the user."}
+{"id":"src/data/text/move_descriptions.h#sStringShotDescription","kind":"move_desc","en":"Binds the foe with string\\nto reduce its SPEED."}
+{"id":"src/data/text/move_descriptions.h#sDragonRageDescription","kind":"move_desc","en":"Launches shock waves that\\nalways inflict 40 HP damage."}
+{"id":"src/data/text/move_descriptions.h#sFireSpinDescription","kind":"move_desc","en":"Traps the foe in a ring of\\nfire for 2 to 5 turns."}
+{"id":"src/data/text/move_descriptions.h#sThunderShockDescription","kind":"move_desc","en":"An electrical attack that\\nmay paralyze the foe."}
+{"id":"src/data/text/move_descriptions.h#sThunderboltDescription","kind":"move_desc","en":"A strong electrical attack\\nthat may paralyze the foe."}
+{"id":"src/data/text/move_descriptions.h#sThunderWaveDescription","kind":"move_desc","en":"A weak jolt of electricity\\nthat paralyzes the foe."}
+{"id":"src/data/text/move_descriptions.h#sThunderDescription","kind":"move_desc","en":"A lightning attack that may\\ncause paralysis."}
+{"id":"src/data/text/move_descriptions.h#sRockThrowDescription","kind":"move_desc","en":"Throws small rocks to\\nstrike the foe."}
+{"id":"src/data/text/move_descriptions.h#sEarthquakeDescription","kind":"move_desc","en":"A powerful quake, but has\\nno effect on flying foes."}
+{"id":"src/data/text/move_descriptions.h#sFissureDescription","kind":"move_desc","en":"A one-hit KO move that\\ndrops the foe in a fissure."}
+{"id":"src/data/text/move_descriptions.h#sDigDescription","kind":"move_desc","en":"Digs underground the first\\nturn and strikes next turn."}
+{"id":"src/data/text/move_descriptions.h#sToxicDescription","kind":"move_desc","en":"Poisons the foe with an\\nintensifying toxin."}
+{"id":"src/data/text/move_descriptions.h#sConfusionDescription","kind":"move_desc","en":"A psychic attack that may\\ncause confusion."}
+{"id":"src/data/text/move_descriptions.h#sPsychicDescription","kind":"move_desc","en":"A powerful psychic attack\\nthat may lower SP. DEF."}
+{"id":"src/data/text/move_descriptions.h#sHypnosisDescription","kind":"move_desc","en":"A hypnotizing move that\\nmay induce sleep."}
+{"id":"src/data/text/move_descriptions.h#sMeditateDescription","kind":"move_desc","en":"Meditates in a peaceful\\nfashion to raise ATTACK."}
+{"id":"src/data/text/move_descriptions.h#sAgilityDescription","kind":"move_desc","en":"Relaxes the body to sharply\\nboost SPEED."}
+{"id":"src/data/text/move_descriptions.h#sQuickAttackDescription","kind":"move_desc","en":"An extremely fast attack\\nthat always strikes first."}
+{"id":"src/data/text/move_descriptions.h#sRageDescription","kind":"move_desc","en":"Raises the user's ATTACK\\nevery time it is hit."}
+{"id":"src/data/text/move_descriptions.h#sTeleportDescription","kind":"move_desc","en":"A psychic move for fleeing\\nfrom battle instantly."}
+{"id":"src/data/text/move_descriptions.h#sNightShadeDescription","kind":"move_desc","en":"Inflicts damage identical\\nto the user's level."}
+{"id":"src/data/text/move_descriptions.h#sMimicDescription","kind":"move_desc","en":"Copies a move used by the\\nfoe during one battle."}
+{"id":"src/data/text/move_descriptions.h#sScreechDescription","kind":"move_desc","en":"Emits a screech to sharply\\nreduce the foe's DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sDoubleTeamDescription","kind":"move_desc","en":"Creates illusory copies to\\nraise evasiveness."}
+{"id":"src/data/text/move_descriptions.h#sRecoverDescription","kind":"move_desc","en":"Recovers up to half the\\nuser's maximum HP."}
+{"id":"src/data/text/move_descriptions.h#sHardenDescription","kind":"move_desc","en":"Stiffens the body's \\nmuscles to raise DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sMinimizeDescription","kind":"move_desc","en":"Minimizes the user's size\\nto raise evasiveness."}
+{"id":"src/data/text/move_descriptions.h#sSmokescreenDescription","kind":"move_desc","en":"Lowers the foe's accuracy\\nusing smoke, ink, etc."}
+{"id":"src/data/text/move_descriptions.h#sConfuseRayDescription","kind":"move_desc","en":"A sinister ray that\\nconfuses the foe."}
+{"id":"src/data/text/move_descriptions.h#sWithdrawDescription","kind":"move_desc","en":"Withdraws the body into its\\nhard shell to raise DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sDefenseCurlDescription","kind":"move_desc","en":"Curls up to conceal weak\\nspots and raise DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sBarrierDescription","kind":"move_desc","en":"Creates a barrier that\\nsharply raises DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sLightScreenDescription","kind":"move_desc","en":"Creates a wall of light that\\nlowers SP. ATK damage."}
+{"id":"src/data/text/move_descriptions.h#sHazeDescription","kind":"move_desc","en":"Creates a black haze that\\neliminates all stat changes."}
+{"id":"src/data/text/move_descriptions.h#sReflectDescription","kind":"move_desc","en":"Creates a wall of light that\\nweakens physical attacks."}
+{"id":"src/data/text/move_descriptions.h#sFocusEnergyDescription","kind":"move_desc","en":"Focuses power to raise the\\ncritical-hit ratio."}
+{"id":"src/data/text/move_descriptions.h#sBideDescription","kind":"move_desc","en":"Endures attack for 2\\nturns to retaliate double."}
+{"id":"src/data/text/move_descriptions.h#sMetronomeDescription","kind":"move_desc","en":"Waggles a finger to use any\\nPOKéMON move at random."}
+{"id":"src/data/text/move_descriptions.h#sMirrorMoveDescription","kind":"move_desc","en":"Counters the foe's attack\\nwith the same move."}
+{"id":"src/data/text/move_descriptions.h#sSelfDestructDescription","kind":"move_desc","en":"Inflicts severe damage but\\nmakes the user faint."}
+{"id":"src/data/text/move_descriptions.h#sEggBombDescription","kind":"move_desc","en":"An egg is forcibly hurled at\\nthe foe."}
+{"id":"src/data/text/move_descriptions.h#sLickDescription","kind":"move_desc","en":"Licks with a long tongue to\\ninjure. May also paralyze."}
+{"id":"src/data/text/move_descriptions.h#sSmogDescription","kind":"move_desc","en":"An exhaust-gas attack\\nthat may also poison."}
+{"id":"src/data/text/move_descriptions.h#sSludgeDescription","kind":"move_desc","en":"Sludge is hurled to inflict\\ndamage. May also poison."}
+{"id":"src/data/text/move_descriptions.h#sBoneClubDescription","kind":"move_desc","en":"Clubs the foe with a bone.\\nMay cause flinching."}
+{"id":"src/data/text/move_descriptions.h#sFireBlastDescription","kind":"move_desc","en":"Incinerates everything it\\nstrikes. May cause a burn."}
+{"id":"src/data/text/move_descriptions.h#sWaterfallDescription","kind":"move_desc","en":"Charges the foe with speed\\nto climb waterfalls."}
+{"id":"src/data/text/move_descriptions.h#sClampDescription","kind":"move_desc","en":"Traps and squeezes the\\nfoe for 2 to 5 turns."}
+{"id":"src/data/text/move_descriptions.h#sSwiftDescription","kind":"move_desc","en":"Sprays star-shaped rays\\nthat never miss."}
+{"id":"src/data/text/move_descriptions.h#sSkullBashDescription","kind":"move_desc","en":"Tucks in the head, then\\nattacks on the next turn."}
+{"id":"src/data/text/move_descriptions.h#sSpikeCannonDescription","kind":"move_desc","en":"Launches sharp spikes that\\nstrike 2 to 5 times."}
+{"id":"src/data/text/move_descriptions.h#sConstrictDescription","kind":"move_desc","en":"Constricts to inflict pain.\\nMay lower SPEED."}
+{"id":"src/data/text/move_descriptions.h#sAmnesiaDescription","kind":"move_desc","en":"Forgets about something\\nand sharply raises SP. DEF."}
+{"id":"src/data/text/move_descriptions.h#sKinesisDescription","kind":"move_desc","en":"Distracts the foe.\\nMay lower accuracy."}
+{"id":"src/data/text/move_descriptions.h#sSoftBoiledDescription","kind":"move_desc","en":"Recovers up to half the\\nuser's maximum HP."}
+{"id":"src/data/text/move_descriptions.h#sHiJumpKickDescription","kind":"move_desc","en":"A jumping knee kick. If it\\nmisses, the user is hurt."}
+{"id":"src/data/text/move_descriptions.h#sGlareDescription","kind":"move_desc","en":"Intimidates and frightens\\nthe foe into paralysis."}
+{"id":"src/data/text/move_descriptions.h#sDreamEaterDescription","kind":"move_desc","en":"Takes one half the damage\\ninflicted on a sleeping foe."}
+{"id":"src/data/text/move_descriptions.h#sPoisonGasDescription","kind":"move_desc","en":"Envelops the foe in a toxic\\ngas that may poison."}
+{"id":"src/data/text/move_descriptions.h#sBarrageDescription","kind":"move_desc","en":"Hurls round objects at the\\nfoe 2 to 5 times."}
+{"id":"src/data/text/move_descriptions.h#sLeechLifeDescription","kind":"move_desc","en":"An attack that steals half\\nthe damage inflicted."}
+{"id":"src/data/text/move_descriptions.h#sLovelyKissDescription","kind":"move_desc","en":"Demands a kiss with a scary\\nface that induces sleep."}
+{"id":"src/data/text/move_descriptions.h#sSkyAttackDescription","kind":"move_desc","en":"Searches out weak spots,\\nthen strikes the next turn."}
+{"id":"src/data/text/move_descriptions.h#sTransformDescription","kind":"move_desc","en":"Alters the user's cells to\\nbecome a copy of the foe."}
+{"id":"src/data/text/move_descriptions.h#sBubbleDescription","kind":"move_desc","en":"An attack using bubbles.\\nMay lower the foe's SPEED."}
+{"id":"src/data/text/move_descriptions.h#sDizzyPunchDescription","kind":"move_desc","en":"A rhythmic punch that may\\nconfuse the foe."}
+{"id":"src/data/text/move_descriptions.h#sSporeDescription","kind":"move_desc","en":"Scatters a cloud of spores\\nthat always induce sleep."}
+{"id":"src/data/text/move_descriptions.h#sFlashDescription","kind":"move_desc","en":"Looses a powerful blast of\\nlight that cuts accuracy."}
+{"id":"src/data/text/move_descriptions.h#sPsywaveDescription","kind":"move_desc","en":"Attacks with a psychic\\nwave of varying intensity."}
+{"id":"src/data/text/move_descriptions.h#sSplashDescription","kind":"move_desc","en":"It's just a splash...\\nHas no effect whatsoever."}
+{"id":"src/data/text/move_descriptions.h#sAcidArmorDescription","kind":"move_desc","en":"Liquifies the user's body\\nto sharply raise DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sCrabhammerDescription","kind":"move_desc","en":"Hammers with a pincer. Has a\\nhigh critical-hit ratio."}
+{"id":"src/data/text/move_descriptions.h#sExplosionDescription","kind":"move_desc","en":"Inflicts severe damage but\\nmakes the user faint."}
+{"id":"src/data/text/move_descriptions.h#sFurySwipesDescription","kind":"move_desc","en":"Rakes the foe with sharp\\nclaws, etc., 2 to 5 times."}
+{"id":"src/data/text/move_descriptions.h#sBonemerangDescription","kind":"move_desc","en":"Throws a bone boomerang\\nthat strikes twice."}
+{"id":"src/data/text/move_descriptions.h#sRestDescription","kind":"move_desc","en":"The user sleeps for 2 turns,\\nrestoring HP and status."}
+{"id":"src/data/text/move_descriptions.h#sRockSlideDescription","kind":"move_desc","en":"Large boulders are hurled.\\nMay cause flinching."}
+{"id":"src/data/text/move_descriptions.h#sHyperFangDescription","kind":"move_desc","en":"Attacks with sharp fangs.\\nMay cause flinching."}
+{"id":"src/data/text/move_descriptions.h#sSharpenDescription","kind":"move_desc","en":"Reduces the polygon count\\nand raises ATTACK."}
+{"id":"src/data/text/move_descriptions.h#sConversionDescription","kind":"move_desc","en":"Changes the user's type\\ninto a known move's type."}
+{"id":"src/data/text/move_descriptions.h#sTriAttackDescription","kind":"move_desc","en":"Fires three types of beams\\nat the same time."}
+{"id":"src/data/text/move_descriptions.h#sSuperFangDescription","kind":"move_desc","en":"Attacks with sharp fangs\\nand cuts half the foe's HP."}
+{"id":"src/data/text/move_descriptions.h#sSlashDescription","kind":"move_desc","en":"Slashes with claws, etc. Has\\na high critical-hit ratio."}
+{"id":"src/data/text/move_descriptions.h#sSubstituteDescription","kind":"move_desc","en":"Creates a decoy using 1/4\\nof the user's maximum HP."}
+{"id":"src/data/text/move_descriptions.h#sStruggleDescription","kind":"move_desc","en":"Used only if all PP are gone.\\nAlso hurts the user a little."}
+{"id":"src/data/text/move_descriptions.h#sSketchDescription","kind":"move_desc","en":"Copies the foe's last move\\npermanently."}
+{"id":"src/data/text/move_descriptions.h#sTripleKickDescription","kind":"move_desc","en":"Kicks the foe 3 times in a\\nrow with rising intensity."}
+{"id":"src/data/text/move_descriptions.h#sThiefDescription","kind":"move_desc","en":"While attacking, it may\\nsteal the foe's held item."}
+{"id":"src/data/text/move_descriptions.h#sSpiderWebDescription","kind":"move_desc","en":"Ensnares the foe to stop it\\nfrom fleeing or switching."}
+{"id":"src/data/text/move_descriptions.h#sMindReaderDescription","kind":"move_desc","en":"Senses the foe's action to\\nensure the next move's hit."}
+{"id":"src/data/text/move_descriptions.h#sNightmareDescription","kind":"move_desc","en":"Inflicts 1/4 damage on a\\nsleeping foe every turn."}
+{"id":"src/data/text/move_descriptions.h#sFlameWheelDescription","kind":"move_desc","en":"A fiery charge attack that\\nmay inflict a burn."}
+{"id":"src/data/text/move_descriptions.h#sSnoreDescription","kind":"move_desc","en":"A loud attack that can be\\nused only while asleep."}
+{"id":"src/data/text/move_descriptions.h#sCurseDescription","kind":"move_desc","en":"A move that functions\\ndifferently for GHOSTS."}
+{"id":"src/data/text/move_descriptions.h#sFlailDescription","kind":"move_desc","en":"Inflicts more damage when\\nthe user's HP is down."}
+{"id":"src/data/text/move_descriptions.h#sConversion2Description","kind":"move_desc","en":"Makes the user resistant\\nto the last attack's type."}
+{"id":"src/data/text/move_descriptions.h#sAeroblastDescription","kind":"move_desc","en":"Launches a vacuumed blast.\\nHigh critical-hit ratio."}
+{"id":"src/data/text/move_descriptions.h#sCottonSporeDescription","kind":"move_desc","en":"Spores cling to the foe,\\nsharply reducing SPEED."}
+{"id":"src/data/text/move_descriptions.h#sReversalDescription","kind":"move_desc","en":"Inflicts more damage when\\nthe user's HP is down."}
+{"id":"src/data/text/move_descriptions.h#sSpiteDescription","kind":"move_desc","en":"Spitefully cuts the PP\\nof the foe's last move."}
+{"id":"src/data/text/move_descriptions.h#sPowderSnowDescription","kind":"move_desc","en":"Blasts the foe with a snowy\\ngust. May cause freezing."}
+{"id":"src/data/text/move_descriptions.h#sProtectDescription","kind":"move_desc","en":"Evades attack, but may fail\\nif used in succession."}
+{"id":"src/data/text/move_descriptions.h#sMachPunchDescription","kind":"move_desc","en":"A punch is thrown at wicked\\nspeed to strike first."}
+{"id":"src/data/text/move_descriptions.h#sScaryFaceDescription","kind":"move_desc","en":"Frightens with a scary face\\nto sharply reduce SPEED."}
+{"id":"src/data/text/move_descriptions.h#sFaintAttackDescription","kind":"move_desc","en":"Draws the foe close, then\\nstrikes without fail."}
+{"id":"src/data/text/move_descriptions.h#sSweetKissDescription","kind":"move_desc","en":"Demands a kiss with a cute\\nlook. May cause confusion."}
+{"id":"src/data/text/move_descriptions.h#sBellyDrumDescription","kind":"move_desc","en":"Maximizes ATTACK while\\nsacrificing HP."}
+{"id":"src/data/text/move_descriptions.h#sSludgeBombDescription","kind":"move_desc","en":"Sludge is hurled to inflict\\ndamage. May also poison."}
+{"id":"src/data/text/move_descriptions.h#sMudSlapDescription","kind":"move_desc","en":"Hurls mud in the foe's face\\nto reduce its accuracy."}
+{"id":"src/data/text/move_descriptions.h#sOctazookaDescription","kind":"move_desc","en":"Fires a lump of ink to\\ndamage and cut accuracy."}
+{"id":"src/data/text/move_descriptions.h#sSpikesDescription","kind":"move_desc","en":"Sets spikes that hurt a \\nfoe switching in."}
+{"id":"src/data/text/move_descriptions.h#sZapCannonDescription","kind":"move_desc","en":"Powerful and sure to cause\\nparalysis, but inaccurate."}
+{"id":"src/data/text/move_descriptions.h#sForesightDescription","kind":"move_desc","en":"Negates the foe's efforts\\nto heighten evasiveness."}
+{"id":"src/data/text/move_descriptions.h#sDestinyBondDescription","kind":"move_desc","en":"If the user faints, the foe\\nis also made to faint."}
+{"id":"src/data/text/move_descriptions.h#sPerishSongDescription","kind":"move_desc","en":"Any POKéMON hearing this\\nsong faints in 3 turns."}
+{"id":"src/data/text/move_descriptions.h#sIcyWindDescription","kind":"move_desc","en":"A chilling attack that\\nlowers the foe's SPEED."}
+{"id":"src/data/text/move_descriptions.h#sDetectDescription","kind":"move_desc","en":"Evades attack, but may fail\\nif used in succession."}
+{"id":"src/data/text/move_descriptions.h#sBoneRushDescription","kind":"move_desc","en":"Strikes the foe with a bone\\nin hand 2 to 5 times."}
+{"id":"src/data/text/move_descriptions.h#sLockOnDescription","kind":"move_desc","en":"Locks on to the foe to\\nensure the next move hits."}
+{"id":"src/data/text/move_descriptions.h#sOutrageDescription","kind":"move_desc","en":"A rampage of 2 to 3 turns\\nthat confuses the user."}
+{"id":"src/data/text/move_descriptions.h#sSandstormDescription","kind":"move_desc","en":"Causes a sandstorm that\\nrages for several turns."}
+{"id":"src/data/text/move_descriptions.h#sGigaDrainDescription","kind":"move_desc","en":"An attack that steals half\\nthe damage inflicted."}
+{"id":"src/data/text/move_descriptions.h#sEndureDescription","kind":"move_desc","en":"Endures any attack for\\n1 turn, leaving at least 1HP."}
+{"id":"src/data/text/move_descriptions.h#sCharmDescription","kind":"move_desc","en":"Charms the foe and sharply\\nreduces its ATTACK."}
+{"id":"src/data/text/move_descriptions.h#sRolloutDescription","kind":"move_desc","en":"An attack lasting 5 turns\\nwith rising intensity."}
+{"id":"src/data/text/move_descriptions.h#sFalseSwipeDescription","kind":"move_desc","en":"An attack that leaves the\\nfoe with at least 1 HP."}
+{"id":"src/data/text/move_descriptions.h#sSwaggerDescription","kind":"move_desc","en":"Confuses the foe, but also\\nsharply raises ATTACK."}
+{"id":"src/data/text/move_descriptions.h#sMilkDrinkDescription","kind":"move_desc","en":"Recovers up to half the\\nuser's maximum HP."}
+{"id":"src/data/text/move_descriptions.h#sSparkDescription","kind":"move_desc","en":"An electrified tackle that\\nmay paralyze the foe."}
+{"id":"src/data/text/move_descriptions.h#sFuryCutterDescription","kind":"move_desc","en":"An attack that intensifies\\non each successive hit."}
+{"id":"src/data/text/move_descriptions.h#sSteelWingDescription","kind":"move_desc","en":"Strikes the foe with hard\\nwings spread wide."}
+{"id":"src/data/text/move_descriptions.h#sMeanLookDescription","kind":"move_desc","en":"Fixes the foe with a mean\\nlook that prevents escape."}
+{"id":"src/data/text/move_descriptions.h#sAttractDescription","kind":"move_desc","en":"Makes the opposite gender\\nless likely to attack."}
+{"id":"src/data/text/move_descriptions.h#sSleepTalkDescription","kind":"move_desc","en":"Uses an available move\\nrandomly while asleep."}
+{"id":"src/data/text/move_descriptions.h#sHealBellDescription","kind":"move_desc","en":"Chimes soothingly to heal\\nall status abnormalities."}
+{"id":"src/data/text/move_descriptions.h#sReturnDescription","kind":"move_desc","en":"An attack that increases\\nin power with friendship."}
+{"id":"src/data/text/move_descriptions.h#sPresentDescription","kind":"move_desc","en":"A gift in the form of a\\nbomb. May restore HP."}
+{"id":"src/data/text/move_descriptions.h#sFrustrationDescription","kind":"move_desc","en":"An attack that is stronger\\nif the TRAINER is disliked."}
+{"id":"src/data/text/move_descriptions.h#sSafeguardDescription","kind":"move_desc","en":"A mystical force prevents\\nall status problems."}
+{"id":"src/data/text/move_descriptions.h#sPainSplitDescription","kind":"move_desc","en":"Adds the user and foe's HP,\\nthen shares them equally."}
+{"id":"src/data/text/move_descriptions.h#sSacredFireDescription","kind":"move_desc","en":"A mystical fire attack that\\nmay inflict a burn."}
+{"id":"src/data/text/move_descriptions.h#sMagnitudeDescription","kind":"move_desc","en":"A ground-shaking attack\\nof random intensity."}
+{"id":"src/data/text/move_descriptions.h#sDynamicPunchDescription","kind":"move_desc","en":"Powerful and sure to cause\\nconfusion, but inaccurate."}
+{"id":"src/data/text/move_descriptions.h#sMegahornDescription","kind":"move_desc","en":"A brutal ramming attack\\nusing out-thrust horns."}
+{"id":"src/data/text/move_descriptions.h#sDragonBreathDescription","kind":"move_desc","en":"Strikes the foe with an\\nincredible blast of breath."}
+{"id":"src/data/text/move_descriptions.h#sBatonPassDescription","kind":"move_desc","en":"Switches out the user while\\nkeeping effects in play."}
+{"id":"src/data/text/move_descriptions.h#sEncoreDescription","kind":"move_desc","en":"Makes the foe repeat its\\nlast move over 2 to 6 turns."}
+{"id":"src/data/text/move_descriptions.h#sPursuitDescription","kind":"move_desc","en":"Inflicts bad damage if used\\non a foe switching out."}
+{"id":"src/data/text/move_descriptions.h#sRapidSpinDescription","kind":"move_desc","en":"Spins the body at high\\nspeed to strike the foe."}
+{"id":"src/data/text/move_descriptions.h#sSweetScentDescription","kind":"move_desc","en":"Allures the foe to reduce\\nevasiveness."}
+{"id":"src/data/text/move_descriptions.h#sIronTailDescription","kind":"move_desc","en":"Attacks with a rock-hard\\ntail. May lower DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sMetalClawDescription","kind":"move_desc","en":"A claw attack that may\\nraise the user's ATTACK."}
+{"id":"src/data/text/move_descriptions.h#sVitalThrowDescription","kind":"move_desc","en":"Makes the user's move last,\\nbut it never misses."}
+{"id":"src/data/text/move_descriptions.h#sMorningSunDescription","kind":"move_desc","en":"Restores HP. The amount\\nvaries with the weather."}
+{"id":"src/data/text/move_descriptions.h#sSynthesisDescription","kind":"move_desc","en":"Restores HP. The amount\\nvaries with the weather."}
+{"id":"src/data/text/move_descriptions.h#sMoonlightDescription","kind":"move_desc","en":"Restores HP. The amount\\nvaries with the weather."}
+{"id":"src/data/text/move_descriptions.h#sHiddenPowerDescription","kind":"move_desc","en":"The effectiveness varies\\nwith the user."}
+{"id":"src/data/text/move_descriptions.h#sCrossChopDescription","kind":"move_desc","en":"A double-chopping attack.\\nHigh critical-hit ratio."}
+{"id":"src/data/text/move_descriptions.h#sTwisterDescription","kind":"move_desc","en":"Whips up a vicious twister\\nto tear at the foe."}
+{"id":"src/data/text/move_descriptions.h#sRainDanceDescription","kind":"move_desc","en":"Boosts the power of WATER-\\ntype moves for 5 turns."}
+{"id":"src/data/text/move_descriptions.h#sSunnyDayDescription","kind":"move_desc","en":"Boosts the power of FIRE-\\ntype moves for 5 turns."}
+{"id":"src/data/text/move_descriptions.h#sCrunchDescription","kind":"move_desc","en":"Crunches with sharp fangs.\\nMay lower SP. DEF."}
+{"id":"src/data/text/move_descriptions.h#sMirrorCoatDescription","kind":"move_desc","en":"Counters the foe's special\\nattack at double the power."}
+{"id":"src/data/text/move_descriptions.h#sPsychUpDescription","kind":"move_desc","en":"Copies the foe's effect(s)\\nand gives to the user."}
+{"id":"src/data/text/move_descriptions.h#sExtremeSpeedDescription","kind":"move_desc","en":"An extremely fast and\\npowerful attack."}
+{"id":"src/data/text/move_descriptions.h#sAncientPowerDescription","kind":"move_desc","en":"An attack that may raise\\nall stats."}
+{"id":"src/data/text/move_descriptions.h#sShadowBallDescription","kind":"move_desc","en":"Hurls a black blob that may\\nlower the foe's SP. DEF."}
+{"id":"src/data/text/move_descriptions.h#sFutureSightDescription","kind":"move_desc","en":"Heightens inner power to\\nstrike 2 turns later."}
+{"id":"src/data/text/move_descriptions.h#sRockSmashDescription","kind":"move_desc","en":"A rock-crushing attack\\nthat may lower DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sWhirlpoolDescription","kind":"move_desc","en":"Traps and hurts the foe in\\na whirlpool for 2 to 5 turns."}
+{"id":"src/data/text/move_descriptions.h#sBeatUpDescription","kind":"move_desc","en":"Summons party POKéMON to\\njoin in the attack."}
+{"id":"src/data/text/move_descriptions.h#sFakeOutDescription","kind":"move_desc","en":"A 1st-turn, 1st-strike move\\nthat causes flinching."}
+{"id":"src/data/text/move_descriptions.h#sUproarDescription","kind":"move_desc","en":"Causes an uproar for 2 to 5\\nturns and prevents sleep."}
+{"id":"src/data/text/move_descriptions.h#sStockpileDescription","kind":"move_desc","en":"Charges up power for up to\\n3 turns."}
+{"id":"src/data/text/move_descriptions.h#sSpitUpDescription","kind":"move_desc","en":"Releases stockpiled power\\n(the more the better)."}
+{"id":"src/data/text/move_descriptions.h#sSwallowDescription","kind":"move_desc","en":"Absorbs stockpiled power\\nand restores HP."}
+{"id":"src/data/text/move_descriptions.h#sHeatWaveDescription","kind":"move_desc","en":"Exhales a hot breath on the\\nfoe. May inflict a burn."}
+{"id":"src/data/text/move_descriptions.h#sHailDescription","kind":"move_desc","en":"Summons a hailstorm that\\nstrikes every turn."}
+{"id":"src/data/text/move_descriptions.h#sTormentDescription","kind":"move_desc","en":"Torments the foe and stops\\nsuccessive use of a move."}
+{"id":"src/data/text/move_descriptions.h#sFlatterDescription","kind":"move_desc","en":"Confuses the foe, but\\nraises its SP. ATK."}
+{"id":"src/data/text/move_descriptions.h#sWillOWispDescription","kind":"move_desc","en":"Inflicts a burn on the foe\\nwith intense fire."}
+{"id":"src/data/text/move_descriptions.h#sMementoDescription","kind":"move_desc","en":"The user faints and lowers\\nthe foe's abilities."}
+{"id":"src/data/text/move_descriptions.h#sFacadeDescription","kind":"move_desc","en":"Boosts ATTACK when burned,\\nparalyzed, or poisoned."}
+{"id":"src/data/text/move_descriptions.h#sFocusPunchDescription","kind":"move_desc","en":"A powerful loyalty attack.\\nThe user flinches if hit."}
+{"id":"src/data/text/move_descriptions.h#sSmellingSaltDescription","kind":"move_desc","en":"Powerful against paralyzed\\nfoes, but also heals them."}
+{"id":"src/data/text/move_descriptions.h#sFollowMeDescription","kind":"move_desc","en":"Draws attention to make\\nfoes attack only the user."}
+{"id":"src/data/text/move_descriptions.h#sNaturePowerDescription","kind":"move_desc","en":"The type of attack varies\\ndepending on the location."}
+{"id":"src/data/text/move_descriptions.h#sChargeDescription","kind":"move_desc","en":"Charges power to boost the\\nelectric move used next."}
+{"id":"src/data/text/move_descriptions.h#sTauntDescription","kind":"move_desc","en":"Taunts the foe into only\\nusing attack moves."}
+{"id":"src/data/text/move_descriptions.h#sHelpingHandDescription","kind":"move_desc","en":"Boosts the power of the\\nrecipient's moves."}
+{"id":"src/data/text/move_descriptions.h#sTrickDescription","kind":"move_desc","en":"Tricks the foe into trading\\nheld items."}
+{"id":"src/data/text/move_descriptions.h#sRolePlayDescription","kind":"move_desc","en":"Mimics the target and\\ncopies its special ability."}
+{"id":"src/data/text/move_descriptions.h#sWishDescription","kind":"move_desc","en":"A wish that restores HP.\\nIt takes time to work."}
+{"id":"src/data/text/move_descriptions.h#sAssistDescription","kind":"move_desc","en":"Attacks randomly with one\\nof the partner's moves."}
+{"id":"src/data/text/move_descriptions.h#sIngrainDescription","kind":"move_desc","en":"Lays roots that restore HP.\\nThe user can't switch out."}
+{"id":"src/data/text/move_descriptions.h#sSuperpowerDescription","kind":"move_desc","en":"Boosts strength sharply,\\nbut lowers abilities."}
+{"id":"src/data/text/move_descriptions.h#sMagicCoatDescription","kind":"move_desc","en":"Reflects special effects\\nback to the attacker."}
+{"id":"src/data/text/move_descriptions.h#sRecycleDescription","kind":"move_desc","en":"Recycles a used item for\\none more use."}
+{"id":"src/data/text/move_descriptions.h#sRevengeDescription","kind":"move_desc","en":"An attack that gains power\\nif injured by the foe."}
+{"id":"src/data/text/move_descriptions.h#sBrickBreakDescription","kind":"move_desc","en":"Destroys barriers such as\\nREFLECT and causes damage."}
+{"id":"src/data/text/move_descriptions.h#sYawnDescription","kind":"move_desc","en":"Lulls the foe into yawning,\\nthen sleeping next turn."}
+{"id":"src/data/text/move_descriptions.h#sKnockOffDescription","kind":"move_desc","en":"Knocks down the foe's held\\nitem to prevent its use."}
+{"id":"src/data/text/move_descriptions.h#sEndeavorDescription","kind":"move_desc","en":"Gains power if the user's HP\\nis lower than the foe's HP."}
+{"id":"src/data/text/move_descriptions.h#sEruptionDescription","kind":"move_desc","en":"The higher the user's HP,\\nthe more damage caused."}
+{"id":"src/data/text/move_descriptions.h#sSkillSwapDescription","kind":"move_desc","en":"The user swaps special\\nabilities with the target."}
+{"id":"src/data/text/move_descriptions.h#sImprisonDescription","kind":"move_desc","en":"Prevents foes from using\\nmoves known by the user."}
+{"id":"src/data/text/move_descriptions.h#sRefreshDescription","kind":"move_desc","en":"Heals poisoning, paralysis,\\nor a burn."}
+{"id":"src/data/text/move_descriptions.h#sGrudgeDescription","kind":"move_desc","en":"If the user faints, deletes\\nall PP of foe's last move."}
+{"id":"src/data/text/move_descriptions.h#sSnatchDescription","kind":"move_desc","en":"Steals the effects of the\\nmove the target uses next."}
+{"id":"src/data/text/move_descriptions.h#sSecretPowerDescription","kind":"move_desc","en":"An attack with effects\\nthat vary by location."}
+{"id":"src/data/text/move_descriptions.h#sDiveDescription","kind":"move_desc","en":"Dives underwater the first\\nturn and strikes next turn."}
+{"id":"src/data/text/move_descriptions.h#sArmThrustDescription","kind":"move_desc","en":"Straight-arm punches that\\nstrike the foe 2 to 5 times."}
+{"id":"src/data/text/move_descriptions.h#sCamouflageDescription","kind":"move_desc","en":"Alters the POKéMON's type\\ndepending on the location."}
+{"id":"src/data/text/move_descriptions.h#sTailGlowDescription","kind":"move_desc","en":"Flashes a light that sharply\\nraises SP. ATK."}
+{"id":"src/data/text/move_descriptions.h#sLusterPurgeDescription","kind":"move_desc","en":"Attacks with a burst of\\nlight. May lower SP. DEF."}
+{"id":"src/data/text/move_descriptions.h#sMistBallDescription","kind":"move_desc","en":"Attacks with a flurry of\\ndown. May lower SP. ATK."}
+{"id":"src/data/text/move_descriptions.h#sFeatherDanceDescription","kind":"move_desc","en":"Envelops the foe with down\\nto sharply reduce ATTACK."}
+{"id":"src/data/text/move_descriptions.h#sTeeterDanceDescription","kind":"move_desc","en":"Confuses all POKéMON on\\nthe scene."}
+{"id":"src/data/text/move_descriptions.h#sBlazeKickDescription","kind":"move_desc","en":"A kick with a high critical-\\nhit ratio. May cause a burn."}
+{"id":"src/data/text/move_descriptions.h#sMudSportDescription","kind":"move_desc","en":"Covers the user in mud to\\nraise electrical resistance."}
+{"id":"src/data/text/move_descriptions.h#sIceBallDescription","kind":"move_desc","en":"A 5-turn attack that gains\\npower on successive hits."}
+{"id":"src/data/text/move_descriptions.h#sNeedleArmDescription","kind":"move_desc","en":"Attacks with thorny arms.\\nMay cause flinching."}
+{"id":"src/data/text/move_descriptions.h#sSlackOffDescription","kind":"move_desc","en":"Slacks off and restores\\nhalf the maximum HP."}
+{"id":"src/data/text/move_descriptions.h#sHyperVoiceDescription","kind":"move_desc","en":"A loud attack that uses\\nsound waves to injure."}
+{"id":"src/data/text/move_descriptions.h#sPoisonFangDescription","kind":"move_desc","en":"A sharp-fanged attack.\\nMay badly poison the foe."}
+{"id":"src/data/text/move_descriptions.h#sCrushClawDescription","kind":"move_desc","en":"Tears at the foe with sharp\\nclaws. May lower DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sBlastBurnDescription","kind":"move_desc","en":"Powerful, but leaves the\\nuser immobile the next turn."}
+{"id":"src/data/text/move_descriptions.h#sHydroCannonDescription","kind":"move_desc","en":"Powerful, but leaves the\\nuser immobile the next turn."}
+{"id":"src/data/text/move_descriptions.h#sMeteorMashDescription","kind":"move_desc","en":"Fires a meteor-like punch.\\nMay raise ATTACK."}
+{"id":"src/data/text/move_descriptions.h#sAstonishDescription","kind":"move_desc","en":"An attack that may shock\\nthe foe into flinching."}
+{"id":"src/data/text/move_descriptions.h#sWeatherBallDescription","kind":"move_desc","en":"The move's type and power\\nchange with the weather."}
+{"id":"src/data/text/move_descriptions.h#sAromatherapyDescription","kind":"move_desc","en":"Heals all status problems\\nwith a soothing scent."}
+{"id":"src/data/text/move_descriptions.h#sFakeTearsDescription","kind":"move_desc","en":"Feigns crying to sharply\\nlower the foe's SP. DEF."}
+{"id":"src/data/text/move_descriptions.h#sAirCutterDescription","kind":"move_desc","en":"Hacks with razorlike wind.\\nHigh critical-hit ratio."}
+{"id":"src/data/text/move_descriptions.h#sOverheatDescription","kind":"move_desc","en":"Allows a full-power attack,\\nbut sharply lowers SP. ATK."}
+{"id":"src/data/text/move_descriptions.h#sOdorSleuthDescription","kind":"move_desc","en":"Negates the foe's efforts\\nto heighten evasiveness."}
+{"id":"src/data/text/move_descriptions.h#sRockTombDescription","kind":"move_desc","en":"Stops the foe from moving\\nwith rocks and cuts SPEED."}
+{"id":"src/data/text/move_descriptions.h#sSilverWindDescription","kind":"move_desc","en":"A powdery attack that may\\nraise abilities."}
+{"id":"src/data/text/move_descriptions.h#sMetalSoundDescription","kind":"move_desc","en":"Emits a horrible screech\\nthat sharply lowers SP. DEF."}
+{"id":"src/data/text/move_descriptions.h#sGrassWhistleDescription","kind":"move_desc","en":"Lulls the foe into sleep\\nwith a pleasant melody."}
+{"id":"src/data/text/move_descriptions.h#sTickleDescription","kind":"move_desc","en":"Makes the foe laugh to\\nlower ATTACK and DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sCosmicPowerDescription","kind":"move_desc","en":"Raises DEFENSE and SP. DEF\\nwith a mystic power."}
+{"id":"src/data/text/move_descriptions.h#sWaterSpoutDescription","kind":"move_desc","en":"Inflicts more damage if the\\nuser's HP is high."}
+{"id":"src/data/text/move_descriptions.h#sSignalBeamDescription","kind":"move_desc","en":"A strange beam attack that\\nmay confuse the foe."}
+{"id":"src/data/text/move_descriptions.h#sShadowPunchDescription","kind":"move_desc","en":"An unavoidable punch that\\nis thrown from shadows."}
+{"id":"src/data/text/move_descriptions.h#sExtrasensoryDescription","kind":"move_desc","en":"Attacks with a peculiar\\npower. May cause flinching."}
+{"id":"src/data/text/move_descriptions.h#sSkyUppercutDescription","kind":"move_desc","en":"An uppercut thrown as if\\nleaping into the sky."}
+{"id":"src/data/text/move_descriptions.h#sSandTombDescription","kind":"move_desc","en":"Traps and hurts the foe in\\nquicksand for 2 to 5 turns."}
+{"id":"src/data/text/move_descriptions.h#sSheerColdDescription","kind":"move_desc","en":"A chilling attack that\\ncauses fainting if it hits."}
+{"id":"src/data/text/move_descriptions.h#sMuddyWaterDescription","kind":"move_desc","en":"Attacks with muddy water.\\nMay lower accuracy."}
+{"id":"src/data/text/move_descriptions.h#sBulletSeedDescription","kind":"move_desc","en":"Shoots 2 to 5 seeds in a row\\nto strike the foe."}
+{"id":"src/data/text/move_descriptions.h#sAerialAceDescription","kind":"move_desc","en":"An extremely speedy and\\nunavoidable attack."}
+{"id":"src/data/text/move_descriptions.h#sIcicleSpearDescription","kind":"move_desc","en":"Attacks the foe by firing\\n2 to 5 icicles in a row."}
+{"id":"src/data/text/move_descriptions.h#sIronDefenseDescription","kind":"move_desc","en":"Hardens the body's surface\\nto sharply raise DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sBlockDescription","kind":"move_desc","en":"Blocks the foe's way to\\nprevent escape."}
+{"id":"src/data/text/move_descriptions.h#sHowlDescription","kind":"move_desc","en":"Howls to raise the spirit\\nand boosts ATTACK."}
+{"id":"src/data/text/move_descriptions.h#sDragonClawDescription","kind":"move_desc","en":"Slashes the foe with sharp\\nclaws."}
+{"id":"src/data/text/move_descriptions.h#sFrenzyPlantDescription","kind":"move_desc","en":"Powerful, but leaves the\\nuser immobile the next turn."}
+{"id":"src/data/text/move_descriptions.h#sBulkUpDescription","kind":"move_desc","en":"Bulks up the body to boost\\nboth ATTACK and DEFENSE."}
+{"id":"src/data/text/move_descriptions.h#sBounceDescription","kind":"move_desc","en":"Bounces up, then down the\\nnext turn. May paralyze."}
+{"id":"src/data/text/move_descriptions.h#sMudShotDescription","kind":"move_desc","en":"Hurls mud at the foe and\\nreduces SPEED."}
+{"id":"src/data/text/move_descriptions.h#sPoisonTailDescription","kind":"move_desc","en":"Has a high critical-hit\\nratio. May also poison."}
+{"id":"src/data/text/move_descriptions.h#sCovetDescription","kind":"move_desc","en":"Cutely begs to obtain an\\nitem held by the foe."}
+{"id":"src/data/text/move_descriptions.h#sVoltTackleDescription","kind":"move_desc","en":"A life-risking tackle that\\nslightly hurts the user."}
+{"id":"src/data/text/move_descriptions.h#sMagicalLeafDescription","kind":"move_desc","en":"Attacks with a strange leaf\\nthat cannot be evaded."}
+{"id":"src/data/text/move_descriptions.h#sWaterSportDescription","kind":"move_desc","en":"The user becomes soaked to\\nraise resistance to fire."}
+{"id":"src/data/text/move_descriptions.h#sCalmMindDescription","kind":"move_desc","en":"Raises SP. ATK and SP. DEF\\nby focusing the mind."}
+{"id":"src/data/text/move_descriptions.h#sLeafBladeDescription","kind":"move_desc","en":"Slashes with a sharp leaf.\\nHigh critical-hit ratio."}
+{"id":"src/data/text/move_descriptions.h#sDragonDanceDescription","kind":"move_desc","en":"A mystical dance that ups\\nATTACK and SPEED."}
+{"id":"src/data/text/move_descriptions.h#sRockBlastDescription","kind":"move_desc","en":"Hurls boulders at the foe\\n2 to 5 times in a row."}
+{"id":"src/data/text/move_descriptions.h#sShockWaveDescription","kind":"move_desc","en":"A fast and unavoidable\\nelectric attack."}
+{"id":"src/data/text/move_descriptions.h#sWaterPulseDescription","kind":"move_desc","en":"Attacks with ultrasonic\\nwaves. May confuse the foe."}
+{"id":"src/data/text/move_descriptions.h#sDoomDesireDescription","kind":"move_desc","en":"Summons strong sunlight to\\nattack 2 turns later."}
+{"id":"src/data/text/move_descriptions.h#sPsychoBoostDescription","kind":"move_desc","en":"Allows a full-power attack,\\nbut sharply lowers SP. ATK."}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_Champion","kind":"ribbon_desc","en":"CHAMPION-beating, HALL"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_Champion","kind":"ribbon_desc","en":"OF FAME Member RIBBON"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_CoolContest","kind":"ribbon_desc","en":"COOL CONTEST"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_BeautyContest","kind":"ribbon_desc","en":"BEAUTY CONTEST"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_CuteContest","kind":"ribbon_desc","en":"CUTE CONTEST"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_SmartContest","kind":"ribbon_desc","en":"SMART CONTEST"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_ToughContest","kind":"ribbon_desc","en":"TOUGH CONTEST"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_NormalRank","kind":"ribbon_desc","en":"Normal Rank winner!"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_SuperRank","kind":"ribbon_desc","en":"Super Rank winner!"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_HyperRank","kind":"ribbon_desc","en":"Hyper Rank winner!"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_MasterRank","kind":"ribbon_desc","en":"Master Rank winner!"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_Winning","kind":"ribbon_desc","en":"For clearing LV50"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_Winning","kind":"ribbon_desc","en":"at the BATTLE TOWER."}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_Victory","kind":"ribbon_desc","en":"For clearing Open Level"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_Victory","kind":"ribbon_desc","en":"at the BATTLE TOWER."}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_Artist","kind":"ribbon_desc","en":"RIBBON for being chosen"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_Artist","kind":"ribbon_desc","en":"as a super sketch model."}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_Effort","kind":"ribbon_desc","en":"RIBBON awarded for"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_Effort","kind":"ribbon_desc","en":"being a hard worker."}
+{"id":"src/data/trade.h#sText_SpaceMove","kind":"ui","en":" MOVE"}
+{"id":"src/data/trade.h#sText_Lv","kind":"ui","en":"Lv. "}
+{"id":"src/data/trade.h#sText_IsThisTradeOkay","kind":"ui","en":"Is this trade okay?"}
+{"id":"src/data/trade.h#sText_Cancel","kind":"ui","en":"CANCEL"}
+{"id":"src/data/trade.h#sText_ChooseAPkmn","kind":"ui","en":"Choose a POKéMON."}
+{"id":"src/data/trade.h#sText_Summary","kind":"ui","en":"SUMMARY"}
+{"id":"src/data/trade.h#sText_Trade","kind":"ui","en":"TRADE"}
+{"id":"src/data/trade.h#sText_CancelTrade","kind":"ui","en":"Cancel trade?"}
+{"id":"src/data/trade.h#sText_Summary2","kind":"ui","en":"SUMMARY"}
+{"id":"src/data/trade.h#sText_Trade2","kind":"ui","en":"TRADE"}
+{"id":"src/data/trade.h#sText_CommunicationStandby","kind":"ui","en":"{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Communication standby…\\nPlease wait."}
+{"id":"src/data/trade.h#sText_TheTradeHasBeenCanceled","kind":"ui","en":"{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}The trade has\\nbeen canceled."}
+{"id":"src/data/trade.h#sText_OnlyPkmnForBattle","kind":"ui","en":"That's your only\\nPOKéMON for battle."}
+{"id":"src/data/trade.h#sText_WaitingForYourFriend","kind":"ui","en":"{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Waiting for your friend\\nto finish…"}
+{"id":"src/data/trade.h#sText_YourFriendWantsToTrade","kind":"ui","en":"Your friend wants\\nto trade POKéMON."}
+{"id":"src/data/trade.h#INGAME_TRADE_SEEDOT.nickname","kind":"ui","en":"DOTS"}
+{"id":"src/data/trade.h#INGAME_TRADE_SEEDOT.otName","kind":"ui","en":"KOBE"}
+{"id":"src/data/trade.h#INGAME_TRADE_PLUSLE.nickname","kind":"ui","en":"PLUSES"}
+{"id":"src/data/trade.h#INGAME_TRADE_PLUSLE.otName","kind":"ui","en":"ROMAN"}
+{"id":"src/data/trade.h#INGAME_TRADE_HORSEA.nickname","kind":"ui","en":"SEASOR"}
+{"id":"src/data/trade.h#INGAME_TRADE_HORSEA.otName","kind":"ui","en":"SKYLAR"}
+{"id":"src/data/trade.h#INGAME_TRADE_MEOWTH.nickname","kind":"ui","en":"MEOWOW"}
+{"id":"src/data/trade.h#INGAME_TRADE_MEOWTH.otName","kind":"ui","en":"ISIS"}
+{"id":"src/data/union_room.h#sText_PleaseStartOver","kind":"ui","en":"Please start over from the beginning."}
+{"id":"src/data/union_room.h#sText_WirelessSearchCanceled","kind":"ui","en":"The WIRELESS COMMUNICATION\\nSYSTEM search has been canceled."}
+{"id":"src/data/union_room.h#sText_AwaitingCommunucation2","kind":"ui","en":"Awaiting communication\\nfrom another player."}
+{"id":"src/data/union_room.h#sText_AwaitingCommunication","kind":"ui","en":"{STR_VAR_1}! Awaiting\\ncommunication from another player."}
+{"id":"src/data/union_room.h#sText_AwaitingLinkPressStart","kind":"ui","en":"{STR_VAR_1}! Awaiting link!\\nPress START when everyone's ready."}
+{"id":"src/data/union_room.h#sText_1PlayerNeeded","kind":"ui","en":"1 player\\nneeded."}
+{"id":"src/data/union_room.h#sText_2PlayersNeeded","kind":"ui","en":"2 players\\nneeded."}
+{"id":"src/data/union_room.h#sText_3PlayersNeeded","kind":"ui","en":"3 players\\nneeded."}
+{"id":"src/data/union_room.h#sText_4PlayersNeeded","kind":"ui","en":"4 players\\nneeded."}
+{"id":"src/data/union_room.h#sText_2PlayerMode","kind":"ui","en":"2-PLAYER\\nMODE"}
+{"id":"src/data/union_room.h#sText_3PlayerMode","kind":"ui","en":"3-PLAYER\\nMODE"}
+{"id":"src/data/union_room.h#sText_4PlayerMode","kind":"ui","en":"4-PLAYER\\nMODE"}
+{"id":"src/data/union_room.h#sText_5PlayerMode","kind":"ui","en":"5-PLAYER\\nMODE"}
+{"id":"src/data/union_room.h#sText_BButtonCancel","kind":"ui","en":"{B_BUTTON}CANCEL"}
+{"id":"src/data/union_room.h#sText_PlayerContactedYouForXAccept","kind":"ui","en":"{STR_VAR_2} contacted you for\\n{STR_VAR_1}. Accept?"}
+{"id":"src/data/union_room.h#sText_PlayerContactedYouShareX","kind":"ui","en":"{STR_VAR_2} contacted you.\\nWill you share {STR_VAR_1}?"}
+{"id":"src/data/union_room.h#sText_PlayerContactedYouAddToMembers","kind":"ui","en":"{STR_VAR_2} contacted you.\\nAdd to the members?"}
+{"id":"src/data/union_room.h#sText_AreTheseMembersOK","kind":"ui","en":"{STR_VAR_1}!\\nAre these members OK?"}
+{"id":"src/data/union_room.h#sText_CancelModeWithTheseMembers","kind":"ui","en":"Cancel {STR_VAR_1} MODE\\nwith these members?"}
+{"id":"src/data/union_room.h#sText_AnOKWasSentToPlayer","kind":"ui","en":"An “OK” was sent\\nto {STR_VAR_1}."}
+{"id":"src/data/union_room.h#sText_OtherTrainerUnavailableNow","kind":"ui","en":"The other TRAINER doesn't appear\\nto be available now…\\p"}
+{"id":"src/data/union_room.h#sText_CantTransmitTrainerTooFar","kind":"ui","en":"You can't transmit with a TRAINER\\nwho is too far away.\\p"}
+{"id":"src/data/union_room.h#sText_TrainersNotReadyYet","kind":"ui","en":"The other TRAINER(S) is/are not\\nready yet.\\p"}
+{"id":"src/data/union_room.h#sText_ModeWithTheseMembersWillBeCanceled","kind":"ui","en":"The {STR_VAR_1} MODE with\\nthese members will be canceled.{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_MemberNoLongerAvailable","kind":"ui","en":"There is a member who can no\\nlonger remain available.\\p"}
+{"id":"src/data/union_room.h#sText_TrainerAppearsUnavailable","kind":"ui","en":"The other TRAINER appears\\nunavailable…\\p"}
+{"id":"src/data/union_room.h#sText_PlayerSentBackOK","kind":"ui","en":"{STR_VAR_1} sent back an “OK”!"}
+{"id":"src/data/union_room.h#sText_PlayerOKdRegistration","kind":"ui","en":"{STR_VAR_1} OK'd your registration as\\na member."}
+{"id":"src/data/union_room.h#sText_PlayerRepliedNo","kind":"ui","en":"{STR_VAR_1} replied, “No…”\\p"}
+{"id":"src/data/union_room.h#sText_AwaitingOtherMembers","kind":"ui","en":"{STR_VAR_1}!\\nAwaiting other members!"}
+{"id":"src/data/union_room.h#sText_QuitBeingMember","kind":"ui","en":"Quit being a member?"}
+{"id":"src/data/union_room.h#sText_StoppedBeingMember","kind":"ui","en":"You stopped being a member.\\p"}
+{"id":"src/data/union_room.h#sText_WirelessLinkEstablished","kind":"ui","en":"The WIRELESS COMMUNICATION\\nSYSTEM link has been established."}
+{"id":"src/data/union_room.h#sText_WirelessLinkDropped","kind":"ui","en":"The WIRELESS COMMUNICATION\\nSYSTEM link has been dropped…"}
+{"id":"src/data/union_room.h#sText_LinkWithFriendDropped","kind":"ui","en":"The link with your friend has been\\ndropped…"}
+{"id":"src/data/union_room.h#sText_PlayerRepliedNo2","kind":"ui","en":"{STR_VAR_1} replied, “No…”"}
+{"id":"src/data/union_room.h#sText_DoYouWantXMode","kind":"ui","en":"Do you want the {STR_VAR_2}\\nMODE?"}
+{"id":"src/data/union_room.h#sText_DoYouWantXMode2","kind":"ui","en":"Do you want the {STR_VAR_2}\\nMODE?"}
+{"id":"src/data/union_room.h#sText_CommunicatingPleaseWait","kind":"ui","en":"Communicating…\\nPlease wait."}
+{"id":"src/data/union_room.h#sText_AwaitingPlayersResponseAboutTrade","kind":"ui","en":"Awaiting {STR_VAR_1}'s response about\\nthe trade…"}
+{"id":"src/data/union_room.h#sText_Communicating","kind":"ui","en":"Communicating{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}."}
+{"id":"src/data/union_room.h#sText_CommunicatingWithPlayer","kind":"ui","en":"Communicating with {STR_VAR_1}{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}."}
+{"id":"src/data/union_room.h#sText_PleaseWaitAWhile","kind":"ui","en":"Please wait a while{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}."}
+{"id":"src/data/union_room.h#sText_HiDoSomethingMale","kind":"ui","en":"Hiya! Is there something that you\\nwanted to do?"}
+{"id":"src/data/union_room.h#sText_HiDoSomethingFemale","kind":"ui","en":"Hello!\\nWould you like to do something?"}
+{"id":"src/data/union_room.h#sText_HiDoSomethingAgainMale","kind":"ui","en":"{STR_VAR_1}: Hiya, we meet again!\\nWhat are you up for this time?"}
+{"id":"src/data/union_room.h#sText_HiDoSomethingAgainFemale","kind":"ui","en":"{STR_VAR_1}: Oh! {PLAYER}, hello!\\nWould you like to do something?"}
+{"id":"src/data/union_room.h#sText_DoSomethingMale","kind":"ui","en":"Want to do something?"}
+{"id":"src/data/union_room.h#sText_DoSomethingFemale","kind":"ui","en":"Would you like to do something?"}
+{"id":"src/data/union_room.h#sText_DoSomethingAgainMale","kind":"ui","en":"{STR_VAR_1}: What would you like to\\ndo now?"}
+{"id":"src/data/union_room.h#sText_DoSomethingAgainFemale","kind":"ui","en":"{STR_VAR_1}: Want to do anything else?"}
+{"id":"src/data/union_room.h#sText_SomebodyHasContactedYou","kind":"ui","en":"Somebody has contacted you.{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_PlayerHasContactedYou","kind":"ui","en":"{STR_VAR_1} has contacted you.{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_AwaitingResponseFromTrainer","kind":"ui","en":"Awaiting a response from\\nthe other TRAINER…"}
+{"id":"src/data/union_room.h#sText_AwaitingResponseFromPlayer","kind":"ui","en":"Awaiting a response from\\n{STR_VAR_1}…"}
+{"id":"src/data/union_room.h#sText_ShowTrainerCard","kind":"ui","en":"The other TRAINER showed\\nyou their TRAINER CARD.\\pWould you like to show your\\nTRAINER CARD?"}
+{"id":"src/data/union_room.h#sText_BattleChallenge","kind":"ui","en":"The other TRAINER challenges you\\nto battle.\\pWill you accept the battle\\nchallenge?"}
+{"id":"src/data/union_room.h#sText_ChatInvitation","kind":"ui","en":"The other TRAINER invites you\\nto chat.\\pWill you accept the chat\\ninvitation?"}
+{"id":"src/data/union_room.h#sText_OfferToTradeMon","kind":"ui","en":"There is an offer to trade your\\nregistered Lv. {DYNAMIC 0} {DYNAMIC 1}\\pin exchange for a\\nLv. {DYNAMIC 2} {DYNAMIC 3}.\\pWill you accept this trade\\noffer?"}
+{"id":"src/data/union_room.h#sText_OfferToTradeEgg","kind":"ui","en":"There is an offer to trade your\\nregistered EGG.\\lWill you accept this trade offer?"}
+{"id":"src/data/union_room.h#sText_ChatDropped","kind":"ui","en":"The chat has been dropped.\\p"}
+{"id":"src/data/union_room.h#sText_OfferDeclined1","kind":"ui","en":"You declined the offer.\\p"}
+{"id":"src/data/union_room.h#sText_OfferDeclined2","kind":"ui","en":"You declined the offer.\\p"}
+{"id":"src/data/union_room.h#sText_ChatEnded","kind":"ui","en":"The chat was ended.\\p"}
+{"id":"src/data/union_room.h#sText_JoinChatMale","kind":"ui","en":"Oh, hey! We're in a chat right now.\\nWant to join us?"}
+{"id":"src/data/union_room.h#sText_PlayerJoinChatMale","kind":"ui","en":"{STR_VAR_1}: Hey, {PLAYER}!\\nWe're having a chat right now.\\lWant to join us?"}
+{"id":"src/data/union_room.h#sText_JoinChatFemale","kind":"ui","en":"Oh, hi! We're having a chat now.\\nWould you like to join us?"}
+{"id":"src/data/union_room.h#sText_PlayerJoinChatFemale","kind":"ui","en":"{STR_VAR_1}: Oh, hi, {PLAYER}!\\nWe're having a chat now.\\lWould you like to join us?"}
+{"id":"src/data/union_room.h#sText_TrainerAppearsBusy","kind":"ui","en":"……\\nThe TRAINER appears to be busy…\\p"}
+{"id":"src/data/union_room.h#sText_WaitForBattleMale","kind":"ui","en":"A battle, huh?\\nAll right, just give me some time."}
+{"id":"src/data/union_room.h#sText_WaitForChatMale","kind":"ui","en":"You want to chat, huh?\\nSure, just wait a little."}
+{"id":"src/data/union_room.h#sText_ShowTrainerCardMale","kind":"ui","en":"Sure thing! As my “Greetings,”\\nhere's my TRAINER CARD."}
+{"id":"src/data/union_room.h#sText_WaitForBattleFemale","kind":"ui","en":"A battle? Of course, but I need\\ntime to get ready."}
+{"id":"src/data/union_room.h#sText_WaitForChatFemale","kind":"ui","en":"Did you want to chat?\\nOkay, but please wait a moment."}
+{"id":"src/data/union_room.h#sText_ShowTrainerCardFemale","kind":"ui","en":"As my introduction, I'll show you\\nmy TRAINER CARD."}
+{"id":"src/data/union_room.h#sText_WaitForChatMale2","kind":"ui","en":"You want to chat, huh?\\nSure, just wait a little."}
+{"id":"src/data/union_room.h#sText_DoneWaitingBattleMale","kind":"ui","en":"Thanks for waiting!\\nLet's get our battle started!{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_DoneWaitingChatMale","kind":"ui","en":"All right!\\nLet's chat!{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_DoneWaitingBattleFemale","kind":"ui","en":"Sorry I made you wait!\\nLet's get started!{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_DoneWaitingChatFemale","kind":"ui","en":"Sorry I made you wait!\\nLet's chat.{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_TradeWillBeStarted","kind":"ui","en":"The trade will be started.{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_BattleWillBeStarted","kind":"ui","en":"The battle will be started.{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_EnteringChat","kind":"ui","en":"Entering the chat…{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_BattleDeclinedMale","kind":"ui","en":"Sorry! My POKéMON don't seem to\\nbe feeling too well right now.\\lLet me battle you another time.\\p"}
+{"id":"src/data/union_room.h#sText_BattleDeclinedFemale","kind":"ui","en":"I'm terribly sorry, but my POKéMON\\naren't feeling well…\\pLet's battle another time.\\p"}
+{"id":"src/data/union_room.h#sText_ShowTrainerCardDeclinedMale","kind":"ui","en":"Huh? My TRAINER CARD…\\nWhere'd it go now?\\lSorry! I'll show you another time!\\p"}
+{"id":"src/data/union_room.h#sText_ShowTrainerCardDeclinedFemale","kind":"ui","en":"Oh? Now where did I put my\\nTRAINER CARD?…\\lSorry! I'll show you later!\\p"}
+{"id":"src/data/union_room.h#sText_IfYouWantToDoSomethingMale","kind":"ui","en":"If you want to do something with\\nme, just give me a shout!\\p"}
+{"id":"src/data/union_room.h#sText_IfYouWantToDoSomethingFemale","kind":"ui","en":"If you want to do something with\\nme, don't be shy.\\p"}
+{"id":"src/data/union_room.h#sText_TrainerBattleBusy","kind":"ui","en":"Whoops! Sorry, but I have to do\\nsomething else.\\lAnother time, okay?\\p"}
+{"id":"src/data/union_room.h#sText_NeedTwoMonsOfLevel30OrLower1","kind":"ui","en":"If you want to battle, you need\\ntwo POKéMON that are below\\lLv. 30.\\p"}
+{"id":"src/data/union_room.h#sText_NeedTwoMonsOfLevel30OrLower2","kind":"ui","en":"For a battle, you need two\\nPOKéMON that are below Lv. 30.\\p"}
+{"id":"src/data/union_room.h#sText_DeclineChatMale","kind":"ui","en":"Oh, all right.\\nCome see me anytime, okay?\\p"}
+{"id":"src/data/union_room.h#stext_DeclineChatFemale","kind":"ui","en":"Oh…\\nPlease come by anytime.\\p"}
+{"id":"src/data/union_room.h#sText_ChatDeclinedMale","kind":"ui","en":"Oh, sorry!\\nI just can't right this instant.\\lLet's chat another time.\\p"}
+{"id":"src/data/union_room.h#sText_ChatDeclinedFemale","kind":"ui","en":"Oh, I'm sorry.\\nI have too much to do right now.\\lLet's chat some other time.\\p"}
+{"id":"src/data/union_room.h#sText_YoureToughMale","kind":"ui","en":"Whoa!\\nI can tell you're pretty tough!\\p"}
+{"id":"src/data/union_room.h#sText_UsedGoodMoveMale","kind":"ui","en":"You used that move?\\nThat's good strategy!\\p"}
+{"id":"src/data/union_room.h#sText_BattleSurpriseMale","kind":"ui","en":"Way to go!\\nThat was an eye-opener!\\p"}
+{"id":"src/data/union_room.h#sText_SwitchedMonsMale","kind":"ui","en":"Oh! How could you use that\\nPOKéMON in that situation?\\p"}
+{"id":"src/data/union_room.h#sText_YoureToughFemale","kind":"ui","en":"That POKéMON…\\nIt's been raised really well!\\p"}
+{"id":"src/data/union_room.h#sText_UsedGoodMoveFemale","kind":"ui","en":"That's it!\\nThis is the right move now!\\p"}
+{"id":"src/data/union_room.h#sText_BattleSurpriseFemale","kind":"ui","en":"That's awesome!\\nYou can battle that way?\\p"}
+{"id":"src/data/union_room.h#sText_SwitchedMonsFemale","kind":"ui","en":"You have exquisite timing for\\nswitching POKéMON!\\p"}
+{"id":"src/data/union_room.h#sText_LearnedSomethingMale","kind":"ui","en":"Oh, I see!\\nThis is educational!\\p"}
+{"id":"src/data/union_room.h#sText_ThatsFunnyMale","kind":"ui","en":"Don't say anything funny anymore!\\nI'm sore from laughing!\\p"}
+{"id":"src/data/union_room.h#sText_RandomChatMale1","kind":"ui","en":"Oh?\\nSomething like that happened.\\p"}
+{"id":"src/data/union_room.h#sText_RandomChatMale2","kind":"ui","en":"Hmhm… What?\\nSo is this what you're saying?\\p"}
+{"id":"src/data/union_room.h#sText_LearnedSomethingFemale","kind":"ui","en":"Is that right?\\nI didn't know that.\\p"}
+{"id":"src/data/union_room.h#sText_ThatsFunnyFemale","kind":"ui","en":"Ahaha!\\nWhat is that about?\\p"}
+{"id":"src/data/union_room.h#sText_RandomChatFemale1","kind":"ui","en":"Yes, that's exactly it!\\nThat's what I meant.\\p"}
+{"id":"src/data/union_room.h#sText_RandomChatFemale2","kind":"ui","en":"In other words…\\nYes! That's right!\\p"}
+{"id":"src/data/union_room.h#sText_ShowedTrainerCardMale1","kind":"ui","en":"I'm just showing my TRAINER CARD\\nas my way of greeting.\\p"}
+{"id":"src/data/union_room.h#sText_ShowedTrainerCardMale2","kind":"ui","en":"I hope I get to know you better!\\p"}
+{"id":"src/data/union_room.h#sText_ShowedTrainerCardFemale1","kind":"ui","en":"We're showing each other our\\nTRAINER CARDS to get acquainted.\\p"}
+{"id":"src/data/union_room.h#sText_ShowedTrainerCardFemale2","kind":"ui","en":"Glad to meet you.\\nPlease don't be a stranger!\\p"}
+{"id":"src/data/union_room.h#sText_MaleTraded1","kind":"ui","en":"Yeahah!\\nI really wanted this POKéMON!\\p"}
+{"id":"src/data/union_room.h#sText_MaleTraded2","kind":"ui","en":"Finally, a trade got me that\\nPOKéMON I'd wanted a long time.\\p"}
+{"id":"src/data/union_room.h#sText_FemaleTraded1","kind":"ui","en":"I'm trading POKéMON right now.\\p"}
+{"id":"src/data/union_room.h#sText_FemaleTraded2","kind":"ui","en":"I finally got that POKéMON I\\nwanted in a trade!\\p"}
+{"id":"src/data/union_room.h#sText_XCheckedTradingBoard","kind":"ui","en":"{STR_VAR_1} checked the\\nTRADING BOARD.\\p"}
+{"id":"src/data/union_room.h#sText_RegisterMonAtTradingBoard","kind":"ui","en":"Welcome to the TRADING BOARD.\\pYou may register your POKéMON\\nand offer it up for a trade.\\pWould you like to register one of\\nyour POKéMON?"}
+{"id":"src/data/union_room.h#sText_TradingBoardInfo","kind":"ui","en":"This TRADING BOARD is used for\\noffering a POKéMON for a trade.\\pAll you need to do is register a\\nPOKéMON for a trade.\\pAnother TRAINER may offer a party\\nPOKéMON in return for the trade.\\pWe hope you will register POKéMON\\nand trade them with many, many\\lother TRAINERS.\\pWould you like to register one of\\nyour POKéMON?"}
+{"id":"src/data/union_room.h#sText_ThankYouForRegistering","kind":"ui","en":"We have registered your POKéMON for\\ntrade on the TRADING BOARD.\\pThank you for using this service!\\p"}
+{"id":"src/data/union_room.h#sText_NobodyHasRegistered","kind":"ui","en":"Nobody has registered any POKéMON\\nfor trade on the TRADING BOARD.\\p\\n"}
+{"id":"src/data/union_room.h#sText_ChooseRequestedMonType","kind":"ui","en":"Please choose the type of POKéMON\\nthat you would like in the trade.\\n"}
+{"id":"src/data/union_room.h#sText_WhichMonWillYouOffer","kind":"ui","en":"Which of your party POKéMON will\\nyou offer in trade?\\p"}
+{"id":"src/data/union_room.h#sText_RegistrationCanceled","kind":"ui","en":"Registration has been canceled.\\p"}
+{"id":"src/data/union_room.h#sText_RegistrationCompleted","kind":"ui","en":"Registration has been completed.\\p"}
+{"id":"src/data/union_room.h#sText_TradeCanceled","kind":"ui","en":"The trade has been canceled.\\p"}
+{"id":"src/data/union_room.h#sText_CancelRegistrationOfMon","kind":"ui","en":"Cancel the registration of your\\nLv. {STR_VAR_2} {STR_VAR_1}?"}
+{"id":"src/data/union_room.h#sText_CancelRegistrationOfEgg","kind":"ui","en":"Cancel the registration of your\\nEGG?"}
+{"id":"src/data/union_room.h#sText_RegistrationCanceled2","kind":"ui","en":"The registration has been canceled.\\p"}
+{"id":"src/data/union_room.h#sText_TradeTrainersWillBeListed","kind":"ui","en":"TRAINERS wishing to make a trade\\nwill be listed."}
+{"id":"src/data/union_room.h#sText_ChooseTrainerToTradeWith2","kind":"ui","en":"Please choose the TRAINER with whom\\nyou would like to trade POKéMON."}
+{"id":"src/data/union_room.h#sText_AskTrainerToMakeTrade","kind":"ui","en":"Would you like to ask {STR_VAR_1} to\\nmake a trade?"}
+{"id":"src/data/union_room.h#sText_AwaitingResponseFromTrainer2","kind":"ui","en":"Awaiting a response from\\nthe other TRAINER…"}
+{"id":"src/data/union_room.h#sText_NotRegisteredAMonForTrade","kind":"ui","en":"You have not registered a POKéMON\\nfor trading.\\p"}
+{"id":"src/data/union_room.h#sText_DontHaveTypeTrainerWants","kind":"ui","en":"You don't have a {STR_VAR_2}-type\\nPOKéMON that {STR_VAR_1} wants.\\p"}
+{"id":"src/data/union_room.h#sText_DontHaveEggTrainerWants","kind":"ui","en":"You don't have an EGG that\\n{STR_VAR_1} wants.\\p"}
+{"id":"src/data/union_room.h#sText_PlayerCantTradeForYourMon","kind":"ui","en":"{STR_VAR_1} can't make a trade for\\nyour POKéMON right now.\\p"}
+{"id":"src/data/union_room.h#sText_CantTradeForPartnersMon","kind":"ui","en":"You can't make a trade for\\n{STR_VAR_1}'s POKéMON right now.\\p"}
+{"id":"src/data/union_room.h#sText_TradeOfferRejected","kind":"ui","en":"Your trade offer was rejected.\\p"}
+{"id":"src/data/union_room.h#sText_EggTrade","kind":"ui","en":"EGG TRADE"}
+{"id":"src/data/union_room.h#sText_ChooseJoinCancel","kind":"ui","en":"{DPAD_UPDOWN}CHOOSE  {A_BUTTON}JOIN  {B_BUTTON}CANCEL"}
+{"id":"src/data/union_room.h#sText_ChooseTrainer","kind":"ui","en":"Please choose a TRAINER."}
+{"id":"src/data/union_room.h#sText_ChooseTrainerSingleBattle","kind":"ui","en":"Please choose a TRAINER for\\na SINGLE BATTLE."}
+{"id":"src/data/union_room.h#sText_ChooseTrainerDoubleBattle","kind":"ui","en":"Please choose a TRAINER for\\na DOUBLE BATTLE."}
+{"id":"src/data/union_room.h#sText_ChooseLeaderMultiBattle","kind":"ui","en":"Please choose the LEADER\\nfor a MULTI BATTLE."}
+{"id":"src/data/union_room.h#sText_ChooseTrainerToTradeWith","kind":"ui","en":"Please choose the TRAINER to\\ntrade with."}
+{"id":"src/data/union_room.h#sText_ChooseTrainerToShareWonderCards","kind":"ui","en":"Please choose the TRAINER who is\\nsharing WONDER CARDS."}
+{"id":"src/data/union_room.h#sText_ChooseTrainerToShareWonderNews","kind":"ui","en":"Please choose the TRAINER who is\\nsharing WONDER NEWS."}
+{"id":"src/data/union_room.h#sText_ChooseLeaderPokemonJump","kind":"ui","en":"Jump with mini POKéMON!\\nPlease choose the LEADER."}
+{"id":"src/data/union_room.h#sText_ChooseLeaderBerryCrush","kind":"ui","en":"BERRY CRUSH!\\nPlease choose the LEADER."}
+{"id":"src/data/union_room.h#sText_ChooseLeaderBerryPicking","kind":"ui","en":"DODRIO BERRY-PICKING!\\nPlease choose the LEADER."}
+{"id":"src/data/union_room.h#sText_ChooseLeaderBerryBlender","kind":"ui","en":"BERRY BLENDER!\\nPlease choose the LEADER."}
+{"id":"src/data/union_room.h#sText_ChooseLeaderRecordCorner","kind":"ui","en":"RECORD CORNER!\\nPlease choose the LEADER."}
+{"id":"src/data/union_room.h#sText_ChooseLeaderCoolContest","kind":"ui","en":"COOLNESS CONTEST!\\nPlease choose the LEADER."}
+{"id":"src/data/union_room.h#sText_ChooseLeaderBeautyContest","kind":"ui","en":"BEAUTY CONTEST!\\nPlease choose the LEADER."}
+{"id":"src/data/union_room.h#sText_ChooseLeaderCuteContest","kind":"ui","en":"CUTENESS CONTEST!\\nPlease choose the LEADER."}
+{"id":"src/data/union_room.h#sText_ChooseLeaderSmartContest","kind":"ui","en":"SMARTNESS CONTEST!\\nPlease choose the LEADER."}
+{"id":"src/data/union_room.h#sText_ChooseLeaderToughContest","kind":"ui","en":"TOUGHNESS CONTEST!\\nPlease choose the LEADER."}
+{"id":"src/data/union_room.h#sText_ChooseLeaderBattleTowerLv50","kind":"ui","en":"BATTLE TOWER LEVEL 50!\\nPlease choose the LEADER."}
+{"id":"src/data/union_room.h#sText_ChooseLeaderBattleTowerOpenLv","kind":"ui","en":"BATTLE TOWER OPEN LEVEL!\\nPlease choose the LEADER."}
+{"id":"src/data/union_room.h#sText_SearchingForWirelessSystemWait","kind":"ui","en":"Searching for a WIRELESS\\nCOMMUNICATION SYSTEM. Wait..."}
+{"id":"src/data/union_room.h#sText_MustHaveTwoMonsForDoubleBattle","kind":"ui","en":"For a DOUBLE BATTLE, you must have\\nat least two POKéMON.\\p"}
+{"id":"src/data/union_room.h#sText_AwaitingPlayersResponse","kind":"ui","en":"Awaiting {STR_VAR_1}'s response…"}
+{"id":"src/data/union_room.h#sText_PlayerHasBeenAskedToRegisterYouPleaseWait","kind":"ui","en":"{STR_VAR_1} has been asked to register\\nyou as a member. Please wait."}
+{"id":"src/data/union_room.h#sText_AwaitingResponseFromWirelessSystem","kind":"ui","en":"Awaiting a response from the\\nWIRELESS COMMUNICATION SYSTEM."}
+{"id":"src/data/union_room.h#sText_PleaseWaitForOtherTrainersToGather","kind":"ui","en":"Please wait for other TRAINERS to\\ngather and get ready."}
+{"id":"src/data/union_room.h#sText_NoCardsSharedRightNow","kind":"ui","en":"No CARDS appear to be shared \\nright now."}
+{"id":"src/data/union_room.h#sText_NoNewsSharedRightNow","kind":"ui","en":"No NEWS appears to be shared\\nright now."}
+{"id":"src/data/union_room.h#sText_Battle","kind":"ui","en":"BATTLE"}
+{"id":"src/data/union_room.h#sText_Chat2","kind":"ui","en":"CHAT"}
+{"id":"src/data/union_room.h#sText_Greetings","kind":"ui","en":"GREETINGS"}
+{"id":"src/data/union_room.h#sText_Exit","kind":"ui","en":"EXIT"}
+{"id":"src/data/union_room.h#sText_Exit2","kind":"ui","en":"EXIT"}
+{"id":"src/data/union_room.h#sText_Info","kind":"ui","en":"INFO"}
+{"id":"src/data/union_room.h#sText_NameWantedOfferLv","kind":"ui","en":"NAME{CLEAR_TO 60}WANTED{CLEAR_TO 110}OFFER{CLEAR_TO 198}LV."}
+{"id":"src/data/union_room.h#sText_SingleBattle","kind":"ui","en":"SINGLE BATTLE"}
+{"id":"src/data/union_room.h#sText_DoubleBattle","kind":"ui","en":"DOUBLE BATTLE"}
+{"id":"src/data/union_room.h#sText_MultiBattle","kind":"ui","en":"MULTI BATTLE"}
+{"id":"src/data/union_room.h#sText_PokemonTrades","kind":"ui","en":"POKéMON TRADES"}
+{"id":"src/data/union_room.h#sText_Chat","kind":"ui","en":"CHAT"}
+{"id":"src/data/union_room.h#sText_Cards","kind":"ui","en":"CARDS"}
+{"id":"src/data/union_room.h#sText_WonderCards","kind":"ui","en":"WONDER CARDS"}
+{"id":"src/data/union_room.h#sText_WonderNews","kind":"ui","en":"WONDER NEWS"}
+{"id":"src/data/union_room.h#sText_PokemonJump","kind":"ui","en":"POKéMON JUMP"}
+{"id":"src/data/union_room.h#sText_BerryCrush","kind":"ui","en":"BERRY CRUSH"}
+{"id":"src/data/union_room.h#sText_BerryPicking","kind":"ui","en":"BERRY-PICKING"}
+{"id":"src/data/union_room.h#sText_Search","kind":"ui","en":"SEARCH"}
+{"id":"src/data/union_room.h#sText_BerryBlender","kind":"ui","en":"BERRY BLENDER"}
+{"id":"src/data/union_room.h#sText_RecordCorner","kind":"ui","en":"RECORD CORNER"}
+{"id":"src/data/union_room.h#sText_CoolContest","kind":"ui","en":"COOL CONTEST"}
+{"id":"src/data/union_room.h#sText_BeautyContest","kind":"ui","en":"BEAUTY CONTEST"}
+{"id":"src/data/union_room.h#sText_CuteContest","kind":"ui","en":"CUTE CONTEST"}
+{"id":"src/data/union_room.h#sText_SmartContest","kind":"ui","en":"SMART CONTEST"}
+{"id":"src/data/union_room.h#sText_ToughContest","kind":"ui","en":"TOUGH CONTEST"}
+{"id":"src/data/union_room.h#sText_BattleTowerLv50","kind":"ui","en":"BATTLE TOWER LV. 50"}
+{"id":"src/data/union_room.h#sText_BattleTowerOpenLv","kind":"ui","en":"BATTLE TOWER OPEN LEVEL"}
+{"id":"src/data/union_room.h#sText_ItsNormalCard","kind":"ui","en":"It's a NORMAL CARD."}
+{"id":"src/data/union_room.h#sText_ItsBronzeCard","kind":"ui","en":"It's a BRONZE CARD!"}
+{"id":"src/data/union_room.h#sText_ItsCopperCard","kind":"ui","en":"It's a COPPER CARD!"}
+{"id":"src/data/union_room.h#sText_ItsSilverCard","kind":"ui","en":"It's a SILVER CARD!"}
+{"id":"src/data/union_room.h#sText_ItsGoldCard","kind":"ui","en":"It's a GOLD CARD!"}
+{"id":"src/data/union_room.h#sText_TrainerCardInfoPage1","kind":"ui","en":"This is {DYNAMIC 0} {DYNAMIC 1}'s\\nTRAINER CARD…\\l{DYNAMIC 2}\\pPOKéDEX: {DYNAMIC 3}\\nTIME:    {DYNAMIC 4}:{DYNAMIC 5}\\p"}
+{"id":"src/data/union_room.h#sText_TrainerCardInfoPage2","kind":"ui","en":"BATTLES: WINS: {DYNAMIC 0}  LOSSES: {DYNAMIC 2}\\nTRADES: {DYNAMIC 3}\\p“{DYNAMIC 4} {DYNAMIC 5}\\n{DYNAMIC 6} {DYNAMIC 7}”\\p"}
+{"id":"src/data/union_room.h#sText_GladToMeetYouMale","kind":"ui","en":"{DYNAMIC 1}: Glad to have met you!{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_GladToMeetYouFemale","kind":"ui","en":"{DYNAMIC 1}: Glad to meet you!{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_FinishedCheckingPlayersTrainerCard","kind":"ui","en":"Finished checking {DYNAMIC 1}'s\\nTRAINER CARD.{PAUSE 60}"}
+{"id":"src/dodrio_berry_picking.c#sText_Letters","kind":"ui","en":"ABCDEFG"}
+{"id":"src/landmark.c#LandmarkName_FlowerShop","kind":"ui","en":"FLOWER SHOP"}
+{"id":"src/landmark.c#LandmarkName_PetalburgWoods","kind":"ui","en":"PETALBURG WOODS"}
+{"id":"src/landmark.c#LandmarkName_MrBrineysCottage","kind":"ui","en":"MR. BRINEY'S COTTAGE"}
+{"id":"src/landmark.c#LandmarkName_AbandonedShip","kind":"ui","en":"ABANDONED SHIP"}
+{"id":"src/landmark.c#LandmarkName_SeashoreHouse","kind":"ui","en":"SEASHORE HOUSE"}
+{"id":"src/landmark.c#LandmarkName_SlateportBeach","kind":"ui","en":"SLATEPORT BEACH"}
+{"id":"src/landmark.c#LandmarkName_CyclingRoad","kind":"ui","en":"CYCLING ROAD"}
+{"id":"src/landmark.c#LandmarkName_NewMauville","kind":"ui","en":"NEW MAUVILLE"}
+{"id":"src/landmark.c#LandmarkName_TrickHouse","kind":"ui","en":"TRICK HOUSE"}
+{"id":"src/landmark.c#LandmarkName_OldLadysRestShop","kind":"ui","en":"OLD LADY'S REST STOP"}
+{"id":"src/landmark.c#LandmarkName_Desert","kind":"ui","en":"DESERT"}
+{"id":"src/landmark.c#LandmarkName_WinstrateFamily","kind":"ui","en":"THE WINSTRATE FAMILY"}
+{"id":"src/landmark.c#LandmarkName_CableCar","kind":"ui","en":"CABLE CAR"}
+{"id":"src/landmark.c#LandmarkName_GlassWorkshop","kind":"ui","en":"GLASS WORKSHOP"}
+{"id":"src/landmark.c#LandmarkName_WeatherInstitute","kind":"ui","en":"WEATHER INSTITUTE"}
+{"id":"src/landmark.c#LandmarkName_MeteorFalls","kind":"ui","en":"METEOR FALLS"}
+{"id":"src/landmark.c#LandmarkName_TunnelersRestHouse","kind":"ui","en":"TUNNELER'S RESTHOUSE"}
+{"id":"src/landmark.c#LandmarkName_RusturfTunnel","kind":"ui","en":"RUSTURF TUNNEL"}
+{"id":"src/landmark.c#LandmarkName_PokemonDayCare","kind":"ui","en":"POKéMON DAY CARE"}
+{"id":"src/landmark.c#LandmarkName_SafariZoneEntrance","kind":"ui","en":"SAFARI ZONE ENTRANCE"}
+{"id":"src/landmark.c#LandmarkName_MtPyre","kind":"ui","en":"MT. PYRE"}
+{"id":"src/landmark.c#LandmarkName_ShoalCave","kind":"ui","en":"SHOAL CAVE"}
+{"id":"src/landmark.c#LandmarkName_SeafloorCavern","kind":"ui","en":"SEAFLOOR CAVERN"}
+{"id":"src/landmark.c#LandmarkName_GraniteCave","kind":"ui","en":"GRANITE CAVE"}
+{"id":"src/landmark.c#LandmarkName_OceanCurrent","kind":"ui","en":"OCEAN CURRENT"}
+{"id":"src/landmark.c#LandmarkName_LanettesHouse","kind":"ui","en":"LANETTE'S HOUSE"}
+{"id":"src/landmark.c#LandmarkName_FieryPath","kind":"ui","en":"FIERY PATH"}
+{"id":"src/landmark.c#LandmarkName_JaggedPass","kind":"ui","en":"JAGGED PASS"}
+{"id":"src/landmark.c#LandmarkName_SkyPillar","kind":"ui","en":"SKY PILLAR"}
+{"id":"src/landmark.c#LandmarkName_BerryMastersHouse","kind":"ui","en":"BERRY MASTER'S HOUSE"}
+{"id":"src/landmark.c#LandmarkName_IslandCave","kind":"ui","en":"ISLAND CAVE"}
+{"id":"src/landmark.c#LandmarkName_DesertRuins","kind":"ui","en":"DESERT RUINS"}
+{"id":"src/landmark.c#LandmarkName_ScorchedSlab","kind":"ui","en":"SCORCHED SLAB"}
+{"id":"src/landmark.c#LandmarkName_AncientTomb","kind":"ui","en":"ANCIENT TOMB"}
+{"id":"src/landmark.c#LandmarkName_SealedChamber","kind":"ui","en":"SEALED CHAMBER"}
+{"id":"src/landmark.c#LandmarkName_FossilManiacsHouse","kind":"ui","en":"FOSSIL MANIAC'S HOUSE"}
+{"id":"src/landmark.c#LandmarkName_HuntersHouse","kind":"ui","en":"HUNTER'S HOUSE"}
+{"id":"src/landmark.c#LandmarkName_MagmaHideout","kind":"ui","en":"MAGMA HIDEOUT"}
+{"id":"src/landmark.c#LandmarkName_MirageTower","kind":"ui","en":"MIRAGE TOWER"}
+{"id":"src/landmark.c#LandmarkName_AlteringCave","kind":"ui","en":"ALTERING CAVE"}
+{"id":"src/landmark.c#LandmarkName_DesertUnderpass","kind":"ui","en":"DESERT UNDERPASS"}
+{"id":"src/landmark.c#LandmarkName_TrainerHill","kind":"ui","en":"TRAINER HILL"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor1","kind":"ui","en":"PYRAMID FLOOR 1"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor2","kind":"ui","en":"PYRAMID FLOOR 2"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor3","kind":"ui","en":"PYRAMID FLOOR 3"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor4","kind":"ui","en":"PYRAMID FLOOR 4"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor5","kind":"ui","en":"PYRAMID FLOOR 5"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor6","kind":"ui","en":"PYRAMID FLOOR 6"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor7","kind":"ui","en":"PYRAMID FLOOR 7"}
+{"id":"src/map_name_popup.c#sText_Pyramid","kind":"ui","en":"PYRAMID"}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventBerry","kind":"ui","en":"Obtained a {STR_VAR_2} BERRY!\\nDad has it at PETALBURG GYM."}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventBerryTransform","kind":"ui","en":"The {STR_VAR_1} BERRY transformed into\\none {STR_VAR_2} BERRY."}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventBerryObtained","kind":"ui","en":"The {STR_VAR_1} BERRY has already been\\nobtained."}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventSpecialRibbon","kind":"ui","en":"A special RIBBON was awarded to\\nyour party POKéMON."}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventNationalDex","kind":"ui","en":"The POKéDEX has been upgraded\\nwith the NATIONAL MODE."}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventRareWord","kind":"ui","en":"A rare word has been added."}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventSentOver","kind":"ui","en":"{STR_VAR_1} was sent over!"}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventFullParty","kind":"ui","en":"Your party is full.\\n{STR_VAR_1} could not be sent over."}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventNewTrainer","kind":"ui","en":"A new TRAINER has arrived in\\nHOENN."}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventNewAdversaryInBattleTower","kind":"ui","en":"A new adversary has arrived in the\\nBATTLE TOWER."}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventCantBeUsed","kind":"ui","en":"This data can't be used in\\nthis version."}
+{"id":"src/mystery_gift_scripts.c#sText_CanceledReadingCard","kind":"ui","en":"Canceled reading\\nthe Card."}
+{"id":"src/naming_screen.c#sText_AlphabetUpperLower","kind":"ui","en":"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Sapphire","kind":"ui","en":"SAPPHIRE"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Ruby","kind":"ui","en":"RUBY"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Emerald","kind":"ui","en":"EMERALD"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Aqua","kind":"ui","en":"AQUA"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Magma","kind":"ui","en":"MAGMA"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Archie","kind":"ui","en":"ARCHIE"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Maxie","kind":"ui","en":"MAXIE"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Kyogre","kind":"ui","en":"KYOGRE"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Groudon","kind":"ui","en":"GROUDON"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Brendan","kind":"ui","en":"BRENDAN"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_May","kind":"ui","en":"MAY"}
+{"id":"src/strings.c#gText_EggNickname","kind":"ui","en":"EGG"}
+{"id":"src/strings.c#gText_Pokemon","kind":"ui","en":"POKéMON"}
+{"id":"src/strings.c#gText_ProfBirchMatchCallName","kind":"ui","en":"PROF. BIRCH"}
+{"id":"src/strings.c#gText_MainMenuNewGame","kind":"ui","en":"NEW GAME"}
+{"id":"src/strings.c#gText_MainMenuContinue","kind":"ui","en":"CONTINUE"}
+{"id":"src/strings.c#gText_MainMenuOption","kind":"ui","en":"OPTION"}
+{"id":"src/strings.c#gText_MainMenuMysteryGift","kind":"ui","en":"MYSTERY GIFT"}
+{"id":"src/strings.c#gText_MainMenuMysteryGift2","kind":"ui","en":"MYSTERY GIFT"}
+{"id":"src/strings.c#gText_MainMenuMysteryEvents","kind":"ui","en":"MYSTERY EVENTS"}
+{"id":"src/strings.c#gText_WirelessNotConnected","kind":"ui","en":"The Wireless Adapter is not\\nconnected."}
+{"id":"src/strings.c#gText_MysteryGiftCantUse","kind":"ui","en":"MYSTERY GIFT can't be used while\\nthe Wireless Adapter is attached."}
+{"id":"src/strings.c#gText_MysteryEventsCantUse","kind":"ui","en":"MYSTERY EVENTS can't be used while\\nthe Wireless Adapter is attached."}
+{"id":"src/strings.c#gText_UpdatingSaveExternalData","kind":"ui","en":"Updating save file using external\\ndata. Please wait."}
+{"id":"src/strings.c#gText_SaveFileUpdated","kind":"ui","en":"The save file has been updated."}
+{"id":"src/strings.c#gText_SaveFileCorrupted","kind":"ui","en":"The save file is corrupted. The\\nprevious save file will be loaded."}
+{"id":"src/strings.c#gText_SaveFileErased","kind":"ui","en":"The save file has been erased\\ndue to corruption or damage."}
+{"id":"src/strings.c#gText_BatteryRunDry","kind":"ui","en":"The internal battery has run dry.\\nThe game can be played.\\pHowever, clock-based events will\\nno longer occur."}
+{"id":"src/strings.c#gText_Player","kind":"ui","en":"PLAYER"}
+{"id":"src/strings.c#gText_Pokedex","kind":"ui","en":"POKéDEX"}
+{"id":"src/strings.c#gText_Time","kind":"ui","en":"TIME"}
+{"id":"src/strings.c#gText_Badges","kind":"ui","en":"BADGES"}
+{"id":"src/strings.c#gText_AButton","kind":"ui","en":"A Button"}
+{"id":"src/strings.c#gText_BButton","kind":"ui","en":"B Button"}
+{"id":"src/strings.c#gText_RButton","kind":"ui","en":"R Button"}
+{"id":"src/strings.c#gText_LButton","kind":"ui","en":"L Button"}
+{"id":"src/strings.c#gText_Start","kind":"ui","en":"START"}
+{"id":"src/strings.c#gText_Select","kind":"ui","en":"SELECT"}
+{"id":"src/strings.c#gText_ControlPad","kind":"ui","en":"+ Control Pad"}
+{"id":"src/strings.c#gText_LButtonRButton","kind":"ui","en":"L Button  R Button"}
+{"id":"src/strings.c#gText_Controls","kind":"ui","en":"CONTROLS"}
+{"id":"src/strings.c#gText_PickOk","kind":"ui","en":"{DPAD_UPDOWN}PICK {A_BUTTON}OK"}
+{"id":"src/strings.c#gText_Next","kind":"ui","en":"{A_BUTTON}NEXT"}
+{"id":"src/strings.c#gText_NextBack","kind":"ui","en":"{A_BUTTON}NEXT {B_BUTTON}BACK"}
+{"id":"src/strings.c#gText_PickNextCancel","kind":"ui","en":"{DPAD_UPDOWN}PICK {A_BUTTON}NEXT {B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_PickCancel","kind":"ui","en":"{DPAD_UPDOWN}PICK {A_BUTTON}{B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_AButtonExit","kind":"ui","en":"{A_BUTTON}EXIT"}
+{"id":"src/strings.c#gText_BirchBoy","kind":"ui","en":"BOY"}
+{"id":"src/strings.c#gText_BirchGirl","kind":"ui","en":"GIRL"}
+{"id":"src/strings.c#gText_DefaultNameStu","kind":"ui","en":"STU"}
+{"id":"src/strings.c#gText_DefaultNameMilton","kind":"ui","en":"MILTON"}
+{"id":"src/strings.c#gText_DefaultNameTom","kind":"ui","en":"TOM"}
+{"id":"src/strings.c#gText_DefaultNameKenny","kind":"ui","en":"KENNY"}
+{"id":"src/strings.c#gText_DefaultNameReid","kind":"ui","en":"REID"}
+{"id":"src/strings.c#gText_DefaultNameJude","kind":"ui","en":"JUDE"}
+{"id":"src/strings.c#gText_DefaultNameJaxson","kind":"ui","en":"JAXSON"}
+{"id":"src/strings.c#gText_DefaultNameEaston","kind":"ui","en":"EASTON"}
+{"id":"src/strings.c#gText_DefaultNameWalker","kind":"ui","en":"WALKER"}
+{"id":"src/strings.c#gText_DefaultNameTeru","kind":"ui","en":"TERU"}
+{"id":"src/strings.c#gText_DefaultNameJohnny","kind":"ui","en":"JOHNNY"}
+{"id":"src/strings.c#gText_DefaultNameBrett","kind":"ui","en":"BRETT"}
+{"id":"src/strings.c#gText_DefaultNameSeth","kind":"ui","en":"SETH"}
+{"id":"src/strings.c#gText_DefaultNameTerry","kind":"ui","en":"TERRY"}
+{"id":"src/strings.c#gText_DefaultNameCasey","kind":"ui","en":"CASEY"}
+{"id":"src/strings.c#gText_DefaultNameDarren","kind":"ui","en":"DARREN"}
+{"id":"src/strings.c#gText_DefaultNameLandon","kind":"ui","en":"LANDON"}
+{"id":"src/strings.c#gText_DefaultNameCollin","kind":"ui","en":"COLLIN"}
+{"id":"src/strings.c#gText_DefaultNameStanley","kind":"ui","en":"STANLEY"}
+{"id":"src/strings.c#gText_DefaultNameQuincy","kind":"ui","en":"QUINCY"}
+{"id":"src/strings.c#gText_DefaultNameKimmy","kind":"ui","en":"KIMMY"}

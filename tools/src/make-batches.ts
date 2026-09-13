@@ -21,7 +21,7 @@ const NAME_BATCHES: Record<string, (entry: Entry) => boolean> = {
   'names-moves': (e) => ['move', 'ability', 'type', 'nature', 'trainer_class'].includes(e.kind),
   'names-items': (e) =>
     ['item', 'location'].includes(e.kind) ||
-    (e.kind === 'berry' && /^name(~\d+)?$/.test(e.key)) ||
+    e.kind === 'berry_name' ||
     (e.kind === 'decoration' && e.en.length <= 16),
   'names-people': (e) => ['trainer_name', 'frontier_trainer', 'contest_opponent'].includes(e.kind),
 };

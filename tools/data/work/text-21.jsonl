@@ -1,0 +1,1572 @@
+{"id":"src/strings.c#gText_DefaultNameTiara","kind":"ui","en":"TIARA"}
+{"id":"src/strings.c#gText_DefaultNameBella","kind":"ui","en":"BELLA"}
+{"id":"src/strings.c#gText_DefaultNameJayla","kind":"ui","en":"JAYLA"}
+{"id":"src/strings.c#gText_DefaultNameAllie","kind":"ui","en":"ALLIE"}
+{"id":"src/strings.c#gText_DefaultNameLianna","kind":"ui","en":"LIANNA"}
+{"id":"src/strings.c#gText_DefaultNameSara","kind":"ui","en":"SARA"}
+{"id":"src/strings.c#gText_DefaultNameMonica","kind":"ui","en":"MONICA"}
+{"id":"src/strings.c#gText_DefaultNameCamila","kind":"ui","en":"CAMILA"}
+{"id":"src/strings.c#gText_DefaultNameAubree","kind":"ui","en":"AUBREE"}
+{"id":"src/strings.c#gText_DefaultNameRuthie","kind":"ui","en":"RUTHIE"}
+{"id":"src/strings.c#gText_DefaultNameHazel","kind":"ui","en":"HAZEL"}
+{"id":"src/strings.c#gText_DefaultNameNadine","kind":"ui","en":"NADINE"}
+{"id":"src/strings.c#gText_DefaultNameTanja","kind":"ui","en":"TANJA"}
+{"id":"src/strings.c#gText_DefaultNameYasmin","kind":"ui","en":"YASMIN"}
+{"id":"src/strings.c#gText_DefaultNameNicola","kind":"ui","en":"NICOLA"}
+{"id":"src/strings.c#gText_DefaultNameLillie","kind":"ui","en":"LILLIE"}
+{"id":"src/strings.c#gText_DefaultNameTerra","kind":"ui","en":"TERRA"}
+{"id":"src/strings.c#gText_DefaultNameLucy","kind":"ui","en":"LUCY"}
+{"id":"src/strings.c#gText_DefaultNameHalie","kind":"ui","en":"HALIE"}
+{"id":"src/strings.c#gText_ThisIsAPokemon","kind":"ui","en":"This is what we call a “POKéMON.”{PAUSE 96}\\p"}
+{"id":"src/strings.c#gText_5MarksPokemon","kind":"ui","en":"????? POKéMON"}
+{"id":"src/strings.c#gText_UnkWeight","kind":"ui","en":"????.? lbs."}
+{"id":"src/strings.c#gText_EmptyPkmnCategory","kind":"ui","en":"                       POKéMON"}
+{"id":"src/strings.c#gText_EmptyWeight","kind":"ui","en":"        .   lbs."}
+{"id":"src/strings.c#gText_CryOf","kind":"ui","en":"CRY OF"}
+{"id":"src/strings.c#gText_SizeComparedTo","kind":"ui","en":"SIZE COMPARED TO "}
+{"id":"src/strings.c#gText_PokedexRegistration","kind":"ui","en":"POKéDEX registration completed."}
+{"id":"src/strings.c#gText_HTHeight","kind":"ui","en":"HT"}
+{"id":"src/strings.c#gText_WTWeight","kind":"ui","en":"WT"}
+{"id":"src/strings.c#gText_SearchingPleaseWait","kind":"ui","en":"Searching…\\nPlease wait."}
+{"id":"src/strings.c#gText_SearchCompleted","kind":"ui","en":"Search completed."}
+{"id":"src/strings.c#gText_NoMatchingPkmnWereFound","kind":"ui","en":"No matching POKéMON were found."}
+{"id":"src/strings.c#gText_SearchForPkmnBasedOnParameters","kind":"ui","en":"Search for POKéMON based on\\nselected parameters."}
+{"id":"src/strings.c#gText_SwitchPokedexListings","kind":"ui","en":"Switch POKéDEX listings."}
+{"id":"src/strings.c#gText_ReturnToPokedex","kind":"ui","en":"Return to the POKéDEX."}
+{"id":"src/strings.c#gText_SelectPokedexMode","kind":"ui","en":"Select the POKéDEX mode."}
+{"id":"src/strings.c#gText_SelectPokedexListingMode","kind":"ui","en":"Select the POKéDEX listing mode."}
+{"id":"src/strings.c#gText_ListByFirstLetter","kind":"ui","en":"List by the first letter in the name.\\nSpotted POKéMON only."}
+{"id":"src/strings.c#gText_ListByBodyColor","kind":"ui","en":"List by body color.\\nSpotted POKéMON only."}
+{"id":"src/strings.c#gText_ListByType","kind":"ui","en":"List by type.\\nOwned POKéMON only."}
+{"id":"src/strings.c#gText_ExecuteSearchSwitch","kind":"ui","en":"Execute search/switch."}
+{"id":"src/strings.c#gText_DexHoennTitle","kind":"ui","en":"HOENN DEX"}
+{"id":"src/strings.c#gText_DexNatTitle","kind":"ui","en":"NATIONAL DEX"}
+{"id":"src/strings.c#gText_DexSortNumericalTitle","kind":"ui","en":"NUMERICAL MODE"}
+{"id":"src/strings.c#gText_DexSortAtoZTitle","kind":"ui","en":"A TO Z MODE"}
+{"id":"src/strings.c#gText_DexSortHeaviestTitle","kind":"ui","en":"HEAVIEST MODE"}
+{"id":"src/strings.c#gText_DexSortLightestTitle","kind":"ui","en":"LIGHTEST MODE"}
+{"id":"src/strings.c#gText_DexSortTallestTitle","kind":"ui","en":"TALLEST MODE"}
+{"id":"src/strings.c#gText_DexSortSmallestTitle","kind":"ui","en":"SMALLEST MODE"}
+{"id":"src/strings.c#gText_DexSearchAlphaABC","kind":"ui","en":"ABC"}
+{"id":"src/strings.c#gText_DexSearchAlphaDEF","kind":"ui","en":"DEF"}
+{"id":"src/strings.c#gText_DexSearchAlphaGHI","kind":"ui","en":"GHI"}
+{"id":"src/strings.c#gText_DexSearchAlphaJKL","kind":"ui","en":"JKL"}
+{"id":"src/strings.c#gText_DexSearchAlphaMNO","kind":"ui","en":"MNO"}
+{"id":"src/strings.c#gText_DexSearchAlphaPQR","kind":"ui","en":"PQR"}
+{"id":"src/strings.c#gText_DexSearchAlphaSTU","kind":"ui","en":"STU"}
+{"id":"src/strings.c#gText_DexSearchAlphaVWX","kind":"ui","en":"VWX"}
+{"id":"src/strings.c#gText_DexSearchAlphaYZ","kind":"ui","en":"YZ"}
+{"id":"src/strings.c#gText_DexSearchColorRed","kind":"ui","en":"RED"}
+{"id":"src/strings.c#gText_DexSearchColorBlue","kind":"ui","en":"BLUE"}
+{"id":"src/strings.c#gText_DexSearchColorYellow","kind":"ui","en":"YELLOW"}
+{"id":"src/strings.c#gText_DexSearchColorGreen","kind":"ui","en":"GREEN"}
+{"id":"src/strings.c#gText_DexSearchColorBlack","kind":"ui","en":"BLACK"}
+{"id":"src/strings.c#gText_DexSearchColorBrown","kind":"ui","en":"BROWN"}
+{"id":"src/strings.c#gText_DexSearchColorPurple","kind":"ui","en":"PURPLE"}
+{"id":"src/strings.c#gText_DexSearchColorGray","kind":"ui","en":"GRAY"}
+{"id":"src/strings.c#gText_DexSearchColorWhite","kind":"ui","en":"WHITE"}
+{"id":"src/strings.c#gText_DexSearchColorPink","kind":"ui","en":"PINK"}
+{"id":"src/strings.c#gText_DexHoennDescription","kind":"ui","en":"HOENN region's POKéDEX"}
+{"id":"src/strings.c#gText_DexNatDescription","kind":"ui","en":"National edition POKéDEX"}
+{"id":"src/strings.c#gText_DexSortNumericalDescription","kind":"ui","en":"POKéMON are listed according to their\\nnumber."}
+{"id":"src/strings.c#gText_DexSortAtoZDescription","kind":"ui","en":"Spotted and owned POKéMON are listed\\nalphabetically."}
+{"id":"src/strings.c#gText_DexSortHeaviestDescription","kind":"ui","en":"Owned POKéMON are listed from the\\nheaviest to the lightest."}
+{"id":"src/strings.c#gText_DexSortLightestDescription","kind":"ui","en":"Owned POKéMON are listed from the\\nlightest to the heaviest."}
+{"id":"src/strings.c#gText_DexSortTallestDescription","kind":"ui","en":"Owned POKéMON are listed from the\\ntallest to the smallest."}
+{"id":"src/strings.c#gText_DexSortSmallestDescription","kind":"ui","en":"Owned POKéMON are listed from the\\nsmallest to the tallest."}
+{"id":"src/strings.c#gText_DexSearchDontSpecify","kind":"ui","en":"DON'T SPECIFY."}
+{"id":"src/strings.c#gText_DexSearchTypeNone","kind":"ui","en":"NONE"}
+{"id":"src/strings.c#gText_WelcomeToHOF","kind":"ui","en":"Welcome to the HALL OF FAME!"}
+{"id":"src/strings.c#gText_HOFDexRating","kind":"ui","en":"Spotted POKéMON: {STR_VAR_1}!\\nOwned POKéMON: {STR_VAR_2}!\\pPROF. BIRCH's POKéDEX rating!\\pPROF. BIRCH: Let's see…\\p"}
+{"id":"src/strings.c#gText_HOFDexSaving","kind":"ui","en":"SAVING…\\nDON'T TURN OFF THE POWER."}
+{"id":"src/strings.c#gText_HOFCorrupted","kind":"ui","en":"The HALL OF FAME data is corrupted."}
+{"id":"src/strings.c#gText_HOFNumber","kind":"ui","en":"HALL OF FAME No. {STR_VAR_1}"}
+{"id":"src/strings.c#gText_LeagueChamp","kind":"ui","en":"LEAGUE CHAMPION!\\nCONGRATULATIONS!"}
+{"id":"src/strings.c#gText_Number","kind":"ui","en":"No. "}
+{"id":"src/strings.c#gText_Level","kind":"ui","en":"Lv. "}
+{"id":"src/strings.c#gText_IdNumberSlash","kind":"ui","en":"IDNo. /"}
+{"id":"src/strings.c#gText_Name","kind":"ui","en":"NAME"}
+{"id":"src/strings.c#gText_IDNumber","kind":"ui","en":"IDNo."}
+{"id":"src/strings.c#gText_BirchInTrouble","kind":"ui","en":"PROF. BIRCH is in trouble!\\nRelease a POKéMON and rescue him!"}
+{"id":"src/strings.c#gText_ConfirmStarterChoice","kind":"ui","en":"Do you choose this POKéMON?"}
+{"id":"src/strings.c#gText_Pokemon4","kind":"ui","en":"POKéMON"}
+{"id":"src/strings.c#gText_FlyToWhere","kind":"ui","en":"FLY to where?"}
+{"id":"src/strings.c#gMenuText_Use","kind":"ui","en":"USE"}
+{"id":"src/strings.c#gMenuText_Toss","kind":"ui","en":"TOSS"}
+{"id":"src/strings.c#gMenuText_Register","kind":"ui","en":"REGISTER"}
+{"id":"src/strings.c#gMenuText_Give","kind":"ui","en":"GIVE"}
+{"id":"src/strings.c#gMenuText_CheckTag","kind":"ui","en":"CHECK TAG"}
+{"id":"src/strings.c#gMenuText_Confirm","kind":"ui","en":"CONFIRM"}
+{"id":"src/strings.c#gMenuText_Walk","kind":"ui","en":"WALK"}
+{"id":"src/strings.c#gText_Cancel","kind":"ui","en":"CANCEL"}
+{"id":"src/strings.c#gText_Cancel2","kind":"ui","en":"CANCEL"}
+{"id":"src/strings.c#gMenuText_Show","kind":"ui","en":"SHOW"}
+{"id":"src/strings.c#gText_Cancel7","kind":"ui","en":"CANCEL"}
+{"id":"src/strings.c#gText_Item","kind":"ui","en":"ITEM"}
+{"id":"src/strings.c#gText_Mail","kind":"ui","en":"MAIL"}
+{"id":"src/strings.c#gText_Take","kind":"ui","en":"TAKE"}
+{"id":"src/strings.c#gText_Store","kind":"ui","en":"STORE"}
+{"id":"src/strings.c#gMenuText_Check","kind":"ui","en":"CHECK"}
+{"id":"src/strings.c#gText_None","kind":"ui","en":"NONE"}
+{"id":"src/strings.c#gMenuText_Deselect","kind":"ui","en":"DESELECT"}
+{"id":"src/strings.c#gText_GoBackPrevMenu","kind":"ui","en":"Go back to the\\nprevious menu."}
+{"id":"src/strings.c#gText_WhatWouldYouLike","kind":"ui","en":"What would you like to do?"}
+{"id":"src/strings.c#gMenuText_Give2","kind":"ui","en":"GIVE"}
+{"id":"src/strings.c#gText_Berry2","kind":"ui","en":" BERRY"}
+{"id":"src/strings.c#gText_Coins","kind":"ui","en":"{STR_VAR_1} COINS"}
+{"id":"src/strings.c#gText_CloseBag","kind":"ui","en":"CLOSE BAG"}
+{"id":"src/strings.c#gText_Var1IsSelected","kind":"ui","en":"{STR_VAR_1} is\\nselected."}
+{"id":"src/strings.c#gText_CantWriteMail","kind":"ui","en":"You can't write\\nMAIL here."}
+{"id":"src/strings.c#gText_NoPokemon","kind":"ui","en":"There is no\\nPOKéMON."}
+{"id":"src/strings.c#gText_MoveVar1Where","kind":"ui","en":"Move the\\n{STR_VAR_1}\\nwhere?"}
+{"id":"src/strings.c#gText_Var1CantBeHeld","kind":"ui","en":"The {STR_VAR_1} can't be held."}
+{"id":"src/strings.c#gText_Var1CantBeHeldHere","kind":"ui","en":"The {STR_VAR_1} can't be held\\nhere."}
+{"id":"src/strings.c#gText_DepositHowManyVar1","kind":"ui","en":"Deposit how many\\n{STR_VAR_1}(s)?"}
+{"id":"src/strings.c#gText_DepositedVar2Var1s","kind":"ui","en":"Deposited {STR_VAR_2}\\n{STR_VAR_1}(s)."}
+{"id":"src/strings.c#gText_NoRoomForItems","kind":"ui","en":"There's no room to\\nstore items."}
+{"id":"src/strings.c#gText_CantStoreImportantItems","kind":"ui","en":"Important items\\ncan't be stored in\\nthe PC!"}
+{"id":"src/strings.c#gText_TooImportantToToss","kind":"ui","en":"That's much too\\nimportant to toss\\nout!"}
+{"id":"src/strings.c#gText_TossHowManyVar1s","kind":"ui","en":"Toss out how many\\n{STR_VAR_1}(s)?"}
+{"id":"src/strings.c#gText_ThrewAwayVar2Var1s","kind":"ui","en":"Threw away {STR_VAR_2}\\n{STR_VAR_1}(s)."}
+{"id":"src/strings.c#gText_ConfirmTossItems","kind":"ui","en":"Is it okay to\\nthrow away {STR_VAR_2}\\n{STR_VAR_1}(s)?"}
+{"id":"src/strings.c#gText_DadsAdvice","kind":"ui","en":"DAD's advice…\\n{PLAYER}, there's a time and place for\\leverything!{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_CantDismountBike","kind":"ui","en":"You can't dismount your BIKE here.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_ItemFinderNearby","kind":"ui","en":"Huh?\\nThe ITEMFINDER's responding!\\pThere's an item buried around here!{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_ItemFinderOnTop","kind":"ui","en":"Oh!\\nThe ITEMFINDER's shaking wildly!{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_ItemFinderNothing","kind":"ui","en":"… … … …Nope!\\nThere's no response.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_CoinCase","kind":"ui","en":"Your COINS:\\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_BootedUpTM","kind":"ui","en":"Booted up a TM."}
+{"id":"src/strings.c#gText_BootedUpHM","kind":"ui","en":"Booted up an HM."}
+{"id":"src/strings.c#gText_TMHMContainedVar1","kind":"ui","en":"It contained\\n{STR_VAR_1}.\\pTeach {STR_VAR_1}\\nto a POKéMON?"}
+{"id":"src/strings.c#gText_PlayerUsedVar2","kind":"ui","en":"{PLAYER} used the\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_RepelEffectsLingered","kind":"ui","en":"But the effects of a REPEL\\nlingered from earlier.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_UsedVar2WildLured","kind":"ui","en":"{PLAYER} used the\\n{STR_VAR_2}.\\pWild POKéMON will be lured.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_UsedVar2WildRepelled","kind":"ui","en":"{PLAYER} used the\\n{STR_VAR_2}.\\pWild POKéMON will be repelled.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_BoxFull","kind":"ui","en":"The BOX is full.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PowderQty","kind":"ui","en":"POWDER QTY: {STR_VAR_1}{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_TheField","kind":"ui","en":"the field"}
+{"id":"src/strings.c#gText_TheBattle","kind":"ui","en":"the battle"}
+{"id":"src/strings.c#gText_ThePokemonList","kind":"ui","en":"the POKéMON LIST"}
+{"id":"src/strings.c#gText_TheShop","kind":"ui","en":"the shop"}
+{"id":"src/strings.c#gText_ThePC","kind":"ui","en":"the PC"}
+{"id":"src/strings.c#gText_ReturnToVar1","kind":"ui","en":"Return to\\n{STR_VAR_1}."}
+{"id":"src/strings.c#gText_ItemsPocket","kind":"ui","en":"ITEMS"}
+{"id":"src/strings.c#gText_PokeBallsPocket","kind":"ui","en":"POKé BALLS"}
+{"id":"src/strings.c#gText_TMHMPocket","kind":"ui","en":"TMs & HMs"}
+{"id":"src/strings.c#gText_BerriesPocket","kind":"ui","en":"BERRIES"}
+{"id":"src/strings.c#gText_KeyItemsPocket","kind":"ui","en":"KEY ITEMS"}
+{"id":"src/strings.c#gText_SizeSlash","kind":"ui","en":"SIZE /"}
+{"id":"src/strings.c#gText_FirmSlash","kind":"ui","en":"FIRM /"}
+{"id":"src/strings.c#gBerryFirmnessString_VerySoft","kind":"ui","en":"Very soft"}
+{"id":"src/strings.c#gBerryFirmnessString_Soft","kind":"ui","en":"Soft"}
+{"id":"src/strings.c#gBerryFirmnessString_Hard","kind":"ui","en":"Hard"}
+{"id":"src/strings.c#gBerryFirmnessString_VeryHard","kind":"ui","en":"Very hard"}
+{"id":"src/strings.c#gBerryFirmnessString_SuperHard","kind":"ui","en":"Super hard"}
+{"id":"src/strings.c#gText_BerryTag","kind":"ui","en":"BERRY TAG"}
+{"id":"src/strings.c#gText_RedPokeblock","kind":"ui","en":"RED {POKEBLOCK}"}
+{"id":"src/strings.c#gText_BluePokeblock","kind":"ui","en":"BLUE {POKEBLOCK}"}
+{"id":"src/strings.c#gText_PinkPokeblock","kind":"ui","en":"PINK {POKEBLOCK}"}
+{"id":"src/strings.c#gText_GreenPokeblock","kind":"ui","en":"GREEN {POKEBLOCK}"}
+{"id":"src/strings.c#gText_YellowPokeblock","kind":"ui","en":"YELLOW {POKEBLOCK}"}
+{"id":"src/strings.c#gText_PurplePokeblock","kind":"ui","en":"PURPLE {POKEBLOCK}"}
+{"id":"src/strings.c#gText_IndigoPokeblock","kind":"ui","en":"INDIGO {POKEBLOCK}"}
+{"id":"src/strings.c#gText_BrownPokeblock","kind":"ui","en":"BROWN {POKEBLOCK}"}
+{"id":"src/strings.c#gText_LiteBluePokeblock","kind":"ui","en":"LITEBLUE {POKEBLOCK}"}
+{"id":"src/strings.c#gText_OlivePokeblock","kind":"ui","en":"OLIVE {POKEBLOCK}"}
+{"id":"src/strings.c#gText_GrayPokeblock","kind":"ui","en":"GRAY {POKEBLOCK}"}
+{"id":"src/strings.c#gText_BlackPokeblock","kind":"ui","en":"BLACK {POKEBLOCK}"}
+{"id":"src/strings.c#gText_WhitePokeblock","kind":"ui","en":"WHITE {POKEBLOCK}"}
+{"id":"src/strings.c#gText_GoldPokeblock","kind":"ui","en":"GOLD {POKEBLOCK}"}
+{"id":"src/strings.c#gText_Spicy","kind":"ui","en":"SPICY"}
+{"id":"src/strings.c#gText_Dry","kind":"ui","en":"DRY"}
+{"id":"src/strings.c#gText_Sweet","kind":"ui","en":"SWEET"}
+{"id":"src/strings.c#gText_Bitter","kind":"ui","en":"BITTER"}
+{"id":"src/strings.c#gText_Sour","kind":"ui","en":"SOUR"}
+{"id":"src/strings.c#gText_Tasty","kind":"ui","en":"TASTY"}
+{"id":"src/strings.c#gText_Feel","kind":"ui","en":"FEEL"}
+{"id":"src/strings.c#gText_StowCase","kind":"ui","en":"Stow CASE."}
+{"id":"src/strings.c#gText_ThrowAwayVar1","kind":"ui","en":"Throw away this\\n{STR_VAR_1}?"}
+{"id":"src/strings.c#gText_Var1ThrownAway","kind":"ui","en":"The {STR_VAR_1}\\nwas thrown away."}
+{"id":"src/strings.c#gText_Var1AteTheVar2","kind":"ui","en":"{STR_VAR_1} ate the\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_Var1HappilyAteVar2","kind":"ui","en":"{STR_VAR_1} happily ate the\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_Var1DisdainfullyAteVar2","kind":"ui","en":"{STR_VAR_1} disdainfully ate the\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_ShopBuy","kind":"ui","en":"BUY"}
+{"id":"src/strings.c#gText_ShopSell","kind":"ui","en":"SELL"}
+{"id":"src/strings.c#gText_ShopQuit","kind":"ui","en":"QUIT"}
+{"id":"src/strings.c#gText_InBagVar1","kind":"ui","en":"IN BAG: {STR_VAR_1}"}
+{"id":"src/strings.c#gText_QuitShopping","kind":"ui","en":"Quit shopping."}
+{"id":"src/strings.c#gText_Var1CertainlyHowMany","kind":"ui","en":"{STR_VAR_1}? Certainly.\\nHow many would you like?"}
+{"id":"src/strings.c#gText_Var1CertainlyHowMany2","kind":"ui","en":"{STR_VAR_1}? Certainly.\\nHow many would you like?"}
+{"id":"src/strings.c#gText_Var1AndYouWantedVar2","kind":"ui","en":"{STR_VAR_1}? And you wanted {STR_VAR_2}?\\nThat will be ¥{STR_VAR_3}."}
+{"id":"src/strings.c#gText_Var1IsItThatllBeVar2","kind":"ui","en":"{STR_VAR_1}, is it?\\nThat'll be ¥{STR_VAR_2}. Do you want it?"}
+{"id":"src/strings.c#gText_YouWantedVar1ThatllBeVar2","kind":"ui","en":"You wanted {STR_VAR_1}?\\nThat'll be ¥{STR_VAR_2}. Will that be okay?"}
+{"id":"src/strings.c#gText_HereYouGoThankYou","kind":"ui","en":"Here you go!\\nThank you very much."}
+{"id":"src/strings.c#gText_ThankYouIllSendItHome","kind":"ui","en":"Thank you!\\nI'll send it to your home PC."}
+{"id":"src/strings.c#gText_ThanksIllSendItHome","kind":"ui","en":"Thanks!\\nI'll send it to your PC at home."}
+{"id":"src/strings.c#gText_YouDontHaveMoney","kind":"ui","en":"You don't have enough money.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_NoMoreRoomForThis","kind":"ui","en":"You have no more room for this\\nitem.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_SpaceForVar1Full","kind":"ui","en":"The space for {STR_VAR_1} is full.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_AnythingElseICanHelp","kind":"ui","en":"Is there anything else I can help\\nyou with?"}
+{"id":"src/strings.c#gText_CanIHelpWithAnythingElse","kind":"ui","en":"Can I help you with anything else?"}
+{"id":"src/strings.c#gText_ThrowInPremierBall","kind":"ui","en":"I'll throw in a PREMIER BALL, too.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_CantBuyKeyItem","kind":"ui","en":"{STR_VAR_2}? Oh, no.\\nI can't buy that.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_HowManyToSell","kind":"ui","en":"{STR_VAR_2}?\\nHow many would you like to sell?"}
+{"id":"src/strings.c#gText_ICanPayVar1","kind":"ui","en":"I can pay ¥{STR_VAR_1}.\\nWould that be okay?"}
+{"id":"src/strings.c#gText_TurnedOverVar1ForVar2","kind":"ui","en":"Turned over the {STR_VAR_2}\\nand received ¥{STR_VAR_1}."}
+{"id":"src/strings.c#gText_Shift","kind":"ui","en":"SHIFT"}
+{"id":"src/strings.c#gText_SendOut","kind":"ui","en":"SEND OUT"}
+{"id":"src/strings.c#gText_Switch2","kind":"ui","en":"SWITCH"}
+{"id":"src/strings.c#gText_Summary5","kind":"ui","en":"SUMMARY"}
+{"id":"src/strings.c#gText_Moves","kind":"ui","en":"MOVES"}
+{"id":"src/strings.c#gText_Enter","kind":"ui","en":"ENTER"}
+{"id":"src/strings.c#gText_NoEntry","kind":"ui","en":"NO ENTRY"}
+{"id":"src/strings.c#gText_Take2","kind":"ui","en":"TAKE"}
+{"id":"src/strings.c#gText_Read2","kind":"ui","en":"READ"}
+{"id":"src/strings.c#gText_Trade4","kind":"ui","en":"TRADE"}
+{"id":"src/strings.c#gText_HP3","kind":"ui","en":"HP"}
+{"id":"src/strings.c#gText_SpAtk3","kind":"ui","en":"SP. ATK"}
+{"id":"src/strings.c#gText_SpDef3","kind":"ui","en":"SP. DEF"}
+{"id":"src/strings.c#gText_WontHaveEffect","kind":"ui","en":"It won't have any effect.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_CantBeUsedOnPkmn","kind":"ui","en":"This can't be used on\\nthat POKéMON.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnCantSwitchOut","kind":"ui","en":"{STR_VAR_1} can't be switched\\nout!{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnAlreadyInBattle","kind":"ui","en":"{STR_VAR_1} is already\\nin battle!{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnAlreadySelected","kind":"ui","en":"{STR_VAR_1} has already been\\nselected.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnHasNoEnergy","kind":"ui","en":"{STR_VAR_1} has no energy\\nleft to battle!{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_CantSwitchWithAlly","kind":"ui","en":"You can't switch {STR_VAR_1}'s\\nPOKéMON with one of yours!{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_EggCantBattle","kind":"ui","en":"An EGG can't battle!{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_CantUseUntilNewBadge","kind":"ui","en":"This can't be used until a new\\nBADGE is obtained.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_NoMoreThanVar1Pkmn","kind":"ui","en":"No more than {STR_VAR_1} POKéMON\\nmay enter.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_SendMailToPC","kind":"ui","en":"Send the removed MAIL to\\nyour PC?"}
+{"id":"src/strings.c#gText_MailSentToPC","kind":"ui","en":"The MAIL was sent to your PC.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PCMailboxFull","kind":"ui","en":"Your PC's MAILBOX is full.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_MailMessageWillBeLost","kind":"ui","en":"If the MAIL is removed, the\\nmessage will be lost. Okay?"}
+{"id":"src/strings.c#gText_RemoveMailBeforeItem","kind":"ui","en":"MAIL must be removed before\\nholding an item.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnWasGivenItem","kind":"ui","en":"{STR_VAR_1} was given the\\n{STR_VAR_2} to hold.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnAlreadyHoldingItemSwitch","kind":"ui","en":"{STR_VAR_1} is already holding\\none {STR_VAR_2}.\\pWould you like to switch the\\ntwo items?"}
+{"id":"src/strings.c#gText_PkmnNotHolding","kind":"ui","en":"{STR_VAR_1} isn't holding\\nanything.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_ReceivedItemFromPkmn","kind":"ui","en":"Received the {STR_VAR_2}\\nfrom {STR_VAR_1}.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_MailTakenFromPkmn","kind":"ui","en":"MAIL was taken from the\\nPOKéMON.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_SwitchedPkmnItem","kind":"ui","en":"The {STR_VAR_2} was taken and\\nreplaced with the {STR_VAR_1}.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnHoldingItemCantHoldMail","kind":"ui","en":"This POKéMON is holding an\\nitem. It cannot hold MAIL.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_MailTransferredFromMailbox","kind":"ui","en":"MAIL was transferred from\\nthe MAILBOX.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_BagFullCouldNotRemoveItem","kind":"ui","en":"The BAG is full. The POKéMON's\\nitem could not be removed.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnLearnedMove3","kind":"ui","en":"{STR_VAR_1} learned\\n{STR_VAR_2}!"}
+{"id":"src/strings.c#gText_PkmnCantLearnMove","kind":"ui","en":"{STR_VAR_1} and {STR_VAR_2}\\nare not compatible.\\p{STR_VAR_2} can't be\\nlearned.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnNeedsToReplaceMove","kind":"ui","en":"{STR_VAR_1} wants to learn the\\nmove {STR_VAR_2}.\\pHowever, {STR_VAR_1} already\\nknows four moves.\\pShould a move be deleted and\\nreplaced with {STR_VAR_2}?"}
+{"id":"src/strings.c#gText_StopLearningMove2","kind":"ui","en":"Stop trying to teach\\n{STR_VAR_2}?"}
+{"id":"src/strings.c#gText_MoveNotLearned","kind":"ui","en":"{STR_VAR_1} did not learn the\\nmove {STR_VAR_2}.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_WhichMoveToForget","kind":"ui","en":"Which move should be forgotten?{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_12PoofForgotMove","kind":"ui","en":"1, {PAUSE 15}2, and{PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\\p{STR_VAR_1} forgot how to\\nuse {STR_VAR_2}.\\pAnd…{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnAlreadyKnows","kind":"ui","en":"{STR_VAR_1} already knows\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnHPRestoredByVar2","kind":"ui","en":"{STR_VAR_1}'s HP was restored\\nby {STR_VAR_2} point(s).{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnCuredOfPoison","kind":"ui","en":"{STR_VAR_1} was cured of its\\npoisoning.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnCuredOfParalysis","kind":"ui","en":"{STR_VAR_1} was cured of\\nparalysis.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnWokeUp2","kind":"ui","en":"{STR_VAR_1} woke up.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnBurnHealed","kind":"ui","en":"{STR_VAR_1}'s burn was healed.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnThawedOut","kind":"ui","en":"{STR_VAR_1} was thawed out.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PPWasRestored","kind":"ui","en":"PP was restored.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnRegainhedHealth","kind":"ui","en":"{STR_VAR_1} regained health.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnBecameHealthy","kind":"ui","en":"{STR_VAR_1} became healthy.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_MovesPPIncreased","kind":"ui","en":"{STR_VAR_1}'s PP increased.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnElevatedToLvVar2","kind":"ui","en":"{STR_VAR_1} was elevated to\\nLv. {STR_VAR_2}."}
+{"id":"src/strings.c#gText_PkmnBaseVar2StatIncreased","kind":"ui","en":"{STR_VAR_1}'s base {STR_VAR_2}\\nstat was raised.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnFriendlyBaseVar2Fell","kind":"ui","en":"{STR_VAR_1} turned friendly.\\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnAdoresBaseVar2Fell","kind":"ui","en":"{STR_VAR_1} adores you!\\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnFriendlyBaseVar2CantFall","kind":"ui","en":"{STR_VAR_1} turned friendly.\\nThe base {STR_VAR_2} can't fall!{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnSnappedOutOfConfusion","kind":"ui","en":"{STR_VAR_1} snapped out of its\\nconfusion.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_PkmnGotOverInfatuation","kind":"ui","en":"{STR_VAR_1} got over its\\ninfatuation.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_ThrowAwayItem","kind":"ui","en":"Throw away this\\n{STR_VAR_1}?"}
+{"id":"src/strings.c#gText_ItemThrownAway","kind":"ui","en":"The {STR_VAR_1}\\nwas thrown away.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_TeachWhichPokemon2","kind":"ui","en":"Teach which POKéMON?"}
+{"id":"src/strings.c#gText_ChoosePokemon","kind":"ui","en":"Choose a POKéMON."}
+{"id":"src/strings.c#gText_MoveToWhere","kind":"ui","en":"Move to where?"}
+{"id":"src/strings.c#gText_TeachWhichPokemon","kind":"ui","en":"Teach which POKéMON?"}
+{"id":"src/strings.c#gText_UseOnWhichPokemon","kind":"ui","en":"Use on which POKéMON?"}
+{"id":"src/strings.c#gText_GiveToWhichPokemon","kind":"ui","en":"Give to which POKéMON?"}
+{"id":"src/strings.c#gText_DoWhatWithPokemon","kind":"ui","en":"Do what with this {PKMN}?"}
+{"id":"src/strings.c#gText_NothingToCut","kind":"ui","en":"There's nothing to CUT."}
+{"id":"src/strings.c#gText_CantSurfHere","kind":"ui","en":"You can't SURF here."}
+{"id":"src/strings.c#gText_AlreadySurfing","kind":"ui","en":"You're already SURFING."}
+{"id":"src/strings.c#gText_CantUseHere","kind":"ui","en":"Can't use that here."}
+{"id":"src/strings.c#gText_RestoreWhichMove","kind":"ui","en":"Restore which move?"}
+{"id":"src/strings.c#gText_BoostPP","kind":"ui","en":"Boost PP of which move?"}
+{"id":"src/strings.c#gText_DoWhatWithItem","kind":"ui","en":"Do what with an item?"}
+{"id":"src/strings.c#gText_NoPokemonForBattle","kind":"ui","en":"No POKéMON for battle!"}
+{"id":"src/strings.c#gText_ChoosePokemon2","kind":"ui","en":"Choose a POKéMON."}
+{"id":"src/strings.c#gText_NotEnoughHp","kind":"ui","en":"Not enough HP…"}
+{"id":"src/strings.c#gText_PokemonAreNeeded","kind":"ui","en":"{STR_VAR_1} POKéMON are needed."}
+{"id":"src/strings.c#gText_PokemonCantBeSame","kind":"ui","en":"POKéMON can't be the same."}
+{"id":"src/strings.c#gText_NoIdenticalHoldItems","kind":"ui","en":"No identical hold items."}
+{"id":"src/strings.c#gText_CurrentIsTooFast","kind":"ui","en":"The current is much too fast!"}
+{"id":"src/strings.c#gText_DoWhatWithMail","kind":"ui","en":"Do what with the MAIL?"}
+{"id":"src/strings.c#gText_ChoosePokemonCancel","kind":"ui","en":"Choose POKéMON or CANCEL."}
+{"id":"src/strings.c#gText_ChoosePokemonConfirm","kind":"ui","en":"Choose POKéMON and confirm."}
+{"id":"src/strings.c#gText_EnjoyCycling","kind":"ui","en":"Let's enjoy cycling!"}
+{"id":"src/strings.c#gText_InUseAlready_PM","kind":"ui","en":"This is in use already."}
+{"id":"src/strings.c#gText_AlreadyHoldingOne","kind":"ui","en":"{STR_VAR_1} is already holding\\none {STR_VAR_2}."}
+{"id":"src/strings.c#gText_NoUse","kind":"ui","en":"No use."}
+{"id":"src/strings.c#gText_Able","kind":"ui","en":"ABLE"}
+{"id":"src/strings.c#gText_First_PM","kind":"ui","en":"FIRST"}
+{"id":"src/strings.c#gText_Second_PM","kind":"ui","en":"SECOND"}
+{"id":"src/strings.c#gText_Third_PM","kind":"ui","en":"THIRD"}
+{"id":"src/strings.c#gText_Able2","kind":"ui","en":"ABLE"}
+{"id":"src/strings.c#gText_NotAble","kind":"ui","en":"NOT ABLE"}
+{"id":"src/strings.c#gText_Able3","kind":"ui","en":"ABLE!"}
+{"id":"src/strings.c#gText_NotAble2","kind":"ui","en":"NOT ABLE!"}
+{"id":"src/strings.c#gText_Learned","kind":"ui","en":"LEARNED"}
+{"id":"src/strings.c#gText_Have","kind":"ui","en":"HAVE"}
+{"id":"src/strings.c#gText_DontHave","kind":"ui","en":"DON'T HAVE"}
+{"id":"src/strings.c#gText_Fourth","kind":"ui","en":"FOURTH"}
+{"id":"src/strings.c#gText_PkmnCantParticipate","kind":"ui","en":"That POKéMON can't participate.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_CancelParticipation","kind":"ui","en":"Cancel participation?"}
+{"id":"src/strings.c#gText_CancelBattle","kind":"ui","en":"Cancel the battle?"}
+{"id":"src/strings.c#gText_ReturnToWaitingRoom","kind":"ui","en":"Return to the WAITING ROOM?"}
+{"id":"src/strings.c#gText_CancelChallenge","kind":"ui","en":"Cancel the challenge?"}
+{"id":"src/strings.c#gText_EscapeFromHere","kind":"ui","en":"Want to escape from here and return\\nto {STR_VAR_1}?"}
+{"id":"src/strings.c#gText_ReturnToHealingSpot","kind":"ui","en":"Want to return to the healing spot\\nused last in {STR_VAR_1}?"}
+{"id":"src/strings.c#gText_OnlyPkmnForBattle","kind":"ui","en":"That's your only\\nPOKéMON for battle."}
+{"id":"src/strings.c#gText_PkmnCantBeTradedNow","kind":"ui","en":"That POKéMON can't be traded\\nnow."}
+{"id":"src/strings.c#gText_EggCantBeTradedNow","kind":"ui","en":"An EGG can't be traded now."}
+{"id":"src/strings.c#gText_OtherTrainersPkmnCantBeTraded","kind":"ui","en":"The other TRAINER's POKéMON\\ncan't be traded now."}
+{"id":"src/strings.c#gText_OtherTrainerCantAcceptPkmn","kind":"ui","en":"The other TRAINER can't accept\\nthat POKéMON now."}
+{"id":"src/strings.c#gText_CantTradeWithTrainer","kind":"ui","en":"You can't trade with that\\nTRAINER now."}
+{"id":"src/strings.c#gText_NotPkmnOtherTrainerWants","kind":"ui","en":"That isn't the type of POKéMON\\nthat the other TRAINER wants."}
+{"id":"src/strings.c#gText_ThatIsntAnEgg","kind":"ui","en":"That isn't an EGG."}
+{"id":"src/strings.c#gText_Register","kind":"ui","en":"REGISTER"}
+{"id":"src/strings.c#gText_Attack3","kind":"ui","en":"ATTACK"}
+{"id":"src/strings.c#gText_Defense3","kind":"ui","en":"DEFENSE"}
+{"id":"src/strings.c#gText_SpAtk4","kind":"ui","en":"SP. ATK"}
+{"id":"src/strings.c#gText_SpDef4","kind":"ui","en":"SP. DEF"}
+{"id":"src/strings.c#gText_Speed2","kind":"ui","en":"SPEED"}
+{"id":"src/strings.c#gText_HP4","kind":"ui","en":"HP"}
+{"id":"src/strings.c#gText_OTSlash","kind":"ui","en":"OT/"}
+{"id":"src/strings.c#gText_RentalPkmn","kind":"ui","en":"RENTAL POKéMON"}
+{"id":"src/strings.c#gText_TypeSlash","kind":"ui","en":"TYPE/"}
+{"id":"src/strings.c#gText_Power","kind":"ui","en":"POWER"}
+{"id":"src/strings.c#gText_Accuracy2","kind":"ui","en":"ACCURACY"}
+{"id":"src/strings.c#gText_Appeal","kind":"ui","en":"APPEAL"}
+{"id":"src/strings.c#gText_Jam","kind":"ui","en":"JAM"}
+{"id":"src/strings.c#gText_Status","kind":"ui","en":"STATUS"}
+{"id":"src/strings.c#gText_ExpPoints","kind":"ui","en":"EXP. POINTS"}
+{"id":"src/strings.c#gText_NextLv","kind":"ui","en":"NEXT LV."}
+{"id":"src/strings.c#gText_RibbonsVar1","kind":"ui","en":"RIBBONS: {STR_VAR_1}"}
+{"id":"src/strings.c#gText_Events","kind":"ui","en":"EVENTS"}
+{"id":"src/strings.c#gText_Switch","kind":"ui","en":"SWITCH"}
+{"id":"src/strings.c#gText_PkmnInfo","kind":"ui","en":"POKéMON INFO"}
+{"id":"src/strings.c#gText_PkmnSkills","kind":"ui","en":"POKéMON SKILLS"}
+{"id":"src/strings.c#gText_BattleMoves","kind":"ui","en":"BATTLE MOVES"}
+{"id":"src/strings.c#gText_ContestMoves","kind":"ui","en":"C0NTEST MOVES"}
+{"id":"src/strings.c#gText_Info","kind":"ui","en":"INFO"}
+{"id":"src/strings.c#gText_EggWillTakeALongTime","kind":"ui","en":"It looks like this EGG will\\ntake a long time to hatch."}
+{"id":"src/strings.c#gText_EggWillTakeSomeTime","kind":"ui","en":"What will hatch from this?\\nIt will take some time."}
+{"id":"src/strings.c#gText_EggWillHatchSoon","kind":"ui","en":"It moves occasionally.\\nIt should hatch soon."}
+{"id":"src/strings.c#gText_EggAboutToHatch","kind":"ui","en":"It's making sounds.\\nIt's about to hatch!"}
+{"id":"src/strings.c#gText_HMMovesCantBeForgotten2","kind":"ui","en":"HM moves can't be\\nforgotten now."}
+{"id":"src/strings.c#gText_XNatureMetAtYZ","kind":"ui","en":"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nmet at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}."}
+{"id":"src/strings.c#gText_XNatureHatchedAtYZ","kind":"ui","en":"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nhatched at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}."}
+{"id":"src/strings.c#gText_XNatureObtainedInTrade","kind":"ui","en":"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nobtained in a trade."}
+{"id":"src/strings.c#gText_XNatureFatefulEncounter","kind":"ui","en":"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nobtained in a fateful\\nencounter at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}."}
+{"id":"src/strings.c#gText_XNatureProbablyMetAt","kind":"ui","en":"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nprobably met at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}."}
+{"id":"src/strings.c#gText_XNature","kind":"ui","en":"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature"}
+{"id":"src/strings.c#gText_XNatureMetSomewhereAt","kind":"ui","en":"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nmet somewhere at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}."}
+{"id":"src/strings.c#gText_XNatureHatchedSomewhereAt","kind":"ui","en":"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nhatched somewhere at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}."}
+{"id":"src/strings.c#gText_OddEggFoundByCouple","kind":"ui","en":"An odd POKéMON EGG found\\nby the DAY CARE couple."}
+{"id":"src/strings.c#gText_PeculiarEggNicePlace","kind":"ui","en":"A peculiar POKéMON EGG\\nobtained at the nice place."}
+{"id":"src/strings.c#gText_PeculiarEggTrade","kind":"ui","en":"A peculiar POKéMON EGG\\nobtained in a trade."}
+{"id":"src/strings.c#gText_EggFromHotSprings","kind":"ui","en":"A POKéMON EGG obtained\\nat the hot springs."}
+{"id":"src/strings.c#gText_EggFromTraveler","kind":"ui","en":"An odd POKéMON EGG\\nobtained from a traveler."}
+{"id":"src/strings.c#gText_ApostropheSBase","kind":"ui","en":"'s BASE"}
+{"id":"src/strings.c#gText_OkayToDeleteFromRegistry","kind":"ui","en":"Is it okay to delete {STR_VAR_1}\\nfrom the REGISTRY?"}
+{"id":"src/strings.c#gText_RegisteredDataDeleted","kind":"ui","en":"The registered data was deleted.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_NoRegistry","kind":"ui","en":"There is no REGISTRY.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_DelRegist","kind":"ui","en":"DEL REGIST."}
+{"id":"src/strings.c#gText_Decorate","kind":"ui","en":"DECORATE"}
+{"id":"src/strings.c#gText_PutAway","kind":"ui","en":"PUT AWAY"}
+{"id":"src/strings.c#gText_Toss2","kind":"ui","en":"TOSS"}
+{"id":"src/strings.c#gText_PutOutSelectedDecorItem","kind":"ui","en":"Put out the selected decoration item."}
+{"id":"src/strings.c#gText_StoreChosenDecorInPC","kind":"ui","en":"Store the chosen decoration in the PC."}
+{"id":"src/strings.c#gText_ThrowAwayUnwantedDecors","kind":"ui","en":"Throw away unwanted decorations."}
+{"id":"src/strings.c#gText_NoDecorations","kind":"ui","en":"There are no decorations.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_Desk","kind":"ui","en":"DESK"}
+{"id":"src/strings.c#gText_Chair","kind":"ui","en":"CHAIR"}
+{"id":"src/strings.c#gText_Plant","kind":"ui","en":"PLANT"}
+{"id":"src/strings.c#gText_Ornament","kind":"ui","en":"ORNAMENT"}
+{"id":"src/strings.c#gText_Mat","kind":"ui","en":"MAT"}
+{"id":"src/strings.c#gText_Poster","kind":"ui","en":"POSTER"}
+{"id":"src/strings.c#gText_Doll","kind":"ui","en":"DOLL"}
+{"id":"src/strings.c#gText_Cushion","kind":"ui","en":"CUSHION"}
+{"id":"src/strings.c#gText_Gold","kind":"ui","en":"GOLD"}
+{"id":"src/strings.c#gText_Silver","kind":"ui","en":"SILVER"}
+{"id":"src/strings.c#gText_PlaceItHere","kind":"ui","en":"Place it here?"}
+{"id":"src/strings.c#gText_CantBePlacedHere","kind":"ui","en":"It can't be placed here."}
+{"id":"src/strings.c#gText_CancelDecorating","kind":"ui","en":"Cancel decorating?"}
+{"id":"src/strings.c#gText_InUseAlready","kind":"ui","en":"This is in use already."}
+{"id":"src/strings.c#gText_NoMoreDecorations","kind":"ui","en":"No more decorations can be placed.\\nThe most that can be placed are {STR_VAR_1}."}
+{"id":"src/strings.c#gText_NoMoreDecorations2","kind":"ui","en":"No more decorations can be placed.\\nThe most that can be placed are {STR_VAR_1}."}
+{"id":"src/strings.c#gText_MustBePlacedOnDesk","kind":"ui","en":"This can't be placed here.\\nIt must be on a DESK, etc."}
+{"id":"src/strings.c#gText_CantPlaceInRoom","kind":"ui","en":"This decoration can't be placed in\\nyour own room."}
+{"id":"src/strings.c#gText_CantThrowAwayInUse","kind":"ui","en":"This decoration is in use.\\nIt can't be thrown away."}
+{"id":"src/strings.c#gText_DecorationWillBeDiscarded","kind":"ui","en":"This {STR_VAR_1} will be discarded.\\nIs that okay?"}
+{"id":"src/strings.c#gText_DecorationThrownAway","kind":"ui","en":"The decoration item was thrown away."}
+{"id":"src/strings.c#gText_StopPuttingAwayDecorations","kind":"ui","en":"Stop putting away decorations?"}
+{"id":"src/strings.c#gText_NoDecorationHere","kind":"ui","en":"There is no decoration item here."}
+{"id":"src/strings.c#gText_ReturnDecorationToPC","kind":"ui","en":"Return this decoration to the PC?"}
+{"id":"src/strings.c#gText_DecorationReturnedToPC","kind":"ui","en":"The decoration was returned to the PC."}
+{"id":"src/strings.c#gText_NoDecorationsInUse","kind":"ui","en":"There are no decorations in use.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_Tristan","kind":"ui","en":"TRISTAN"}
+{"id":"src/strings.c#gText_Philip","kind":"ui","en":"PHILIP"}
+{"id":"src/strings.c#gText_Dennis","kind":"ui","en":"DENNIS"}
+{"id":"src/strings.c#gText_Roberto","kind":"ui","en":"ROBERTO"}
+{"id":"src/strings.c#gText_TurnOff","kind":"ui","en":"TURN OFF"}
+{"id":"src/strings.c#gText_Decoration","kind":"ui","en":"DECORATION"}
+{"id":"src/strings.c#gText_ItemStorage","kind":"ui","en":"ITEM STORAGE"}
+{"id":"src/strings.c#gText_Mailbox","kind":"ui","en":"MAILBOX"}
+{"id":"src/strings.c#gText_DepositItem","kind":"ui","en":"DEPOSIT ITEM"}
+{"id":"src/strings.c#gText_WithdrawItem","kind":"ui","en":"WITHDRAW ITEM"}
+{"id":"src/strings.c#gText_TossItem","kind":"ui","en":"TOSS ITEM"}
+{"id":"src/strings.c#gText_StoreItemsInPC","kind":"ui","en":"Store items in the PC."}
+{"id":"src/strings.c#gText_TakeOutItemsFromPC","kind":"ui","en":"Take out items from the PC."}
+{"id":"src/strings.c#gText_ThrowAwayItemsInPC","kind":"ui","en":"Throw away items stored in the PC."}
+{"id":"src/strings.c#gText_NoItems","kind":"ui","en":"There are no items.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_NoRoomInBag","kind":"ui","en":"There is no more\\nroom in the BAG."}
+{"id":"src/strings.c#gText_WithdrawHowManyItems","kind":"ui","en":"Withdraw how many\\n{STR_VAR_1}(s)?"}
+{"id":"src/strings.c#gText_WithdrawXItems","kind":"ui","en":"Withdrew {STR_VAR_2}\\n{STR_VAR_1}(s)."}
+{"id":"src/strings.c#gText_Read","kind":"ui","en":"READ"}
+{"id":"src/strings.c#gText_MoveToBag","kind":"ui","en":"MOVE TO BAG"}
+{"id":"src/strings.c#gText_Give2","kind":"ui","en":"GIVE"}
+{"id":"src/strings.c#gText_NoMailHere","kind":"ui","en":"There's no MAIL here.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_WhatToDoWithVar1sMail","kind":"ui","en":"What would you like to do with\\n{STR_VAR_1}'s MAIL?"}
+{"id":"src/strings.c#gText_MessageWillBeLost","kind":"ui","en":"The message will be lost.\\nIs that okay?"}
+{"id":"src/strings.c#gText_BagIsFull","kind":"ui","en":"The BAG is full.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_MailToBagMessageErased","kind":"ui","en":"The MAIL was returned to the BAG\\nwith its message erased.{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_Dad","kind":"ui","en":"DAD"}
+{"id":"src/strings.c#gText_Mom","kind":"ui","en":"MOM"}
+{"id":"src/strings.c#gText_Wallace","kind":"ui","en":"WALLACE"}
+{"id":"src/strings.c#gText_Steven","kind":"ui","en":"STEVEN"}
+{"id":"src/strings.c#gText_Brawly","kind":"ui","en":"BRAWLY"}
+{"id":"src/strings.c#gText_Winona","kind":"ui","en":"WINONA"}
+{"id":"src/strings.c#gText_Phoebe","kind":"ui","en":"PHOEBE"}
+{"id":"src/strings.c#gText_Glacia","kind":"ui","en":"GLACIA"}
+{"id":"src/strings.c#gText_Petalburg","kind":"ui","en":"PETALBURG"}
+{"id":"src/strings.c#gText_Slateport","kind":"ui","en":"SLATEPORT"}
+{"id":"src/strings.c#gText_Littleroot","kind":"ui","en":"LITTLEROOT"}
+{"id":"src/strings.c#gText_Lilycove","kind":"ui","en":"LILYCOVE"}
+{"id":"src/strings.c#gText_Dewford","kind":"ui","en":"DEWFORD"}
+{"id":"src/strings.c#gText_Enter2","kind":"ui","en":"ENTER"}
+{"id":"src/strings.c#gText_Info2","kind":"ui","en":"INFO"}
+{"id":"src/strings.c#gText_WhatsAContest","kind":"ui","en":"What's a CONTEST?"}
+{"id":"src/strings.c#gText_TypesOfContests","kind":"ui","en":"Types of CONTESTS"}
+{"id":"src/strings.c#gText_Ranks","kind":"ui","en":"Ranks"}
+{"id":"src/strings.c#gText_Judging","kind":"ui","en":"Judging"}
+{"id":"src/strings.c#gText_CoolnessContest","kind":"ui","en":"COOLNESS CONTEST"}
+{"id":"src/strings.c#gText_BeautyContest","kind":"ui","en":"BEAUTY CONTEST"}
+{"id":"src/strings.c#gText_CutenessContest","kind":"ui","en":"CUTENESS CONTEST"}
+{"id":"src/strings.c#gText_SmartnessContest","kind":"ui","en":"SMARTNESS CONTEST"}
+{"id":"src/strings.c#gText_ToughnessContest","kind":"ui","en":"TOUGHNESS CONTEST"}
+{"id":"src/strings.c#gText_Decoration2","kind":"ui","en":"DECORATION"}
+{"id":"src/strings.c#gText_PackUp","kind":"ui","en":"PACK UP"}
+{"id":"src/strings.c#gText_Count","kind":"ui","en":"COUNT"}
+{"id":"src/strings.c#gText_Registry","kind":"ui","en":"REGISTRY"}
+{"id":"src/strings.c#gText_Information","kind":"ui","en":"INFORMATION"}
+{"id":"src/strings.c#gText_Mach","kind":"ui","en":"MACH"}
+{"id":"src/strings.c#gText_Acro","kind":"ui","en":"ACRO"}
+{"id":"src/strings.c#gText_Psn","kind":"ui","en":"PSN"}
+{"id":"src/strings.c#gText_Par","kind":"ui","en":"PAR"}
+{"id":"src/strings.c#gText_Slp","kind":"ui","en":"SLP"}
+{"id":"src/strings.c#gText_Brn","kind":"ui","en":"BRN"}
+{"id":"src/strings.c#gText_Frz","kind":"ui","en":"FRZ"}
+{"id":"src/strings.c#gText_Toxic","kind":"ui","en":"TOXIC"}
+{"id":"src/strings.c#gText_Ok3","kind":"ui","en":"OK"}
+{"id":"src/strings.c#gText_Quit","kind":"ui","en":"QUIT"}
+{"id":"src/strings.c#gText_SawIt","kind":"ui","en":"Saw it"}
+{"id":"src/strings.c#gText_NotYet","kind":"ui","en":"Not yet"}
+{"id":"src/strings.c#gText_Yes","kind":"ui","en":"YES"}
+{"id":"src/strings.c#gText_No","kind":"ui","en":"NO"}
+{"id":"src/strings.c#gText_Info4","kind":"ui","en":"INFO"}
+{"id":"src/strings.c#gText_SingleBattle","kind":"ui","en":"SINGLE BATTLE"}
+{"id":"src/strings.c#gText_DoubleBattle","kind":"ui","en":"DOUBLE BATTLE"}
+{"id":"src/strings.c#gText_MultiBattle","kind":"ui","en":"MULTI BATTLE"}
+{"id":"src/strings.c#gText_MrBriney","kind":"ui","en":"MR. BRINEY"}
+{"id":"src/strings.c#gText_Challenge","kind":"ui","en":"CHALLENGE"}
+{"id":"src/strings.c#gText_Info3","kind":"ui","en":"INFO"}
+{"id":"src/strings.c#gText_Lv50","kind":"ui","en":"LV. 50"}
+{"id":"src/strings.c#gText_OpenLevel","kind":"ui","en":"OPEN LEVEL"}
+{"id":"src/strings.c#gText_FreshWaterAndPrice","kind":"ui","en":"FRESH WATER{CLEAR_TO 72}¥200"}
+{"id":"src/strings.c#gText_SodaPopAndPrice","kind":"ui","en":"SODA POP{CLEAR_TO 72}¥300"}
+{"id":"src/strings.c#gText_LemonadeAndPrice","kind":"ui","en":"LEMONADE{CLEAR_TO 72}¥350"}
+{"id":"src/strings.c#gText_HowToRide","kind":"ui","en":"HOW TO RIDE"}
+{"id":"src/strings.c#gText_HowToTurn","kind":"ui","en":"HOW TO TURN"}
+{"id":"src/strings.c#gText_SandySlopes","kind":"ui","en":"SANDY SLOPES"}
+{"id":"src/strings.c#gText_Wheelies","kind":"ui","en":"WHEELIES"}
+{"id":"src/strings.c#gText_BunnyHops","kind":"ui","en":"BUNNY-HOPS"}
+{"id":"src/strings.c#gText_Jump","kind":"ui","en":"JUMP"}
+{"id":"src/strings.c#gText_Satisfied","kind":"ui","en":"Satisfied"}
+{"id":"src/strings.c#gText_Dissatisfied","kind":"ui","en":"Dissatisfied"}
+{"id":"src/strings.c#gText_DeepSeaTooth","kind":"ui","en":"DEEPSEATOOTH"}
+{"id":"src/strings.c#gText_DeepSeaScale","kind":"ui","en":"DEEPSEASCALE"}
+{"id":"src/strings.c#gText_BlueFlute2","kind":"ui","en":"BLUE FLUTE"}
+{"id":"src/strings.c#gText_YellowFlute2","kind":"ui","en":"YELLOW FLUTE"}
+{"id":"src/strings.c#gText_RedFlute2","kind":"ui","en":"RED FLUTE"}
+{"id":"src/strings.c#gText_WhiteFlute2","kind":"ui","en":"WHITE FLUTE"}
+{"id":"src/strings.c#gText_BlackFlute2","kind":"ui","en":"BLACK FLUTE"}
+{"id":"src/strings.c#gText_GlassChair","kind":"ui","en":"GLASS CHAIR"}
+{"id":"src/strings.c#gText_GlassDesk","kind":"ui","en":"GLASS DESK"}
+{"id":"src/strings.c#gText_TreeckoDollAndPrice","kind":"ui","en":"TREECKO DOLL 1,000 COINS"}
+{"id":"src/strings.c#gText_TorchicDollAndPrice","kind":"ui","en":"TORCHIC DOLL 1,000 COINS"}
+{"id":"src/strings.c#gText_MudkipDollAndPrice","kind":"ui","en":"MUDKIP DOLL   1,000 COINS"}
+{"id":"src/strings.c#gText_50CoinsAndPrice","kind":"ui","en":"  50 COINS    ¥1,000"}
+{"id":"src/strings.c#gText_500CoinsAndPrice","kind":"ui","en":"500 COINS  ¥10,000"}
+{"id":"src/strings.c#gText_Excellent2","kind":"ui","en":"Excellent"}
+{"id":"src/strings.c#gText_NotSoGood","kind":"ui","en":"Not so good"}
+{"id":"src/strings.c#gText_RedShard","kind":"ui","en":"RED SHARD"}
+{"id":"src/strings.c#gText_YellowShard","kind":"ui","en":"YELLOW SHARD"}
+{"id":"src/strings.c#gText_BlueShard","kind":"ui","en":"BLUE SHARD"}
+{"id":"src/strings.c#gText_GreenShard","kind":"ui","en":"GREEN SHARD"}
+{"id":"src/strings.c#gText_BattleFrontier","kind":"ui","en":"BATTLE FRONTIER"}
+{"id":"src/strings.c#gText_Right","kind":"ui","en":"Right"}
+{"id":"src/strings.c#gText_Left","kind":"ui","en":"Left"}
+{"id":"src/strings.c#gText_TM32AndPrice","kind":"ui","en":"TM32{CLEAR_TO 72}1,500 COINS"}
+{"id":"src/strings.c#gText_TM29AndPrice","kind":"ui","en":"TM29{CLEAR_TO 72}3,500 COINS"}
+{"id":"src/strings.c#gText_TM35AndPrice","kind":"ui","en":"TM35{CLEAR_TO 72}4,000 COINS"}
+{"id":"src/strings.c#gText_TM24AndPrice","kind":"ui","en":"TM24{CLEAR_TO 72}4,000 COINS"}
+{"id":"src/strings.c#gText_TM13AndPrice","kind":"ui","en":"TM13{CLEAR_TO 72}4,000 COINS"}
+{"id":"src/strings.c#gText_Cool","kind":"ui","en":"COOL"}
+{"id":"src/strings.c#gText_Beauty","kind":"ui","en":"BEAUTY"}
+{"id":"src/strings.c#gText_Cute","kind":"ui","en":"CUTE"}
+{"id":"src/strings.c#gText_Smart","kind":"ui","en":"SMART"}
+{"id":"src/strings.c#gText_Tough","kind":"ui","en":"TOUGH"}
+{"id":"src/strings.c#gText_Normal","kind":"ui","en":"NORMAL"}
+{"id":"src/strings.c#gText_Super","kind":"ui","en":"SUPER"}
+{"id":"src/strings.c#gText_Hyper","kind":"ui","en":"HYPER"}
+{"id":"src/strings.c#gText_Master","kind":"ui","en":"MASTER"}
+{"id":"src/strings.c#gText_Cool2","kind":"ui","en":"COOL"}
+{"id":"src/strings.c#gText_Beauty2","kind":"ui","en":"BEAUTY"}
+{"id":"src/strings.c#gText_Cute2","kind":"ui","en":"CUTE"}
+{"id":"src/strings.c#gText_Smart2","kind":"ui","en":"SMART"}
+{"id":"src/strings.c#gText_Tough2","kind":"ui","en":"TOUGH"}
+{"id":"src/strings.c#gText_Items","kind":"ui","en":"ITEMS"}
+{"id":"src/strings.c#gText_Key_Items","kind":"ui","en":"KEY ITEMS"}
+{"id":"src/strings.c#gText_Poke_Balls","kind":"ui","en":"POKé BALLS"}
+{"id":"src/strings.c#gText_TMs_Hms","kind":"ui","en":"TMs & HMs"}
+{"id":"src/strings.c#gText_Berries2","kind":"ui","en":"BERRIES"}
+{"id":"src/strings.c#gText_SomeonesPC","kind":"ui","en":"SOMEONE'S PC"}
+{"id":"src/strings.c#gText_LanettesPC","kind":"ui","en":"LANETTE'S PC"}
+{"id":"src/strings.c#gText_PlayersPC","kind":"ui","en":"{PLAYER}'s PC"}
+{"id":"src/strings.c#gText_HallOfFame","kind":"ui","en":"HALL OF FAME"}
+{"id":"src/strings.c#gText_LogOff","kind":"ui","en":"LOG OFF"}
+{"id":"src/strings.c#gText_Opponent","kind":"ui","en":"OPPONENT"}
+{"id":"src/strings.c#gText_Tourney_Tree","kind":"ui","en":"TOURNEY TREE"}
+{"id":"src/strings.c#gText_ReadyToStart","kind":"ui","en":"READY TO START"}
+{"id":"src/strings.c#gText_NormalRank","kind":"ui","en":"NORMAL RANK"}
+{"id":"src/strings.c#gText_SuperRank","kind":"ui","en":"SUPER RANK"}
+{"id":"src/strings.c#gText_HyperRank","kind":"ui","en":"HYPER RANK"}
+{"id":"src/strings.c#gText_MasterRank","kind":"ui","en":"MASTER RANK"}
+{"id":"src/strings.c#gText_Single2","kind":"ui","en":"SINGLE"}
+{"id":"src/strings.c#gText_Double2","kind":"ui","en":"DOUBLE"}
+{"id":"src/strings.c#gText_Multi","kind":"ui","en":"MULTI"}
+{"id":"src/strings.c#gText_MultiLink","kind":"ui","en":"MULTI-LINK"}
+{"id":"src/strings.c#gText_BattleBag","kind":"ui","en":"BATTLE BAG"}
+{"id":"src/strings.c#gText_HeldItem","kind":"ui","en":"HELD ITEM"}
+{"id":"src/strings.c#gText_LinkContest","kind":"ui","en":"LINK CONTEST"}
+{"id":"src/strings.c#gText_AboutE_Mode","kind":"ui","en":"ABOUT E-MODE"}
+{"id":"src/strings.c#gText_AboutG_Mode","kind":"ui","en":"ABOUT G-MODE"}
+{"id":"src/strings.c#gText_E_Mode","kind":"ui","en":"E-MODE"}
+{"id":"src/strings.c#gText_G_Mode","kind":"ui","en":"G-MODE"}
+{"id":"src/strings.c#gText_MenuOptionPokedex","kind":"ui","en":"POKéDEX"}
+{"id":"src/strings.c#gText_MenuOptionPokemon","kind":"ui","en":"POKéMON"}
+{"id":"src/strings.c#gText_MenuOptionBag","kind":"ui","en":"BAG"}
+{"id":"src/strings.c#gText_MenuOptionPokenav","kind":"ui","en":"POKéNAV"}
+{"id":"src/strings.c#gText_MenuOptionSave","kind":"ui","en":"SAVE"}
+{"id":"src/strings.c#gText_MenuOptionOption","kind":"ui","en":"OPTION"}
+{"id":"src/strings.c#gText_MenuOptionExit","kind":"ui","en":"EXIT"}
+{"id":"src/strings.c#gText_5BP","kind":"ui","en":"  5BP"}
+{"id":"src/strings.c#gText_10BP","kind":"ui","en":"10BP"}
+{"id":"src/strings.c#gText_15BP","kind":"ui","en":"15BP"}
+{"id":"src/strings.c#gText_RedTent","kind":"ui","en":"RED TENT"}
+{"id":"src/strings.c#gText_BlueTent","kind":"ui","en":"BLUE TENT"}
+{"id":"src/strings.c#gText_SouthernIsland","kind":"ui","en":"SOUTHERN ISLAND"}
+{"id":"src/strings.c#gText_BirthIsland","kind":"ui","en":"BIRTH ISLAND"}
+{"id":"src/strings.c#gText_FarawayIsland","kind":"ui","en":"FARAWAY ISLAND"}
+{"id":"src/strings.c#gText_NavelRock","kind":"ui","en":"NAVEL ROCK"}
+{"id":"src/strings.c#gText_ClawFossil","kind":"ui","en":"CLAW FOSSIL"}
+{"id":"src/strings.c#gText_RootFossil","kind":"ui","en":"ROOT FOSSIL"}
+{"id":"src/strings.c#gText_No4","kind":"ui","en":"NO"}
+{"id":"src/strings.c#gText_IllBattleNow","kind":"ui","en":"I'll battle now!"}
+{"id":"src/strings.c#gText_IWon","kind":"ui","en":"I won!"}
+{"id":"src/strings.c#gText_ILost","kind":"ui","en":"I lost!"}
+{"id":"src/strings.c#gText_IWontTell","kind":"ui","en":"I won't tell."}
+{"id":"src/strings.c#gText_NormalTagMatch","kind":"ui","en":"NORMAL TAG MATCH"}
+{"id":"src/strings.c#gText_VarietyTagMatch","kind":"ui","en":"VARIETY TAG MATCH"}
+{"id":"src/strings.c#gText_UniqueTagMatch","kind":"ui","en":"UNIQUE TAG MATCH"}
+{"id":"src/strings.c#gText_ExpertTagMatch","kind":"ui","en":"EXPERT TAG MATCH"}
+{"id":"src/strings.c#gText_TradeCenter","kind":"ui","en":"TRADE CENTER"}
+{"id":"src/strings.c#gText_Colosseum","kind":"ui","en":"COLOSSEUM"}
+{"id":"src/strings.c#gText_RecordCorner","kind":"ui","en":"RECORD CORNER"}
+{"id":"src/strings.c#gText_BerryCrush3","kind":"ui","en":"BERRY CRUSH"}
+{"id":"src/strings.c#gText_PokemonJump","kind":"ui","en":"POKéMON JUMP"}
+{"id":"src/strings.c#gText_DodrioBerryPicking","kind":"ui","en":"DODRIO BERRY-PICKING"}
+{"id":"src/strings.c#gText_BecomeLeader","kind":"ui","en":"BECOME LEADER"}
+{"id":"src/strings.c#gText_JoinGroup","kind":"ui","en":"JOIN GROUP"}
+{"id":"src/strings.c#gText_TwoStyles","kind":"ui","en":"TWO STYLES"}
+{"id":"src/strings.c#gText_Lv50_3","kind":"ui","en":"LV. 50"}
+{"id":"src/strings.c#gText_OpenLevel2","kind":"ui","en":"OPEN LEVEL"}
+{"id":"src/strings.c#gText_MonTypeAndNo","kind":"ui","en":"{PKMN} TYPE & NO."}
+{"id":"src/strings.c#gText_HoldItems","kind":"ui","en":"HOLD ITEMS"}
+{"id":"src/strings.c#gText_Symbols2","kind":"ui","en":"SYMBOLS"}
+{"id":"src/strings.c#gText_Record3","kind":"ui","en":"RECORD"}
+{"id":"src/strings.c#gText_BattlePts","kind":"ui","en":"BATTLE PTS"}
+{"id":"src/strings.c#gText_TowerInfo","kind":"ui","en":"TOWER INFO"}
+{"id":"src/strings.c#gText_BattleMon","kind":"ui","en":"BATTLE {PKMN}"}
+{"id":"src/strings.c#gText_BattleSalon","kind":"ui","en":"BATTLE SALON"}
+{"id":"src/strings.c#gText_MultiLink2","kind":"ui","en":"MULTI-LINK"}
+{"id":"src/strings.c#gText_BattleRules","kind":"ui","en":"BATTLE RULES"}
+{"id":"src/strings.c#gText_JudgeMind","kind":"ui","en":"JUDGE: MIND"}
+{"id":"src/strings.c#gText_JudgeSkill","kind":"ui","en":"JUDGE: SKILL"}
+{"id":"src/strings.c#gText_JudgeBody","kind":"ui","en":"JUDGE: BODY"}
+{"id":"src/strings.c#gText_Matchup","kind":"ui","en":"MATCHUP"}
+{"id":"src/strings.c#gText_TourneyTree","kind":"ui","en":"TOURNEY TREE"}
+{"id":"src/strings.c#gText_DoubleKO","kind":"ui","en":"DOUBLE KO"}
+{"id":"src/strings.c#gText_BasicRules","kind":"ui","en":"BASIC RULES"}
+{"id":"src/strings.c#gText_SwapPartners","kind":"ui","en":"SWAP: PARTNER"}
+{"id":"src/strings.c#gText_SwapNumber","kind":"ui","en":"SWAP: NUMBER"}
+{"id":"src/strings.c#gText_SwapNotes","kind":"ui","en":"SWAP: NOTES"}
+{"id":"src/strings.c#gText_OpenLevel3","kind":"ui","en":"OPEN LEVEL"}
+{"id":"src/strings.c#gText_BattleBasics","kind":"ui","en":"BATTLE BASICS"}
+{"id":"src/strings.c#gText_PokemonNature","kind":"ui","en":"POKéMON NATURE"}
+{"id":"src/strings.c#gText_PokemonMoves","kind":"ui","en":"POKéMON MOVES"}
+{"id":"src/strings.c#gText_Underpowered","kind":"ui","en":"UNDERPOWERED"}
+{"id":"src/strings.c#gText_WhenInDanger","kind":"ui","en":"WHEN IN DANGER"}
+{"id":"src/strings.c#gText_PyramidPokemon","kind":"ui","en":"PYRAMID: POKéMON"}
+{"id":"src/strings.c#gText_PyramidTrainers","kind":"ui","en":"PYRAMID: TRAINERS"}
+{"id":"src/strings.c#gText_PyramidMaze","kind":"ui","en":"PYRAMID: MAZE"}
+{"id":"src/strings.c#gText_BattleBag2","kind":"ui","en":"BATTLE BAG"}
+{"id":"src/strings.c#gText_PokenavAndBag","kind":"ui","en":"POKéNAV AND BAG"}
+{"id":"src/strings.c#gText_HeldItems","kind":"ui","en":"HELD ITEMS"}
+{"id":"src/strings.c#gText_PokemonOrder","kind":"ui","en":"POKéMON ORDER"}
+{"id":"src/strings.c#gText_BattlePokemon","kind":"ui","en":"BATTLE POKéMON"}
+{"id":"src/strings.c#gText_BattleTrainers","kind":"ui","en":"BATTLE TRAINERS"}
+{"id":"src/strings.c#gText_GoOn","kind":"ui","en":"GO ON"}
+{"id":"src/strings.c#gText_Record2","kind":"ui","en":"RECORD"}
+{"id":"src/strings.c#gText_Rest","kind":"ui","en":"REST"}
+{"id":"src/strings.c#gText_Retire","kind":"ui","en":"RETIRE"}
+{"id":"src/strings.c#gText_99TimesPlus","kind":"ui","en":"99 times +"}
+{"id":"src/strings.c#gText_1MinutePlus","kind":"ui","en":"1 minute +"}
+{"id":"src/strings.c#gText_SpaceSeconds","kind":"ui","en":" seconds"}
+{"id":"src/strings.c#gText_SpaceTimes","kind":"ui","en":" time(s)"}
+{"id":"src/strings.c#gText_BigGuy","kind":"ui","en":"Big guy"}
+{"id":"src/strings.c#gText_BigGirl","kind":"ui","en":"Big girl"}
+{"id":"src/strings.c#gText_Son","kind":"ui","en":"son"}
+{"id":"src/strings.c#gText_Daughter","kind":"ui","en":"daughter"}
+{"id":"src/strings.c#gText_BlueFlute","kind":"ui","en":"BLUE FLUTE"}
+{"id":"src/strings.c#gText_YellowFlute","kind":"ui","en":"YELLOW FLUTE"}
+{"id":"src/strings.c#gText_RedFlute","kind":"ui","en":"RED FLUTE"}
+{"id":"src/strings.c#gText_WhiteFlute","kind":"ui","en":"WHITE FLUTE"}
+{"id":"src/strings.c#gText_BlackFlute","kind":"ui","en":"BLACK FLUTE"}
+{"id":"src/strings.c#gText_PrettyChair","kind":"ui","en":"PRETTY CHAIR"}
+{"id":"src/strings.c#gText_PrettyDesk","kind":"ui","en":"PRETTY DESK"}
+{"id":"src/strings.c#gText_Rooftop","kind":"ui","en":"ROOFTOP"}
+{"id":"src/strings.c#gText_ElevatorNowOn","kind":"ui","en":"Now on:"}
+{"id":"src/strings.c#gText_BP","kind":"ui","en":"BP"}
+{"id":"src/strings.c#gText_EnergyPowder50","kind":"ui","en":"ENERGYPOWDER{CLEAR_TO 114}{FONT_SMALL}50"}
+{"id":"src/strings.c#gText_EnergyRoot80","kind":"ui","en":"ENERGY ROOT{CLEAR_TO 114}{FONT_SMALL}80"}
+{"id":"src/strings.c#gText_HealPowder50","kind":"ui","en":"HEAL POWDER{CLEAR_TO 114}{FONT_SMALL}50"}
+{"id":"src/strings.c#gText_RevivalHerb300","kind":"ui","en":"REVIVAL HERB{CLEAR_TO 108}{FONT_SMALL}300"}
+{"id":"src/strings.c#gText_Protein1000","kind":"ui","en":"PROTEIN{CLEAR_TO 99}{FONT_SMALL}1,000"}
+{"id":"src/strings.c#gText_Iron1000","kind":"ui","en":"IRON{CLEAR_TO 99}{FONT_SMALL}1,000"}
+{"id":"src/strings.c#gText_Carbos1000","kind":"ui","en":"CARBOS{CLEAR_TO 99}{FONT_SMALL}1,000"}
+{"id":"src/strings.c#gText_Calcium1000","kind":"ui","en":"CALCIUM{CLEAR_TO 99}{FONT_SMALL}1,000"}
+{"id":"src/strings.c#gText_Zinc1000","kind":"ui","en":"ZINC{CLEAR_TO 99}{FONT_SMALL}1,000"}
+{"id":"src/strings.c#gText_HPUp1000","kind":"ui","en":"HP UP{CLEAR_TO 99}{FONT_SMALL}1,000"}
+{"id":"src/strings.c#gText_PPUp3000","kind":"ui","en":"PP UP{CLEAR_TO 99}{FONT_SMALL}3,000"}
+{"id":"src/strings.c#gText_RankingHall","kind":"ui","en":"RANKING HALL"}
+{"id":"src/strings.c#gText_ExchangeService","kind":"ui","en":"EXCHANGE SERVICE"}
+{"id":"src/strings.c#gText_LilycoveCity","kind":"ui","en":"LILYCOVE CITY"}
+{"id":"src/strings.c#gText_SlateportCity","kind":"ui","en":"SLATEPORT CITY"}
+{"id":"src/strings.c#gText_CaveOfOrigin","kind":"ui","en":"CAVE OF ORIGIN"}
+{"id":"src/strings.c#gText_MtPyre","kind":"ui","en":"MT. PYRE"}
+{"id":"src/strings.c#gText_SkyPillar","kind":"ui","en":"SKY PILLAR"}
+{"id":"src/strings.c#gText_DontRemember","kind":"ui","en":"Don't remember"}
+{"id":"src/strings.c#gText_Exit","kind":"ui","en":"EXIT"}
+{"id":"src/strings.c#gText_ExitFromBox","kind":"ui","en":"Exit from the BOX?"}
+{"id":"src/strings.c#gText_WhatDoYouWantToDo","kind":"ui","en":"What do you want to do?"}
+{"id":"src/strings.c#gText_PleasePickATheme","kind":"ui","en":"Please pick a theme."}
+{"id":"src/strings.c#gText_PickTheWallpaper","kind":"ui","en":"Pick the wallpaper."}
+{"id":"src/strings.c#gText_PkmnIsSelected","kind":"ui","en":"{DYNAMIC 0} is selected."}
+{"id":"src/strings.c#gText_JumpToWhichBox","kind":"ui","en":"Jump to which BOX?"}
+{"id":"src/strings.c#gText_DepositInWhichBox","kind":"ui","en":"Deposit in which BOX?"}
+{"id":"src/strings.c#gText_PkmnWasDeposited","kind":"ui","en":"{DYNAMIC 0} was deposited."}
+{"id":"src/strings.c#gText_BoxIsFull2","kind":"ui","en":"The BOX is full."}
+{"id":"src/strings.c#gText_ReleaseThisPokemon","kind":"ui","en":"Release this POKéMON?"}
+{"id":"src/strings.c#gText_PkmnWasReleased","kind":"ui","en":"{DYNAMIC 0} was released."}
+{"id":"src/strings.c#gText_ByeByePkmn","kind":"ui","en":"Bye-bye, {DYNAMIC 0}!"}
+{"id":"src/strings.c#gText_MarkYourPkmn","kind":"ui","en":"Mark your POKéMON."}
+{"id":"src/strings.c#gText_ThatsYourLastPkmn","kind":"ui","en":"That's your last POKéMON!"}
+{"id":"src/strings.c#gText_YourPartysFull","kind":"ui","en":"Your party's full!"}
+{"id":"src/strings.c#gText_YoureHoldingAPkmn","kind":"ui","en":"You're holding a POKéMON!"}
+{"id":"src/strings.c#gText_WhichOneWillYouTake","kind":"ui","en":"Which one will you take?"}
+{"id":"src/strings.c#gText_YouCantReleaseAnEgg","kind":"ui","en":"You can't release an EGG."}
+{"id":"src/strings.c#gText_ContinueBoxOperations","kind":"ui","en":"Continue BOX operations?"}
+{"id":"src/strings.c#gText_PkmnCameBack","kind":"ui","en":"{DYNAMIC 0} came back!"}
+{"id":"src/strings.c#gText_WasItWorriedAboutYou","kind":"ui","en":"Was it worried about you?"}
+{"id":"src/strings.c#gText_PleaseRemoveTheMail","kind":"ui","en":"Please remove the MAIL."}
+{"id":"src/strings.c#gText_GiveToAPkmn","kind":"ui","en":"GIVE to a POKéMON?"}
+{"id":"src/strings.c#gText_PlacedItemInBag","kind":"ui","en":"Placed item in the BAG."}
+{"id":"src/strings.c#gText_BagIsFull2","kind":"ui","en":"The BAG is full."}
+{"id":"src/strings.c#gText_PutItemInBag","kind":"ui","en":"Put this item in the BAG?"}
+{"id":"src/strings.c#gText_ItemIsNowHeld","kind":"ui","en":"{DYNAMIC 0} is now held."}
+{"id":"src/strings.c#gText_ChangedToNewItem","kind":"ui","en":"Changed to {DYNAMIC 0}."}
+{"id":"src/strings.c#gText_MailCantBeStored","kind":"ui","en":"MAIL can't be stored!"}
+{"id":"src/strings.c#gPCText_Cancel","kind":"ui","en":"CANCEL"}
+{"id":"src/strings.c#gPCText_Store","kind":"ui","en":"STORE"}
+{"id":"src/strings.c#gPCText_Withdraw","kind":"ui","en":"WITHDRAW"}
+{"id":"src/strings.c#gPCText_Shift","kind":"ui","en":"SHIFT"}
+{"id":"src/strings.c#gPCText_Move","kind":"ui","en":"MOVE"}
+{"id":"src/strings.c#gPCText_Place","kind":"ui","en":"PLACE"}
+{"id":"src/strings.c#gPCText_Summary","kind":"ui","en":"SUMMARY"}
+{"id":"src/strings.c#gPCText_Release","kind":"ui","en":"RELEASE"}
+{"id":"src/strings.c#gPCText_Mark","kind":"ui","en":"MARK"}
+{"id":"src/strings.c#gPCText_Name","kind":"ui","en":"NAME"}
+{"id":"src/strings.c#gPCText_Jump","kind":"ui","en":"JUMP"}
+{"id":"src/strings.c#gPCText_Wallpaper","kind":"ui","en":"WALLPAPER"}
+{"id":"src/strings.c#gPCText_Take","kind":"ui","en":"TAKE"}
+{"id":"src/strings.c#gPCText_Give","kind":"ui","en":"GIVE"}
+{"id":"src/strings.c#gPCText_Switch","kind":"ui","en":"SWITCH"}
+{"id":"src/strings.c#gPCText_Bag","kind":"ui","en":"BAG"}
+{"id":"src/strings.c#gPCText_Info","kind":"ui","en":"INFO"}
+{"id":"src/strings.c#gPCText_Scenery1","kind":"ui","en":"SCENERY 1"}
+{"id":"src/strings.c#gPCText_Scenery2","kind":"ui","en":"SCENERY 2"}
+{"id":"src/strings.c#gPCText_Scenery3","kind":"ui","en":"SCENERY 3"}
+{"id":"src/strings.c#gPCText_Etcetera","kind":"ui","en":"ETCETERA"}
+{"id":"src/strings.c#gPCText_Friends","kind":"ui","en":"FRIENDS"}
+{"id":"src/strings.c#gPCText_Forest","kind":"ui","en":"FOREST"}
+{"id":"src/strings.c#gPCText_City","kind":"ui","en":"CITY"}
+{"id":"src/strings.c#gPCText_Desert","kind":"ui","en":"DESERT"}
+{"id":"src/strings.c#gPCText_Savanna","kind":"ui","en":"SAVANNA"}
+{"id":"src/strings.c#gPCText_Crag","kind":"ui","en":"CRAG"}
+{"id":"src/strings.c#gPCText_Volcano","kind":"ui","en":"VOLCANO"}
+{"id":"src/strings.c#gPCText_Snow","kind":"ui","en":"SNOW"}
+{"id":"src/strings.c#gPCText_Cave","kind":"ui","en":"CAVE"}
+{"id":"src/strings.c#gPCText_Beach","kind":"ui","en":"BEACH"}
+{"id":"src/strings.c#gPCText_Seafloor","kind":"ui","en":"SEAFLOOR"}
+{"id":"src/strings.c#gPCText_River","kind":"ui","en":"RIVER"}
+{"id":"src/strings.c#gPCText_Sky","kind":"ui","en":"SKY"}
+{"id":"src/strings.c#gPCText_PolkaDot","kind":"ui","en":"POLKA-DOT"}
+{"id":"src/strings.c#gPCText_Pokecenter","kind":"ui","en":"POKéCENTER"}
+{"id":"src/strings.c#gPCText_Machine","kind":"ui","en":"MACHINE"}
+{"id":"src/strings.c#gPCText_Simple","kind":"ui","en":"SIMPLE"}
+{"id":"src/strings.c#gText_WhatWouldYouLikeToDo","kind":"ui","en":"What would you like to do?"}
+{"id":"src/strings.c#gText_WithdrawPokemon","kind":"ui","en":"WITHDRAW POKéMON"}
+{"id":"src/strings.c#gText_DepositPokemon","kind":"ui","en":"DEPOSIT POKéMON"}
+{"id":"src/strings.c#gText_MovePokemon","kind":"ui","en":"MOVE POKéMON"}
+{"id":"src/strings.c#gText_MoveItems","kind":"ui","en":"MOVE ITEMS"}
+{"id":"src/strings.c#gText_SeeYa","kind":"ui","en":"SEE YA!"}
+{"id":"src/strings.c#gText_WithdrawMonDescription","kind":"ui","en":"Move POKéMON stored in BOXES to\\nyour party."}
+{"id":"src/strings.c#gText_DepositMonDescription","kind":"ui","en":"Store POKéMON in your party in BOXES."}
+{"id":"src/strings.c#gText_MoveMonDescription","kind":"ui","en":"Organize the POKéMON in BOXES and\\nin your party."}
+{"id":"src/strings.c#gText_MoveItemsDescription","kind":"ui","en":"Move items held by any POKéMON\\nin a BOX or your party."}
+{"id":"src/strings.c#gText_SeeYaDescription","kind":"ui","en":"Return to the previous menu."}
+{"id":"src/strings.c#gText_JustOnePkmn","kind":"ui","en":"There is just one POKéMON with you."}
+{"id":"src/strings.c#gText_PartyFull","kind":"ui","en":"Your party is full!"}
+{"id":"src/strings.c#gText_Box","kind":"ui","en":"BOX"}
+{"id":"src/strings.c#gText_CheckMapOfHoenn","kind":"ui","en":"Check the map of the HOENN region."}
+{"id":"src/strings.c#gText_CheckPokemonInDetail","kind":"ui","en":"Check POKéMON in detail."}
+{"id":"src/strings.c#gText_CallRegisteredTrainer","kind":"ui","en":"Call a registered TRAINER."}
+{"id":"src/strings.c#gText_CheckObtainedRibbons","kind":"ui","en":"Check obtained RIBBONS."}
+{"id":"src/strings.c#gText_PutAwayPokenav","kind":"ui","en":"Put away the POKéNAV."}
+{"id":"src/strings.c#gText_NoRibbonWinners","kind":"ui","en":"There are no RIBBON winners."}
+{"id":"src/strings.c#gText_NoTrainersRegistered","kind":"ui","en":"No TRAINERS are registered."}
+{"id":"src/strings.c#gText_CheckPartyPokemonInDetail","kind":"ui","en":"Check party POKéMON in detail."}
+{"id":"src/strings.c#gText_CheckAllPokemonInDetail","kind":"ui","en":"Check all POKéMON in detail."}
+{"id":"src/strings.c#gText_ReturnToPokenavMenu","kind":"ui","en":"Return to the POKéNAV menu."}
+{"id":"src/strings.c#gText_FindCoolPokemon","kind":"ui","en":"Find cool POKéMON."}
+{"id":"src/strings.c#gText_FindBeautifulPokemon","kind":"ui","en":"Find beautiful POKéMON."}
+{"id":"src/strings.c#gText_FindCutePokemon","kind":"ui","en":"Find cute POKéMON."}
+{"id":"src/strings.c#gText_FindSmartPokemon","kind":"ui","en":"Find smart POKéMON."}
+{"id":"src/strings.c#gText_FindToughPokemon","kind":"ui","en":"Find tough POKéMON."}
+{"id":"src/strings.c#gText_ReturnToConditionMenu","kind":"ui","en":"Return to the CONDITION menu."}
+{"id":"src/strings.c#gText_NumberRegistered","kind":"ui","en":"No. registered"}
+{"id":"src/strings.c#gText_NumberOfBattles","kind":"ui","en":"No. of battles"}
+{"id":"src/strings.c#gText_Detail","kind":"ui","en":"DETAIL"}
+{"id":"src/strings.c#gText_Call2","kind":"ui","en":"CALL"}
+{"id":"src/strings.c#gText_UnusedExit","kind":"ui","en":"EXIT"}
+{"id":"src/strings.c#gText_CantCallOpponentHere","kind":"ui","en":"Can't call opponent here."}
+{"id":"src/strings.c#gText_PokenavMatchCall_Strategy","kind":"ui","en":"STRATEGY"}
+{"id":"src/strings.c#gText_PokenavMatchCall_TrainerPokemon","kind":"ui","en":"TRAINER'S POKéMON"}
+{"id":"src/strings.c#gText_PokenavMatchCall_SelfIntroduction","kind":"ui","en":"SELF-INTRODUCTION"}
+{"id":"src/strings.c#gText_PokenavMap_ZoomedOutButtons","kind":"ui","en":"{A_BUTTON}ZOOM {B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_PokenavMap_ZoomedInButtons","kind":"ui","en":"{A_BUTTON}FULL {B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_PokenavCondition_MonListButtons","kind":"ui","en":"{A_BUTTON}CONDITION {B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_PokenavCondition_MonStatusButtons","kind":"ui","en":"{A_BUTTON}MARKINGS {B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_PokenavCondition_MarkingButtons","kind":"ui","en":"{A_BUTTON}SELECT MARK {B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_PokenavMatchCall_TrainerListButtons","kind":"ui","en":"{A_BUTTON}MENU {B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_PokenavMatchCall_CallMenuButtons","kind":"ui","en":"{A_BUTTON}OK {B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_PokenavMatchCall_CheckTrainerButtons","kind":"ui","en":"{B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_PokenavRibbons_MonListButtons","kind":"ui","en":"{A_BUTTON}RIBBONS {B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_PokenavRibbons_RibbonListButtons","kind":"ui","en":"{A_BUTTON}CHECK {B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_PokenavRibbons_RibbonCheckButtons","kind":"ui","en":"{B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_NatureSlash","kind":"ui","en":"NATURE/"}
+{"id":"src/strings.c#gText_TrainerCloseBy","kind":"ui","en":"That TRAINER is close by.\\nTalk to the TRAINER in person!"}
+{"id":"src/strings.c#gText_InParty","kind":"ui","en":"IN PARTY"}
+{"id":"src/strings.c#gText_Number2","kind":"ui","en":"No. "}
+{"id":"src/strings.c#gText_Ribbons","kind":"ui","en":"RIBBONS"}
+{"id":"src/strings.c#gText_Unknown","kind":"ui","en":"UNKNOWN"}
+{"id":"src/strings.c#gText_Call","kind":"ui","en":"CALL"}
+{"id":"src/strings.c#gText_Check","kind":"ui","en":"CHECK"}
+{"id":"src/strings.c#gText_Cancel6","kind":"ui","en":"CANCEL"}
+{"id":"src/strings.c#gText_NumberIndex","kind":"ui","en":"No. {DYNAMIC 0}"}
+{"id":"src/strings.c#gText_RibbonsF700","kind":"ui","en":"RIBBONS {DYNAMIC 0}"}
+{"id":"src/strings.c#gText_CombineFourWordsOrPhrases","kind":"ui","en":"Combine four words or phrases"}
+{"id":"src/strings.c#gText_AndMakeYourProfile","kind":"ui","en":"and make your profile."}
+{"id":"src/strings.c#gText_CombineSixWordsOrPhrases","kind":"ui","en":"Combine six words or phrases"}
+{"id":"src/strings.c#gText_AndMakeAMessage","kind":"ui","en":"and make a message."}
+{"id":"src/strings.c#gText_FindWordsThatDescribeYour","kind":"ui","en":"Find words that describe your"}
+{"id":"src/strings.c#gText_FeelingsRightNow","kind":"ui","en":"feelings right now."}
+{"id":"src/strings.c#gText_WithFourPhrases","kind":"ui","en":"With four phrases,"}
+{"id":"src/strings.c#gText_CombineNineWordsOrPhrases","kind":"ui","en":"Combine nine words or phrases"}
+{"id":"src/strings.c#gText_AndMakeAMessage2","kind":"ui","en":"and make a message."}
+{"id":"src/strings.c#gText_ChangeJustOneWordOrPhrase","kind":"ui","en":"Change just one word or phrase"}
+{"id":"src/strings.c#gText_AndImproveTheBardsSong","kind":"ui","en":"and improve the BARD's song."}
+{"id":"src/strings.c#gText_YourProfile","kind":"ui","en":"Your profile"}
+{"id":"src/strings.c#gText_YourFeelingAtTheBattlesStart","kind":"ui","en":"Your feeling at the battle's start"}
+{"id":"src/strings.c#gText_WhatYouSayIfYouWin","kind":"ui","en":"What you say if you win a battle"}
+{"id":"src/strings.c#gText_WhatYouSayIfYouLose","kind":"ui","en":"What you say if you lose a battle"}
+{"id":"src/strings.c#gText_TheAnswer","kind":"ui","en":"The answer"}
+{"id":"src/strings.c#gText_TheMailMessage","kind":"ui","en":"The MAIL message"}
+{"id":"src/strings.c#gText_TheMailSalutation","kind":"ui","en":"The MAIL salutation"}
+{"id":"src/strings.c#gText_TheBardsSong2","kind":"ui","en":"The new song"}
+{"id":"src/strings.c#gText_CombineTwoWordsOrPhrases","kind":"ui","en":"Combine two words or phrases"}
+{"id":"src/strings.c#gText_AndMakeATrendySaying","kind":"ui","en":"and make a trendy saying."}
+{"id":"src/strings.c#gText_TheTrendySaying","kind":"ui","en":"The trendy saying"}
+{"id":"src/strings.c#gText_IsAsShownOkay","kind":"ui","en":"is as shown. Okay?"}
+{"id":"src/strings.c#gText_CombineTwoWordsOrPhrases2","kind":"ui","en":"Combine two words or phrases"}
+{"id":"src/strings.c#gText_ToTeachHerAGoodSaying","kind":"ui","en":"to teach her a good saying."}
+{"id":"src/strings.c#gText_FindWordsWhichFit","kind":"ui","en":"Find words which fit"}
+{"id":"src/strings.c#gText_TheTrainersImage","kind":"ui","en":"the TRAINER's image."}
+{"id":"src/strings.c#gText_TheImage","kind":"ui","en":"The image:"}
+{"id":"src/strings.c#gText_OutOfTheListedChoices","kind":"ui","en":"Out of the listed choices,"}
+{"id":"src/strings.c#gText_SelectTheAnswerToTheQuiz","kind":"ui","en":"select the answer to the quiz!"}
+{"id":"src/strings.c#gText_AndCreateAQuiz","kind":"ui","en":"and create a quiz!"}
+{"id":"src/strings.c#gText_PickAWordOrPhraseAnd","kind":"ui","en":"Pick a word or phrase and"}
+{"id":"src/strings.c#gText_SetTheQuizAnswer","kind":"ui","en":"set the quiz answer."}
+{"id":"src/strings.c#gText_TheAnswerColon","kind":"ui","en":"The answer:"}
+{"id":"src/strings.c#gText_TheQuizColon","kind":"ui","en":"The quiz:"}
+{"id":"src/strings.c#gText_ApprenticePhrase","kind":"ui","en":"Apprentice's phrase:"}
+{"id":"src/strings.c#gText_QuitEditing","kind":"ui","en":"Quit editing?"}
+{"id":"src/strings.c#gText_StopGivingPkmnMail","kind":"ui","en":"Stop giving the POKéMON MAIL?"}
+{"id":"src/strings.c#gText_AndFillOutTheQuestionnaire","kind":"ui","en":"and fill out the questionnaire."}
+{"id":"src/strings.c#gText_LetsReplyToTheInterview","kind":"ui","en":"Let's reply to the interview!"}
+{"id":"src/strings.c#gText_AllTextBeingEditedWill","kind":"ui","en":"All the text being edited will"}
+{"id":"src/strings.c#gText_BeDeletedThatOkay","kind":"ui","en":"be deleted. Is that okay?"}
+{"id":"src/strings.c#gText_QuitEditing2","kind":"ui","en":"Quit editing?"}
+{"id":"src/strings.c#gText_EditedTextWillNotBeSaved","kind":"ui","en":"The edited text will not be saved."}
+{"id":"src/strings.c#gText_IsThatOkay","kind":"ui","en":"Is that okay?"}
+{"id":"src/strings.c#gText_PleaseEnterPhraseOrWord","kind":"ui","en":"Please enter a phrase or word."}
+{"id":"src/strings.c#gText_EntireTextCantBeDeleted","kind":"ui","en":"The entire text can't be deleted."}
+{"id":"src/strings.c#gText_OnlyOnePhrase","kind":"ui","en":"Only one phrase may be changed."}
+{"id":"src/strings.c#gText_OriginalSongWillBeUsed","kind":"ui","en":"The original song will be used."}
+{"id":"src/strings.c#gText_ThatsTrendyAlready","kind":"ui","en":"That's trendy already!"}
+{"id":"src/strings.c#gText_CombineTwoWordsOrPhrases3","kind":"ui","en":"Combine two words or phrases."}
+{"id":"src/strings.c#gText_QuitGivingInfo","kind":"ui","en":"Quit giving information?"}
+{"id":"src/strings.c#gText_StopGivingPkmnMail2","kind":"ui","en":"Stop giving the POKéMON MAIL?"}
+{"id":"src/strings.c#gText_CreateAQuiz2","kind":"ui","en":"Create a quiz!"}
+{"id":"src/strings.c#gText_SetTheAnswer","kind":"ui","en":"Set the answer!"}
+{"id":"src/strings.c#gText_CancelSelection","kind":"ui","en":"Cancel the selection?"}
+{"id":"src/strings.c#gText_Profile","kind":"ui","en":"PROFILE"}
+{"id":"src/strings.c#gText_AtTheBattlesStart","kind":"ui","en":"At the battle's start:"}
+{"id":"src/strings.c#gText_UponWinningABattle","kind":"ui","en":"Upon winning a battle:"}
+{"id":"src/strings.c#gText_UponLosingABattle","kind":"ui","en":"Upon losing a battle:"}
+{"id":"src/strings.c#gText_TheBardsSong","kind":"ui","en":"The BARD's Song"}
+{"id":"src/strings.c#gText_WhatsHipAndHappening","kind":"ui","en":"What's hip and happening?"}
+{"id":"src/strings.c#gText_Interview","kind":"ui","en":"Interview"}
+{"id":"src/strings.c#gText_GoodSaying","kind":"ui","en":"Good saying"}
+{"id":"src/strings.c#gText_FansQuestion","kind":"ui","en":"Fan's question"}
+{"id":"src/strings.c#gText_ApprenticesPhrase","kind":"ui","en":"Apprentice's phrase"}
+{"id":"src/strings.c#gText_Questionnaire","kind":"ui","en":"QUESTIONNAIRE"}
+{"id":"src/strings.c#gText_YouCannotQuitHere","kind":"ui","en":"You cannot quit here."}
+{"id":"src/strings.c#gText_SectionMustBeCompleted","kind":"ui","en":"This section must be completed."}
+{"id":"src/strings.c#gText_F700sQuiz","kind":"ui","en":"{DYNAMIC 0}'s quiz"}
+{"id":"src/strings.c#gText_Lady","kind":"ui","en":"Lady"}
+{"id":"src/strings.c#gText_AfterYouHaveReadTheQuiz","kind":"ui","en":"After you have read the quiz"}
+{"id":"src/strings.c#gText_QuestionPressTheAButton","kind":"ui","en":"question, press the A Button."}
+{"id":"src/strings.c#gText_TheQuizAnswerIs","kind":"ui","en":"The quiz answer is?"}
+{"id":"src/strings.c#gText_LikeToQuitQuiz","kind":"ui","en":"Would you like to quit this quiz"}
+{"id":"src/strings.c#gText_ChallengeQuestionMark","kind":"ui","en":"challenge?"}
+{"id":"src/strings.c#gText_IsThisQuizOK","kind":"ui","en":"Is this quiz OK?"}
+{"id":"src/strings.c#gText_CreateAQuiz","kind":"ui","en":"Create a quiz!"}
+{"id":"src/strings.c#gText_SelectTheAnswer","kind":"ui","en":"Select the answer!"}
+{"id":"src/strings.c#gText_LyricsCantBeDeleted","kind":"ui","en":"The lyrics can't be deleted."}
+{"id":"src/strings.c#gText_PokemonLeague","kind":"ui","en":"POKéMON LEAGUE"}
+{"id":"src/strings.c#gText_PokemonCenter","kind":"ui","en":"POKéMON CENTER"}
+{"id":"src/strings.c#gText_GetsAPokeBlockQuestion","kind":"ui","en":" gets a {POKEBLOCK}?"}
+{"id":"src/strings.c#gText_Coolness","kind":"ui","en":"Coolness "}
+{"id":"src/strings.c#gText_Beauty3","kind":"ui","en":"Beauty "}
+{"id":"src/strings.c#gText_Cuteness","kind":"ui","en":"Cuteness "}
+{"id":"src/strings.c#gText_Smartness","kind":"ui","en":"Smartness "}
+{"id":"src/strings.c#gText_Toughness","kind":"ui","en":"Toughness "}
+{"id":"src/strings.c#gText_WasEnhanced","kind":"ui","en":"was enhanced!"}
+{"id":"src/strings.c#gText_NothingChanged","kind":"ui","en":"Nothing changed!"}
+{"id":"src/strings.c#gText_WontEatAnymore","kind":"ui","en":"It won't eat anymore…"}
+{"id":"src/strings.c#gText_SaveFailedCheckingBackup","kind":"ui","en":"Save failed. Checking the backup\\nmemory… Please wait.\\n{COLOR RED}“Time required: about 1 minute”"}
+{"id":"src/strings.c#gText_BackupMemoryDamaged","kind":"ui","en":"The backup memory is damaged, or\\nthe internal battery has run dry.\\nYou can still play, but not save."}
+{"id":"src/strings.c#gText_GamePlayCannotBeContinued","kind":"ui","en":"{COLOR RED}“Game play cannot be continued.\\nReturning to the title screen…”"}
+{"id":"src/strings.c#gText_CheckCompleted","kind":"ui","en":"Check completed.\\nAttempting to save again.\\nPlease wait."}
+{"id":"src/strings.c#gText_SaveCompleteGameCannotContinue","kind":"ui","en":"Save completed.\\n{COLOR RED}“Game play cannot be continued.\\nReturning to the title screen.”"}
+{"id":"src/strings.c#gText_SaveCompletePressA","kind":"ui","en":"Save completed.\\n{COLOR RED}“Please press the A Button.”"}
+{"id":"src/strings.c#gText_Ferry","kind":"ui","en":"FERRY"}
+{"id":"src/strings.c#gText_SecretBase","kind":"ui","en":"SECRET BASE"}
+{"id":"src/strings.c#gText_Hideout","kind":"ui","en":"HIDEOUT"}
+{"id":"src/strings.c#gText_ResetRTCConfirmCancel","kind":"ui","en":"Reset RTC?\\nA: Confirm, B: Cancel"}
+{"id":"src/strings.c#gText_PresentTime","kind":"ui","en":"Present time in game"}
+{"id":"src/strings.c#gText_PreviousTime","kind":"ui","en":"Previous time in game"}
+{"id":"src/strings.c#gText_PleaseResetTime","kind":"ui","en":"Please reset the time."}
+{"id":"src/strings.c#gText_ClockHasBeenReset","kind":"ui","en":"The clock has been reset.\\nData will be saved. Please wait."}
+{"id":"src/strings.c#gText_SaveCompleted","kind":"ui","en":"Save completed."}
+{"id":"src/strings.c#gText_SaveFailed","kind":"ui","en":"Save failed…"}
+{"id":"src/strings.c#gText_NoSaveFileCantSetTime","kind":"ui","en":"There is no save file, so the time\\ncan't be set."}
+{"id":"src/strings.c#gText_InGameClockUsable","kind":"ui","en":"The in-game clock adjustment system\\nis now useable."}
+{"id":"src/strings.c#gText_Slots","kind":"ui","en":"SLOTS"}
+{"id":"src/strings.c#gText_Roulette","kind":"ui","en":"ROULETTE"}
+{"id":"src/strings.c#gText_Good","kind":"ui","en":"Good"}
+{"id":"src/strings.c#gText_VeryGood","kind":"ui","en":"Very good"}
+{"id":"src/strings.c#gText_Excellent","kind":"ui","en":"Excellent"}
+{"id":"src/strings.c#gText_SoSo","kind":"ui","en":"So-so"}
+{"id":"src/strings.c#gText_Bad","kind":"ui","en":"Bad"}
+{"id":"src/strings.c#gText_TheWorst","kind":"ui","en":"The worst"}
+{"id":"src/strings.c#gText_Spicy2","kind":"ui","en":"spicy"}
+{"id":"src/strings.c#gText_Dry2","kind":"ui","en":"dry"}
+{"id":"src/strings.c#gText_Sweet2","kind":"ui","en":"sweet"}
+{"id":"src/strings.c#gText_Bitter2","kind":"ui","en":"bitter"}
+{"id":"src/strings.c#gText_Sour2","kind":"ui","en":"sour"}
+{"id":"src/strings.c#gText_Single","kind":"ui","en":"SINGLE"}
+{"id":"src/strings.c#gText_Double","kind":"ui","en":"DOUBLE"}
+{"id":"src/strings.c#gText_Jackpot","kind":"ui","en":"jackpot"}
+{"id":"src/strings.c#gText_First","kind":"ui","en":"first"}
+{"id":"src/strings.c#gText_Second","kind":"ui","en":"second"}
+{"id":"src/strings.c#gText_Third","kind":"ui","en":"third"}
+{"id":"src/strings.c#gText_0Pts","kind":"ui","en":"0 pts"}
+{"id":"src/strings.c#gText_10Pts","kind":"ui","en":"10 pts"}
+{"id":"src/strings.c#gText_20Pts","kind":"ui","en":"20 pts"}
+{"id":"src/strings.c#gText_30Pts","kind":"ui","en":"30 pts"}
+{"id":"src/strings.c#gText_40Pts","kind":"ui","en":"40 pts"}
+{"id":"src/strings.c#gText_50Pts","kind":"ui","en":"50 pts"}
+{"id":"src/strings.c#gText_60Pts","kind":"ui","en":"60 pts"}
+{"id":"src/strings.c#gText_70Pts","kind":"ui","en":"70 pts"}
+{"id":"src/strings.c#gText_80Pts","kind":"ui","en":"80 pts"}
+{"id":"src/strings.c#gText_90Pts","kind":"ui","en":"90 pts"}
+{"id":"src/strings.c#gText_100Pts","kind":"ui","en":"100 pts"}
+{"id":"src/strings.c#gText_KissPoster16BP","kind":"ui","en":"KISS POSTER{CLEAR_TO 94}16BP"}
+{"id":"src/strings.c#gText_KissCushion32BP","kind":"ui","en":"KISS CUSHION{CLEAR_TO 94}32BP"}
+{"id":"src/strings.c#gText_SmoochumDoll32BP","kind":"ui","en":"SMOOCHUM DOLL{CLEAR_TO 94}32BP"}
+{"id":"src/strings.c#gText_TogepiDoll48BP","kind":"ui","en":"TOGEPI DOLL{CLEAR_TO 94}48BP"}
+{"id":"src/strings.c#gText_MeowthDoll48BP","kind":"ui","en":"MEOWTH DOLL{CLEAR_TO 94}48BP"}
+{"id":"src/strings.c#gText_ClefairyDoll48BP","kind":"ui","en":"CLEFAIRY DOLL{CLEAR_TO 94}48BP"}
+{"id":"src/strings.c#gText_DittoDoll48BP","kind":"ui","en":"DITTO DOLL{CLEAR_TO 94}48BP"}
+{"id":"src/strings.c#gText_CyndaquilDoll80BP","kind":"ui","en":"CYNDAQUIL DOLL{CLEAR_TO 94}80BP"}
+{"id":"src/strings.c#gText_ChikoritaDoll80BP","kind":"ui","en":"CHIKORITA DOLL{CLEAR_TO 94}80BP"}
+{"id":"src/strings.c#gText_TotodileDoll80BP","kind":"ui","en":"TOTODILE DOLL{CLEAR_TO 94}80BP"}
+{"id":"src/strings.c#gText_LaprasDoll128BP","kind":"ui","en":"LAPRAS DOLL{CLEAR_TO 88}128BP"}
+{"id":"src/strings.c#gText_SnorlaxDoll128BP","kind":"ui","en":"SNORLAX DOLL{CLEAR_TO 88}128BP"}
+{"id":"src/strings.c#gText_VenusaurDoll256BP","kind":"ui","en":"VENUSAUR DOLL{CLEAR_TO 88}256BP"}
+{"id":"src/strings.c#gText_CharizardDoll256BP","kind":"ui","en":"CHARIZARD DOLL{CLEAR_TO 88}256BP"}
+{"id":"src/strings.c#gText_BlastoiseDoll256BP","kind":"ui","en":"BLASTOISE DOLL{CLEAR_TO 88}256BP"}
+{"id":"src/strings.c#gText_Protein1BP","kind":"ui","en":"PROTEIN{CLEAR_TO 100}1BP"}
+{"id":"src/strings.c#gText_Calcium1BP","kind":"ui","en":"CALCIUM{CLEAR_TO 100}1BP"}
+{"id":"src/strings.c#gText_Iron1BP","kind":"ui","en":"IRON{CLEAR_TO 100}1BP"}
+{"id":"src/strings.c#gText_Zinc1BP","kind":"ui","en":"ZINC{CLEAR_TO 100}1BP"}
+{"id":"src/strings.c#gText_Carbos1BP","kind":"ui","en":"CARBOS{CLEAR_TO 100}1BP"}
+{"id":"src/strings.c#gText_HpUp1BP","kind":"ui","en":"HP UP{CLEAR_TO 100}1BP"}
+{"id":"src/strings.c#gText_Leftovers48BP","kind":"ui","en":"LEFTOVERS{CLEAR_TO 94}48BP"}
+{"id":"src/strings.c#gText_WhiteHerb48BP","kind":"ui","en":"WHITE HERB{CLEAR_TO 94}48BP"}
+{"id":"src/strings.c#gText_QuickClaw48BP","kind":"ui","en":"QUICK CLAW{CLEAR_TO 94}48BP"}
+{"id":"src/strings.c#gText_MentalHerb48BP","kind":"ui","en":"MENTAL HERB{CLEAR_TO 94}48BP"}
+{"id":"src/strings.c#gText_BrightPowder64BP","kind":"ui","en":"BRIGHTPOWDER{CLEAR_TO 94}64BP"}
+{"id":"src/strings.c#gText_ChoiceBand64BP","kind":"ui","en":"CHOICE BAND{CLEAR_TO 94}64BP"}
+{"id":"src/strings.c#gText_KingsRock64BP","kind":"ui","en":"KING'S ROCK{CLEAR_TO 94}64BP"}
+{"id":"src/strings.c#gText_FocusBand64BP","kind":"ui","en":"FOCUS BAND{CLEAR_TO 94}64BP"}
+{"id":"src/strings.c#gText_ScopeLens64BP","kind":"ui","en":"SCOPE LENS{CLEAR_TO 94}64BP"}
+{"id":"src/strings.c#gText_Softboiled16BP","kind":"ui","en":"SOFTBOILED{CLEAR_TO 78}16BP"}
+{"id":"src/strings.c#gText_SeismicToss24BP","kind":"ui","en":"SEISMIC TOSS{CLEAR_TO 78}24BP"}
+{"id":"src/strings.c#gText_DreamEater24BP","kind":"ui","en":"DREAM EATER{CLEAR_TO 78}24BP"}
+{"id":"src/strings.c#gText_MegaPunch24BP","kind":"ui","en":"MEGA PUNCH{CLEAR_TO 78}24BP"}
+{"id":"src/strings.c#gText_MegaKick48BP","kind":"ui","en":"MEGA KICK{CLEAR_TO 78}48BP"}
+{"id":"src/strings.c#gText_BodySlam48BP","kind":"ui","en":"BODY SLAM{CLEAR_TO 78}48BP"}
+{"id":"src/strings.c#gText_RockSlide48BP","kind":"ui","en":"ROCK SLIDE{CLEAR_TO 78}48BP"}
+{"id":"src/strings.c#gText_Counter48BP","kind":"ui","en":"COUNTER{CLEAR_TO 78}48BP"}
+{"id":"src/strings.c#gText_ThunderWave48BP","kind":"ui","en":"THUNDER WAVE{CLEAR_TO 78}48BP"}
+{"id":"src/strings.c#gText_SwordsDance48BP","kind":"ui","en":"SWORDS DANCE{CLEAR_TO 78}48BP"}
+{"id":"src/strings.c#gText_DefenseCurl16BP","kind":"ui","en":"DEFENSE CURL{CLEAR_TO 78}16BP"}
+{"id":"src/strings.c#gText_Snore24BP","kind":"ui","en":"SNORE{CLEAR_TO 78}24BP"}
+{"id":"src/strings.c#gText_MudSlap24BP","kind":"ui","en":"MUD-SLAP{CLEAR_TO 78}24BP"}
+{"id":"src/strings.c#gText_Swift24BP","kind":"ui","en":"SWIFT{CLEAR_TO 78}24BP"}
+{"id":"src/strings.c#gText_IcyWind24BP","kind":"ui","en":"ICY WIND{CLEAR_TO 78}24BP"}
+{"id":"src/strings.c#gText_Endure48BP","kind":"ui","en":"ENDURE{CLEAR_TO 78}48BP"}
+{"id":"src/strings.c#gText_PsychUp48BP","kind":"ui","en":"PSYCH UP{CLEAR_TO 78}48BP"}
+{"id":"src/strings.c#gText_IcePunch48BP","kind":"ui","en":"ICE PUNCH{CLEAR_TO 78}48BP"}
+{"id":"src/strings.c#gText_ThunderPunch48BP","kind":"ui","en":"THUNDERPUNCH{CLEAR_TO 78}48BP"}
+{"id":"src/strings.c#gText_FirePunch48BP","kind":"ui","en":"FIRE PUNCH{CLEAR_TO 78}48BP"}
+{"id":"src/strings.c#gText_PkmnFainted_FldPsn","kind":"ui","en":"{STR_VAR_1} fainted…\\p\\n"}
+{"id":"src/strings.c#gText_Marco","kind":"ui","en":"MARCO"}
+{"id":"src/strings.c#gText_TrainerCardName","kind":"ui","en":"NAME: "}
+{"id":"src/strings.c#gText_TrainerCardIDNo","kind":"ui","en":"IDNo."}
+{"id":"src/strings.c#gText_TrainerCardMoney","kind":"ui","en":"MONEY"}
+{"id":"src/strings.c#gText_TrainerCardPokedex","kind":"ui","en":"POKéDEX"}
+{"id":"src/strings.c#gText_Points","kind":"ui","en":" points"}
+{"id":"src/strings.c#gText_TrainerCardTime","kind":"ui","en":"TIME"}
+{"id":"src/strings.c#gText_Var1sTrainerCard","kind":"ui","en":"{STR_VAR_1}'s TRAINER CARD"}
+{"id":"src/strings.c#gText_HallOfFameDebut","kind":"ui","en":"HALL OF FAME DEBUT  "}
+{"id":"src/strings.c#gText_LinkBattles","kind":"ui","en":"LINK BATTLES"}
+{"id":"src/strings.c#gText_LinkCableBattles","kind":"ui","en":"LINK CABLE BATTLES"}
+{"id":"src/strings.c#gText_PokemonTrades","kind":"ui","en":"POKéMON TRADES"}
+{"id":"src/strings.c#gText_UnionTradesAndBattles","kind":"ui","en":"UNION TRADES & BATTLES"}
+{"id":"src/strings.c#gText_BerryCrush","kind":"ui","en":"BERRY CRUSH"}
+{"id":"src/strings.c#gText_WaitingTrainerFinishReading","kind":"ui","en":"Waiting for the other TRAINER to\\nfinish reading your TRAINER CARD."}
+{"id":"src/strings.c#gText_PokeblocksWithFriends","kind":"ui","en":"{POKEBLOCK}S W/FRIENDS"}
+{"id":"src/strings.c#gText_WonContestsWFriends","kind":"ui","en":"WON CONTESTS W/FRIENDS"}
+{"id":"src/strings.c#gText_BattlePtsWon","kind":"ui","en":"BATTLE POINTS WON"}
+{"id":"src/strings.c#gText_NumBP","kind":"ui","en":"{STR_VAR_1}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BP"}
+{"id":"src/strings.c#gText_BattleTower","kind":"ui","en":"BATTLE TOWER"}
+{"id":"src/strings.c#gText_WinsStraight","kind":"ui","en":"W/{COLOR RED}{SHADOW LIGHT_RED}{STR_VAR_1}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}  STRAIGHT/{COLOR RED}{SHADOW LIGHT_RED}{STR_VAR_2}"}
+{"id":"src/strings.c#gText_BattleTower2","kind":"ui","en":"BATTLE TOWER"}
+{"id":"src/strings.c#gText_BattleDome","kind":"ui","en":"BATTLE DOME"}
+{"id":"src/strings.c#gText_BattlePalace","kind":"ui","en":"BATTLE PALACE"}
+{"id":"src/strings.c#gText_BattleFactory","kind":"ui","en":"BATTLE FACTORY"}
+{"id":"src/strings.c#gText_BattleArena","kind":"ui","en":"BATTLE ARENA"}
+{"id":"src/strings.c#gText_BattlePike","kind":"ui","en":"BATTLE PIKE"}
+{"id":"src/strings.c#gText_BattlePyramid","kind":"ui","en":"BATTLE PYRAMID"}
+{"id":"src/strings.c#gText_FacilitySingle","kind":"ui","en":"{STR_VAR_1} SINGLE"}
+{"id":"src/strings.c#gText_FacilityDouble","kind":"ui","en":"{STR_VAR_1} DOUBLE"}
+{"id":"src/strings.c#gText_FacilityMulti","kind":"ui","en":"{STR_VAR_1} MULTI"}
+{"id":"src/strings.c#gText_FacilityLink","kind":"ui","en":"{STR_VAR_1} LINK"}
+{"id":"src/strings.c#gText_Give","kind":"ui","en":"Give"}
+{"id":"src/strings.c#gText_NoNeed","kind":"ui","en":"No need"}
+{"id":"src/strings.c#gText_AnnouncingResults","kind":"ui","en":"Announcing the results!"}
+{"id":"src/strings.c#gText_PreliminaryResults","kind":"ui","en":"The preliminary results!"}
+{"id":"src/strings.c#gText_Round2Results","kind":"ui","en":"Round 2 results!"}
+{"id":"src/strings.c#gText_ContestantsMonWon","kind":"ui","en":"{STR_VAR_1}'s {STR_VAR_2} won!"}
+{"id":"src/strings.c#gText_CommunicationStandby","kind":"ui","en":"Communication standby…"}
+{"id":"src/strings.c#gText_Upper","kind":"ui","en":"UPPER"}
+{"id":"src/strings.c#gText_Lower","kind":"ui","en":"lower"}
+{"id":"src/strings.c#gText_Others","kind":"ui","en":"OTHERS"}
+{"id":"src/strings.c#gText_Symbols","kind":"ui","en":"SYMBOLS"}
+{"id":"src/strings.c#gText_Register2","kind":"ui","en":"REGISTER"}
+{"id":"src/strings.c#gText_Exit2","kind":"ui","en":"EXIT"}
+{"id":"src/strings.c#gText_QuitChatting","kind":"ui","en":"Quit chatting?"}
+{"id":"src/strings.c#gText_RegisterTextWhere","kind":"ui","en":"Register text where?"}
+{"id":"src/strings.c#gText_RegisterTextHere","kind":"ui","en":"Register text here?"}
+{"id":"src/strings.c#gText_InputText","kind":"ui","en":"Input text."}
+{"id":"src/strings.c#gText_F700JoinedChat","kind":"ui","en":"{DYNAMIC 0} joined the chat!"}
+{"id":"src/strings.c#gText_F700LeftChat","kind":"ui","en":"{DYNAMIC 0} left the chat."}
+{"id":"src/strings.c#gText_ExitingChat","kind":"ui","en":"Exiting the chat…"}
+{"id":"src/strings.c#gText_LeaderLeftEndingChat","kind":"ui","en":"The LEADER, {DYNAMIC 0}, has\\nleft, ending the chat."}
+{"id":"src/strings.c#gText_RegisteredTextChangedOKToSave","kind":"ui","en":"The registered text has been changed.\\nIs it okay to save the game?"}
+{"id":"src/strings.c#gText_AlreadySavedFile_Chat","kind":"ui","en":"There is already a saved file.\\nIs it okay to overwrite it?"}
+{"id":"src/strings.c#gText_SavingDontTurnOff_Chat","kind":"ui","en":"SAVING…\\nDON'T TURN OFF THE POWER."}
+{"id":"src/strings.c#gText_PlayerSavedGame_Chat","kind":"ui","en":"{DYNAMIC 0} saved the game."}
+{"id":"src/strings.c#gText_IfLeaderLeavesChatEnds","kind":"ui","en":"If the LEADER leaves, the chat\\nwill end. Is that okay?"}
+{"id":"src/strings.c#gText_Hello","kind":"ui","en":"HELLO"}
+{"id":"src/strings.c#gText_Pokemon2","kind":"ui","en":"POKéMON"}
+{"id":"src/strings.c#gText_Trade","kind":"ui","en":"TRADE"}
+{"id":"src/strings.c#gText_Battle","kind":"ui","en":"BATTLE"}
+{"id":"src/strings.c#gText_Lets","kind":"ui","en":"LET'S"}
+{"id":"src/strings.c#gText_Ok","kind":"ui","en":"OK!"}
+{"id":"src/strings.c#gText_Sorry","kind":"ui","en":"SORRY"}
+{"id":"src/strings.c#gText_YaySmileEmoji","kind":"ui","en":"YAY{EMOJI_BIGSMILE}"}
+{"id":"src/strings.c#gText_ThankYou","kind":"ui","en":"THANK YOU"}
+{"id":"src/strings.c#gText_ByeBye","kind":"ui","en":"BYE-BYE!"}
+{"id":"src/strings.c#gText_MatchCallSteven_Strategy","kind":"ui","en":"Attack the weak points!"}
+{"id":"src/strings.c#gText_MatchCallSteven_Pokemon","kind":"ui","en":"Ultimate STEEL POKéMON."}
+{"id":"src/strings.c#gText_MatchCallSteven_Intro1_BeforeMeteorFallsBattle","kind":"ui","en":"I'd climb even waterfalls"}
+{"id":"src/strings.c#gText_MatchCallSteven_Intro2_BeforeMeteorFallsBattle","kind":"ui","en":"to find a rare stone!"}
+{"id":"src/strings.c#gText_MatchCallSteven_Intro1_AfterMeteorFallsBattle","kind":"ui","en":"I'm the strongest and most"}
+{"id":"src/strings.c#gText_MatchCallSteven_Intro2_AfterMeteorFallsBattle","kind":"ui","en":"energetic after all!"}
+{"id":"src/strings.c#gText_MatchCallBrendan_Strategy","kind":"ui","en":"Battle with knowledge!"}
+{"id":"src/strings.c#gText_MatchCallBrendan_Pokemon","kind":"ui","en":"I will use various POKéMON."}
+{"id":"src/strings.c#gText_MatchCallBrendan_Intro1","kind":"ui","en":"I'll be a better POKéMON"}
+{"id":"src/strings.c#gText_MatchCallBrendan_Intro2","kind":"ui","en":"prof than my father is!"}
+{"id":"src/strings.c#gText_MatchCallMay_Strategy","kind":"ui","en":"I'm not so good at battles."}
+{"id":"src/strings.c#gText_MatchCallMay_Pokemon","kind":"ui","en":"I'll use any POKéMON!"}
+{"id":"src/strings.c#gText_MatchCallMay_Intro1","kind":"ui","en":"My POKéMON and I help"}
+{"id":"src/strings.c#gText_MatchCallMay_Intro2","kind":"ui","en":"my father's research."}
+{"id":"src/strings.c#gText_HatchedFromEgg","kind":"ui","en":"{STR_VAR_1} hatched from the EGG!"}
+{"id":"src/strings.c#gText_NicknameHatchPrompt","kind":"ui","en":"Would you like to nickname the newly\\nhatched {STR_VAR_1}?"}
+{"id":"src/strings.c#gText_ReadyPickBerry","kind":"ui","en":"Are you ready to BERRY-CRUSH?\\nPlease pick a BERRY for use.\\p"}
+{"id":"src/strings.c#gText_WaitForAllChooseBerry","kind":"ui","en":"Please wait while each member\\nchooses a BERRY."}
+{"id":"src/strings.c#gText_EndedWithXUnitsPowder","kind":"ui","en":"{PAUSE_MUSIC}{PLAY_BGM MUS_LEVEL_UP}You ended up with {STR_VAR_1} units of\\nsilky-smooth BERRY POWDER.{RESUME_MUSIC}\\pYour total amount of BERRY POWDER\\nis {STR_VAR_2}.\\p"}
+{"id":"src/strings.c#gText_RecordingGameResults","kind":"ui","en":"Recording your game results in the\\nsave file.\\lPlease wait."}
+{"id":"src/strings.c#gText_PlayBerryCrushAgain","kind":"ui","en":"Want to play BERRY CRUSH again?"}
+{"id":"src/strings.c#gText_YouHaveNoBerries","kind":"ui","en":"You have no BERRIES.\\nThe game will be canceled."}
+{"id":"src/strings.c#gText_MemberDroppedOut","kind":"ui","en":"A member dropped out.\\nThe game will be canceled."}
+{"id":"src/strings.c#gText_TimesUpNoGoodPowder","kind":"ui","en":"Time's up.\\pGood BERRY POWDER could not be\\nmade…\\p"}
+{"id":"src/strings.c#gText_CommunicationStandby2","kind":"ui","en":"Communication standby…"}
+{"id":"src/strings.c#gText_SpaceTimes2","kind":"ui","en":" time(s)"}
+{"id":"src/strings.c#gText_Var1Berry","kind":"ui","en":"{STR_VAR_1} BERRY"}
+{"id":"src/strings.c#gText_TimeColon","kind":"ui","en":"Time:"}
+{"id":"src/strings.c#gText_PressingSpeed","kind":"ui","en":"Pressing Speed:"}
+{"id":"src/strings.c#gText_Silkiness","kind":"ui","en":"Silkiness:"}
+{"id":"src/strings.c#gText_SpaceMin","kind":"ui","en":" min. "}
+{"id":"src/strings.c#gText_SpaceSec","kind":"ui","en":" sec."}
+{"id":"src/strings.c#gText_TimesPerSec","kind":"ui","en":" Times/sec."}
+{"id":"src/strings.c#gText_PressesRankings","kind":"ui","en":"No. of Presses Rankings"}
+{"id":"src/strings.c#gText_CrushingResults","kind":"ui","en":"Crushing Results"}
+{"id":"src/strings.c#gText_NeatnessRankings","kind":"ui","en":"Neatness Rankings"}
+{"id":"src/strings.c#gText_CoopRankings","kind":"ui","en":"Cooperative Rankings"}
+{"id":"src/strings.c#gText_PressingPowerRankings","kind":"ui","en":"Pressing-Power Rankings"}
+{"id":"src/strings.c#gText_BerryCrush2","kind":"ui","en":"BERRY CRUSH"}
+{"id":"src/strings.c#gText_PressingSpeedRankings","kind":"ui","en":"Pressing-Speed Rankings"}
+{"id":"src/strings.c#gText_Var1Players","kind":"ui","en":"{STR_VAR_1} PLAYERS"}
+{"id":"src/strings.c#gText_SymbolsEarned","kind":"ui","en":"Symbols Earned"}
+{"id":"src/strings.c#gText_BattleRecord","kind":"ui","en":"Battle Record"}
+{"id":"src/strings.c#gText_BattlePoints","kind":"ui","en":"Battle Points"}
+{"id":"src/strings.c#gText_UnusedCancel","kind":"ui","en":"CANCEL"}
+{"id":"src/strings.c#gText_CheckFrontierMap","kind":"ui","en":"Check BATTLE FRONTIER MAP."}
+{"id":"src/strings.c#gText_CheckTrainerCard","kind":"ui","en":"Check TRAINER CARD."}
+{"id":"src/strings.c#gText_ViewRecordedBattle","kind":"ui","en":"View recorded battle."}
+{"id":"src/strings.c#gText_PutAwayFrontierPass","kind":"ui","en":"Put away the FRONTIER PASS."}
+{"id":"src/strings.c#gText_CurrentBattlePoints","kind":"ui","en":"Your current Battle Points."}
+{"id":"src/strings.c#gText_CollectedSymbols","kind":"ui","en":"Your collected Symbols."}
+{"id":"src/strings.c#gText_BattleTowerAbilitySymbol","kind":"ui","en":"Battle Tower - Ability Symbol"}
+{"id":"src/strings.c#gText_BattleDomeTacticsSymbol","kind":"ui","en":"Battle Dome - Tactics Symbol"}
+{"id":"src/strings.c#gText_BattlePalaceSpiritsSymbol","kind":"ui","en":"Battle Palace - Spirits Symbol"}
+{"id":"src/strings.c#gText_BattleArenaGutsSymbol","kind":"ui","en":"Battle Arena - Guts Symbol"}
+{"id":"src/strings.c#gText_BattleFactoryKnowledgeSymbol","kind":"ui","en":"Battle Factory - Knowledge Symbol"}
+{"id":"src/strings.c#gText_BattlePikeLuckSymbol","kind":"ui","en":"Battle Pike - Luck Symbol"}
+{"id":"src/strings.c#gText_BattlePyramidBraveSymbol","kind":"ui","en":"Battle Pyramid - Brave Symbol"}
+{"id":"src/strings.c#gText_ThereIsNoBattleRecord","kind":"ui","en":"There is no Battle Record."}
+{"id":"src/strings.c#gText_BattleTower3","kind":"ui","en":"BATTLE TOWER"}
+{"id":"src/strings.c#gText_BattleDome2","kind":"ui","en":"BATTLE DOME"}
+{"id":"src/strings.c#gText_BattlePalace2","kind":"ui","en":"BATTLE PALACE"}
+{"id":"src/strings.c#gText_BattleArena2","kind":"ui","en":"BATTLE ARENA"}
+{"id":"src/strings.c#gText_BattleFactory2","kind":"ui","en":"BATTLE FACTORY"}
+{"id":"src/strings.c#gText_BattlePike2","kind":"ui","en":"BATTLE PIKE"}
+{"id":"src/strings.c#gText_BattlePyramid2","kind":"ui","en":"BATTLE PYRAMID"}
+{"id":"src/strings.c#gText_BattleTowerDesc","kind":"ui","en":"KO opponents and aim for the top!\\nYour ability will be tested."}
+{"id":"src/strings.c#gText_BattleDomeDesc","kind":"ui","en":"Keep winning at the tournament!\\nYour tactics will be tested."}
+{"id":"src/strings.c#gText_BattlePalaceDesc","kind":"ui","en":"Watch your POKéMON battle!\\nYour spirit will be tested."}
+{"id":"src/strings.c#gText_BattleArenaDesc","kind":"ui","en":"Win battles with teamed-up POKéMON!\\nYour guts will be tested."}
+{"id":"src/strings.c#gText_BattleFactoryDesc","kind":"ui","en":"Aim for victory using rental POKéMON!\\nYour knowledge will be tested."}
+{"id":"src/strings.c#gText_BattlePikeDesc","kind":"ui","en":"Select one of three paths to battle!\\nYour luck will be tested."}
+{"id":"src/strings.c#gText_BattlePyramidDesc","kind":"ui","en":"Aim for the top with exploration!\\nYour bravery will be tested."}
+{"id":"src/strings.c#gText_ContinueMenuPlayer","kind":"ui","en":"PLAYER"}
+{"id":"src/strings.c#gText_ContinueMenuTime","kind":"ui","en":"TIME"}
+{"id":"src/strings.c#gText_ContinueMenuPokedex","kind":"ui","en":"POKéDEX"}
+{"id":"src/strings.c#gText_ContinueMenuBadges","kind":"ui","en":"BADGES"}
+{"id":"src/strings.c#gText_Powder","kind":"ui","en":"POWDER"}
+{"id":"src/strings.c#gText_BerryPickingRecords","kind":"ui","en":"DODRIO BERRY-PICKING RECORDS"}
+{"id":"src/strings.c#gText_BerriesPicked","kind":"ui","en":"BERRIES picked:"}
+{"id":"src/strings.c#gText_BestScore","kind":"ui","en":"Best score:"}
+{"id":"src/strings.c#gText_BerriesInRowFivePlayers","kind":"ui","en":"BERRIES picked in a row with\\nfive players:"}
+{"id":"src/strings.c#gText_BerryPickingResults","kind":"ui","en":"Announcing BERRY-PICKING results!"}
+{"id":"src/strings.c#gText_AnnouncingRankings","kind":"ui","en":"Announcing rankings!"}
+{"id":"src/strings.c#gText_AnnouncingPrizes","kind":"ui","en":"Announcing prizes!"}
+{"id":"src/strings.c#gText_FirstPlacePrize","kind":"ui","en":"The first-place winner gets\\nthis {DYNAMIC 0}!"}
+{"id":"src/strings.c#gText_CantHoldAnyMore","kind":"ui","en":"You can't hold any more!"}
+{"id":"src/strings.c#gText_FilledStorageSpace","kind":"ui","en":"It filled its storage space."}
+{"id":"src/strings.c#gText_WantToPlayAgain","kind":"ui","en":"Want to play again?"}
+{"id":"src/strings.c#gText_SomeoneDroppedOut","kind":"ui","en":"Somebody dropped out.\\nThe link will be canceled."}
+{"id":"src/strings.c#gText_SpacePoints","kind":"ui","en":" points"}
+{"id":"src/strings.c#gText_CommunicationStandby3","kind":"ui","en":"Communication standby…"}
+{"id":"src/strings.c#gText_SpacePoints2","kind":"ui","en":" points"}
+{"id":"src/strings.c#gText_SpaceTimes3","kind":"ui","en":" time(s)"}
+{"id":"src/strings.c#gText_PkmnJumpRecords","kind":"ui","en":"POKéMON JUMP RECORDS"}
+{"id":"src/strings.c#gText_JumpsInARow","kind":"ui","en":"Jumps in a row:"}
+{"id":"src/strings.c#gText_BestScore2","kind":"ui","en":"Best score:"}
+{"id":"src/strings.c#gText_ExcellentsInARow","kind":"ui","en":"EXCELLENTS in a row:"}
+{"id":"src/strings.c#gText_AwesomeWonF701F700","kind":"ui","en":"Awesome score! You've\\nwon {DYNAMIC 1} {DYNAMIC 0}!"}
+{"id":"src/strings.c#gText_FilledStorageSpace2","kind":"ui","en":"It filled its storage space."}
+{"id":"src/strings.c#gText_CantHoldMore","kind":"ui","en":"You can't hold any more!"}
+{"id":"src/strings.c#gText_WantToPlayAgain2","kind":"ui","en":"Want to play again?"}
+{"id":"src/strings.c#gText_SomeoneDroppedOut2","kind":"ui","en":"Somebody dropped out.\\nThe link will be canceled."}
+{"id":"src/strings.c#gText_CommunicationStandby4","kind":"ui","en":"Communication standby…"}
+{"id":"src/strings.c#gText_LinkContestResults","kind":"ui","en":"{PLAYER}'s Link Contest Results"}
+{"id":"src/strings.c#gText_1st","kind":"ui","en":"1st"}
+{"id":"src/strings.c#gText_2nd","kind":"ui","en":"2nd"}
+{"id":"src/strings.c#gText_3rd","kind":"ui","en":"3rd"}
+{"id":"src/strings.c#gText_4th","kind":"ui","en":"4th"}
+{"id":"src/strings.c#gText_Friend","kind":"ui","en":"Friend"}
+{"id":"src/strings.c#gText_Pokemon3","kind":"ui","en":"POKeMON"}
+{"id":"src/strings.c#gText_Red","kind":"ui","en":"RED"}
+{"id":"src/strings.c#gText_Blue","kind":"ui","en":"BLUE"}
+{"id":"src/strings.c#gText_SingleBattleRoomResults","kind":"ui","en":"{PLAYER}'s Single Battle Room Results"}
+{"id":"src/strings.c#gText_DoubleBattleRoomResults","kind":"ui","en":"{PLAYER}'s Double Battle Room Results"}
+{"id":"src/strings.c#gText_MultiBattleRoomResults","kind":"ui","en":"{PLAYER}'s Multi Battle Room Results"}
+{"id":"src/strings.c#gText_LinkMultiBattleRoomResults","kind":"ui","en":"{PLAYER}'s Link Multi Battle Room Results"}
+{"id":"src/strings.c#gText_SingleBattleTourneyResults","kind":"ui","en":"{PLAYER}'s Single Battle Tourney Results"}
+{"id":"src/strings.c#gText_DoubleBattleTourneyResults","kind":"ui","en":"{PLAYER}'s Double Battle Tourney Results"}
+{"id":"src/strings.c#gText_SingleBattleHallResults","kind":"ui","en":"{PLAYER}'s Single Battle Hall Results"}
+{"id":"src/strings.c#gText_DoubleBattleHallResults","kind":"ui","en":"{PLAYER}'s Double Battle Hall Results"}
+{"id":"src/strings.c#gText_BattleChoiceResults","kind":"ui","en":"{PLAYER}'s Battle Choice Results"}
+{"id":"src/strings.c#gText_SetKOTourneyResults","kind":"ui","en":"{PLAYER}'s Set KO Tourney Results"}
+{"id":"src/strings.c#gText_BattleSwapSingleResults","kind":"ui","en":"{PLAYER}'s Battle Swap Single Results"}
+{"id":"src/strings.c#gText_BattleSwapDoubleResults","kind":"ui","en":"{PLAYER}'s Battle Swap Double Results"}
+{"id":"src/strings.c#gText_BattleQuestResults","kind":"ui","en":"{PLAYER}'s Battle Quest Results"}
+{"id":"src/strings.c#gText_Lv502","kind":"ui","en":"LV. 50"}
+{"id":"src/strings.c#gText_OpenLv","kind":"ui","en":"OPEN LV."}
+{"id":"src/strings.c#gText_WinStreak","kind":"ui","en":"Win streak: {STR_VAR_1}"}
+{"id":"src/strings.c#gText_Current","kind":"ui","en":"CURRENT"}
+{"id":"src/strings.c#gText_Record","kind":"ui","en":"RECORD"}
+{"id":"src/strings.c#gText_Prev","kind":"ui","en":"PREV."}
+{"id":"src/strings.c#gText_RentalSwap","kind":"ui","en":"Rental/Swap"}
+{"id":"src/strings.c#gText_Total","kind":"ui","en":"Total"}
+{"id":"src/strings.c#gText_ClearStreak","kind":"ui","en":"Clear streak: {STR_VAR_1}"}
+{"id":"src/strings.c#gText_Championships","kind":"ui","en":"Championships: {STR_VAR_1}"}
+{"id":"src/strings.c#gText_RoomsCleared","kind":"ui","en":"Rooms cleared: {STR_VAR_1}"}
+{"id":"src/strings.c#gText_TimesCleared","kind":"ui","en":"Times cleared:{CLEAR 5}{STR_VAR_1}"}
+{"id":"src/strings.c#gText_KOsInARow","kind":"ui","en":"KOs in a row: {STR_VAR_1}"}
+{"id":"src/strings.c#gText_TimesVar1","kind":"ui","en":"Times: {STR_VAR_1}"}
+{"id":"src/strings.c#gText_FloorsCleared","kind":"ui","en":"Floors cleared: {STR_VAR_1}"}
+{"id":"src/strings.c#gText_RecordsLv50","kind":"ui","en":"LV. 50"}
+{"id":"src/strings.c#gText_RecordsOpenLevel","kind":"ui","en":"OPEN LEVEL"}
+{"id":"src/strings.c#gText_FrontierFacilityWinStreak","kind":"ui","en":"Win streak: {STR_VAR_2}"}
+{"id":"src/strings.c#gText_FrontierFacilityClearStreak","kind":"ui","en":"Clear streak: {STR_VAR_2}"}
+{"id":"src/strings.c#gText_FrontierFacilityRoomsCleared","kind":"ui","en":"Rooms cleared: {STR_VAR_2}"}
+{"id":"src/strings.c#gText_FrontierFacilityKOsStreak","kind":"ui","en":"KOs in a row: {STR_VAR_2}"}
+{"id":"src/strings.c#gText_FrontierFacilityFloorsCleared","kind":"ui","en":"Floors cleared: {STR_VAR_2}"}
+{"id":"src/strings.c#gText_SavingDontTurnOff2","kind":"ui","en":"SAVING…\\nDON'T TURN OFF THE POWER."}
+{"id":"src/strings.c#gText_BlenderMaxSpeedRecord","kind":"ui","en":"BERRY BLENDER\\nMAXIMUM SPEED RECORD!"}
+{"id":"src/strings.c#gText_234Players","kind":"ui","en":"2 PLAYERS\\n3 PLAYERS\\n4 PLAYERS"}
+{"id":"src/strings.c#gText_YesNo","kind":"ui","en":"YES\\nNO"}
+{"id":"src/strings.c#gText_Peekaboo","kind":"ui","en":"PEEKABOO!"}
+{"id":"src/strings.c#gText_CommErrorCheckConnections","kind":"ui","en":"Communication error…\\nPlease check all connections,\\nthen turn the power OFF and ON."}
+{"id":"src/strings.c#gText_CommErrorEllipsis","kind":"ui","en":"Communication error…"}
+{"id":"src/strings.c#gText_MoveCloserToLinkPartner","kind":"ui","en":"Move closer to your link partner(s).\\nAvoid obstacles between partners."}
+{"id":"src/strings.c#gText_ABtnRegistrationCounter","kind":"ui","en":"A Button: Registration Counter"}
+{"id":"src/strings.c#gText_ABtnTitleScreen","kind":"ui","en":"A Button: Title Screen"}
+{"id":"src/strings.c#gText_Option","kind":"ui","en":"OPTION"}
+{"id":"src/strings.c#gText_TextSpeed","kind":"ui","en":"TEXT SPEED"}
+{"id":"src/strings.c#gText_BattleScene","kind":"ui","en":"BATTLE SCENE"}
+{"id":"src/strings.c#gText_BattleStyle","kind":"ui","en":"BATTLE STYLE"}
+{"id":"src/strings.c#gText_Sound","kind":"ui","en":"SOUND"}
+{"id":"src/strings.c#gText_Frame","kind":"ui","en":"FRAME"}
+{"id":"src/strings.c#gText_OptionMenuCancel","kind":"ui","en":"CANCEL"}
+{"id":"src/strings.c#gText_ButtonMode","kind":"ui","en":"BUTTON MODE"}
+{"id":"src/strings.c#gText_TextSpeedSlow","kind":"ui","en":"{COLOR GREEN}{SHADOW LIGHT_GREEN}SLOW"}
+{"id":"src/strings.c#gText_TextSpeedMid","kind":"ui","en":"{COLOR GREEN}{SHADOW LIGHT_GREEN}MID"}
+{"id":"src/strings.c#gText_TextSpeedFast","kind":"ui","en":"{COLOR GREEN}{SHADOW LIGHT_GREEN}FAST"}
+{"id":"src/strings.c#gText_BattleSceneOn","kind":"ui","en":"{COLOR GREEN}{SHADOW LIGHT_GREEN}ON"}
+{"id":"src/strings.c#gText_BattleSceneOff","kind":"ui","en":"{COLOR GREEN}{SHADOW LIGHT_GREEN}OFF"}
+{"id":"src/strings.c#gText_BattleStyleShift","kind":"ui","en":"{COLOR GREEN}{SHADOW LIGHT_GREEN}SHIFT"}
+{"id":"src/strings.c#gText_BattleStyleSet","kind":"ui","en":"{COLOR GREEN}{SHADOW LIGHT_GREEN}SET"}
+{"id":"src/strings.c#gText_SoundMono","kind":"ui","en":"{COLOR GREEN}{SHADOW LIGHT_GREEN}MONO"}
+{"id":"src/strings.c#gText_SoundStereo","kind":"ui","en":"{COLOR GREEN}{SHADOW LIGHT_GREEN}STEREO"}
+{"id":"src/strings.c#gText_FrameType","kind":"ui","en":"{COLOR GREEN}{SHADOW LIGHT_GREEN}TYPE"}
+{"id":"src/strings.c#gText_ButtonTypeNormal","kind":"ui","en":"{COLOR GREEN}{SHADOW LIGHT_GREEN}NORMAL"}
+{"id":"src/strings.c#gText_ButtonTypeLR","kind":"ui","en":"{COLOR GREEN}{SHADOW LIGHT_GREEN}LR"}
+{"id":"src/strings.c#gText_NumPlayerLink","kind":"ui","en":"{STR_VAR_1}P LINK"}
+{"id":"src/strings.c#gText_BronzeCard","kind":"ui","en":"BRONZE"}
+{"id":"src/strings.c#gText_CopperCard","kind":"ui","en":"COPPER"}
+{"id":"src/strings.c#gText_SilverCard","kind":"ui","en":"SILVER"}
+{"id":"src/strings.c#gText_GoldCard","kind":"ui","en":"GOLD"}
+{"id":"src/strings.c#gText_Day","kind":"ui","en":"DAY"}
+{"id":"src/strings.c#gText_Confirm2","kind":"ui","en":"CONFIRM"}
+{"id":"src/strings.c#gText_Days","kind":"ui","en":"Days"}
+{"id":"src/strings.c#gText_TimeColon2","kind":"ui","en":"Time:"}
+{"id":"src/strings.c#gText_GameTime","kind":"ui","en":"Game time"}
+{"id":"src/strings.c#gText_RTCTime","kind":"ui","en":"RTC time"}
+{"id":"src/strings.c#gText_UpdatedTime","kind":"ui","en":"Updated time"}
+{"id":"src/strings.c#gText_MenuPokedex","kind":"ui","en":"POKéDEX"}
+{"id":"src/strings.c#gText_MenuPokemon","kind":"ui","en":"POKéMON"}
+{"id":"src/strings.c#gText_MenuBag","kind":"ui","en":"BAG"}
+{"id":"src/strings.c#gText_MenuPokenav","kind":"ui","en":"POKéNAV"}
+{"id":"src/strings.c#gText_MenuSave","kind":"ui","en":"SAVE"}
+{"id":"src/strings.c#gText_MenuOption","kind":"ui","en":"OPTION"}
+{"id":"src/strings.c#gText_MenuExit","kind":"ui","en":"EXIT"}
+{"id":"src/strings.c#gText_MenuRetire","kind":"ui","en":"RETIRE"}
+{"id":"src/strings.c#gText_MenuRest","kind":"ui","en":"REST"}
+{"id":"src/strings.c#gText_SafariBallStock","kind":"ui","en":"SAFARI BALLS\\nStock: {STR_VAR_1}"}
+{"id":"src/strings.c#gText_BattlePyramidFloor","kind":"ui","en":"Battle Pyramid\\n{STR_VAR_1}"}
+{"id":"src/strings.c#gText_Floor1","kind":"ui","en":"Floor 1"}
+{"id":"src/strings.c#gText_Floor2","kind":"ui","en":"Floor 2"}
+{"id":"src/strings.c#gText_Floor3","kind":"ui","en":"Floor 3"}
+{"id":"src/strings.c#gText_Floor4","kind":"ui","en":"Floor 4"}
+{"id":"src/strings.c#gText_Floor5","kind":"ui","en":"Floor 5"}
+{"id":"src/strings.c#gText_Floor6","kind":"ui","en":"Floor 6"}
+{"id":"src/strings.c#gText_Floor7","kind":"ui","en":"Floor 7"}
+{"id":"src/strings.c#gText_Peak","kind":"ui","en":"Peak"}
+{"id":"src/strings.c#gText_LinkStandby2","kind":"ui","en":"Link standby…\\n… … B Button: Cancel"}
+{"id":"src/strings.c#gText_PressAToLoadEvent","kind":"ui","en":"Press the A Button to load event.\\n… … B Button: Cancel"}
+{"id":"src/strings.c#gText_LoadingEvent","kind":"ui","en":"Loading event…"}
+{"id":"src/strings.c#gText_DontRemoveCableTurnOff","kind":"ui","en":"Don't remove the Game Link cable.\\nDon't turn off the power."}
+{"id":"src/strings.c#gText_EventSafelyLoaded","kind":"ui","en":"The event was safely loaded."}
+{"id":"src/strings.c#gText_LoadErrorEndingSession","kind":"ui","en":"Loading error.\\nEnding session."}
+{"id":"src/strings.c#gText_DexHoenn","kind":"ui","en":"HOENN"}
+{"id":"src/strings.c#gText_DexNational","kind":"ui","en":"NATIONAL"}
+{"id":"src/strings.c#gText_PokedexDiploma","kind":"ui","en":"PLAYER: {CLEAR 16}{COLOR RED}{SHADOW LIGHT_RED}{PLAYER}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}\\n\\nThis document certifies\\nthat you have successfully\\ncompleted your\\n{STR_VAR_1} POKéDEX.\\n\\n{CLEAR_TO 66}{COLOR RED}{SHADOW LIGHT_RED}GAME FREAK"}
+{"id":"src/strings.c#gText_Hoenn","kind":"ui","en":"HOENN"}
+{"id":"src/strings.c#gText_OhABite","kind":"ui","en":"Oh! A bite!"}
+{"id":"src/strings.c#gText_PokemonOnHook","kind":"ui","en":"A POKéMON's on the hook!{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_NotEvenANibble","kind":"ui","en":"Not even a nibble…{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_ItGotAway","kind":"ui","en":"It got away…{PAUSE_UNTIL_PRESS}"}
+{"id":"src/strings.c#gText_XWillBeSentToY","kind":"ui","en":"{STR_VAR_2} will be\\nsent to {STR_VAR_1}."}
+{"id":"src/strings.c#gText_ByeByeVar1","kind":"ui","en":"Bye-bye, {STR_VAR_2}!"}
+{"id":"src/strings.c#gText_XSentOverY","kind":"ui","en":"{STR_VAR_1} sent over {STR_VAR_3}."}
+{"id":"src/strings.c#gText_TakeGoodCareOfX","kind":"ui","en":"Take good care of {STR_VAR_3}!"}
+{"id":"src/strings.c#gEasyChatGroupName_Pokemon","kind":"ui","en":"POKéMON"}
+{"id":"src/strings.c#gEasyChatGroupName_Trainer","kind":"ui","en":"TRAINER"}
+{"id":"src/strings.c#gEasyChatGroupName_Status","kind":"ui","en":"STATUS"}
+{"id":"src/strings.c#gEasyChatGroupName_Battle","kind":"ui","en":"BATTLE"}
+{"id":"src/strings.c#gEasyChatGroupName_Greetings","kind":"ui","en":"GREETINGS"}
+{"id":"src/strings.c#gEasyChatGroupName_People","kind":"ui","en":"PEOPLE"}
+{"id":"src/strings.c#gEasyChatGroupName_Voices","kind":"ui","en":"VOICES"}
+{"id":"src/strings.c#gEasyChatGroupName_Speech","kind":"ui","en":"SPEECH"}
+{"id":"src/strings.c#gEasyChatGroupName_Endings","kind":"ui","en":"ENDINGS"}
+{"id":"src/strings.c#gEasyChatGroupName_Feelings","kind":"ui","en":"FEELINGS"}
+{"id":"src/strings.c#gEasyChatGroupName_Conditions","kind":"ui","en":"CONDITIONS"}
+{"id":"src/strings.c#gEasyChatGroupName_Actions","kind":"ui","en":"ACTIONS"}
+{"id":"src/strings.c#gEasyChatGroupName_Lifestyle","kind":"ui","en":"LIFESTYLE"}
+{"id":"src/strings.c#gEasyChatGroupName_Hobbies","kind":"ui","en":"HOBBIES"}
+{"id":"src/strings.c#gEasyChatGroupName_Time","kind":"ui","en":"TIME"}
+{"id":"src/strings.c#gEasyChatGroupName_Misc","kind":"ui","en":"MISC."}
+{"id":"src/strings.c#gEasyChatGroupName_Adjectives","kind":"ui","en":"ADJECTIVES"}
+{"id":"src/strings.c#gEasyChatGroupName_Events","kind":"ui","en":"EVENTS"}
+{"id":"src/strings.c#gEasyChatGroupName_Move1","kind":"ui","en":"MOVE 1"}
+{"id":"src/strings.c#gEasyChatGroupName_Move2","kind":"ui","en":"MOVE 2"}
+{"id":"src/strings.c#gEasyChatGroupName_TrendySaying","kind":"ui","en":"TRENDY SAYING"}
+{"id":"src/strings.c#gEasyChatGroupName_Pokemon2","kind":"ui","en":"POKéMON2"}
+{"id":"src/strings.c#gText_MaxHP","kind":"ui","en":"MAX. HP"}
+{"id":"src/strings.c#gText_Attack","kind":"ui","en":"ATTACK"}
+{"id":"src/strings.c#gText_Defense","kind":"ui","en":"DEFENSE"}
+{"id":"src/strings.c#gText_Speed","kind":"ui","en":"SPEED"}
+{"id":"src/strings.c#gText_SpAtk","kind":"ui","en":"SP. ATK"}
+{"id":"src/strings.c#gText_SpDef","kind":"ui","en":"SP. DEF"}
+{"id":"src/strings.c#gText_FromSpace","kind":"ui","en":"From "}
+{"id":"src/strings.c#gText_MixingRecords","kind":"ui","en":"Mixing records…"}
+{"id":"src/strings.c#gText_RecordMixingComplete","kind":"ui","en":"Record mixing completed.\\nThank you for waiting."}
+{"id":"src/strings.c#gText_YourName","kind":"ui","en":"YOUR NAME?"}
+{"id":"src/strings.c#gText_BoxName","kind":"ui","en":"BOX NAME?"}
+{"id":"src/strings.c#gText_PkmnsNickname","kind":"ui","en":"{STR_VAR_1}'s nickname?"}
+{"id":"src/strings.c#gText_TellHimTheWords","kind":"ui","en":"Tell him the words."}
+{"id":"src/strings.c#gText_MoveOkBack","kind":"ui","en":"{DPAD_NONE}MOVE  {A_BUTTON}OK  {B_BUTTON}BACK"}
+{"id":"src/strings.c#gText_CallCantBeMadeHere","kind":"ui","en":"A call can't be made from here."}
+{"id":"src/strings.c#gText_ContestLady_Handsome","kind":"ui","en":"HANDSOME"}
+{"id":"src/strings.c#gText_ContestLady_Vinny","kind":"ui","en":"VINNY"}
+{"id":"src/strings.c#gText_ContestLady_Moreme","kind":"ui","en":"MOREME"}
+{"id":"src/strings.c#gText_ContestLady_Ironhard","kind":"ui","en":"IRONHARD"}
+{"id":"src/strings.c#gText_ContestLady_Muscle","kind":"ui","en":"MUSCLE"}
+{"id":"src/strings.c#gText_ContestLady_Coolness","kind":"ui","en":"coolness"}
+{"id":"src/strings.c#gText_ContestLady_Beauty","kind":"ui","en":"beauty"}
+{"id":"src/strings.c#gText_ContestLady_Cuteness","kind":"ui","en":"cuteness"}
+{"id":"src/strings.c#gText_ContestLady_Smartness","kind":"ui","en":"smartness"}
+{"id":"src/strings.c#gText_ContestLady_Toughness","kind":"ui","en":"toughness"}
+{"id":"src/strings.c#gText_QuizLady_Lady","kind":"ui","en":"Lady"}
+{"id":"src/strings.c#gText_FavorLady_Slippery","kind":"ui","en":"slippery"}
+{"id":"src/strings.c#gText_FavorLady_Roundish","kind":"ui","en":"roundish"}
+{"id":"src/strings.c#gText_FavorLady_Whamish","kind":"ui","en":"wham-ish"}
+{"id":"src/strings.c#gText_FavorLady_Shiny","kind":"ui","en":"shiny"}
+{"id":"src/strings.c#gText_FavorLady_Sticky","kind":"ui","en":"sticky"}
+{"id":"src/strings.c#gText_FavorLady_Pointy","kind":"ui","en":"pointy"}
+{"id":"src/strings.c#gText_RentalPkmn2","kind":"ui","en":"RENTAL POKéMON"}
+{"id":"src/strings.c#gText_SelectFirstPkmn","kind":"ui","en":"Select the first POKéMON."}
+{"id":"src/strings.c#gText_SelectSecondPkmn","kind":"ui","en":"Select the second POKéMON."}
+{"id":"src/strings.c#gText_SelectThirdPkmn","kind":"ui","en":"Select the third POKéMON."}
+{"id":"src/strings.c#gText_Rent","kind":"ui","en":"RENT"}
+{"id":"src/strings.c#gText_Summary","kind":"ui","en":"SUMMARY"}
+{"id":"src/strings.c#gText_Others2","kind":"ui","en":"OTHERS"}
+{"id":"src/strings.c#gText_Deselect","kind":"ui","en":"DESELECT"}
+{"id":"src/strings.c#gText_TheseThreePkmnOkay","kind":"ui","en":"Are these three POKéMON OK?"}
+{"id":"src/strings.c#gText_Yes2","kind":"ui","en":"YES"}
+{"id":"src/strings.c#gText_No2","kind":"ui","en":"NO"}
+{"id":"src/strings.c#gText_CantSelectSamePkmn","kind":"ui","en":"Can't select same {PKMN}."}
+{"id":"src/strings.c#gText_PkmnSwap","kind":"ui","en":"POKéMON SWAP"}
+{"id":"src/strings.c#gText_SelectPkmnToSwap","kind":"ui","en":"Select POKéMON to swap."}
+{"id":"src/strings.c#gText_SelectPkmnToAccept","kind":"ui","en":"Select POKéMON to accept."}
+{"id":"src/strings.c#gText_Swap","kind":"ui","en":"SWAP"}
+{"id":"src/strings.c#gText_Summary2","kind":"ui","en":"SUMMARY"}
+{"id":"src/strings.c#gText_Rechoose","kind":"ui","en":"RECHOOSE"}
+{"id":"src/strings.c#gText_QuitSwapping","kind":"ui","en":"Quit swapping?"}
+{"id":"src/strings.c#gText_Yes3","kind":"ui","en":"YES"}
+{"id":"src/strings.c#gText_No3","kind":"ui","en":"NO"}
+{"id":"src/strings.c#gText_PkmnForSwap","kind":"ui","en":"{PKMN} FOR SWAP"}
+{"id":"src/strings.c#gText_Cancel3","kind":"ui","en":"CANCEL"}
+{"id":"src/strings.c#gText_Swap2","kind":"ui","en":"SWAP"}
+{"id":"src/strings.c#gText_Accept","kind":"ui","en":"ACCEPT"}
+{"id":"src/strings.c#gText_AcceptThisPkmn","kind":"ui","en":"Accept this POKéMON?"}
+{"id":"src/strings.c#gText_SamePkmnInPartyAlready","kind":"ui","en":"Same {PKMN} in party already."}
+{"id":"src/strings.c#gText_SavingPlayer","kind":"ui","en":"PLAYER"}
+{"id":"src/strings.c#gText_SavingBadges","kind":"ui","en":"BADGES"}
+{"id":"src/strings.c#gText_SavingPokedex","kind":"ui","en":"POKéDEX"}
+{"id":"src/strings.c#gText_SavingTime","kind":"ui","en":"TIME"}
+{"id":"src/strings.c#gText_WirelessCommStatus","kind":"ui","en":"Wireless Communication Status"}
+{"id":"src/strings.c#gText_PeopleTrading","kind":"ui","en":"People trading:"}
+{"id":"src/strings.c#gText_PeopleBattling","kind":"ui","en":"People battling:"}
+{"id":"src/strings.c#gText_PeopleInUnionRoom","kind":"ui","en":"People in the UNION ROOM:"}
+{"id":"src/strings.c#gText_PeopleCommunicating","kind":"ui","en":"People communicating:"}
+{"id":"src/strings.c#gText_F700Players","kind":"ui","en":"{DYNAMIC 0} players"}
+{"id":"src/strings.c#gText_F701Players","kind":"ui","en":"{DYNAMIC 1} players"}
+{"id":"src/strings.c#gText_F702Players","kind":"ui","en":"{DYNAMIC 2} players"}
+{"id":"src/strings.c#gText_F703Players","kind":"ui","en":"{DYNAMIC 3} players"}
+{"id":"src/strings.c#gText_WonderCards","kind":"ui","en":"WONDER CARDS"}
+{"id":"src/strings.c#gText_WonderNews","kind":"ui","en":"WONDER NEWS"}
+{"id":"src/strings.c#gText_WirelessCommunication","kind":"ui","en":"WIRELESS COMMUNICATION"}
+{"id":"src/strings.c#gText_Friend2","kind":"ui","en":"FRIEND"}
+{"id":"src/strings.c#gText_Exit3","kind":"ui","en":"EXIT"}
+{"id":"src/strings.c#gText_Receive","kind":"ui","en":"RECEIVE"}
+{"id":"src/strings.c#gText_Send","kind":"ui","en":"SEND"}
+{"id":"src/strings.c#gText_Toss","kind":"ui","en":"TOSS"}
+{"id":"src/strings.c#gText_VarietyOfEventsImportedWireless","kind":"ui","en":"A variety of events will be imported\\nover Wireless Communication."}
+{"id":"src/strings.c#gText_WonderCardsInPossession","kind":"ui","en":"Read the WONDER CARDS in your\\npossession."}
+{"id":"src/strings.c#gText_ReadNewsThatArrived","kind":"ui","en":"Read the NEWS that arrived."}
+{"id":"src/strings.c#gText_ReturnToTitle","kind":"ui","en":"Return to the title screen."}
+{"id":"src/strings.c#gText_DontHaveCardNewOneInput","kind":"ui","en":"You don't have a WONDER CARD,\\nso a new CARD will be input."}
+{"id":"src/strings.c#gText_DontHaveNewsNewOneInput","kind":"ui","en":"You don't have any WONDER NEWS,\\nso new NEWS will be input."}
+{"id":"src/strings.c#gText_WhereShouldCardBeAccessed","kind":"ui","en":"Where should the WONDER CARD\\nbe accessed?"}
+{"id":"src/strings.c#gText_WhereShouldNewsBeAccessed","kind":"ui","en":"Where should the WONDER NEWS\\nbe accessed?"}
+{"id":"src/strings.c#gText_CommunicationStandbyBButtonCancel","kind":"ui","en":"Communication standby…\\nB Button: Cancel"}
+{"id":"src/strings.c#gText_Communicating","kind":"ui","en":"Communicating…"}
+{"id":"src/strings.c#gText_CommunicationCompleted","kind":"ui","en":"Communication completed."}
+{"id":"src/strings.c#gText_CommunicationError","kind":"ui","en":"Communication error."}
+{"id":"src/strings.c#gText_CommunicationCanceled","kind":"ui","en":"Communication has been canceled."}
+{"id":"src/strings.c#gText_ThrowAwayWonderCard","kind":"ui","en":"Throw away the WONDER CARD\\nand input a new CARD?"}
+{"id":"src/strings.c#gText_HaventReceivedCardsGift","kind":"ui","en":"You haven't received the CARD's gift\\nyet. Input a new CARD anyway?"}
+{"id":"src/strings.c#gText_WonderCardReceivedFrom","kind":"ui","en":"A WONDER CARD has been received\\nfrom {STR_VAR_1}."}
+{"id":"src/strings.c#gText_WonderNewsReceivedFrom","kind":"ui","en":"A WONDER NEWS item has been\\nreceived from {STR_VAR_1}."}
+{"id":"src/strings.c#gText_WonderCardReceived","kind":"ui","en":"A new WONDER CARD has been\\nreceived."}
+{"id":"src/strings.c#gText_WonderNewsReceived","kind":"ui","en":"A new WONDER NEWS item has been\\nreceived."}
+{"id":"src/strings.c#gText_NewStampReceived","kind":"ui","en":"A new STAMP has been received."}
+{"id":"src/strings.c#gText_NewTrainerReceived","kind":"ui","en":"A new TRAINER has arrived."}
+{"id":"src/strings.c#gText_AlreadyHadCard","kind":"ui","en":"You already had that\\nWONDER CARD."}
+{"id":"src/strings.c#gText_AlreadyHadNews","kind":"ui","en":"You already had that\\nWONDER NEWS item."}
+{"id":"src/strings.c#gText_AlreadyHadStamp","kind":"ui","en":"You already had that\\nSTAMP."}
+{"id":"src/strings.c#gText_NoMoreRoomForStamps","kind":"ui","en":"There's no more room for adding\\nSTAMPS."}
+{"id":"src/strings.c#gText_RecordUploadedViaWireless","kind":"ui","en":"Your record has been uploaded via\\nWIRELESS COMMUNICATION."}
+{"id":"src/strings.c#gText_CantAcceptCardFromTrainer","kind":"ui","en":"You can't accept a WONDER CARD\\nfrom this TRAINER."}
+{"id":"src/strings.c#gText_CantAcceptNewsFromTrainer","kind":"ui","en":"You can't accept WONDER NEWS\\nfrom this TRAINER."}
+{"id":"src/strings.c#gText_NothingSentOver","kind":"ui","en":"Nothing was sent over…"}
+{"id":"src/strings.c#gText_WhatToDoWithCards","kind":"ui","en":"What would you like to do\\nwith the WONDER CARDS?"}
+{"id":"src/strings.c#gText_WhatToDoWithNews","kind":"ui","en":"What would you like to do\\nwith the WONDER NEWS?"}
+{"id":"src/strings.c#gText_SendingWonderCard","kind":"ui","en":"Sending your WONDER CARD…"}
+{"id":"src/strings.c#gText_SendingWonderNews","kind":"ui","en":"Sending your WONDER NEWS item…"}
+{"id":"src/strings.c#gText_WonderCardSentTo","kind":"ui","en":"Your WONDER CARD has been sent\\nto {STR_VAR_1}."}
+{"id":"src/strings.c#gText_WonderNewsSentTo","kind":"ui","en":"Your WONDER NEWS item has been\\nsent to {STR_VAR_1}."}
+{"id":"src/strings.c#gText_StampSentTo","kind":"ui","en":"A STAMP has been sent to {STR_VAR_1}."}
+{"id":"src/strings.c#gText_GiftSentTo","kind":"ui","en":"A GIFT has been sent to {STR_VAR_1}."}
+{"id":"src/strings.c#gText_OtherTrainerHasCard","kind":"ui","en":"The other TRAINER has the same\\nWONDER CARD already."}
+{"id":"src/strings.c#gText_OtherTrainerHasNews","kind":"ui","en":"The other TRAINER has the same\\nWONDER NEWS already."}
+{"id":"src/strings.c#gText_OtherTrainerHasStamp","kind":"ui","en":"The other TRAINER has the same\\nSTAMP already."}
+{"id":"src/strings.c#gText_OtherTrainerCanceled","kind":"ui","en":"The other TRAINER canceled\\ncommunication."}
+{"id":"src/strings.c#gText_CantSendGiftToTrainer","kind":"ui","en":"You can't send a MYSTERY GIFT to\\nthis TRAINER."}
+{"id":"src/strings.c#gText_IfThrowAwayCardEventWontHappen","kind":"ui","en":"If you throw away the CARD,\\nits event won't happen. Okay?"}
+{"id":"src/strings.c#gText_OkayToDiscardNews","kind":"ui","en":"Is it okay to discard this\\nNEWS item?"}
+{"id":"src/strings.c#gText_HaventReceivedGiftOkayToDiscard","kind":"ui","en":"You haven't received the\\nGIFT. Is it okay to discard?"}
+{"id":"src/strings.c#gText_DataWillBeSaved","kind":"ui","en":"Data will be saved.\\nPlease wait."}
+{"id":"src/strings.c#gText_SaveCompletedPressA","kind":"ui","en":"Save completed.\\nPlease press the A Button."}
+{"id":"src/strings.c#gText_WonderCardThrownAway","kind":"ui","en":"The WONDER CARD was thrown away."}
+{"id":"src/strings.c#gText_WonderNewsThrownAway","kind":"ui","en":"The WONDER NEWS was thrown away."}
+{"id":"src/strings.c#gText_MysteryGift","kind":"ui","en":"MYSTERY GIFT"}
+{"id":"src/strings.c#gText_PickOKExit","kind":"ui","en":"{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}EXIT"}
+{"id":"src/strings.c#gText_PickOKCancel","kind":"ui","en":"{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}CANCEL"}
+{"id":"src/strings.c#gText_PlayersBattleResults","kind":"ui","en":"{PLAYER}'s BATTLE RESULTS"}
+{"id":"src/strings.c#gText_TotalRecordWLD","kind":"ui","en":"TOTAL RECORD W:{STR_VAR_1} L:{STR_VAR_2} D:{STR_VAR_3}"}
+{"id":"src/strings.c#gText_WinLoseDraw","kind":"ui","en":"{CLEAR_TO 83}WIN{CLEAR_TO 128}LOSE{CLEAR_TO 176}DRAW"}
+{"id":"src/strings.c#gText_CommunicationStandby5","kind":"ui","en":"Communication standby…"}
+{"id":"src/strings.c#gText_QuitTheGame","kind":"ui","en":"Quit the game?"}
+{"id":"src/strings.c#gText_YouveGot9999Coins","kind":"ui","en":"You've got 9,999 COINS."}
+{"id":"src/strings.c#gText_YouveRunOutOfCoins","kind":"ui","en":"You've run out of COINS.\\nGame over!"}
+{"id":"src/strings.c#gText_YouDontHaveThreeCoins","kind":"ui","en":"You don't have three COINS."}
+{"id":"src/strings.c#gText_ReelTimeHelp","kind":"ui","en":"REEL TIME\\nHere's your chance to take\\naim and nail marks!\\nReel Time continues for the\\nawarded number of spins.\\nIt all ends on a Big Bonus."}
+{"id":"src/strings.c#gDaycareText_GetAlongVeryWell","kind":"ui","en":"The two seem to get along\\nvery well."}
+{"id":"src/strings.c#gDaycareText_GetAlong","kind":"ui","en":"The two seem to get along."}
+{"id":"src/strings.c#gDaycareText_DontLikeOther","kind":"ui","en":"The two don't seem to like\\neach other much."}
+{"id":"src/strings.c#gDaycareText_PlayOther","kind":"ui","en":"The two prefer to play with other\\nPOKéMON than each other."}
+{"id":"src/strings.c#gText_Exit4","kind":"ui","en":"EXIT"}
+{"id":"src/strings.c#gText_TimeBoard","kind":"ui","en":"TIME BOARD"}
+{"id":"src/strings.c#gText_TimeCleared","kind":"ui","en":"TIME CLEARED "}
+{"id":"src/strings.c#gText_XMinYDotZSec","kind":"ui","en":"{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sec."}
+{"id":"src/strings.c#gText_TeachWhichMoveToPkmn","kind":"ui","en":"Teach which move to {STR_VAR_1}?"}
+{"id":"src/strings.c#gText_MoveRelearnerTeachMoveConfirm","kind":"ui","en":"Teach {STR_VAR_2}?"}
+{"id":"src/strings.c#gText_MoveRelearnerPkmnLearnedMove","kind":"ui","en":"{STR_VAR_1} learned\\n{STR_VAR_2}!"}
+{"id":"src/strings.c#gText_MoveRelearnerPkmnTryingToLearnMove","kind":"ui","en":"{STR_VAR_1} is trying to learn\\n{STR_VAR_2}.\\pBut {STR_VAR_1} can't learn more\\nthan four moves.\\pDelete an older move to make\\nroom for {STR_VAR_2}?"}
+{"id":"src/strings.c#gText_MoveRelearnerStopTryingToTeachMove","kind":"ui","en":"Stop trying to teach\\n{STR_VAR_2}?"}
+{"id":"src/strings.c#gText_MoveRelearnerAndPoof","kind":"ui","en":"{PAUSE 32}1, {PAUSE 15}2, and {PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\\p"}
+{"id":"src/strings.c#gText_MoveRelearnerPkmnForgotMoveAndLearnedNew","kind":"ui","en":"{STR_VAR_1} forgot {STR_VAR_3}.\\pAnd…\\p{STR_VAR_1} learned {STR_VAR_2}."}
+{"id":"src/strings.c#gText_MoveRelearnedPkmnDidNotLearnMove","kind":"ui","en":"{STR_VAR_1} did not learn the\\nmove {STR_VAR_2}."}
+{"id":"src/strings.c#gText_MoveRelearnerGiveUp","kind":"ui","en":"Give up trying to teach a new\\nmove to {STR_VAR_1}?"}
+{"id":"src/strings.c#gText_MoveRelearnerWhichMoveToForget","kind":"ui","en":"Which move should be\\nforgotten?\\p"}
+{"id":"src/strings.c#gText_MoveRelearnerBattleMoves","kind":"ui","en":"BATTLE MOVES"}
+{"id":"src/strings.c#gText_MoveRelearnerContestMovesTitle","kind":"ui","en":"CONTEST MOVES"}
+{"id":"src/strings.c#gText_MoveRelearnerType","kind":"ui","en":"TYPE/"}
+{"id":"src/strings.c#gText_MoveRelearnerPP","kind":"ui","en":"PP/"}
+{"id":"src/strings.c#gText_MoveRelearnerPower","kind":"ui","en":"POWER/"}
+{"id":"src/strings.c#gText_MoveRelearnerAccuracy","kind":"ui","en":"ACCURACY/"}
+{"id":"src/strings.c#gText_MoveRelearnerAppeal","kind":"ui","en":"APPEAL"}
+{"id":"src/strings.c#gText_MoveRelearnerJam","kind":"ui","en":"JAM"}
+{"id":"src/strings.c#gText_Kira","kind":"ui","en":"KIRA"}
+{"id":"src/strings.c#gText_Amy","kind":"ui","en":"AMY"}
+{"id":"src/strings.c#gText_John","kind":"ui","en":"JOHN"}
+{"id":"src/strings.c#gText_Roy","kind":"ui","en":"ROY"}
+{"id":"src/strings.c#gText_Gabby","kind":"ui","en":"GABBY"}
+{"id":"src/strings.c#gText_Anna","kind":"ui","en":"ANNA"}
+{"id":"src/strings.c#gText_ClearAllSaveData","kind":"ui","en":"Clear all save data areas?"}
+{"id":"src/strings.c#gText_ClearingData","kind":"ui","en":"Clearing data…\\nPlease wait."}
+{"id":"src/strings.c#gText_IsThisTheCorrectTime","kind":"ui","en":"Is this the correct time?"}
+{"id":"src/strings.c#gText_Confirm3","kind":"ui","en":"CONFIRM"}
+{"id":"src/strings.c#gText_Cancel4","kind":"ui","en":"CANCEL"}
+{"id":"src/strings.c#gText_MrStoneMatchCallDesc","kind":"ui","en":"DEVON PRES"}
+{"id":"src/strings.c#gText_MrStoneMatchCallName","kind":"ui","en":"MR. STONE"}
+{"id":"src/strings.c#gText_StevenMatchCallDesc","kind":"ui","en":"HARD AS ROCK"}
+{"id":"src/strings.c#gText_StevenMatchCallName","kind":"ui","en":"STEVEN"}
+{"id":"src/strings.c#gText_MayBrendanMatchCallDesc","kind":"ui","en":"RAD NEIGHBOR"}
+{"id":"src/strings.c#gText_NormanMatchCallDesc","kind":"ui","en":"RELIABLE ONE"}
+{"id":"src/strings.c#gText_MomMatchCallDesc","kind":"ui","en":"CALM & KIND"}
+{"id":"src/strings.c#gText_WallyMatchCallDesc","kind":"ui","en":"{PKMN} LOVER"}
+{"id":"src/strings.c#gText_NormanMatchCallName","kind":"ui","en":"DAD"}
+{"id":"src/strings.c#gText_MomMatchCallName","kind":"ui","en":"MOM"}
+{"id":"src/strings.c#gText_ScottMatchCallDesc","kind":"ui","en":"ELUSIVE EYES"}
+{"id":"src/strings.c#gText_ScottMatchCallName","kind":"ui","en":"SCOTT"}
+{"id":"src/strings.c#gText_RoxanneMatchCallDesc","kind":"ui","en":"ROCKIN' WHIZ"}
+{"id":"src/strings.c#gText_BrawlyMatchCallDesc","kind":"ui","en":"THE BIG HIT"}
+{"id":"src/strings.c#gText_WattsonMatchCallDesc","kind":"ui","en":"SWELL SHOCK"}
+{"id":"src/strings.c#gText_FlanneryMatchCallDesc","kind":"ui","en":"PASSION BURN"}
+{"id":"src/strings.c#gText_WinonaMatchCallDesc","kind":"ui","en":"SKY TAMER"}
+{"id":"src/strings.c#gText_TateLizaMatchCallDesc","kind":"ui","en":"MYSTIC DUO"}
+{"id":"src/strings.c#gText_JuanMatchCallDesc","kind":"ui","en":"DANDY CHARM"}
+{"id":"src/strings.c#gText_EliteFourMatchCallDesc","kind":"ui","en":"ELITE FOUR"}
+{"id":"src/strings.c#gText_ChampionMatchCallDesc","kind":"ui","en":"CHAMPION"}
+{"id":"src/strings.c#gText_ProfBirchMatchCallDesc","kind":"ui","en":"{PKMN} PROF."}
+{"id":"src/strings.c#gText_CommStandbyAwaitingOtherPlayer","kind":"ui","en":"Communication standby…\\nAwaiting another player to choose."}
+{"id":"src/strings.c#gText_BattleWasRefused","kind":"ui","en":"The battle was refused.{PAUSE 60}"}
+{"id":"src/strings.c#gText_RefusedBattle","kind":"ui","en":"Refused the battle.{PAUSE 60}"}
+{"id":"src/strings.c#gText_NoWeather","kind":"ui","en":"NO WEATHER"}
+{"id":"src/strings.c#gText_Sunny","kind":"ui","en":"SUNNY"}
+{"id":"src/strings.c#gText_Sunny2","kind":"ui","en":"SUNNY2"}
+{"id":"src/strings.c#gText_Rain","kind":"ui","en":"RAIN"}
+{"id":"src/strings.c#gText_Snow","kind":"ui","en":"SNOW"}
+{"id":"src/strings.c#gText_Lightning","kind":"ui","en":"LIGHTNING"}
+{"id":"src/strings.c#gText_Fog","kind":"ui","en":"FOG"}
+{"id":"src/strings.c#gText_VolcanoAsh","kind":"ui","en":"VOLCANO ASH"}
+{"id":"src/strings.c#gText_Sandstorm","kind":"ui","en":"SANDSTORM"}
+{"id":"src/strings.c#gText_Fog2","kind":"ui","en":"FOG2"}
+{"id":"src/strings.c#gText_Seafloor","kind":"ui","en":"SEAFLOOR"}
+{"id":"src/strings.c#gText_Cloudy","kind":"ui","en":"CLOUDY"}
+{"id":"src/strings.c#gText_Sunny3","kind":"ui","en":"SUNNY3"}
+{"id":"src/strings.c#gText_HeavyRain","kind":"ui","en":"HEAVY RAIN"}
+{"id":"src/strings.c#gText_Seafloor2","kind":"ui","en":"SEAFLOOR2"}
+{"id":"src/strings.c#gText_DelAll","kind":"ui","en":"DEL. ALL"}
+{"id":"src/strings.c#gText_Cancel5","kind":"ui","en":"CANCEL"}
+{"id":"src/strings.c#gText_Ok2","kind":"ui","en":"OK"}
+{"id":"src/strings.c#gText_Quiz","kind":"ui","en":"QUIZ"}
+{"id":"src/strings.c#gText_Answer","kind":"ui","en":"ANSWER"}
+{"id":"src/strings.c#gText_PokeBalls","kind":"ui","en":"POKé BALLS"}
+{"id":"src/strings.c#gText_Berry","kind":"ui","en":"BERRY"}
+{"id":"src/strings.c#gText_Berries","kind":"ui","en":"BERRIES"}
+{"id":"src/text_input_strings.c#gText_EasyChatKeyboard_ABCDEFothers","kind":"ui","en":"{CLEAR 11}A{CLEAR 6}B{CLEAR 6}C{CLEAR 26}D{CLEAR 6}E{CLEAR 6}F{CLEAR 26}others"}
+{"id":"src/text_input_strings.c#gText_EasyChatKeyboard_GHIJKL","kind":"ui","en":"{CLEAR 11}G{CLEAR 6}H{CLEAR 6}I{CLEAR 26}J{CLEAR 6}K{CLEAR 6}L"}
+{"id":"src/text_input_strings.c#gText_EasyChatKeyboard_MNOPQRS","kind":"ui","en":"{CLEAR 11}M{CLEAR 6}N{CLEAR 6}O{CLEAR 26}P{CLEAR 6}Q{CLEAR 6}R{CLEAR 6}S{CLEAR 26} "}
+{"id":"src/text_input_strings.c#gText_EasyChatKeyboard_TUVWXYZ","kind":"ui","en":"{CLEAR 11}T{CLEAR 6}U{CLEAR 6}V{CLEAR 26}W{CLEAR 6}X{CLEAR 6}Y{CLEAR 6}Z{CLEAR 26} "}
+{"id":"src/text_input_strings.c#gText_NamingScreenKeyboard_abcdef","kind":"ui","en":"{CLEAR 11}a{CLEAR 6}b{CLEAR 6}c{CLEAR 26}d{CLEAR 6}e{CLEAR 6}f{CLEAR 6} {CLEAR 30}."}
+{"id":"src/text_input_strings.c#gText_NamingScreenKeyboard_ghijkl","kind":"ui","en":"{CLEAR 11}g{CLEAR 6}h{CLEAR 7}i{CLEAR 27}j{CLEAR 7}k{CLEAR 7}l{CLEAR 7} {CLEAR 30},"}
+{"id":"src/text_input_strings.c#gText_NamingScreenKeyboard_mnopqrs","kind":"ui","en":"{CLEAR 11}m{CLEAR 6}n{CLEAR 6}o{CLEAR 26}p{CLEAR 6}q{CLEAR 7}r{CLEAR 6}s{CLEAR 27} "}
+{"id":"src/text_input_strings.c#gText_NamingScreenKeyboard_tuvwxyz","kind":"ui","en":"{CLEAR 11}t{CLEAR 6}u{CLEAR 6}v{CLEAR 26}w{CLEAR 6}x{CLEAR 6}y{CLEAR 6}z{CLEAR 26} "}
+{"id":"src/text_input_strings.c#gText_NamingScreenKeyboard_ABCDEF","kind":"ui","en":"{CLEAR 11}A{CLEAR 6}B{CLEAR 6}C{CLEAR 26}D{CLEAR 6}E{CLEAR 6}F{CLEAR 6} {CLEAR 30}."}
+{"id":"src/text_input_strings.c#gText_NamingScreenKeyboard_GHIJKL","kind":"ui","en":"{CLEAR 11}G{CLEAR 6}H{CLEAR 6}I{CLEAR 26}J{CLEAR 6}K{CLEAR 6}L{CLEAR 6} {CLEAR 30},"}
+{"id":"src/text_input_strings.c#gText_NamingScreenKeyboard_MNOPQRS","kind":"ui","en":"{CLEAR 11}M{CLEAR 6}N{CLEAR 6}O{CLEAR 26}P{CLEAR 6}Q{CLEAR 6}R{CLEAR 6}S{CLEAR 26} "}
+{"id":"src/text_input_strings.c#gText_NamingScreenKeyboard_TUVWXYZ","kind":"ui","en":"{CLEAR 11}T{CLEAR 6}U{CLEAR 6}V{CLEAR 26}W{CLEAR 6}X{CLEAR 6}Y{CLEAR 6}Z{CLEAR 26} "}
+{"id":"src/text_input_strings.c#gText_UnionRoomChatKeyboard_ABCDE","kind":"ui","en":"ABCDE"}
+{"id":"src/text_input_strings.c#gText_UnionRoomChatKeyboard_FGHIJ","kind":"ui","en":"FGHIJ"}
+{"id":"src/text_input_strings.c#gText_UnionRoomChatKeyboard_KLMNO","kind":"ui","en":"KLMNO"}
+{"id":"src/text_input_strings.c#gText_UnionRoomChatKeyboard_PQRST","kind":"ui","en":"PQRST"}
+{"id":"src/text_input_strings.c#gText_UnionRoomChatKeyboard_UVWXY","kind":"ui","en":"UVWXY"}
+{"id":"src/text_input_strings.c#gText_UnionRoomChatKeyboard_abcde","kind":"ui","en":"abcde"}
+{"id":"src/text_input_strings.c#gText_UnionRoomChatKeyboard_fghij","kind":"ui","en":"fghij"}
+{"id":"src/text_input_strings.c#gText_UnionRoomChatKeyboard_klmno","kind":"ui","en":"klmno"}
+{"id":"src/text_input_strings.c#gText_UnionRoomChatKeyboard_pqrst","kind":"ui","en":"pqrst"}
+{"id":"src/text_input_strings.c#gText_UnionRoomChatKeyboard_uvwxy","kind":"ui","en":"uvwxy"}

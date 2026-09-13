@@ -11,7 +11,7 @@ export interface GlossaryTerm {
 }
 
 const NAME_KINDS = new Set([
-  'species', 'move', 'ability', 'type', 'nature', 'trainer_class', 'item', 'location', 'berry', 'decoration',
+  'species', 'move', 'ability', 'type', 'nature', 'trainer_class', 'item', 'location', 'berry_name', 'decoration',
   'trainer_name', 'frontier_trainer', 'contest_opponent', 'dex_category',
 ]);
 

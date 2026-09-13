@@ -1,0 +1,498 @@
+{"id":"src/data/pokemon/pokedex_text.h#gStaryuPokedexText","kind":"dex","en":"It gathers with others in the night and\\nmakes its red core glow on and off with\\nthe twinkling stars. It can regenerate\\nlimbs if they are severed from its body."}
+{"id":"src/data/pokemon/pokedex_text.h#gStarmiePokedexText","kind":"dex","en":"People in ancient times imagined that\\nSTARMIE were transformed from the\\nreflections of stars that twinkled on\\ngentle waves at night."}
+{"id":"src/data/pokemon/pokedex_text.h#gMrMimePokedexText","kind":"dex","en":"A MR. MIME is a master of pantomime. It can\\nconvince others that something unseeable\\nactually exists. Once believed, the\\nimaginary object does become real."}
+{"id":"src/data/pokemon/pokedex_text.h#gScytherPokedexText","kind":"dex","en":"Its blindingly fast speed adds to the\\nsharpness of its twin forearm scythes.\\nThe scythes can slice through thick logs\\nin one wicked stroke."}
+{"id":"src/data/pokemon/pokedex_text.h#gJynxPokedexText","kind":"dex","en":"A JYNX sashays rhythmically as if it were\\ndancing. Its motions are so bouncingly\\nalluring, people seeing it are compelled to\\nshake their hips without noticing."}
+{"id":"src/data/pokemon/pokedex_text.h#gElectabuzzPokedexText","kind":"dex","en":"When a storm approaches, it competes with\\nothers to scale heights that are likely to\\nbe stricken by lightning. Some towns use\\nELECTABUZZ in place of lightning rods."}
+{"id":"src/data/pokemon/pokedex_text.h#gMagmarPokedexText","kind":"dex","en":"In battle, it blows out intense flames from\\nall over its body to intimidate its foe.\\nThese fiery bursts create heat waves that\\nignite grass and trees in the area."}
+{"id":"src/data/pokemon/pokedex_text.h#gPinsirPokedexText","kind":"dex","en":"Their pincers are strong enough to\\nshatter thick logs. Because they dislike\\ncold, PINSIR burrow and sleep under\\nthe ground on chilly nights."}
+{"id":"src/data/pokemon/pokedex_text.h#gTaurosPokedexText","kind":"dex","en":"It is not satisfied unless it is rampaging\\nat all times. If there is no opponent for\\nTAUROS to battle, it will charge at thick\\ntrees and knock them down to calm itself."}
+{"id":"src/data/pokemon/pokedex_text.h#gMagikarpPokedexText","kind":"dex","en":"Its swimming muscles are weak, so it is\\neasily washed away by currents. In places\\nwhere water pools, you can see many\\nMAGIKARP deposited there by the flow."}
+{"id":"src/data/pokemon/pokedex_text.h#gGyaradosPokedexText","kind":"dex","en":"It is an extremely vicious and violent\\nPOKéMON. When humans begin to fight,\\nit will appear and burn everything to the\\nground with intensely hot flames."}
+{"id":"src/data/pokemon/pokedex_text.h#gLaprasPokedexText","kind":"dex","en":"People have driven LAPRAS almost to the\\npoint of extinction. In the evenings,\\nit is said to sing plaintively as it seeks\\nwhat few others of its kind still remain."}
+{"id":"src/data/pokemon/pokedex_text.h#gDittoPokedexText","kind":"dex","en":"A DITTO rearranges its cell structure to\\ntransform itself. However, if it tries to\\nchange based on its memory, it will get\\ndetails wrong."}
+{"id":"src/data/pokemon/pokedex_text.h#gEeveePokedexText","kind":"dex","en":"An EEVEE has an unstable genetic makeup\\nthat suddenly mutates due to its\\nenvironment. Radiation from various\\nSTONES causes this POKéMON to evolve."}
+{"id":"src/data/pokemon/pokedex_text.h#gVaporeonPokedexText","kind":"dex","en":"VAPOREON underwent a spontaneous\\nmutation and grew fins and gills that\\nallow them to live underwater. They have\\nthe ability to freely control water."}
+{"id":"src/data/pokemon/pokedex_text.h#gJolteonPokedexText","kind":"dex","en":"Its cells generate weak power that is\\namplified by its fur's static electricity\\nto drop thunderbolts. The bristling fur is\\nmade of electrically charged needles."}
+{"id":"src/data/pokemon/pokedex_text.h#gFlareonPokedexText","kind":"dex","en":"FLAREON's fluffy fur releases heat into\\nthe air so that its body does not get\\nexcessively hot. Its body temperature can\\nrise to a maximum of 1,650 degrees F."}
+{"id":"src/data/pokemon/pokedex_text.h#gPorygonPokedexText","kind":"dex","en":"It is capable of reverting itself entirely\\nback to program data in order to enter\\ncyberspace. A PORYGON is copy-\\nprotected so it cannot be duplicated."}
+{"id":"src/data/pokemon/pokedex_text.h#gOmanytePokedexText","kind":"dex","en":"One of the ancient and long-since-extinct\\nPOKéMON that have been regenerated\\nfrom fossils by humans. If attacked,\\nit withdraws into its hard shell."}
+{"id":"src/data/pokemon/pokedex_text.h#gOmastarPokedexText","kind":"dex","en":"An OMASTAR uses its tentacles to capture\\nits prey. It is believed to have become\\nextinct because its shell grew too large,\\nmaking its movements slow and ponderous."}
+{"id":"src/data/pokemon/pokedex_text.h#gKabutoPokedexText","kind":"dex","en":"It is a POKéMON that has been regenerated\\nfrom a fossil. However, in rare cases, living\\nexamples have been discovered. KABUTO\\nhave not changed for 300 million years."}
+{"id":"src/data/pokemon/pokedex_text.h#gKabutopsPokedexText","kind":"dex","en":"KABUTOPS once swam underwater to hunt \\nfor prey. It was apparently evolving from\\nbeing a water dweller to living on land as\\nevident from changes in its gills and legs."}
+{"id":"src/data/pokemon/pokedex_text.h#gAerodactylPokedexText","kind":"dex","en":"AERODACTYL is a POKéMON from the age\\nof dinosaurs. It was regenerated from DNA\\nextracted from amber. It is imagined to\\nhave been the king of the skies."}
+{"id":"src/data/pokemon/pokedex_text.h#gSnorlaxPokedexText","kind":"dex","en":"SNORLAX's typical day consists of nothing\\nmore than eating and sleeping. It is such\\na docile POKéMON that there are children\\nwho use its big belly as a place to play."}
+{"id":"src/data/pokemon/pokedex_text.h#gArticunoPokedexText","kind":"dex","en":"ARTICUNO is a legendary bird POKéMON that\\ncan control ice. The flapping of its wings\\nchills the air. As a result, it is said that\\nwhen this POKéMON flies, snow will fall."}
+{"id":"src/data/pokemon/pokedex_text.h#gZapdosPokedexText","kind":"dex","en":"ZAPDOS is a legendary bird POKéMON that\\nhas the ability to control electricity.\\nIt usually lives in thunderclouds. It gains\\npower if it is stricken by lightning bolts."}
+{"id":"src/data/pokemon/pokedex_text.h#gMoltresPokedexText","kind":"dex","en":"MOLTRES is a legendary bird POKéMON\\nthat can control fire. If injured, it is said\\nto dip its body in the molten magma of\\na volcano to burn and heal itself."}
+{"id":"src/data/pokemon/pokedex_text.h#gDratiniPokedexText","kind":"dex","en":"A DRATINI continually molts and sloughs\\noff its old skin. It does so because the\\nlife energy within its body steadily builds\\nto reach uncontrollable levels."}
+{"id":"src/data/pokemon/pokedex_text.h#gDragonairPokedexText","kind":"dex","en":"A DRAGONAIR stores an enormous amount of\\nenergy inside its body. It is said to alter\\nthe weather around it by loosing energy\\nfrom the crystals on its neck and tail."}
+{"id":"src/data/pokemon/pokedex_text.h#gDragonitePokedexText","kind":"dex","en":"It can circle the globe in just 16 hours.\\nIt is a kindhearted POKéMON that leads\\nlost and foundering ships in a storm\\nto the safety of land."}
+{"id":"src/data/pokemon/pokedex_text.h#gMewtwoPokedexText","kind":"dex","en":"A POKéMON that was created by genetic\\nmanipulation. However, even though the\\nscientific power of humans made its body,\\nthey failed to give it a warm heart."}
+{"id":"src/data/pokemon/pokedex_text.h#gMewPokedexText","kind":"dex","en":"A MEW is said to possess the genes of all\\nPOKéMON. It is capable of making itself\\ninvisible at will, so it entirely avoids\\nnotice even if it approaches people."}
+{"id":"src/data/pokemon/pokedex_text.h#gChikoritaPokedexText","kind":"dex","en":"It waves its leaf around to keep foes\\nat bay. However, a sweet fragrance also\\nwafts from the leaf, creating a friendly\\natmosphere that becalms the battlers."}
+{"id":"src/data/pokemon/pokedex_text.h#gBayleefPokedexText","kind":"dex","en":"A BAYLEEF's neck is ringed by curled-up\\nleaves. Inside each leaf is a small tree\\nshoot. The fragrance of this shoot\\nmakes people peppy."}
+{"id":"src/data/pokemon/pokedex_text.h#gMeganiumPokedexText","kind":"dex","en":"The fragrance of a MEGANIUM's flower\\nsoothes and calms emotions. In battle,\\nit gives off more of its becalming scent\\nto blunt the foe's fighting spirit."}
+{"id":"src/data/pokemon/pokedex_text.h#gCyndaquilPokedexText","kind":"dex","en":"It flares flames from its back to protect\\nitself. The fire burns vigorously if the\\nPOKéMON is angry. When it is tired,\\nit sputters with incomplete combustion."}
+{"id":"src/data/pokemon/pokedex_text.h#gQuilavaPokedexText","kind":"dex","en":"It intimidates foes with intense gusts of\\nflames and superheated air. Its quick\\nnimbleness lets it dodge attacks even\\nwhile scorching an enemy."}
+{"id":"src/data/pokemon/pokedex_text.h#gTyphlosionPokedexText","kind":"dex","en":"It can hide behind a shimmering heat haze\\nthat it creates using its intense flames.\\nTYPHLOSION create blazing explosive\\nblasts that burn everything to cinders."}
+{"id":"src/data/pokemon/pokedex_text.h#gTotodilePokedexText","kind":"dex","en":"Despite its small body, TOTODILE's jaws\\nare very powerful. While it may think it is\\njust playfully nipping, its bite has enough\\nstrength to cause serious injury."}
+{"id":"src/data/pokemon/pokedex_text.h#gCroconawPokedexText","kind":"dex","en":"Once its jaws clamp down on its foe, it will\\nabsolutely not let go. Because the tips of\\nits fangs are forked back like fishhooks,\\nthey become irremovably embedded."}
+{"id":"src/data/pokemon/pokedex_text.h#gFeraligatrPokedexText","kind":"dex","en":"It opens its huge mouth to intimidate\\nenemies. In battle, it runs using its thick\\nand powerful hind legs to charge the\\nfoe with incredible speed."}
+{"id":"src/data/pokemon/pokedex_text.h#gSentretPokedexText","kind":"dex","en":"They take turns standing guard when it\\nis time to sleep. The sentry awakens the\\nothers if it senses danger. If one becomes\\nseparated, it turns sleepless with fear."}
+{"id":"src/data/pokemon/pokedex_text.h#gFurretPokedexText","kind":"dex","en":"A FURRET has a very slim build. When under\\nattack, it can squirm through narrow\\nspaces and get away. In spite of its short\\nlimbs, it is very nimble and fleet."}
+{"id":"src/data/pokemon/pokedex_text.h#gHoothootPokedexText","kind":"dex","en":"It has an internal organ that senses\\nthe earth's rotation. Using this special\\norgan, a HOOTHOOT begins hooting at\\nprecisely the same time every day."}
+{"id":"src/data/pokemon/pokedex_text.h#gNoctowlPokedexText","kind":"dex","en":"It unfailingly catches prey in darkness.\\nNOCTOWL owe their success to superior\\nvision that allows them to see in minimal\\nlight, and to their supple and silent wings."}
+{"id":"src/data/pokemon/pokedex_text.h#gLedybaPokedexText","kind":"dex","en":"LEDYBA communicate using a fluid that\\nthey secrete from where the legs join the\\nbody. They are said to convey feelings to\\nothers by altering the fluid's scent."}
+{"id":"src/data/pokemon/pokedex_text.h#gLedianPokedexText","kind":"dex","en":"It is said that in lands with clean air,\\nwhere the stars fill the sky, there live\\nmany LEDIAN. For good reason, they use\\nthe light of the stars as energy."}
+{"id":"src/data/pokemon/pokedex_text.h#gSpinarakPokedexText","kind":"dex","en":"The web it spins can be considered its\\nsecond nervous system. It is said that a\\nSPINARAK determines its prey by the tiny\\nvibrations it feels through the web."}
+{"id":"src/data/pokemon/pokedex_text.h#gAriadosPokedexText","kind":"dex","en":"Its feet are tipped with tiny hooked claws\\nthat enable it to scuttle on ceilings and\\nvertical walls. It constricts its foe with\\nthin and strong silk webbing."}
+{"id":"src/data/pokemon/pokedex_text.h#gCrobatPokedexText","kind":"dex","en":"Over the course of evolution, its hind legs\\nturned into wings. By alternately resting\\nits front and rear wings, it can fly all day\\nwithout having to stop."}
+{"id":"src/data/pokemon/pokedex_text.h#gChinchouPokedexText","kind":"dex","en":"When it senses danger, it discharges\\npositive and negative electricity from its\\ntwo antennae. It lives in depths beyond\\nsunlight's reach."}
+{"id":"src/data/pokemon/pokedex_text.h#gLanturnPokedexText","kind":"dex","en":"The light-emitting orbs on its back are\\nvery bright. They are formed from a part of\\nits dorsal fin. This POKéMON illuminates\\nthe inky darkness of deep seas."}
+{"id":"src/data/pokemon/pokedex_text.h#gPichuPokedexText","kind":"dex","en":"It is still inept at retaining electricity.\\nWhen it is startled, it discharges power\\naccidentally. It gets better at holding\\npower as it grows older."}
+{"id":"src/data/pokemon/pokedex_text.h#gCleffaPokedexText","kind":"dex","en":"On nights with many shooting stars,\\nCLEFFA can be seen dancing in a ring.\\nThey dance until daybreak, when they\\nquench their thirst with the morning dew."}
+{"id":"src/data/pokemon/pokedex_text.h#gIgglybuffPokedexText","kind":"dex","en":"Its soft and pliable body is very bouncy.\\nWhen it sings continuously with all its\\nmight, its body steadily turns a deepening\\npink color."}
+{"id":"src/data/pokemon/pokedex_text.h#gTogepiPokedexText","kind":"dex","en":"As its energy, it uses the feelings of\\ncompassion and pleasure exuded by\\npeople and POKéMON. It stores up happy\\nfeelings in its shell, then shares them out."}
+{"id":"src/data/pokemon/pokedex_text.h#gTogeticPokedexText","kind":"dex","en":"It is said to be a POKéMON that brings good\\nfortune. When it spots someone who is pure\\nof heart, a TOGETIC appears and shares its\\nhappiness with that person."}
+{"id":"src/data/pokemon/pokedex_text.h#gNatuPokedexText","kind":"dex","en":"It runs up short trees that grow on the\\nsavanna to peck at new shoots.\\nA NATU's eyes look as if they are\\nalways observing something."}
+{"id":"src/data/pokemon/pokedex_text.h#gXatuPokedexText","kind":"dex","en":"It has the enigmatic power of foreseeing\\nthe future. Some people in different lands\\nhave long believed that XATU are\\nemissaries from another world."}
+{"id":"src/data/pokemon/pokedex_text.h#gMareepPokedexText","kind":"dex","en":"Its fluffy wool rubs together and builds\\na static charge. The more energy is\\ncharged, the more brightly the lightbulb\\nat the tip of its tail glows."}
+{"id":"src/data/pokemon/pokedex_text.h#gFlaaffyPokedexText","kind":"dex","en":"Its fleece quality changes to generate\\nstrong static electricity with a small\\namount of wool. The bare, slick parts of its\\nhide are shielded against electricity."}
+{"id":"src/data/pokemon/pokedex_text.h#gAmpharosPokedexText","kind":"dex","en":"It gives off so much light that it can be\\nseen even from space. People in the old\\ndays used its light to send signals back\\nand forth with others far away."}
+{"id":"src/data/pokemon/pokedex_text.h#gBellossomPokedexText","kind":"dex","en":"Its flower petals deepen in color through\\nexposure to sunlight. When cloudy weather\\npersists, it does a dance that is thought\\nto be a ritual for summoning the sun."}
+{"id":"src/data/pokemon/pokedex_text.h#gMarillPokedexText","kind":"dex","en":"Its body is covered with water-repellent\\nfur. Because of the fur, it can swim\\nthrough water at high speed without being\\nslowed by the water's resistance."}
+{"id":"src/data/pokemon/pokedex_text.h#gAzumarillPokedexText","kind":"dex","en":"It lives in water virtually all day long.\\nIts body color and pattern act as\\ncamouflage that makes it tough for\\nenemies to spot in water."}
+{"id":"src/data/pokemon/pokedex_text.h#gSudowoodoPokedexText","kind":"dex","en":"It mimics a tree to avoid being attacked\\nby enemies. But since its forelegs\\nremain green throughout the year, it is\\neasily identified as a fake in the winter."}
+{"id":"src/data/pokemon/pokedex_text.h#gPolitoedPokedexText","kind":"dex","en":"The curled hair on its head proves its\\nstatus as a king. It is said that the\\nlonger and curlier the hair, the more\\nrespect it earns from its peers."}
+{"id":"src/data/pokemon/pokedex_text.h#gHoppipPokedexText","kind":"dex","en":"This POKéMON drifts and floats with the\\nwind. If it senses the approach of strong\\nwinds, a HOPPIP links leaves with others\\nto prepare against being blown away."}
+{"id":"src/data/pokemon/pokedex_text.h#gSkiploomPokedexText","kind":"dex","en":"It blossoms when the temperature rises\\nabove 64 degrees F. Because its flower's\\nblooming changes with the temperature,\\nit is sometimes used as a thermometer."}
+{"id":"src/data/pokemon/pokedex_text.h#gJumpluffPokedexText","kind":"dex","en":"JUMPLUFF ride warm southern winds to\\ncross the sea and fly to foreign lands.\\nThis POKéMON lands when it encounters\\ncold air while it is floating."}
+{"id":"src/data/pokemon/pokedex_text.h#gAipomPokedexText","kind":"dex","en":"Its tail ends with a dexterous, handlike\\nappendage. However, because it uses the\\ntail so much, AIPOM's real hands have\\nbecome rather clumsy."}
+{"id":"src/data/pokemon/pokedex_text.h#gSunkernPokedexText","kind":"dex","en":"SUNKERN try to minimize movement to\\nconserve the nutrients they have stored\\nin their bodies for evolution. They will\\nnot eat, subsisting only on morning dew."}
+{"id":"src/data/pokemon/pokedex_text.h#gSunfloraPokedexText","kind":"dex","en":"SUNFLORA convert solar energy into\\nnutrition. They are highly active in the\\nwarm daytime but suddenly stop moving as\\nsoon as the sun sets."}
+{"id":"src/data/pokemon/pokedex_text.h#gYanmaPokedexText","kind":"dex","en":"It can see 360 degrees without moving\\nits eyes. It is a great flier capable of\\nmaking sudden stops and turning midair to\\nquickly chase down targeted prey."}
+{"id":"src/data/pokemon/pokedex_text.h#gWooperPokedexText","kind":"dex","en":"WOOPER usually live in water but come\\nout onto land seeking food occasionally.\\nOn land, they coat their bodies with a\\ngooey, toxic film."}
+{"id":"src/data/pokemon/pokedex_text.h#gQuagsirePokedexText","kind":"dex","en":"A QUAGSIRE hunts by leaving its mouth wide\\nopen in water and waiting for its prey to\\nblunder in. Because it doesn't move, it\\ndoes not get very hungry."}
+{"id":"src/data/pokemon/pokedex_text.h#gEspeonPokedexText","kind":"dex","en":"An ESPEON is extremely loyal to any\\nTRAINER it considers to be worthy. It is\\nsaid to have developed precognitive\\npowers to protect its TRAINER from harm."}
+{"id":"src/data/pokemon/pokedex_text.h#gUmbreonPokedexText","kind":"dex","en":"UMBREON evolved from exposure to the\\nmoon's energy pulses. It lurks in darkness\\nand waits for its foes to move. The rings\\non its body glow when it leaps to attack."}
+{"id":"src/data/pokemon/pokedex_text.h#gMurkrowPokedexText","kind":"dex","en":"MURKROW were feared as the alleged\\nbearers of ill fortune. It shows strong\\ninterest in anything that sparkles. It will\\neven try to steal rings from women."}
+{"id":"src/data/pokemon/pokedex_text.h#gSlowkingPokedexText","kind":"dex","en":"It undertakes research every day to\\nsolve the mysteries of the world.\\nHowever, it apparently forgets everything\\nif the SHELLDER on its head comes off."}
+{"id":"src/data/pokemon/pokedex_text.h#gMisdreavusPokedexText","kind":"dex","en":"A MISDREAVUS frightens people with a\\ncreepy, sobbing cry. It apparently uses\\nits red spheres to absorb the fear of foes\\nas its nutrition."}
+{"id":"src/data/pokemon/pokedex_text.h#gUnownPokedexText","kind":"dex","en":"This POKéMON is shaped like ancient text\\ncharacters. Although research is ongoing,\\nit is a mystery as to which came first,\\nthe ancient writings or the various UNOWN."}
+{"id":"src/data/pokemon/pokedex_text.h#gWobbuffetPokedexText","kind":"dex","en":"Usually docile, a WOBBUFFET strikes back\\nferociously if its black tail is attacked.\\nIt makes its lair in caves where it waits\\nfor nightfall."}
+{"id":"src/data/pokemon/pokedex_text.h#gGirafarigPokedexText","kind":"dex","en":"A GIRAFARIG is an herbivore--it eats\\ngrass and tree shoots. While it is eating,\\nits tail makes chewing and swallowing\\nmotions as if it were also eating."}
+{"id":"src/data/pokemon/pokedex_text.h#gPinecoPokedexText","kind":"dex","en":"A PINECO hangs from a tree branch and\\nwaits for prey. While eating, if it is\\ndisturbed by someone shaking its tree, it\\nfalls on the ground and suddenly explodes."}
+{"id":"src/data/pokemon/pokedex_text.h#gForretressPokedexText","kind":"dex","en":"It keeps itself inside its steel shell.\\nThe shell is opened when it is catching\\nprey, but it is so quick that the shell's\\ninside cannot be seen."}
+{"id":"src/data/pokemon/pokedex_text.h#gDunsparcePokedexText","kind":"dex","en":"Its drill-tipped tail is used to burrow into\\nthe ground backwards. This POKéMON is\\nknown to make its nest in complex shapes\\ndeep under the ground."}
+{"id":"src/data/pokemon/pokedex_text.h#gGligarPokedexText","kind":"dex","en":"It glides without making a single sound.\\nIt grasps the face of its foe using its\\nhind and large front claws, then stabs\\nwith its poison barb."}
+{"id":"src/data/pokemon/pokedex_text.h#gSteelixPokedexText","kind":"dex","en":"STEELIX live even further underground\\nthan ONIX. This POKéMON is known to dig\\ntoward the earth's core, reaching a depth\\nof over six-tenths of a mile underground."}
+{"id":"src/data/pokemon/pokedex_text.h#gSnubbullPokedexText","kind":"dex","en":"By baring its fangs and making a scary\\nface, it sends smaller POKéMON scurrying\\nin terror. The SNUBBULL does seem a\\nlittle sad at making its foes flee."}
+{"id":"src/data/pokemon/pokedex_text.h#gGranbullPokedexText","kind":"dex","en":"It has a particularly well-developed lower\\njaw. The huge fangs are heavy, causing\\nit to tilt its head. Unless it is startled, it\\nwill not try to bite."}
+{"id":"src/data/pokemon/pokedex_text.h#gQwilfishPokedexText","kind":"dex","en":"A QWILFISH uses the pressure of water\\nit swallows to shoot toxic quills all at\\nonce from all over its body. It finds\\nswimming to be somewhat challenging."}
+{"id":"src/data/pokemon/pokedex_text.h#gScizorPokedexText","kind":"dex","en":"A SCIZOR has a body with the hardness of\\nsteel. It is not easily fazed by ordinary\\nsorts of attacks. It flaps its wings to\\nregulate its body temperature."}
+{"id":"src/data/pokemon/pokedex_text.h#gShucklePokedexText","kind":"dex","en":"A SHUCKLE hides under rocks, keeping its\\nbody concealed inside its shell while\\neating stored berries. The berries mix with\\nits body fluids to become a juice."}
+{"id":"src/data/pokemon/pokedex_text.h#gHeracrossPokedexText","kind":"dex","en":"They gather in forests seeking the sweet\\nsap of trees. It is completely clad in a\\nsteel-hard shell. It is proud of its horn,\\nwhich it uses to fling foes."}
+{"id":"src/data/pokemon/pokedex_text.h#gSneaselPokedexText","kind":"dex","en":"A SNEASEL scales trees by punching its\\nhooked claws into the bark. It seeks out\\nunguarded nests and steals eggs for food\\nwhile the parents are away."}
+{"id":"src/data/pokemon/pokedex_text.h#gTeddiursaPokedexText","kind":"dex","en":"It licks its palms that are sweetened by\\nbeing soaked in honey. A TEDDIURSA makes\\nits own honey by blending fruits and pollen\\ncollected by BEEDRILL."}
+{"id":"src/data/pokemon/pokedex_text.h#gUrsaringPokedexText","kind":"dex","en":"In forests, it is said that there are many\\nstreams and towering trees where an\\nURSARING gathers food. It walks through\\nits forest collecting food every day."}
+{"id":"src/data/pokemon/pokedex_text.h#gSlugmaPokedexText","kind":"dex","en":"It is a species of POKéMON that lives in\\nvolcanic areas. If its body cools, its skin\\nhardens and immobilizes it. To avoid that,\\nit sleeps near magma."}
+{"id":"src/data/pokemon/pokedex_text.h#gMagcargoPokedexText","kind":"dex","en":"The shell on its back is made of hardened\\nmagma. Tens of thousands of years spent\\nliving in volcanic craters have turned\\nMAGCARGO's bodies into magma."}
+{"id":"src/data/pokemon/pokedex_text.h#gSwinubPokedexText","kind":"dex","en":"It roots for food by rubbing its snout\\nagainst the ground. Its favorite food is a\\nmushroom that grows under dried grass.\\nIt occasionally roots out hot springs."}
+{"id":"src/data/pokemon/pokedex_text.h#gPiloswinePokedexText","kind":"dex","en":"A PILOSWINE is covered by a thick coat\\nof long hair for enduring freezing cold.\\nIt uses its tusks to dig up food that has\\nbeen buried under ice."}
+{"id":"src/data/pokemon/pokedex_text.h#gCorsolaPokedexText","kind":"dex","en":"CORSOLA live in warm southern seas.\\nIf the sea becomes polluted, the beautiful\\ncoral stalks become discolored and crumble\\naway in tatters."}
+{"id":"src/data/pokemon/pokedex_text.h#gRemoraidPokedexText","kind":"dex","en":"A REMORAID uses its abdominal muscles\\nto forcefully expel swallowed water, then\\nshoot down flying prey. When evolution\\napproaches, it travels down rivers."}
+{"id":"src/data/pokemon/pokedex_text.h#gOctilleryPokedexText","kind":"dex","en":"It ensnares its foe with its suction-\\ncupped tentacles before delivering the\\nfinishing blow. If the foe turns out to be\\ntoo strong, it spews ink to escape."}
+{"id":"src/data/pokemon/pokedex_text.h#gDelibirdPokedexText","kind":"dex","en":"It carries food bundled up in its tail.\\nThere was a famous explorer who\\nmanaged to scale Mt. Everest thanks\\nto a DELIBIRD sharing its food."}
+{"id":"src/data/pokemon/pokedex_text.h#gMantinePokedexText","kind":"dex","en":"On sunny days, schools of MANTINE can be\\nseen elegantly leaping over the waves.\\nIt is not bothered by the REMORAID that\\nhitches rides."}
+{"id":"src/data/pokemon/pokedex_text.h#gSkarmoryPokedexText","kind":"dex","en":"A POKéMON that has a body and wings of\\nsteel. People in the past used feathers\\nfallen from SKARMORY to make swords and\\nknives."}
+{"id":"src/data/pokemon/pokedex_text.h#gHoundourPokedexText","kind":"dex","en":"HOUNDOUR communicate with each other\\nusing a variety of cries to corner their\\nprey. This POKéMON's remarkable teamwork\\nis simply unparalleled."}
+{"id":"src/data/pokemon/pokedex_text.h#gHoundoomPokedexText","kind":"dex","en":"In a HOUNDOOM pack, the one with its horns\\nraked sharply back serves a leadership\\nrole. They choose their leader by fighting\\namong themselves."}
+{"id":"src/data/pokemon/pokedex_text.h#gKingdraPokedexText","kind":"dex","en":"It sleeps quietly, deep on the seafloor.\\nWhen it comes up to the surface, it\\ncreates a huge whirlpool that can swallow\\neven ships."}
+{"id":"src/data/pokemon/pokedex_text.h#gPhanpyPokedexText","kind":"dex","en":"PHANPY's big ears serve as broad fans.\\nWhen it becomes hot, it flaps the ears\\nbusily to cool down. Even the young are\\nvery strong."}
+{"id":"src/data/pokemon/pokedex_text.h#gDonphanPokedexText","kind":"dex","en":"A DONPHAN is so strong it can easily haul\\na dump truck. Its hide has toughened to a\\nrock-hard state. An ordinary sort of\\nattack won't even leave a scratch."}
+{"id":"src/data/pokemon/pokedex_text.h#gPorygon2PokedexText","kind":"dex","en":"It was created by humans using the power\\nof science. It has been given artificial\\nintelligence that enables it to learn new\\ngestures and emotions on its own."}
+{"id":"src/data/pokemon/pokedex_text.h#gStantlerPokedexText","kind":"dex","en":"STANTLER's magnificent antlers were\\nonce traded at high prices as works of art.\\nAs a result, this POKéMON was hunted\\nclose to extinction."}
+{"id":"src/data/pokemon/pokedex_text.h#gSmearglePokedexText","kind":"dex","en":"A SMEARGLE marks its territory using a\\nfluid that leaks out from the tip of its\\ntail. About 5,000 different marks left by\\nthis POKéMON have been found."}
+{"id":"src/data/pokemon/pokedex_text.h#gTyroguePokedexText","kind":"dex","en":"TYROGUE become stressed out if they do\\nnot get to train every day. When raising\\nthis POKéMON, the TRAINER must establish\\na regular training schedule."}
+{"id":"src/data/pokemon/pokedex_text.h#gHitmontopPokedexText","kind":"dex","en":"Its technique of kicking while spinning is\\na remarkable mix of both offense and\\ndefense. HITMONTOP travel faster\\nspinning than they do walking."}
+{"id":"src/data/pokemon/pokedex_text.h#gSmoochumPokedexText","kind":"dex","en":"It actively runs about, but also falls\\noften. Whenever it falls, it will check its\\nreflection on a lake's surface to make\\nsure its face hasn't become dirty."}
+{"id":"src/data/pokemon/pokedex_text.h#gElekidPokedexText","kind":"dex","en":"If it touches metal and discharges the\\nelectricity it has stored in its body, an\\nELEKID begins swinging its arms in circles\\nto recharge itself."}
+{"id":"src/data/pokemon/pokedex_text.h#gMagbyPokedexText","kind":"dex","en":"If a MAGBY is spouting yellow flames from\\nits mouth, it is in good health. When it is\\nfatigued, black smoke will be mixed in with\\nthe flames."}
+{"id":"src/data/pokemon/pokedex_text.h#gMiltankPokedexText","kind":"dex","en":"It gives over five gallons of milk daily.\\nIts sweet milk is enjoyed by children and\\ngrown-ups alike. People who can't drink\\nmilk turn it into yogurt and eat it instead."}
+{"id":"src/data/pokemon/pokedex_text.h#gBlisseyPokedexText","kind":"dex","en":"If it senses sadness with its fluffy fur,\\na BLISSEY will rush over to the sad person,\\nhowever far away, to share an egg of\\nhappiness that brings a smile to any face."}
+{"id":"src/data/pokemon/pokedex_text.h#gRaikouPokedexText","kind":"dex","en":"RAIKOU embodies the speed of lightning.\\nIts roars send shock waves shuddering\\nthrough the air and ground as if\\nlightning bolts were crashing down."}
+{"id":"src/data/pokemon/pokedex_text.h#gEnteiPokedexText","kind":"dex","en":"ENTEI embodies the passion of magma.\\nIt is thought to have been born in the\\neruption of a volcano. It blasts fire that\\nconsumes all that it touches."}
+{"id":"src/data/pokemon/pokedex_text.h#gSuicunePokedexText","kind":"dex","en":"SUICUNE embodies the compassion of\\na pure spring of water. It runs across\\nthe land with gliding elegance. It has the\\npower to purify dirty water."}
+{"id":"src/data/pokemon/pokedex_text.h#gLarvitarPokedexText","kind":"dex","en":"A LARVITAR is born deep under the ground.\\nIt must eat its way through the soil above\\nand reach the surface for it to see its\\nparents' faces."}
+{"id":"src/data/pokemon/pokedex_text.h#gPupitarPokedexText","kind":"dex","en":"A PUPITAR creates a gas inside its body\\nthat it ejects under compression to propel\\nitself like a jet. Its body can withstand\\na collision with solid steel."}
+{"id":"src/data/pokemon/pokedex_text.h#gTyranitarPokedexText","kind":"dex","en":"A TYRANITAR is so overwhelmingly powerful,\\nit can bring down a whole mountain to make\\nits nest. It roams in mountains seeking\\nnew opponents to fight."}
+{"id":"src/data/pokemon/pokedex_text.h#gLugiaPokedexText","kind":"dex","en":"LUGIA is so powerful even a light\\nfluttering of its wings can blow apart\\nhouses. As a result, it chooses to live out\\nof sight deep under the sea."}
+{"id":"src/data/pokemon/pokedex_text.h#gHoOhPokedexText","kind":"dex","en":"Its feathers--which glow in seven colors\\ndepending on the angle at which they are\\nstruck by light--are thought to bring joy.\\nIt is said to live at the foot of a rainbow."}
+{"id":"src/data/pokemon/pokedex_text.h#gCelebiPokedexText","kind":"dex","en":"This POKéMON came from the future by\\ncrossing over time. It is thought that so\\nlong as CELEBI appears, a bright and\\nshining future awaits us."}
+{"id":"src/data/pokemon/pokedex_text.h#gTreeckoPokedexText","kind":"dex","en":"It makes its nest in a giant tree in the\\nforest. It ferociously guards against\\nanything nearing its territory. It is said\\nto be the protector of the forest's trees."}
+{"id":"src/data/pokemon/pokedex_text.h#gGrovylePokedexText","kind":"dex","en":"Leaves grow out of this POKéMON's body.\\nThey help obscure a GROVYLE from the eyes\\nof its enemies while it is in a thickly\\novergrown forest."}
+{"id":"src/data/pokemon/pokedex_text.h#gSceptilePokedexText","kind":"dex","en":"In the jungle, its power is without equal.\\nThis POKéMON carefully grows trees and\\nplants. It regulates its body temperature\\nby basking in sunlight."}
+{"id":"src/data/pokemon/pokedex_text.h#gTorchicPokedexText","kind":"dex","en":"If attacked, it strikes back by spitting\\nballs of fire it forms in its stomach.\\nA TORCHIC dislikes darkness because it\\ncan't see its surroundings."}
+{"id":"src/data/pokemon/pokedex_text.h#gCombuskenPokedexText","kind":"dex","en":"It lashes out with 10 kicks per second.\\nIts strong fighting instinct compels it\\nto keep up its offensive until the\\nopponent gives up."}
+{"id":"src/data/pokemon/pokedex_text.h#gBlazikenPokedexText","kind":"dex","en":"It learns martial arts that use punches\\nand kicks. Every several years, its old\\nfeathers burn off, and new, supple\\nfeathers grow back in their place."}
+{"id":"src/data/pokemon/pokedex_text.h#gMudkipPokedexText","kind":"dex","en":"On land, it can powerfully lift large\\nboulders by planting its four feet and\\nheaving. It sleeps by burying itself in soil\\nat the water's edge."}
+{"id":"src/data/pokemon/pokedex_text.h#gMarshtompPokedexText","kind":"dex","en":"Its toughened hind legs enable it to stand\\nupright. Because it weakens if its skin\\ndries out, it replenishes fluids by playing\\nin mud."}
+{"id":"src/data/pokemon/pokedex_text.h#gSwampertPokedexText","kind":"dex","en":"If it senses the approach of a storm and\\na tidal wave, it protects its seaside nest\\nby piling up boulders. It swims as fast as\\na jet ski."}
+{"id":"src/data/pokemon/pokedex_text.h#gPoochyenaPokedexText","kind":"dex","en":"It savagely threatens foes with bared\\nfangs. It chases after fleeing targets\\ntenaciously. It turns tail and runs,\\nhowever, if the foe strikes back."}
+{"id":"src/data/pokemon/pokedex_text.h#gMightyenaPokedexText","kind":"dex","en":"In the wild, MIGHTYENA live in a pack.\\nThey never defy their leader's orders.\\nThey defeat foes with perfectly\\ncoordinated teamwork."}
+{"id":"src/data/pokemon/pokedex_text.h#gZigzagoonPokedexText","kind":"dex","en":"Rubbing its nose against the ground, it\\nalways wanders about back and forth in\\nsearch of something. It is distinguished\\nby the zigzag footprints it leaves."}
+{"id":"src/data/pokemon/pokedex_text.h#gLinoonePokedexText","kind":"dex","en":"It is exceedingly fast if it only has to run\\nin a straight line. When it spots pond-\\ndwelling prey underwater, it quickly leaps\\nin and catches it with its sharp claws."}
+{"id":"src/data/pokemon/pokedex_text.h#gWurmplePokedexText","kind":"dex","en":"It sticks to tree branches and eats\\nleaves. The thread it spits from its mouth,\\nwhich becomes gooey when it touches\\nair, slows the movement of its foes."}
+{"id":"src/data/pokemon/pokedex_text.h#gSilcoonPokedexText","kind":"dex","en":"It prepares for evolution using the\\nenergy it stored while it was a WURMPLE.\\nIt keeps watch over the surroundings with\\nits two eyes."}
+{"id":"src/data/pokemon/pokedex_text.h#gBeautiflyPokedexText","kind":"dex","en":"Its colorfully patterned wings are its\\nmost prominent feature. It flies through\\nflower-covered fields collecting pollen.\\nIt attacks ferociously when angered."}
+{"id":"src/data/pokemon/pokedex_text.h#gCascoonPokedexText","kind":"dex","en":"To avoid detection by its enemies, it hides\\nmotionlessly beneath large leaves and in\\nthe gaps of branches. It also attaches\\ndead leaves to its body for camouflage."}
+{"id":"src/data/pokemon/pokedex_text.h#gDustoxPokedexText","kind":"dex","en":"It is a nocturnal POKéMON that flies from\\nfields and mountains to the attraction of\\nstreetlights at night. It looses highly\\ntoxic powder from its wings."}
+{"id":"src/data/pokemon/pokedex_text.h#gLotadPokedexText","kind":"dex","en":"This POKéMON lives in ponds with clean\\nwater. It is known to ferry small POKéMON\\nacross ponds by carrying them on the\\nbroad leaf on its head."}
+{"id":"src/data/pokemon/pokedex_text.h#gLombrePokedexText","kind":"dex","en":"In the evening, it takes great delight in\\npopping out of rivers and startling people.\\nIt feeds on aquatic moss that grows on\\nrocks in the riverbed."}
+{"id":"src/data/pokemon/pokedex_text.h#gLudicoloPokedexText","kind":"dex","en":"When it hears festive music, all the cells\\nin its body become stimulated, and it\\nbegins moving in rhythm. It does not\\nquail even when it faces a tough opponent."}
+{"id":"src/data/pokemon/pokedex_text.h#gSeedotPokedexText","kind":"dex","en":"It hangs off branches and absorbs\\nnutrients. When it finishes eating, its\\nbody becomes so heavy that it drops to\\nthe ground with a thump."}
+{"id":"src/data/pokemon/pokedex_text.h#gNuzleafPokedexText","kind":"dex","en":"A forest-dwelling POKéMON that is skilled\\nat climbing trees. Its long and pointed\\nnose is its weak point. It loses power if\\nthe nose is gripped."}
+{"id":"src/data/pokemon/pokedex_text.h#gShiftryPokedexText","kind":"dex","en":"It is said to arrive on chilly, wintry winds.\\nFeared from long ago as the guardian of\\nforests, this POKéMON lives in a deep\\nforest where people do not venture."}
+{"id":"src/data/pokemon/pokedex_text.h#gTaillowPokedexText","kind":"dex","en":"Although it is small, it is very courageous.\\nIt will take on a larger SKARMORY on an\\nequal footing. However, its will weakens if\\nit becomes hungry."}
+{"id":"src/data/pokemon/pokedex_text.h#gSwellowPokedexText","kind":"dex","en":"A SWELLOW dives upon prey from far above.\\nIt never misses its targets. It takes to\\nthe skies in search of lands with a warm\\nclimate."}
+{"id":"src/data/pokemon/pokedex_text.h#gWingullPokedexText","kind":"dex","en":"It makes its nest on a sheer cliff at the\\nedge of the sea. It has trouble keeping\\nits wings flapping in flight. Instead, it\\nsoars on updrafts."}
+{"id":"src/data/pokemon/pokedex_text.h#gPelipperPokedexText","kind":"dex","en":"It skims the tops of waves as it flies.\\nWhen it spots prey, it uses its large beak\\nto scoop up the victim with water.\\nIt protects its eggs in its beak."}
+{"id":"src/data/pokemon/pokedex_text.h#gRaltsPokedexText","kind":"dex","en":"A RALTS has the power to sense the\\nemotions of people and POKéMON with the\\nhorns on its head. It takes cover if it\\nsenses any hostility."}
+{"id":"src/data/pokemon/pokedex_text.h#gKirliaPokedexText","kind":"dex","en":"A KIRLIA has the psychic power to create \\na rip in the dimensions and see into the\\nfuture. It is said to dance with pleasure\\non sunny mornings."}
+{"id":"src/data/pokemon/pokedex_text.h#gGardevoirPokedexText","kind":"dex","en":"It apparently does not feel the pull of\\ngravity because it supports itself with\\npsychic power. It will give its life to\\nprotect its TRAINER."}
+{"id":"src/data/pokemon/pokedex_text.h#gSurskitPokedexText","kind":"dex","en":"They gather on puddles after evening\\ndownpours, gliding across the surface\\nof water as if sliding. It secretes honey\\nwith a sweet aroma from its head."}
+{"id":"src/data/pokemon/pokedex_text.h#gMasquerainPokedexText","kind":"dex","en":"It intimidates foes with the large eyelike\\npatterns on its antennae. Because it can't\\nfly if its wings get wet, it shelters itself\\nfrom rain under large trees and eaves."}
+{"id":"src/data/pokemon/pokedex_text.h#gShroomishPokedexText","kind":"dex","en":"It loves to eat damp, composted soil in\\nforests. If you enter a forest after a\\nlong rain, you can see many SHROOMISH\\nfeasting on composted soil."}
+{"id":"src/data/pokemon/pokedex_text.h#gBreloomPokedexText","kind":"dex","en":"It scatters spores from holes in the cap\\non its head. It loves warm and humid\\nclimates. It feeds on trees and plants in\\nfields and forests."}
+{"id":"src/data/pokemon/pokedex_text.h#gSlakothPokedexText","kind":"dex","en":"It sleeps virtually all day and night long.\\nIt doesn't change its nest its entire life,\\nbut it sometimes travels great distances\\nby swimming in rivers."}
+{"id":"src/data/pokemon/pokedex_text.h#gVigorothPokedexText","kind":"dex","en":"It can't keep still because its blood boils\\nwith energy. It runs through the fields\\nand mountains all day to calm itself. If it\\ndoesn't, it can't sleep at night."}
+{"id":"src/data/pokemon/pokedex_text.h#gSlakingPokedexText","kind":"dex","en":"Hordes of SLAKING gather around trees\\nwhen fruits come into season. They wait\\naround patiently for ripened fruits to fall\\nout of the trees."}
+{"id":"src/data/pokemon/pokedex_text.h#gNincadaPokedexText","kind":"dex","en":"It makes its nest at the roots of a mighty\\ntree. Using its whiskerlike antennae, it\\nprobes its surroundings in the\\npitch-black darkness of soil."}
+{"id":"src/data/pokemon/pokedex_text.h#gNinjaskPokedexText","kind":"dex","en":"Because it darts about vigorously at high\\nspeed, it is very difficult to see. Hearing\\nits distinctive cries for too long induces\\na headache."}
+{"id":"src/data/pokemon/pokedex_text.h#gShedinjaPokedexText","kind":"dex","en":"A peculiar POKéMON that floats in air even\\nthough its wings remain completely still.\\nThe inside of its body is hollow and\\nutterly dark."}
+{"id":"src/data/pokemon/pokedex_text.h#gWhismurPokedexText","kind":"dex","en":"Its cries equal a jet plane in volume.\\nIt inhales through its ear canals. Because\\nof this system, it can cry continually\\nwithout having to catch its breath."}
+{"id":"src/data/pokemon/pokedex_text.h#gLoudredPokedexText","kind":"dex","en":"It positions the round speakers on its\\nhead to assail foes with ultrasonic waves\\nat massive volume. It builds power by\\nstomping the ground."}
+{"id":"src/data/pokemon/pokedex_text.h#gExploudPokedexText","kind":"dex","en":"It has sound-generating organs all over\\nits body. It communicates with others by\\nadjusting the tone and volume of the cries\\nit emits."}
+{"id":"src/data/pokemon/pokedex_text.h#gMakuhitaPokedexText","kind":"dex","en":"It loves to toughen up its body above all\\nelse. If you hear quaking rumbles in a cave,\\nit is the sound of MAKUHITA undertaking\\nstrenuous training."}
+{"id":"src/data/pokemon/pokedex_text.h#gHariyamaPokedexText","kind":"dex","en":"It has the habit of challenging others\\nwithout hesitation to tests of strength.\\nIt's been known to stand on train tracks\\nand stop trains using forearm thrusts."}
+{"id":"src/data/pokemon/pokedex_text.h#gAzurillPokedexText","kind":"dex","en":"Its tail, which is packed with nutrition,\\nis very bouncy like a rubber ball. On sunny\\ndays they gather at the edge of water and\\nsplash about for fun."}
+{"id":"src/data/pokemon/pokedex_text.h#gNosepassPokedexText","kind":"dex","en":"Its body emits a powerful magnetism.\\nIt feeds on prey that is pulled in by the\\nforce. Its magnetism is stronger in cold\\nseasons."}
+{"id":"src/data/pokemon/pokedex_text.h#gSkittyPokedexText","kind":"dex","en":"A SKITTY's adorably cute behavior makes it\\nhighly popular. In battle, it makes its tail\\npuff out. It threatens foes with a sharp\\ngrowl."}
+{"id":"src/data/pokemon/pokedex_text.h#gDelcattyPokedexText","kind":"dex","en":"Rather than keeping a permanent lair,\\nit habitually seeks comfortable spots and\\nsleeps there. It is nocturnal and becomes\\nactive at dusk."}
+{"id":"src/data/pokemon/pokedex_text.h#gSableyePokedexText","kind":"dex","en":"It digs branching holes in caves using its\\nsharp claws in search of food--raw gems.\\nA SABLEYE lurks in darkness and is seen\\nonly rarely."}
+{"id":"src/data/pokemon/pokedex_text.h#gMawilePokedexText","kind":"dex","en":"Its giant jaws are actually steel horns\\nthat transformed. It fools foes into\\ncomplacency with its adorable gestures,\\nthen chomps them with its huge jaws."}
+{"id":"src/data/pokemon/pokedex_text.h#gAronPokedexText","kind":"dex","en":"A POKéMON that is clad in steel armor.\\nA new suit of armor is made when it evolves.\\nThe old, discarded armor is salvaged as\\nmetal for making iron products."}
+{"id":"src/data/pokemon/pokedex_text.h#gLaironPokedexText","kind":"dex","en":"When two LAIRON meet in the wild, they\\nfight for territory by bashing into each\\nother with their steel bodies. The sound\\nof their collision carries for miles."}
+{"id":"src/data/pokemon/pokedex_text.h#gAggronPokedexText","kind":"dex","en":"Its iron horns grow longer a little at\\na time. They are used to determine the\\nAGGRON's age. The gouges in its armor are\\nworn with pride as mementos from battles."}
+{"id":"src/data/pokemon/pokedex_text.h#gMedititePokedexText","kind":"dex","en":"It continually meditates for hours every\\nday. As a result of rigorous and dedicated\\nyoga training, it has tempered its\\nspiritual power so much it can fly."}
+{"id":"src/data/pokemon/pokedex_text.h#gMedichamPokedexText","kind":"dex","en":"Through crushingly harsh yoga training, it\\ngained the power to foretell its foe's\\nactions. It battles with elegant, dance-\\nlike movement."}
+{"id":"src/data/pokemon/pokedex_text.h#gElectrikePokedexText","kind":"dex","en":"It generates electricity using friction\\nfrom the atmosphere. In seasons with\\nespecially arid air, its entire body blazes\\nwith violent showers of sparks."}
+{"id":"src/data/pokemon/pokedex_text.h#gManectricPokedexText","kind":"dex","en":"Because lightning falls in their vicinities,\\nMANECTRIC were thought to have been born\\nfrom lightning. In battle, they create\\nthunderclouds."}
+{"id":"src/data/pokemon/pokedex_text.h#gPluslePokedexText","kind":"dex","en":"It has the trait of cheering on its fellow\\nPOKéMON. By shorting out the electricity\\nit releases from its paws, it creates\\npom-poms for cheering."}
+{"id":"src/data/pokemon/pokedex_text.h#gMinunPokedexText","kind":"dex","en":"At a meeting of POKéMON academics, it was\\nannounced that simultaneous exposure to\\nelectricity from a PLUSLE and MINUN will\\npromote circulation and boost vitality."}
+{"id":"src/data/pokemon/pokedex_text.h#gVolbeatPokedexText","kind":"dex","en":"With their taillights lit, VOLBEAT fly in\\na swarm, drawing geometric designs in the\\nnight sky. They move their nests if their\\npond water becomes dirty."}
+{"id":"src/data/pokemon/pokedex_text.h#gIllumisePokedexText","kind":"dex","en":"A nocturnal POKéMON that becomes active\\nupon nightfall. It leads a VOLBEAT swarm\\nto draw patterns in the night sky. Over 200\\ndifferent patterns have been confirmed."}
+{"id":"src/data/pokemon/pokedex_text.h#gRoseliaPokedexText","kind":"dex","en":"A ROSELIA that drinks nutritionally rich\\nspringwater blooms with lovely flowers.\\nThe fragrance of its flowers has the\\neffect of making its foes careless."}
+{"id":"src/data/pokemon/pokedex_text.h#gGulpinPokedexText","kind":"dex","en":"This POKéMON's stomach fluid can even\\ndigest scrap iron. In one gulp, it can\\nswallow something that is as large as\\nitself."}
+{"id":"src/data/pokemon/pokedex_text.h#gSwalotPokedexText","kind":"dex","en":"Its powerful stomach acid is capable of\\ndigesting almost anything. The one thing\\nin the whole world a SWALOT can't digest is\\nits own stomach."}
+{"id":"src/data/pokemon/pokedex_text.h#gCarvanhaPokedexText","kind":"dex","en":"CARVANHA attack ships in swarms, making\\nthem sink. Although it is said to be a very\\nvicious POKéMON, it timidly flees as soon\\nas it finds itself alone."}
+{"id":"src/data/pokemon/pokedex_text.h#gSharpedoPokedexText","kind":"dex","en":"The vicious and sly gangster of the sea.\\nIts skin is specially textured to minimize\\ndrag in water. Its speed tops out at over\\n75 miles per hour."}
+{"id":"src/data/pokemon/pokedex_text.h#gWailmerPokedexText","kind":"dex","en":"While this POKéMON usually lives in the sea,\\nit can survive on land, although not too\\nlong. It loses vitality if its body becomes\\ndried out."}
+{"id":"src/data/pokemon/pokedex_text.h#gWailordPokedexText","kind":"dex","en":"It breathes through nostrils that it\\nraises above the sea. By inhaling to its\\nmaximum capacity, a WAILORD can dive close\\nto 10,000 feet beneath the waves."}
+{"id":"src/data/pokemon/pokedex_text.h#gNumelPokedexText","kind":"dex","en":"A NUMEL stores boiling magma in the hump\\non its back. It is a hardy POKéMON that can\\ntransport a 220-pound load. It has served\\nhumans at work since long ago."}
+{"id":"src/data/pokemon/pokedex_text.h#gCameruptPokedexText","kind":"dex","en":"A POKéMON that lives in the crater of\\na volcano. Every 10 years, the volcanoes\\non its back erupt violently. Research is\\nunder way on the cause of eruption."}
+{"id":"src/data/pokemon/pokedex_text.h#gTorkoalPokedexText","kind":"dex","en":"It battles using energy it gets from\\nburning coal. When loosing smoke from its\\nnostrils, it lets off a sound that is\\nsimilar to a locomotive's horn."}
+{"id":"src/data/pokemon/pokedex_text.h#gSpoinkPokedexText","kind":"dex","en":"A POKéMON that manipulates psychic power\\nat will. It doesn't stop bouncing even when\\nit is asleep. It loves eating mushrooms\\nthat grow underground."}
+{"id":"src/data/pokemon/pokedex_text.h#gGrumpigPokedexText","kind":"dex","en":"It stores power in the black pearls on its\\nforehead. When it uses psychic power, it\\nperforms an odd dance step. Its style of\\ndancing became hugely popular overseas."}
+{"id":"src/data/pokemon/pokedex_text.h#gSpindaPokedexText","kind":"dex","en":"It is distinguished by a pattern of\\nspots that is always different. Its\\nunsteady, tottering walk has the\\neffect of fouling its foe's aim."}
+{"id":"src/data/pokemon/pokedex_text.h#gTrapinchPokedexText","kind":"dex","en":"Its big jaws crunch through boulders.\\nBecause its head is so big, it has a hard\\ntime getting back upright if it tips over\\nonto its back."}
+{"id":"src/data/pokemon/pokedex_text.h#gVibravaPokedexText","kind":"dex","en":"It looses ultrasonic waves by rubbing its\\nwings together. Since a VIBRAVA's wings\\nare still in the process of growing, it can\\nonly fly short distances."}
+{"id":"src/data/pokemon/pokedex_text.h#gFlygonPokedexText","kind":"dex","en":"The flapping of its wings sounds like\\nsinging. To prevent detection by enemies,\\nit hides itself by flapping up a cloud of\\ndesert sand."}
+{"id":"src/data/pokemon/pokedex_text.h#gCacneaPokedexText","kind":"dex","en":"CACNEA live in deserts with virtually no\\nrainfall. It battles by swinging its thick,\\nspiked arms. Once a year, a yellow flower\\nblooms."}
+{"id":"src/data/pokemon/pokedex_text.h#gCacturnePokedexText","kind":"dex","en":"After spending thousands of years in\\nharsh deserts, its blood transformed into\\nthe same substances as sand. It is\\nnocturnal, so it hunts at night."}
+{"id":"src/data/pokemon/pokedex_text.h#gSwabluPokedexText","kind":"dex","en":"A POKéMON that has wings like cottony\\nclouds. After enduring winter, in which\\nlittle food is available, SWABLU flocks\\nmove closer to towns in the spring."}
+{"id":"src/data/pokemon/pokedex_text.h#gAltariaPokedexText","kind":"dex","en":"It hums in a beautiful soprano voice.\\nIt flies among white clouds in the blue\\nsky. It launches intensely hot fireballs\\nfrom its mouth."}
+{"id":"src/data/pokemon/pokedex_text.h#gZangoosePokedexText","kind":"dex","en":"When it battles, it stands on its hind legs\\nand attacks with its sharply clawed\\nforelegs. Its fur bristles if it encounters\\nany SEVIPER."}
+{"id":"src/data/pokemon/pokedex_text.h#gSeviperPokedexText","kind":"dex","en":"SEVIPER and ZANGOOSE are eternal rivals.\\nIt counters a ZANGOOSE's dazzling agility\\nwith its swordlike tail, which also oozes\\na horrible poison."}
+{"id":"src/data/pokemon/pokedex_text.h#gLunatonePokedexText","kind":"dex","en":"It becomes very active on the night of\\na full moon. This POKéMON was first\\ndiscovered 40 years ago at the site of\\na meteor strike."}
+{"id":"src/data/pokemon/pokedex_text.h#gSolrockPokedexText","kind":"dex","en":"Solar energy is the source of this \\nPOKéMON's power. On sunny days, groups of\\nSOLROCK line up facing the sun and absorb\\nits light."}
+{"id":"src/data/pokemon/pokedex_text.h#gBarboachPokedexText","kind":"dex","en":"Its body is covered with a slimy film.\\nThe film acts as a barrier to prevent germs\\nin muddy water from entering the\\nBARBOACH's body."}
+{"id":"src/data/pokemon/pokedex_text.h#gWhiscashPokedexText","kind":"dex","en":"Mysteriously, it can foretell earthquakes.\\nIn the daytime, it sleeps in mud at the\\nbottom of a pond. When it awakens, it\\ncontinually feeds throughout the night."}
+{"id":"src/data/pokemon/pokedex_text.h#gCorphishPokedexText","kind":"dex","en":"Once it grips prey with its large pincers,\\nit will never let go, no matter what.\\nIt is a hardy POKéMON that can thrive\\nin any environment."}
+{"id":"src/data/pokemon/pokedex_text.h#gCrawdauntPokedexText","kind":"dex","en":"A brutish POKéMON that loves to battle.\\nA veteran CRAWDAUNT that has prevailed in\\nhundreds of battles has giant pincers\\nmarked with countless scars."}
+{"id":"src/data/pokemon/pokedex_text.h#gBaltoyPokedexText","kind":"dex","en":"A BALTOY moves by spinning on its single\\nfoot. It has been depicted in murals \\nadorning the walls of a once-bustling city\\nin an ancient age."}
+{"id":"src/data/pokemon/pokedex_text.h#gClaydolPokedexText","kind":"dex","en":"A CLAYDOL sleeps while hovering in midair.\\nIts arms are separate from its body.\\nThey are kept floating by the POKéMON's\\nmanipulation of psychic power."}
+{"id":"src/data/pokemon/pokedex_text.h#gLileepPokedexText","kind":"dex","en":"It disguises itself as seaweed by making\\nits tentacles sway. Unsuspecting prey\\nthat come too close are swallowed whole.\\nIt became extinct 100 million years ago."}
+{"id":"src/data/pokemon/pokedex_text.h#gCradilyPokedexText","kind":"dex","en":"It drags its heavy body along the\\nseafloor. It makes its nest in the shallows\\nof warm seas. CRADILY can be seen on\\nbeaches when the tide goes out."}
+{"id":"src/data/pokemon/pokedex_text.h#gAnorithPokedexText","kind":"dex","en":"It was resurrected from a fossil using the\\npower of science. It swims by undulating\\nthe eight wings at its sides. They were\\nfeet that adapted to life in the sea."}
+{"id":"src/data/pokemon/pokedex_text.h#gArmaldoPokedexText","kind":"dex","en":"ARMALDO usually lives on land. However,\\nwhen it hunts for prey, it dives beneath\\nthe ocean. It swims around using its two\\nlarge wings."}
+{"id":"src/data/pokemon/pokedex_text.h#gFeebasPokedexText","kind":"dex","en":"FEEBAS live in ponds that are heavily\\ninfested with weeds. Because of its\\nhopelessly shabby appearance, it\\nseems as if few TRAINERS raise it."}
+{"id":"src/data/pokemon/pokedex_text.h#gMiloticPokedexText","kind":"dex","en":"It is said to live at the bottom of\\nlarge lakes. Considered to be the most\\nbeautiful of all POKéMON, it has been\\ndepicted in paintings and statues."}
+{"id":"src/data/pokemon/pokedex_text.h#gCastformPokedexText","kind":"dex","en":"It alters its form depending on the\\nweather. Changes in the climate such as\\nthe temperature and humidity appear to\\naffect its cellular structure."}
+{"id":"src/data/pokemon/pokedex_text.h#gKecleonPokedexText","kind":"dex","en":"A POKéMON that has the ability to alter its\\nbody colors to match its surroundings.\\nA KECLEON reverts to its original colors if\\nit is startled."}
+{"id":"src/data/pokemon/pokedex_text.h#gShuppetPokedexText","kind":"dex","en":"This POKéMON roams about deep in the\\nnight seeking such negative emotions as\\ngrudges and envy. It retreats to its nest\\nwhen the sun begins to rise."}
+{"id":"src/data/pokemon/pokedex_text.h#gBanettePokedexText","kind":"dex","en":"An abandoned plush doll became this\\nPOKéMON. They are said to live in garbage\\ndumps and wander about in search of the\\nchildren that threw them away."}
+{"id":"src/data/pokemon/pokedex_text.h#gDuskullPokedexText","kind":"dex","en":"A glare from its single scarlet eye makes\\neven burly grown-ups freeze in utter fear.\\nIt is a nocturnal POKéMON that roams\\nabout under the cloak of darkness."}
+{"id":"src/data/pokemon/pokedex_text.h#gDusclopsPokedexText","kind":"dex","en":"It is thought that its body is hollow with\\nonly a spectral ball of fire burning inside.\\nHowever, no one has been able to\\nconfirm this theory as fact."}
+{"id":"src/data/pokemon/pokedex_text.h#gTropiusPokedexText","kind":"dex","en":"It flies by flapping its broad leaves.\\nThe bunch of fruit that grows around its\\nneck is deliciously sweet. In the spring,\\nit scatters pollen from its neck."}
+{"id":"src/data/pokemon/pokedex_text.h#gChimechoPokedexText","kind":"dex","en":"They fly about very actively when the hot\\nseason arrives. They communicate among\\nthemselves using seven different and\\ndistinguishing cries."}
+{"id":"src/data/pokemon/pokedex_text.h#gAbsolPokedexText","kind":"dex","en":"It sharply senses even subtle changes in\\nthe sky and the land to predict natural\\ndisasters. It is a long-lived POKéMON that\\nhas a life-span of 100 years."}
+{"id":"src/data/pokemon/pokedex_text.h#gWynautPokedexText","kind":"dex","en":"A WYNAUT loves to eat sweet fruits.\\nIt cleverly picks fruits using its earlike\\narms. They gather in fruit gardens, drawn\\nby the fragrance."}
+{"id":"src/data/pokemon/pokedex_text.h#gSnoruntPokedexText","kind":"dex","en":"They tend to move about in groups of\\naround five SNORUNT. In snowy regions,\\nit is said that when they are seen late at\\nnight, snowfall will arrive by morning."}
+{"id":"src/data/pokemon/pokedex_text.h#gGlaliePokedexText","kind":"dex","en":"A GLALIE has the power to instantaneously\\nfreeze moisture in the atmosphere.\\nA dazzling cloud of diamondlike ice\\ncrystals forms around its body."}
+{"id":"src/data/pokemon/pokedex_text.h#gSphealPokedexText","kind":"dex","en":"It is completely covered with plushy fur.\\nAs a result, it never feels the cold even\\nwhen it is rolling about on ice floes or\\ndiving in the sea."}
+{"id":"src/data/pokemon/pokedex_text.h#gSealeoPokedexText","kind":"dex","en":"SEALEO live in herds on ice floes. Using its\\npowerful flippers, it shatters ice.\\nIt dives into the sea to hunt prey five\\ntimes a day."}
+{"id":"src/data/pokemon/pokedex_text.h#gWalreinPokedexText","kind":"dex","en":"To protect its herd, the leader battles\\nanything that invades its territory, even\\nat the cost of its life. Its tusks may snap\\noff in battle."}
+{"id":"src/data/pokemon/pokedex_text.h#gClamperlPokedexText","kind":"dex","en":"A CLAMPERL slams its shell closed on prey\\nto prevent escape. The pearl it creates\\nupon evolution is said to be infused with\\na mysterious energy."}
+{"id":"src/data/pokemon/pokedex_text.h#gHuntailPokedexText","kind":"dex","en":"To withstand the crushing pressure of\\nwater deep under the sea, its spine is very\\nthick and sturdy. Its tail, which is shaped\\nlike a small fish, has eyes that light up."}
+{"id":"src/data/pokemon/pokedex_text.h#gGorebyssPokedexText","kind":"dex","en":"A GOREBYSS siphons the body fluids of prey\\nthrough its thin, tubular mouth. Its light\\npink body color turns vivid when it\\nfinishes feeding."}
+{"id":"src/data/pokemon/pokedex_text.h#gRelicanthPokedexText","kind":"dex","en":"A POKéMON that was once believed to have\\nbeen extinct. The species has not changed\\nits form for 100 million years. It walks on\\nthe seafloor using its pectoral fins."}
+{"id":"src/data/pokemon/pokedex_text.h#gLuvdiscPokedexText","kind":"dex","en":"LUVDISC make the branches of CORSOLA\\ntheir nests. There is a custom from long\\nago of giving a LUVDISC as a gift to\\nexpress one's feelings of love."}
+{"id":"src/data/pokemon/pokedex_text.h#gBagonPokedexText","kind":"dex","en":"Although it is small, this POKéMON is very\\npowerful because its body is a bundle of\\nmuscles. It launches head-butts with its\\nironlike skull."}
+{"id":"src/data/pokemon/pokedex_text.h#gShelgonPokedexText","kind":"dex","en":"It hardly eats while it awaits evolution.\\nIt becomes hardier by enduring hunger.\\nIts shell peels off the instant it begins\\nto evolve."}
+{"id":"src/data/pokemon/pokedex_text.h#gSalamencePokedexText","kind":"dex","en":"After many long years, its cellular\\nstructure underwent a sudden mutation to\\ngrow wings. When angered, it loses all\\nthought and rampages out of control."}
+{"id":"src/data/pokemon/pokedex_text.h#gBeldumPokedexText","kind":"dex","en":"When BELDUM gather in a swarm, they move\\nin perfect unison as if they were but one\\nPOKéMON. They communicate with each other\\nusing brain waves."}
+{"id":"src/data/pokemon/pokedex_text.h#gMetangPokedexText","kind":"dex","en":"The claws tipping its arms pack the\\ndestructive power to tear through thick\\niron sheets as if they were silk. It flies\\nat over 60 miles per hour."}
+{"id":"src/data/pokemon/pokedex_text.h#gMetagrossPokedexText","kind":"dex","en":"METAGROSS has four brains that are joined\\nby a complex neural network. As a result of\\nintegration, this POKéMON is smarter than\\na supercomputer."}
+{"id":"src/data/pokemon/pokedex_text.h#gRegirockPokedexText","kind":"dex","en":"A POKéMON that is made entirely of rocks\\nand boulders. If parts of its body chip off\\nin battle, REGIROCK repairs itself by\\nadding new rocks."}
+{"id":"src/data/pokemon/pokedex_text.h#gRegicePokedexText","kind":"dex","en":"Its entire body is made of Antarctic ice.\\nAfter extensive studies, researchers\\nbelieve the ice was formed during an\\nice age."}
+{"id":"src/data/pokemon/pokedex_text.h#gRegisteelPokedexText","kind":"dex","en":"Its body is harder than any other kind of\\nmetal. The body metal is composed of a\\nmysterious substance. Not only is it hard,\\nit shrinks and stretches flexibly."}
+{"id":"src/data/pokemon/pokedex_text.h#gLatiasPokedexText","kind":"dex","en":"They make a small herd of only several\\nmembers. They rarely make contact with\\npeople or other POKéMON. They disappear\\nif they sense enemies."}
+{"id":"src/data/pokemon/pokedex_text.h#gLatiosPokedexText","kind":"dex","en":"Even in hiding, it can detect the locations\\nof others and sense their emotions since\\nit has telepathy. Its intelligence allows\\nit to understand human languages."}
+{"id":"src/data/pokemon/pokedex_text.h#gKyogrePokedexText","kind":"dex","en":"KYOGRE has appeared in mythology as the\\ncreator of the sea. After long years of\\nfeuding with GROUDON, it took to sleep at\\nthe bottom of the sea."}
+{"id":"src/data/pokemon/pokedex_text.h#gGroudonPokedexText","kind":"dex","en":"GROUDON has appeared in mythology as the\\ncreator of the land. It sleeps in magma\\nunderground and is said to make volcanoes\\nerupt on awakening."}
+{"id":"src/data/pokemon/pokedex_text.h#gRayquazaPokedexText","kind":"dex","en":"A POKéMON that flies endlessly in the\\nozone layer. It is said it would descend\\nto the ground if KYOGRE and GROUDON\\nwere to fight."}
+{"id":"src/data/pokemon/pokedex_text.h#gJirachiPokedexText","kind":"dex","en":"JIRACHI is said to make wishes come true.\\nWhile it sleeps, a tough crystalline shell\\nenvelops the body to protect it from\\nenemies."}
+{"id":"src/data/pokemon/pokedex_text.h#gDeoxysPokedexText","kind":"dex","en":"A POKéMON that mutated from an\\nextraterrestrial virus exposed to a laser\\nbeam. Its body is configured for superior\\nagility and speed."}
+{"id":"src/data/text/abilities.h#sNoneDescription","kind":"ability_desc","en":"No special ability."}
+{"id":"src/data/text/abilities.h#sStenchDescription","kind":"ability_desc","en":"Helps repel wild POKéMON."}
+{"id":"src/data/text/abilities.h#sDrizzleDescription","kind":"ability_desc","en":"Summons rain in battle."}
+{"id":"src/data/text/abilities.h#sSpeedBoostDescription","kind":"ability_desc","en":"Gradually boosts SPEED."}
+{"id":"src/data/text/abilities.h#sBattleArmorDescription","kind":"ability_desc","en":"Blocks critical hits."}
+{"id":"src/data/text/abilities.h#sSturdyDescription","kind":"ability_desc","en":"Negates 1-hit KO attacks."}
+{"id":"src/data/text/abilities.h#sDampDescription","kind":"ability_desc","en":"Prevents self-destruction."}
+{"id":"src/data/text/abilities.h#sLimberDescription","kind":"ability_desc","en":"Prevents paralysis."}
+{"id":"src/data/text/abilities.h#sSandVeilDescription","kind":"ability_desc","en":"Ups evasion in a sandstorm."}
+{"id":"src/data/text/abilities.h#sStaticDescription","kind":"ability_desc","en":"Paralyzes on contact."}
+{"id":"src/data/text/abilities.h#sVoltAbsorbDescription","kind":"ability_desc","en":"Turns electricity into HP."}
+{"id":"src/data/text/abilities.h#sWaterAbsorbDescription","kind":"ability_desc","en":"Changes water into HP."}
+{"id":"src/data/text/abilities.h#sObliviousDescription","kind":"ability_desc","en":"Prevents attraction."}
+{"id":"src/data/text/abilities.h#sCloudNineDescription","kind":"ability_desc","en":"Negates weather effects."}
+{"id":"src/data/text/abilities.h#sCompoundEyesDescription","kind":"ability_desc","en":"Raises accuracy."}
+{"id":"src/data/text/abilities.h#sInsomniaDescription","kind":"ability_desc","en":"Prevents sleep."}
+{"id":"src/data/text/abilities.h#sColorChangeDescription","kind":"ability_desc","en":"Changes type to foe's move."}
+{"id":"src/data/text/abilities.h#sImmunityDescription","kind":"ability_desc","en":"Prevents poisoning."}
+{"id":"src/data/text/abilities.h#sFlashFireDescription","kind":"ability_desc","en":"Powers up if hit by fire."}
+{"id":"src/data/text/abilities.h#sShieldDustDescription","kind":"ability_desc","en":"Prevents added effects."}
+{"id":"src/data/text/abilities.h#sOwnTempoDescription","kind":"ability_desc","en":"Prevents confusion."}
+{"id":"src/data/text/abilities.h#sSuctionCupsDescription","kind":"ability_desc","en":"Firmly anchors the body."}
+{"id":"src/data/text/abilities.h#sIntimidateDescription","kind":"ability_desc","en":"Lowers the foe's ATTACK."}
+{"id":"src/data/text/abilities.h#sShadowTagDescription","kind":"ability_desc","en":"Prevents the foe's escape."}
+{"id":"src/data/text/abilities.h#sRoughSkinDescription","kind":"ability_desc","en":"Hurts to touch."}
+{"id":"src/data/text/abilities.h#sWonderGuardDescription","kind":"ability_desc","en":"“Super effective” hits."}
+{"id":"src/data/text/abilities.h#sLevitateDescription","kind":"ability_desc","en":"Not hit by GROUND attacks."}
+{"id":"src/data/text/abilities.h#sEffectSporeDescription","kind":"ability_desc","en":"Leaves spores on contact."}
+{"id":"src/data/text/abilities.h#sSynchronizeDescription","kind":"ability_desc","en":"Passes on status problems."}
+{"id":"src/data/text/abilities.h#sClearBodyDescription","kind":"ability_desc","en":"Prevents ability reduction."}
+{"id":"src/data/text/abilities.h#sNaturalCureDescription","kind":"ability_desc","en":"Heals upon switching out."}
+{"id":"src/data/text/abilities.h#sLightningRodDescription","kind":"ability_desc","en":"Draws electrical moves."}
+{"id":"src/data/text/abilities.h#sSereneGraceDescription","kind":"ability_desc","en":"Promotes added effects."}
+{"id":"src/data/text/abilities.h#sSwiftSwimDescription","kind":"ability_desc","en":"Raises SPEED in rain."}
+{"id":"src/data/text/abilities.h#sChlorophyllDescription","kind":"ability_desc","en":"Raises SPEED in sunshine."}
+{"id":"src/data/text/abilities.h#sIlluminateDescription","kind":"ability_desc","en":"Encounter rate increases."}
+{"id":"src/data/text/abilities.h#sTraceDescription","kind":"ability_desc","en":"Copies special ability."}
+{"id":"src/data/text/abilities.h#sHugePowerDescription","kind":"ability_desc","en":"Raises ATTACK."}
+{"id":"src/data/text/abilities.h#sPoisonPointDescription","kind":"ability_desc","en":"Poisons foe on contact."}
+{"id":"src/data/text/abilities.h#sInnerFocusDescription","kind":"ability_desc","en":"Prevents flinching."}
+{"id":"src/data/text/abilities.h#sMagmaArmorDescription","kind":"ability_desc","en":"Prevents freezing."}
+{"id":"src/data/text/abilities.h#sWaterVeilDescription","kind":"ability_desc","en":"Prevents burns."}
+{"id":"src/data/text/abilities.h#sMagnetPullDescription","kind":"ability_desc","en":"Traps STEEL-type POKéMON."}
+{"id":"src/data/text/abilities.h#sSoundproofDescription","kind":"ability_desc","en":"Avoids sound-based moves."}
+{"id":"src/data/text/abilities.h#sRainDishDescription","kind":"ability_desc","en":"Slight HP recovery in rain."}
+{"id":"src/data/text/abilities.h#sSandStreamDescription","kind":"ability_desc","en":"Summons a sandstorm."}
+{"id":"src/data/text/abilities.h#sPressureDescription","kind":"ability_desc","en":"Raises foe's PP usage."}
+{"id":"src/data/text/abilities.h#sThickFatDescription","kind":"ability_desc","en":"Heat-and-cold protection."}
+{"id":"src/data/text/abilities.h#sEarlyBirdDescription","kind":"ability_desc","en":"Awakens quickly from sleep."}
+{"id":"src/data/text/abilities.h#sFlameBodyDescription","kind":"ability_desc","en":"Burns the foe on contact."}
+{"id":"src/data/text/abilities.h#sRunAwayDescription","kind":"ability_desc","en":"Makes escaping easier."}
+{"id":"src/data/text/abilities.h#sKeenEyeDescription","kind":"ability_desc","en":"Prevents loss of accuracy."}
+{"id":"src/data/text/abilities.h#sHyperCutterDescription","kind":"ability_desc","en":"Prevents ATTACK reduction."}
+{"id":"src/data/text/abilities.h#sPickupDescription","kind":"ability_desc","en":"May pick up items."}
+{"id":"src/data/text/abilities.h#sTruantDescription","kind":"ability_desc","en":"Moves only every two turns."}
+{"id":"src/data/text/abilities.h#sHustleDescription","kind":"ability_desc","en":"Trades accuracy for power."}
+{"id":"src/data/text/abilities.h#sCuteCharmDescription","kind":"ability_desc","en":"Infatuates on contact."}
+{"id":"src/data/text/abilities.h#sPlusDescription","kind":"ability_desc","en":"Powers up with MINUS."}
+{"id":"src/data/text/abilities.h#sMinusDescription","kind":"ability_desc","en":"Powers up with PLUS."}
+{"id":"src/data/text/abilities.h#sForecastDescription","kind":"ability_desc","en":"Changes with the weather."}
+{"id":"src/data/text/abilities.h#sStickyHoldDescription","kind":"ability_desc","en":"Prevents item theft."}
+{"id":"src/data/text/abilities.h#sShedSkinDescription","kind":"ability_desc","en":"Heals the body by shedding."}
+{"id":"src/data/text/abilities.h#sGutsDescription","kind":"ability_desc","en":"Ups ATTACK if suffering."}
+{"id":"src/data/text/abilities.h#sMarvelScaleDescription","kind":"ability_desc","en":"Ups DEFENSE if suffering."}
+{"id":"src/data/text/abilities.h#sLiquidOozeDescription","kind":"ability_desc","en":"Draining causes injury."}
+{"id":"src/data/text/abilities.h#sOvergrowDescription","kind":"ability_desc","en":"Ups GRASS moves in a pinch."}
+{"id":"src/data/text/abilities.h#sBlazeDescription","kind":"ability_desc","en":"Ups FIRE moves in a pinch."}
+{"id":"src/data/text/abilities.h#sTorrentDescription","kind":"ability_desc","en":"Ups WATER moves in a pinch."}
+{"id":"src/data/text/abilities.h#sSwarmDescription","kind":"ability_desc","en":"Ups BUG moves in a pinch."}
+{"id":"src/data/text/abilities.h#sRockHeadDescription","kind":"ability_desc","en":"Prevents recoil damage."}
+{"id":"src/data/text/abilities.h#sDroughtDescription","kind":"ability_desc","en":"Summons sunlight in battle."}
+{"id":"src/data/text/abilities.h#sArenaTrapDescription","kind":"ability_desc","en":"Prevents fleeing."}
+{"id":"src/data/text/abilities.h#sVitalSpiritDescription","kind":"ability_desc","en":"Prevents sleep."}
+{"id":"src/data/text/abilities.h#sWhiteSmokeDescription","kind":"ability_desc","en":"Prevents ability reduction."}
+{"id":"src/data/text/abilities.h#sPurePowerDescription","kind":"ability_desc","en":"Raises ATTACK."}
+{"id":"src/data/text/abilities.h#sShellArmorDescription","kind":"ability_desc","en":"Blocks critical hits."}
+{"id":"src/data/text/abilities.h#sCacophonyDescription","kind":"ability_desc","en":"Avoids sound-based moves."}
+{"id":"src/data/text/abilities.h#sAirLockDescription","kind":"ability_desc","en":"Negates weather effects."}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2003RegionalTourney","kind":"ribbon_desc","en":"2003 REGIONAL TOURNEY"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_Champion","kind":"ribbon_desc","en":"CHAMPION RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2003NationalTourney","kind":"ribbon_desc","en":"2003 NATIONAL TOURNEY"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2003GlobalCup","kind":"ribbon_desc","en":"2003 GLOBAL CUP"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_RunnerUp","kind":"ribbon_desc","en":"Runner-up RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_Semifinalist","kind":"ribbon_desc","en":"Semifinalist RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2004RegionalTourney","kind":"ribbon_desc","en":"2004 REGIONAL TOURNEY"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2004NationalTourney","kind":"ribbon_desc","en":"2004 NATIONAL TOURNEY"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2004GlobalCup","kind":"ribbon_desc","en":"2004 GLOBAL CUP"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2005RegionalTourney","kind":"ribbon_desc","en":"2005 REGIONAL TOURNEY"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2005NationalTourney","kind":"ribbon_desc","en":"2005 NATIONAL TOURNEY"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2005GlobalCup","kind":"ribbon_desc","en":"2005 GLOBAL CUP"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonBattleCup","kind":"ribbon_desc","en":"POKéMON BATTLE CUP"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_Participation","kind":"ribbon_desc","en":"Participation RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonLeague","kind":"ribbon_desc","en":"POKéMON LEAGUE"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_AdvanceCup","kind":"ribbon_desc","en":"ADVANCE CUP"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonTournament","kind":"ribbon_desc","en":"POKéMON Tournament"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_Participation2","kind":"ribbon_desc","en":"Participation RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonEvent","kind":"ribbon_desc","en":"POKéMON Event"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonFestival","kind":"ribbon_desc","en":"POKéMON Festival"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_DifficultyClearing","kind":"ribbon_desc","en":"Difficulty-clearing"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_Commemorative","kind":"ribbon_desc","en":"Commemorative RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_ClearingAllChallenges","kind":"ribbon_desc","en":"RIBBON awarded for"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_ClearingAllChallenges","kind":"ribbon_desc","en":"clearing all challenges."}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_100StraightWin","kind":"ribbon_desc","en":"100-straight Win"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_DarknessTower","kind":"ribbon_desc","en":"DARKNESS TOWER Clear"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_RedTower","kind":"ribbon_desc","en":"RED TOWER Clear"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_BlackironTower","kind":"ribbon_desc","en":"BLACKIRON TOWER Clear"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_FinalTower","kind":"ribbon_desc","en":"FINAL TOWER Clear"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_LegendMaking","kind":"ribbon_desc","en":"Legend-making"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonCenterTokyo","kind":"ribbon_desc","en":"POKéMON CENTER TOKYO"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonCenterOsaka","kind":"ribbon_desc","en":"POKéMON CENTER OSAKA"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonCenterNagoya","kind":"ribbon_desc","en":"POKéMON CENTER NAGOYA"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonCenterNY","kind":"ribbon_desc","en":"POKéMON CENTER NY"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_SummerHolidays","kind":"ribbon_desc","en":"Summer Holidays RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_WinterHolidays","kind":"ribbon_desc","en":"Winter Holidays RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_SpringHolidays","kind":"ribbon_desc","en":"Spring Holidays RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_Evergreen","kind":"ribbon_desc","en":"Evergreen RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_SpecialHoliday","kind":"ribbon_desc","en":"Special Holiday RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_HardWorker","kind":"ribbon_desc","en":"Hard Worker RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_LotsOfFriends","kind":"ribbon_desc","en":"Lots of Friends RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_FullOfEnergy","kind":"ribbon_desc","en":"Full of Energy RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_LovedPokemon","kind":"ribbon_desc","en":"A commemorative RIBBON"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_LovedPokemon","kind":"ribbon_desc","en":"for a loved POKéMON."}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_LoveForPokemon","kind":"ribbon_desc","en":"RIBBON that shows"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_LoveForPokemon","kind":"ribbon_desc","en":"love for POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sMasterBallDesc","kind":"item_desc","en":"The best BALL that\\ncatches a POKéMON\\nwithout fail."}
+{"id":"src/data/text/item_descriptions.h#sUltraBallDesc","kind":"item_desc","en":"A better BALL with\\na higher catch rate\\nthan a GREAT BALL."}
+{"id":"src/data/text/item_descriptions.h#sGreatBallDesc","kind":"item_desc","en":"A good BALL with a\\nhigher catch rate\\nthan a POKé BALL."}
+{"id":"src/data/text/item_descriptions.h#sPokeBallDesc","kind":"item_desc","en":"A tool used for\\ncatching wild\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sSafariBallDesc","kind":"item_desc","en":"A special BALL that\\nis used only in the\\nSAFARI ZONE."}
+{"id":"src/data/text/item_descriptions.h#sNetBallDesc","kind":"item_desc","en":"A BALL that works\\nwell on WATER- and\\nBUG-type POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sDiveBallDesc","kind":"item_desc","en":"A BALL that works\\nbetter on POKéMON\\non the ocean floor."}
+{"id":"src/data/text/item_descriptions.h#sNestBallDesc","kind":"item_desc","en":"A BALL that works\\nbetter on weaker\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sRepeatBallDesc","kind":"item_desc","en":"A BALL that works\\nbetter on POKéMON\\ncaught before."}
+{"id":"src/data/text/item_descriptions.h#sTimerBallDesc","kind":"item_desc","en":"A BALL that gains\\npower in battles\\ntaking many turns."}
+{"id":"src/data/text/item_descriptions.h#sLuxuryBallDesc","kind":"item_desc","en":"A cozy BALL that\\nmakes POKéMON\\nmore friendly."}
+{"id":"src/data/text/item_descriptions.h#sPremierBallDesc","kind":"item_desc","en":"A rare BALL made\\nin commemoration\\nof some event."}
+{"id":"src/data/text/item_descriptions.h#sPotionDesc","kind":"item_desc","en":"Restores the HP of\\na POKéMON by\\n20 points."}
+{"id":"src/data/text/item_descriptions.h#sAntidoteDesc","kind":"item_desc","en":"Heals a poisoned\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sBurnHealDesc","kind":"item_desc","en":"Heals POKéMON\\nof a burn."}
+{"id":"src/data/text/item_descriptions.h#sIceHealDesc","kind":"item_desc","en":"Defrosts a frozen\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sAwakeningDesc","kind":"item_desc","en":"Awakens a sleeping\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sParalyzeHealDesc","kind":"item_desc","en":"Heals a paralyzed\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sFullRestoreDesc","kind":"item_desc","en":"Fully restores the\\nHP and status of a\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sMaxPotionDesc","kind":"item_desc","en":"Fully restores the\\nHP of a POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sHyperPotionDesc","kind":"item_desc","en":"Restores the HP of\\na POKéMON by\\n200 points."}
+{"id":"src/data/text/item_descriptions.h#sSuperPotionDesc","kind":"item_desc","en":"Restores the HP of\\na POKéMON by\\n50 points."}
+{"id":"src/data/text/item_descriptions.h#sFullHealDesc","kind":"item_desc","en":"Heals all the\\nstatus problems of\\none POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sReviveDesc","kind":"item_desc","en":"Revives a fainted\\nPOKéMON with half\\nits HP."}
+{"id":"src/data/text/item_descriptions.h#sMaxReviveDesc","kind":"item_desc","en":"Revives a fainted\\nPOKéMON with all\\nits HP."}
+{"id":"src/data/text/item_descriptions.h#sFreshWaterDesc","kind":"item_desc","en":"A mineral water\\nthat restores HP\\nby 50 points."}
+{"id":"src/data/text/item_descriptions.h#sSodaPopDesc","kind":"item_desc","en":"A fizzy soda drink\\nthat restores HP\\nby 60 points."}
+{"id":"src/data/text/item_descriptions.h#sLemonadeDesc","kind":"item_desc","en":"A very sweet drink\\nthat restores HP\\nby 80 points."}
+{"id":"src/data/text/item_descriptions.h#sMoomooMilkDesc","kind":"item_desc","en":"A nutritious milk\\nthat restores HP\\nby 100 points."}
+{"id":"src/data/text/item_descriptions.h#sEnergyPowderDesc","kind":"item_desc","en":"A bitter powder\\nthat restores HP\\nby 50 points."}
+{"id":"src/data/text/item_descriptions.h#sEnergyRootDesc","kind":"item_desc","en":"A bitter root\\nthat restores HP\\nby 200 points."}
+{"id":"src/data/text/item_descriptions.h#sHealPowderDesc","kind":"item_desc","en":"A bitter powder\\nthat heals all\\nstatus problems."}
+{"id":"src/data/text/item_descriptions.h#sRevivalHerbDesc","kind":"item_desc","en":"A very bitter herb\\nthat revives a\\nfainted POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sEtherDesc","kind":"item_desc","en":"Restores the PP\\nof a selected move\\nby 10."}
+{"id":"src/data/text/item_descriptions.h#sMaxEtherDesc","kind":"item_desc","en":"Fully restores the\\nPP of a selected\\nmove."}
+{"id":"src/data/text/item_descriptions.h#sElixirDesc","kind":"item_desc","en":"Restores the PP\\nof all moves by 10."}
+{"id":"src/data/text/item_descriptions.h#sMaxElixirDesc","kind":"item_desc","en":"Fully restores the\\nPP of a POKéMON's\\nmoves."}
+{"id":"src/data/text/item_descriptions.h#sLavaCookieDesc","kind":"item_desc","en":"A local specialty\\nthat heals all\\nstatus problems."}
+{"id":"src/data/text/item_descriptions.h#sBlueFluteDesc","kind":"item_desc","en":"A glass flute that\\nawakens sleeping\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sYellowFluteDesc","kind":"item_desc","en":"A glass flute that\\nsnaps POKéMON\\nout of confusion."}
+{"id":"src/data/text/item_descriptions.h#sRedFluteDesc","kind":"item_desc","en":"A glass flute that\\nsnaps POKéMON\\nout of attraction."}
+{"id":"src/data/text/item_descriptions.h#sBlackFluteDesc","kind":"item_desc","en":"A glass flute that\\nkeeps away wild\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sWhiteFluteDesc","kind":"item_desc","en":"A glass flute that\\nlures wild POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sBerryJuiceDesc","kind":"item_desc","en":"A 100% pure juice\\nthat restores HP\\nby 20 points."}
+{"id":"src/data/text/item_descriptions.h#sSacredAshDesc","kind":"item_desc","en":"Fully revives and\\nrestores all\\nfainted POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sShoalSaltDesc","kind":"item_desc","en":"Salt obtained from\\ndeep inside the\\nSHOAL CAVE."}
+{"id":"src/data/text/item_descriptions.h#sShoalShellDesc","kind":"item_desc","en":"A seashell found\\ndeep inside the\\nSHOAL CAVE."}
+{"id":"src/data/text/item_descriptions.h#sRedShardDesc","kind":"item_desc","en":"A shard from an\\nancient item. Can\\nbe sold cheaply."}
+{"id":"src/data/text/item_descriptions.h#sBlueShardDesc","kind":"item_desc","en":"A shard from an\\nancient item. Can\\nbe sold cheaply."}
+{"id":"src/data/text/item_descriptions.h#sYellowShardDesc","kind":"item_desc","en":"A shard from an\\nancient item. Can\\nbe sold cheaply."}
+{"id":"src/data/text/item_descriptions.h#sGreenShardDesc","kind":"item_desc","en":"A shard from an\\nancient item. Can\\nbe sold cheaply."}
+{"id":"src/data/text/item_descriptions.h#sHPUpDesc","kind":"item_desc","en":"Raises the base HP\\nof one POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sProteinDesc","kind":"item_desc","en":"Raises the base\\nATTACK stat of one\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sIronDesc","kind":"item_desc","en":"Raises the base\\nDEFENSE stat of\\none POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sCarbosDesc","kind":"item_desc","en":"Raises the base\\nSPEED stat of one\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sCalciumDesc","kind":"item_desc","en":"Raises the base\\nSP. ATK stat of one\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sRareCandyDesc","kind":"item_desc","en":"Raises the level\\nof a POKéMON by\\none."}
+{"id":"src/data/text/item_descriptions.h#sPPUpDesc","kind":"item_desc","en":"Raises the maximum\\nPP of a selected\\nmove."}
+{"id":"src/data/text/item_descriptions.h#sZincDesc","kind":"item_desc","en":"Raises the base\\nSP. DEF stat of one\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sPPMaxDesc","kind":"item_desc","en":"Raises the PP of a\\nmove to its maximum\\npoints."}
+{"id":"src/data/text/item_descriptions.h#sGuardSpecDesc","kind":"item_desc","en":"Prevents stat\\nreduction when\\nused in battle."}
+{"id":"src/data/text/item_descriptions.h#sDireHitDesc","kind":"item_desc","en":"Raises the\\ncritical-hit ratio\\nduring one battle."}
+{"id":"src/data/text/item_descriptions.h#sXAttackDesc","kind":"item_desc","en":"Raises the stat\\nATTACK during one\\nbattle."}
+{"id":"src/data/text/item_descriptions.h#sXDefendDesc","kind":"item_desc","en":"Raises the stat\\nDEFENSE during one\\nbattle."}
+{"id":"src/data/text/item_descriptions.h#sXSpeedDesc","kind":"item_desc","en":"Raises the stat\\nSPEED during one\\nbattle."}
+{"id":"src/data/text/item_descriptions.h#sXAccuracyDesc","kind":"item_desc","en":"Raises accuracy\\nof attack moves\\nduring one battle."}
+{"id":"src/data/text/item_descriptions.h#sXSpecialDesc","kind":"item_desc","en":"Raises the stat\\nSP. ATK during one\\nbattle."}
+{"id":"src/data/text/item_descriptions.h#sPokeDollDesc","kind":"item_desc","en":"Use to flee from\\nany battle with\\na wild POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sFluffyTailDesc","kind":"item_desc","en":"Use to flee from\\nany battle with\\na wild POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sSuperRepelDesc","kind":"item_desc","en":"Repels weak wild\\nPOKéMON for 200\\nsteps."}
+{"id":"src/data/text/item_descriptions.h#sMaxRepelDesc","kind":"item_desc","en":"Repels weak wild\\nPOKéMON for 250\\nsteps."}
+{"id":"src/data/text/item_descriptions.h#sEscapeRopeDesc","kind":"item_desc","en":"Use to escape\\ninstantly from a\\ncave or a dungeon."}
+{"id":"src/data/text/item_descriptions.h#sRepelDesc","kind":"item_desc","en":"Repels weak wild\\nPOKéMON for 100\\nsteps."}
+{"id":"src/data/text/item_descriptions.h#sSunStoneDesc","kind":"item_desc","en":"Makes certain\\nspecies of POKéMON\\nevolve."}
+{"id":"src/data/text/item_descriptions.h#sMoonStoneDesc","kind":"item_desc","en":"Makes certain\\nspecies of POKéMON\\nevolve."}
+{"id":"src/data/text/item_descriptions.h#sFireStoneDesc","kind":"item_desc","en":"Makes certain\\nspecies of POKéMON\\nevolve."}
+{"id":"src/data/text/item_descriptions.h#sThunderStoneDesc","kind":"item_desc","en":"Makes certain\\nspecies of POKéMON\\nevolve."}
+{"id":"src/data/text/item_descriptions.h#sWaterStoneDesc","kind":"item_desc","en":"Makes certain\\nspecies of POKéMON\\nevolve."}
+{"id":"src/data/text/item_descriptions.h#sLeafStoneDesc","kind":"item_desc","en":"Makes certain\\nspecies of POKéMON\\nevolve."}
+{"id":"src/data/text/item_descriptions.h#sTinyMushroomDesc","kind":"item_desc","en":"A plain mushroom\\nthat would sell\\nat a cheap price."}
+{"id":"src/data/text/item_descriptions.h#sBigMushroomDesc","kind":"item_desc","en":"A rare mushroom\\nthat would sell at a\\nhigh price."}
+{"id":"src/data/text/item_descriptions.h#sPearlDesc","kind":"item_desc","en":"A pretty pearl\\nthat would sell at a\\ncheap price."}
+{"id":"src/data/text/item_descriptions.h#sBigPearlDesc","kind":"item_desc","en":"A lovely large pearl\\nthat would sell at a\\nhigh price."}
+{"id":"src/data/text/item_descriptions.h#sStardustDesc","kind":"item_desc","en":"Beautiful red sand.\\nCan be sold at a\\nhigh price."}
+{"id":"src/data/text/item_descriptions.h#sStarPieceDesc","kind":"item_desc","en":"A red gem shard.\\nIt would sell for a\\nvery high price."}
+{"id":"src/data/text/item_descriptions.h#sNuggetDesc","kind":"item_desc","en":"A nugget of pure\\ngold. Can be sold at\\na high price."}
+{"id":"src/data/text/item_descriptions.h#sHeartScaleDesc","kind":"item_desc","en":"A lovely scale.\\nIt is coveted by\\ncollectors."}
+{"id":"src/data/text/item_descriptions.h#sOrangeMailDesc","kind":"item_desc","en":"A ZIGZAGOON-print\\nMAIL to be held by\\na POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sHarborMailDesc","kind":"item_desc","en":"A WINGULL-print\\nMAIL to be held by\\na POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sGlitterMailDesc","kind":"item_desc","en":"A PIKACHU-print\\nMAIL to be held by\\na POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sMechMailDesc","kind":"item_desc","en":"A MAGNEMITE-print\\nMAIL to be held by\\na POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sWoodMailDesc","kind":"item_desc","en":"A SLAKOTH-print\\nMAIL to be held by\\na POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sWaveMailDesc","kind":"item_desc","en":"A WAILMER-print\\nMAIL to be held by\\na POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sBeadMailDesc","kind":"item_desc","en":"MAIL featuring a\\nsketch of the\\nholding POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sShadowMailDesc","kind":"item_desc","en":"A DUSKULL-print\\nMAIL to be held by\\na POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sTropicMailDesc","kind":"item_desc","en":"A BELLOSSOM-print\\nMAIL to be held by\\na POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sDreamMailDesc","kind":"item_desc","en":"MAIL featuring a\\nsketch of the\\nholding POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sFabMailDesc","kind":"item_desc","en":"A gorgeous-print\\nMAIL to be held\\nby a POKéMON."}
+{"id":"src/data/text/item_descriptions.h#sRetroMailDesc","kind":"item_desc","en":"MAIL featuring the\\ndrawings of three\\nPOKéMON."}
+{"id":"src/data/text/item_descriptions.h#sCheriBerryDesc","kind":"item_desc","en":"A hold item that\\nheals paralysis\\nin battle."}
+{"id":"src/data/text/item_descriptions.h#sChestoBerryDesc","kind":"item_desc","en":"A hold item that\\nawakens POKéMON\\nin battle."}
+{"id":"src/data/text/item_descriptions.h#sPechaBerryDesc","kind":"item_desc","en":"A hold item that\\nheals poisoning\\nin battle."}
+{"id":"src/data/text/item_descriptions.h#sRawstBerryDesc","kind":"item_desc","en":"A hold item that\\nheals a burn in\\nbattle."}
+{"id":"src/data/text/item_descriptions.h#sAspearBerryDesc","kind":"item_desc","en":"A hold item that\\ndefrosts POKéMON\\nin battle."}
+{"id":"src/data/text/item_descriptions.h#sLeppaBerryDesc","kind":"item_desc","en":"A hold item that\\nrestores 10 PP in\\nbattle."}
+{"id":"src/data/text/item_descriptions.h#sOranBerryDesc","kind":"item_desc","en":"A hold item that\\nrestores 10 HP in\\nbattle."}
+{"id":"src/data/text/item_descriptions.h#sPersimBerryDesc","kind":"item_desc","en":"A hold item that\\nheals confusion\\nin battle."}
