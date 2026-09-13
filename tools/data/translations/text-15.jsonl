@@ -1,0 +1,803 @@
+{"id": "data/text/trainers.inc#Route102_Text_RickPostBattle", "th": "ถ้าสบตากับเทรนเนอร์แล้ว ต้องท้าประลองกันนะ! นี่เป็นกฎเลย!$"}
+{"id": "data/text/trainers.inc#Route102_Text_TianaIntro", "th": "ฉันจะชนะไปเรื่อย ๆ แล้วเป็นเทรนเนอร์ที่เก่งที่สุด!\\pช่วยเป็นบันไดให้ฉันไต่ขึ้นไปหน่อยนะ!$"}
+{"id": "data/text/trainers.inc#Route102_Text_TianaDefeated", "th": "กลายเป็นฉันที่เป็นบันไดให้เธอซะเอง…$"}
+{"id": "data/text/trainers.inc#Route102_Text_TianaPostBattle", "th": "ถ้าจะชนะไต่ขึ้นไปเรื่อย ๆ ฉันต้องจับโปเกมอนเพิ่มอีกสินะ$"}
+{"id": "data/text/trainers.inc#Route103_Text_DaisyIntro", "th": "รู้สึกถึงแรงดึงดูดของกลิ่นหอมที่ช่วยปลอบประโลมจิตใจของเราไหมคะ?$"}
+{"id": "data/text/trainers.inc#Route103_Text_DaisyDefeated", "th": "คุณไม่หลงไปกับกลิ่นหอมของเราเลยนะคะ…$"}
+{"id": "data/text/trainers.inc#Route103_Text_DaisyPostBattle", "th": "อโรมาเธอราพีคือศาสตร์บำบัดจิตใจด้วยกลิ่นหอมค่ะ$"}
+{"id": "data/text/trainers.inc#Route103_Text_AmyIntro", "th": "เอมี่: หนูชื่อเอมี่ ส่วนนี่ลิฟ น้องสาวของหนูเอง เราสู้ด้วยกันนะ!$"}
+{"id": "data/text/trainers.inc#Route103_Text_AmyDefeated", "th": "เอมี่: อุ๊ย เราแพ้ซะแล้ว$"}
+{"id": "data/text/trainers.inc#Route103_Text_AmyPostBattle", "th": "เอมี่: เวลาสู้กับเทรนเนอร์สองคนพร้อมกัน ต้องคิดหลายเรื่องเลยนะ$"}
+{"id": "data/text/trainers.inc#Route103_Text_AmyNotEnoughPokemon", "th": "เอมี่: อุ๊ย เธอมีโปเกมอนแค่ตัวเดียวเอง แบบนี้สู้กับเราไม่ได้หรอก$"}
+{"id": "data/text/trainers.inc#Route103_Text_LivIntro", "th": "ลิฟ: เราสู้ด้วยกันเป็นทีมเดียวกันนะ$"}
+{"id": "data/text/trainers.inc#Route103_Text_LivDefeated", "th": "ลิฟ: แย่จัง เราแพ้แล้ว พี่สาว…$"}
+{"id": "data/text/trainers.inc#Route103_Text_LivPostBattle", "th": "ลิฟ: หนูกับพี่สาวเข้าขากันสุด ๆ เลยนะ…\\pแต่ก็ยังแพ้อยู่ดี…$"}
+{"id": "data/text/trainers.inc#Route103_Text_AmyLivRegister", "th": "ลิฟ: จริง ๆ นะ เราเก่งกว่านี้เยอะ… จริง ๆ! คราวหน้าจะให้ดู!$"}
+{"id": "data/text/trainers.inc#Route103_Text_LivNotEnoughPokemon", "th": "ลิฟ: ถ้าอยากสู้กับเรา ต้องมีโปเกมอนสองตัวนะ! ไม่งั้นไม่แฟร์!$"}
+{"id": "data/text/trainers.inc#Route103_Text_AmyRematchIntro", "th": "เอมี่: หนูชื่อเอมี่ ส่วนนี่ลิฟ น้องสาวของหนูเอง เราสู้ด้วยกันนะ!$"}
+{"id": "data/text/trainers.inc#Route103_Text_AmyRematchDefeated", "th": "เอมี่: โธ่ เซ็งจัง! เราแพ้อีกแล้ว…$"}
+{"id": "data/text/trainers.inc#Route103_Text_AmyRematchPostBattle", "th": "เอมี่: เวลาสู้กับเทรนเนอร์สองคนพร้อมกัน ต้องคิดหลายเรื่องเลยนะ$"}
+{"id": "data/text/trainers.inc#Route103_Text_AmyRematchNotEnoughPokemon", "th": "เอมี่: อุ๊ย เธอมีโปเกมอนแค่ตัวเดียวเอง แบบนี้สู้กับเราไม่ได้หรอก$"}
+{"id": "data/text/trainers.inc#Route103_Text_LivRematchIntro", "th": "ลิฟ: เราสู้ด้วยกันเป็นทีมเดียวกันนะ$"}
+{"id": "data/text/trainers.inc#Route103_Text_LivRematchDefeated", "th": "ลิฟ: แง เราแพ้อีกแล้ว… พี่สาว…$"}
+{"id": "data/text/trainers.inc#Route103_Text_LivRematchPostBattle", "th": "ลิฟ: หนูกับพี่สาวเข้าขากันสุด ๆ เลยนะ…\\pแต่ทำไมแพ้อีกล่ะ?$"}
+{"id": "data/text/trainers.inc#Route103_Text_LivRematchNotEnoughPokemon", "th": "ลิฟ: ถ้าอยากสู้กับเรา ต้องมีโปเกมอนสองตัวนะ! ไม่งั้นไม่แฟร์!$"}
+{"id": "data/text/trainers.inc#Route103_Text_AndrewIntro", "th": "อ๊าก! สายเบ็ดพันกันยุ่งไปหมด! หงุดหงิดจนอารมณ์เสียแล้วเว้ย! เอาละ! มาสู้กันเลย!$"}
+{"id": "data/text/trainers.inc#Route103_Text_AndrewDefeated", "th": "อ๊าก! แพ้ซะได้! ยิ่งหงุดหงิดเข้าไปใหญ่เลย!$"}
+{"id": "data/text/trainers.inc#Route103_Text_AndrewPostBattle", "th": "อ๊าก ยังโมโหไม่หายเลย… กรรรร…$"}
+{"id": "data/text/trainers.inc#Route103_Text_MiguelIntro", "th": "โปเกมอนของผมน่ารักน่าชังสุด ๆ! ไม่ต้องเขินนะ เดี๋ยวผมให้ดูเอง!$"}
+{"id": "data/text/trainers.inc#Route103_Text_MiguelDefeated", "th": "ตายแล้ว! โปเกมอนสุดที่รักของผม!$"}
+{"id": "data/text/trainers.inc#Route103_Text_MiguelPostBattle", "th": "โปเกมอนสุดน่ารักของผม ถึงจะหมดแรงก็ยังน่ารักอยู่ดี!$"}
+{"id": "data/text/trainers.inc#Route103_Text_MiguelRegister", "th": "เดี๋ยวผมจะชวนให้เธอมาดูโปเกมอนสุดน่ารักของผมอีกนะ!$"}
+{"id": "data/text/trainers.inc#Route103_Text_MiguelRematchIntro", "th": "ว่าไง! โปเกมอนสุดน่ารักของผมน่ารักขึ้นกว่าเดิมอีกแล้วนะ!$"}
+{"id": "data/text/trainers.inc#Route103_Text_MiguelRematchDefeated", "th": "โอ๊ะ! โปเกมอนสุดที่รักของผม!$"}
+{"id": "data/text/trainers.inc#Route103_Text_MiguelRematchPostBattle", "th": "ยิ่งอยู่ด้วยกันนานเท่าไร โปเกมอนของผมก็ยิ่งน่ารักขึ้นเท่านั้น$"}
+{"id": "data/text/trainers.inc#Route103_Text_PeteIntro", "th": "ระยะแค่นี้… ว่ายไปเลยสิ!$"}
+{"id": "data/text/trainers.inc#Route103_Text_PeteDefeated", "th": "โอ้ ฝีมือดีนี่!$"}
+{"id": "data/text/trainers.inc#Route103_Text_PetePostBattle", "th": "โอ้ ตอนนี้ผมเข้าใจเธอแล้วล่ะ\\pถ้ามีโปเกมอนที่ไว้ใจได้ขนาดนั้น ผมก็อยากใช้ SURF ขี่หลังมันเหมือนกัน!$"}
+{"id": "data/text/trainers.inc#Route103_Text_IsabelleIntro", "th": "ระวังหน่อยสิ! จะชนกันแล้วนะ!$"}
+{"id": "data/text/trainers.inc#Route103_Text_IsabelleDefeated", "th": "โอย…$"}
+{"id": "data/text/trainers.inc#Route103_Text_IsabellePostBattle", "th": "ฉันว่ายน้ำไม่เก่งเลยมาฝึกอยู่น่ะ… ขอโทษนะที่เกือบชนเธอ$"}
+{"id": "data/text/trainers.inc#Route103_Text_RhettIntro", "th": "โอ้โห! เข้ามาในที่แคบแค่นี้ได้ยังไงเนี่ย?$"}
+{"id": "data/text/trainers.inc#Route103_Text_RhettDefeated", "th": "โอ้โห! เด็กคนนี้ของจริงแฮะ!$"}
+{"id": "data/text/trainers.inc#Route103_Text_RhettPostBattle", "th": "ชอบที่แคบ ๆ แบบนี้เหรอ?$"}
+{"id": "data/text/trainers.inc#Route103_Text_MarcosIntro", "th": "เสียงกีตาร์โหยหวนของผมดึงดูดเธอมาใช่ไหม?$"}
+{"id": "data/text/trainers.inc#Route103_Text_MarcosDefeated", "th": "วันแมนโชว์ของผมพังหมดแล้ว…$"}
+{"id": "data/text/trainers.inc#Route103_Text_MarcosPostBattle", "th": "ผมมาเล่นกีตาร์ตรงที่ไม่ค่อยมีคน แต่แฟน ๆ ดันมารวมตัวกันเพียบ\\pเฮะ บางทีผมควรเป็นมืออาชีพซะเลย$"}
+{"id": "data/text/trainers.inc#Route104_Text_GinaIntro", "th": "จีนา: เอาละ มาสู้กันด้วยโปเกมอนเถอะ!$"}
+{"id": "data/text/trainers.inc#Route104_Text_GinaDefeat", "th": "จีนา: แพ้แล้วหงุดหงิดจัง!$"}
+{"id": "data/text/trainers.inc#Route104_Text_GinaPostBattle", "th": "จีนา: เธอเก่งมาก! เราต้องฝึกอีกเยอะเลย!$"}
+{"id": "data/text/trainers.inc#Route104_Text_GinaNotEnoughMons", "th": "จีนา: เอ๊ะ? มีโปเกมอนแค่ตัวเดียวเหรอ? งั้นเราไม่สู้ด้วยหรอก\\pถ้ามีโปเกมอนแค่ตัวเดียว มันจะเหงานะ แบบนั้นไม่ดีเลย$"}
+{"id": "data/text/trainers.inc#Route104_Text_MiaIntro", "th": "มีอา: เราเป็นฝาแฝด เลยสู้ด้วยโปเกมอนพร้อมกันนะ$"}
+{"id": "data/text/trainers.inc#Route104_Text_MiaDefeat", "th": "มีอา: เราสู้ด้วยกันแล้ว แต่ก็แพ้ทั้งคู่…$"}
+{"id": "data/text/trainers.inc#Route104_Text_MiaPostBattle", "th": "มีอา: เราจะฝึกโปเกมอนให้มากขึ้น แล้วเก่งให้ได้แบบเธอ$"}
+{"id": "data/text/trainers.inc#Route104_Text_MiaNotEnoughMons", "th": "มีอา: อยากสู้กับเราเหรอ?\\pถ้าไม่มีโปเกมอนสองตัว ห้ามเด็ดขาดเลยนะ เราเก่งเกินไปสำหรับเธอ!$"}
+{"id": "data/text/trainers.inc#Route104_Text_IvanIntro", "th": "จะปิดบังไปทำไม? ข้านี่แหละผู้เชี่ยวชาญโปเกมอนประเภท WATER!\\pหา? ไม่รู้จักข้าเหรอ?$"}
+{"id": "data/text/trainers.inc#Route104_Text_IvanDefeat", "th": "นึกว่าตัวเองก็ไม่เลวนะ ถ้าให้พูดเอง แต่คงไม่ใช่สินะ… แหวะ…$"}
+{"id": "data/text/trainers.inc#Route104_Text_IvanPostBattle", "th": "ข้ามัวแต่ติดตกปลา จนลืมไปว่าต้องเลี้ยงโปเกมอนด้วย…$"}
+{"id": "data/text/trainers.inc#Route104_Text_BillyIntro", "th": "ทิ้งรอยเท้าไว้บนทรายนี่สนุกชะมัดเลย!$"}
+{"id": "data/text/trainers.inc#Route104_Text_BillyDefeat", "th": "แง! ทรายเข้ารองเท้าผ้าใบ! สากไปหมดเลย!$"}
+{"id": "data/text/trainers.inc#Route104_Text_BillyPostBattle", "th": "อยากทิ้งรอยเท้าไว้บนทรายทุกที่เลย แต่มันหายไปเร็วจัง…$"}
+{"id": "data/text/trainers.inc#Route104_Text_HaleyIntro", "th": "จะสู้ดี… หรือไม่สู้ดีนะ?\\pเอาละ ตกลง สู้ก็ได้!$"}
+{"id": "data/text/trainers.inc#Route104_Text_HaleyDefeat", "th": "ไม่น่าสู้เลย…$"}
+{"id": "data/text/trainers.inc#Route104_Text_HaleyPostBattle", "th": "ถ้าเจอเรื่องที่ต้องตัดสินใจแล้วปล่อยให้คนอื่นเลือกแทน ไม่ว่าผลจะออกมาเป็นยังไง ก็จะเสียใจทีหลังนะ$"}
+{"id": "data/text/trainers.inc#Route104_Text_HaleyRegister1", "th": "เธอเก่งนะ แต่จะลงทะเบียนเธอในโปเกนาวีดีไหมนะ? หรือไม่ดี…\\pเอาละ ตกลง ลงทะเบียนก็ได้!$"}
+{"id": "data/text/trainers.inc#Route104_Text_HaleyRegister2", "th": "เธอเก่งนะ แต่จะลงทะเบียนเธอในโปเกนาวีดีไหมนะ? หรือไม่ดี…\\pเอาละ ตกลง ลงทะเบียนก็ได้!$"}
+{"id": "data/text/trainers.inc#Route104_Text_HaleyRematchIntro", "th": "มาเร็ว สู้กับฉันสิ!$"}
+{"id": "data/text/trainers.inc#Route104_Text_HaleyRematchDefeat", "th": "โธ่… นึกว่าจะชนะซะอีก…$"}
+{"id": "data/text/trainers.inc#Route104_Text_HaleyPostRematch", "th": "ฉันตัดสินใจสู้เอง เลยยอมรับความพ่ายแพ้นี้ได้อย่างสง่างาม\\pแต่แพ้แล้วก็ยังเจ็บใจอยู่ดีแหละ!$"}
+{"id": "data/text/trainers.inc#Route104_Text_WinstonIntro", "th": "โอ้ ได้สิ ผมรับคำท้าของคุณ ผมมีเงินเยอะนี่นา$"}
+{"id": "data/text/trainers.inc#Route104_Text_WinstonDefeat", "th": "ทำไมผมถึงชนะไม่ได้ล่ะ?$"}
+{"id": "data/text/trainers.inc#Route104_Text_WinstonPostBattle", "th": "มีบางอย่างที่เงินซื้อไม่ได้ นั่นก็คือโปเกมอน…$"}
+{"id": "data/text/trainers.inc#Route104_Text_WinstonRegister1", "th": "หืม? อ้า คุณมีโปเกนาวีแล้วนี่\\pผมยินดีลงทะเบียนให้นะ ยังไงผมก็มีเงินเหลือเฟืออยู่แล้ว$"}
+{"id": "data/text/trainers.inc#Route104_Text_WinstonRegister2", "th": "หืม? อ้า คุณมีโปเกนาวีแล้วนี่\\pผมยินดีลงทะเบียนให้นะ ยังไงผมก็มีเงินเหลือเฟืออยู่แล้ว$"}
+{"id": "data/text/trainers.inc#Route104_Text_WinstonRematchIntro", "th": "หลังจากแพ้คุณ ผมได้เรียนรู้เรื่องโปเกมอนเพียบเลย$"}
+{"id": "data/text/trainers.inc#Route104_Text_WinstonRematchDefeat", "th": "แพ้อีกแล้วเหรอ? ทำไมผมชนะไม่ได้ล่ะ?$"}
+{"id": "data/text/trainers.inc#Route104_Text_WinstonPostRematch", "th": "ผมรวยล้นฟ้า แต่ดูเหมือนจะชนะด้วยโปเกมอนไม่ได้เลย…\\pโลกของโปเกมอนนี่ช่างลึกซึ้งจริง ๆ…$"}
+{"id": "data/text/trainers.inc#Route104_Text_CindyIntro", "th": "เราคงถูกลิขิตให้มาพบกันค่ะ ขอท้าประลองสักครั้งได้ไหมคะ?$"}
+{"id": "data/text/trainers.inc#Route104_Text_CindyDefeat", "th": "ตายจริง!$"}
+{"id": "data/text/trainers.inc#Route104_Text_CindyPostBattle", "th": "“สวัสดี” คือจุดเริ่มต้นของ “ลาก่อน” หวังว่าเราจะได้พบกันอีกนะคะ$"}
+{"id": "data/text/trainers.inc#Route104_Text_CindyRegister1", "th": "สวัสดีค่ะ เราได้พบกันอีกแล้ว\\pดูเหมือนเราจะถูกดึงดูดเข้าหากันนะคะ มาลงทะเบียนโปเกนาวีของกันและกันเถอะค่ะ$"}
+{"id": "data/text/trainers.inc#Route104_Text_CindyRegister2", "th": "เราควรเก็บความทรงจำที่ถูกดึงดูดเข้าหากันไว้นะคะ\\pมาลงทะเบียนโปเกนาวีของกันและกันเถอะค่ะ$"}
+{"id": "data/text/trainers.inc#Route104_Text_CindyRematchIntro", "th": "สวัสดีค่ะ เราได้พบกันอีกแล้ว ขอท้าประลองสักครั้งได้ไหมคะ?$"}
+{"id": "data/text/trainers.inc#Route104_Text_CindyRematchDefeat", "th": "ตายจริง… ดิฉันทำเต็มที่แล้วนะคะ…$"}
+{"id": "data/text/trainers.inc#Route104_Text_CindyPostRematch", "th": "“สวัสดี” คือจุดเริ่มต้นของ “ลาก่อน” หวังว่าเราจะได้พบกันอีกนะคะ$"}
+{"id": "data/text/trainers.inc#Route104_Text_DarianIntro", "th": "ข้าตกได้โปเกมอนหน้าตาแข็งแกร่งมาตัวนึง!\\pมันมีพลังวิเศษบางอย่างอยู่ในตัว! ดูแกร่งจริง ๆ นะ แกร่งแน่นอน!$"}
+{"id": "data/text/trainers.inc#Route104_Text_DarianDefeat", "th": "อะไรกันเนี่ย…$"}
+{"id": "data/text/trainers.inc#Route104_Text_DarianPostBattle", "th": "นี่ คอยคิง แกไม่สมกับชื่อเลยนะ ว่าไหม?$"}
+{"id": "data/text/trainers.inc#Route105_Text_FosterIntro", "th": "ได้ยินว่าแถวนี้มีหินลึกลับอยู่ รู้อะไรเกี่ยวกับมันบ้างไหม?$"}
+{"id": "data/text/trainers.inc#Route105_Text_FosterDefeated", "th": "มัวแต่คิดถึงหินนั่น โปเกมอนของข้าเลยอ่อนแออยู่อย่างนั้น…$"}
+{"id": "data/text/trainers.inc#Route105_Text_FosterPostBattle", "th": "ข้าจ้องมองหินสวย ๆ ได้เป็นชั่วโมง ๆ โดยไม่เบื่อเลย$"}
+{"id": "data/text/trainers.inc#Route105_Text_LuisIntro", "th": "ฟู่! ตอนเห็นเธอนึกว่ามีเด็กจมน้ำซะอีก\\pดูเหมือนจะไม่เป็นไรนี่ งั้นมาสู้กันหน่อยไหม?$"}
+{"id": "data/text/trainers.inc#Route105_Text_LuisDefeated", "th": "บุ๋ง… บุ๋ง…$"}
+{"id": "data/text/trainers.inc#Route105_Text_LuisPostBattle", "th": "ถ้ากำลังจมน้ำ สัญญาณขอความช่วยเหลือคือโบกแขนข้างเดียวไปทางชายหาด$"}
+{"id": "data/text/trainers.inc#Route105_Text_DominikIntro", "th": "ว่ายน้ำในทะเลสีคราม… รู้สึกดีที่สุดเลย!$"}
+{"id": "data/text/trainers.inc#Route105_Text_DominikDefeated", "th": "แพ้แล้ว… ใจหม่นเป็นสีครามไปหมดเลย…$"}
+{"id": "data/text/trainers.inc#Route105_Text_DominikPostBattle", "th": "ทำไมทะเลถึงเป็นสีฟ้านะ?\\pผมเคยเรียนเรื่องนี้ที่พิพิธภัณฑ์ในเมืองไคนะ แต่ลืมไปแล้ว$"}
+{"id": "data/text/trainers.inc#Route105_Text_BeverlyIntro", "th": "อยู่ในน้ำแล้วตัวเบาขึ้น เหมือนผอมลงเลย!$"}
+{"id": "data/text/trainers.inc#Route105_Text_BeverlyDefeated", "th": "ตัวลอยแล้ว…$"}
+{"id": "data/text/trainers.inc#Route105_Text_PostBattle", "th": "ในน้ำ น้ำหนักตัวจะลดเหลือแค่หนึ่งในสิบ\\pงั้นฉันก็จะเหลือ… อุ๊ย! ไม่บอกน้ำหนักหรอกนะ!$"}
+{"id": "data/text/trainers.inc#Route105_Text_ImaniIntro", "th": "ท้องฟ้าสีคราม… ทะเลกว้างใหญ่… สงบจังเลย…$"}
+{"id": "data/text/trainers.inc#Route105_Text_ImaniDefeated", "th": "แพ้ตอนกำลังนอนเล่นเพลิน ๆ ซะได้!$"}
+{"id": "data/text/trainers.inc#Route105_Text_ImaniPostBattle", "th": "อยากให้ใครสักคนบอกว่าอยู่กับฉันแล้วสบายใจจัง คิกคิก$"}
+{"id": "data/text/trainers.inc#Route105_Text_AndresIntro", "th": "ข้ามั่นใจว่าทะเลซ่อนความลับไว้จากพวกเรา$"}
+{"id": "data/text/trainers.inc#Route105_Text_AndresDefeated", "th": "ใช่… ข้าไม่เก่งเรื่องต่อสู้เลย…$"}
+{"id": "data/text/trainers.inc#Route105_Text_AndresPostBattle", "th": "ข้ามั่นใจว่าทะเลทั่วโลกยังมีความลับรอให้ค้นพบอีกมาก\\pข้าตั้งใจจะค้นหาให้ครบทุกอย่าง!$"}
+{"id": "data/text/trainers.inc#Route105_Text_AndresRegister", "th": "หา? ข้าอ่อนแอขนาดนี้ แต่เธอยังอยากลงทะเบียนข้าในโปเกนาวีเหรอ?$"}
+{"id": "data/text/trainers.inc#Route105_Text_AndresRematchIntro", "th": "ข้าบอกแล้วนะว่าข้าอ่อนแอ… แน่ใจนะว่าจะสู้?$"}
+{"id": "data/text/trainers.inc#Route105_Text_AndresRematchDefeated", "th": "ใช่… ข้าก็ไม่คิดว่าจะชนะหรอก$"}
+{"id": "data/text/trainers.inc#Route105_Text_AndresRematchPostBattle", "th": "ข้าอาจจะอ่อนเรื่องต่อสู้ แต่ความมุ่งมั่นในการสำรวจไม่แพ้ใคร\\pข้าจะท่องไปในทะเลทั่วโลกให้ได้!$"}
+{"id": "data/text/trainers.inc#Route105_Text_JosueIntro", "th": "ว่ายน้ำจนหมดแรงเลย ไม่ชินจริง ๆ\\pขอสู้สักตาเปลี่ยนบรรยากาศหน่อย!$"}
+{"id": "data/text/trainers.inc#Route105_Text_JosueDefeated", "th": "แพ้เพราะมาสู้กลางทะเลนี่แหละ$"}
+{"id": "data/text/trainers.inc#Route105_Text_JosuePostBattle", "th": "ใช่ สำหรับผม ท้องฟ้าเข้ากับผมกว่าทะเลเยอะเลย$"}
+{"id": "data/text/trainers.inc#Route106_Text_ElliotIntro", "th": "ชอบตกปลาในทะเลหรือในลำธารมากกว่ากัน?$"}
+{"id": "data/text/trainers.inc#Route106_Text_ElliotDefeated", "th": "แพ้ยับเหมือนตกปลาทะเลลึกเลย!$"}
+{"id": "data/text/trainers.inc#Route106_Text_ElliotPostBattle", "th": "จะในทะเลหรือในลำธาร ตกปลาก็สุดยอดทั้งนั้น เห็นด้วยใช่ไหมล่ะ?$"}
+{"id": "data/text/trainers.inc#Route106_Text_ElliotRegister", "th": "ตกปลาก็สนุก แต่ต่อสู้ก็สนุกเหมือนกัน ถ้าไม่ว่าอะไร เจอกันอีกได้ไหม?$"}
+{"id": "data/text/trainers.inc#Route106_Text_ElliotRematchIntro", "th": "ข้าตกโปเกมอนมาได้เพียบ! จะโชว์การต่อสู้สุดอลังการให้ดู!$"}
+{"id": "data/text/trainers.inc#Route106_Text_ElliotRematchDefeated", "th": "แพ้ยับอีกแล้ว!$"}
+{"id": "data/text/trainers.inc#Route106_Text_ElliotRematchPostBattle", "th": "แพ้หรือชนะ โปเกมอนก็สุดยอดที่สุด! เห็นด้วยใช่ไหมล่ะ?$"}
+{"id": "data/text/trainers.inc#Route106_Text_NedIntro", "th": "เวลาปวดห้องน้ำ คนอื่นเขาทำยังไงกันนะ?\\pถ้าคันเบ็ดได้ตัวใหญ่ตอนข้าเข้าห้องน้ำอยู่ล่ะ? ไปไม่ได้เลยจริง ๆ…$"}
+{"id": "data/text/trainers.inc#Route106_Text_NedDefeated", "th": "ข้าแพ้เพราะมัวแต่อั้นไม่ไปห้องน้ำ…$"}
+{"id": "data/text/trainers.inc#Route106_Text_NedPostBattle", "th": "ไม่นะ! รู้สึกเลยว่ากำลังจะได้ตัวใหญ่!$"}
+{"id": "data/text/trainers.inc#Route106_Text_DouglasIntro", "th": "ฮ่าฮ่าฮ่า! ผมวิ่งห่วยแตก แต่ในน้ำเธอจับผมไม่ได้หรอก!$"}
+{"id": "data/text/trainers.inc#Route106_Text_DouglasDefeated", "th": "ยอมแล้ว!$"}
+{"id": "data/text/trainers.inc#Route106_Text_DouglasPostBattle", "th": "ถ้าแข่งว่ายน้ำ ผมไม่แพ้หรอก…$"}
+{"id": "data/text/trainers.inc#Route106_Text_KylaIntro", "th": "ทะเลคือสนามหลังบ้านของฉัน จะไม่ออมมือเพราะเธอเป็นเด็กหรอกนะ!$"}
+{"id": "data/text/trainers.inc#Route106_Text_KylaDefeated", "th": "นี่เธอออมมือให้ฉันหรือเปล่าเนี่ย?$"}
+{"id": "data/text/trainers.inc#Route106_Text_KylaPostBattle", "th": "ลอยไปตามคลื่น… ชอบที่สุดเลย! ลองดูบ้างสิ?$"}
+{"id": "data/text/trainers.inc#Route107_Text_DarrinIntro", "th": "หาว…\\pคงเผลอหลับไปตอนลอยตามคลื่นแน่ ๆ$"}
+{"id": "data/text/trainers.inc#Route107_Text_DarrinDefeated", "th": "อะฮ่าฮ่า แพ้แล้ว… งั้นงีบต่อดีกว่า…$"}
+{"id": "data/text/trainers.inc#Route107_Text_DarrinPostBattle", "th": "ลอยตัวให้คลื่นโยกไปมา… เหมือนนอนบนเตียงนุ่ม ๆ เลย$"}
+{"id": "data/text/trainers.inc#Route107_Text_TonyIntro", "th": "ทะเลเหมือนสนามหลังบ้านของผม มาสู้กัน!$"}
+{"id": "data/text/trainers.inc#Route107_Text_TonyDefeated", "th": "แพ้ในถิ่นตัวเอง… ช็อกเลย!$"}
+{"id": "data/text/trainers.inc#Route107_Text_TonyPostBattle", "th": "ผมว่ายไปในทะเล พร้อมหัวใจที่เปี่ยมด้วยความฝัน…\\pเป็นเนื้อเพลงน่ะ! ว่าแต่ ผมไปว่ายต่อละ$"}
+{"id": "data/text/trainers.inc#Route107_Text_TonyRegister", "th": "เธอทำให้ผมช็อกถึงกระดูกเลย! เอาเถอะ จะได้ไม่ลืมผมไง…$"}
+{"id": "data/text/trainers.inc#Route107_Text_TonyRematchIntro", "th": "ว่ายในทะเลกว้างใหญ่ โปเกมอนของผมเลยแข็งแกร่งขึ้น!$"}
+{"id": "data/text/trainers.inc#Route107_Text_TonyRematchDefeated", "th": "ช็อกเลย!\\pโปเกมอนแข็งแกร่งขึ้น แต่ผมยังอ่อนหัดในฐานะเทรนเนอร์!$"}
+{"id": "data/text/trainers.inc#Route107_Text_TonyRematchPostBattle", "th": "สิ่งที่ได้เรียนรู้จากการต่อสู้ ทำให้เป็นเทรนเนอร์ที่แข็งแกร่งขึ้น คลื่นสอนผมไว้แบบนั้น$"}
+{"id": "data/text/trainers.inc#Route107_Text_DeniseIntro", "th": "รู้จักเมืองเล็ก ๆ ชื่อมุโระไหม?$"}
+{"id": "data/text/trainers.inc#Route107_Text_DeniseDefeated", "th": "เกลียดที่สุด!$"}
+{"id": "data/text/trainers.inc#Route107_Text_DenisePostBattle", "th": "ตอนนี้ที่ฮอลล์ในเมืองมุโระ มีคำพูดแปลก ๆ กำลังฮิตสุด ๆ เลย$"}
+{"id": "data/text/trainers.inc#Route107_Text_BethIntro", "th": "อยากสู้กับฉันเหรอ? ได้สิ ฉันเอาด้วย!$"}
+{"id": "data/text/trainers.inc#Route107_Text_BethDefeated", "th": "ฉันยังเก่งไม่พอสำหรับเธอ$"}
+{"id": "data/text/trainers.inc#Route107_Text_BethPostBattle", "th": "ฉันว่าเธอจะเก่งขึ้นเรื่อย ๆ ฉันก็จะพยายามเหมือนกัน!$"}
+{"id": "data/text/trainers.inc#Route107_Text_LisaIntro", "th": "ลิซา: เราสองพี่น้องขอท้าประลองเธอ!$"}
+{"id": "data/text/trainers.inc#Route107_Text_LisaDefeated", "th": "ลิซา: สุดยอด เธอเก่งคนละระดับเลย$"}
+{"id": "data/text/trainers.inc#Route107_Text_LisaPostBattle", "th": "ลิซา: เธอมีเพื่อนที่จะมาเที่ยวทะเลด้วยกันไหม?$"}
+{"id": "data/text/trainers.inc#Route107_Text_LisaNotEnoughPokemon", "th": "ลิซา: ถ้าอยากสู้กับเรา ก็พาโปเกมอนมาเพิ่มสิ$"}
+{"id": "data/text/trainers.inc#Route107_Text_RayIntro", "th": "เรย์: ผมกับพี่สาวสู้ด้วยโปเกมอนตลอดเลยฮะ\\pผมแพ้ตลอด แต่ถ้าสู้ 2 ต่อ 2 เราชนะเธอได้แน่!$"}
+{"id": "data/text/trainers.inc#Route107_Text_RayDefeated", "th": "เรย์: ว้าว เธอเก่งกว่าพวกเราอีก!$"}
+{"id": "data/text/trainers.inc#Route107_Text_RayPostBattle", "th": "เรย์: พี่สาวให้โปเกมอนผมมา ผมเลี้ยงมันจนตอนนี้เป็นคู่หูคนสำคัญแล้วฮะ!$"}
+{"id": "data/text/trainers.inc#Route107_Text_RayNotEnoughPokemon", "th": "เรย์: ถ้าอยากสู้กับเรา ไปเอาโปเกมอนมาเพิ่มก่อนสิ!$"}
+{"id": "data/text/trainers.inc#Route107_Text_CamronIntro", "th": "ผมกำลังแข่งไตรกีฬาอยู่ แต่ยังไม่เหนื่อยเลยสักนิด!$"}
+{"id": "data/text/trainers.inc#Route107_Text_CamronDefeated", "th": "เหนื่อยแฮะ…$"}
+{"id": "data/text/trainers.inc#Route107_Text_CamronPostBattle", "th": "หลังจากนี้ยังต้องว่ายน้ำกับวิ่งอีก\\pผมจะไหวไหมเนี่ย?$"}
+{"id": "data/text/trainers.inc#Route108_Text_JeromeIntro", "th": "ความฝันของผมคือว่ายน้ำข้ามทะเลทั้งเจ็ดของโลก!$"}
+{"id": "data/text/trainers.inc#Route108_Text_JeromeDefeated", "th": "แบบนี้คงว่ายข้ามทะเลทั้งเจ็ดไม่ได้แน่…$"}
+{"id": "data/text/trainers.inc#Route108_Text_JeromePostBattle", "th": "การเล่นกับโปเกมอนทะเลเป็นความสุขอย่างหนึ่งของการว่ายน้ำเลย!$"}
+{"id": "data/text/trainers.inc#Route108_Text_MatthewIntro", "th": "เฮ้ ทางนี้! เธอจะไปเรือร้างเหมือนกันเหรอ?$"}
+{"id": "data/text/trainers.inc#Route108_Text_MatthewDefeated", "th": "จมแล้ว! บุ๋ง… บุ๋ง…$"}
+{"id": "data/text/trainers.inc#Route108_Text_MatthewPostBattle", "th": "บางคนถึงกับเข้าไปข้างในเรือร้างนั่นเลยนะ$"}
+{"id": "data/text/trainers.inc#Route108_Text_TaraIntro", "th": "แฟนขี้โกหกของฉันบอกว่าฉันใส่บิกินี่แล้วสวยมาก…$"}
+{"id": "data/text/trainers.inc#Route108_Text_TaraDefeated", "th": "โธ่ เซ็ง!$"}
+{"id": "data/text/trainers.inc#Route108_Text_TaraPostBattle", "th": "ถึงจะเป็นคำโกหก แต่ฉันก็ชอบให้ใครชมว่าสวยนะ… ผู้หญิงอย่างเราเข้าใจยากจริง ๆ…$"}
+{"id": "data/text/trainers.inc#Route108_Text_MissyIntro", "th": "ฉันรักทะเล! เวลาว่ายน้ำจะลืมความกังวลไปหมดเลย!$"}
+{"id": "data/text/trainers.inc#Route108_Text_MissyDefeated", "th": "พอแพ้แล้วเครียดขึ้นมาทันทีเลย!$"}
+{"id": "data/text/trainers.inc#Route108_Text_MissyPostBattle", "th": "ว่ายน้ำคลายเครียดสิ! ดีต่อสุขภาพสุด ๆ เลย!$"}
+{"id": "data/text/trainers.inc#Route108_Text_CoryIntro", "th": "ข้ารักโปเกมอนประเภท WATER! โปเกมอนอื่นก็รักเหมือนกัน!$"}
+{"id": "data/text/trainers.inc#Route108_Text_CoryDefeated", "th": "แง้! แพ้แล้ว! แง้! แง้!$"}
+{"id": "data/text/trainers.inc#Route108_Text_CoryPostBattle", "th": "ตะโกนแล้วรู้สึกดี! ใจฮึกเหิมขึ้นเลย!$"}
+{"id": "data/text/trainers.inc#Route108_Text_CoryRegister", "th": "ข้าก็รักเทรนเนอร์เก่ง ๆ เหมือนกัน! ลงทะเบียนข้าในโปเกนาวีเลย!$"}
+{"id": "data/text/trainers.inc#Route108_Text_CoryRematchIntro", "th": "แพ้หรือชนะ ข้าก็รักการสู้กลางทะเล!$"}
+{"id": "data/text/trainers.inc#Route108_Text_CoryRematchDefeated", "th": "แง้! แพ้อีกแล้ว! แง้! แง้!$"}
+{"id": "data/text/trainers.inc#Route108_Text_CoryRematchPostBattle", "th": "ถ้าเจออุปสรรค ลองตะโกนใส่ทะเลดูสิ!$"}
+{"id": "data/text/trainers.inc#Route108_Text_CarolinaIntro", "th": "ฉันภูมิใจในโปเกมอนของฉันมาก เดี๋ยวจะโชว์การต่อสู้สุดรวดเร็วให้ดู!$"}
+{"id": "data/text/trainers.inc#Route108_Text_CarolinaDefeated", "th": "แบบนี้ไม่น่ารักเลยสักนิด$"}
+{"id": "data/text/trainers.inc#Route108_Text_CarolinaPostBattle", "th": "มาทะเลทั้งที ใส่ชุดว่ายน้ำสีชมพูระบาย ๆ ก็คงไม่เลวนะ…$"}
+{"id": "data/text/trainers.inc#Route109_Text_DavidIntro", "th": "ฮึ่ย! ดูกล้ามท้องแน่น ๆ ของผมสิ! นี่แหละที่เรียกว่า “ซิกซ์แพ็ก”!$"}
+{"id": "data/text/trainers.inc#Route109_Text_DavidDefeated", "th": "โอ๊ย! แพ้ราบคาบ!$"}
+{"id": "data/text/trainers.inc#Route109_Text_DavidPostBattle", "th": "ฮึ่ย!\\pกล้ามท้องสุดเฟิร์มของผม ไม่เกี่ยวอะไรกับการต่อสู้โปเกมอนเลย!$"}
+{"id": "data/text/trainers.inc#Route109_Text_AliceIntro", "th": "ป้องกันแดดดีแล้วหรือยัง?$"}
+{"id": "data/text/trainers.inc#Route109_Text_AliceDefeated", "th": "โอ๊ย โอ๊ย โอ๊ย!$"}
+{"id": "data/text/trainers.inc#Route109_Text_AlicePostBattle", "th": "แก้มนี่แหละไหม้แดดง่ายที่สุด!$"}
+{"id": "data/text/trainers.inc#Route109_Text_HueyIntro", "th": "ข้าทอดสมอมาแล้วทุกท่าเรือทั่วโลก แต่ไคนะดีที่สุด$"}
+{"id": "data/text/trainers.inc#Route109_Text_HueyDefeated", "th": "เธอสุดยอดที่สุด!$"}
+{"id": "data/text/trainers.inc#Route109_Text_HueyPostBattle", "th": "ท่าเรือที่ดีที่สุด ก็มีเทรนเนอร์ที่เก่งที่สุด…$"}
+{"id": "data/text/trainers.inc#Route109_Text_EdmondIntro", "th": "อึ๊ก… สู้เหรอ? กับข้าเนี่ยนะ?$"}
+{"id": "data/text/trainers.inc#Route109_Text_EdmondDefeated", "th": "อึ๊ก… โอ๊ยยยย… อึ๊กกก…$"}
+{"id": "data/text/trainers.inc#Route109_Text_EdmondPostBattle", "th": "ปกติข้าเก่งกว่านี้นะ! แค่เมาเรือหนักมากเท่านั้นเอง!\\pข้าเป็นกะลาสีแท้ ๆ แต่…$"}
+{"id": "data/text/trainers.inc#Route109_Text_RickyIntro", "th": "หิวน้ำจัง… อยากกิน SODA POP ที่บ้านริมหาดจัง…$"}
+{"id": "data/text/trainers.inc#Route109_Text_RickyDefeated", "th": "โอย…$"}
+{"id": "data/text/trainers.inc#Route109_Text_RickyPostBattle", "th": "หิวไส้จะขาดแล้ว… ห่วงยางของผมดูเหมือนโดนัทยักษ์เลย…$"}
+{"id": "data/text/trainers.inc#Route109_Text_RickyRegister", "th": "ตอนผมหายหิวน้ำแล้ว มาแข่งกับผมอีกได้ไหมฮะ?$"}
+{"id": "data/text/trainers.inc#Route109_Text_RickyRematchIntro", "th": "ถึงจะหิว แต่ผมยังมีแรงเหลือพอสู้นะ!$"}
+{"id": "data/text/trainers.inc#Route109_Text_RickyRematchDefeated", "th": "แพ้แล้ว… เพราะผมหิวแน่ ๆ เลย…$"}
+{"id": "data/text/trainers.inc#Route109_Text_RickyRematchPostBattle", "th": "กินข้าวที่ชายหาดแล้ว อะไร ๆ ก็อร่อยขึ้นนิดนึงนะ$"}
+{"id": "data/text/trainers.inc#Route109_Text_LolaIntro", "th": "ร่มชายหาดดูเหมือนดอกไม้ยักษ์เลยว่าไหม?$"}
+{"id": "data/text/trainers.inc#Route109_Text_LolaDefeated", "th": "แม่จ๋า!$"}
+{"id": "data/text/trainers.inc#Route109_Text_LolaPostBattle", "th": "ถ้ามองชายหาดจากบนฟ้า จะเหมือนสวนดอกไม้ใหญ่ ๆ เลยล่ะ!$"}
+{"id": "data/text/trainers.inc#Route109_Text_LolaRegister", "th": "หนูเหรอ? หนูมาที่นี่ทุกวันเลย!$"}
+{"id": "data/text/trainers.inc#Route109_Text_LolaRematchIntro", "th": "หนูจะไม่แพ้เธออีกแล้ว! หนูเลยเอาห่วงยางมาไง!$"}
+{"id": "data/text/trainers.inc#Route109_Text_LolaRematchDefeated", "th": "แม่จ๋า!$"}
+{"id": "data/text/trainers.inc#Route109_Text_LolaRematchPostBattle", "th": "ถ้ามีห่วงยาง ความน่ารักของหนูกับโปเกมอนก็เพิ่มขึ้นเยอะเลย!$"}
+{"id": "data/text/trainers.inc#Route109_Text_AustinaIntro", "th": "หนูว่ายน้ำไม่เป็นถ้าไม่มีห่วงยาง แต่เรื่องโปเกมอนหนูไม่แพ้หรอก!$"}
+{"id": "data/text/trainers.inc#Route109_Text_AustinaDefeated", "th": "หนูแพ้เพราะมีห่วงยางหรือเปล่านะ?$"}
+{"id": "data/text/trainers.inc#Route109_Text_AustinaPostBattle", "th": "ห่วงยางของหนูเป็นไอเท็มแฟชั่น ไม่มีมันแล้วหนูออกไปไหนไม่ได้เลย$"}
+{"id": "data/text/trainers.inc#Route109_Text_GwenIntro", "th": "สวัสดีค่ะ พี่เทรนเนอร์ มาสู้กับหนูไหม?$"}
+{"id": "data/text/trainers.inc#Route109_Text_GwenDefeated", "th": "โอ้ เก่งจังเลย$"}
+{"id": "data/text/trainers.inc#Route109_Text_GwenPostBattle", "th": "ทำยังไงถึงเก่งขนาดนี้ได้คะ?$"}
+{"id": "data/text/trainers.inc#Route109_Text_CarterIntro", "th": "วะฮ่าฮ่า! พี่ชายคนนี้จะตกได้ตัวเบ้อเริ่มแน่!$"}
+{"id": "data/text/trainers.inc#Route109_Text_CarterDefeated", "th": "พี่ชายคนนี้ดันแพ้ซะแล้ว…$"}
+{"id": "data/text/trainers.inc#Route109_Text_CarterPostBattle", "th": "พี่ชายคนนี้ว่าเธอน่ะตัวใหญ่นะ ไม่สิ เป็นตัวใหญ่ในอนาคตต่างหาก!$"}
+{"id": "data/text/trainers.inc#Route109_Text_PaulIntro", "th": "พอล: เฮ้อ ทำเสียบรรยากาศหมดเลย\\pอย่ามารบกวนเวลาอันมีค่าของเราสองคนได้ไหม$"}
+{"id": "data/text/trainers.inc#Route109_Text_PaulDefeated", "th": "พอล: เฮ้อ ยอมแล้ว$"}
+{"id": "data/text/trainers.inc#Route109_Text_PaulPostBattle", "th": "พอล: เอาเถอะ อย่าบอกใครนะว่าเราอยู่ที่นี่ นี่เป็นโลกส่วนตัวของเราสองคน!$"}
+{"id": "data/text/trainers.inc#Route109_Text_PaulNotEnoughPokemon", "th": "พอล: เรารักกันลึกซึ้งสุด ๆ เลยให้โปเกมอนสู้ไปพร้อมกัน$"}
+{"id": "data/text/trainers.inc#Route109_Text_MelIntro", "th": "เมล: เราน่ะ แบบว่า รักกันสุด ๆ ความรักของเราร้อนแรงไปทั่วโฮเอ็นเลย!$"}
+{"id": "data/text/trainers.inc#Route109_Text_MelDefeated", "th": "เมล: เราแพ้เพราะฉันเอง! พอลต้องเกลียดฉันแน่!$"}
+{"id": "data/text/trainers.inc#Route109_Text_MelPostBattle", "th": "เมล: เอ่อ พอล โกรธฉันหรือเปล่า? อย่าโกรธนะ$"}
+{"id": "data/text/trainers.inc#Route109_Text_MelNotEnoughPokemon", "th": "เมล: เราน่ะ แบบว่า รักกันจริงหมดหัวใจ เลยให้โปเกมอนสู้ไปพร้อมกัน$"}
+{"id": "data/text/trainers.inc#Route109_Text_ChandlerIntro", "th": "แตแด๊น! เห็นไหม? ห่วงยางของผมกลมดิ๊ก!$"}
+{"id": "data/text/trainers.inc#Route109_Text_ChandlerDefeated", "th": "โอ๊ะ โอ๊ะ! น่าเสียดาย!$"}
+{"id": "data/text/trainers.inc#Route109_Text_ChandlerPostBattle", "th": "อุตส่าห์ให้ดูห่วงยางกลม ๆ ของผมแล้วแท้ ๆ…$"}
+{"id": "data/text/trainers.inc#Route109_Text_HaileyIntro", "th": "หนูว่ายน้ำไม่เป็น เลยทำท่าว่ายเอา$"}
+{"id": "data/text/trainers.inc#Route109_Text_HaileyDefeated", "th": "นั่นไง! หนูก็คิดว่าเราชนะไม่ได้หรอก$"}
+{"id": "data/text/trainers.inc#Route109_Text_HaileyPostBattle", "th": "ถ้าหนูว่ายน้ำเป็นเมื่อไร โปเกมอนของหนูคงแข็งแกร่งขึ้นแน่$"}
+{"id": "data/text/trainers.inc#Route109_Text_ElijahIntro", "th": "ผู้ชายแมน ๆ อย่างผม ต้องคู่กับโปเกมอนแบบนี้แหละ เหมาะสุด ๆ!$"}
+{"id": "data/text/trainers.inc#Route109_Text_ElijahDefeated", "th": "แพ้ก็ยังเท่อยู่นะ ว่าไหม?$"}
+{"id": "data/text/trainers.inc#Route109_Text_ElijahPostBattle", "th": "ผู้ชายแมน ๆ อย่างผม ต้องคู่กับท่าเรือถึงจะเข้ากัน!\\pงั้นไปเมืองไคนะดีกว่า$"}
+{"id": "data/text/trainers.inc#Route110_Text_JacobIntro", "th": "โว้ว! ระวังหน่อย! สงสัยจะยังไม่ชินกับการแข่งจักรยานสินะ$"}
+{"id": "data/text/trainers.inc#Route110_Text_JacobDefeated", "th": "โว้ว! เบรกแตก!$"}
+{"id": "data/text/trainers.inc#Route110_Text_JacobPostBattle", "th": "ยางแบนกับเบรกเสีย อาจทำให้บาดเจ็บหนักได้นะ! ตรวจจักรยานให้ดีล่ะ!$"}
+{"id": "data/text/trainers.inc#Route110_Text_AnthonyIntro", "th": "เฮ้ เธอ! ตามความเร็วของผมทันไหม?$"}
+{"id": "data/text/trainers.inc#Route110_Text_AnthonyDefeated", "th": "ล้มไม่เป็นท่า!$"}
+{"id": "data/text/trainers.inc#Route110_Text_AnthonyPostBattle", "th": "ความเร็วอย่างเดียวชนะการต่อสู้โปเกมอนไม่ได้ ต้องคิดใหม่แล้ว…$"}
+{"id": "data/text/trainers.inc#Route110_Text_BenjaminIntro", "th": "ถึงจักรยานจะเร็วแค่ไหนก็อย่าตื่นตกใจนะ!$"}
+{"id": "data/text/trainers.inc#Route110_Text_BenjaminDefeated", "th": "ไม่ควรตื่นตกใจตอนต่อสู้โปเกมอน…$"}
+{"id": "data/text/trainers.inc#Route110_Text_BenjaminPostBattle", "th": "ไม่ต้องตื่นตกใจหรือเครียดหรอก ใจเย็น ๆ เวลายังมีอีกเยอะ$"}
+{"id": "data/text/trainers.inc#Route110_Text_BenjaminRegister", "th": "ผมจะปั่นต่อไปแบบไม่เครียด ถ้าพร้อมเมื่อไรก็เรียกผมได้เลย$"}
+{"id": "data/text/trainers.inc#Route110_Text_BenjaminRematchIntro", "th": "ไม่ได้ไปเร็วเกินไปหน่อยเหรอ? ใจเย็น ๆ แล้วมาสู้กัน$"}
+{"id": "data/text/trainers.inc#Route110_Text_BenjaminRematchDefeated", "th": "ผมไม่ได้ตื่นตกใจเลย แต่ก็ยังแพ้…$"}
+{"id": "data/text/trainers.inc#Route110_Text_BenjaminRematchPostBattle", "th": "ไม่ต้องตื่นตกใจหรือเครียดหรอก ใจเย็น ๆ เวลายังมีอีกเยอะ$"}
+{"id": "data/text/trainers.inc#Route110_Text_AbigailIntro", "th": "ไตรกีฬาเป็นกีฬาที่หนักสุด ๆ เลยนะ\\pต้องแข่งให้ครบสามประเภท คือว่ายน้ำ ปั่นจักรยาน แล้วก็วิ่ง$"}
+{"id": "data/text/trainers.inc#Route110_Text_AbigailDefeated", "th": "การต่อสู้โปเกมอนก็หนักเหมือนกันนะ!$"}
+{"id": "data/text/trainers.inc#Route110_Text_AbigailPostBattle", "th": "เหนื่อยแล้ว ขอพักหน่อย การพักผ่อนให้พอเป็นเรื่องสำคัญนะ$"}
+{"id": "data/text/trainers.inc#Route110_Text_AbigailRegister", "th": "รู้ไหม ฉันชอบเธอนะ! มาแข่งกันใหม่ที่ถนนจักรยานกันเถอะ$"}
+{"id": "data/text/trainers.inc#Route110_Text_AbigailRematchIntro", "th": "สู้ไปปั่นจักรยานไปนี่เท่ดีใช่ไหมล่ะ?$"}
+{"id": "data/text/trainers.inc#Route110_Text_AbigailRematchDefeated", "th": "ว้าว… ทำไมเธอเก่งขนาดนี้?$"}
+{"id": "data/text/trainers.inc#Route110_Text_AbigailRematchPostBattle", "th": "เธอกำลังทำสถิติอยู่หรือเปล่า?\\pขอโทษนะถ้าทำให้เสียเวลา!$"}
+{"id": "data/text/trainers.inc#Route110_Text_JasmineIntro", "th": "ฉันปั่นมาไม่หยุดเลย ต้นขาแข็งเป็นหินแล้ว!$"}
+{"id": "data/text/trainers.inc#Route110_Text_JasmineDefeated", "th": "กลัวตะคริวกินจัง…$"}
+{"id": "data/text/trainers.inc#Route110_Text_JasminePostBattle", "th": "อ้าว เธอมีเข็มกลัดยิมด้วยเหรอ? มิน่าล่ะถึงเก่งนัก!$"}
+{"id": "data/text/trainers.inc#Route110_Text_EdwardIntro", "th": "ผมหยั่งรู้เจตนาของคุณแล้ว! ผมไม่มีทางแพ้แน่!$"}
+{"id": "data/text/trainers.inc#Route110_Text_EdwardDefeated", "th": "ดันทำนายความพ่ายแพ้ของตัวเองไม่ออก!$"}
+{"id": "data/text/trainers.inc#Route110_Text_EdwardPostBattle", "th": "ผมมองเห็นอนาคตของคุณ…\\pอืม… ผมเห็นแสงสว่างเจิดจ้า…$"}
+{"id": "data/text/trainers.inc#Route110_Text_JaclynIntro", "th": "อะฮ่าฮ่าฮ่าฮ่า! ฉันจะทำให้เธอตะลึงด้วยปาฏิหาริย์ของฉัน!$"}
+{"id": "data/text/trainers.inc#Route110_Text_JaclynDefeated", "th": "แพ้อย่างปาฏิหาริย์!$"}
+{"id": "data/text/trainers.inc#Route110_Text_JaclynPostBattle", "th": "ที่เธอชนะได้ก็เพราะปาฏิหาริย์เท่านั้น! ใช่ ปาฏิหาริย์! อย่าคิดว่าจะชนะได้ตลอดนะ!$"}
+{"id": "data/text/trainers.inc#Route110_Text_EdwinIntro", "th": "ขอดูโปเกมอนของคุณหน่อยได้ไหม? แค่แวบเดียวก็ได้ นะครับ?$"}
+{"id": "data/text/trainers.inc#Route110_Text_EdwinDefeated", "th": "ผมอยากสะสมให้ครบ…$"}
+{"id": "data/text/trainers.inc#Route110_Text_EdwinPostBattle", "th": "พอเห็นโปเกมอนที่ไม่รู้จัก ไฟนักสะสมในตัวผมก็ลุกโชนเลย!$"}
+{"id": "data/text/trainers.inc#Route110_Text_EdwinRegister", "th": "ผมก็ชอบสะสมรายชื่อแมตช์คอลเหมือนกันนะ…$"}
+{"id": "data/text/trainers.inc#Route110_Text_EdwinRematchIntro", "th": "สวัสดี จับโปเกมอนตัวใหม่มาได้บ้างไหม?\\pขอดูโปเกมอนของคุณหน่อยได้ไหม? แค่แวบเดียวก็ได้ นะครับ?$"}
+{"id": "data/text/trainers.inc#Route110_Text_EdwinRematchDefeated", "th": "โปเกมอนของคุณ… อิจฉาจัง$"}
+{"id": "data/text/trainers.inc#Route110_Text_EdwinRematchPostBattle", "th": "โอ้ อยากได้โปเกมอนหายากมาเป็นของผมให้หมดเลย!$"}
+{"id": "data/text/trainers.inc#Route110_Text_DaleIntro", "th": "เฮ้! อย่าย่องมาข้างหลังแบบนั้นสิ!$"}
+{"id": "data/text/trainers.inc#Route110_Text_DaleDefeated", "th": "แพ้แล้ว! ให้ตายสิ!$"}
+{"id": "data/text/trainers.inc#Route110_Text_DalePostBattle", "th": "หัวใจของการตกปลาคือสมาธิ ต้องจดจ่ออยู่ที่ทุ่นลอย$"}
+{"id": "data/text/trainers.inc#Route110_Text_IsabelIntro", "th": "อะฮ่าฮ่า! ฉันไปได้ทุกที่เพื่ออวดโปเกมอนน่ารักของฉันเลยค่ะ$"}
+{"id": "data/text/trainers.inc#Route110_Text_IsabelDefeated", "th": "ตายจริง แบบนี้ไม่ได้การแล้ว$"}
+{"id": "data/text/trainers.inc#Route110_Text_IsabelPostBattle", "th": "แทนที่จะสู้ บางทีฉันควรไปอวดโปเกมอนที่แฟนคลับมากกว่านะ$"}
+{"id": "data/text/trainers.inc#Route110_Text_IsabelRegister", "th": "แค่นี้ยังไม่ถึงครึ่งของที่ฉันอยากอวดโปเกมอนเลย\\pฉันจะให้เธอมาเป็นผู้ชมคนสำคัญบ่อย ๆ เลยนะ!$"}
+{"id": "data/text/trainers.inc#Route110_Text_IsabelRematchIntro", "th": "อะฮ่าฮ่าฮ่า! ยินดีอวดโปเกมอนให้ดูกี่ครั้งก็ได้เลยค่ะ!$"}
+{"id": "data/text/trainers.inc#Route110_Text_IsabelRematchDefeated", "th": "ตายจริง แบบนี้ไม่ได้การแล้ว$"}
+{"id": "data/text/trainers.inc#Route110_Text_IsabelRematchPostBattle", "th": "ฉันคงเลิกอวดโปเกมอนไม่ได้แน่ ๆ\\pแต่ฉันก็ชอบต่อสู้นะ!$"}
+{"id": "data/text/trainers.inc#Route110_Text_TimmyIntro", "th": "ผมเจอโปเกมอนเท่ ๆ ในพงหญ้าแถวนี้แหละ!$"}
+{"id": "data/text/trainers.inc#Route110_Text_TimmyDefeated", "th": "เท่อย่างเดียวชนะไม่ได้แฮะ…$"}
+{"id": "data/text/trainers.inc#Route110_Text_TimmyPostBattle", "th": "สู้ด้วยโปเกมอนที่เพิ่งจับมานี่ยากชะมัด$"}
+{"id": "data/text/trainers.inc#Route110_Text_AlyssaIntro", "th": "ฉันตกลงมาจากถนนจักรยาน…\\pขอแก้เขินด้วยการสู้กับเธอหน่อย!$"}
+{"id": "data/text/trainers.inc#Route110_Text_AlyssaDefeated", "th": "อุ๊ย! แพ้ซะแล้ว!$"}
+{"id": "data/text/trainers.inc#Route110_Text_AlyssaPostBattle", "th": "ตกถนน… แพ้อีก… อายสุด ๆ เลย!$"}
+{"id": "data/text/trainers.inc#Route110_Text_JosephIntro", "th": "เอาละ! ถึงเวลาจัดเต็ม! ใครโยกไม่ทัน ตกขบวนแน่!$"}
+{"id": "data/text/trainers.inc#Route110_Text_JosephDefeated", "th": "เธอเข้าจังหวะได้เป๊ะเลยแฮะ…$"}
+{"id": "data/text/trainers.inc#Route110_Text_JosephPostBattle", "th": "แค่นี้ไม่ทำให้ผมท้อหรอก! ความพ่ายแพ้ทำให้ผมเป็นคนที่ดีขึ้นต่างหาก!$"}
+{"id": "data/text/trainers.inc#Route110_Text_KalebIntro", "th": "เวลาโปเกมอนน่ารัก ๆ ช่วยเหลือกัน… ไม่มีภาพไหนน่ารักไปกว่านี้แล้ว!$"}
+{"id": "data/text/trainers.inc#Route110_Text_KalebDefeated", "th": "ไม่มีความเมตตาสงสารบ้างเลยเหรอ?$"}
+{"id": "data/text/trainers.inc#Route110_Text_KalebPostBattle", "th": "เอาน่า เอาน่า พวกเธอทำเต็มที่แล้ว ที่รักของผม$"}
+{"id": "data/text/trainers.inc#Route111_Text_DrewIntro", "th": "อ้าว เฮ้! GO-GOGGLES นั่นเข้ากับเธอนะ แต่ผมว่าผมใส่แล้วดูดีกว่า\\pมาตัดสินกันด้วยการต่อสู้ว่าใครใส่แล้วดูดีกว่า!$"}
+{"id": "data/text/trainers.inc#Route111_Text_DrewDefeat", "th": "ใส่ GO-GOGGLES แล้วมองไม่เห็นด้านข้างเลยว่าเกิดอะไรขึ้น$"}
+{"id": "data/text/trainers.inc#Route111_Text_DrewPostBattle", "th": "GO-GOGGLES ทำให้ฝ่าพายุทรายได้ ดีใจสุด ๆ!$"}
+{"id": "data/text/trainers.inc#Route111_Text_HeidiIntro", "th": "ฉันมาปิกนิกกลางทะเลทราย\\pที่นี่เจอเทรนเนอร์ได้ตลอด เลยสนุกกับการต่อสู้ได้ด้วย!$"}
+{"id": "data/text/trainers.inc#Route111_Text_HeidiDefeat", "th": "โห! ใจร้ายจัง!$"}
+{"id": "data/text/trainers.inc#Route111_Text_HeidiPostBattle", "th": "เวลาสู้ท่ามกลางพายุทราย ระวัง HP ของโปเกมอนด้วยนะ\\pถ้าไม่คอยดู มันอาจหมดแรงได้!$"}
+{"id": "data/text/trainers.inc#Route111_Text_BeauIntro", "th": "ใส่ GO-GOGGLES แล้วรู้สึกเหมือนเป็นซูเปอร์ฮีโร่ ตอนนี้ไม่มีใครเอาชนะผมได้!$"}
+{"id": "data/text/trainers.inc#Route111_Text_BeauDefeat", "th": "ใจสู้อย่างเดียวชนะไม่ได้…$"}
+{"id": "data/text/trainers.inc#Route111_Text_BeauPostBattle", "th": "สักวันผมจะเป็นฮีโร่ตัวจริง ผมจะพยายามให้มากขึ้น ให้ตัวเองกับโปเกมอนแข็งแกร่งขึ้น$"}
+{"id": "data/text/trainers.inc#Route111_Text_BeckyIntro", "th": "ได้ยินว่าในทะเลทรายมีฟอสซิลให้หา อยู่ตรงไหนกันนะ?$"}
+{"id": "data/text/trainers.inc#Route111_Text_BeckyDefeat", "th": "ยังไม่ถึงขั้นแฮะ…$"}
+{"id": "data/text/trainers.inc#Route111_Text_BeckyPostBattle", "th": "ถ้าเจอฟอสซิลในทะเลทรายได้ แสดงว่าเมื่อก่อนที่นี่ต้องเป็นทะเลแน่ ๆ$"}
+{"id": "data/text/trainers.inc#Route111_Text_DustyIntro", "th": "ข้าตามหาซากโบราณสถานมาสามสิบปีแล้ว! จะมีคนมาท้าข้างั้นรึ?$"}
+{"id": "data/text/trainers.inc#Route111_Text_DustyDefeat", "th": "ข้ามัวแต่ตามหาซากโบราณ ไม่เคยตามหาโปเกมอนเก่ง ๆ เลย$"}
+{"id": "data/text/trainers.inc#Route111_Text_DustyPostBattle", "th": "ข้าตามหาซากโบราณสถานมาสามสิบปีแล้ว!\\pเดี๋ยวนะ หรือสี่สิบปีกันแน่? อันไหนกันนะ?$"}
+{"id": "data/text/trainers.inc#Route111_Text_DustyRegister", "th": "ข้าไม่ได้ตามหาโปเกมอนเก่ง ๆ เลย\\pแต่ไม่รู้ทำไม ข้าชอบโปเกนาวีเสียจริง$"}
+{"id": "data/text/trainers.inc#Route111_Text_DustyRematchIntro", "th": "ข้าตามหาซากโบราณสถานมาสามสิบปีแล้ว!\\pเดี๋ยวนะ หรือสี่สิบปี? ช่างเถอะ จะมีคนมาท้าข้างั้นรึ?$"}
+{"id": "data/text/trainers.inc#Route111_Text_DustyRematchDefeat", "th": "ข้าไม่เจอทั้งซากโบราณ ไม่เจอทั้งโปเกมอนเก่ง ๆ…$"}
+{"id": "data/text/trainers.inc#Route111_Text_DustyPostRematch", "th": "ข้าตามหาซากโบราณสถานมาสามสิบปีแล้ว!\\pเดี๋ยวนะ หรือสี่สิบปีกันแน่?\\pอืม… อาจจะห้าสิบก็ได้… ข้าทำเรื่องนี้มานานแค่ไหนแล้วนะ?$"}
+{"id": "data/text/trainers.inc#Route111_Text_TravisIntro", "th": "ผมไฟแรงสุด ๆ! โปเกมอนของผมก็ไฟแรงด้วย!$"}
+{"id": "data/text/trainers.inc#Route111_Text_TravisDefeat", "th": "โปเกมอนของผมหมดไฟซะแล้ว…$"}
+{"id": "data/text/trainers.inc#Route111_Text_TravisPostBattle", "th": "พอเห็นเทรนเนอร์ไฟแรง ๆ ผมก็อดมองไม่ได้$"}
+{"id": "data/text/trainers.inc#Route111_Text_IreneIntro", "th": "ไม่รู้ว่าเธอจะไปไหน แต่มาสู้กันหน่อยไหม?$"}
+{"id": "data/text/trainers.inc#Route111_Text_IreneDefeat", "th": "โห เก่งจนน่าหมั่นไส้เลย!$"}
+{"id": "data/text/trainers.inc#Route111_Text_IrenePostBattle", "th": "ฉันว่าจะไปภูเขาปล่องไฟ แต่วิวแถวนี้ก็สวยมากเหมือนกันนะ$"}
+{"id": "data/text/trainers.inc#Route111_Text_DaisukeIntro", "th": "เพื่อฝึกตน ข้าจะท้าทุกคนที่พบเจอ!$"}
+{"id": "data/text/trainers.inc#Route111_Text_DaisukeDefeat", "th": "ยอมแล้ว! ข้ายอมแพ้!$"}
+{"id": "data/text/trainers.inc#Route111_Text_DaisukePostBattle", "th": "ข้าทำได้แค่ฝึกต่อไป จนกว่าจะเอาชนะเทรนเนอร์เก่ง ๆ อย่างเจ้าได้$"}
+{"id": "data/text/trainers.inc#Route111_Text_WiltonIntro", "th": "แสดงให้ผมดูหน่อยว่าคุณฝึกโปเกมอนมาแกร่งแค่ไหน$"}
+{"id": "data/text/trainers.inc#Route111_Text_WiltonDefeat", "th": "เข้าใจแล้ว คุณฝึกพวกมันมาแกร่งทีเดียว$"}
+{"id": "data/text/trainers.inc#Route111_Text_WiltonPostBattle", "th": "โปเกมอนและเทรนเนอร์เรียนรู้ได้มากมายจากการต่อสู้\\pสิ่งสำคัญคือห้ามยอมแพ้ ถึงจะแพ้ก็ตาม$"}
+{"id": "data/text/trainers.inc#Route111_Text_WiltonRegister", "th": "สไตล์การฝึกของคุณมีอะไรให้เรียนรู้อีกมาก\\pถ้าสะดวก ผมขอแข่งใหม่อีกครั้ง$"}
+{"id": "data/text/trainers.inc#Route111_Text_WiltonRematchIntro", "th": "เรามาฝึกที่นี่เพื่อยกระดับฝีมือขึ้นไปอีกขั้น อยู่ฝึกกับเราสิ!$"}
+{"id": "data/text/trainers.inc#Route111_Text_WiltonRematchDefeat", "th": "โอ้ ฝีมือใช้ได้เลยนี่!$"}
+{"id": "data/text/trainers.inc#Route111_Text_WiltonPostRematch", "th": "เก่งขนาดนี้ คุณควรมุ่งหน้าไปโปเกมอนลีกนะ$"}
+{"id": "data/text/trainers.inc#Route111_Text_BrookeIntro", "th": "โอ้ โปเกมอนของเธอดูเหมือนนักแสดงฝีมือดีเลย ฉันต้องขอจองตัวไปร่วมงานสักเรื่องแล้ว$"}
+{"id": "data/text/trainers.inc#Route111_Text_BrookeDefeat", "th": "ไม่ใช่แค่ดูแข็งแกร่ง แต่แข็งแกร่งจริง ๆ!$"}
+{"id": "data/text/trainers.inc#Route111_Text_BrookePostBattle", "th": "นึกว่าเลี้ยงโปเกมอนมาอย่างขยันแล้ว แต่ไม่เลย ยังมีอีกเยอะที่ต้องทำ$"}
+{"id": "data/text/trainers.inc#Route111_Text_BrookeRegister", "th": "อยากเป็นเพื่อนกับคนเก่ง ๆ แบบเธอให้มากกว่านี้จัง!$"}
+{"id": "data/text/trainers.inc#Route111_Text_BrookeRematchIntro", "th": "โปเกมอนจะแข็งแกร่งหรืออ่อนแอก็ขึ้นอยู่กับท่าที่สอนให้มัน\\pโปเกมอนของเธอรู้ท่าแบบไหนบ้าง?$"}
+{"id": "data/text/trainers.inc#Route111_Text_BrookeRematchDefeat", "th": "เธอสอนท่าดี ๆ ให้พวกมันนี่!$"}
+{"id": "data/text/trainers.inc#Route111_Text_BrookePostRematch", "th": "บางทีฉันน่าจะหยุดไม่ให้โปเกมอนวิวัฒนาการ จนกว่ามันจะเรียนท่าที่ดีกว่านี้…$"}
+{"id": "data/text/trainers.inc#Route111_Text_CeliaIntro", "th": "ไม่น่ามาปิกนิกที่แบบนี้เลย!$"}
+{"id": "data/text/trainers.inc#Route111_Text_CeliaDefeat", "th": "แง! ไม่น่ามาจริง ๆ ด้วย!$"}
+{"id": "data/text/trainers.inc#Route111_Text_CeliaPostBattle", "th": "พายุทรายแรงขนาดนี้ ถึงจะใส่ GO-GOGGLES ก็ปูเสื่อปิกนิกไม่ได้เลย…$"}
+{"id": "data/text/trainers.inc#Route111_Text_BryanIntro", "th": "เจ้าแกร่งแค่ไหนกัน? ข้าจะเปิดโปงความลับนั้นเอง!$"}
+{"id": "data/text/trainers.inc#Route111_Text_BryanDefeat", "th": "โอ้! พลังของเจ้า! ช่างปกคลุมไปด้วยความลึกลับ!$"}
+{"id": "data/text/trainers.inc#Route111_Text_BryanPostBattle", "th": "ทะเลทรายนี้ซ่อนความลึกลับไว้ใต้ผืนทรายที่เคลื่อนไหวอยู่ตลอด!$"}
+{"id": "data/text/trainers.inc#Route111_Text_BrandenIntro", "th": "ถ้าเธอยอมแพ้ ผมจะแบ่งแซนด์วิชให้นะ$"}
+{"id": "data/text/trainers.inc#Route111_Text_BrandenDefeat", "th": "จิ๊! นึกว่าแซนด์วิชจะพอเป็นสินบนได้ซะอีก…$"}
+{"id": "data/text/trainers.inc#Route111_Text_BrandenPostBattle", "th": "แซนด์ของผมชอบกินแซนด์วิชของผมมาก$"}
+{"id": "data/text/trainers.inc#Route111_Text_TyronIntro", "th": "นี่แหละโปเกมอนแบบที่ผมชอบที่สุด!$"}
+{"id": "data/text/trainers.inc#Route111_Text_TyronDefeat", "th": "เดี๋ยว! เธอดูโปเกมอนของผมชัด ๆ หรือยัง?$"}
+{"id": "data/text/trainers.inc#Route111_Text_TyronPostBattle", "th": "เวลาต่อสู้ ผมสนุกกับการได้อวดโปเกมอนมากเลย\\pพนันได้ว่าทุกคนก็รู้สึกแบบนี้ตอนลงสนามแน่ ๆ!$"}
+{"id": "data/text/trainers.inc#Route111_Text_CelinaIntro", "th": "ช่วยเติมความตื่นเต้นให้ชีวิตดิฉันหน่อยสิคะ$"}
+{"id": "data/text/trainers.inc#Route111_Text_CelinaDefeat", "th": "โอ้… ตายจริง… ตื่นเต้นเกินไปแล้วค่ะ$"}
+{"id": "data/text/trainers.inc#Route111_Text_CelinaPostBattle", "th": "หัวใจดิฉันยังเต้นแรงอยู่เลย คุณเป็นเทรนเนอร์ที่ยอดเยี่ยมจริง ๆ ค่ะ$"}
+{"id": "data/text/trainers.inc#Route111_Text_HaydenIntro", "th": "ถ้าหิวโซเท่าข้าละก็ ไม่มีที่ว่างให้ความสงสารหรอกเว้ย!$"}
+{"id": "data/text/trainers.inc#Route111_Text_HaydenDefeat", "th": "โอย…$"}
+{"id": "data/text/trainers.inc#Route111_Text_HaydenPostBattle", "th": "ท้องร้องจ๊อก ๆ แล้ว! ย่างเบอร์รี่กินดีกว่า…$"}
+{"id": "data/text/trainers.inc#Route111_Text_BiancaIntro", "th": "มาจากเมืองคินเซ็ตสึเหรอ? งั้นต้องมีพลังเต็มเปี่ยมแน่!$"}
+{"id": "data/text/trainers.inc#Route111_Text_BiancaDefeat", "th": "อุ๊ยตาย! หนักเอาการเลย!$"}
+{"id": "data/text/trainers.inc#Route111_Text_BiancaPostBattle", "th": "ถนนเส้นนี้… เธอยังต้องเดินทางอีกไกลเลยนะ$"}
+{"id": "data/text/trainers.inc#Route112_Text_BriceIntro", "th": "ฮ่าฮ่าฮ่าฮ่า! มาสู้กันหน่อยเป็นไง? เจ้ากับข้า! ฮ่าฮ่าฮ่าฮ่า!$"}
+{"id": "data/text/trainers.inc#Route112_Text_BriceDefeat", "th": "แพ้แล้ว! ฮ่าฮ่าฮ่าฮ่า!$"}
+{"id": "data/text/trainers.inc#Route112_Text_BricePostBattle", "th": "ฮ่าฮ่าฮ่าฮ่า! มีอะไรปลิวเข้าจมูก! ฮ่าฮ่าฮ่า-ฮัดชิ้ว!$"}
+{"id": "data/text/trainers.inc#Route112_Text_TrentIntro", "th": "ขาข้าแข็งแรงเพราะเดินขึ้นลงเขามาตลอด\\pไม่ทรุดง่าย ๆ หรอกนะ เพื่อน!$"}
+{"id": "data/text/trainers.inc#Route112_Text_TrentDefeat", "th": "โอ๊ย! ขาเป็นตะคริว!$"}
+{"id": "data/text/trainers.inc#Route112_Text_TrentPostBattle", "th": "ลองปีนเขาดูสิ แบบจริงจังเลยนะ บนเส้นทางภูเขาพร้อมเป้หนักหลายสิบกิโล\\pแบบนั้นแหละเพื่อน ร่างกายเจ้าจะฟิตสุด ๆ$"}
+{"id": "data/text/trainers.inc#Route112_Text_TrentRegister", "th": "โอ๊ย ขาเป็นตะคริว หยิบผ้าพันแผลในเป้ให้ข้าหน่อยได้ไหม?\\pไม่ใช่ นั่นโปเกนาวีของข้า! เอาเถอะ ลงทะเบียนให้ก็ได้$"}
+{"id": "data/text/trainers.inc#Route112_Text_TrentRematchIntro", "th": "ข้ารักษาหุ่นด้วยการปีนเขา เรื่องพละกำลังข้ามีเหลือเฟือ!$"}
+{"id": "data/text/trainers.inc#Route112_Text_TrentRematchDefeat", "th": "ข้าแพ้เรื่องพละกำลังงั้นรึ?$"}
+{"id": "data/text/trainers.inc#Route112_Text_TrentRematchPostBattle", "th": "ได้ยินว่าบนยอดภูเขาปล่องไฟมีเทรนเนอร์เก่งสุด ๆ อยู่\\pข้าตั้งใจจะขึ้นไปท้าพวกนั้นให้ได้!$"}
+{"id": "data/text/trainers.inc#Route112_Text_LarryIntro", "th": "ผมแข็งแกร่งนะ แพ้ก็ไม่ร้องไห้หรอก$"}
+{"id": "data/text/trainers.inc#Route112_Text_LarryDefeat", "th": "แง้งงง!$"}
+{"id": "data/text/trainers.inc#Route112_Text_LarryPostBattle", "th": "ผมไม่ได้ร้องเพราะคิดถึงแม่หรอกนะ! ฮึก…$"}
+{"id": "data/text/trainers.inc#Route112_Text_CarolIntro", "th": "ออกมาปิกนิกทั้งที ก็ต้องร้องเพลงสิ! มาร้องด้วยกันเร็ว!$"}
+{"id": "data/text/trainers.inc#Route112_Text_CarolDefeat", "th": "โห เธอเก่งจังเลย!$"}
+{"id": "data/text/trainers.inc#Route112_Text_CarolPostBattle", "th": "จะร้องเพลงเก่งหรือไม่เก่ง เล่นโปเกมอนเก่งหรือไม่เก่งก็ไม่สำคัญหรอก\\pใครสนุกที่สุด คนนั้นชนะ!$"}
+{"id": "data/text/trainers.inc#Route112_Text_BryantIntro", "th": "ข้าจับโปเกมอนร้อนแรงมาจากทางลัดเปลวไฟ! ดูสิ!$"}
+{"id": "data/text/trainers.inc#Route112_Text_BryantDefeat", "th": "ขลุกขลักสุด ๆ เลยเว้ย!$"}
+{"id": "data/text/trainers.inc#Route112_Text_BryantPostBattle", "th": "ข้าชอบสไตล์การสู้ของเจ้านะ มันมีเสน่ห์บางอย่าง$"}
+{"id": "data/text/trainers.inc#Route112_Text_ShaylaIntro", "th": "โอ้ เทรนเนอร์น่ารักจังเลย! ขอการต่อสู้โรแมนติกหน่อยนะคะ! ดิฉันก็พอมีฝีมืออยู่บ้างค่ะ!$"}
+{"id": "data/text/trainers.inc#Route112_Text_ShaylaDefeat", "th": "โอ้ แข็งแกร่งจังเลย! ทำเอาดิฉันตกใจแย่เลยค่ะ!$"}
+{"id": "data/text/trainers.inc#Route112_Text_ShaylaPostBattle", "th": "ตอนนี้ยุ่งอยู่หรือเปล่าคะ? ดิฉันคิดว่าเราน่าจะแข่งกันใหม่ตอนนี้เลย… แต่ถ้ายุ่งก็ไม่เป็นไรนะคะ$"}
+{"id": "data/text/trainers.inc#Route113_Text_JaylenIntro", "th": "ทายสิว่าทำไมแถวนี้ถึงเย็นสบาย?$"}
+{"id": "data/text/trainers.inc#Route113_Text_JaylenDefeat", "th": "แหวะ! เหม็นชะมัด!$"}
+{"id": "data/text/trainers.inc#Route113_Text_JaylenPostBattle", "th": "เถ้าภูเขาไฟบังแดด เลยไม่ค่อยร้อน\\pดีสำหรับผมเลย ผมทนร้อนไม่ไหว!$"}
+{"id": "data/text/trainers.inc#Route113_Text_DillonIntro", "th": "การระเบิดของภูเขาไฟเป็นหลักฐานว่าโลกยังมีชีวิตอยู่$"}
+{"id": "data/text/trainers.inc#Route113_Text_DillonDefeat", "th": "เธอเก่งแบบสุด ๆ เลย!$"}
+{"id": "data/text/trainers.inc#Route113_Text_DillonPostBattle", "th": "โอ๊ย! โอ๊ยยย! มองไม่เห็น! ขี้เถ้าเข้าตา กลายเป็นตาเฒ่าไปแล้ว!\\pเก็ตไหม? ตาเถ้า ตาเฒ่า?\\pโอเค มุกแป้ก ขอโทษนะ…$"}
+{"id": "data/text/trainers.inc#Route113_Text_MadelineIntro", "th": "ดิฉันใช้ร่มกันแดดคันนี้ปกป้องดอนเมลที่รักจากเถ้าภูเขาไฟสกปรกน่าขยะแขยงค่ะ$"}
+{"id": "data/text/trainers.inc#Route113_Text_MadelineDefeat", "th": "แฮ่ก แฮ่ก… เหนื่อยจังเลยค่ะ…$"}
+{"id": "data/text/trainers.inc#Route113_Text_MadelinePostBattle", "th": "คุณเก่งมากเลยนะคะ ต้องบอกเลยว่าดิฉันประทับใจค่ะ!$"}
+{"id": "data/text/trainers.inc#Route113_Text_MadelineRegister", "th": "มาสิคะ เข้ามาหลบใต้ร่มดิฉันนี่ ขอลงทะเบียนคุณในโปเกนาวีนะคะ$"}
+{"id": "data/text/trainers.inc#Route113_Text_MadelineRematchIntro", "th": "โอ้ สวัสดีค่ะ ไม่ได้เจอกันนานเลยนะคะ ขอเชิญมาต่อสู้กันหน่อยได้ไหมคะ?$"}
+{"id": "data/text/trainers.inc#Route113_Text_MadelineRematchDefeat", "th": "โอ้ ยอดเยี่ยมจริง ๆ ค่ะ!$"}
+{"id": "data/text/trainers.inc#Route113_Text_MadelinePostRematch", "th": "คุณยังเก่งเหมือนเดิมเลยนะคะ ต้องบอกเลยว่าดิฉันประทับใจค่ะ!$"}
+{"id": "data/text/trainers.inc#Route113_Text_LaoIntro", "th": "ข้ากระโจนออกมาจากกองเถ้า! ฮึ่ย! ข้าขอท้าท่าน!$"}
+{"id": "data/text/trainers.inc#Route113_Text_LaoDefeat", "th": "ข้ายอมรับความพ่ายแพ้อย่างมีเกียรติ!$"}
+{"id": "data/text/trainers.inc#Route113_Text_LaoPostBattle", "th": "ข้าต้องขัดเกลาวิชาซ่อนตัวให้ดีกว่านี้ ขอลาไปก่อน$"}
+{"id": "data/text/trainers.inc#Route113_Text_LaoRegister", "th": "ย้ากกก! จงดูวิชานินจาโบราณ วิชาลงทะเบียนโปเกนาวี!$"}
+{"id": "data/text/trainers.inc#Route113_Text_LaoRematchIntro", "th": "ข้ากระโจนออกมาจากกองเถ้า! ฮึ่ย! ข้าขอท้าท่าน!$"}
+{"id": "data/text/trainers.inc#Route113_Text_LaoRematchDefeat", "th": "ข้ายอมรับความพ่ายแพ้อย่างมีเกียรติ!$"}
+{"id": "data/text/trainers.inc#Route113_Text_LaoPostRematch", "th": "การซ่อนตัวอันไร้ที่ติของข้า ต้องพังเพราะฝีมือต่อสู้ที่ยังอ่อนหัด…\\pขอลาไปก่อน$"}
+{"id": "data/text/trainers.inc#Route113_Text_LungIntro", "th": "ขอบคุณที่หาผมเจอนะ! แต่เรายังต้องสู้กันอยู่ดี!$"}
+{"id": "data/text/trainers.inc#Route113_Text_LungDefeat", "th": "ผมจะใช้วิชานินจาใส่เธอ… “คาถาม่านเถ้าภูเขาไฟหมุนวน”!\\p…อะไรนะ? จบแล้วเหรอ?$"}
+{"id": "data/text/trainers.inc#Route113_Text_LungPostBattle", "th": "รู้ไหมว่าการซ่อนตัวแย่ตรงไหน? มันเหงาถ้าไม่มีใครผ่านมาเลย$"}
+{"id": "data/text/trainers.inc#Route113_Text_ToriIntro", "th": "โทรี: เราสองคนเก็บขี้เถ้ากัน แล้วก็สู้ด้วยโปเกมอนด้วยนะ$"}
+{"id": "data/text/trainers.inc#Route113_Text_ToriDefeat", "th": "โทรี: แพ้แล้ว… น่าเบื่อจัง งั้นหนูไปเก็บขี้เถ้าเพิ่มดีกว่า$"}
+{"id": "data/text/trainers.inc#Route113_Text_ToriPostBattle", "th": "โทรี: เรามีขี้เถ้าเท่าไรแล้วนะ? หวังว่าจะพอแลก WHITE FLUTE นะ$"}
+{"id": "data/text/trainers.inc#Route113_Text_ToriNotEnoughMons", "th": "โทรี: เราอยากสู้แบบ 2 ต่อ 2 ถ้าไม่ใช่แบบนั้น เราแพ้แน่!$"}
+{"id": "data/text/trainers.inc#Route113_Text_TiaIntro", "th": "เทีย: เราสองคนเก็บขี้เถ้ากัน แล้วก็สู้ด้วยโปเกมอนด้วยนะ$"}
+{"id": "data/text/trainers.inc#Route113_Text_TiaDefeat", "th": "เทีย: ชนะไม่ได้… น่าเบื่อจัง หนูไปเก็บขี้เถ้าเพิ่มแล้วนะ$"}
+{"id": "data/text/trainers.inc#Route113_Text_TiaPostBattle", "th": "เทีย: เรามีขี้เถ้าเยอะแล้ว! คิดว่าพอแลก WHITE FLUTE แล้วล่ะ!$"}
+{"id": "data/text/trainers.inc#Route113_Text_TiaNotEnoughMons", "th": "เทีย: เราอยากสู้แบบ 2 ต่อ 2 ถ้าไม่ใช่แบบนั้น เราไม่ชนะหรอก!$"}
+{"id": "data/text/trainers.inc#Route113_Text_CobyIntro", "th": "เชอะ ด้วยปีกพวกนี้ ผมดีดเธอกระเด็นได้สบาย!$"}
+{"id": "data/text/trainers.inc#Route113_Text_CobyDefeat", "th": "อะ… อะไรนะ?$"}
+{"id": "data/text/trainers.inc#Route113_Text_CobyPostBattle", "th": "แพ้ง่ายขนาดนี้ ไม่รู้จะพูดอะไรเลย…$"}
+{"id": "data/text/trainers.inc#Route113_Text_SophieIntro", "th": "อากาศอุ่น ๆ แถวนี้ทำให้ง่วงจัง มาสู้กับฉันหน่อย จะได้ไม่หลับ$"}
+{"id": "data/text/trainers.inc#Route113_Text_SophieDefeat", "th": "นี่ต้องเป็นความฝันแน่ ๆ…$"}
+{"id": "data/text/trainers.inc#Route113_Text_SophiePostBattle", "th": "แพ้แล้วหัวร้อนชะมัด… นอนมันตรงนี้เลยดีกว่า! ครอก!$"}
+{"id": "data/text/trainers.inc#Route113_Text_LawrenceIntro", "th": "เธอกำลังเก็บเถ้าภูเขาไฟอยู่หรือเปล่า?$"}
+{"id": "data/text/trainers.inc#Route113_Text_LawrenceDefeat", "th": "เอะเฮะเฮะ โดนเล่นซะเรียบเลย$"}
+{"id": "data/text/trainers.inc#Route113_Text_LawrencePostBattle", "th": "ผมน่าจะไปซ่อนใต้กองขี้เถ้าบ้างนะ$"}
+{"id": "data/text/trainers.inc#Route113_Text_WyattIntro", "th": "จะ… จะสู้กับผมเหรอ? ทั้งที่ผมเพิ่งจับโปเกมอนมาเนี่ยนะ?$"}
+{"id": "data/text/trainers.inc#Route113_Text_WyattDefeat", "th": "ชะ… ชนะแล้วดีใจนักเหรอ? ทั้งที่เป็นแค่ผมเนี่ยนะ?$"}
+{"id": "data/text/trainers.inc#Route113_Text_WyattPostBattle", "th": "อ้อ ตอนนี้จะมาพูดอะไรกับคนแพ้งั้นสิ?\\pเท่สุด ๆ ไปเลยนะ! ฮึ่ม!$"}
+{"id": "data/text/trainers.inc#Route114_Text_LennyIntro", "th": "โยเดเลฮีฮู!\\p… …\\pเจ้าต้องตะโกน “โยเดเลฮีฮู” กลับมาสิ เพราะที่นี่ไม่มีเสียงสะท้อน!$"}
+{"id": "data/text/trainers.inc#Route114_Text_LennyDefeat", "th": "โยเดเลฮีฮู!$"}
+{"id": "data/text/trainers.inc#Route114_Text_LennyPostBattle", "th": "ตอนข้ายังเด็กตัวกะเปี๊ยก ข้าเชื่อว่ามีใครสักคนคอยเลียนแบบข้า แล้วตะโกนกลับมาว่า “โยเดเลฮีฮู”$"}
+{"id": "data/text/trainers.inc#Route114_Text_LucasIntro", "th": "ถ้าไม่เตรียมตัวให้พร้อม ก็ไม่ควรขึ้นมาบนภูเขา!$"}
+{"id": "data/text/trainers.inc#Route114_Text_LucasDefeat", "th": "ภูเขาไม่เคยปรานีใคร…$"}
+{"id": "data/text/trainers.inc#Route114_Text_LucasPostBattle", "th": "หน้าหนาว ภูเขาจะอันตรายถึงชีวิต เพราะพายุหิมะกับหิมะถล่ม$"}
+{"id": "data/text/trainers.inc#Route114_Text_ShaneIntro", "th": "ตั้งแคมป์สนุกจะตาย! ได้ตกปลา ย่างมาร์ชเมลโล่ แล้วก็เล่าเรื่องผี!\\pแต่ที่เจ๋งที่สุดคือการต่อสู้โปเกมอน!$"}
+{"id": "data/text/trainers.inc#Route114_Text_ShaneDefeat", "th": "เก่งเกินไปแล้ว!$"}
+{"id": "data/text/trainers.inc#Route114_Text_ShanePostBattle", "th": "ผมว่ามันเยี่ยมมากที่ได้มาตั้งแคมป์กับโปเกมอน$"}
+{"id": "data/text/trainers.inc#Route114_Text_NancyIntro", "th": "กินเสร็จแล้วต้องออกกำลังกายหน่อย มาแข่งกัน!$"}
+{"id": "data/text/trainers.inc#Route114_Text_NancyDefeat", "th": "ไม่นะ!$"}
+{"id": "data/text/trainers.inc#Route114_Text_NancyPostBattle", "th": "เพิ่งกินของอร่อยไป เริ่มง่วงแล้ว…$"}
+{"id": "data/text/trainers.inc#Route114_Text_SteveIntro", "th": "อุฟุฟุฟุฟุฟุ… อยากสู้กับโปเกมอนของผมไหม?$"}
+{"id": "data/text/trainers.inc#Route114_Text_SteveDefeat", "th": "โปะ… โปเกมอนของผม…$"}
+{"id": "data/text/trainers.inc#Route114_Text_StevePostBattle", "th": "ตัวใหญ่ ผิวขรุขระแข็งไปทั้งตัว เขาใหญ่ยักษ์ เขี้ยวดุร้าย…\\pอุฟุฟุฟุฟุ… อยากได้โปเกมอนแบบนั้นจัง…$"}
+{"id": "data/text/trainers.inc#Route114_Text_SteveRegister", "th": "อย่าลืมสิ่งที่ทำกับผมไว้ล่ะ! ผมจะทำให้เธอลืมไม่ลงเลย!$"}
+{"id": "data/text/trainers.inc#Route114_Text_SteveRematchIntro", "th": "อุฟุฟุฟุฟุฟุ… มาสิ มาสู้กับโปเกมอนของผม…$"}
+{"id": "data/text/trainers.inc#Route114_Text_SteveRematchDefeat", "th": "โชคดีจังที่ได้เห็นโปเกมอนของเธอ…$"}
+{"id": "data/text/trainers.inc#Route114_Text_StevePostRematch", "th": "อุฟุฟุฟุฟุฟุ…\\pเวลาเห็นโปเกมอนต่อสู้กัน ผมขนลุกซู่สั่นไปทั้งตัวเลย…$"}
+{"id": "data/text/trainers.inc#Route114_Text_BernieIntro", "th": "ถ้าจะก่อกองไฟ ต้องเตรียมน้ำไว้ใกล้มือด้วยนะ$"}
+{"id": "data/text/trainers.inc#Route114_Text_BernieDefeat", "th": "ขอบใจที่ช่วยดับไฟให้!$"}
+{"id": "data/text/trainers.inc#Route114_Text_BerniePostBattle", "th": "ต้องระวังไฟทุกชนิดในป่าให้ดีจริง ๆ\\pอย่าประมาทพลังของไฟเด็ดขาด$"}
+{"id": "data/text/trainers.inc#Route114_Text_BernieRegister", "th": "เจ้าจุดไฟในใจข้าให้ลุกโชน มาลงทะเบียนกันเถอะ!$"}
+{"id": "data/text/trainers.inc#Route114_Text_BernieRematchIntro", "th": "เจ้าเรียนรู้หรือยังว่าต้องเตรียมน้ำไว้ใกล้มือเวลาก่อกองไฟ?$"}
+{"id": "data/text/trainers.inc#Route114_Text_BernieRematchDefeat", "th": "สงสัยข้าโดนฉีดน้ำดับก่อนจะได้ลุกโชนซะแล้ว$"}
+{"id": "data/text/trainers.inc#Route114_Text_BerniePostRematch", "th": "ต้องระวังไฟทุกชนิดในป่าให้ดีจริง ๆ\\pอย่าประมาทพลังของไฟเด็ดขาด$"}
+{"id": "data/text/trainers.inc#Route114_Text_ClaudeIntro", "th": "ถ้าแข่งตกปลา เจ้าไม่มีทางสู้ข้าได้หรอก งั้นส่งโปเกมอนมาเลย!$"}
+{"id": "data/text/trainers.inc#Route114_Text_ClaudeDefeat", "th": "ถ้าแข่งตกปลา ข้าชนะไปแล้ว…$"}
+{"id": "data/text/trainers.inc#Route114_Text_ClaudePostBattle", "th": "ข้าว่าจะไปลองเสี่ยงดวงตกตัวใหญ่ที่น้ำตกดาวตก\\pต้องมีอะไรอยู่ในนั้นแน่ ข้ารู้$"}
+{"id": "data/text/trainers.inc#Route114_Text_NolanIntro", "th": "ข้าชอบตกปลา แต่ก็ชอบต่อสู้ด้วย!\\pถ้ามีใครมาท้า ข้าพร้อมเสมอ ถึงจะตกปลาอยู่ก็เถอะ$"}
+{"id": "data/text/trainers.inc#Route114_Text_NolanDefeat", "th": "ข้าชอบต่อสู้ แต่ไม่ได้แปลว่าข้าเก่งนะ…$"}
+{"id": "data/text/trainers.inc#Route114_Text_NolanPostBattle", "th": "คราวนี้แหละจะทำให้ได้!\\pข้าคิดแบบนี้ตลอด เลยเลิกตกปลากับโปเกมอนไม่ได้สักที$"}
+{"id": "data/text/trainers.inc#Route114_Text_TyraIntro", "th": "ไทรา: ก็ได้ ตอนนี้กำลังอารมณ์ดีพอดี เดี๋ยวสอนเรื่องโปเกมอนให้นิดหน่อยนะ$"}
+{"id": "data/text/trainers.inc#Route114_Text_TyraDefeat", "th": "ไทรา: สไตล์การต่อสู้สุดยอดไปเลย!$"}
+{"id": "data/text/trainers.inc#Route114_Text_TyraPostBattle", "th": "ไทรา: ฉันกำลังสอนเรื่องโปเกมอนให้ไอวี รุ่นน้องของฉันอยู่$"}
+{"id": "data/text/trainers.inc#Route114_Text_TyraNotEnoughMons", "th": "ไทรา: คิกคิก… ถ้าอยากสู้กับเรา โปเกมอนตัวเดียวไม่พอหรอกนะ!$"}
+{"id": "data/text/trainers.inc#Route114_Text_IvyIntro", "th": "ไอวี: ใครสอนเรื่องโปเกมอนให้เธอเหรอ?$"}
+{"id": "data/text/trainers.inc#Route114_Text_IvyDefeat", "th": "ไอวี: สไตล์การต่อสู้สุดยอดไปเลย!$"}
+{"id": "data/text/trainers.inc#Route114_Text_IvyPostBattle", "th": "ไอวี: ฉันเริ่มฝึกโปเกมอนเพราะรุ่นพี่ไทราสอนให้ไงล่ะ!$"}
+{"id": "data/text/trainers.inc#Route114_Text_IvyNotEnoughMons", "th": "ไอวี: มีโปเกมอนแค่ตัวเดียวเหรอ? มันคงเหงาแย่เลย$"}
+{"id": "data/text/trainers.inc#Route114_Text_KaiIntro", "th": "ข้าได้ตัวใหญ่! ใหญ่มากเลยบอกให้!$"}
+{"id": "data/text/trainers.inc#Route114_Text_KaiDefeat", "th": "เกิดอะไรขึ้นเนี่ย? ของข้าแพ้เรื่องขนาดงั้นรึ?$"}
+{"id": "data/text/trainers.inc#Route114_Text_KaiPostBattle", "th": "ได้! งั้นข้าจะตกตัวที่ใหญ่กว่านี้ให้ดู!$"}
+{"id": "data/text/trainers.inc#Route114_Text_CharlotteIntro", "th": "ฉันเนี่ยนะ! ไม่ได้มีดีแค่หน้าตาหรอก!$"}
+{"id": "data/text/trainers.inc#Route114_Text_CharlotteDefeat", "th": "แบบนี้ไม่น่ารักเลยสักนิด!$"}
+{"id": "data/text/trainers.inc#Route114_Text_CharlottePostBattle", "th": "ฉันไม่อยากได้โปเกมอนที่แค่น่ารักอย่างเดียว\\pฉันชอบตัวน่ารักที่มีนิสัยแปลก ๆ สักอย่างสองอย่างต่างหาก!$"}
+{"id": "data/text/trainers.inc#Route114_Text_AngelinaIntro", "th": "เธอให้โปเกมอนวิวัฒนาการไปเยอะแล้วหรือยัง?$"}
+{"id": "data/text/trainers.inc#Route114_Text_AngelinaDefeat", "th": "อ๋อ เข้าใจแล้ว ดีจังที่ได้รู้$"}
+{"id": "data/text/trainers.inc#Route114_Text_AngelinaPostBattle", "th": "โปเกมอนบางตัวพอวิวัฒนาการแล้วเปลี่ยนไปเยอะจนตกใจเลย!$"}
+{"id": "data/text/trainers.inc#Route115_Text_TimothyIntro", "th": "อืม… ดูเหมือนเจ้าจะมีฝีมือไม่เบา… ให้ข้าเป็นคู่ซ้อมเจ้าหน่อย!$"}
+{"id": "data/text/trainers.inc#Route115_Text_TimothyDefeat", "th": "เจ้าแข็งแกร่งกว่าที่ข้าคิดไว้มาก!$"}
+{"id": "data/text/trainers.inc#Route115_Text_TimothyPostBattle", "th": "ในโลกนี้ไม่มีอัจฉริยะโดยกำเนิด ทุกอย่างขึ้นอยู่กับความพยายาม! ข้าเชื่ออย่างนั้น…$"}
+{"id": "data/text/trainers.inc#Route115_Text_TimothyRegister", "th": "อืม… แพ้ราบคาบขนาดนี้ ไม่ได้เจอมานานแสนนานแล้ว\\pถ้าเจ้าอนุญาต ข้าอยากขอโอกาสสู้อีกสักครั้ง$"}
+{"id": "data/text/trainers.inc#Route115_Text_TimothyRematchIntro", "th": "อืม… ความคล่องแคล่วของเจ้ายังโดดเด่นเหมือนเคย มาเถอะ มาเป็นคู่ซ้อมข้าอีกที!$"}
+{"id": "data/text/trainers.inc#Route115_Text_TimothyRematchDefeat", "th": "แข็งแกร่งเหมือนเดิม!$"}
+{"id": "data/text/trainers.inc#Route115_Text_TimothyPostRematch", "th": "ขอแค่ความพยายาม!\\pข้าแพ้เพราะยังพยายามไม่มากพอ!$"}
+{"id": "data/text/trainers.inc#Route115_Text_KoichiIntro", "th": "เจ้า!\\pวันริกีของข้า!\\pขอท้าสู้!$"}
+{"id": "data/text/trainers.inc#Route115_Text_KoichiDefeat", "th": "โอ๊ย โอ๊ย โอ๊ย!$"}
+{"id": "data/text/trainers.inc#Route115_Text_KoichiPostBattle", "th": "ทีมวันริกีของข้า!\\pตราบใดที่พวกมันยังแสวงหาพลัง ข้าก็จะแข็งแกร่งไปพร้อมกับพวกมัน!$"}
+{"id": "data/text/trainers.inc#Route115_Text_NobIntro", "th": "วิชาเด็ดที่สุดของข้าคือเอาหน้าผากทุบอิฐ!$"}
+{"id": "data/text/trainers.inc#Route115_Text_NobDefeat", "th": "อั๊กกกก! หัวข้าแตกแล้ว!$"}
+{"id": "data/text/trainers.inc#Route115_Text_NobPostBattle", "th": "ข้าสอนคาราเต้ให้โปเกมอนอยู่\\pดูท่าพวกมันจะเก่งกว่าข้าอีก ข้าตื่นเต้นมากเลย$"}
+{"id": "data/text/trainers.inc#Route115_Text_NobRegister", "th": "เจ้าทำให้ข้าประทับใจ! รอข้าฝึกใหม่แล้วมาสู้กันอีก!$"}
+{"id": "data/text/trainers.inc#Route115_Text_NobRematchIntro", "th": "หลังแพ้เจ้า พวกเราฝึกหนักเพื่อพัฒนาฝีมือ มาเลย สู้กันใหม่!$"}
+{"id": "data/text/trainers.inc#Route115_Text_NobRematchDefeat", "th": "อั๊กกก! แพ้อีกแล้ว!$"}
+{"id": "data/text/trainers.inc#Route115_Text_NobPostRematch", "th": "โปเกมอนของข้าจะแข็งแกร่งขึ้น! ข้าจะฝึกหนักเป็นสองเท่า!$"}
+{"id": "data/text/trainers.inc#Route115_Text_CyndyIntro", "th": "ชายหาดนี้คือที่ฝึกลับของฉัน! อย่าเสนอหน้าเข้ามานะ!$"}
+{"id": "data/text/trainers.inc#Route115_Text_CyndyDefeat", "th": "ฉันยังฝึกไม่พอ!$"}
+{"id": "data/text/trainers.inc#Route115_Text_CyndyPostBattle", "th": "ทรายช่วยรองรับแรงกระแทก ลดการบาดเจ็บ ที่นี่เหมาะกับการฝึกที่สุด$"}
+{"id": "data/text/trainers.inc#Route115_Text_CyndyRegister", "th": "ก็ได้ อยากมาก็มาได้ แต่แลกกับการที่ฉันขอสู้กับเธออีกครั้งนะ$"}
+{"id": "data/text/trainers.inc#Route115_Text_CyndyRematchIntro", "th": "เอาละ มาเริ่มสู้กันเลย!$"}
+{"id": "data/text/trainers.inc#Route115_Text_CyndyRematchDefeat", "th": "ฉันสู้ไหว แต่โปเกมอนของฉัน…$"}
+{"id": "data/text/trainers.inc#Route115_Text_CyndyPostRematch", "th": "ถึงจะแพ้ ฉันก็ยังสนุกอยู่ดี คงเพราะฉันรักโปเกมอนนั่นแหละ$"}
+{"id": "data/text/trainers.inc#Route115_Text_HectorIntro", "th": "ผมมีโปเกมอนหายากนะ! อยากให้ผมอวดให้ดูไหม?$"}
+{"id": "data/text/trainers.inc#Route115_Text_HectorDefeat", "th": "เธอ… เธออยากได้โปเกมอนของผมใช่ไหมล่ะ?$"}
+{"id": "data/text/trainers.inc#Route115_Text_HectorPostBattle", "th": "ผมมีโปเกมอนหายากตัวนี้แล้ว แค่นี้ก็พอใจแล้ว$"}
+{"id": "data/text/trainers.inc#Route115_Text_KyraIntro", "th": "ฉันจะวิ่งไปสู้ไป! ตามให้ทันล่ะ!$"}
+{"id": "data/text/trainers.inc#Route115_Text_KyraDefeat", "th": "แฮ่ก แฮ่ก…$"}
+{"id": "data/text/trainers.inc#Route115_Text_KyraPostBattle", "th": "พลาดแล้วที่คิดจะสู้ไปวิ่งไป!\\pไปวิ่งให้ใจเย็นลงหน่อยดีกว่า…$"}
+{"id": "data/text/trainers.inc#Route115_Text_JaidenIntro", "th": "รับไปซะ! ท่าโจมตีนินจาโปเกมอนขั้นอัลตร้า!$"}
+{"id": "data/text/trainers.inc#Route115_Text_JaidenDefeat", "th": "แง! แผนเราล้มเหลว!$"}
+{"id": "data/text/trainers.inc#Route115_Text_JaidenPostBattle", "th": "แต่โปเกมอนของผมอัลตร้ามากเลยใช่ไหมล่ะ?$"}
+{"id": "data/text/trainers.inc#Route115_Text_HeleneIntro", "th": "โปเกมอนของฉันแข็งแกร่งระดับสายดำเลยนะ!$"}
+{"id": "data/text/trainers.inc#Route115_Text_HeleneDefeat", "th": "น่าอายสุด ๆ!$"}
+{"id": "data/text/trainers.inc#Route115_Text_HelenePostBattle", "th": "ฉันไม่ค่อยเจอใครเก่งกว่าตัวเองเลย…\\pเข้าใจแล้ว! เธอเป็นหัวหน้ายิมใช่ไหมล่ะ?$"}
+{"id": "data/text/trainers.inc#Route115_Text_AlixIntro", "th": "สายตาเราสบกันแล้ว! หนีไม่พ้นแล้วล่ะ!$"}
+{"id": "data/text/trainers.inc#Route115_Text_AlixDefeat", "th": "อ๊ะ! ไม่เลวนี่!$"}
+{"id": "data/text/trainers.inc#Route115_Text_AlixPostBattle", "th": "เอาเถอะ งั้นใช้ TELEPORT กลับบ้านดีกว่า$"}
+{"id": "data/text/trainers.inc#Route115_Text_MarleneIntro", "th": "เธอรบกวนการทำสมาธิของฉัน… เธอต้องถูกลงโทษ$"}
+{"id": "data/text/trainers.inc#Route115_Text_MarleneDefeat", "th": "เธอทำลายสมาธิของฉันหมดแล้ว!$"}
+{"id": "data/text/trainers.inc#Route115_Text_MarlenePostBattle", "th": "ฉันกำลังทำสมาธิกับโปเกมอน แต่ที่นี่ไม่ค่อยสงบเลย…$"}
+{"id": "data/text/trainers.inc#Route116_Text_ClarkIntro", "th": "ถ้าอุโมงค์ยังไม่ทะลุ ข้าก็จะปีนข้ามยอดไปเอง$"}
+{"id": "data/text/trainers.inc#Route116_Text_ClarkDefeat", "th": "แฮ่ก… แฮ่ก… แพ้แล้วเหนื่อยเลย…$"}
+{"id": "data/text/trainers.inc#Route116_Text_ClarkPostBattle", "th": "ไม่มีอุโมงค์ก็ไม่เห็นเป็นไร สำหรับนักปีนเขา ภูเขาก็คือถนน!$"}
+{"id": "data/text/trainers.inc#Route116_Text_JoeyIntro", "th": "โปเกมอนของผมสุดยอด! ดูสิ!$"}
+{"id": "data/text/trainers.inc#Route116_Text_JoeyDefeat", "th": "โอ๊ย! ถลอก! ต้องแปะพลาสเตอร์แล้ว!$"}
+{"id": "data/text/trainers.inc#Route116_Text_JoeyPostBattle", "th": "พลาสเตอร์คือสัญลักษณ์ของความแกร่ง! ได้มาอีกแผ่นแล้ว!$"}
+{"id": "data/text/trainers.inc#Route116_Text_JoseIntro", "th": "โปเกมอนประเภท BUG ของผมแกร่งนะ! มาสู้กัน!$"}
+{"id": "data/text/trainers.inc#Route116_Text_JoseDefeat", "th": "แพ้แล้ว! นึกว่าจะชนะซะอีก!$"}
+{"id": "data/text/trainers.inc#Route116_Text_JosePostBattle", "th": "โปเกมอนประเภท BUG วิวัฒนาการเร็ว เลยแข็งแกร่งเร็วด้วย$"}
+{"id": "data/text/trainers.inc#Route116_Text_JaniceIntro", "th": "ให้ฉันแสดงให้ดูว่าโปเกมอนน่ารักของฉันแข็งแกร่งแค่ไหน!$"}
+{"id": "data/text/trainers.inc#Route116_Text_JaniceDefeat", "th": "เธอเหนือกว่าฉันไปขั้นนึง…$"}
+{"id": "data/text/trainers.inc#Route116_Text_JanicePostBattle", "th": "โปเกมอนที่ทั้งน่ารักและทรงพลัง นั่นแหละที่ฉันว่าดีที่สุด$"}
+{"id": "data/text/trainers.inc#Route116_Text_JerryIntro", "th": "เราเรียนหลายอย่างที่โรงเรียนเทรนเนอร์\\pผมอยากลองของจริงดูบ้าง!$"}
+{"id": "data/text/trainers.inc#Route116_Text_JerryDefeat", "th": "ผมอู้เรียน… เลยแพ้$"}
+{"id": "data/text/trainers.inc#Route116_Text_JerryPostBattle", "th": "ต้องไปเรียนซ่อมบางวิชาที่โรงเรียนเทรนเนอร์แล้ว ไม่งั้นครูสึสึจิโกรธแน่$"}
+{"id": "data/text/trainers.inc#Route116_Text_JerryRegister1", "th": "ผมเรียนที่โรงเรียนเทรนเนอร์มาว่าโปเกนาวีลงทะเบียนเทรนเนอร์ได้\\pผมไม่ค่อยเข้าใจว่ามันหมายความว่ายังไง ขอลองดูเลยได้ไหม?$"}
+{"id": "data/text/trainers.inc#Route116_Text_JerryRegister2", "th": "ผมเรียนที่โรงเรียนเทรนเนอร์มาว่าโปเกนาวีลงทะเบียนเทรนเนอร์ได้\\pผมไม่ค่อยเข้าใจว่ามันหมายความว่ายังไง ขอลองดูเลยได้ไหม?$"}
+{"id": "data/text/trainers.inc#Route116_Text_JerryRematchIntro", "th": "ผมตั้งใจเรียนที่โรงเรียนเทรนเนอร์อย่างจริงจัง จะไม่แพ้เหมือนคราวก่อนแล้ว$"}
+{"id": "data/text/trainers.inc#Route116_Text_JerryRematchDefeat", "th": "หา? ผมตั้งใจเรียนแล้วนะ$"}
+{"id": "data/text/trainers.inc#Route116_Text_JerryPostRematch", "th": "ต้องไปเรียนซ่อมบางวิชาที่โรงเรียนเทรนเนอร์แล้ว ไม่งั้นครูสึสึจิโกรธแน่$"}
+{"id": "data/text/trainers.inc#Route116_Text_KarenIntro", "th": "หนูเรียนที่โรงเรียน แล้วก็เรียนระหว่างทางกลับบ้านด้วย!$"}
+{"id": "data/text/trainers.inc#Route116_Text_KarenDefeat", "th": "ช็อกเลย… หนูแพ้เหรอ?$"}
+{"id": "data/text/trainers.inc#Route116_Text_KarenPostBattle", "th": "แง แบบนี้หนูคงไม่มีวันเป็นเทรนเนอร์สง่างามแบบครูสึสึจิแน่!$"}
+{"id": "data/text/trainers.inc#Route116_Text_KarenRegister1", "th": "ว้าว! นั่นโปเกนาวีใช่ไหม? หนูก็มีนะ! ลงทะเบียนหนูด้วย!$"}
+{"id": "data/text/trainers.inc#Route116_Text_KarenRegister2", "th": "ว้าว! นั่นโปเกนาวีใช่ไหม? หนูก็มีนะ! ลงทะเบียนหนูด้วย!$"}
+{"id": "data/text/trainers.inc#Route116_Text_KarenRematchIntro", "th": "หลังเจอเธอ หนูเรียนมาเยอะมาก ต้องดูผลงานของหนูให้ได้!$"}
+{"id": "data/text/trainers.inc#Route116_Text_KarenRematchDefeat", "th": "ช็อกเลย หนูแพ้อีกแล้วเหรอ?$"}
+{"id": "data/text/trainers.inc#Route116_Text_KarenPostRematch", "th": "เธอชนะครูสึสึจิแล้วเหรอ? งั้นหนูก็สู้เธอไม่ได้หรอก ยังไม่ใช่ตอนนี้$"}
+{"id": "data/text/trainers.inc#Route116_Text_SarahIntro", "th": "บอกไว้ก่อนนะคะ ดิฉันไม่เคยแพ้ใครในเรื่องใดเลยสักครั้ง$"}
+{"id": "data/text/trainers.inc#Route116_Text_SarahDefeat", "th": "ตายจริง นี่เป็นประสบการณ์ใหม่สำหรับดิฉันเลยค่ะ$"}
+{"id": "data/text/trainers.inc#Route116_Text_SarahPostBattle", "th": "ชีวิตหรูหราของดิฉันมอบทุกสิ่งที่ปรารถนาได้\\pแต่พอเป็นเรื่องโปเกมอน ความร่ำรวยก็ไร้ความหมายค่ะ$"}
+{"id": "data/text/trainers.inc#Route116_Text_DawsonIntro", "th": "เมื่อคุณได้เห็นขนงดงามของโปเกมอนผม ความงามของมันจะทำให้คุณหมดทางสู้!$"}
+{"id": "data/text/trainers.inc#Route116_Text_DawsonDefeat", "th": "โอ้ ไม่จริงใช่ไหม!$"}
+{"id": "data/text/trainers.inc#Route116_Text_DawsonPostBattle", "th": "ไม่นะ ไม่ ไม่! คุณทำขนโปเกมอนผมยุ่งหมดแล้ว! ทรงผมผมก็พังด้วย! ต้องโทรเรียกช่างทำผมแล้ว!$"}
+{"id": "data/text/trainers.inc#Route116_Text_DevanIntro", "th": "พวกเราจะถล่มเจ้าให้หินกระจายเลย!$"}
+{"id": "data/text/trainers.inc#Route116_Text_DevanDefeat", "th": "โอ๊ยยย! ไม่ได้ลุ้นเลยสักนิด!$"}
+{"id": "data/text/trainers.inc#Route116_Text_DevanPostBattle", "th": "ข้าน่าจะลองใช้โปเกมอนประเภทอื่นบ้าง ต้องทำแบบนั้นแหละ$"}
+{"id": "data/text/trainers.inc#Route116_Text_JohnsonIntro", "th": "ตรงนี้เป็นทางตัน ผมเบื่อ มาสู้กันหน่อยได้ไหม?$"}
+{"id": "data/text/trainers.inc#Route116_Text_JohnsonDefeat", "th": "ถึงจะแพ้แต่ก็สนุกดี$"}
+{"id": "data/text/trainers.inc#Route116_Text_JohnsonPostBattle", "th": "อยู่เป็นเพื่อนผมตรงนี้หน่อยไหม?$"}
+{"id": "data/text/trainers.inc#Route117_Text_IsaacIntro", "th": "นี่ ช่วยสู้กับโปเกมอนที่ผมเลี้ยงอยู่หน่อยได้ไหม?$"}
+{"id": "data/text/trainers.inc#Route117_Text_IsaacDefeat", "th": "คุณเลี้ยงโปเกมอนมาได้ยอดเยี่ยมมาก…$"}
+{"id": "data/text/trainers.inc#Route117_Text_IsaacPostBattle", "th": "โปเกมอนไม่ได้มีแค่เรื่องพลัง\\pการขัดเกลาเสน่ห์เฉพาะตัวของมัน ก็เป็นอีกวิธีที่จะสนุกกับโปเกมอน$"}
+{"id": "data/text/trainers.inc#Route117_Text_IsaacRegister", "th": "ผมจะฝึกให้หนักขึ้นเป็นสองเท่า มาดูพวกเราอีกได้ไหม?$"}
+{"id": "data/text/trainers.inc#Route117_Text_IsaacRematchIntro", "th": "โปเกมอนที่ผมเลี้ยงอยู่ยังดูดีเหมือนเดิมเลย$"}
+{"id": "data/text/trainers.inc#Route117_Text_IsaacRematchDefeat", "th": "คุณรู้วิธีเลี้ยงที่ถูกต้อง อาจมีฝีมือระดับศูนย์รับเลี้ยงเลยนะ…$"}
+{"id": "data/text/trainers.inc#Route117_Text_IsaacPostRematch", "th": "โปเกมอนของคุณเติบโตได้ดีมาก! ควรส่งเข้าคอนเทสต์นะ$"}
+{"id": "data/text/trainers.inc#Route117_Text_LydiaIntro", "th": "ขออนุญาตประเมินหน่อยนะคะว่าคุณเลี้ยงโปเกมอนมาอย่างถูกต้องหรือเปล่า$"}
+{"id": "data/text/trainers.inc#Route117_Text_LydiaDefeat", "th": "ค่ะ พวกมันเติบโตได้อย่างถูกต้อง$"}
+{"id": "data/text/trainers.inc#Route117_Text_LydiaPostBattle", "th": "ลองเลี้ยงโปเกมอนโดยใส่ใจลักษณะนิสัยของมันให้มากขึ้นนะคะ$"}
+{"id": "data/text/trainers.inc#Route117_Text_LydiaRegister", "th": "ดีใจที่ได้พบเทรนเนอร์ยอดเยี่ยมอย่างคุณ หวังว่าจะได้พบกันอีกนะคะ$"}
+{"id": "data/text/trainers.inc#Route117_Text_LydiaRematchIntro", "th": "ขออนุญาตประเมินอีกครั้งนะคะว่าคุณเลี้ยงโปเกมอนมาอย่างถูกต้องหรือเปล่า$"}
+{"id": "data/text/trainers.inc#Route117_Text_LydiaRematchDefeat", "th": "พวกมันเติบโตได้น่าชื่นชมมากค่ะ$"}
+{"id": "data/text/trainers.inc#Route117_Text_LydiaPostRematch", "th": "โปเกมอนดูเหมือนจะชอบ{POKEBLOCK}ต่างชนิดกัน ขึ้นอยู่กับลักษณะนิสัยของมันค่ะ$"}
+{"id": "data/text/trainers.inc#Route117_Text_DylanIntro", "th": "ผมกำลังแข่งไตรกีฬาอยู่ แต่ช่างเถอะ มาสู้กัน!$"}
+{"id": "data/text/trainers.inc#Route117_Text_DylanDefeat", "th": "หมดแรงแล้ว!$"}
+{"id": "data/text/trainers.inc#Route117_Text_DylanPostBattle", "th": "ผมอาจพลาดไปแล้ว…\\pระหว่างสู้เมื่อกี้ อาจตกไปอยู่อันดับสุดท้ายแล้วก็ได้…$"}
+{"id": "data/text/trainers.inc#Route117_Text_DylanRegister", "th": "โปเกมอนก็ต้องแข็งแกร่งด้วยเหรอ? ผมอยากให้คุณช่วยฝึกผมหน่อย!$"}
+{"id": "data/text/trainers.inc#Route117_Text_DylanRematchIntro", "th": "ผมอยู่กลางการแข่งไตรกีฬาเลย แต่นำอยู่สบาย ๆ มาสู้กันแบบรวดเร็วเถอะ!$"}
+{"id": "data/text/trainers.inc#Route117_Text_DylanRematchDefeat", "th": "หมดแรงอีกแล้ว!$"}
+{"id": "data/text/trainers.inc#Route117_Text_DylanPostRematch", "th": "ผมเป็นที่หนึ่งทั้งว่ายน้ำและปั่นจักรยาน แต่เรื่องโปเกมอนยังไม่ค่อยมั่นใจเท่าไร$"}
+{"id": "data/text/trainers.inc#Route117_Text_MariaIntro", "th": "ฉันฝึกไตรกีฬากับโปเกมอน เลยค่อนข้างมั่นใจเรื่องความเร็วนะ$"}
+{"id": "data/text/trainers.inc#Route117_Text_MariaDefeat", "th": "สงสัยต้องฝึกซ้อมให้มากกว่านี้แล้ว$"}
+{"id": "data/text/trainers.inc#Route117_Text_MariaPostBattle", "th": "การฝึกจะมีความหมายก็ต่อเมื่อทำอย่างสม่ำเสมอ\\pโอเค! กลับไปฝึกต่อดีกว่า! พรุ่งนี้นะ!$"}
+{"id": "data/text/trainers.inc#Route117_Text_MariaRegister", "th": "ดูเหมือนเธอจะฝึกอย่างถูกวิธีนะ… ถ้าต้องการ เดี๋ยวค่อยมาสู้กันใหม่!$"}
+{"id": "data/text/trainers.inc#Route117_Text_MariaRematchIntro", "th": "ยังฝึกสม่ำเสมออยู่ไหม? ฉันฝึกอยู่นะ! ให้ดูหลักฐานเลย!$"}
+{"id": "data/text/trainers.inc#Route117_Text_MariaRematchDefeat", "th": "สงสัยต้องฝึกซ้อมให้มากกว่านี้แล้ว$"}
+{"id": "data/text/trainers.inc#Route117_Text_MariaPostRematch", "th": "พรุ่งนี้ฉันจะกลับไปฝึกต่อ ไว้มาสู้กันอีกนะ!$"}
+{"id": "data/text/trainers.inc#Route117_Text_DerekIntro", "th": "ครั้งหนึ่งเคยเป็นเด็กจับแมลง! ตอนนี้กลายเป็นคลั่งแมลง!\\pแต่ความรักที่มีต่อโปเกมอนยังไม่เปลี่ยน!$"}
+{"id": "data/text/trainers.inc#Route117_Text_DerekDefeat", "th": "ความไม่เอาไหนของผมก็ยังไม่เปลี่ยนเหมือนกัน…$"}
+{"id": "data/text/trainers.inc#Route117_Text_DerekPostBattle", "th": "ผมแค่ทำตามหัวใจ ตอนนี้คนเลยเรียกผมว่าคลั่งแมลง…\\pแต่ผมก็เป็นผู้เชี่ยวชาญโปเกมอนประเภท BUG เลยไม่แปลกที่จะถูกเรียกว่าคลั่งแมลง$"}
+{"id": "data/text/trainers.inc#Route117_Text_AnnaIntro", "th": "แอนนา: ฉันมากับรุ่นน้องแสนน่ารัก ต้องทำให้ดีที่สุด!$"}
+{"id": "data/text/trainers.inc#Route117_Text_AnnaDefeat", "th": "แอนนา: ฉันมากับรุ่นน้องแสนน่ารักนะ! ให้ฉันชนะเถอะ!$"}
+{"id": "data/text/trainers.inc#Route117_Text_AnnaPostBattle", "th": "แอนนา: โปเกมอนของเธอเข้าขากันดีนะ\\pต้องบอกว่าเธอเป็นรองแค่พวกเราเท่านั้น!$"}
+{"id": "data/text/trainers.inc#Route117_Text_AnnaAndMegRegister", "th": "แอนนา: เราไม่ยอมแพ้ง่าย ๆ หรอก! เธอจะกลับมาอีกใช่ไหม?$"}
+{"id": "data/text/trainers.inc#Route117_Text_AnnaNotEnoughMons", "th": "แอนนา: ถ้าอยากสู้กับเรา พาโปเกมอนมาสองตัวนะ$"}
+{"id": "data/text/trainers.inc#Route117_Text_MegIntro", "th": "เม็ก: หนูจะจับคู่กับรุ่นพี่สุดเจ๋งแล้วเอาชนะเธอ!$"}
+{"id": "data/text/trainers.inc#Route117_Text_MegDefeat", "th": "เม็ก: ไม่นะ! ขอโทษค่ะพี่แอนนา! หนูทำให้พี่ผิดหวัง…$"}
+{"id": "data/text/trainers.inc#Route117_Text_MegPostBattle", "th": "เม็ก: หนูถ่วงพี่แอนนา… ถ้าไม่ใช่เพราะหนู พี่เขาชนะไปแล้ว!$"}
+{"id": "data/text/trainers.inc#Route117_Text_MegNotEnoughMons", "th": "เม็ก: มีโปเกมอนแค่ตัวเดียวเหรอ? งั้นเราสู้ด้วยไม่ได้หรอก\\pเราอยากสู้แบบ 2 ต่อ 2$"}
+{"id": "data/text/trainers.inc#Route117_Text_AnnaRematchIntro", "th": "แอนนา: ฉันจะแพ้ต่อหน้ารุ่นน้องไปเรื่อย ๆ ไม่ได้ ใช่ไหมล่ะ?$"}
+{"id": "data/text/trainers.inc#Route117_Text_AnnaRematchDefeat", "th": "แอนนา: เข้าจังหวะไม่ได้เลย$"}
+{"id": "data/text/trainers.inc#Route117_Text_AnnaPostRematch", "th": "แอนนา: โปเกมอนของเธอเข้าขากันดีนะ\\pต้องบอกว่าเธอเป็นรองแค่พวกเราเท่านั้น!$"}
+{"id": "data/text/trainers.inc#Route117_Text_AnnaRematchNotEnoughMons", "th": "แอนนา: ถ้าอยากสู้กับเรา พาโปเกมอนมาสองตัวนะ$"}
+{"id": "data/text/trainers.inc#Route117_Text_MegRematchIntro", "th": "เม็ก: หนูจะจับคู่กับรุ่นพี่ แล้วชนะให้ได้คราวนี้!$"}
+{"id": "data/text/trainers.inc#Route117_Text_MegRematchDefeat", "th": "เม็ก: เก่งเกินไปแล้ว!$"}
+{"id": "data/text/trainers.inc#Route117_Text_MegPostRematch", "th": "เม็ก: หนูสู้คู่กับรุ่นพี่แล้ว แต่เราก็แพ้…\\pท้อจังเลย…$"}
+{"id": "data/text/trainers.inc#Route117_Text_MegRematchNotEnoughMons", "th": "เม็ก: มีโปเกมอนแค่ตัวเดียวเหรอ? งั้นเราสู้ด้วยไม่ได้หรอก\\pเราอยากสู้แบบ 2 ต่อ 2$"}
+{"id": "data/text/trainers.inc#Route117_Text_MelinaIntro", "th": "ดีไหมล่ะ? ได้สู้ไปพลางชมดอกไม้สวย ๆ ไปพลาง?$"}
+{"id": "data/text/trainers.inc#Route117_Text_MelinaDefeat", "th": "โอ้ น่าประทับใจทีเดียว!$"}
+{"id": "data/text/trainers.inc#Route117_Text_MelinaPostBattle", "th": "วิ่งจ๊อกกิ้งไปชมดอกไม้ไป รู้สึกดีสุด ๆ เลย$"}
+{"id": "data/text/trainers.inc#Route117_Text_BrandiIntro", "th": "ฉันจะแสดงให้ดูถึงพลังที่ซ่อนอยู่ในโปเกมอนประเภท PSYCHIC!$"}
+{"id": "data/text/trainers.inc#Route117_Text_BrandiDefeat", "th": "น่าทึ่ง!$"}
+{"id": "data/text/trainers.inc#Route117_Text_BrandiPostBattle", "th": "โปเกมอนประเภท PSYCHIC ซับซ้อนนะ เธอน่าลองจับมาบ้าง$"}
+{"id": "data/text/trainers.inc#Route117_Text_AishaIntro", "th": "ตั้งสมาธิไปที่ชัยชนะ นั่นแหละวิธีสู้ของฉัน!$"}
+{"id": "data/text/trainers.inc#Route117_Text_AishaDefeat", "th": "ฉันไม่เสียเวลามานั่งโกรธเพราะแพ้หรอก ไปฝึกดีกว่า$"}
+{"id": "data/text/trainers.inc#Route117_Text_AishaPostBattle", "th": "ฉันว่าถ้ามัวแต่กังวลว่าจะแพ้ ก็ยิ่งมีโอกาสแพ้มากขึ้น$"}
+{"id": "data/text/trainers.inc#Route118_Text_RoseIntro", "th": "กลิ่นหอมของดอกไม้มีพลังวิเศษ ช่วยชำระล้างทั้งกายและใจค่ะ$"}
+{"id": "data/text/trainers.inc#Route118_Text_RoseDefeat", "th": "ตายจริง ดูเหมือนดิฉันจะแพ้แล้วค่ะ$"}
+{"id": "data/text/trainers.inc#Route118_Text_RosePostBattle", "th": "ดอกไม้ โปเกมอน… อะไรที่กลิ่นหอม ดิฉันชอบหมดค่ะ\\pของเหม็น ๆ… ขอผ่านนะคะ$"}
+{"id": "data/text/trainers.inc#Route118_Text_RoseRegister", "th": "ฟุดฟิด… กลิ่นนี้… โปเกนาวีนี่นา! เราต้องลงทะเบียนกันแล้วค่ะ!$"}
+{"id": "data/text/trainers.inc#Route118_Text_RoseRematchIntro", "th": "คุณถูกกลิ่นหอมหวานดึงดูดมาที่นี่หรือเปล่าคะ?$"}
+{"id": "data/text/trainers.inc#Route118_Text_RoseRematchDefeat", "th": "พลังของกลิ่นหอม… ดูจะไม่ค่อยได้ผลเลยนะคะ$"}
+{"id": "data/text/trainers.inc#Route118_Text_RosePostRematch", "th": "ถ้าใช้กลิ่นหอมหวานอย่างถูกวิธี โปเกมอนจะถูกดึงดูดเข้ามาค่ะ$"}
+{"id": "data/text/trainers.inc#Route118_Text_PerryIntro", "th": "โปเกมอนนกที่ใช้ FLY ทะยานบนฟ้าอย่างสง่างาม… สุดยอดที่สุด!$"}
+{"id": "data/text/trainers.inc#Route118_Text_PerryDefeat", "th": "อึ้ก… ตกลงมาซะแล้ว…$"}
+{"id": "data/text/trainers.inc#Route118_Text_PerryPostBattle", "th": "โปเกมอนของเธอยอดเยี่ยมมาก ผมต้องฝึกของผมให้ดีกว่านี้$"}
+{"id": "data/text/trainers.inc#Route118_Text_ChesterIntro", "th": "ทะยานขึ้นไป! โปเกมอนนกของผม!$"}
+{"id": "data/text/trainers.inc#Route118_Text_ChesterDefeat", "th": "บินหนีไปจริง ๆ ด้วย…$"}
+{"id": "data/text/trainers.inc#Route118_Text_ChesterPostBattle", "th": "ถ้าพวกมันแข็งแกร่งขึ้น คงบินได้อิสระกว่านี้…$"}
+{"id": "data/text/trainers.inc#Route118_Text_BarnyIntro", "th": "ข้าเป็นนักตกปลา แต่ก็เป็นเทรนเนอร์ด้วย ข้าเลี้ยงโปเกมอนที่ตกได้มา$"}
+{"id": "data/text/trainers.inc#Route118_Text_BarnyDefeat", "th": "นึกว่าฝึกมาได้ดีแล้วนะ…$"}
+{"id": "data/text/trainers.inc#Route118_Text_BarnyPostBattle", "th": "ฝึกโปเกมอนไปตกปลาไป เลยชนะไม่ได้…\\pข้าทำอะไรครึ่ง ๆ กลาง ๆ หรือเปล่านะ?$"}
+{"id": "data/text/trainers.inc#Route118_Text_WadeIntro", "th": "สำหรับนักตกปลา อุปกรณ์คือหัวใจสำคัญ\\pแต่สำหรับเทรนเนอร์ ส่วนผสมสำคัญคือโปเกมอนกับหัวใจ แน่นอนอยู่แล้ว!$"}
+{"id": "data/text/trainers.inc#Route118_Text_WadeDefeat", "th": "ข้าแพ้เรื่องหัวใจงั้นรึ?$"}
+{"id": "data/text/trainers.inc#Route118_Text_WadePostBattle", "th": "มาคิดดูแล้ว การตกปลาก็คือการต่อสู้ระหว่างนักตกปลากับโปเกมอนนี่นา$"}
+{"id": "data/text/trainers.inc#Route118_Text_DaltonIntro", "th": "ให้ท่วงทำนองของผมเขย่าจิตวิญญาณเธอ!$"}
+{"id": "data/text/trainers.inc#Route118_Text_DaltonDefeat", "th": "ลา-ลาลาลา…$"}
+{"id": "data/text/trainers.inc#Route118_Text_DaltonPostBattle", "th": "กีตาร์ไฟฟ้าไม่จำเป็นต้องเสียงดังเสมอไป…\\pมันดีดให้บีบคั้นท่วงทำนองที่เร้าใจแบบนี้ออกมาได้…$"}
+{"id": "data/text/trainers.inc#Route118_Text_DaltonRegister", "th": "ตอนผมแต่งเพลงได้ดีกว่านี้ เธอต้องมาฟังนะ ตกลงไหม?$"}
+{"id": "data/text/trainers.inc#Route118_Text_DaltonRematchIntro", "th": "ท่วงทำนองจากโปเกมอนกับผม… ขอส่งตรงถึงจิตวิญญาณของเธอ$"}
+{"id": "data/text/trainers.inc#Route118_Text_DaltonRematchDefeat", "th": "ลา-ลาลาลา…$"}
+{"id": "data/text/trainers.inc#Route118_Text_DaltonPostRematch", "th": "เวลาผมเล่น อารมณ์ของผมควรส่งผ่านกีตาร์ไฟฟ้าไปถึงเธอนะ…$"}
+{"id": "data/text/trainers.inc#Route118_Text_DeandreIntro", "th": "ลุย ลุย ลุย! โปเกมอนหมายเลข 1 2 และ 3!$"}
+{"id": "data/text/trainers.inc#Route118_Text_DeandreDefeat", "th": "โปเกมอน ได้ยินไหม! ไม่เป็นไรใช่ไหม? โปเกมอนหมายเลข 1 2 และ 3?!$"}
+{"id": "data/text/trainers.inc#Route118_Text_DeandrePostBattle", "th": "เจ๋งไหมล่ะที่ผมมีทีมต่อสู้โปเกมอน?\\pเลียนแบบผมได้นะ ไม่ว่ากันหรอก!$"}
+{"id": "data/text/trainers.inc#Route119_Text_BrentIntro", "th": "พวกเราคือชมรม MIMIC! เราจะ MIMIC ทุกอย่างที่เธอทำ!$"}
+{"id": "data/text/trainers.inc#Route119_Text_BrentDefeat", "th": "อุ๊ปส์! แพ้แล้ว!$"}
+{"id": "data/text/trainers.inc#Route119_Text_BrentPostBattle", "th": "การเลียนแบบมันดีตรงไหนน่ะเหรอ?\\pฟุฟุฟุ… เธอไม่มีวันเข้าใจหรอก…$"}
+{"id": "data/text/trainers.inc#Route119_Text_DonaldIntro", "th": "ในที่สุดเราก็ได้พบกัน! โปเกมอนประเภท BUG ของผมจะอยู่เป็นเพื่อนเธอเอง!$"}
+{"id": "data/text/trainers.inc#Route119_Text_DonaldDefeat", "th": "ไม่น่าได้พบกันเลย…$"}
+{"id": "data/text/trainers.inc#Route119_Text_DonaldPostBattle", "th": "ผมอยาก MIMIC เธออีก ช่วยรีบขยับหน่อยได้ไหม?$"}
+{"id": "data/text/trainers.inc#Route119_Text_TaylorIntro", "th": "ถ้าเธอก้าวไปข้างหน้า เราก็ก้าวไปข้างหน้า\\pถ้าเธอเลี้ยวขวา เราก็เลี้ยวด้วย…$"}
+{"id": "data/text/trainers.inc#Route119_Text_TaylorDefeat", "th": "แต่ถ้าเธอชนะ ผมก็แพ้…$"}
+{"id": "data/text/trainers.inc#Route119_Text_TaylorPostBattle", "th": "ผม MIMIC ตอนเธอชนะไม่ได้ มันเป็นไปไม่ได้เลย… แค้นใจชะมัด…$"}
+{"id": "data/text/trainers.inc#Route119_Text_DougIntro", "th": "ใช่แล้ว ในที่สุดก็จับผมได้! หรือว่าพยายามหลบผมอยู่?$"}
+{"id": "data/text/trainers.inc#Route119_Text_DougDefeat", "th": "ว้าว เป็นแมตช์ที่สุดยอดเลย!$"}
+{"id": "data/text/trainers.inc#Route119_Text_DougPostBattle", "th": "พวกเราคือชมรม MIMIC! หวังว่าจะชอบการแสดงของเรานะ$"}
+{"id": "data/text/trainers.inc#Route119_Text_GregIntro", "th": "เธอไม่รู้ใช่ไหมว่าผมเป็นใคร?\\pแต่ผมก็ไม่รู้จักเธอเหมือนกัน งั้นมาสู้กัน!$"}
+{"id": "data/text/trainers.inc#Route119_Text_GregDefeat", "th": "เธอเก่งเอาเรื่องเลย!$"}
+{"id": "data/text/trainers.inc#Route119_Text_GregPostBattle", "th": "จนกว่าเธอจะไปที่อื่น เราจะเลียนแบบทุกท่วงท่าของเธอต่อไป$"}
+{"id": "data/text/trainers.inc#Route119_Text_KentIntro", "th": "ชมรม MIMIC ก่อตั้งโดยคนที่ชอบ MIMIC\\pพอเจอกันปุ๊บ การต่อสู้ก็เริ่มปั๊บ!$"}
+{"id": "data/text/trainers.inc#Route119_Text_KentDefeat", "th": "ยอมแล้ว!$"}
+{"id": "data/text/trainers.inc#Route119_Text_KentPostBattle", "th": "มาเข้าชมรม MIMIC ของเราไหม?$"}
+{"id": "data/text/trainers.inc#Route119_Text_JacksonIntro", "th": "ใครกันที่มีทั้งความรู้และเทคนิคในการเอาตัวรอด?\\pก็โปเกมอนเรนเจอร์ไงล่ะ!$"}
+{"id": "data/text/trainers.inc#Route119_Text_JacksonDefeat", "th": "ความรู้เรื่องโปเกมอนของผมยังไม่พอ…$"}
+{"id": "data/text/trainers.inc#Route119_Text_JacksonPostBattle", "th": "หลีกหนีจากความเจริญ แล้วปลุกจิตวิญญาณแห่งป่าในตัวให้ตื่นขึ้น!\\pนั่นคืออุดมการณ์ของเรา$"}
+{"id": "data/text/trainers.inc#Route119_Text_JacksonRegister", "th": "หวังว่าคุณจะมาแข่งใหม่กับผม โดยไม่ล้อเรื่องที่ผมความรู้น้อยนะ$"}
+{"id": "data/text/trainers.inc#Route119_Text_JacksonRematchIntro", "th": "ผมจะเรียกจิตวิญญาณแห่งป่ากลับคืนมา ด้วยการอยู่ร่วมกับโปเกมอน$"}
+{"id": "data/text/trainers.inc#Route119_Text_JacksonRematchDefeat", "th": "คุณยังแข็งแกร่งเหมือนเดิมเลย!$"}
+{"id": "data/text/trainers.inc#Route119_Text_JacksonPostRematch", "th": "เชื่อในโปเกมอนของคุณ เชื่อในตัวเอง\\pแล้วหนทางจะเผยตัวให้คุณเห็นเอง$"}
+{"id": "data/text/trainers.inc#Route119_Text_CatherineIntro", "th": "อ้าว? ดูเธอสิ\\pออกผจญภัยทั้งที แต่พกของน้อยจังเลยนะ$"}
+{"id": "data/text/trainers.inc#Route119_Text_CatherineDefeat", "th": "อุบัติเหตุเกิดขึ้นได้ถ้าไม่เตรียมตัวให้พร้อม!$"}
+{"id": "data/text/trainers.inc#Route119_Text_CatherinePostBattle", "th": "เธอพกของน้อย แต่มีทุกอย่างที่จำเป็นครบ\\pแถมยังพร้อมทั้งกายและใจด้วย$"}
+{"id": "data/text/trainers.inc#Route119_Text_CatherineRegister", "th": "มีโปเกนาวีไหม? มันเป็นเครื่องมือที่เทรนเนอร์ทุกคนต้องมีเลยนะ\\pอ้าว มีนี่นา! งั้นมาลงทะเบียนกันเถอะ!$"}
+{"id": "data/text/trainers.inc#Route119_Text_CatherineRematchIntro", "th": "การเดินทางกับโปเกมอนเป็นยังไงบ้าง?$"}
+{"id": "data/text/trainers.inc#Route119_Text_CatherineRematchDefeat", "th": "ฉันยังขาดอะไรบางอย่างอยู่…$"}
+{"id": "data/text/trainers.inc#Route119_Text_CatherinePostRematch", "th": "เธอในฐานะเทรนเนอร์พึ่งพาโปเกมอนยังไง โปเกมอนของเธอก็พึ่งพาเธอแบบนั้นเหมือนกัน$"}
+{"id": "data/text/trainers.inc#Route119_Text_HughIntro", "th": "ท้องฟ้ากว้างใหญ่ซ่อนความหวังไว้มากมาย!\\pไม่มีอะไรเทียบได้กับความเบิกบานของการได้บิน!$"}
+{"id": "data/text/trainers.inc#Route119_Text_HughDefeat", "th": "ร่วงไม่เป็นท่า!$"}
+{"id": "data/text/trainers.inc#Route119_Text_HughPostBattle", "th": "โปเกมอนนกของผมทำให้ความฝันที่อยากบินเป็นจริง!$"}
+{"id": "data/text/trainers.inc#Route119_Text_PhilIntro", "th": "ผมจะแสดงศักยภาพที่แท้จริงของผมกับโปเกมอนนกให้ดู!$"}
+{"id": "data/text/trainers.inc#Route119_Text_PhilDefeat", "th": "เราขาดศักยภาพ…$"}
+{"id": "data/text/trainers.inc#Route119_Text_PhilPostBattle", "th": "ตั้งแต่ยังเด็ก ผมชื่นชมโปเกมอนนกมาตลอด…$"}
+{"id": "data/text/trainers.inc#Route119_Text_YasuIntro", "th": "ซุ่มในเงามืด ใช้ชีวิตในความมืด… นั่นคือโชคชะตาของข้า\\pข้าปรากฏตัวออกมาเพื่อท้าท่าน!$"}
+{"id": "data/text/trainers.inc#Route119_Text_YasuDefeat", "th": "ข้ายอมรับความพ่ายแพ้!$"}
+{"id": "data/text/trainers.inc#Route119_Text_YasuPostBattle", "th": "ผู้พ่ายแพ้ในการต่อสู้ ย่อมถอยกลับเข้าสู่เงามืดอย่างเงียบงัน นั่นก็เป็นโชคชะตาเช่นกัน…$"}
+{"id": "data/text/trainers.inc#Route119_Text_TakashiIntro", "th": "ถ้าไม่ระวังตัว เจ็บตัวแน่!$"}
+{"id": "data/text/trainers.inc#Route119_Text_TakashiDefeat", "th": "เธอเก่งเกินคาดแฮะ!$"}
+{"id": "data/text/trainers.inc#Route119_Text_TakashiPostBattle", "th": "การจู่โจมแบบไม่ให้ตั้งตัวของผมล้มเหลว…$"}
+{"id": "data/text/trainers.inc#Route119_Text_HideoIntro", "th": "จะซ่อนต้นไม้ ต้องซ่อนไว้ในป่า!$"}
+{"id": "data/text/trainers.inc#Route119_Text_HideoDefeat", "th": "ข้าขอคารวะในความเหนือชั้นของท่าน$"}
+{"id": "data/text/trainers.inc#Route119_Text_HideoPostBattle", "th": "จะซ่อนต้นไม้ ต้องซ่อนไว้ในป่า! จะซ่อนโปเกมอน ต้องซ่อนไว้ในโปเกมอน!\\pไม่ได้มีความหมายลึกซึ้งอะไรหรอก$"}
+{"id": "data/text/trainers.inc#Route119_Text_ChrisIntro", "th": "เจ้าทักข้า… แปลว่าอยากท้าข้าสินะ!\\pได้เลย! ข้าจะลองใช้โปเกมอนที่จับได้ตอนใช้ SURF ดู!$"}
+{"id": "data/text/trainers.inc#Route119_Text_ChrisDefeat", "th": "ข้าไม่รู้เลยว่าต้องทำยังไงถึงจะชนะ$"}
+{"id": "data/text/trainers.inc#Route119_Text_ChrisPostBattle", "th": "ใช้ SURF ขี่หลังโปเกมอน…\\pแล้วตกปลาจากบนหลังมัน…\\pเป็นช่วงเวลาที่หรูหราจนบรรยายไม่ถูกเลย!$"}
+{"id": "data/text/trainers.inc#Route119_Text_FabianIntro", "th": "ฟาดพาวเวอร์คอร์ดมาเลย! ชัยชนะอยู่ไม่ไกล! ถึงเวลาเราเฉิดฉาย โว้ เย่!$"}
+{"id": "data/text/trainers.inc#Route119_Text_FabianDefeat", "th": "เธอโชว์แล้วว่าใครคือเจ้าเวที! เราต้องยอมแพ้คราวนี้ โอ้ โนว!$"}
+{"id": "data/text/trainers.inc#Route119_Text_FabianPostBattle", "th": "ฟาดพาวเวอร์คอร์ดมาอีกที! อย่ามายุ่งตอนนี้! ชนะผมไปต้องชดใช้ให้ดี!$"}
+{"id": "data/text/trainers.inc#Route119_Text_DaytonIntro", "th": "โฮะโฮะโฮะ! ข้าชอบเทรนเนอร์เด็ก ๆ! มาสู้กันให้มันส์เลย!$"}
+{"id": "data/text/trainers.inc#Route119_Text_DaytonDefeat", "th": "เจ้านี่สุดยอดไปเลย! โฮะโฮะโฮะ!$"}
+{"id": "data/text/trainers.inc#Route119_Text_DaytonPostBattle", "th": "โฮะโฮะโฮะ! ข้าจะลองเลียนแบบความไฟแรงของเทรนเนอร์เด็ก ๆ อย่างเจ้าดูบ้าง!$"}
+{"id": "data/text/trainers.inc#Route119_Text_RachelIntro", "th": "ไม่ว่าจะอยู่ที่ไหน เมื่อไร ดิฉันก็ถือร่มกันแดดไว้ในมือเสมอค่ะ$"}
+{"id": "data/text/trainers.inc#Route119_Text_RachelDefeat", "th": "โอ้ แต่ว่า… แบบนี้ไม่ยุติธรรมเลยค่ะ$"}
+{"id": "data/text/trainers.inc#Route119_Text_RachelPostBattle", "th": "ถามว่าร่มของดิฉันหนักไหมเหรอคะ? กระเป๋าของคุณอัดข้าวของจุกจิกไว้มากกว่าที่ดิฉันเคยพกเสียอีกค่ะ$"}
+{"id": "data/text/trainers.inc#Route120_Text_ColinIntro", "th": "มีท่าที่โจมตีโปเกมอนที่บินอยู่ได้ไหม?$"}
+{"id": "data/text/trainers.inc#Route120_Text_ColinDefeat", "th": "เธอบินสูงเหนือผมไปแล้ว!$"}
+{"id": "data/text/trainers.inc#Route120_Text_ColinPostBattle", "th": "ท่า FLY สะดวกดีใช่ไหมล่ะ?\\pระหว่างที่โปเกมอนบินอยู่ แทบไม่มีท่าไหนโจมตีโดนเลย$"}
+{"id": "data/text/trainers.inc#Route120_Text_RobertIntro", "th": "โปเกมอนของผมแข็งแกร่งนะ! ของเธอล่ะ?$"}
+{"id": "data/text/trainers.inc#Route120_Text_RobertDefeat", "th": "โปเกมอนของเธอแข็งแกร่งกว่า…$"}
+{"id": "data/text/trainers.inc#Route120_Text_RobertPostBattle", "th": "โปเกมอนที่เติบโตอย่างมั่นคง คือโปเกมอนที่พึ่งพาได้$"}
+{"id": "data/text/trainers.inc#Route120_Text_RobertRegister", "th": "เธอเป็นคนที่พึ่งพาได้ว่าจะเก่งขึ้นเรื่อย ๆ ขอลงทะเบียนเธอในโปเกนาวีหน่อยนะ!$"}
+{"id": "data/text/trainers.inc#Route120_Text_RobertRematchIntro", "th": "โปเกมอนที่เติบโตอย่างมั่นคง คือโปเกมอนที่พึ่งพาได้$"}
+{"id": "data/text/trainers.inc#Route120_Text_RobertRematchDefeat", "th": "โปเกมอนของเธอแข็งแกร่งสุด ๆ เลย$"}
+{"id": "data/text/trainers.inc#Route120_Text_RobertPostRematch", "th": "โปเกมอนของผมแข็งแกร่งขึ้นเรื่อย ๆ ผมก็ต้องแข็งแกร่งขึ้นด้วย$"}
+{"id": "data/text/trainers.inc#Route120_Text_LorenzoIntro", "th": "ผมจะตรวจดูโปเกมอนของคุณ ว่าพร้อมสำหรับกลางแจ้งหรือเปล่า$"}
+{"id": "data/text/trainers.inc#Route120_Text_LorenzoDefeat", "th": "มีโปเกมอนแข็งแกร่งขนาดนั้น คุณไม่ต้องกลัวว่าจะต้องให้ใครมาช่วยเลย!$"}
+{"id": "data/text/trainers.inc#Route120_Text_LorenzoPostBattle", "th": "ได้เดินทางไปทุกที่ที่ใจปรารถนาพร้อมกับโปเกมอน… นั่นคือความสุขของการเป็นเทรนเนอร์$"}
+{"id": "data/text/trainers.inc#Route120_Text_JennaIntro", "th": "ร่างกายฟิตแค่ไหน? ถ้าไม่ฟิต อาจลำบากในสถานการณ์คับขันได้นะ$"}
+{"id": "data/text/trainers.inc#Route120_Text_JennaDefeat", "th": "ฉันฟิตสุด ๆ แต่ว่า…$"}
+{"id": "data/text/trainers.inc#Route120_Text_JennaPostBattle", "th": "การฝึกร่างกายเป็นกิจวัตรของฉัน ฉันวิ่งกับโปเกมอนตลอด$"}
+{"id": "data/text/trainers.inc#Route120_Text_JeffreyIntro", "th": "… … … … … … … … … … … … อยากสู้ไหม?$"}
+{"id": "data/text/trainers.inc#Route120_Text_JeffreyDefeat", "th": "แพ้แล้ว…$"}
+{"id": "data/text/trainers.inc#Route120_Text_JeffreyPostBattle", "th": "… … … … … … … … … … … … จะพยายามให้มากขึ้น…$"}
+{"id": "data/text/trainers.inc#Route120_Text_JeffreyRegister", "th": "… … … … … … … … … … … … มีโปเกนาวีไหม…?$"}
+{"id": "data/text/trainers.inc#Route120_Text_JeffreyRematchIntro", "th": "… … … … … … … … … … … … อยากสู้อีกไหม?$"}
+{"id": "data/text/trainers.inc#Route120_Text_JeffreyRematchDefeat", "th": "… … … … … … แพ้อีกแล้ว…$"}
+{"id": "data/text/trainers.inc#Route120_Text_JeffreyPostRematch", "th": "… … … … … … … … … … … … จะพยายามให้มากขึ้น… เพื่อโปเกมอนประเภท BUG ที่รักของผม…$"}
+{"id": "data/text/trainers.inc#Route120_Text_JenniferIntro", "th": "โปเกมอนมีคุณสมบัติพิเศษมากมาย ถ้าอยากเป็นเทรนเนอร์ชั้นหนึ่ง ก็ต้องเรียนรู้เรื่องพวกนั้น$"}
+{"id": "data/text/trainers.inc#Route120_Text_JenniferDefeat", "th": "เห็นได้ชัดว่าเธอคิดมาอย่างดี$"}
+{"id": "data/text/trainers.inc#Route120_Text_JenniferPostBattle", "th": "คุณสมบัติพิเศษของโปเกมอน จะทำให้สไตล์การต่อสู้เปลี่ยนไป$"}
+{"id": "data/text/trainers.inc#Route120_Text_ChipIntro", "th": "เจ้าเป็นใครกัน?\\pหรือว่ากำลังตามหาซากโบราณสถาน ที่ลือกันว่าอาจมีอยู่จริงตามตำนาน?$"}
+{"id": "data/text/trainers.inc#Route120_Text_ChipDefeat", "th": "ช่างเป็นความพ่ายแพ้ที่น่าอับอายนัก…$"}
+{"id": "data/text/trainers.inc#Route120_Text_ChipPostBattle", "th": "หินยักษ์ก้อนนั้น… ข้าอยากเชื่อว่าข้างในอาจมีซากโบราณสถานอยู่จริง แต่ข้ามองไม่เห็นทางเข้าเลย$"}
+{"id": "data/text/trainers.inc#Route120_Text_ClarissaIntro", "th": "ทำไมดิฉันถึงถือร่มกันแดดคันนี้น่ะเหรอคะ?\\pถ้าคุณชนะดิฉันได้ ดิฉันจะบอกค่ะ$"}
+{"id": "data/text/trainers.inc#Route120_Text_ClarissaDefeat", "th": "ร่มกันแดดกันการโจมตีของโปเกมอนไม่ได้สินะคะ…$"}
+{"id": "data/text/trainers.inc#Route120_Text_ClarissaPostBattle", "th": "ดิฉันคิดว่าแดดจัด ๆ ไม่ดีกับโปเกมอน ดิฉันเลยใช้ร่มบังแดดให้พวกมันค่ะ$"}
+{"id": "data/text/trainers.inc#Route120_Text_AngelicaIntro", "th": "ดิฉัน โปเกมอน และร่มกันแดด…\\pถ้าขาดอย่างใดอย่างหนึ่งไป ภาพแห่งความงามก็จะพังทลายค่ะ$"}
+{"id": "data/text/trainers.inc#Route120_Text_AngelicaDefeat", "th": "คุณทำลายความงามของดิฉันเสียหมดเลยค่ะ…$"}
+{"id": "data/text/trainers.inc#Route120_Text_AngelicaPostBattle", "th": "ร่มกันแดดไม่เหมาะกับคุณเลยสักนิดค่ะ\\pของแบบนี้มีแต่จะเกะกะคุณเปล่า ๆ$"}
+{"id": "data/text/trainers.inc#Route120_Text_KeigoIntro", "th": "ข้าจะนำท่วงท่าของโปเกมอนมาสร้างวิชานินจาใหม่$"}
+{"id": "data/text/trainers.inc#Route120_Text_KeigoDefeat", "th": "การสร้างวิชานินจาใหม่ ยังเป็นแค่ความฝันอันไกลโพ้น…$"}
+{"id": "data/text/trainers.inc#Route120_Text_KeigoPostBattle", "th": "บางทีข้าควรไปฝากตัวเป็นศิษย์อาจารย์นินจาสักคน$"}
+{"id": "data/text/trainers.inc#Route120_Text_RileyIntro", "th": "พวกเรานินจาซ่อนตัวใต้ผ้าคลุมพรางตัว พนันได้ว่าเธอไม่รู้ว่าผมอยู่ตรงไหน!$"}
+{"id": "data/text/trainers.inc#Route120_Text_RileyDefeat", "th": "แพ้แล้ว! ต้องพรางความอายซะแล้ว!$"}
+{"id": "data/text/trainers.inc#Route120_Text_RileyPostBattle", "th": "ผ้าคลุมพรางตัวของพวกเราทำมือทั้งหมดเลยนะ$"}
+{"id": "data/text/trainers.inc#Route120_Text_CallieIntro", "th": "ถ้าไม่ระวัง เธออาจเจ็บตัวได้นะ!$"}
+{"id": "data/text/trainers.inc#Route120_Text_CallieDefeat", "th": "โอ๊ย! กลายเป็นฉันที่เจ็บตัวซะเอง$"}
+{"id": "data/text/trainers.inc#Route120_Text_CalliePostBattle", "th": "สงสัยจัง… ควรให้โปเกมอนวิวัฒนาการดีไหมนะ? เป็นแบบนี้ก็น่ารักอยู่แล้วแท้ ๆ$"}
+{"id": "data/text/trainers.inc#Route120_Text_LeonelIntro", "th": "โปเกมอนในทีมของคุณ… มีหลายประเภทหรือเปล่า?$"}
+{"id": "data/text/trainers.inc#Route120_Text_LeonelDefeat", "th": "ผมได้เห็นแนวทางของคุณแล้ว!$"}
+{"id": "data/text/trainers.inc#Route120_Text_LeonelPostBattle", "th": "ผมว่าเจ๋งมากเลยที่คุณแข็งแกร่งขนาดนี้ ทั้งที่สู้ด้วยโปเกมอนตัวโปรด$"}
+{"id": "data/text/trainers.inc#Route121_Text_VanessaIntro", "th": "มาเล่นกับโปเกมอนแสนสวยของฉันไหมคะ?$"}
+{"id": "data/text/trainers.inc#Route121_Text_VanessaDefeat", "th": "ไม่ได้หมายความแบบนี้นะ!$"}
+{"id": "data/text/trainers.inc#Route121_Text_VanessaPostBattle", "th": "ฉันจะไปคอนเทสต์ที่เมืองมินาโมะค่ะ\\pโปเกมอนของฉันกวาดรางวัลระดับมาสเตอร์ได้สบายแน่นอน$"}
+{"id": "data/text/trainers.inc#Route121_Text_WalterIntro", "th": "ผมเดินทางไปทั่วทุกมุมโลกกับโปเกมอนของผม\\pจะว่าผมมั่นใจในฝีมืออยู่บ้างก็คงได้ครับ$"}
+{"id": "data/text/trainers.inc#Route121_Text_WalterDefeat", "th": "อ้า เล่นได้ดีมากครับ$"}
+{"id": "data/text/trainers.inc#Route121_Text_WalterPostBattle", "th": "ผมอยากเดินทางรอบโลกอีกสักครั้งกับโปเกมอนของผมครับ$"}
+{"id": "data/text/trainers.inc#Route121_Text_WalterRegister", "th": "ฝีมือโปเกมอนของคุณโดดเด่นมาก ขออนุญาตลงทะเบียนคุณไว้เป็นที่ระลึกนะครับ$"}
+{"id": "data/text/trainers.inc#Route121_Text_WalterRematchIntro", "th": "ผมเดินทางไปทั่วทุกมุมโลกกับโปเกมอนของผม\\pจะว่าผมมั่นใจในฝีมืออยู่บ้างก็คงได้ครับ$"}
+{"id": "data/text/trainers.inc#Route121_Text_WalterRematchDefeat", "th": "อ้า เล่นได้ดีมากครับ$"}
+{"id": "data/text/trainers.inc#Route121_Text_WalterPostRematch", "th": "คุณกับโปเกมอนของคุณ…\\pฝีมือของพวกคุณคงนับว่าแข็งแกร่ง แม้แต่ในต่างแดนครับ$"}
+{"id": "data/text/trainers.inc#Route121_Text_TammyIntro", "th": "ในโลกนี้มีพลังที่อยู่เหนือความเข้าใจของเรา…$"}
+{"id": "data/text/trainers.inc#Route121_Text_TammyDefeat", "th": "ฉันแพ้แล้ว…$"}
+{"id": "data/text/trainers.inc#Route121_Text_TammyPostBattle", "th": "ภูเขาส่งวิญญาณ… มีพลังลึกลับบางอย่างทำงานอยู่ที่นั่น…$"}
+{"id": "data/text/trainers.inc#Route121_Text_KateIntro", "th": "เคต: อยู่ด้วยกันแล้วเราไม่กลัวอะไร! จะแสดงให้ดูว่าเราแกร่งแค่ไหน!$"}
+{"id": "data/text/trainers.inc#Route121_Text_KateDefeat", "th": "เคต: ฉันพลาดท่าต่อหน้ารุ่นน้องซะแล้ว…$"}
+{"id": "data/text/trainers.inc#Route121_Text_KatePostBattle", "th": "เคต: เวลามีคนพึ่งพาฉัน ฉันจะอยากทำตัวเท่ต่อหน้าเขา…$"}
+{"id": "data/text/trainers.inc#Route121_Text_KateNotEnoughMons", "th": "เคต: ถ้ามีโปเกมอนแค่ตัวเดียว เราสู้กับเธอไม่ได้หรอก\\pแบบนั้นเป็นการรังแกกันชัด ๆ$"}
+{"id": "data/text/trainers.inc#Route121_Text_JoyIntro", "th": "จอย: อยู่ด้วยกันแล้วเราไม่กลัวอะไร! จะแสดงให้ดูว่าเราแกร่งแค่ไหน!$"}
+{"id": "data/text/trainers.inc#Route121_Text_JoyDefeat", "th": "จอย: ยกโทษให้หนูด้วยนะคะ พี่เคต!$"}
+{"id": "data/text/trainers.inc#Route121_Text_JoyPostBattle", "th": "จอย: เอะเฮะเฮะ หนูต้องฝึกกับรุ่นพี่เคตอีกแล้ว$"}
+{"id": "data/text/trainers.inc#Route121_Text_JoyNotEnoughMons", "th": "จอย: ถ้าจะมาท้าเรา ต้องมีโปเกมอนอย่างน้อยสองตัวนะ!$"}
+{"id": "data/text/trainers.inc#Route121_Text_JessicaIntro", "th": "หยุดก่อน! ดูโปเกมอนสุดที่รักของฉันให้ดี ๆ นะ!$"}
+{"id": "data/text/trainers.inc#Route121_Text_JessicaDefeat", "th": "โอ้ บังอาจนัก! อย่าจริงจังขนาดนั้นสิ!$"}
+{"id": "data/text/trainers.inc#Route121_Text_JessicaPostBattle", "th": "บางทีฉันจะไปจับโปเกมอนเพิ่มที่ซาฟารีดีกว่า$"}
+{"id": "data/text/trainers.inc#Route121_Text_JessicaRegister", "th": "คราวนี้ฉันออมมือให้หรอกนะ! คราวหน้าไม่เป็นแบบนี้แน่!$"}
+{"id": "data/text/trainers.inc#Route121_Text_JessicaRematchIntro", "th": "โปเกมอนสุดที่รักของฉันโตขึ้นแล้ว! ดูให้ดี ๆ นะ!$"}
+{"id": "data/text/trainers.inc#Route121_Text_JessicaRematchDefeat", "th": "โอ้ บังอาจนัก! ยังไม่ยอมออมมือให้อีก!$"}
+{"id": "data/text/trainers.inc#Route121_Text_JessicaPostRematch", "th": "บางทีฉันจะไปจับโปเกมอนเพิ่มที่ซาฟารีดีกว่า$"}
+{"id": "data/text/trainers.inc#Route121_Text_CristinIntro", "th": "ฉันมีกิจวัตรประจำวัน คือเอาชนะเทรนเนอร์วันละห้าคน รู้ไหม? เธอคือคนที่ห้า!$"}
+{"id": "data/text/trainers.inc#Route121_Text_CristinDefeat", "th": "ไม่นะ! เธอมันร้ายกาจ!$"}
+{"id": "data/text/trainers.inc#Route121_Text_CristinPostBattle", "th": "ไม่คิดว่าจะแพ้ง่ายขนาดนี้… คราวหน้าฉันชนะแน่!$"}
+{"id": "data/text/trainers.inc#Route121_Text_CristinRegister", "th": "นี่มันน่าอายสุด ๆ! ฉันไม่ลืมเธอแน่… ส่งโปเกนาวีมานี่!$"}
+{"id": "data/text/trainers.inc#Route121_Text_CristinRematchIntro", "th": "ฉันมีกิจวัตรใหม่ คือเอาชนะเทรนเนอร์วันละสิบคน รู้ไหม? เธอคือคนที่สิบ!$"}
+{"id": "data/text/trainers.inc#Route121_Text_CristinRematchDefeat", "th": "เดี๋ยว! แบบนี้ร้ายกาจเกินไปแล้ว! ฉันขอแข่งใหม่!$"}
+{"id": "data/text/trainers.inc#Route121_Text_CristinPostRematch", "th": "เจอคู่ต่อสู้ที่ยังไงก็ชนะไม่ได้… ฮึก… ไม่อยากเชื่อเลยว่ามันเกิดขึ้นจริง…$"}
+{"id": "data/text/trainers.inc#Route121_Text_CaleIntro", "th": "มองไม่เห็นเหรอว่าผมถือของเต็มมืออยู่?\\pแล้วยังจะยืนยันให้สู้กันอีกเหรอ?$"}
+{"id": "data/text/trainers.inc#Route121_Text_CaleDefeat", "th": "ก็ต้องแพ้อยู่แล้ว! ผมถือของเต็มสองมือนี่!$"}
+{"id": "data/text/trainers.inc#Route121_Text_CalePostBattle", "th": "ผมซื้อของที่ห้างสรรพสินค้ามินาโมะมาเยอะเกินไป\\pห้างอยู่ถัดไปตามถนนนี้ อยากมีกระเป๋าแบบของคุณจัง$"}
+{"id": "data/text/trainers.inc#Route121_Text_MylesIntro", "th": "ไม่มีอะไรที่ผมชอบไปกว่าการได้ดูโปเกมอนของคนอื่นแล้ว!$"}
+{"id": "data/text/trainers.inc#Route121_Text_MylesDefeat", "th": "สุดยอดไปเลย!$"}
+{"id": "data/text/trainers.inc#Route121_Text_MylesPostBattle", "th": "โปเกมอนของคุณยอดเยี่ยมมาก! เลี้ยงยังไงเหรอครับ?$"}
+{"id": "data/text/trainers.inc#Route121_Text_PatIntro", "th": "ฉันอยากให้ทุกคนได้เห็นโปเกมอนที่ฉันเลี้ยงมา!$"}
+{"id": "data/text/trainers.inc#Route121_Text_PatDefeat", "th": "ว้าว! ยอดเยี่ยมมาก!$"}
+{"id": "data/text/trainers.inc#Route121_Text_PatPostBattle", "th": "ฉันเลี้ยงโปเกมอนทุกตัวด้วยความรักและใส่ใจเท่ากัน ไม่มีลำเอียงเลย$"}
+{"id": "data/text/trainers.inc#Route121_Text_MarcelIntro", "th": "โปเกมอนของผมไม่เคยลิ้มรสความพ่ายแพ้! ชนะอีกครั้งเมื่อไร ผมจะส่งพวกมันเข้าคอนเทสต์$"}
+{"id": "data/text/trainers.inc#Route121_Text_MarcelDefeat", "th": "อ้าว เกิดอะไรขึ้นเนี่ย?$"}
+{"id": "data/text/trainers.inc#Route121_Text_MarcelPostBattle", "th": "สงสัยต้องฝึกทีมอีกหน่อยก่อนส่งเข้าคอนเทสต์$"}
+{"id": "data/text/trainers.inc#Route123_Text_WendyIntro", "th": "อยากรู้ไหมว่าตัวเองแข็งแกร่งแค่ไหน? ฉันจะเป็นบททดสอบให้เอง!$"}
+{"id": "data/text/trainers.inc#Route123_Text_WendyDefeat", "th": "เธอผ่านฉลุยเลย!$"}
+{"id": "data/text/trainers.inc#Route123_Text_WendyPostBattle", "th": "ชนะได้แม้แต่ฉัน… เธอแข็งแกร่งน่าทึ่งจริง ๆ!$"}
+{"id": "data/text/trainers.inc#Route123_Text_BraxtonIntro", "th": "ดูเหมือนคุณจะสะสมเข็มกลัดยิมมาเยอะนะ\\pให้ผมดูหน่อยว่าคุณคู่ควรกับเข็มกลัดพวกนั้นจริงหรือเปล่า!$"}
+{"id": "data/text/trainers.inc#Route123_Text_BraxtonDefeat", "th": "โอ้ คู่ควรจริง ๆ ด้วย!$"}
+{"id": "data/text/trainers.inc#Route123_Text_BraxtonPostBattle", "th": "แมตช์เมื่อกี้ คุณทำให้เข็มกลัดของคุณภาคภูมิใจเลย!$"}
+{"id": "data/text/trainers.inc#Route123_Text_VioletIntro", "th": "ว่ากันว่าช่วงเวลาดี ๆ มักเต็มไปด้วยกลิ่นหอมดี ๆ ค่ะ$"}
+{"id": "data/text/trainers.inc#Route123_Text_VioletDefeat", "th": "โอ้… ดิฉันได้กลิ่นขมขื่นของความทุกข์ค่ะ…$"}
+{"id": "data/text/trainers.inc#Route123_Text_VioletPostBattle", "th": "สวนของเซียนเบอร์รี่เต็มไปด้วยกลิ่นหอมที่ชวนให้ใจเบิกบานค่ะ$"}
+{"id": "data/text/trainers.inc#Route123_Text_CameronIntro", "th": "การเป็นผู้มีพลังจิตขึ้นอยู่กับพลังใจ\\pผมตั้งใจไว้แล้วว่าจะไม่แพ้ใคร แบบนั้นทำให้ผมแข็งแกร่ง!$"}
+{"id": "data/text/trainers.inc#Route123_Text_CameronDefeat", "th": "เศร้าจัง…$"}
+{"id": "data/text/trainers.inc#Route123_Text_CameronPostBattle", "th": "การเป็นผู้มีพลังจิตขึ้นอยู่กับพลังใจ นึกว่าจะไม่แพ้คุณซะอีก…$"}
+{"id": "data/text/trainers.inc#Route123_Text_CameronRegister", "th": "ผมสัมผัสได้! คุณกับผมจะได้สู้กันอีก! แต่ไม่รู้ว่าผมจะชนะหรือเปล่านะ…\\pขอดูโปเกนาวีของคุณหน่อย$"}
+{"id": "data/text/trainers.inc#Route123_Text_CameronRematchIntro", "th": "ผมปลูกฝังตัวเองแล้วว่าจะไม่แพ้อีก แบบนั้นทำให้ผมแข็งแกร่ง!$"}
+{"id": "data/text/trainers.inc#Route123_Text_CameronRematchDefeat", "th": "เศร้าจัง…$"}
+{"id": "data/text/trainers.inc#Route123_Text_CameronPostRematch", "th": "ผมควรไปฝึกที่ภูเขาส่งวิญญาณ… แบบนี้ไม่มีวันชนะคุณแน่…$"}
+{"id": "data/text/trainers.inc#Route123_Text_JackiIntro", "th": "อย่าเพิ่งดีใจไปถ้าโปเกมอนของเธอมีพลังจิตขึ้นมา\\pต้องขัดเกลาพลังนั้นก่อน ถึงจะใช้ประโยชน์ได้จริง$"}
+{"id": "data/text/trainers.inc#Route123_Text_JackiDefeat", "th": "พ่ายราบคาบเลย!$"}

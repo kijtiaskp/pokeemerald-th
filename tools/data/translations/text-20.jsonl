@@ -5,33 +5,33 @@
 {"id":"src/data/text/item_descriptions.h#sMagoBerryDesc","th":"ให้โปเกมอนถือไว้\\nฟื้นฟู HP แต่อาจ\\nทำให้สับสน"}
 {"id":"src/data/text/item_descriptions.h#sAguavBerryDesc","th":"ให้โปเกมอนถือไว้\\nฟื้นฟู HP แต่อาจ\\nทำให้สับสน"}
 {"id":"src/data/text/item_descriptions.h#sIapapaBerryDesc","th":"ให้โปเกมอนถือไว้\\nฟื้นฟู HP แต่อาจ\\nทำให้สับสน"}
-{"id":"src/data/text/item_descriptions.h#sRazzBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นซุริ"}
-{"id":"src/data/text/item_descriptions.h#sBlukBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นบูรี"}
-{"id":"src/data/text/item_descriptions.h#sNanabBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นนานา"}
-{"id":"src/data/text/item_descriptions.h#sWepearBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นเซชินะ"}
-{"id":"src/data/text/item_descriptions.h#sPinapBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นไพรุ"}
+{"id":"src/data/text/item_descriptions.h#sRazzBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น RAZZ"}
+{"id":"src/data/text/item_descriptions.h#sBlukBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น BLUK"}
+{"id":"src/data/text/item_descriptions.h#sNanabBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น NANAB"}
+{"id":"src/data/text/item_descriptions.h#sWepearBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น WEPEAR"}
+{"id":"src/data/text/item_descriptions.h#sPinapBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น PINAP"}
 {"id":"src/data/text/item_descriptions.h#sPomegBerryDesc","th":"ทำให้โปเกมอนสนิท\\nขึ้น แต่ลดค่าพื้นฐาน\\nของ HP"}
 {"id":"src/data/text/item_descriptions.h#sKelpsyBerryDesc","th":"ทำให้โปเกมอนสนิท\\nขึ้น แต่ลดค่าพื้นฐาน\\nของพลังโจมตี"}
 {"id":"src/data/text/item_descriptions.h#sQualotBerryDesc","th":"ทำให้โปเกมอนสนิท\\nขึ้น แต่ลดค่าพื้นฐาน\\nของพลังป้องกัน"}
 {"id":"src/data/text/item_descriptions.h#sHondewBerryDesc","th":"ทำให้โปเกมอนสนิท\\nขึ้น แต่ลดค่าพื้นฐาน\\nของพลังโจมตีพิเศษ"}
 {"id":"src/data/text/item_descriptions.h#sGrepaBerryDesc","th":"ทำให้โปเกมอนสนิท\\nขึ้น แต่ลดค่าพื้นฐาน\\nของพลังป้องกันพิเศษ"}
 {"id":"src/data/text/item_descriptions.h#sTamatoBerryDesc","th":"ทำให้โปเกมอนสนิท\\nขึ้น แต่ลดค่าพื้นฐาน\\nของความเร็ว"}
-{"id":"src/data/text/item_descriptions.h#sCornnBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นโมโคชิ"}
-{"id":"src/data/text/item_descriptions.h#sMagostBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นโกสุ"}
-{"id":"src/data/text/item_descriptions.h#sRabutaBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นราบุตะ"}
-{"id":"src/data/text/item_descriptions.h#sNomelBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นโนเมรุ"}
-{"id":"src/data/text/item_descriptions.h#sSpelonBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นโนวากิ"}
-{"id":"src/data/text/item_descriptions.h#sPamtreBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นชียะ"}
-{"id":"src/data/text/item_descriptions.h#sWatmelBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นไคสุ"}
-{"id":"src/data/text/item_descriptions.h#sDurinBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นโดริ"}
-{"id":"src/data/text/item_descriptions.h#sBelueBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นเบริบุ"}
+{"id":"src/data/text/item_descriptions.h#sCornnBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น CORNN"}
+{"id":"src/data/text/item_descriptions.h#sMagostBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น MAGOST"}
+{"id":"src/data/text/item_descriptions.h#sRabutaBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น RABUTA"}
+{"id":"src/data/text/item_descriptions.h#sNomelBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น NOMEL"}
+{"id":"src/data/text/item_descriptions.h#sSpelonBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น SPELON"}
+{"id":"src/data/text/item_descriptions.h#sPamtreBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น PAMTRE"}
+{"id":"src/data/text/item_descriptions.h#sWatmelBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น WATMEL"}
+{"id":"src/data/text/item_descriptions.h#sDurinBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น DURIN"}
+{"id":"src/data/text/item_descriptions.h#sBelueBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้น BELUE"}
 {"id":"src/data/text/item_descriptions.h#sLiechiBerryDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังโจมตี\\nเมื่อ HP ใกล้หมด"}
 {"id":"src/data/text/item_descriptions.h#sGanlonBerryDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังป้องกัน\\nเมื่อ HP ใกล้หมด"}
 {"id":"src/data/text/item_descriptions.h#sSalacBerryDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มความเร็ว\\nเมื่อ HP ใกล้หมด"}
 {"id":"src/data/text/item_descriptions.h#sPetayaBerryDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังโจมตีพิเศษ\\nเมื่อ HP ใกล้หมด"}
 {"id":"src/data/text/item_descriptions.h#sApicotBerryDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังป้องกันพิเศษ\\nเมื่อ HP ใกล้หมด"}
 {"id":"src/data/text/item_descriptions.h#sLansatBerryDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มโอกาสคริติคอล\\nเมื่อ HP ใกล้หมด"}
-{"id":"src/data/text/item_descriptions.h#sStarfBerryDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มค่าสถานะหนึ่งค่า\\nอย่างมากเมื่อ HP ใกล้หมด"}
+{"id":"src/data/text/item_descriptions.h#sStarfBerryDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มค่าสถานะหนึ่งค่า\\nมากเมื่อ HP ใกล้หมด"}
 {"id":"src/data/text/item_descriptions.h#sEnigmaBerryDesc","th":"วัตถุดิบโปเกบล็อก\\nปลูกในดินร่วนแล้ว\\nจะได้ต้นปริศนา"}
 {"id":"src/data/text/item_descriptions.h#sBrightPowderDesc","th":"ให้โปเกมอนถือไว้\\nส่องแสงแยงตาเพื่อ\\nลดความแม่นยำ"}
 {"id":"src/data/text/item_descriptions.h#sWhiteHerbDesc","th":"ให้โปเกมอนถือไว้\\nคืนค่าสถานะ\\nที่ถูกลดลง"}
@@ -39,13 +39,13 @@
 {"id":"src/data/text/item_descriptions.h#sExpShareDesc","th":"ให้โปเกมอนถือไว้\\nได้ค่าประสบการณ์\\nแม้ไม่ได้ออกสู้"}
 {"id":"src/data/text/item_descriptions.h#sQuickClawDesc","th":"ให้โปเกมอนถือไว้\\nบางครั้งจะได้\\nโจมตีก่อน"}
 {"id":"src/data/text/item_descriptions.h#sSootheBellDesc","th":"ให้โปเกมอนถือไว้\\nทำให้จิตใจสงบ\\nและสนิทสนมมากขึ้น"}
-{"id":"src/data/text/item_descriptions.h#sMentalHerbDesc","th":"ให้โปเกมอนถือไว้\\nช่วยให้โปเกมอน\\nหายจากอาการหลงรัก"}
+{"id":"src/data/text/item_descriptions.h#sMentalHerbDesc","th":"ให้โปเกมอนถือไว้\\nช่วยให้หายจาก\\nอาการหลงรัก"}
 {"id":"src/data/text/item_descriptions.h#sChoiceBandDesc","th":"เพิ่มพลังของท่า\\nแต่จะใช้ได้เพียง\\nท่านั้นท่าเดียว"}
 {"id":"src/data/text/item_descriptions.h#sKingsRockDesc","th":"ให้โปเกมอนถือไว้\\nเมื่อโจมตีโดน อาจ\\nทำให้คู่ต่อสู้ชะงัก"}
-{"id":"src/data/text/item_descriptions.h#sSilverPowderDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทแมลง"}
+{"id":"src/data/text/item_descriptions.h#sSilverPowderDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท BUG"}
 {"id":"src/data/text/item_descriptions.h#sAmuletCoinDesc","th":"ถ้าโปเกมอนที่ถือ\\nได้ออกต่อสู้ จะได้\\nเงินเพิ่มเป็นสองเท่า"}
 {"id":"src/data/text/item_descriptions.h#sCleanseTagDesc","th":"ให้โปเกมอนถือไว้\\nช่วยไล่โปเกมอนป่า\\nไม่ให้เข้าใกล้"}
-{"id":"src/data/text/item_descriptions.h#sSoulDewDesc","th":"ให้ลาทิออสหรือ\\nลาทิอาสถือ เพิ่มพลัง\\nโจมตีและป้องกันพิเศษ"}
+{"id":"src/data/text/item_descriptions.h#sSoulDewDesc","th":"ให้ลาทิออสหรือ\\nลาทิอาสถือ เพิ่มพลัง\\nโจมตี/ป้องกันพิเศษ"}
 {"id":"src/data/text/item_descriptions.h#sDeepSeaToothDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังโจมตีพิเศษ\\nของเพิร์ลรู"}
 {"id":"src/data/text/item_descriptions.h#sDeepSeaScaleDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังป้องกัน\\nพิเศษของเพิร์ลรู"}
 {"id":"src/data/text/item_descriptions.h#sSmokeBallDesc","th":"ให้โปเกมอนถือไว้\\nหนีจากโปเกมอนป่า\\nได้แน่นอน"}
@@ -53,28 +53,28 @@
 {"id":"src/data/text/item_descriptions.h#sFocusBandDesc","th":"ให้โปเกมอนถือไว้\\nบางครั้งจะช่วยให้\\nทนไม่หมดสภาพ"}
 {"id":"src/data/text/item_descriptions.h#sLuckyEggDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มค่าประสบการณ์\\nที่ได้จากการต่อสู้"}
 {"id":"src/data/text/item_descriptions.h#sScopeLensDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มโอกาสโจมตี\\nติดคริติคอล"}
-{"id":"src/data/text/item_descriptions.h#sMetalCoatDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทเหล็ก"}
+{"id":"src/data/text/item_descriptions.h#sMetalCoatDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท STEEL"}
 {"id":"src/data/text/item_descriptions.h#sLeftoversDesc","th":"ให้โปเกมอนถือไว้\\nค่อย ๆ ฟื้นฟู HP\\nขณะต่อสู้"}
-{"id":"src/data/text/item_descriptions.h#sDragonScaleDesc","th":"เกล็ดประหลาดที่\\nโปเกมอนประเภท\\nมังกรถือไว้"}
+{"id":"src/data/text/item_descriptions.h#sDragonScaleDesc","th":"เกล็ดประหลาดที่\\nโปเกมอนประเภท\\nDRAGON ถือไว้"}
 {"id":"src/data/text/item_descriptions.h#sLightBallDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังโจมตีพิเศษ\\nของปิกาจู"}
-{"id":"src/data/text/item_descriptions.h#sSoftSandDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทดิน"}
-{"id":"src/data/text/item_descriptions.h#sHardStoneDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทหิน"}
-{"id":"src/data/text/item_descriptions.h#sMiracleSeedDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทหญ้า"}
-{"id":"src/data/text/item_descriptions.h#sBlackGlassesDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทความมืด"}
-{"id":"src/data/text/item_descriptions.h#sBlackBeltDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทต่อสู้"}
-{"id":"src/data/text/item_descriptions.h#sMagnetDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทไฟฟ้า"}
-{"id":"src/data/text/item_descriptions.h#sMysticWaterDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทน้ำ"}
-{"id":"src/data/text/item_descriptions.h#sSharpBeakDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทบิน"}
-{"id":"src/data/text/item_descriptions.h#sPoisonBarbDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทพิษ"}
-{"id":"src/data/text/item_descriptions.h#sNeverMeltIceDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทน้ำแข็ง"}
-{"id":"src/data/text/item_descriptions.h#sSpellTagDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทผี"}
-{"id":"src/data/text/item_descriptions.h#sTwistedSpoonDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทพลังจิต"}
-{"id":"src/data/text/item_descriptions.h#sCharcoalDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทไฟ"}
-{"id":"src/data/text/item_descriptions.h#sDragonFangDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทมังกร"}
-{"id":"src/data/text/item_descriptions.h#sSilkScarfDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภทปกติ"}
-{"id":"src/data/text/item_descriptions.h#sUpGradeDesc","th":"กล่องประหลาดที่สร้าง\\nโดยบริษัทซิลฟ์"}
+{"id":"src/data/text/item_descriptions.h#sSoftSandDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท GROUND"}
+{"id":"src/data/text/item_descriptions.h#sHardStoneDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท ROCK"}
+{"id":"src/data/text/item_descriptions.h#sMiracleSeedDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท GRASS"}
+{"id":"src/data/text/item_descriptions.h#sBlackGlassesDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท DARK"}
+{"id":"src/data/text/item_descriptions.h#sBlackBeltDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท FIGHTING"}
+{"id":"src/data/text/item_descriptions.h#sMagnetDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท ELECTRIC"}
+{"id":"src/data/text/item_descriptions.h#sMysticWaterDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท WATER"}
+{"id":"src/data/text/item_descriptions.h#sSharpBeakDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท FLYING"}
+{"id":"src/data/text/item_descriptions.h#sPoisonBarbDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท POISON"}
+{"id":"src/data/text/item_descriptions.h#sNeverMeltIceDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท ICE"}
+{"id":"src/data/text/item_descriptions.h#sSpellTagDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท GHOST"}
+{"id":"src/data/text/item_descriptions.h#sTwistedSpoonDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท PSYCHIC"}
+{"id":"src/data/text/item_descriptions.h#sCharcoalDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท FIRE"}
+{"id":"src/data/text/item_descriptions.h#sDragonFangDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท DRAGON"}
+{"id":"src/data/text/item_descriptions.h#sSilkScarfDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท NORMAL"}
+{"id":"src/data/text/item_descriptions.h#sUpGradeDesc","th":"กล่องประหลาดที่\\nบริษัทซิลฟ์สร้าง"}
 {"id":"src/data/text/item_descriptions.h#sShellBellDesc","th":"ให้โปเกมอนถือไว้\\nฟื้นฟู HP เมื่อ\\nโจมตีคู่ต่อสู้โดน"}
-{"id":"src/data/text/item_descriptions.h#sSeaIncenseDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังท่าประเภท\\nน้ำเล็กน้อย"}
+{"id":"src/data/text/item_descriptions.h#sSeaIncenseDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังท่าประเภท\\nWATER เล็กน้อย"}
 {"id":"src/data/text/item_descriptions.h#sLaxIncenseDesc","th":"ให้โปเกมอนถือไว้\\nลดความแม่นยำของ\\nคู่ต่อสู้ลงเล็กน้อย"}
 {"id":"src/data/text/item_descriptions.h#sLuckyPunchDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มโอกาสคริติคอล\\nของลัคกี"}
 {"id":"src/data/text/item_descriptions.h#sMetalPowderDesc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังป้องกัน\\nของเมตามอน"}
@@ -101,8 +101,8 @@
 {"id":"src/data/text/item_descriptions.h#sPokeblockCaseDesc","th":"กล่องใส่โปเกบล็อก\\nที่ทำจาก\\nเครื่องปั่นเบอร์รี่"}
 {"id":"src/data/text/item_descriptions.h#sLetterDesc","th":"จดหมายถึงไดโกะ\\nจากประธาน\\nบริษัทเดวอน"}
 {"id":"src/data/text/item_descriptions.h#sEonTicketDesc","th":"ตั๋วเรือเฟอร์รี่\\nไปยังเกาะทางใต้\\nอันไกลโพ้น"}
-{"id":"src/data/text/item_descriptions.h#sRedOrbDesc","th":"ลูกแก้วสีแดงเรืองแสง\\nกล่าวกันว่ามี\\nพลังโบราณอยู่ภายใน"}
-{"id":"src/data/text/item_descriptions.h#sBlueOrbDesc","th":"ลูกแก้วสีครามเรืองแสง\\nกล่าวกันว่ามี\\nพลังโบราณอยู่ภายใน"}
+{"id":"src/data/text/item_descriptions.h#sRedOrbDesc","th":"ลูกแก้วแดงเรืองแสง\\nกล่าวกันว่ามีพลัง\\nโบราณอยู่ภายใน"}
+{"id":"src/data/text/item_descriptions.h#sBlueOrbDesc","th":"ลูกแก้วครามเรืองแสง\\nกล่าวกันว่ามีพลัง\\nโบราณอยู่ภายใน"}
 {"id":"src/data/text/item_descriptions.h#sScannerDesc","th":"อุปกรณ์ที่พบ\\nภายใน\\nเรือร้าง"}
 {"id":"src/data/text/item_descriptions.h#sGoGogglesDesc","th":"แว่นสุดเจ๋งที่ช่วย\\nปกป้องดวงตาจาก\\nพายุทะเลทราย"}
 {"id":"src/data/text/item_descriptions.h#sMeteoriteDesc","th":"อุกกาบาตที่พบ\\nที่น้ำตกดาวตก"}
@@ -120,18 +120,18 @@
 {"id":"src/data/text/item_descriptions.h#sTM04Desc","th":"ทำสมาธิเพื่อเพิ่ม\\nพลังโจมตีพิเศษและ\\nพลังป้องกันพิเศษ"}
 {"id":"src/data/text/item_descriptions.h#sTM05Desc","th":"คำรามดุร้ายจน\\nคู่ต่อสู้หนีไป\\nจบการต่อสู้"}
 {"id":"src/data/text/item_descriptions.h#sTM06Desc","th":"ทำให้คู่ต่อสู้ติด\\nพิษร้ายที่ค่อย ๆ\\nรุนแรงขึ้น"}
-{"id":"src/data/text/item_descriptions.h#sTM07Desc","th":"ทำให้เกิดลูกเห็บ\\nที่ทำร้ายทุกประเภท\\nยกเว้นน้ำแข็ง"}
+{"id":"src/data/text/item_descriptions.h#sTM07Desc","th":"ทำให้เกิดลูกเห็บ\\nที่ทำร้ายทุกประเภท\\nยกเว้น ICE"}
 {"id":"src/data/text/item_descriptions.h#sTM08Desc","th":"เสริมกล้ามเนื้อ\\nเพิ่มทั้งพลังโจมตี\\nและพลังป้องกัน"}
 {"id":"src/data/text/item_descriptions.h#sTM09Desc","th":"ยิงเมล็ด 2-5 ลูก\\nติดต่อกันใส่\\nคู่ต่อสู้"}
 {"id":"src/data/text/item_descriptions.h#sTM10Desc","th":"พลังโจมตี\\nจะแตกต่างกันไป\\nตามโปเกมอน"}
-{"id":"src/data/text/item_descriptions.h#sTM11Desc","th":"เพิ่มพลังท่า\\nประเภทไฟ\\nเป็นเวลา 5 เทิร์น"}
+{"id":"src/data/text/item_descriptions.h#sTM11Desc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท FIRE"}
 {"id":"src/data/text/item_descriptions.h#sTM12Desc","th":"ยั่วยุคู่ต่อสู้จน\\nใช้ได้เฉพาะ\\nท่าโจมตี"}
 {"id":"src/data/text/item_descriptions.h#sTM13Desc","th":"ยิงลำแสงเย็นเฉียบ\\nที่อาจทำให้\\nคู่ต่อสู้แข็ง"}
 {"id":"src/data/text/item_descriptions.h#sTM14Desc","th":"พายุหิมะรุนแรง\\nที่อาจทำให้\\nคู่ต่อสู้แข็ง"}
 {"id":"src/data/text/item_descriptions.h#sTM15Desc","th":"ทรงพลัง แต่\\nต้องพักชาร์จ\\nในเทิร์นถัดไป"}
 {"id":"src/data/text/item_descriptions.h#sTM16Desc","th":"สร้างกำแพงแสง\\nลดความเสียหาย\\nจากท่าพิเศษ"}
 {"id":"src/data/text/item_descriptions.h#sTM17Desc","th":"ป้องกันความเสียหาย\\nทั้งหมด แต่อาจพลาด\\nถ้าใช้ติดกัน"}
-{"id":"src/data/text/item_descriptions.h#sTM18Desc","th":"เพิ่มพลังท่า\\nประเภทน้ำ\\nเป็นเวลา 5 เทิร์น"}
+{"id":"src/data/text/item_descriptions.h#sTM18Desc","th":"ให้โปเกมอนถือไว้\\nเพิ่มพลังของท่า\\nประเภท WATER"}
 {"id":"src/data/text/item_descriptions.h#sTM19Desc","th":"ฟื้นฟู HP ครึ่งหนึ่ง\\nของความเสียหาย\\nที่ท่านี้ทำได้"}
 {"id":"src/data/text/item_descriptions.h#sTM20Desc","th":"ป้องกันสถานะ\\nผิดปกติด้วย\\nพลังลึกลับ"}
 {"id":"src/data/text/item_descriptions.h#sTM21Desc","th":"ยิ่งไม่ชอบ\\nเทรนเนอร์มากเท่าไร\\nท่านี้ยิ่งแรง"}
@@ -144,7 +144,7 @@
 {"id":"src/data/text/item_descriptions.h#sTM28Desc","th":"มุดดินในเทิร์นแรก\\nแล้วโจมตีใน\\nเทิร์นถัดไป"}
 {"id":"src/data/text/item_descriptions.h#sTM29Desc","th":"โจมตีพลังจิตรุนแรง\\nที่อาจลด\\nพลังป้องกันพิเศษ"}
 {"id":"src/data/text/item_descriptions.h#sTM30Desc","th":"ขว้างก้อนเงามืดใส่\\nคู่ต่อสู้ อาจลด\\nพลังป้องกันพิเศษ"}
-{"id":"src/data/text/item_descriptions.h#sTM31Desc","th":"ทำลายกำแพง เช่น\\nกำแพงแสง แล้ว\\nสร้างความเสียหาย"}
+{"id":"src/data/text/item_descriptions.h#sTM31Desc","th":"ทำลายกำแพง เช่น\\nLIGHT SCREEN\\nแล้วโจมตี"}
 {"id":"src/data/text/item_descriptions.h#sTM32Desc","th":"สร้างร่างแยกลวงตา\\nเพื่อเพิ่ม\\nอัตราหลบหลีก"}
 {"id":"src/data/text/item_descriptions.h#sTM33Desc","th":"สร้างม่านแสง\\nที่ลดความเสียหาย\\nจากท่ากายภาพ"}
 {"id":"src/data/text/item_descriptions.h#sTM34Desc","th":"ช็อตคู่ต่อสู้ด้วย\\nกระแสไฟฟ้า\\nที่ไม่มีวันพลาด"}
@@ -172,7 +172,7 @@
 {"id":"src/data/text/item_descriptions.h#sHM06Desc","th":"โจมตีแรงจนหินแตก\\nที่อาจลด\\nพลังป้องกัน"}
 {"id":"src/data/text/item_descriptions.h#sHM07Desc","th":"พุ่งชนคู่ต่อสู้\\nด้วยพลังที่ปีน\\nน้ำตกได้"}
 {"id":"src/data/text/item_descriptions.h#sHM08Desc","th":"ดำน้ำในเทิร์นแรก\\nแล้วโจมตีใน\\nเทิร์นถัดไป"}
-{"id":"src/data/text/item_descriptions.h#sOaksParcelDesc","th":"พัสดุสำหรับ\\nศาสตราจารย์โอคิโด\\nจากพนักงานโปเกมาร์ท"}
+{"id":"src/data/text/item_descriptions.h#sOaksParcelDesc","th":"พัสดุจากโปเกมาร์ท\\nสำหรับศาสตราจารย์\\nโอคิโด"}
 {"id":"src/data/text/item_descriptions.h#sPokeFluteDesc","th":"ขลุ่ยเสียงไพเราะ\\nที่ปลุก\\nโปเกมอนให้ตื่น"}
 {"id":"src/data/text/item_descriptions.h#sSecretKeyDesc","th":"กุญแจสำหรับ\\nทางเข้ายิม\\nเกาะกุเร็น"}
 {"id":"src/data/text/item_descriptions.h#sBikeVoucherDesc","th":"คูปองสำหรับรับ\\nจักรยานจาก\\nร้านจักรยาน"}
@@ -196,12 +196,12 @@
 {"id":"src/data/text/item_descriptions.h#sMysticTicketDesc","th":"ตั๋วที่จำเป็น\\nสำหรับขึ้นเรือ\\nไปหินสะดือ"}
 {"id":"src/data/text/item_descriptions.h#sAuroraTicketDesc","th":"ตั๋วที่จำเป็น\\nสำหรับขึ้นเรือ\\nไปเกาะกำเนิด"}
 {"id":"src/data/text/item_descriptions.h#sPowderJarDesc","th":"เก็บผงเบอร์รี่\\nที่ทำจาก\\nเครื่องบดเบอร์รี่"}
-{"id":"src/data/text/item_descriptions.h#sRubyDesc","th":"อัญมณีเรืองแสงสีแดง\\nงดงามที่เป็น\\nสัญลักษณ์ความหลงใหล"}
+{"id":"src/data/text/item_descriptions.h#sRubyDesc","th":"อัญมณีเรืองแสงสีแดง\\nงดงาม สัญลักษณ์\\nแห่งความหลงใหล"}
 {"id":"src/data/text/item_descriptions.h#sSapphireDesc","th":"อัญมณีสีน้ำเงินสดใส\\nที่เป็นสัญลักษณ์\\nแห่งความซื่อสัตย์"}
 {"id":"src/data/text/item_descriptions.h#sMagmaEmblemDesc","th":"ไอเท็มคล้ายเหรียญ\\nที่มีรูปทรงเหมือน\\nตราแก๊งแม็กม่า"}
 {"id":"src/data/text/item_descriptions.h#sOldSeaMapDesc","th":"แผนที่ทะเลซีดจาง\\nที่บอกทางไป\\nเกาะแห่งหนึ่ง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallAromaLady_Rose_Strategy","th":"สงบอารมณ์นักสู้"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallAromaLady_Rose_Pokemon","th":"โปเกมอนหญ้ากลิ่นหอม"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallAromaLady_Rose_Pokemon","th":"โปเกมอน GRASS กลิ่นหอม"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallAromaLady_Rose_Intro1","th":"กลิ่นหอมผ่อนคลายช่วยให้"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallAromaLady_Rose_Intro2","th":"ร่างกายและจิตใจแข็งแรงค่ะ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Andres_Strategy","th":"ผมไม่ค่อยเก่งเรื่องนี้"}
@@ -209,7 +209,7 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Andres_Intro1","th":"ผมกำลังตามหาซากโบราณ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Andres_Intro2","th":"และวัตถุโบราณใต้ทะเล"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Dusty_Strategy","th":"ใช้พลังบดขยี้!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Dusty_Pokemon","th":"โปเกมอนหินขรุขระ"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Dusty_Pokemon","th":"โปเกมอน ROCK ขรุขระ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Dusty_Intro1","th":"ผมท่องไปทั่วโลก"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallRuinManiac_Dusty_Intro2","th":"เพื่อตามหาตำนานโบราณ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Lola_Strategy","th":"หนูจะพยายามเต็มที่!"}
@@ -217,7 +217,7 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Lola_Intro1","th":"อยากว่ายน้ำได้โดย"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Lola_Intro2","th":"ไม่ต้องใช้ห่วงยางจัง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Ricky_Strategy","th":"ไม่รู้สิ แต่จะพยายาม"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Ricky_Pokemon","th":"โปเกมอนน้ำคือเพื่อนซี้"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Ricky_Pokemon","th":"โปเกมอน WATER คือเพื่อนซี้"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Ricky_Intro1","th":"ไม่ใช่ว่าว่ายน้ำไม่เป็นนะ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTuber_Ricky_Intro2","th":"แค่ชอบห่วงยางเฉย ๆ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSisAndBro_LilaAndRoy_Strategy","th":"เราแบ่งหน้าที่กัน"}
@@ -245,7 +245,7 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallLady_Cindy_Intro1","th":"ที่บ้านมีสระว่ายน้ำ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallLady_Cindy_Intro2","th":"ไว้ให้โปเกมอนโดยเฉพาะค่ะ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Thalia_Strategy","th":"เธอจะตกอยู่ใต้มนตร์ฉัน!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Thalia_Pokemon","th":"ประเภทน้ำสายผู้ใหญ่"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Thalia_Pokemon","th":"ประเภท WATER สายผู้ใหญ่"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Thalia_Intro1","th":"ฉันฝันอยากล่องเรือสำราญ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Thalia_Intro2","th":"สุดหรูไปรอบโลก"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBeauty_Jessica_Strategy","th":"ฉันจะหลอกล่อเธอเอง"}
@@ -261,11 +261,11 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallPokeManiac_Steve_Intro1","th":"โปเกมอนตัวใหญ่ บึกบึน"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallPokeManiac_Steve_Intro2","th":"กล้ามแน่นคือที่สุด..."}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Tony_Strategy","th":"พุ่งชนเต็มสปีด!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Tony_Pokemon","th":"ประเภทน้ำสุดเท่!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Tony_Pokemon","th":"ประเภท WATER สุดเท่!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Tony_Intro1","th":"ถ้าไม่ได้ออกไปว่ายน้ำ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Tony_Intro2","th":"ผมก็จะยกเวทอยู่"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Nob_Strategy","th":"ทุบกระหน่ำเต็มแรง!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Nob_Pokemon","th":"ประเภทต่อสู้"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Nob_Pokemon","th":"ประเภท FIGHTING"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Nob_Intro1","th":"ไม่ได้คุยนะ แต่ผมทุบ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Nob_Intro2","th":"กระเบื้องได้ทีละสิบแผ่น!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBlackBelt_Koji_Strategy","th":"ดูพลังคาราเต้ซะ!"}
@@ -277,7 +277,7 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Fernando_Intro1","th":"เพลงที่ผมแต่งจะทำให้"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Fernando_Intro2","th":"เธอช็อกจนตะลึง!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Dalton_Strategy","th":"ผมจะช็อตเธอให้สะท้าน!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Dalton_Pokemon","th":"พวกนี้ไฟฟ้าล้วน!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Dalton_Pokemon","th":"พวกนี้ ELECTRIC ล้วน!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Dalton_Intro1","th":"ผมอยากให้คนร้องไห้"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallGuitarist_Dalton_Intro2","th":"ด้วยเพลงจากใจ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallKindler_Bernie_Strategy","th":"เผาให้ราบ!"}
@@ -293,9 +293,9 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallOldCouple_JohnAndJay_Intro1","th":"แต่งงานกันมา 50 ปี"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallOldCouple_JohnAndJay_Intro2","th":"เราเลี้ยงโปเกมอนด้วยใจ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBugManiac_Jeffrey_Strategy","th":"โจมตีเป็นระลอก!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugManiac_Jeffrey_Pokemon","th":"โปเกมอนแมลงเท่สุด"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugManiac_Jeffrey_Pokemon","th":"โปเกมอน BUG เท่สุด"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBugManiac_Jeffrey_Intro1","th":"ผมเข้าป่าทุกวัน"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugManiac_Jeffrey_Intro2","th":"เพื่อจับโปเกมอนแมลง"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugManiac_Jeffrey_Intro2","th":"เพื่อจับโปเกมอน BUG"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallPsychic_Cameron_Strategy","th":"ทำให้งงและสับสน!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallPsychic_Cameron_Pokemon","th":"พวกที่มีพลังประหลาด"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallPsychic_Cameron_Intro1","th":"ผมมองทะลุได้ว่า"}
@@ -329,11 +329,11 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallPokefan_Miguel_Intro1","th":"สิ่งสำคัญคือต้องสร้าง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallPokefan_Miguel_Intro2","th":"ความไว้ใจกับโปเกมอน"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Timothy_Strategy","th":"ข้ามองทะลุท่าเจ้า!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Timothy_Pokemon","th":"แก่นแท้ประเภทต่อสู้"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Timothy_Pokemon","th":"แก่นแท้ของ FIGHTING"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Timothy_Intro1","th":"ข้ายังไม่พร้อมจะหลีกทาง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Timothy_Intro2","th":"ให้คนรุ่นใหม่หรอก!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Shelby_Strategy","th":"ป้องกันไปพร้อมโจมตี"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Shelby_Pokemon","th":"ประเภทต่อสู้"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Shelby_Pokemon","th":"ประเภท FIGHTING"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Shelby_Intro1","th":"ด้วยวัยขนาดนี้ ป้าจึงมี"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallExpert_Shelby_Intro2","th":"สไตล์การต่อสู้ของตัวเอง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallYoungster_Calvin_Strategy","th":"ทำเท่าที่ทำได้"}
@@ -341,11 +341,11 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallYoungster_Calvin_Intro1","th":"ผมจะฝึกต่อไปเรื่อย ๆ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallYoungster_Calvin_Intro2","th":"จนกว่าจะชนะหัวหน้ายิม"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallFisherman_Elliot_Strategy","th":"สู้แบบใจเย็น"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallFisherman_Elliot_Pokemon","th":"โปเกมอนน้ำพร้อมสู้!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallFisherman_Elliot_Pokemon","th":"โปเกมอน WATER พร้อมสู้!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallFisherman_Elliot_Intro1","th":"ผมคือคนเดียวในโลก"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallFisherman_Elliot_Intro2","th":"ที่จับโปเกมอนยักษ์ได้!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Isaiah_Strategy","th":"ใช้สภาพแวดล้อมให้เป็น!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Isaiah_Pokemon","th":"ประเภทน้ำจงเจริญ!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Isaiah_Pokemon","th":"ประเภท WATER จงเจริญ!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Isaiah_Intro1","th":"ผมไม่มีวันแพ้"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Isaiah_Intro2","th":"นักว่ายน้ำจอมเอื่อยหรอก!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Maria_Strategy","th":"ความเร็วมาก่อน!"}
@@ -361,19 +361,19 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Dylan_Intro1","th":"ถ้าวิ่งไปเรื่อย ๆ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Dylan_Intro2","th":"จะเป็นหนึ่งเดียวกับลม"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Katelyn_Strategy","th":"บุกเต็มกำลัง!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Katelyn_Pokemon","th":"โปเกมอนน้ำสุดยอด!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Katelyn_Pokemon","th":"โปเกมอน WATER สุดยอด!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Katelyn_Intro1","th":"ฉันต้องว่ายน้ำวันละ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Katelyn_Intro2","th":"เกือบ 10 กิโลเมตร"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Benjamin_Strategy","th":"ดันแล้วดันอีก!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Benjamin_Pokemon","th":"พลังแห่งเหล็ก"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Benjamin_Pokemon","th":"พลังแห่ง STEEL"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Benjamin_Intro1","th":"ถ้าเหงื่อออก ต้อง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Benjamin_Intro2","th":"ดื่มน้ำเป็นประจำนะ"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Pablo_Strategy","th":"ดึงพลังแห่งน้ำ"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Pablo_Pokemon","th":"โปเกมอนน้ำที่ฝึกมาแกร่ง"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Pablo_Strategy","th":"ดึงพลังแห่ง WATER"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Pablo_Pokemon","th":"โปเกมอน WATER ที่ฝึกมาแกร่ง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Pablo_Intro1","th":"ฝึกโปเกมอนก็ดีอยู่"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTriathlete_Pablo_Intro2","th":"แต่อย่าละเลยตัวเองล่ะ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallDragonTamer_Nicolas_Strategy","th":"ทุกอย่างอยู่ที่พลังโปเกมอน!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallDragonTamer_Nicolas_Pokemon","th":"ดูพลังมังกรซะ!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallDragonTamer_Nicolas_Pokemon","th":"ดูพลังของ DRAGONS ซะ!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallDragonTamer_Nicolas_Intro1","th":"สักวันฉันจะเป็นตำนาน"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallDragonTamer_Nicolas_Intro2","th":"ในฐานะผู้แข็งแกร่งที่สุด!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBirdKeeper_Robert_Strategy","th":"จะโชว์เทคนิคให้ดู!"}
@@ -385,7 +385,7 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallNinjaBoy_Lao_Intro1","th":"ข้าฝึกฝนตนเอง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallNinjaBoy_Lao_Intro2","th":"เพื่อจะได้เป็นนินจา"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBattleGirl_Cyndy_Strategy","th":"จู่โจมก่อนคือผู้ชนะ!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallBattleGirl_Cyndy_Pokemon","th":"ประเภทต่อสู้ความเร็วสูง"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBattleGirl_Cyndy_Pokemon","th":"ประเภท FIGHTING ความเร็วสูง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBattleGirl_Cyndy_Intro1","th":"ถ้าโปเกมอนของฉันแพ้"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBattleGirl_Cyndy_Intro2","th":"ฉันจะสู้ต่อเอง!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallParasolLady_Madeline_Strategy","th":"ไปเลย โปเกมอนของฉัน!"}
@@ -393,7 +393,7 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallParasolLady_Madeline_Intro1","th":"รังสียูวีคือศัตรูของผิว"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallParasolLady_Madeline_Intro2","th":"ป้องกันไว้ด้วยนะ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Jenny_Strategy","th":"ไม่มีปรานี!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Jenny_Pokemon","th":"โปเกมอนน้ำน่ารัก"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Jenny_Pokemon","th":"โปเกมอน WATER น่ารัก"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Jenny_Intro1","th":"แฟนคลับฉันเยอะเกินไป"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSwimmer_Jenny_Intro2","th":"เคยออกทีวีด้วยนะ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallPicnicker_Diana_Strategy","th":"คิดโน่นคิดนี่ไปเรื่อย"}
@@ -405,11 +405,11 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTwins_AmyAndLiv_Intro1","th":"เราชอบโปเกมอนเหมือนกัน"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTwins_AmyAndLiv_Intro2","th":"แต่ชอบของหวานต่างกัน"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Ernest_Strategy","th":"ใช้พลังลุยตรง ๆ!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Ernest_Pokemon","th":"ประเภทน้ำและต่อสู้"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Ernest_Pokemon","th":"ประเภท WATER และ FIGHTING"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Ernest_Intro1","th":"ชาวเรือใจห้าวทั้งนั้น!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Ernest_Intro2","th":"มีปัญหาอะไรไหม?"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Cory_Strategy","th":"พร้อมสู้ทุกเมื่อ!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Cory_Pokemon","th":"ชอบโปเกมอนน้ำที่สุด!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Cory_Pokemon","th":"ชอบโปเกมอน WATER ที่สุด!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Cory_Intro1","th":"ถ้าอยากตะโกนเสียงดัง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSailor_Cory_Intro2","th":"ต้องสูดลมเข้าท้อง!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallCollector_Edwin_Strategy","th":"ปกป้องโปเกมอนจากอันตราย"}
@@ -441,9 +441,9 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallLass_Haley_Intro1","th":"หลังต่อสู้ ฉันจะอาบน้ำ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallLass_Haley_Intro2","th":"กับโปเกมอนทุกครั้ง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallBugCatcher_James_Strategy","th":"โจมตีเร็วปานสายฟ้า!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugCatcher_James_Pokemon","th":"โปเกมอนแมลงเบอร์ 1!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugCatcher_James_Intro1","th":"ถ้าอยากจับโปเกมอน"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugCatcher_James_Intro2","th":"แมลง ต้องตื่นแต่เช้า"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugCatcher_James_Pokemon","th":"โปเกมอน BUG เบอร์ 1!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugCatcher_James_Intro1","th":"ถ้าอยากจับโปเกมอน BUG"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallBugCatcher_James_Intro2","th":"ต้องตื่นแต่เช้า"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallHiker_Trent_Strategy","th":"สู้ด้วยพลัง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallHiker_Trent_Pokemon","th":"โปเกมอนตัวแข็ง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallHiker_Trent_Intro1","th":"วางแผนมาเป็นเดือน"}
@@ -460,12 +460,12 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnTrainer_Wally_Pokemon","th":"โปเกมอนตัวแรกที่ผมจับ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnTrainer_Wally_Intro1","th":"ผมกับโปเกมอน"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallPkmnTrainer_Wally_Intro2","th":"แข็งแกร่งขึ้นด้วยกันครับ"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallRockinWhiz_Roxanne_Strategy","th":"โจมตีแรงด้วยประเภทหิน"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallRockinWhiz_Roxanne_Strategy","th":"โจมตีแรงด้วยประเภท ROCK"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallRockinWhiz_Roxanne_Pokemon","th":"ชอบโปเกมอนแข็งดั่งหิน"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallRockinWhiz_Roxanne_Intro1","th":"หัวหน้ายิมใหญ่ต้องแบก"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallRockinWhiz_Roxanne_Intro2","th":"ความรับผิดชอบมากค่ะ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTheBigHit_Brawly_Strategy","th":"ลุยตรง ๆ ด้วยร่างกาย!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallTheBigHit_Brawly_Pokemon","th":"โปเกมอนต่อสู้สุดยอด!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallTheBigHit_Brawly_Pokemon","th":"โปเกมอน FIGHTING สุดยอด!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTheBigHit_Brawly_Intro1","th":"โลกกำลังรอผมในฐานะ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallTheBigHit_Brawly_Intro2","th":"คลื่นลูกใหญ่ลูกต่อไป!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallSwellShock_Wattson_Strategy","th":"ข้าเลือกช็อตไฟฟ้า"}
@@ -493,7 +493,7 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallDandyCharm_Juan_Intro1","th":"เสียงชื่นชมจากสาวงาม"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallDandyCharm_Juan_Intro2","th":"เติมพลังให้ผมครับ!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Sidney_Strategy","th":"บุกดีกว่ารับ!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Sidney_Pokemon","th":"ความงามแห่งด้านมืด"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Sidney_Pokemon","th":"ความงามแห่งฝั่ง DARK"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Sidney_Intro1","th":"เคยโดนว่าเป็นนักเลง แต่"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Sidney_Intro2","th":"ข้าคือจตุรเทพเว้ย!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Phoebe_Strategy","th":"ทำให้งงและสับสน"}
@@ -501,14 +501,754 @@
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Phoebe_Intro1","th":"ยายของฉันที่"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Phoebe_Intro2","th":"ภูเขาส่งวิญญาณสบายดีไหมนะ?"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Glacia_Strategy","th":"ใช้ไอเท็มช่วย"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Glacia_Pokemon","th":"ความร้อนแรงในความเย็นเฉียบ!"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Glacia_Intro1","th":"ประเภทน้ำแข็งจะฝึกได้ดี"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Glacia_Pokemon","th":"เร่าร้อนในความเย็นเฉียบ!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Glacia_Intro1","th":"ประเภท ICE จะฝึกได้ดี"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Glacia_Intro2","th":"ขึ้นในดินแดนร้อนแห่งนี้"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Drake_Strategy","th":"ใช้คุณสมบัติที่แข็งแกร่ง"}
-{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Drake_Pokemon","th":"พลังดิบของมังกร!"}
+{"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Drake_Pokemon","th":"พลังดิบของ DRAGONS!"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Drake_Intro1","th":"ข้าอุทิศตนให้แก่"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallEliteFour_Drake_Intro2","th":"โปเกมอนที่ช่วยชีวิตข้า"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallChampion_Wallace_Strategy","th":"ศักดิ์ศรีและความเคารพ"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallChampion_Wallace_Pokemon","th":"ชอบโปเกมอนที่สง่างาม"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallChampion_Wallace_Intro1","th":"ผมเป็นตัวแทนของทั้ง"}
 {"id":"src/data/text/match_call_messages.h#gText_MatchCallChampion_Wallace_Intro2","th":"ความงามและสติปัญญาครับ"}
+{"id":"src/data/text/move_descriptions.h#sPoundDescription","th":"ทุบคู่ต่อสู้ด้วย\\nขาหน้าหรือหาง"}
+{"id":"src/data/text/move_descriptions.h#sKarateChopDescription","th":"สับด้วยสันมือ\\nมีโอกาสติดคริติคอลสูง"}
+{"id":"src/data/text/move_descriptions.h#sDoubleSlapDescription","th":"ตบคู่ต่อสู้ซ้ำ ๆ\\n2-5 ครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sCometPunchDescription","th":"ต่อยคู่ต่อสู้ซ้ำ ๆ\\n2-5 ครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sMegaPunchDescription","th":"หมัดหนักที่ปล่อยออกไป\\nด้วยพลังมหาศาล"}
+{"id":"src/data/text/move_descriptions.h#sPayDayDescription","th":"ขว้างเหรียญใส่คู่ต่อสู้\\nเก็บเงินได้หลังจบการต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sFirePunchDescription","th":"หมัดเพลิงที่อาจทำให้\\nคู่ต่อสู้เกิดแผลไฟไหม้"}
+{"id":"src/data/text/move_descriptions.h#sIcePunchDescription","th":"หมัดเยือกแข็งที่อาจ\\nทำให้คู่ต่อสู้แข็ง"}
+{"id":"src/data/text/move_descriptions.h#sThunderPunchDescription","th":"หมัดไฟฟ้าที่อาจทำให้\\nคู่ต่อสู้เป็นอัมพาต"}
+{"id":"src/data/text/move_descriptions.h#sScratchDescription","th":"ข่วนคู่ต่อสู้ด้วย\\nกรงเล็บแหลมคม"}
+{"id":"src/data/text/move_descriptions.h#sViceGripDescription","th":"หนีบคู่ต่อสู้ด้วย\\nก้ามใหญ่ทรงพลัง"}
+{"id":"src/data/text/move_descriptions.h#sGuillotineDescription","th":"หนีบด้วยก้ามอันทรงพลัง\\nอาจทำให้หมดสภาพทันที"}
+{"id":"src/data/text/move_descriptions.h#sRazorWindDescription","th":"ท่า 2 เทิร์นที่โจมตี\\nคู่ต่อสู้ในเทิร์นที่ 2"}
+{"id":"src/data/text/move_descriptions.h#sSwordsDanceDescription","th":"ร่ายรำนักรบเพื่อ\\nเพิ่มพลังโจมตีอย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sCutDescription","th":"ฟันคู่ต่อสู้ด้วยเคียว\\nหรือกรงเล็บคม"}
+{"id":"src/data/text/move_descriptions.h#sGustDescription","th":"ตีปีกสร้างลมกระโชก\\nพัดใส่คู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sWingAttackDescription","th":"กางปีกกว้าง\\nแล้วฟาดใส่คู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sWhirlwindDescription","th":"เป่าลมพัดคู่ต่อสู้\\nกระเด็นไปจนจบการต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sFlyDescription","th":"บินขึ้นในเทิร์นแรก\\nแล้วโจมตีในเทิร์นถัดไป"}
+{"id":"src/data/text/move_descriptions.h#sBindDescription","th":"รัดและบีบคู่ต่อสู้\\nเป็นเวลา 2-5 เทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sSlamDescription","th":"ฟาดคู่ต่อสู้ด้วยหางยาว\\nหรือเถาวัลย์"}
+{"id":"src/data/text/move_descriptions.h#sVineWhipDescription","th":"หวดคู่ต่อสู้ด้วย\\nเถาวัลย์เรียวยาวดั่งแส้"}
+{"id":"src/data/text/move_descriptions.h#sStompDescription","th":"กระทืบด้วยเท้าใหญ่\\nอาจทำให้คู่ต่อสู้ชะงัก"}
+{"id":"src/data/text/move_descriptions.h#sDoubleKickDescription","th":"เตะสองครั้งติดกัน\\nใส่คู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sMegaKickDescription","th":"ลูกเตะที่ทรงพลังสุดขีด\\nด้วยแรงมหาศาล"}
+{"id":"src/data/text/move_descriptions.h#sJumpKickDescription","th":"กระโดดเตะอย่างแรง\\nถ้าพลาดผู้เตะจะเจ็บเอง"}
+{"id":"src/data/text/move_descriptions.h#sRollingKickDescription","th":"หมุนตัวเร็วแล้ว\\nเตะอย่างรวดเร็ว"}
+{"id":"src/data/text/move_descriptions.h#sSandAttackDescription","th":"สาดทรายใส่หน้าคู่ต่อสู้\\nเพื่อลดความแม่นยำ"}
+{"id":"src/data/text/move_descriptions.h#sHeadbuttDescription","th":"พุ่งชนด้วยหัว\\nอาจทำให้คู่ต่อสู้ชะงัก"}
+{"id":"src/data/text/move_descriptions.h#sHornAttackDescription","th":"แทงคู่ต่อสู้ด้วย\\nเขาแหลมคม"}
+{"id":"src/data/text/move_descriptions.h#sFuryAttackDescription","th":"แทงคู่ต่อสู้ด้วยเขาแหลม\\n2-5 ครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sHornDrillDescription","th":"ใช้เขาเป็นสว่านเจาะ\\nทำให้หมดสภาพในครั้งเดียว"}
+{"id":"src/data/text/move_descriptions.h#sTackleDescription","th":"พุ่งชนคู่ต่อสู้\\nด้วยทั้งตัว"}
+{"id":"src/data/text/move_descriptions.h#sBodySlamDescription","th":"ทุ่มทั้งตัวทับคู่ต่อสู้\\nอาจทำให้เป็นอัมพาต"}
+{"id":"src/data/text/move_descriptions.h#sWrapDescription","th":"ใช้เถาวัลย์หรือลำตัวพันรัด\\nคู่ต่อสู้ 2-5 ครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sTakeDownDescription","th":"พุ่งชนอย่างบ้าบิ่น\\nผู้ใช้ก็เจ็บตัวด้วย"}
+{"id":"src/data/text/move_descriptions.h#sThrashDescription","th":"อาละวาด 2-3 เทิร์น\\nแล้วผู้ใช้จะสับสน"}
+{"id":"src/data/text/move_descriptions.h#sDoubleEdgeDescription","th":"พุ่งชนแบบเอาชีวิตเข้าแลก\\nผู้ใช้ก็เจ็บตัวด้วย"}
+{"id":"src/data/text/move_descriptions.h#sTailWhipDescription","th":"กระดิกหางเพื่อลด\\nพลังป้องกันของคู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sPoisonStingDescription","th":"โจมตีด้วยเหล็กในพิษ\\nอาจทำให้ติดพิษ"}
+{"id":"src/data/text/move_descriptions.h#sTwineedleDescription","th":"แทงด้วยเหล็กในที่ขาหน้า\\nใส่คู่ต่อสู้สองครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sPinMissileDescription","th":"ยิงเข็มแหลมใส่\\n2-5 ครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sLeerDescription","th":"จ้องเขม็งให้คู่ต่อสู้กลัว\\nเพื่อลดพลังป้องกัน"}
+{"id":"src/data/text/move_descriptions.h#sBiteDescription","th":"กัดด้วยเขี้ยวดุร้าย\\nอาจทำให้คู่ต่อสู้ชะงัก"}
+{"id":"src/data/text/move_descriptions.h#sGrowlDescription","th":"ร้องขู่แบบน่ารักเพื่อลด\\nพลังโจมตีของคู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sRoarDescription","th":"ทำให้คู่ต่อสู้หนีไป\\nจบการต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sSingDescription","th":"เพลงกล่อมอ่อนหวานทำให้\\nคู่ต่อสู้หลับสนิท"}
+{"id":"src/data/text/move_descriptions.h#sSupersonicDescription","th":"ปล่อยคลื่นเสียงประหลาด\\nที่อาจทำให้คู่ต่อสู้สับสน"}
+{"id":"src/data/text/move_descriptions.h#sSonicBoomDescription","th":"ปล่อยคลื่นกระแทก\\nทำความเสียหาย 20 HP เสมอ"}
+{"id":"src/data/text/move_descriptions.h#sDisableDescription","th":"ใช้พลังจิตผนึกท่า\\nของคู่ต่อสู้ไว้ 1 ท่า"}
+{"id":"src/data/text/move_descriptions.h#sAcidDescription","th":"พ่นกรดกัดผิวหนัง\\nอาจลดพลังป้องกัน"}
+{"id":"src/data/text/move_descriptions.h#sEmberDescription","th":"โจมตีด้วยไฟอ่อน ๆ\\nที่อาจทำให้เกิดแผลไฟไหม้"}
+{"id":"src/data/text/move_descriptions.h#sFlamethrowerDescription","th":"โจมตีด้วยไฟรุนแรง\\nที่อาจทำให้เกิดแผลไฟไหม้"}
+{"id":"src/data/text/move_descriptions.h#sMistDescription","th":"สร้างหมอกที่ป้องกัน\\nไม่ให้ค่าสถานะลดลง"}
+{"id":"src/data/text/move_descriptions.h#sWaterGunDescription","th":"พ่นน้ำใส่\\nคู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sHydroPumpDescription","th":"ฉีดน้ำแรงดันสูง\\nใส่คู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sSurfDescription","th":"สร้างคลื่นยักษ์\\nแล้วซัดใส่คู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sIceBeamDescription","th":"ยิงลำแสงเยือกแข็งใส่\\nคู่ต่อสู้ อาจทำให้แข็ง"}
+{"id":"src/data/text/move_descriptions.h#sBlizzardDescription","th":"โจมตีด้วยพายุหิมะ\\nอาจทำให้คู่ต่อสู้แข็ง"}
+{"id":"src/data/text/move_descriptions.h#sPsybeamDescription","th":"ยิงลำแสงประหลาดที่\\nอาจทำให้คู่ต่อสู้สับสน"}
+{"id":"src/data/text/move_descriptions.h#sBubbleBeamDescription","th":"พ่นฟองอากาศอย่างแรง\\nอาจลดความเร็ว"}
+{"id":"src/data/text/move_descriptions.h#sAuroraBeamDescription","th":"ยิงลำแสงสีรุ้งที่\\nอาจลดพลังโจมตี"}
+{"id":"src/data/text/move_descriptions.h#sHyperBeamDescription","th":"ทรงพลัง แต่ผู้ใช้จะ\\nขยับไม่ได้ในเทิร์นถัดไป"}
+{"id":"src/data/text/move_descriptions.h#sPeckDescription","th":"จิกคู่ต่อสู้ด้วย\\nจะงอยปาก"}
+{"id":"src/data/text/move_descriptions.h#sDrillPeckDescription","th":"หมุนตัวโจมตีโดยใช้\\nจะงอยปากเป็นสว่าน"}
+{"id":"src/data/text/move_descriptions.h#sSubmissionDescription","th":"ทุ่มตัวใส่อย่างบ้าบิ่น\\nผู้ใช้ก็เจ็บตัวด้วย"}
+{"id":"src/data/text/move_descriptions.h#sLowKickDescription","th":"ลูกเตะที่ยิ่งแรงขึ้น\\nเมื่อคู่ต่อสู้ตัวหนัก"}
+{"id":"src/data/text/move_descriptions.h#sCounterDescription","th":"สวนกลับการโจมตีกายภาพ\\nด้วยพลังสองเท่า"}
+{"id":"src/data/text/move_descriptions.h#sSeismicTossDescription","th":"สร้างความเสียหาย\\nเท่ากับเลเวลของผู้ใช้"}
+{"id":"src/data/text/move_descriptions.h#sStrengthDescription","th":"รวบรวมพลังมหาศาล\\nแล้วกระแทกคู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sAbsorbDescription","th":"โจมตีและดูดซับ HP\\nครึ่งหนึ่งของความเสียหาย"}
+{"id":"src/data/text/move_descriptions.h#sMegaDrainDescription","th":"โจมตีและดูดซับ HP\\nครึ่งหนึ่งของความเสียหาย"}
+{"id":"src/data/text/move_descriptions.h#sLeechSeedDescription","th":"ฝังเมล็ดบนตัวคู่ต่อสู้\\nดูด HP ทุกเทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sGrowthDescription","th":"เร่งร่างกายให้เติบโต\\nเพิ่มพลังโจมตีพิเศษ"}
+{"id":"src/data/text/move_descriptions.h#sRazorLeafDescription","th":"ฟันด้วยใบไม้คม\\nมีโอกาสติดคริติคอลสูง"}
+{"id":"src/data/text/move_descriptions.h#sSolarBeamDescription","th":"ดูดซับแสงในเทิร์นแรก\\nแล้วโจมตีในเทิร์นถัดไป"}
+{"id":"src/data/text/move_descriptions.h#sPoisonPowderDescription","th":"โปรยผงพิษที่อาจ\\nทำให้คู่ต่อสู้ติดพิษ"}
+{"id":"src/data/text/move_descriptions.h#sStunSporeDescription","th":"โปรยผงที่อาจทำให้\\nคู่ต่อสู้เป็นอัมพาต"}
+{"id":"src/data/text/move_descriptions.h#sSleepPowderDescription","th":"โปรยผงที่อาจทำให้\\nคู่ต่อสู้หลับ"}
+{"id":"src/data/text/move_descriptions.h#sPetalDanceDescription","th":"อาละวาด 2-3 เทิร์น\\nแล้วผู้ใช้จะสับสน"}
+{"id":"src/data/text/move_descriptions.h#sStringShotDescription","th":"พ่นใยมัดคู่ต่อสู้\\nเพื่อลดความเร็ว"}
+{"id":"src/data/text/move_descriptions.h#sDragonRageDescription","th":"ปล่อยคลื่นกระแทก\\nทำความเสียหาย 40 HP เสมอ"}
+{"id":"src/data/text/move_descriptions.h#sFireSpinDescription","th":"ขังคู่ต่อสู้ในวงไฟ\\nเป็นเวลา 2-5 เทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sThunderShockDescription","th":"โจมตีด้วยไฟฟ้าที่อาจ\\nทำให้คู่ต่อสู้เป็นอัมพาต"}
+{"id":"src/data/text/move_descriptions.h#sThunderboltDescription","th":"โจมตีด้วยไฟฟ้ารุนแรง\\nอาจทำให้คู่ต่อสู้เป็นอัมพาต"}
+{"id":"src/data/text/move_descriptions.h#sThunderWaveDescription","th":"ปล่อยกระแสไฟฟ้าอ่อน ๆ\\nทำให้คู่ต่อสู้เป็นอัมพาต"}
+{"id":"src/data/text/move_descriptions.h#sThunderDescription","th":"ผ่าด้วยสายฟ้าที่อาจ\\nทำให้เป็นอัมพาต"}
+{"id":"src/data/text/move_descriptions.h#sRockThrowDescription","th":"ขว้างก้อนหินเล็ก ๆ\\nใส่คู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sEarthquakeDescription","th":"แผ่นดินไหวรุนแรง แต่ไม่มี\\nผลกับคู่ต่อสู้ที่บินอยู่"}
+{"id":"src/data/text/move_descriptions.h#sFissureDescription","th":"ทำให้คู่ต่อสู้ตกลงรอยแยก\\nหมดสภาพในครั้งเดียว"}
+{"id":"src/data/text/move_descriptions.h#sDigDescription","th":"มุดดินในเทิร์นแรก\\nแล้วโจมตีในเทิร์นถัดไป"}
+{"id":"src/data/text/move_descriptions.h#sToxicDescription","th":"ทำให้คู่ต่อสู้ติดพิษ\\nที่รุนแรงขึ้นเรื่อย ๆ"}
+{"id":"src/data/text/move_descriptions.h#sConfusionDescription","th":"โจมตีด้วยพลังจิตที่\\nอาจทำให้สับสน"}
+{"id":"src/data/text/move_descriptions.h#sPsychicDescription","th":"โจมตีด้วยพลังจิตรุนแรง\\nอาจลดพลังป้องกันพิเศษ"}
+{"id":"src/data/text/move_descriptions.h#sHypnosisDescription","th":"สะกดจิตที่อาจ\\nทำให้คู่ต่อสู้หลับ"}
+{"id":"src/data/text/move_descriptions.h#sMeditateDescription","th":"ทำสมาธิอย่างสงบ\\nเพื่อเพิ่มพลังโจมตี"}
+{"id":"src/data/text/move_descriptions.h#sAgilityDescription","th":"ผ่อนคลายร่างกายเพื่อ\\nเพิ่มความเร็วอย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sQuickAttackDescription","th":"โจมตีเร็วสุดขีด\\nที่ได้โจมตีก่อนเสมอ"}
+{"id":"src/data/text/move_descriptions.h#sRageDescription","th":"พลังโจมตีของผู้ใช้เพิ่มขึ้น\\nทุกครั้งที่ถูกโจมตี"}
+{"id":"src/data/text/move_descriptions.h#sTeleportDescription","th":"ใช้พลังจิตหนี\\nออกจากการต่อสู้ทันที"}
+{"id":"src/data/text/move_descriptions.h#sNightShadeDescription","th":"สร้างความเสียหาย\\nเท่ากับเลเวลของผู้ใช้"}
+{"id":"src/data/text/move_descriptions.h#sMimicDescription","th":"ลอกเลียนท่าที่คู่ต่อสู้ใช้\\nได้ตลอดการต่อสู้นั้น"}
+{"id":"src/data/text/move_descriptions.h#sScreechDescription","th":"กรีดเสียงแหลมเพื่อลด\\nพลังป้องกันคู่ต่อสู้อย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sDoubleTeamDescription","th":"สร้างร่างแยกลวงตา\\nเพื่อเพิ่มอัตราหลบหลีก"}
+{"id":"src/data/text/move_descriptions.h#sRecoverDescription","th":"ฟื้นฟู HP ได้มากสุด\\nครึ่งหนึ่งของ HP สูงสุด"}
+{"id":"src/data/text/move_descriptions.h#sHardenDescription","th":"เกร็งกล้ามเนื้อ\\nเพื่อเพิ่มพลังป้องกัน"}
+{"id":"src/data/text/move_descriptions.h#sMinimizeDescription","th":"ย่อตัวให้เล็กลง\\nเพื่อเพิ่มอัตราหลบหลีก"}
+{"id":"src/data/text/move_descriptions.h#sSmokescreenDescription","th":"ใช้ควันหรือหมึก\\nลดความแม่นยำของคู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sConfuseRayDescription","th":"ลำแสงชั่วร้ายที่\\nทำให้คู่ต่อสู้สับสน"}
+{"id":"src/data/text/move_descriptions.h#sWithdrawDescription","th":"หดตัวเข้ากระดองแข็ง\\nเพื่อเพิ่มพลังป้องกัน"}
+{"id":"src/data/text/move_descriptions.h#sDefenseCurlDescription","th":"ขดตัวซ่อนจุดอ่อน\\nเพื่อเพิ่มพลังป้องกัน"}
+{"id":"src/data/text/move_descriptions.h#sBarrierDescription","th":"สร้างกำแพงที่เพิ่ม\\nพลังป้องกันอย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sLightScreenDescription","th":"สร้างกำแพงแสงที่ลด\\nความเสียหายจากท่าพิเศษ"}
+{"id":"src/data/text/move_descriptions.h#sHazeDescription","th":"สร้างหมอกดำที่ลบ\\nการเปลี่ยนค่าสถานะทั้งหมด"}
+{"id":"src/data/text/move_descriptions.h#sReflectDescription","th":"สร้างม่านแสงที่ลด\\nความเสียหายจากท่ากายภาพ"}
+{"id":"src/data/text/move_descriptions.h#sFocusEnergyDescription","th":"รวบรวมพลังเพื่อเพิ่ม\\nโอกาสติดคริติคอล"}
+{"id":"src/data/text/move_descriptions.h#sBideDescription","th":"อดทนรับการโจมตี 2 เทิร์น\\nแล้วสวนกลับสองเท่า"}
+{"id":"src/data/text/move_descriptions.h#sMetronomeDescription","th":"กระดิกนิ้วเพื่อสุ่มใช้\\nท่าของโปเกมอนท่าใดก็ได้"}
+{"id":"src/data/text/move_descriptions.h#sMirrorMoveDescription","th":"สวนกลับด้วยท่าเดียวกับ\\nที่คู่ต่อสู้ใช้"}
+{"id":"src/data/text/move_descriptions.h#sSelfDestructDescription","th":"สร้างความเสียหายรุนแรง\\nแต่ผู้ใช้จะหมดสภาพ"}
+{"id":"src/data/text/move_descriptions.h#sEggBombDescription","th":"ขว้างไข่ใส่\\nคู่ต่อสู้อย่างแรง"}
+{"id":"src/data/text/move_descriptions.h#sLickDescription","th":"เลียด้วยลิ้นยาว\\nอาจทำให้เป็นอัมพาต"}
+{"id":"src/data/text/move_descriptions.h#sSmogDescription","th":"โจมตีด้วยควันพิษ\\nอาจทำให้ติดพิษ"}
+{"id":"src/data/text/move_descriptions.h#sSludgeDescription","th":"ขว้างโคลนพิษใส่\\nอาจทำให้ติดพิษ"}
+{"id":"src/data/text/move_descriptions.h#sBoneClubDescription","th":"ฟาดคู่ต่อสู้ด้วยกระดูก\\nอาจทำให้ชะงัก"}
+{"id":"src/data/text/move_descriptions.h#sFireBlastDescription","th":"เผาทุกสิ่งที่โดน\\nอาจทำให้เกิดแผลไฟไหม้"}
+{"id":"src/data/text/move_descriptions.h#sWaterfallDescription","th":"พุ่งชนด้วยความเร็ว\\nที่ปีนน้ำตกได้"}
+{"id":"src/data/text/move_descriptions.h#sClampDescription","th":"หนีบและรัดคู่ต่อสู้\\nเป็นเวลา 2-5 เทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sSwiftDescription","th":"ยิงแสงรูปดาว\\nที่ไม่มีวันพลาด"}
+{"id":"src/data/text/move_descriptions.h#sSkullBashDescription","th":"หดหัวเตรียมตัว แล้ว\\nโจมตีในเทิร์นถัดไป"}
+{"id":"src/data/text/move_descriptions.h#sSpikeCannonDescription","th":"ยิงหนามแหลม\\n2-5 ครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sConstrictDescription","th":"รัดให้เจ็บปวด\\nอาจลดความเร็ว"}
+{"id":"src/data/text/move_descriptions.h#sAmnesiaDescription","th":"ลืมบางอย่างไป แล้วเพิ่ม\\nพลังป้องกันพิเศษอย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sKinesisDescription","th":"หันเหความสนใจคู่ต่อสู้\\nอาจลดความแม่นยำ"}
+{"id":"src/data/text/move_descriptions.h#sSoftBoiledDescription","th":"ฟื้นฟู HP ได้มากสุด\\nครึ่งหนึ่งของ HP สูงสุด"}
+{"id":"src/data/text/move_descriptions.h#sHiJumpKickDescription","th":"กระโดดเตะด้วยเข่า\\nถ้าพลาดผู้ใช้จะเจ็บเอง"}
+{"id":"src/data/text/move_descriptions.h#sGlareDescription","th":"ข่มขู่จนคู่ต่อสู้กลัว\\nจนเป็นอัมพาต"}
+{"id":"src/data/text/move_descriptions.h#sDreamEaterDescription","th":"ดูด HP จากคู่ต่อสู้ที่หลับ\\nครึ่งหนึ่งของความเสียหาย"}
+{"id":"src/data/text/move_descriptions.h#sPoisonGasDescription","th":"ปล่อยแก๊สพิษคลุมคู่ต่อสู้\\nอาจทำให้ติดพิษ"}
+{"id":"src/data/text/move_descriptions.h#sBarrageDescription","th":"ขว้างวัตถุกลมใส่\\nคู่ต่อสู้ 2-5 ครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sLeechLifeDescription","th":"โจมตีและดูด HP\\nครึ่งหนึ่งของความเสียหาย"}
+{"id":"src/data/text/move_descriptions.h#sLovelyKissDescription","th":"ขอจูบด้วยหน้าตาน่ากลัว\\nทำให้คู่ต่อสู้หลับ"}
+{"id":"src/data/text/move_descriptions.h#sSkyAttackDescription","th":"หาจุดอ่อน แล้ว\\nโจมตีในเทิร์นถัดไป"}
+{"id":"src/data/text/move_descriptions.h#sTransformDescription","th":"เปลี่ยนเซลล์ของผู้ใช้\\nให้กลายเป็นร่างคู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sBubbleDescription","th":"โจมตีด้วยฟองอากาศ\\nอาจลดความเร็วคู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sDizzyPunchDescription","th":"หมัดเป็นจังหวะที่\\nอาจทำให้คู่ต่อสู้สับสน"}
+{"id":"src/data/text/move_descriptions.h#sSporeDescription","th":"โปรยสปอร์ที่ทำให้\\nคู่ต่อสู้หลับแน่นอน"}
+{"id":"src/data/text/move_descriptions.h#sFlashDescription","th":"ปล่อยแสงวาบรุนแรง\\nเพื่อลดความแม่นยำ"}
+{"id":"src/data/text/move_descriptions.h#sPsywaveDescription","th":"โจมตีด้วยคลื่นพลังจิต\\nที่มีความแรงไม่แน่นอน"}
+{"id":"src/data/text/move_descriptions.h#sSplashDescription","th":"แค่กระโดดดึ๋ง ๆ...\\nไม่เกิดผลใด ๆ ทั้งสิ้น"}
+{"id":"src/data/text/move_descriptions.h#sAcidArmorDescription","th":"เปลี่ยนร่างเป็นของเหลว\\nเพิ่มพลังป้องกันอย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sCrabhammerDescription","th":"ทุบด้วยก้าม\\nมีโอกาสติดคริติคอลสูง"}
+{"id":"src/data/text/move_descriptions.h#sExplosionDescription","th":"สร้างความเสียหายรุนแรง\\nแต่ผู้ใช้จะหมดสภาพ"}
+{"id":"src/data/text/move_descriptions.h#sFurySwipesDescription","th":"ข่วนด้วยกรงเล็บคม\\n2-5 ครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sBonemerangDescription","th":"ขว้างกระดูกบูมเมอแรง\\nโจมตีสองครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sRestDescription","th":"นอนหลับ 2 เทิร์น\\nเพื่อฟื้นฟู HP และสถานะ"}
+{"id":"src/data/text/move_descriptions.h#sRockSlideDescription","th":"ขว้างก้อนหินใหญ่ใส่\\nอาจทำให้ชะงัก"}
+{"id":"src/data/text/move_descriptions.h#sHyperFangDescription","th":"กัดด้วยเขี้ยวแหลมคม\\nอาจทำให้ชะงัก"}
+{"id":"src/data/text/move_descriptions.h#sSharpenDescription","th":"ลดจำนวนโพลีกอน\\nเพื่อเพิ่มพลังโจมตี"}
+{"id":"src/data/text/move_descriptions.h#sConversionDescription","th":"เปลี่ยนประเภทของผู้ใช้\\nเป็นประเภทของท่าที่รู้"}
+{"id":"src/data/text/move_descriptions.h#sTriAttackDescription","th":"ยิงลำแสงสามชนิด\\nพร้อมกัน"}
+{"id":"src/data/text/move_descriptions.h#sSuperFangDescription","th":"กัดด้วยเขี้ยวคม ลด HP\\nคู่ต่อสู้ลงครึ่งหนึ่ง"}
+{"id":"src/data/text/move_descriptions.h#sSlashDescription","th":"ฟันด้วยกรงเล็บ\\nมีโอกาสติดคริติคอลสูง"}
+{"id":"src/data/text/move_descriptions.h#sSubstituteDescription","th":"ใช้ HP 1/4 ของ HP สูงสุด\\nสร้างตัวแทน"}
+{"id":"src/data/text/move_descriptions.h#sStruggleDescription","th":"ใช้ได้เมื่อ PP หมดทุกท่า\\nผู้ใช้จะเจ็บตัวเล็กน้อย"}
+{"id":"src/data/text/move_descriptions.h#sSketchDescription","th":"ลอกท่าล่าสุดของ\\nคู่ต่อสู้มาใช้ถาวร"}
+{"id":"src/data/text/move_descriptions.h#sTripleKickDescription","th":"เตะ 3 ครั้งติดกัน\\nแรงขึ้นทุกครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sThiefDescription","th":"ขณะโจมตี อาจขโมย\\nไอเท็มที่คู่ต่อสู้ถืออยู่"}
+{"id":"src/data/text/move_descriptions.h#sSpiderWebDescription","th":"พันใยรัดคู่ต่อสู้\\nไม่ให้หนีหรือสลับตัว"}
+{"id":"src/data/text/move_descriptions.h#sMindReaderDescription","th":"อ่านความเคลื่อนไหวคู่ต่อสู้\\nให้ท่าถัดไปโดนแน่นอน"}
+{"id":"src/data/text/move_descriptions.h#sNightmareDescription","th":"สร้างความเสียหาย 1/4 ต่อ\\nคู่ต่อสู้ที่หลับทุกเทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sFlameWheelDescription","th":"พุ่งชนด้วยไฟที่อาจ\\nทำให้เกิดแผลไฟไหม้"}
+{"id":"src/data/text/move_descriptions.h#sSnoreDescription","th":"โจมตีเสียงดังที่\\nใช้ได้เฉพาะตอนหลับ"}
+{"id":"src/data/text/move_descriptions.h#sCurseDescription","th":"ท่าที่ให้ผลต่างออกไป\\nสำหรับ GHOSTS"}
+{"id":"src/data/text/move_descriptions.h#sFlailDescription","th":"ยิ่ง HP ผู้ใช้เหลือน้อย\\nยิ่งสร้างความเสียหายมาก"}
+{"id":"src/data/text/move_descriptions.h#sConversion2Description","th":"ทำให้ผู้ใช้ต้านทาน\\nประเภทของท่าที่โดนล่าสุด"}
+{"id":"src/data/text/move_descriptions.h#sAeroblastDescription","th":"ยิงลมสุญญากาศ\\nมีโอกาสติดคริติคอลสูง"}
+{"id":"src/data/text/move_descriptions.h#sCottonSporeDescription","th":"สปอร์เกาะติดคู่ต่อสู้\\nลดความเร็วอย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sReversalDescription","th":"ยิ่ง HP ผู้ใช้เหลือน้อย\\nยิ่งสร้างความเสียหายมาก"}
+{"id":"src/data/text/move_descriptions.h#sSpiteDescription","th":"ลด PP ของท่าล่าสุด\\nที่คู่ต่อสู้ใช้อย่างเจ็บแสบ"}
+{"id":"src/data/text/move_descriptions.h#sPowderSnowDescription","th":"เป่าหิมะใส่คู่ต่อสู้\\nอาจทำให้แข็ง"}
+{"id":"src/data/text/move_descriptions.h#sProtectDescription","th":"ป้องกันการโจมตี แต่อาจ\\nพลาดถ้าใช้ติดกัน"}
+{"id":"src/data/text/move_descriptions.h#sMachPunchDescription","th":"ต่อยด้วยความเร็วสูง\\nได้โจมตีก่อน"}
+{"id":"src/data/text/move_descriptions.h#sScaryFaceDescription","th":"ทำหน้าน่ากลัวเพื่อ\\nลดความเร็วคู่ต่อสู้อย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sFaintAttackDescription","th":"ล่อคู่ต่อสู้เข้ามาใกล้\\nแล้วโจมตีโดยไม่พลาด"}
+{"id":"src/data/text/move_descriptions.h#sSweetKissDescription","th":"ขอจูบด้วยท่าทางน่ารัก\\nอาจทำให้สับสน"}
+{"id":"src/data/text/move_descriptions.h#sBellyDrumDescription","th":"เพิ่มพลังโจมตีถึงขีดสุด\\nแลกกับ HP"}
+{"id":"src/data/text/move_descriptions.h#sSludgeBombDescription","th":"ขว้างโคลนพิษใส่\\nอาจทำให้ติดพิษ"}
+{"id":"src/data/text/move_descriptions.h#sMudSlapDescription","th":"สาดโคลนใส่หน้าคู่ต่อสู้\\nเพื่อลดความแม่นยำ"}
+{"id":"src/data/text/move_descriptions.h#sOctazookaDescription","th":"ยิงก้อนหมึกสร้างความเสียหาย\\nและลดความแม่นยำ"}
+{"id":"src/data/text/move_descriptions.h#sSpikesDescription","th":"วางหนามทำร้าย\\nคู่ต่อสู้ที่สลับตัวเข้ามา"}
+{"id":"src/data/text/move_descriptions.h#sZapCannonDescription","th":"ทรงพลัง ทำให้อัมพาตแน่นอน\\nแต่ความแม่นยำต่ำ"}
+{"id":"src/data/text/move_descriptions.h#sForesightDescription","th":"ทำให้การเพิ่มอัตราหลบหลีก\\nของคู่ต่อสู้ไร้ผล"}
+{"id":"src/data/text/move_descriptions.h#sDestinyBondDescription","th":"ถ้าผู้ใช้หมดสภาพ\\nคู่ต่อสู้จะหมดสภาพด้วย"}
+{"id":"src/data/text/move_descriptions.h#sPerishSongDescription","th":"โปเกมอนที่ได้ยินเพลงนี้\\nจะหมดสภาพใน 3 เทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sIcyWindDescription","th":"โจมตีด้วยความเย็นที่\\nลดความเร็วคู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sDetectDescription","th":"ป้องกันการโจมตี แต่อาจ\\nพลาดถ้าใช้ติดกัน"}
+{"id":"src/data/text/move_descriptions.h#sBoneRushDescription","th":"ถือกระดูกฟาดคู่ต่อสู้\\n2-5 ครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sLockOnDescription","th":"ล็อกเป้าคู่ต่อสู้\\nให้ท่าถัดไปโดนแน่นอน"}
+{"id":"src/data/text/move_descriptions.h#sOutrageDescription","th":"อาละวาด 2-3 เทิร์น\\nแล้วผู้ใช้จะสับสน"}
+{"id":"src/data/text/move_descriptions.h#sSandstormDescription","th":"ทำให้เกิดพายุทราย\\nที่โหมกระหน่ำหลายเทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sGigaDrainDescription","th":"โจมตีและดูด HP\\nครึ่งหนึ่งของความเสียหาย"}
+{"id":"src/data/text/move_descriptions.h#sEndureDescription","th":"ทนการโจมตีใด ๆ ได้ 1 เทิร์น\\nโดยเหลือ HP อย่างน้อย 1"}
+{"id":"src/data/text/move_descriptions.h#sCharmDescription","th":"ทำตัวมีเสน่ห์เพื่อลด\\nพลังโจมตีคู่ต่อสู้อย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sRolloutDescription","th":"โจมตีต่อเนื่อง 5 เทิร์น\\nแรงขึ้นเรื่อย ๆ"}
+{"id":"src/data/text/move_descriptions.h#sFalseSwipeDescription","th":"โจมตีโดยให้คู่ต่อสู้\\nเหลือ HP อย่างน้อย 1"}
+{"id":"src/data/text/move_descriptions.h#sSwaggerDescription","th":"ทำให้คู่ต่อสู้สับสน แต่\\nเพิ่มพลังโจมตีให้มันอย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sMilkDrinkDescription","th":"ฟื้นฟู HP ได้มากสุด\\nครึ่งหนึ่งของ HP สูงสุด"}
+{"id":"src/data/text/move_descriptions.h#sSparkDescription","th":"พุ่งชนด้วยไฟฟ้าที่อาจ\\nทำให้คู่ต่อสู้เป็นอัมพาต"}
+{"id":"src/data/text/move_descriptions.h#sFuryCutterDescription","th":"การโจมตีที่แรงขึ้น\\nทุกครั้งที่โดนติดกัน"}
+{"id":"src/data/text/move_descriptions.h#sSteelWingDescription","th":"ฟาดคู่ต่อสู้ด้วย\\nปีกแข็งที่กางกว้าง"}
+{"id":"src/data/text/move_descriptions.h#sMeanLookDescription","th":"จ้องด้วยสายตาดุร้าย\\nจนคู่ต่อสู้หนีไม่ได้"}
+{"id":"src/data/text/move_descriptions.h#sAttractDescription","th":"ทำให้เพศตรงข้าม\\nโจมตีได้ยากขึ้น"}
+{"id":"src/data/text/move_descriptions.h#sSleepTalkDescription","th":"สุ่มใช้ท่าที่มีอยู่\\nขณะหลับ"}
+{"id":"src/data/text/move_descriptions.h#sHealBellDescription","th":"สั่นกระดิ่งเสียงอ่อนโยน\\nรักษาสถานะผิดปกติทั้งหมด"}
+{"id":"src/data/text/move_descriptions.h#sReturnDescription","th":"การโจมตีที่แรงขึ้น\\nตามความสนิทสนม"}
+{"id":"src/data/text/move_descriptions.h#sPresentDescription","th":"ของขวัญในรูประเบิด\\nอาจฟื้นฟู HP"}
+{"id":"src/data/text/move_descriptions.h#sFrustrationDescription","th":"การโจมตีที่แรงขึ้น\\nถ้าไม่ชอบเทรนเนอร์"}
+{"id":"src/data/text/move_descriptions.h#sSafeguardDescription","th":"พลังลึกลับที่ป้องกัน\\nสถานะผิดปกติทั้งหมด"}
+{"id":"src/data/text/move_descriptions.h#sPainSplitDescription","th":"รวม HP ของผู้ใช้กับคู่ต่อสู้\\nแล้วแบ่งเท่า ๆ กัน"}
+{"id":"src/data/text/move_descriptions.h#sSacredFireDescription","th":"โจมตีด้วยไฟศักดิ์สิทธิ์\\nอาจทำให้เกิดแผลไฟไหม้"}
+{"id":"src/data/text/move_descriptions.h#sMagnitudeDescription","th":"เขย่าพื้นดิน\\nด้วยความแรงแบบสุ่ม"}
+{"id":"src/data/text/move_descriptions.h#sDynamicPunchDescription","th":"ทรงพลัง ทำให้สับสนแน่นอน\\nแต่ความแม่นยำต่ำ"}
+{"id":"src/data/text/move_descriptions.h#sMegahornDescription","th":"พุ่งชนอย่างดุเดือด\\nด้วยเขาที่ยื่นออกมา"}
+{"id":"src/data/text/move_descriptions.h#sDragonBreathDescription","th":"พ่นลมหายใจ\\nอันรุนแรงใส่คู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sBatonPassDescription","th":"สลับตัวผู้ใช้โดย\\nคงผลต่าง ๆ ไว้"}
+{"id":"src/data/text/move_descriptions.h#sEncoreDescription","th":"ให้คู่ต่อสู้ใช้ท่าล่าสุด\\nซ้ำ 2-6 เทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sPursuitDescription","th":"สร้างความเสียหายหนัก\\nถ้าคู่ต่อสู้กำลังสลับตัว"}
+{"id":"src/data/text/move_descriptions.h#sRapidSpinDescription","th":"หมุนตัวด้วยความเร็วสูง\\nโจมตีคู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sSweetScentDescription","th":"ล่อคู่ต่อสู้เพื่อลด\\nอัตราหลบหลีก"}
+{"id":"src/data/text/move_descriptions.h#sIronTailDescription","th":"ฟาดด้วยหางแข็งดั่งหิน\\nอาจลดพลังป้องกัน"}
+{"id":"src/data/text/move_descriptions.h#sMetalClawDescription","th":"โจมตีด้วยกรงเล็บ อาจ\\nเพิ่มพลังโจมตีของผู้ใช้"}
+{"id":"src/data/text/move_descriptions.h#sVitalThrowDescription","th":"ผู้ใช้จะโจมตีหลังสุด\\nแต่ไม่มีวันพลาด"}
+{"id":"src/data/text/move_descriptions.h#sMorningSunDescription","th":"ฟื้นฟู HP ปริมาณ\\nแตกต่างตามสภาพอากาศ"}
+{"id":"src/data/text/move_descriptions.h#sSynthesisDescription","th":"ฟื้นฟู HP ปริมาณ\\nแตกต่างตามสภาพอากาศ"}
+{"id":"src/data/text/move_descriptions.h#sMoonlightDescription","th":"ฟื้นฟู HP ปริมาณ\\nแตกต่างตามสภาพอากาศ"}
+{"id":"src/data/text/move_descriptions.h#sHiddenPowerDescription","th":"ผลของท่าจะแตกต่างกัน\\nไปตามผู้ใช้"}
+{"id":"src/data/text/move_descriptions.h#sCrossChopDescription","th":"สับด้วยมือทั้งสองข้าง\\nมีโอกาสติดคริติคอลสูง"}
+{"id":"src/data/text/move_descriptions.h#sTwisterDescription","th":"สร้างพายุหมุนรุนแรง\\nฉีกกระชากคู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sRainDanceDescription","th":"เพิ่มพลังท่าประเภท WATER\\nเป็นเวลา 5 เทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sSunnyDayDescription","th":"เพิ่มพลังท่าประเภท FIRE\\nเป็นเวลา 5 เทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sCrunchDescription","th":"ขบด้วยเขี้ยวแหลมคม\\nอาจลดพลังป้องกันพิเศษ"}
+{"id":"src/data/text/move_descriptions.h#sMirrorCoatDescription","th":"สวนกลับการโจมตีพิเศษ\\nด้วยพลังสองเท่า"}
+{"id":"src/data/text/move_descriptions.h#sPsychUpDescription","th":"ลอกผลการเปลี่ยนค่าสถานะ\\nของคู่ต่อสู้มาใช้เอง"}
+{"id":"src/data/text/move_descriptions.h#sExtremeSpeedDescription","th":"โจมตีที่รวดเร็ว\\nและทรงพลังสุดขีด"}
+{"id":"src/data/text/move_descriptions.h#sAncientPowerDescription","th":"การโจมตีที่อาจเพิ่ม\\nค่าสถานะทั้งหมด"}
+{"id":"src/data/text/move_descriptions.h#sShadowBallDescription","th":"ขว้างก้อนเงาดำใส่ อาจลด\\nพลังป้องกันพิเศษคู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sFutureSightDescription","th":"ปลุกพลังภายใน\\nโจมตีในอีก 2 เทิร์นต่อมา"}
+{"id":"src/data/text/move_descriptions.h#sRockSmashDescription","th":"โจมตีแรงจนหินแตก\\nอาจลดพลังป้องกัน"}
+{"id":"src/data/text/move_descriptions.h#sWhirlpoolDescription","th":"ขังและทำร้ายคู่ต่อสู้\\nในน้ำวน 2-5 เทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sBeatUpDescription","th":"เรียกโปเกมอนในทีม\\nมาร่วมโจมตี"}
+{"id":"src/data/text/move_descriptions.h#sFakeOutDescription","th":"ท่าโจมตีก่อนในเทิร์นแรก\\nทำให้คู่ต่อสู้ชะงัก"}
+{"id":"src/data/text/move_descriptions.h#sUproarDescription","th":"ส่งเสียงอึกทึก 2-5 เทิร์น\\nและกันไม่ให้ใครหลับ"}
+{"id":"src/data/text/move_descriptions.h#sStockpileDescription","th":"สะสมพลังได้\\nสูงสุด 3 เทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sSpitUpDescription","th":"ปล่อยพลังที่สะสมไว้\\n(ยิ่งสะสมมากยิ่งแรง)"}
+{"id":"src/data/text/move_descriptions.h#sSwallowDescription","th":"ดูดซับพลังที่สะสมไว้\\nเพื่อฟื้นฟู HP"}
+{"id":"src/data/text/move_descriptions.h#sHeatWaveDescription","th":"พ่นลมร้อนใส่คู่ต่อสู้\\nอาจทำให้เกิดแผลไฟไหม้"}
+{"id":"src/data/text/move_descriptions.h#sHailDescription","th":"เรียกพายุลูกเห็บ\\nที่โจมตีทุกเทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sTormentDescription","th":"ทรมานคู่ต่อสู้จน\\nใช้ท่าเดิมติดกันไม่ได้"}
+{"id":"src/data/text/move_descriptions.h#sFlatterDescription","th":"ทำให้คู่ต่อสู้สับสน แต่\\nเพิ่มพลังโจมตีพิเศษให้มัน"}
+{"id":"src/data/text/move_descriptions.h#sWillOWispDescription","th":"ทำให้คู่ต่อสู้เกิดแผล\\nไฟไหม้ด้วยเปลวไฟรุนแรง"}
+{"id":"src/data/text/move_descriptions.h#sMementoDescription","th":"ผู้ใช้หมดสภาพ และลด\\nค่าสถานะของคู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sFacadeDescription","th":"เพิ่มพลังโจมตีเมื่อ\\nติดไฟไหม้ อัมพาต หรือพิษ"}
+{"id":"src/data/text/move_descriptions.h#sFocusPunchDescription","th":"หมัดทรงพลังที่ต้องรวมสมาธิ\\nถ้าถูกโจมตีผู้ใช้จะชะงัก"}
+{"id":"src/data/text/move_descriptions.h#sSmellingSaltDescription","th":"แรงกับคู่ต่อสู้ที่เป็นอัมพาต\\nแต่ก็รักษาอัมพาตให้ด้วย"}
+{"id":"src/data/text/move_descriptions.h#sFollowMeDescription","th":"ดึงความสนใจให้คู่ต่อสู้\\nโจมตีแต่ผู้ใช้เท่านั้น"}
+{"id":"src/data/text/move_descriptions.h#sNaturePowerDescription","th":"ประเภทการโจมตีจะแตกต่าง\\nกันไปตามสถานที่"}
+{"id":"src/data/text/move_descriptions.h#sChargeDescription","th":"ชาร์จพลังเพื่อเพิ่ม\\nพลังท่าไฟฟ้าที่ใช้ถัดไป"}
+{"id":"src/data/text/move_descriptions.h#sTauntDescription","th":"ยั่วยุคู่ต่อสู้จน\\nใช้ได้เฉพาะท่าโจมตี"}
+{"id":"src/data/text/move_descriptions.h#sHelpingHandDescription","th":"เพิ่มพลังของท่า\\nที่เพื่อนร่วมทีมใช้"}
+{"id":"src/data/text/move_descriptions.h#sTrickDescription","th":"หลอกล่อคู่ต่อสู้ให้\\nแลกไอเท็มที่ถืออยู่"}
+{"id":"src/data/text/move_descriptions.h#sRolePlayDescription","th":"เลียนแบบเป้าหมาย\\nและลอกคุณสมบัติของมัน"}
+{"id":"src/data/text/move_descriptions.h#sWishDescription","th":"คำอธิษฐานที่ฟื้นฟู HP\\nต้องใช้เวลาจึงจะได้ผล"}
+{"id":"src/data/text/move_descriptions.h#sAssistDescription","th":"สุ่มใช้ท่าของ\\nโปเกมอนตัวอื่นในทีม"}
+{"id":"src/data/text/move_descriptions.h#sIngrainDescription","th":"หยั่งรากเพื่อฟื้นฟู HP\\nแต่ผู้ใช้จะสลับตัวไม่ได้"}
+{"id":"src/data/text/move_descriptions.h#sSuperpowerDescription","th":"เพิ่มพลังอย่างมาก\\nแต่ค่าสถานะจะลดลง"}
+{"id":"src/data/text/move_descriptions.h#sMagicCoatDescription","th":"สะท้อนผลพิเศษ\\nกลับไปยังผู้โจมตี"}
+{"id":"src/data/text/move_descriptions.h#sRecycleDescription","th":"นำไอเท็มที่ใช้แล้ว\\nกลับมาใช้ได้อีกครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sRevengeDescription","th":"การโจมตีที่แรงขึ้น\\nถ้าถูกคู่ต่อสู้ทำร้ายก่อน"}
+{"id":"src/data/text/move_descriptions.h#sBrickBreakDescription","th":"ทำลายกำแพงอย่าง REFLECT\\nแล้วสร้างความเสียหาย"}
+{"id":"src/data/text/move_descriptions.h#sYawnDescription","th":"หาวจนคู่ต่อสู้ง่วง\\nแล้วหลับในเทิร์นถัดไป"}
+{"id":"src/data/text/move_descriptions.h#sKnockOffDescription","th":"ปัดไอเท็มที่คู่ต่อสู้ถือ\\nให้ร่วงจนใช้ไม่ได้"}
+{"id":"src/data/text/move_descriptions.h#sEndeavorDescription","th":"แรงขึ้นถ้า HP ผู้ใช้\\nน้อยกว่า HP คู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sEruptionDescription","th":"ยิ่ง HP ผู้ใช้มาก\\nยิ่งสร้างความเสียหายมาก"}
+{"id":"src/data/text/move_descriptions.h#sSkillSwapDescription","th":"ผู้ใช้สลับคุณสมบัติ\\nกับเป้าหมาย"}
+{"id":"src/data/text/move_descriptions.h#sImprisonDescription","th":"ทำให้คู่ต่อสู้ใช้ท่า\\nที่ผู้ใช้รู้จักไม่ได้"}
+{"id":"src/data/text/move_descriptions.h#sRefreshDescription","th":"รักษาอาการพิษ อัมพาต\\nหรือแผลไฟไหม้"}
+{"id":"src/data/text/move_descriptions.h#sGrudgeDescription","th":"ถ้าผู้ใช้หมดสภาพ จะลบ PP\\nท่าล่าสุดของคู่ต่อสู้จนหมด"}
+{"id":"src/data/text/move_descriptions.h#sSnatchDescription","th":"ขโมยผลของท่าที่\\nเป้าหมายจะใช้ถัดไป"}
+{"id":"src/data/text/move_descriptions.h#sSecretPowerDescription","th":"การโจมตีที่ผลแตกต่าง\\nกันไปตามสถานที่"}
+{"id":"src/data/text/move_descriptions.h#sDiveDescription","th":"ดำน้ำในเทิร์นแรก\\nแล้วโจมตีในเทิร์นถัดไป"}
+{"id":"src/data/text/move_descriptions.h#sArmThrustDescription","th":"ต่อยแขนตรงใส่\\nคู่ต่อสู้ 2-5 ครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sCamouflageDescription","th":"เปลี่ยนประเภทของโปเกมอน\\nตามสถานที่"}
+{"id":"src/data/text/move_descriptions.h#sTailGlowDescription","th":"เปล่งแสงเพื่อเพิ่ม\\nพลังโจมตีพิเศษอย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sLusterPurgeDescription","th":"โจมตีด้วยแสงระเบิด\\nอาจลดพลังป้องกันพิเศษ"}
+{"id":"src/data/text/move_descriptions.h#sMistBallDescription","th":"โจมตีด้วยขนอ่อนฟุ้งกระจาย\\nอาจลดพลังโจมตีพิเศษ"}
+{"id":"src/data/text/move_descriptions.h#sFeatherDanceDescription","th":"คลุมคู่ต่อสู้ด้วยขนอ่อน\\nลดพลังโจมตีอย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sTeeterDanceDescription","th":"ทำให้โปเกมอนทุกตัว\\nในสนามสับสน"}
+{"id":"src/data/text/move_descriptions.h#sBlazeKickDescription","th":"ลูกเตะติดคริติคอลง่าย\\nอาจทำให้เกิดแผลไฟไหม้"}
+{"id":"src/data/text/move_descriptions.h#sMudSportDescription","th":"คลุกโคลนทั้งตัวเพื่อ\\nเพิ่มความต้านทานไฟฟ้า"}
+{"id":"src/data/text/move_descriptions.h#sIceBallDescription","th":"โจมตี 5 เทิร์นที่แรงขึ้น\\nทุกครั้งที่โดนติดกัน"}
+{"id":"src/data/text/move_descriptions.h#sNeedleArmDescription","th":"โจมตีด้วยแขนหนาม\\nอาจทำให้ชะงัก"}
+{"id":"src/data/text/move_descriptions.h#sSlackOffDescription","th":"อู้งานเพื่อฟื้นฟู HP\\nครึ่งหนึ่งของ HP สูงสุด"}
+{"id":"src/data/text/move_descriptions.h#sHyperVoiceDescription","th":"โจมตีเสียงดังที่ใช้\\nคลื่นเสียงทำร้าย"}
+{"id":"src/data/text/move_descriptions.h#sPoisonFangDescription","th":"กัดด้วยเขี้ยวแหลม\\nอาจทำให้ติดพิษร้าย"}
+{"id":"src/data/text/move_descriptions.h#sCrushClawDescription","th":"ฉีกด้วยกรงเล็บคม\\nอาจลดพลังป้องกัน"}
+{"id":"src/data/text/move_descriptions.h#sBlastBurnDescription","th":"ทรงพลัง แต่ผู้ใช้จะ\\nขยับไม่ได้ในเทิร์นถัดไป"}
+{"id":"src/data/text/move_descriptions.h#sHydroCannonDescription","th":"ทรงพลัง แต่ผู้ใช้จะ\\nขยับไม่ได้ในเทิร์นถัดไป"}
+{"id":"src/data/text/move_descriptions.h#sMeteorMashDescription","th":"ปล่อยหมัดดั่งดาวตก\\nอาจเพิ่มพลังโจมตี"}
+{"id":"src/data/text/move_descriptions.h#sAstonishDescription","th":"การโจมตีที่อาจทำให้\\nคู่ต่อสู้ตกใจจนชะงัก"}
+{"id":"src/data/text/move_descriptions.h#sWeatherBallDescription","th":"ประเภทและพลังของท่า\\nเปลี่ยนตามสภาพอากาศ"}
+{"id":"src/data/text/move_descriptions.h#sAromatherapyDescription","th":"รักษาสถานะผิดปกติทั้งหมด\\nด้วยกลิ่นหอมผ่อนคลาย"}
+{"id":"src/data/text/move_descriptions.h#sFakeTearsDescription","th":"แกล้งร้องไห้เพื่อลด\\nพลังป้องกันพิเศษอย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sAirCutterDescription","th":"ฟันด้วยลมคมกริบ\\nมีโอกาสติดคริติคอลสูง"}
+{"id":"src/data/text/move_descriptions.h#sOverheatDescription","th":"โจมตีเต็มกำลัง แต่พลังโจมตี\\nพิเศษจะลดลงอย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sOdorSleuthDescription","th":"ทำให้การเพิ่มอัตราหลบหลีก\\nของคู่ต่อสู้ไร้ผล"}
+{"id":"src/data/text/move_descriptions.h#sRockTombDescription","th":"ใช้หินขวางไม่ให้คู่ต่อสู้\\nขยับ และลดความเร็ว"}
+{"id":"src/data/text/move_descriptions.h#sSilverWindDescription","th":"โจมตีด้วยผงเกล็ด\\nอาจเพิ่มค่าสถานะ"}
+{"id":"src/data/text/move_descriptions.h#sMetalSoundDescription","th":"ส่งเสียงแหลมบาดหู\\nลดพลังป้องกันพิเศษอย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sGrassWhistleDescription","th":"บรรเลงทำนองไพเราะ\\nกล่อมคู่ต่อสู้ให้หลับ"}
+{"id":"src/data/text/move_descriptions.h#sTickleDescription","th":"ทำให้คู่ต่อสู้หัวเราะ\\nลดพลังโจมตีและพลังป้องกัน"}
+{"id":"src/data/text/move_descriptions.h#sCosmicPowerDescription","th":"ใช้พลังลึกลับเพิ่ม\\nพลังป้องกันและป้องกันพิเศษ"}
+{"id":"src/data/text/move_descriptions.h#sWaterSpoutDescription","th":"ยิ่ง HP ผู้ใช้สูง\\nยิ่งสร้างความเสียหายมาก"}
+{"id":"src/data/text/move_descriptions.h#sSignalBeamDescription","th":"ยิงลำแสงประหลาดที่\\nอาจทำให้คู่ต่อสู้สับสน"}
+{"id":"src/data/text/move_descriptions.h#sShadowPunchDescription","th":"หมัดที่หลบไม่พ้น\\nซึ่งปล่อยมาจากเงามืด"}
+{"id":"src/data/text/move_descriptions.h#sExtrasensoryDescription","th":"โจมตีด้วยพลังประหลาด\\nอาจทำให้ชะงัก"}
+{"id":"src/data/text/move_descriptions.h#sSkyUppercutDescription","th":"อัปเปอร์คัตราวกับ\\nกระโจนขึ้นสู่ท้องฟ้า"}
+{"id":"src/data/text/move_descriptions.h#sSandTombDescription","th":"ขังและทำร้ายคู่ต่อสู้\\nในทรายดูด 2-5 เทิร์น"}
+{"id":"src/data/text/move_descriptions.h#sSheerColdDescription","th":"โจมตีด้วยความเย็นที่\\nทำให้หมดสภาพทันทีถ้าโดน"}
+{"id":"src/data/text/move_descriptions.h#sMuddyWaterDescription","th":"โจมตีด้วยน้ำโคลน\\nอาจลดความแม่นยำ"}
+{"id":"src/data/text/move_descriptions.h#sBulletSeedDescription","th":"ยิงเมล็ด 2-5 ลูก\\nติดต่อกันใส่คู่ต่อสู้"}
+{"id":"src/data/text/move_descriptions.h#sAerialAceDescription","th":"โจมตีเร็วสุดขีด\\nที่ไม่มีทางหลบพ้น"}
+{"id":"src/data/text/move_descriptions.h#sIcicleSpearDescription","th":"ยิงแท่งน้ำแข็ง\\nใส่คู่ต่อสู้ 2-5 ครั้ง"}
+{"id":"src/data/text/move_descriptions.h#sIronDefenseDescription","th":"ทำผิวกายให้แข็ง\\nเพื่อเพิ่มพลังป้องกันอย่างมาก"}
+{"id":"src/data/text/move_descriptions.h#sBlockDescription","th":"ขวางทางคู่ต่อสู้\\nไม่ให้หนี"}
+{"id":"src/data/text/move_descriptions.h#sHowlDescription","th":"หอนปลุกใจเพื่อ\\nเพิ่มพลังโจมตี"}
+{"id":"src/data/text/move_descriptions.h#sDragonClawDescription","th":"ฟันคู่ต่อสู้ด้วย\\nกรงเล็บแหลมคม"}
+{"id":"src/data/text/move_descriptions.h#sFrenzyPlantDescription","th":"ทรงพลัง แต่ผู้ใช้จะ\\nขยับไม่ได้ในเทิร์นถัดไป"}
+{"id":"src/data/text/move_descriptions.h#sBulkUpDescription","th":"เสริมกล้ามเนื้อเพื่อเพิ่ม\\nทั้งพลังโจมตีและพลังป้องกัน"}
+{"id":"src/data/text/move_descriptions.h#sBounceDescription","th":"กระโดดขึ้น แล้วลงมาใน\\nเทิร์นถัดไป อาจทำให้อัมพาต"}
+{"id":"src/data/text/move_descriptions.h#sMudShotDescription","th":"ขว้างโคลนใส่คู่ต่อสู้\\nและลดความเร็ว"}
+{"id":"src/data/text/move_descriptions.h#sPoisonTailDescription","th":"มีโอกาสติดคริติคอลสูง\\nอาจทำให้ติดพิษ"}
+{"id":"src/data/text/move_descriptions.h#sCovetDescription","th":"อ้อนอย่างน่ารักเพื่อขอ\\nไอเท็มที่คู่ต่อสู้ถืออยู่"}
+{"id":"src/data/text/move_descriptions.h#sVoltTackleDescription","th":"พุ่งชนแบบเอาชีวิตเข้าแลก\\nผู้ใช้เจ็บตัวเล็กน้อย"}
+{"id":"src/data/text/move_descriptions.h#sMagicalLeafDescription","th":"โจมตีด้วยใบไม้ประหลาด\\nที่หลบไม่พ้น"}
+{"id":"src/data/text/move_descriptions.h#sWaterSportDescription","th":"ผู้ใช้ทำตัวเปียกโชก\\nเพื่อเพิ่มความต้านทานไฟ"}
+{"id":"src/data/text/move_descriptions.h#sCalmMindDescription","th":"เพิ่มพลังโจมตีพิเศษและ\\nพลังป้องกันพิเศษด้วยสมาธิ"}
+{"id":"src/data/text/move_descriptions.h#sLeafBladeDescription","th":"ฟันด้วยใบไม้คม\\nมีโอกาสติดคริติคอลสูง"}
+{"id":"src/data/text/move_descriptions.h#sDragonDanceDescription","th":"ร่ายรำลึกลับเพื่อเพิ่ม\\nพลังโจมตีและความเร็ว"}
+{"id":"src/data/text/move_descriptions.h#sRockBlastDescription","th":"ขว้างก้อนหินใหญ่ใส่\\nคู่ต่อสู้ 2-5 ครั้งติดกัน"}
+{"id":"src/data/text/move_descriptions.h#sShockWaveDescription","th":"โจมตีไฟฟ้าที่รวดเร็ว\\nและหลบไม่พ้น"}
+{"id":"src/data/text/move_descriptions.h#sWaterPulseDescription","th":"โจมตีด้วยคลื่นความถี่สูง\\nอาจทำให้คู่ต่อสู้สับสน"}
+{"id":"src/data/text/move_descriptions.h#sDoomDesireDescription","th":"เรียกแสงอาทิตย์เจิดจ้า\\nโจมตีในอีก 2 เทิร์นต่อมา"}
+{"id":"src/data/text/move_descriptions.h#sPsychoBoostDescription","th":"โจมตีเต็มกำลัง แต่พลังโจมตี\\nพิเศษจะลดลงอย่างมาก"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_Champion","th":"ริบบิ้นหอเกียรติยศ"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_Champion","th":"สำหรับผู้ชนะแชมเปี้ยน"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_CoolContest","th":"คอนเทสต์ความเท่"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_BeautyContest","th":"คอนเทสต์ความงาม"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_CuteContest","th":"คอนเทสต์ความน่ารัก"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_SmartContest","th":"คอนเทสต์ความฉลาด"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_ToughContest","th":"คอนเทสต์ความแข็งแกร่ง"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_NormalRank","th":"ชนะเลิศระดับธรรมดา!"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_SuperRank","th":"ชนะเลิศระดับซูเปอร์!"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_HyperRank","th":"ชนะเลิศระดับไฮเปอร์!"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_MasterRank","th":"ชนะเลิศระดับมาสเตอร์!"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_Winning","th":"สำหรับผู้พิชิต Lv50"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_Winning","th":"ที่แบทเทิลทาวเวอร์"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_Victory","th":"สำหรับผู้พิชิตโอเพนเลเวล"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_Victory","th":"ที่แบทเทิลทาวเวอร์"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_Artist","th":"ริบบิ้นสำหรับผู้ที่ถูกเลือก"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_Artist","th":"เป็นแบบภาพสเก็ตช์สุดยอด"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart1_Effort","th":"ริบบิ้นที่มอบให้แก่"}
+{"id":"src/data/text/ribbon_descriptions.h#gRibbonDescriptionPart2_Effort","th":"ผู้ที่ขยันขันแข็ง"}
+{"id":"src/data/trade.h#sText_SpaceMove","th":" ท่า"}
+{"id":"src/data/trade.h#sText_Lv","th":"Lv. "}
+{"id":"src/data/trade.h#sText_IsThisTradeOkay","th":"แลกแบบนี้ใช่ไหม?"}
+{"id":"src/data/trade.h#sText_Cancel","th":"ยกเลิก"}
+{"id":"src/data/trade.h#sText_ChooseAPkmn","th":"เลือกโปเกมอน"}
+{"id":"src/data/trade.h#sText_Summary","th":"ข้อมูล"}
+{"id":"src/data/trade.h#sText_Trade","th":"แลก"}
+{"id":"src/data/trade.h#sText_CancelTrade","th":"ยกเลิกการแลก?"}
+{"id":"src/data/trade.h#sText_Summary2","th":"ข้อมูล"}
+{"id":"src/data/trade.h#sText_Trade2","th":"แลก"}
+{"id":"src/data/trade.h#sText_CommunicationStandby","th":"{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}รอการสื่อสาร…\\nกรุณารอสักครู่"}
+{"id":"src/data/trade.h#sText_TheTradeHasBeenCanceled","th":"{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}การแลกเปลี่ยน\\nถูกยกเลิกแล้ว"}
+{"id":"src/data/trade.h#sText_OnlyPkmnForBattle","th":"นี่คือโปเกมอนตัวเดียว\\nที่ใช้ต่อสู้ได้"}
+{"id":"src/data/trade.h#sText_WaitingForYourFriend","th":"{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}กำลังรอเพื่อนของคุณ\\nให้เสร็จ…"}
+{"id":"src/data/trade.h#sText_YourFriendWantsToTrade","th":"เพื่อนของคุณต้องการ\\nแลกเปลี่ยนโปเกมอน"}
+{"id":"src/data/trade.h#INGAME_TRADE_SEEDOT.nickname","th":"โบโบ้"}
+{"id":"src/data/trade.h#INGAME_TRADE_SEEDOT.otName","th":"โคเบะ"}
+{"id":"src/data/trade.h#INGAME_TRADE_PLUSLE.nickname","th":"พลัสซี่"}
+{"id":"src/data/trade.h#INGAME_TRADE_PLUSLE.otName","th":"โรมัน"}
+{"id":"src/data/trade.h#INGAME_TRADE_HORSEA.nickname","th":"ซีซอร์"}
+{"id":"src/data/trade.h#INGAME_TRADE_HORSEA.otName","th":"สกายลา"}
+{"id":"src/data/trade.h#INGAME_TRADE_MEOWTH.nickname","th":"เมี้ยวโว"}
+{"id":"src/data/trade.h#INGAME_TRADE_MEOWTH.otName","th":"ไอซิส"}
+{"id":"src/data/union_room.h#sText_PleaseStartOver","th":"กรุณาเริ่มใหม่ตั้งแต่ต้น"}
+{"id":"src/data/union_room.h#sText_WirelessSearchCanceled","th":"การค้นหาระบบสื่อสาร\\nไร้สายถูกยกเลิกแล้ว"}
+{"id":"src/data/union_room.h#sText_AwaitingCommunucation2","th":"กำลังรอการสื่อสาร\\nจากผู้เล่นคนอื่น"}
+{"id":"src/data/union_room.h#sText_AwaitingCommunication","th":"{STR_VAR_1}! กำลังรอ\\nการสื่อสารจากผู้เล่นคนอื่น"}
+{"id":"src/data/union_room.h#sText_AwaitingLinkPressStart","th":"{STR_VAR_1}! กำลังรอเชื่อมต่อ!\\nกด START เมื่อทุกคนพร้อม"}
+{"id":"src/data/union_room.h#sText_1PlayerNeeded","th":"ขาดผู้เล่น\\nอีก 1 คน"}
+{"id":"src/data/union_room.h#sText_2PlayersNeeded","th":"ขาดผู้เล่น\\nอีก 2 คน"}
+{"id":"src/data/union_room.h#sText_3PlayersNeeded","th":"ขาดผู้เล่น\\nอีก 3 คน"}
+{"id":"src/data/union_room.h#sText_4PlayersNeeded","th":"ขาดผู้เล่น\\nอีก 4 คน"}
+{"id":"src/data/union_room.h#sText_2PlayerMode","th":"โหมด\\n2 คน"}
+{"id":"src/data/union_room.h#sText_3PlayerMode","th":"โหมด\\n3 คน"}
+{"id":"src/data/union_room.h#sText_4PlayerMode","th":"โหมด\\n4 คน"}
+{"id":"src/data/union_room.h#sText_5PlayerMode","th":"โหมด\\n5 คน"}
+{"id":"src/data/union_room.h#sText_BButtonCancel","th":"{B_BUTTON}ยกเลิก"}
+{"id":"src/data/union_room.h#sText_PlayerContactedYouForXAccept","th":"{STR_VAR_2} ติดต่อมาเพื่อ\\n{STR_VAR_1} ตกลงไหม?"}
+{"id":"src/data/union_room.h#sText_PlayerContactedYouShareX","th":"{STR_VAR_2} ติดต่อมา\\nจะแชร์ {STR_VAR_1} ไหม?"}
+{"id":"src/data/union_room.h#sText_PlayerContactedYouAddToMembers","th":"{STR_VAR_2} ติดต่อมา\\nเพิ่มเป็นสมาชิกไหม?"}
+{"id":"src/data/union_room.h#sText_AreTheseMembersOK","th":"{STR_VAR_1}!\\nสมาชิกชุดนี้ตกลงไหม?"}
+{"id":"src/data/union_room.h#sText_CancelModeWithTheseMembers","th":"ยกเลิกโหมด {STR_VAR_1}\\nกับสมาชิกชุดนี้?"}
+{"id":"src/data/union_room.h#sText_AnOKWasSentToPlayer","th":"ส่ง “ตกลง” ไปยัง\\n{STR_VAR_1} แล้ว"}
+{"id":"src/data/union_room.h#sText_OtherTrainerUnavailableNow","th":"ดูเหมือนเทรนเนอร์อีกฝ่าย\\nจะไม่ว่างในตอนนี้…\\p"}
+{"id":"src/data/union_room.h#sText_CantTransmitTrainerTooFar","th":"ไม่สามารถสื่อสารกับเทรนเนอร์\\nที่อยู่ไกลเกินไปได้\\p"}
+{"id":"src/data/union_room.h#sText_TrainersNotReadyYet","th":"เทรนเนอร์อีกฝ่าย\\nยังไม่พร้อม\\p"}
+{"id":"src/data/union_room.h#sText_ModeWithTheseMembersWillBeCanceled","th":"โหมด {STR_VAR_1} กับ\\nสมาชิกชุดนี้จะถูกยกเลิก{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_MemberNoLongerAvailable","th":"มีสมาชิกที่ไม่สามารถ\\nอยู่ต่อได้แล้ว\\p"}
+{"id":"src/data/union_room.h#sText_TrainerAppearsUnavailable","th":"ดูเหมือนเทรนเนอร์อีกฝ่าย\\nจะไม่ว่าง…\\p"}
+{"id":"src/data/union_room.h#sText_PlayerSentBackOK","th":"{STR_VAR_1} ตอบกลับ “ตกลง”!"}
+{"id":"src/data/union_room.h#sText_PlayerOKdRegistration","th":"{STR_VAR_1} ยืนยันการลงทะเบียน\\nคุณเป็นสมาชิกแล้ว"}
+{"id":"src/data/union_room.h#sText_PlayerRepliedNo","th":"{STR_VAR_1} ตอบว่า “ไม่…”\\p"}
+{"id":"src/data/union_room.h#sText_AwaitingOtherMembers","th":"{STR_VAR_1}!\\nกำลังรอสมาชิกคนอื่น!"}
+{"id":"src/data/union_room.h#sText_QuitBeingMember","th":"เลิกเป็นสมาชิกไหม?"}
+{"id":"src/data/union_room.h#sText_StoppedBeingMember","th":"คุณเลิกเป็นสมาชิกแล้ว\\p"}
+{"id":"src/data/union_room.h#sText_WirelessLinkEstablished","th":"เชื่อมต่อระบบสื่อสาร\\nไร้สายสำเร็จแล้ว"}
+{"id":"src/data/union_room.h#sText_WirelessLinkDropped","th":"การเชื่อมต่อระบบสื่อสาร\\nไร้สายขาดหาย…"}
+{"id":"src/data/union_room.h#sText_LinkWithFriendDropped","th":"การเชื่อมต่อกับเพื่อน\\nขาดหาย…"}
+{"id":"src/data/union_room.h#sText_PlayerRepliedNo2","th":"{STR_VAR_1} ตอบว่า “ไม่…”"}
+{"id":"src/data/union_room.h#sText_DoYouWantXMode","th":"ต้องการเล่น\\nโหมด {STR_VAR_2} ไหม?"}
+{"id":"src/data/union_room.h#sText_DoYouWantXMode2","th":"ต้องการเล่น\\nโหมด {STR_VAR_2} ไหม?"}
+{"id":"src/data/union_room.h#sText_CommunicatingPleaseWait","th":"กำลังสื่อสาร…\\nกรุณารอสักครู่"}
+{"id":"src/data/union_room.h#sText_AwaitingPlayersResponseAboutTrade","th":"กำลังรอคำตอบจาก {STR_VAR_1}\\nเรื่องการแลกเปลี่ยน…"}
+{"id":"src/data/union_room.h#sText_Communicating","th":"กำลังสื่อสาร{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}."}
+{"id":"src/data/union_room.h#sText_CommunicatingWithPlayer","th":"กำลังสื่อสารกับ {STR_VAR_1}{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}."}
+{"id":"src/data/union_room.h#sText_PleaseWaitAWhile","th":"กรุณารอสักครู่{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}."}
+{"id":"src/data/union_room.h#sText_HiDoSomethingMale","th":"ไง! มีอะไรที่อยาก\\nทำหรือเปล่า?"}
+{"id":"src/data/union_room.h#sText_HiDoSomethingFemale","th":"สวัสดี!\\nอยากทำอะไรด้วยกันไหม?"}
+{"id":"src/data/union_room.h#sText_HiDoSomethingAgainMale","th":"{STR_VAR_1}: ไง เจอกันอีกแล้ว!\\nคราวนี้อยากทำอะไรล่ะ?"}
+{"id":"src/data/union_room.h#sText_HiDoSomethingAgainFemale","th":"{STR_VAR_1}: อ๊ะ! {PLAYER} สวัสดี!\\nอยากทำอะไรด้วยกันไหม?"}
+{"id":"src/data/union_room.h#sText_DoSomethingMale","th":"อยากทำอะไรไหม?"}
+{"id":"src/data/union_room.h#sText_DoSomethingFemale","th":"อยากทำอะไรด้วยกันไหม?"}
+{"id":"src/data/union_room.h#sText_DoSomethingAgainMale","th":"{STR_VAR_1}: ตอนนี้อยาก\\nทำอะไรล่ะ?"}
+{"id":"src/data/union_room.h#sText_DoSomethingAgainFemale","th":"{STR_VAR_1}: อยากทำอย่างอื่นอีกไหม?"}
+{"id":"src/data/union_room.h#sText_SomebodyHasContactedYou","th":"มีคนติดต่อคุณมา{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_PlayerHasContactedYou","th":"{STR_VAR_1} ติดต่อคุณมา{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_AwaitingResponseFromTrainer","th":"กำลังรอคำตอบจาก\\nเทรนเนอร์อีกฝ่าย…"}
+{"id":"src/data/union_room.h#sText_AwaitingResponseFromPlayer","th":"กำลังรอคำตอบจาก\\n{STR_VAR_1}…"}
+{"id":"src/data/union_room.h#sText_ShowTrainerCard","th":"เทรนเนอร์อีกฝ่ายแสดง\\nบัตรเทรนเนอร์ให้คุณดู\\pคุณจะแสดง\\nบัตรเทรนเนอร์ของคุณไหม?"}
+{"id":"src/data/union_room.h#sText_BattleChallenge","th":"เทรนเนอร์อีกฝ่ายท้าคุณ\\nต่อสู้\\pคุณจะรับคำท้า\\nต่อสู้ไหม?"}
+{"id":"src/data/union_room.h#sText_ChatInvitation","th":"เทรนเนอร์อีกฝ่ายชวนคุณ\\nคุยแชต\\pคุณจะรับคำชวน\\nแชตไหม?"}
+{"id":"src/data/union_room.h#sText_OfferToTradeMon","th":"มีข้อเสนอขอแลกโปเกมอน\\nLv. {DYNAMIC 0} {DYNAMIC 1} ของคุณ\\pโดยแลกกับ\\nLv. {DYNAMIC 2} {DYNAMIC 3}\\pคุณจะรับข้อเสนอ\\nแลกเปลี่ยนนี้ไหม?"}
+{"id":"src/data/union_room.h#sText_OfferToTradeEgg","th":"มีข้อเสนอขอแลกไข่\\nที่คุณลงทะเบียนไว้\\lคุณจะรับข้อเสนอนี้ไหม?"}
+{"id":"src/data/union_room.h#sText_ChatDropped","th":"การแชตถูกตัดขาด\\p"}
+{"id":"src/data/union_room.h#sText_OfferDeclined1","th":"คุณปฏิเสธข้อเสนอแล้ว\\p"}
+{"id":"src/data/union_room.h#sText_OfferDeclined2","th":"คุณปฏิเสธข้อเสนอแล้ว\\p"}
+{"id":"src/data/union_room.h#sText_ChatEnded","th":"การแชตจบลงแล้ว\\p"}
+{"id":"src/data/union_room.h#sText_JoinChatMale","th":"อ้าว ไง! ตอนนี้เราคุยกันอยู่\\nมาคุยด้วยกันไหม?"}
+{"id":"src/data/union_room.h#sText_PlayerJoinChatMale","th":"{STR_VAR_1}: เฮ้ {PLAYER}!\\nตอนนี้เรากำลังคุยกันอยู่\\lมาคุยด้วยกันไหม?"}
+{"id":"src/data/union_room.h#sText_JoinChatFemale","th":"อ๊ะ สวัสดี! ตอนนี้เราคุยกันอยู่\\nมาคุยด้วยกันไหม?"}
+{"id":"src/data/union_room.h#sText_PlayerJoinChatFemale","th":"{STR_VAR_1}: อ๊ะ หวัดดี {PLAYER}!\\nตอนนี้เราคุยกันอยู่\\lมาคุยด้วยกันไหม?"}
+{"id":"src/data/union_room.h#sText_TrainerAppearsBusy","th":"……\\nดูเหมือนเทรนเนอร์คนนี้จะยุ่งอยู่…\\p"}
+{"id":"src/data/union_room.h#sText_WaitForBattleMale","th":"ต่อสู้เหรอ?\\nได้เลย ขอเวลาเตรียมตัวแป๊บ"}
+{"id":"src/data/union_room.h#sText_WaitForChatMale","th":"อยากคุยเหรอ?\\nได้สิ รอแป๊บนะ"}
+{"id":"src/data/union_room.h#sText_ShowTrainerCardMale","th":"ได้เลย! เพื่อเป็นการ “ทักทาย”\\nนี่บัตรเทรนเนอร์ของผม"}
+{"id":"src/data/union_room.h#sText_WaitForBattleFemale","th":"ต่อสู้เหรอ? ได้สิ แต่ขอเวลา\\nเตรียมตัวก่อนนะ"}
+{"id":"src/data/union_room.h#sText_WaitForChatFemale","th":"อยากคุยเหรอ?\\nได้ แต่รอสักครู่นะ"}
+{"id":"src/data/union_room.h#sText_ShowTrainerCardFemale","th":"ขอแนะนำตัวด้วยการแสดง\\nบัตรเทรนเนอร์ของฉันนะ"}
+{"id":"src/data/union_room.h#sText_WaitForChatMale2","th":"อยากคุยเหรอ?\\nได้สิ รอแป๊บนะ"}
+{"id":"src/data/union_room.h#sText_DoneWaitingBattleMale","th":"ขอบคุณที่รอ!\\nมาเริ่มต่อสู้กันเลย!{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_DoneWaitingChatMale","th":"เอาล่ะ!\\nมาคุยกันเถอะ!{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_DoneWaitingBattleFemale","th":"ขอโทษที่ให้รอ!\\nมาเริ่มกันเลย!{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_DoneWaitingChatFemale","th":"ขอโทษที่ให้รอ!\\nมาคุยกันเถอะ{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_TradeWillBeStarted","th":"จะเริ่มการแลกเปลี่ยน{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_BattleWillBeStarted","th":"จะเริ่มการต่อสู้{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_EnteringChat","th":"กำลังเข้าสู่แชต…{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_BattleDeclinedMale","th":"ขอโทษที! ดูเหมือนโปเกมอนของผม\\nจะไม่ค่อยสบายตอนนี้\\lไว้สู้กันคราวหน้านะ\\p"}
+{"id":"src/data/union_room.h#sText_BattleDeclinedFemale","th":"ขอโทษจริง ๆ แต่โปเกมอนของฉัน\\nไม่ค่อยสบาย…\\pไว้สู้กันคราวหน้านะ\\p"}
+{"id":"src/data/union_room.h#sText_ShowTrainerCardDeclinedMale","th":"เอ๊ะ? บัตรเทรนเนอร์ของผม…\\nไปอยู่ไหนแล้วเนี่ย?\\lขอโทษที! ไว้คราวหน้าจะให้ดูนะ!\\p"}
+{"id":"src/data/union_room.h#sText_ShowTrainerCardDeclinedFemale","th":"อ๊ะ? บัตรเทรนเนอร์ของฉัน\\nวางไว้ไหนนะ?…\\lขอโทษ! ไว้คราวหลังให้ดูนะ!\\p"}
+{"id":"src/data/union_room.h#sText_IfYouWantToDoSomethingMale","th":"ถ้าอยากทำอะไรกับผม\\nก็เรียกได้เลยนะ!\\p"}
+{"id":"src/data/union_room.h#sText_IfYouWantToDoSomethingFemale","th":"ถ้าอยากทำอะไรกับฉัน\\nไม่ต้องเกรงใจนะ\\p"}
+{"id":"src/data/union_room.h#sText_TrainerBattleBusy","th":"อุ๊ย! ขอโทษ พอดีมีธุระ\\nต้องทำอย่างอื่น\\lไว้คราวหน้านะ?\\p"}
+{"id":"src/data/union_room.h#sText_NeedTwoMonsOfLevel30OrLower1","th":"ถ้าอยากต่อสู้ ต้องมี\\nโปเกมอน 2 ตัวที่เลเวลต่ำกว่า\\lLv. 30\\p"}
+{"id":"src/data/union_room.h#sText_NeedTwoMonsOfLevel30OrLower2","th":"การต่อสู้ต้องใช้\\nโปเกมอน 2 ตัวที่ต่ำกว่า Lv. 30\\p"}
+{"id":"src/data/union_room.h#sText_DeclineChatMale","th":"อ้อ ได้เลย\\nมาหาได้ทุกเมื่อนะ\\p"}
+{"id":"src/data/union_room.h#stext_DeclineChatFemale","th":"โอ…\\nแวะมาได้ทุกเมื่อนะ\\p"}
+{"id":"src/data/union_room.h#sText_ChatDeclinedMale","th":"อ๊ะ ขอโทษ!\\nตอนนี้ยังไม่ว่างจริง ๆ\\lไว้คุยกันคราวหน้านะ\\p"}
+{"id":"src/data/union_room.h#sText_ChatDeclinedFemale","th":"อ๊ะ ขอโทษนะ\\nตอนนี้มีเรื่องต้องทำเยอะมาก\\lไว้คุยกันวันหลังนะ\\p"}
+{"id":"src/data/union_room.h#sText_YoureToughMale","th":"ว้าว!\\nดูออกเลยว่าคุณเก่งมาก!\\p"}
+{"id":"src/data/union_room.h#sText_UsedGoodMoveMale","th":"ใช้ท่านั้นเหรอ?\\nกลยุทธ์ดีมาก!\\p"}
+{"id":"src/data/union_room.h#sText_BattleSurpriseMale","th":"สุดยอด!\\nเปิดหูเปิดตาจริง ๆ!\\p"}
+{"id":"src/data/union_room.h#sText_SwitchedMonsMale","th":"โอ้! ใช้โปเกมอนตัวนั้น\\nในสถานการณ์แบบนั้นได้ไง?\\p"}
+{"id":"src/data/union_room.h#sText_YoureToughFemale","th":"โปเกมอนตัวนั้น…\\nเลี้ยงมาดีมากเลย!\\p"}
+{"id":"src/data/union_room.h#sText_UsedGoodMoveFemale","th":"นั่นแหละ!\\nท่านี้ถูกต้องที่สุดตอนนี้!\\p"}
+{"id":"src/data/union_room.h#sText_BattleSurpriseFemale","th":"สุดยอดเลย!\\nสู้แบบนั้นก็ได้เหรอ?\\p"}
+{"id":"src/data/union_room.h#sText_SwitchedMonsFemale","th":"คุณจังหวะดีมาก\\nในการสลับโปเกมอน!\\p"}
+{"id":"src/data/union_room.h#sText_LearnedSomethingMale","th":"อ๋อ เข้าใจแล้ว!\\nได้ความรู้จริง ๆ!\\p"}
+{"id":"src/data/union_room.h#sText_ThatsFunnyMale","th":"อย่าพูดอะไรตลกอีกเลย!\\nขำจนปวดท้องแล้ว!\\p"}
+{"id":"src/data/union_room.h#sText_RandomChatMale1","th":"เอ๊ะ?\\nมีเรื่องแบบนั้นด้วย\\p"}
+{"id":"src/data/union_room.h#sText_RandomChatMale2","th":"อืม ๆ… อะไรนะ?\\nจะบอกว่าอย่างนี้ใช่ไหม?\\p"}
+{"id":"src/data/union_room.h#sText_LearnedSomethingFemale","th":"จริงเหรอ?\\nไม่เคยรู้มาก่อนเลย\\p"}
+{"id":"src/data/union_room.h#sText_ThatsFunnyFemale","th":"อะฮะฮะ!\\nนั่นมันเรื่องอะไรกัน?\\p"}
+{"id":"src/data/union_room.h#sText_RandomChatFemale1","th":"ใช่ ตามนั้นเลย!\\nนั่นแหละที่หมายถึง\\p"}
+{"id":"src/data/union_room.h#sText_RandomChatFemale2","th":"พูดง่าย ๆ ก็คือ…\\nใช่! ถูกต้อง!\\p"}
+{"id":"src/data/union_room.h#sText_ShowedTrainerCardMale1","th":"ผมแค่แสดงบัตรเทรนเนอร์\\nเพื่อเป็นการทักทาย\\p"}
+{"id":"src/data/union_room.h#sText_ShowedTrainerCardMale2","th":"หวังว่าจะได้รู้จักกันมากขึ้นนะ!\\p"}
+{"id":"src/data/union_room.h#sText_ShowedTrainerCardFemale1","th":"เรากำลังแสดงบัตรเทรนเนอร์\\nให้กันดูเพื่อทำความรู้จัก\\p"}
+{"id":"src/data/union_room.h#sText_ShowedTrainerCardFemale2","th":"ยินดีที่ได้รู้จัก\\nอย่าทำตัวห่างเหินนะ!\\p"}
+{"id":"src/data/union_room.h#sText_MaleTraded1","th":"เย้!\\nอยากได้โปเกมอนตัวนี้มานานแล้ว!\\p"}
+{"id":"src/data/union_room.h#sText_MaleTraded2","th":"ในที่สุดก็ได้โปเกมอนที่\\nอยากได้มานานจากการแลกเปลี่ยน\\p"}
+{"id":"src/data/union_room.h#sText_FemaleTraded1","th":"ตอนนี้กำลังแลกเปลี่ยนโปเกมอนอยู่\\p"}
+{"id":"src/data/union_room.h#sText_FemaleTraded2","th":"ในที่สุดก็แลกได้\\nโปเกมอนที่อยากได้แล้ว!\\p"}
+{"id":"src/data/union_room.h#sText_XCheckedTradingBoard","th":"{STR_VAR_1} ดู\\nกระดานแลกเปลี่ยน\\p"}
+{"id":"src/data/union_room.h#sText_RegisterMonAtTradingBoard","th":"ยินดีต้อนรับสู่กระดานแลกเปลี่ยน\\pคุณสามารถลงทะเบียนโปเกมอน\\nเพื่อเสนอแลกเปลี่ยนได้\\pต้องการลงทะเบียน\\nโปเกมอนของคุณไหม?"}
+{"id":"src/data/union_room.h#sText_TradingBoardInfo","th":"กระดานแลกเปลี่ยนนี้ใช้สำหรับ\\nเสนอแลกเปลี่ยนโปเกมอน\\pสิ่งที่ต้องทำก็แค่ลงทะเบียน\\nโปเกมอนเพื่อแลกเปลี่ยน\\pเทรนเนอร์คนอื่นอาจเสนอ\\nโปเกมอนในทีมเพื่อแลกด้วย\\pหวังว่าคุณจะลงทะเบียนโปเกมอน\\nและแลกเปลี่ยนกับเทรนเนอร์\\lอีกมากมาย\\pต้องการลงทะเบียน\\nโปเกมอนของคุณไหม?"}
+{"id":"src/data/union_room.h#sText_ThankYouForRegistering","th":"ลงทะเบียนโปเกมอนของคุณ\\nบนกระดานแลกเปลี่ยนแล้ว\\pขอบคุณที่ใช้บริการ!\\p"}
+{"id":"src/data/union_room.h#sText_NobodyHasRegistered","th":"ยังไม่มีใครลงทะเบียนโปเกมอน\\nบนกระดานแลกเปลี่ยน\\p\\n"}
+{"id":"src/data/union_room.h#sText_ChooseRequestedMonType","th":"กรุณาเลือกประเภทโปเกมอน\\nที่ต้องการในการแลกเปลี่ยน\\n"}
+{"id":"src/data/union_room.h#sText_WhichMonWillYouOffer","th":"จะเสนอโปเกมอนตัวไหน\\nในทีมเพื่อแลกเปลี่ยน?\\p"}
+{"id":"src/data/union_room.h#sText_RegistrationCanceled","th":"ยกเลิกการลงทะเบียนแล้ว\\p"}
+{"id":"src/data/union_room.h#sText_RegistrationCompleted","th":"ลงทะเบียนเสร็จสิ้นแล้ว\\p"}
+{"id":"src/data/union_room.h#sText_TradeCanceled","th":"การแลกเปลี่ยนถูกยกเลิกแล้ว\\p"}
+{"id":"src/data/union_room.h#sText_CancelRegistrationOfMon","th":"ยกเลิกการลงทะเบียน\\n{STR_VAR_1} Lv. {STR_VAR_2} ของคุณ?"}
+{"id":"src/data/union_room.h#sText_CancelRegistrationOfEgg","th":"ยกเลิกการลงทะเบียน\\nไข่ของคุณ?"}
+{"id":"src/data/union_room.h#sText_RegistrationCanceled2","th":"การลงทะเบียนถูกยกเลิกแล้ว\\p"}
+{"id":"src/data/union_room.h#sText_TradeTrainersWillBeListed","th":"รายชื่อเทรนเนอร์ที่ต้องการ\\nแลกเปลี่ยนจะแสดงที่นี่"}
+{"id":"src/data/union_room.h#sText_ChooseTrainerToTradeWith2","th":"กรุณาเลือกเทรนเนอร์\\nที่ต้องการแลกเปลี่ยนโปเกมอนด้วย"}
+{"id":"src/data/union_room.h#sText_AskTrainerToMakeTrade","th":"จะขอให้ {STR_VAR_1}\\nแลกเปลี่ยนไหม?"}
+{"id":"src/data/union_room.h#sText_AwaitingResponseFromTrainer2","th":"กำลังรอคำตอบจาก\\nเทรนเนอร์อีกฝ่าย…"}
+{"id":"src/data/union_room.h#sText_NotRegisteredAMonForTrade","th":"คุณยังไม่ได้ลงทะเบียนโปเกมอน\\nเพื่อแลกเปลี่ยน\\p"}
+{"id":"src/data/union_room.h#sText_DontHaveTypeTrainerWants","th":"คุณไม่มีโปเกมอนประเภท{STR_VAR_2}\\nที่ {STR_VAR_1} ต้องการ\\p"}
+{"id":"src/data/union_room.h#sText_DontHaveEggTrainerWants","th":"คุณไม่มีไข่ที่\\n{STR_VAR_1} ต้องการ\\p"}
+{"id":"src/data/union_room.h#sText_PlayerCantTradeForYourMon","th":"ตอนนี้ {STR_VAR_1} ไม่สามารถ\\nแลกกับโปเกมอนของคุณได้\\p"}
+{"id":"src/data/union_room.h#sText_CantTradeForPartnersMon","th":"ตอนนี้คุณไม่สามารถแลกกับ\\nโปเกมอนของ {STR_VAR_1} ได้\\p"}
+{"id":"src/data/union_room.h#sText_TradeOfferRejected","th":"ข้อเสนอแลกเปลี่ยนของคุณถูกปฏิเสธ\\p"}
+{"id":"src/data/union_room.h#sText_EggTrade","th":"แลกไข่"}
+{"id":"src/data/union_room.h#sText_ChooseJoinCancel","th":"{DPAD_UPDOWN}เลือก  {A_BUTTON}เข้าร่วม  {B_BUTTON}ยกเลิก"}
+{"id":"src/data/union_room.h#sText_ChooseTrainer","th":"กรุณาเลือกเทรนเนอร์"}
+{"id":"src/data/union_room.h#sText_ChooseTrainerSingleBattle","th":"กรุณาเลือกเทรนเนอร์\\nสำหรับซิงเกิลแบทเทิล"}
+{"id":"src/data/union_room.h#sText_ChooseTrainerDoubleBattle","th":"กรุณาเลือกเทรนเนอร์\\nสำหรับดับเบิลแบทเทิล"}
+{"id":"src/data/union_room.h#sText_ChooseLeaderMultiBattle","th":"กรุณาเลือกหัวหน้าทีม\\nสำหรับมัลติแบทเทิล"}
+{"id":"src/data/union_room.h#sText_ChooseTrainerToTradeWith","th":"กรุณาเลือกเทรนเนอร์\\nที่จะแลกเปลี่ยนด้วย"}
+{"id":"src/data/union_room.h#sText_ChooseTrainerToShareWonderCards","th":"กรุณาเลือกเทรนเนอร์\\nที่แชร์วันเดอร์การ์ด"}
+{"id":"src/data/union_room.h#sText_ChooseTrainerToShareWonderNews","th":"กรุณาเลือกเทรนเนอร์\\nที่แชร์วันเดอร์นิวส์"}
+{"id":"src/data/union_room.h#sText_ChooseLeaderPokemonJump","th":"กระโดดกับโปเกมอนจิ๋ว!\\nกรุณาเลือกหัวหน้าทีม"}
+{"id":"src/data/union_room.h#sText_ChooseLeaderBerryCrush","th":"บดเบอร์รี่!\\nกรุณาเลือกหัวหน้าทีม"}
+{"id":"src/data/union_room.h#sText_ChooseLeaderBerryPicking","th":"เก็บเบอร์รี่กับโดโดริโอ!\\nกรุณาเลือกหัวหน้าทีม"}
+{"id":"src/data/union_room.h#sText_ChooseLeaderBerryBlender","th":"เครื่องปั่นเบอร์รี่!\\nกรุณาเลือกหัวหน้าทีม"}
+{"id":"src/data/union_room.h#sText_ChooseLeaderRecordCorner","th":"มุมแลกบันทึก!\\nกรุณาเลือกหัวหน้าทีม"}
+{"id":"src/data/union_room.h#sText_ChooseLeaderCoolContest","th":"คอนเทสต์ความเท่!\\nกรุณาเลือกหัวหน้าทีม"}
+{"id":"src/data/union_room.h#sText_ChooseLeaderBeautyContest","th":"คอนเทสต์ความงาม!\\nกรุณาเลือกหัวหน้าทีม"}
+{"id":"src/data/union_room.h#sText_ChooseLeaderCuteContest","th":"คอนเทสต์ความน่ารัก!\\nกรุณาเลือกหัวหน้าทีม"}
+{"id":"src/data/union_room.h#sText_ChooseLeaderSmartContest","th":"คอนเทสต์ความฉลาด!\\nกรุณาเลือกหัวหน้าทีม"}
+{"id":"src/data/union_room.h#sText_ChooseLeaderToughContest","th":"คอนเทสต์ความแข็งแกร่ง!\\nกรุณาเลือกหัวหน้าทีม"}
+{"id":"src/data/union_room.h#sText_ChooseLeaderBattleTowerLv50","th":"แบทเทิลทาวเวอร์ Lv. 50!\\nกรุณาเลือกหัวหน้าทีม"}
+{"id":"src/data/union_room.h#sText_ChooseLeaderBattleTowerOpenLv","th":"แบทเทิลทาวเวอร์ โอเพนเลเวล!\\nกรุณาเลือกหัวหน้าทีม"}
+{"id":"src/data/union_room.h#sText_SearchingForWirelessSystemWait","th":"กำลังค้นหาระบบสื่อสาร\\nไร้สาย กรุณารอ..."}
+{"id":"src/data/union_room.h#sText_MustHaveTwoMonsForDoubleBattle","th":"ดับเบิลแบทเทิลต้องมี\\nโปเกมอนอย่างน้อย 2 ตัว\\p"}
+{"id":"src/data/union_room.h#sText_AwaitingPlayersResponse","th":"กำลังรอคำตอบจาก {STR_VAR_1}…"}
+{"id":"src/data/union_room.h#sText_PlayerHasBeenAskedToRegisterYouPleaseWait","th":"ขอให้ {STR_VAR_1} ลงทะเบียน\\nคุณเป็นสมาชิกแล้ว กรุณารอ"}
+{"id":"src/data/union_room.h#sText_AwaitingResponseFromWirelessSystem","th":"กำลังรอการตอบกลับจาก\\nระบบสื่อสารไร้สาย"}
+{"id":"src/data/union_room.h#sText_PleaseWaitForOtherTrainersToGather","th":"กรุณารอให้เทรนเนอร์คนอื่น\\nมารวมตัวและเตรียมพร้อม"}
+{"id":"src/data/union_room.h#sText_NoCardsSharedRightNow","th":"ตอนนี้ดูเหมือนจะไม่มี\\nการ์ดที่แชร์อยู่"}
+{"id":"src/data/union_room.h#sText_NoNewsSharedRightNow","th":"ตอนนี้ดูเหมือนจะไม่มี\\nนิวส์ที่แชร์อยู่"}
+{"id":"src/data/union_room.h#sText_Battle","th":"ต่อสู้"}
+{"id":"src/data/union_room.h#sText_Chat2","th":"แชต"}
+{"id":"src/data/union_room.h#sText_Greetings","th":"ทักทาย"}
+{"id":"src/data/union_room.h#sText_Exit","th":"ออก"}
+{"id":"src/data/union_room.h#sText_Exit2","th":"ออก"}
+{"id":"src/data/union_room.h#sText_Info","th":"ข้อมูล"}
+{"id":"src/data/union_room.h#sText_NameWantedOfferLv","th":"ชื่อ{CLEAR_TO 60}ต้องการ{CLEAR_TO 110}เสนอ{CLEAR_TO 198}Lv."}
+{"id":"src/data/union_room.h#sText_SingleBattle","th":"ซิงเกิลแบทเทิล"}
+{"id":"src/data/union_room.h#sText_DoubleBattle","th":"ดับเบิลแบทเทิล"}
+{"id":"src/data/union_room.h#sText_MultiBattle","th":"มัลติแบทเทิล"}
+{"id":"src/data/union_room.h#sText_PokemonTrades","th":"แลกโปเกมอน"}
+{"id":"src/data/union_room.h#sText_Chat","th":"แชต"}
+{"id":"src/data/union_room.h#sText_Cards","th":"การ์ด"}
+{"id":"src/data/union_room.h#sText_WonderCards","th":"วันเดอร์การ์ด"}
+{"id":"src/data/union_room.h#sText_WonderNews","th":"วันเดอร์นิวส์"}
+{"id":"src/data/union_room.h#sText_PokemonJump","th":"โปเกจัมพ์"}
+{"id":"src/data/union_room.h#sText_BerryCrush","th":"บดเบอร์รี่"}
+{"id":"src/data/union_room.h#sText_BerryPicking","th":"เก็บเบอร์รี่"}
+{"id":"src/data/union_room.h#sText_Search","th":"ค้นหา"}
+{"id":"src/data/union_room.h#sText_BerryBlender","th":"เครื่องปั่นเบอร์รี่"}
+{"id":"src/data/union_room.h#sText_RecordCorner","th":"มุมแลกบันทึก"}
+{"id":"src/data/union_room.h#sText_CoolContest","th":"คอนเทสต์เท่"}
+{"id":"src/data/union_room.h#sText_BeautyContest","th":"คอนเทสต์ความงาม"}
+{"id":"src/data/union_room.h#sText_CuteContest","th":"คอนเทสต์น่ารัก"}
+{"id":"src/data/union_room.h#sText_SmartContest","th":"คอนเทสต์ฉลาด"}
+{"id":"src/data/union_room.h#sText_ToughContest","th":"คอนเทสต์แกร่ง"}
+{"id":"src/data/union_room.h#sText_BattleTowerLv50","th":"แบทเทิลทาวเวอร์ Lv. 50"}
+{"id":"src/data/union_room.h#sText_BattleTowerOpenLv","th":"แบทเทิลทาวเวอร์ โอเพนเลเวล"}
+{"id":"src/data/union_room.h#sText_ItsNormalCard","th":"นี่คือการ์ดธรรมดา"}
+{"id":"src/data/union_room.h#sText_ItsBronzeCard","th":"นี่คือการ์ดสำริด!"}
+{"id":"src/data/union_room.h#sText_ItsCopperCard","th":"นี่คือการ์ดทองแดง!"}
+{"id":"src/data/union_room.h#sText_ItsSilverCard","th":"นี่คือการ์ดเงิน!"}
+{"id":"src/data/union_room.h#sText_ItsGoldCard","th":"นี่คือการ์ดทอง!"}
+{"id":"src/data/union_room.h#sText_TrainerCardInfoPage1","th":"บัตรเทรนเนอร์ของ\\n{DYNAMIC 0} {DYNAMIC 1}…\\l{DYNAMIC 2}\\pโปเกเด็กซ์: {DYNAMIC 3}\\nเวลา:    {DYNAMIC 4}:{DYNAMIC 5}\\p"}
+{"id":"src/data/union_room.h#sText_TrainerCardInfoPage2","th":"ต่อสู้: ชนะ: {DYNAMIC 0}  แพ้: {DYNAMIC 2}\\nแลกเปลี่ยน: {DYNAMIC 3}\\p“{DYNAMIC 4} {DYNAMIC 5}\\n{DYNAMIC 6} {DYNAMIC 7}”\\p"}
+{"id":"src/data/union_room.h#sText_GladToMeetYouMale","th":"{DYNAMIC 1}: ดีใจที่ได้รู้จัก!{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_GladToMeetYouFemale","th":"{DYNAMIC 1}: ยินดีที่ได้รู้จักนะ!{PAUSE 60}"}
+{"id":"src/data/union_room.h#sText_FinishedCheckingPlayersTrainerCard","th":"ดูบัตรเทรนเนอร์ของ\\n{DYNAMIC 1} เสร็จแล้ว{PAUSE 60}"}
+{"id":"src/dodrio_berry_picking.c#sText_Letters","th":"ABCDEFG"}
+{"id":"src/landmark.c#LandmarkName_FlowerShop","th":"ร้านดอกไม้"}
+{"id":"src/landmark.c#LandmarkName_PetalburgWoods","th":"ป่าโทกะ"}
+{"id":"src/landmark.c#LandmarkName_MrBrineysCottage","th":"บ้านลุงฮางิ"}
+{"id":"src/landmark.c#LandmarkName_AbandonedShip","th":"เรือร้าง"}
+{"id":"src/landmark.c#LandmarkName_SeashoreHouse","th":"บ้านริมทะเล"}
+{"id":"src/landmark.c#LandmarkName_SlateportBeach","th":"ชายหาดไคนะ"}
+{"id":"src/landmark.c#LandmarkName_CyclingRoad","th":"ถนนจักรยาน"}
+{"id":"src/landmark.c#LandmarkName_NewMauville","th":"นิวคินเซ็ตสึ"}
+{"id":"src/landmark.c#LandmarkName_TrickHouse","th":"บ้านกลไก"}
+{"id":"src/landmark.c#LandmarkName_OldLadysRestShop","th":"จุดพักของคุณยาย"}
+{"id":"src/landmark.c#LandmarkName_Desert","th":"ทะเลทราย"}
+{"id":"src/landmark.c#LandmarkName_WinstrateFamily","th":"ครอบครัวคาจินุกิ"}
+{"id":"src/landmark.c#LandmarkName_CableCar","th":"กระเช้าลอยฟ้า"}
+{"id":"src/landmark.c#LandmarkName_GlassWorkshop","th":"โรงงานแก้ว"}
+{"id":"src/landmark.c#LandmarkName_WeatherInstitute","th":"สถาบันตรวจอากาศ"}
+{"id":"src/landmark.c#LandmarkName_MeteorFalls","th":"น้ำตกดาวตก"}
+{"id":"src/landmark.c#LandmarkName_TunnelersRestHouse","th":"บ้านพักคนขุดอุโมงค์"}
+{"id":"src/landmark.c#LandmarkName_RusturfTunnel","th":"อุโมงค์คานาชิดะ"}
+{"id":"src/landmark.c#LandmarkName_PokemonDayCare","th":"ศูนย์รับเลี้ยงโปเกมอน"}
+{"id":"src/landmark.c#LandmarkName_SafariZoneEntrance","th":"ทางเข้าซาฟารีโซน"}
+{"id":"src/landmark.c#LandmarkName_MtPyre","th":"ภูเขาส่งวิญญาณ"}
+{"id":"src/landmark.c#LandmarkName_ShoalCave","th":"ถ้ำหาดตื้น"}
+{"id":"src/landmark.c#LandmarkName_SeafloorCavern","th":"ถ้ำใต้ทะเล"}
+{"id":"src/landmark.c#LandmarkName_GraniteCave","th":"ถ้ำหิน"}
+{"id":"src/landmark.c#LandmarkName_OceanCurrent","th":"กระแสน้ำทะเล"}
+{"id":"src/landmark.c#LandmarkName_LanettesHouse","th":"บ้านมายุมิ"}
+{"id":"src/landmark.c#LandmarkName_FieryPath","th":"ทางลัดเปลวไฟ"}
+{"id":"src/landmark.c#LandmarkName_JaggedPass","th":"ทางภูเขาขรุขระ"}
+{"id":"src/landmark.c#LandmarkName_SkyPillar","th":"เสาแห่งท้องฟ้า"}
+{"id":"src/landmark.c#LandmarkName_BerryMastersHouse","th":"บ้านเซียนเบอร์รี่"}
+{"id":"src/landmark.c#LandmarkName_IslandCave","th":"ถ้ำเกาะเล็ก"}
+{"id":"src/landmark.c#LandmarkName_DesertRuins","th":"ซากโบราณทะเลทราย"}
+{"id":"src/landmark.c#LandmarkName_ScorchedSlab","th":"ถ้ำหินแห้งแล้ง"}
+{"id":"src/landmark.c#LandmarkName_AncientTomb","th":"สุสานโบราณ"}
+{"id":"src/landmark.c#LandmarkName_SealedChamber","th":"ห้องหินปิดผนึก"}
+{"id":"src/landmark.c#LandmarkName_FossilManiacsHouse","th":"บ้านคนคลั่งฟอสซิล"}
+{"id":"src/landmark.c#LandmarkName_HuntersHouse","th":"บ้านฮันเตอ"}
+{"id":"src/landmark.c#LandmarkName_MagmaHideout","th":"ฐานแก๊งแม็กม่า"}
+{"id":"src/landmark.c#LandmarkName_MirageTower","th":"หอคอยมายา"}
+{"id":"src/landmark.c#LandmarkName_AlteringCave","th":"ถ้ำแปรเปลี่ยน"}
+{"id":"src/landmark.c#LandmarkName_DesertUnderpass","th":"อุโมงค์ใต้ทะเลทราย"}
+{"id":"src/landmark.c#LandmarkName_TrainerHill","th":"เทรนเนอร์ฮิล"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor1","th":"พีระมิด ชั้น 1"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor2","th":"พีระมิด ชั้น 2"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor3","th":"พีระมิด ชั้น 3"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor4","th":"พีระมิด ชั้น 4"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor5","th":"พีระมิด ชั้น 5"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor6","th":"พีระมิด ชั้น 6"}
+{"id":"src/map_name_popup.c#sText_PyramidFloor7","th":"พีระมิด ชั้น 7"}
+{"id":"src/map_name_popup.c#sText_Pyramid","th":"พีระมิด"}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventBerry","th":"ได้รับ {STR_VAR_2} BERRY!\\nพ่อเก็บไว้ให้ที่ยิมโทกะ"}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventBerryTransform","th":"{STR_VAR_1} BERRY เปลี่ยนเป็น\\n{STR_VAR_2} BERRY 1 ผล"}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventBerryObtained","th":"ได้รับ {STR_VAR_1} BERRY\\nไปแล้ว"}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventSpecialRibbon","th":"โปเกมอนในทีมของคุณ\\nได้รับริบบิ้นพิเศษ"}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventNationalDex","th":"โปเกเด็กซ์ได้รับการอัปเกรด\\nด้วยโหมดทั่วประเทศ"}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventRareWord","th":"เพิ่มคำหายากแล้ว"}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventSentOver","th":"ส่ง {STR_VAR_1} มาแล้ว!"}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventFullParty","th":"ทีมของคุณเต็มแล้ว\\nไม่สามารถส่ง {STR_VAR_1} มาได้"}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventNewTrainer","th":"มีเทรนเนอร์คนใหม่มาถึง\\nภูมิภาคโฮเอ็น"}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventNewAdversaryInBattleTower","th":"มีคู่ต่อสู้คนใหม่มาถึง\\nแบทเทิลทาวเวอร์"}
+{"id":"src/mystery_event_msg.c#gText_MysteryEventCantBeUsed","th":"ข้อมูลนี้ใช้กับ\\nเวอร์ชันนี้ไม่ได้"}
+{"id":"src/mystery_gift_scripts.c#sText_CanceledReadingCard","th":"ยกเลิกการอ่าน\\nการ์ดแล้ว"}
+{"id":"src/naming_screen.c#sText_AlphabetUpperLower","th":"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Sapphire","th":"SAPPHIRE"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Ruby","th":"RUBY"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Emerald","th":"EMERALD"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Aqua","th":"อควา"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Magma","th":"แม็กม่า"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Archie","th":"อาโอกิริ"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Maxie","th":"มัตสึบุสะ"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Kyogre","th":"ไคออกา"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Groudon","th":"กราดอน"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_Brendan","th":"ยูกิ"}
+{"id":"src/strings.c#gText_ExpandedPlaceholder_May","th":"ฮารุกะ"}
+{"id":"src/strings.c#gText_EggNickname","th":"ไข่"}
+{"id":"src/strings.c#gText_Pokemon","th":"โปเกมอน"}
+{"id":"src/strings.c#gText_ProfBirchMatchCallName","th":"ศ.โอดามากิ"}
+{"id":"src/strings.c#gText_MainMenuNewGame","th":"เริ่มเกมใหม่"}
+{"id":"src/strings.c#gText_MainMenuContinue","th":"เล่นต่อ"}
+{"id":"src/strings.c#gText_MainMenuOption","th":"ตั้งค่า"}
+{"id":"src/strings.c#gText_MainMenuMysteryGift","th":"ของขวัญลึกลับ"}
+{"id":"src/strings.c#gText_MainMenuMysteryGift2","th":"ของขวัญลึกลับ"}
+{"id":"src/strings.c#gText_MainMenuMysteryEvents","th":"อีเวนต์ลึกลับ"}
+{"id":"src/strings.c#gText_WirelessNotConnected","th":"ไม่ได้เชื่อมต่อ\\nอะแดปเตอร์ไร้สาย"}
+{"id":"src/strings.c#gText_MysteryGiftCantUse","th":"ไม่สามารถใช้ของขวัญลึกลับ\\nขณะเสียบอะแดปเตอร์ไร้สาย"}
+{"id":"src/strings.c#gText_MysteryEventsCantUse","th":"ไม่สามารถใช้อีเวนต์ลึกลับ\\nขณะเสียบอะแดปเตอร์ไร้สาย"}
+{"id":"src/strings.c#gText_UpdatingSaveExternalData","th":"กำลังอัปเดตไฟล์เซฟด้วย\\nข้อมูลภายนอก กรุณารอสักครู่"}
+{"id":"src/strings.c#gText_SaveFileUpdated","th":"อัปเดตไฟล์เซฟแล้ว"}
+{"id":"src/strings.c#gText_SaveFileCorrupted","th":"ไฟล์เซฟเสียหาย\\nจะโหลดไฟล์เซฟก่อนหน้าแทน"}
+{"id":"src/strings.c#gText_SaveFileErased","th":"ไฟล์เซฟถูกลบ\\nเนื่องจากข้อมูลเสียหาย"}
+{"id":"src/strings.c#gText_BatteryRunDry","th":"แบตเตอรี่ภายในหมดแล้ว\\nยังเล่นเกมได้ตามปกติ\\pแต่อีเวนต์ที่ขึ้นกับเวลา\\nจะไม่เกิดขึ้นอีก"}
+{"id":"src/strings.c#gText_Player","th":"ผู้เล่น"}
+{"id":"src/strings.c#gText_Pokedex","th":"โปเกเด็กซ์"}
+{"id":"src/strings.c#gText_Time","th":"เวลา"}
+{"id":"src/strings.c#gText_Badges","th":"เข็มกลัด"}
+{"id":"src/strings.c#gText_AButton","th":"ปุ่ม A"}
+{"id":"src/strings.c#gText_BButton","th":"ปุ่ม B"}
+{"id":"src/strings.c#gText_RButton","th":"ปุ่ม R"}
+{"id":"src/strings.c#gText_LButton","th":"ปุ่ม L"}
+{"id":"src/strings.c#gText_Start","th":"START"}
+{"id":"src/strings.c#gText_Select","th":"SELECT"}
+{"id":"src/strings.c#gText_ControlPad","th":"+ ปุ่มทิศทาง"}
+{"id":"src/strings.c#gText_LButtonRButton","th":"ปุ่ม L  ปุ่ม R"}
+{"id":"src/strings.c#gText_Controls","th":"การควบคุม"}
+{"id":"src/strings.c#gText_PickOk","th":"{DPAD_UPDOWN}เลือก {A_BUTTON}ตกลง"}
+{"id":"src/strings.c#gText_Next","th":"{A_BUTTON}ถัดไป"}
+{"id":"src/strings.c#gText_NextBack","th":"{A_BUTTON}ถัดไป {B_BUTTON}กลับ"}
+{"id":"src/strings.c#gText_PickNextCancel","th":"{DPAD_UPDOWN}เลือก {A_BUTTON}ถัดไป {B_BUTTON}ยกเลิก"}
+{"id":"src/strings.c#gText_PickCancel","th":"{DPAD_UPDOWN}เลือก {A_BUTTON}{B_BUTTON}ยกเลิก"}
+{"id":"src/strings.c#gText_AButtonExit","th":"{A_BUTTON}ออก"}
+{"id":"src/strings.c#gText_BirchBoy","th":"ผู้ชาย"}
+{"id":"src/strings.c#gText_BirchGirl","th":"ผู้หญิง"}
+{"id":"src/strings.c#gText_DefaultNameStu","th":"สตู"}
+{"id":"src/strings.c#gText_DefaultNameMilton","th":"มิลตัน"}
+{"id":"src/strings.c#gText_DefaultNameTom","th":"ทอม"}
+{"id":"src/strings.c#gText_DefaultNameKenny","th":"เคนนี่"}
+{"id":"src/strings.c#gText_DefaultNameReid","th":"รีด"}
+{"id":"src/strings.c#gText_DefaultNameJude","th":"จูด"}
+{"id":"src/strings.c#gText_DefaultNameJaxson","th":"แจ็กสัน"}
+{"id":"src/strings.c#gText_DefaultNameEaston","th":"อีสตัน"}
+{"id":"src/strings.c#gText_DefaultNameWalker","th":"วอลเกอ"}
+{"id":"src/strings.c#gText_DefaultNameTeru","th":"เทรุ"}
+{"id":"src/strings.c#gText_DefaultNameJohnny","th":"จอนนี่"}
+{"id":"src/strings.c#gText_DefaultNameBrett","th":"เบร็ท"}
+{"id":"src/strings.c#gText_DefaultNameSeth","th":"เซธ"}
+{"id":"src/strings.c#gText_DefaultNameTerry","th":"เทอรี่"}
+{"id":"src/strings.c#gText_DefaultNameCasey","th":"เคซี่"}
+{"id":"src/strings.c#gText_DefaultNameDarren","th":"ดาร์เรน"}
+{"id":"src/strings.c#gText_DefaultNameLandon","th":"แลนดอน"}
+{"id":"src/strings.c#gText_DefaultNameCollin","th":"คอลลิน"}
+{"id":"src/strings.c#gText_DefaultNameStanley","th":"สแตนลี่"}
+{"id":"src/strings.c#gText_DefaultNameQuincy","th":"ควินซี่"}
+{"id":"src/strings.c#gText_DefaultNameKimmy","th":"คิมมี่"}

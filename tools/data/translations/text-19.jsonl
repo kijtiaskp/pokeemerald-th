@@ -128,3 +128,371 @@
 {"id":"src/data/pokemon/pokedex_text.h#gPupitarPokedexText","th":"ซานากิราสสร้างก๊าซขึ้นในร่าง\\nแล้วอัดพ่นออกมาเพื่อพุ่งตัว\\nไปข้างหน้าเหมือนเครื่องบินไอพ่น\\nร่างกายทนการชนกับเหล็กกล้าได้"}
 {"id":"src/data/pokemon/pokedex_text.h#gTyranitarPokedexText","th":"บันกิราสทรงพลังอย่างมหาศาล\\nมันทำลายภูเขาทั้งลูกเพื่อสร้างรังได้\\nมันท่องไปตามภูเขา\\nเพื่อหาคู่ต่อสู้ใหม่"}
 {"id":"src/data/pokemon/pokedex_text.h#gLugiaPokedexText","th":"ลูเกียทรงพลังมาก\\nแค่กระพือปีกเบา ๆ ก็พัดบ้านพังได้\\nมันจึงเลือกอาศัยอยู่ลึกใต้ทะเล\\nให้พ้นสายตาผู้คน"}
+{"id":"src/data/pokemon/pokedex_text.h#gHoOhPokedexText","th":"ขนของมันเปล่งแสงเจ็ดสีตามมุม\\nที่แสงตกกระทบ เชื่อกันว่านำความสุขมาให้\\nกล่าวกันว่ามันอาศัยอยู่\\nที่เชิงสายรุ้ง"}
+{"id":"src/data/pokemon/pokedex_text.h#gCelebiPokedexText","th":"โปเกมอนนี้เดินทางข้ามกาลเวลา\\nมาจากอนาคต เชื่อกันว่าตราบใดที่\\nเซเลบียังปรากฏตัว\\nอนาคตที่สดใสก็รอพวกเราอยู่"}
+{"id":"src/data/pokemon/pokedex_text.h#gTreeckoPokedexText","th":"มันทำรังบนต้นไม้ยักษ์ในป่า\\nและปกป้องอาณาเขตจากทุกสิ่งที่เข้าใกล้\\nอย่างดุดัน กล่าวกันว่ามันเป็น\\nผู้พิทักษ์ต้นไม้ในป่า"}
+{"id":"src/data/pokemon/pokedex_text.h#gGrovylePokedexText","th":"ใบไม้งอกออกมาจากร่างของโปเกมอนนี้\\nช่วยพรางจุปทรุจากสายตาศัตรู\\nขณะอยู่ในป่า\\nที่มีต้นไม้ขึ้นหนาทึบ"}
+{"id":"src/data/pokemon/pokedex_text.h#gSceptilePokedexText","th":"ในป่าดงดิบ ไม่มีใครเทียบพลังของมันได้\\nโปเกมอนนี้ดูแลต้นไม้\\nและพืชอย่างใส่ใจ มันควบคุม\\nอุณหภูมิร่างกายด้วยการอาบแดด"}
+{"id":"src/data/pokemon/pokedex_text.h#gTorchicPokedexText","th":"เมื่อถูกโจมตี มันจะโต้กลับ\\nด้วยการพ่นลูกไฟที่สร้างในท้อง\\nอาชาโมไม่ชอบความมืด\\nเพราะมองไม่เห็นสิ่งรอบตัว"}
+{"id":"src/data/pokemon/pokedex_text.h#gCombuskenPokedexText","th":"มันเตะรัวได้ถึง 10 ครั้งต่อวินาที\\nสัญชาตญาณนักสู้อันแรงกล้า\\nทำให้มันบุกไม่หยุด\\nจนกว่าคู่ต่อสู้จะยอมแพ้"}
+{"id":"src/data/pokemon/pokedex_text.h#gBlazikenPokedexText","th":"มันเรียนรู้ศิลปะการต่อสู้ที่ใช้หมัดและเท้า\\nทุก ๆ หลายปี ขนเก่าจะไหม้หลุดไป\\nแล้วขนใหม่ที่นุ่มนวล\\nจะงอกขึ้นมาแทนที่"}
+{"id":"src/data/pokemon/pokedex_text.h#gMudkipPokedexText","th":"บนบก มันยกก้อนหินใหญ่ได้อย่างทรงพลัง\\nด้วยการยันเท้าทั้งสี่แล้วออกแรงดัน\\nมันนอนหลับด้วยการ\\nฝังตัวในดินริมน้ำ"}
+{"id":"src/data/pokemon/pokedex_text.h#gMarshtompPokedexText","th":"ขาหลังที่แข็งแรงทำให้มันยืนตัวตรงได้\\nเพราะมันจะอ่อนแรงถ้าผิวแห้ง\\nมันจึงเติมความชุ่มชื้น\\nด้วยการเล่นโคลน"}
+{"id":"src/data/pokemon/pokedex_text.h#gSwampertPokedexText","th":"เมื่อรู้สึกว่าพายุและคลื่นยักษ์\\nกำลังมา มันจะกองก้อนหิน\\nเพื่อปกป้องรังริมทะเล\\nมันว่ายน้ำเร็วพอ ๆ กับเจ็ตสกี"}
+{"id":"src/data/pokemon/pokedex_text.h#gPoochyenaPokedexText","th":"มันแยกเขี้ยวข่มขู่ศัตรูอย่างดุร้าย\\nและไล่ตามเป้าหมายที่หนีอย่างไม่ลดละ\\nแต่ถ้าศัตรูโต้กลับ\\nมันจะหันหลังวิ่งหนีทันที"}
+{"id":"src/data/pokemon/pokedex_text.h#gMightyenaPokedexText","th":"ในธรรมชาติ กราเอนาอยู่กันเป็นฝูง\\nพวกมันไม่เคยขัดคำสั่งของจ่าฝูง\\nและเอาชนะศัตรูได้\\nด้วยการทำงานเป็นทีมอย่างไร้ที่ติ"}
+{"id":"src/data/pokemon/pokedex_text.h#gZigzagoonPokedexText","th":"มันถูจมูกกับพื้นแล้วเดินวนไปมา\\nเพื่อค้นหาบางสิ่งอยู่เสมอ\\nจุดเด่นของมันคือ\\nรอยเท้าซิกแซกที่ทิ้งไว้"}
+{"id":"src/data/pokemon/pokedex_text.h#gLinoonePokedexText","th":"มันวิ่งเร็วมากถ้าต้องวิ่งเป็นเส้นตรง\\nเมื่อเห็นเหยื่อที่อาศัยในบ่อน้ำ\\nมันจะกระโจนลงไปอย่างรวดเร็ว\\nแล้วจับด้วยกรงเล็บอันแหลมคม"}
+{"id":"src/data/pokemon/pokedex_text.h#gWurmplePokedexText","th":"มันเกาะกิ่งไม้และกินใบไม้\\nเส้นใยที่พ่นออกจากปาก\\nจะเหนียวหนืดเมื่อโดนอากาศ\\nทำให้ศัตรูเคลื่อนไหวช้าลง"}
+{"id":"src/data/pokemon/pokedex_text.h#gSilcoonPokedexText","th":"มันเตรียมตัววิวัฒนาการ\\nด้วยพลังงานที่สะสมไว้ตอนเป็นเคมุสโซ\\nมันเฝ้าระวังรอบตัว\\nด้วยดวงตาทั้งสองข้าง"}
+{"id":"src/data/pokemon/pokedex_text.h#gBeautiflyPokedexText","th":"จุดเด่นที่สุดคือปีกลวดลายหลากสี\\nมันบินผ่านทุ่งดอกไม้\\nเพื่อเก็บเกสร\\nเมื่อโกรธจะโจมตีอย่างดุร้าย"}
+{"id":"src/data/pokemon/pokedex_text.h#gCascoonPokedexText","th":"เพื่อไม่ให้ศัตรูพบ\\nมันจะซ่อนตัวนิ่ง ๆ ใต้ใบไม้ใหญ่\\nและตามซอกกิ่งไม้ มันยังเอาใบไม้แห้ง\\nมาติดตัวเพื่อพรางตัวด้วย"}
+{"id":"src/data/pokemon/pokedex_text.h#gDustoxPokedexText","th":"โปเกมอนหากินกลางคืนที่บินจาก\\nทุ่งและภูเขาเข้าหาแสงไฟตามถนน\\nยามค่ำคืน มันโปรยผงพิษร้ายแรง\\nออกจากปีก"}
+{"id":"src/data/pokemon/pokedex_text.h#gLotadPokedexText","th":"โปเกมอนนี้อาศัยในบ่อน้ำใส\\nขึ้นชื่อว่าช่วยพาโปเกมอนตัวเล็ก\\nข้ามบ่อน้ำ โดยให้ขี่\\nบนใบไม้กว้างบนหัว"}
+{"id":"src/data/pokemon/pokedex_text.h#gLombrePokedexText","th":"ในยามเย็น มันชอบโผล่ขึ้นจากแม่น้ำ\\nมาทำให้ผู้คนตกใจเป็นที่สุด\\nมันกินตะไคร่น้ำ\\nที่ขึ้นบนก้อนหินใต้ท้องน้ำ"}
+{"id":"src/data/pokemon/pokedex_text.h#gLudicoloPokedexText","th":"เมื่อได้ยินเพลงครึกครื้น\\nเซลล์ทั่วร่างจะถูกกระตุ้น\\nจนเริ่มขยับตัวตามจังหวะ\\nมันไม่หวั่นแม้เจอคู่ต่อสู้ที่แข็งแกร่ง"}
+{"id":"src/data/pokemon/pokedex_text.h#gSeedotPokedexText","th":"มันห้อยตัวจากกิ่งไม้\\nและดูดสารอาหาร เมื่อกินอิ่ม\\nร่างกายจะหนักจนร่วงลงพื้น\\nดังตุ้บ"}
+{"id":"src/data/pokemon/pokedex_text.h#gNuzleafPokedexText","th":"โปเกมอนที่อาศัยในป่าและปีนต้นไม้เก่ง\\nจมูกที่ยาวแหลมคือจุดอ่อน\\nถ้าถูกจับจมูกไว้\\nมันจะหมดแรง"}
+{"id":"src/data/pokemon/pokedex_text.h#gShiftryPokedexText","th":"กล่าวกันว่ามันมาพร้อมลมหนาวเหน็บ\\nเป็นที่หวาดกลัวมาแต่โบราณ\\nในฐานะผู้พิทักษ์ป่า โปเกมอนนี้อาศัย\\nในป่าลึกที่ผู้คนไม่กล้าย่างกราย"}
+{"id":"src/data/pokemon/pokedex_text.h#gTaillowPokedexText","th":"แม้ตัวจะเล็ก แต่กล้าหาญมาก\\nมันกล้าสู้กับแอร์มุโดที่ตัวใหญ่กว่า\\nอย่างไม่เกรงกลัว แต่ถ้าหิว\\nความมุ่งมั่นก็จะอ่อนลง"}
+{"id":"src/data/pokemon/pokedex_text.h#gSwellowPokedexText","th":"โอสึบาเมะโฉบลงหาเหยื่อจากที่สูง\\nและไม่เคยพลาดเป้า\\nมันบินขึ้นฟ้า\\nเพื่อตามหาดินแดนที่อากาศอบอุ่น"}
+{"id":"src/data/pokemon/pokedex_text.h#gWingullPokedexText","th":"มันทำรังบนหน้าผาสูงชันริมทะเล\\nมันกระพือปีกขณะบินได้ไม่นาน\\nจึงร่อนไปตาม\\nกระแสลมที่พัดขึ้นแทน"}
+{"id":"src/data/pokemon/pokedex_text.h#gPelipperPokedexText","th":"มันบินเรี่ยยอดคลื่น\\nเมื่อเห็นเหยื่อ จะใช้จะงอยปากใหญ่\\nตักเหยื่อขึ้นมาพร้อมน้ำ\\nมันปกป้องไข่ไว้ในจะงอยปาก"}
+{"id":"src/data/pokemon/pokedex_text.h#gRaltsPokedexText","th":"รัลทอสใช้เขาบนหัว\\nรับรู้อารมณ์ของคนและโปเกมอนได้\\nถ้ารู้สึกถึงความเป็นศัตรู\\nมันจะหลบซ่อนตัว"}
+{"id":"src/data/pokemon/pokedex_text.h#gKirliaPokedexText","th":"คิลเลียมีพลังจิตที่ฉีกมิติ\\nเพื่อมองเห็นอนาคตได้\\nกล่าวกันว่ามันเต้นรำอย่างมีความสุข\\nในเช้าวันที่แดดสดใส"}
+{"id":"src/data/pokemon/pokedex_text.h#gGardevoirPokedexText","th":"ดูเหมือนมันจะไม่รู้สึกถึงแรงโน้มถ่วง\\nเพราะใช้พลังจิตพยุงตัวเอง\\nมันยอมสละชีวิต\\nเพื่อปกป้องเทรนเนอร์"}
+{"id":"src/data/pokemon/pokedex_text.h#gSurskitPokedexText","th":"พวกมันรวมตัวกันที่แอ่งน้ำหลังฝนตกยามเย็น\\nแล้วร่อนไปบนผิวน้ำราวกับลื่นไถล\\nมันหลั่งน้ำหวาน\\nกลิ่นหอมหวานออกจากหัว"}
+{"id":"src/data/pokemon/pokedex_text.h#gMasquerainPokedexText","th":"มันข่มขวัญศัตรูด้วยลายรูปตาขนาดใหญ่\\nบนหนวด เพราะบินไม่ได้ถ้าปีกเปียก\\nเวลาฝนตก มันจึงหลบ\\nใต้ต้นไม้ใหญ่หรือชายคา"}
+{"id":"src/data/pokemon/pokedex_text.h#gShroomishPokedexText","th":"มันชอบกินดินปุ๋ยหมักชื้น ๆ ในป่า\\nถ้าเข้าป่าหลังฝนตกหนักติดต่อกัน\\nจะเห็นคิโนโคโคะมากมาย\\nกำลังกินดินปุ๋ยหมักอย่างเอร็ดอร่อย"}
+{"id":"src/data/pokemon/pokedex_text.h#gBreloomPokedexText","th":"มันโปรยสปอร์ออกจากรูบนหมวก\\nบนหัว มันชอบอากาศอุ่นและชื้น\\nและกินต้นไม้กับพืช\\nในทุ่งและป่า"}
+{"id":"src/data/pokemon/pokedex_text.h#gSlakothPokedexText","th":"มันนอนแทบทั้งวันทั้งคืน\\nไม่เคยย้ายรังตลอดชีวิต\\nแต่บางครั้งก็เดินทางไกล\\nด้วยการว่ายไปตามแม่น้ำ"}
+{"id":"src/data/pokemon/pokedex_text.h#gVigorothPokedexText","th":"มันอยู่นิ่งไม่ได้เพราะเลือดพลุ่งพล่าน\\nด้วยพลังงาน มันวิ่งไปทั่วทุ่งและภูเขา\\nทั้งวันเพื่อระงับอารมณ์\\nถ้าไม่ทำแบบนั้น กลางคืนจะนอนไม่หลับ"}
+{"id":"src/data/pokemon/pokedex_text.h#gSlakingPokedexText","th":"เมื่อถึงฤดูผลไม้ ฝูงเคคคิง\\nจะมารวมตัวรอบต้นไม้\\nแล้วรออย่างอดทน\\nให้ผลไม้สุกร่วงลงมาเอง"}
+{"id":"src/data/pokemon/pokedex_text.h#gNincadaPokedexText","th":"มันทำรังที่รากของต้นไม้ใหญ่\\nใช้หนวดที่เหมือนหนวดแมว\\nสำรวจสิ่งรอบตัว\\nในความมืดสนิทใต้ดิน"}
+{"id":"src/data/pokemon/pokedex_text.h#gNinjaskPokedexText","th":"มันพุ่งไปมาอย่างว่องไวด้วยความเร็วสูง\\nจึงมองเห็นได้ยากมาก\\nการฟังเสียงร้องเฉพาะตัวของมันนาน ๆ\\nจะทำให้ปวดหัว"}
+{"id":"src/data/pokemon/pokedex_text.h#gShedinjaPokedexText","th":"โปเกมอนประหลาดที่ลอยอยู่กลางอากาศ\\nแม้ปีกจะไม่ขยับเลย\\nภายในร่างกายกลวงเปล่า\\nและมืดสนิท"}
+{"id":"src/data/pokemon/pokedex_text.h#gWhismurPokedexText","th":"เสียงร้องของมันดังเท่าเครื่องบินไอพ่น\\nมันหายใจผ่านรูหู\\nด้วยระบบนี้ มันจึงร้องต่อเนื่องได้\\nโดยไม่ต้องหยุดหายใจ"}
+{"id":"src/data/pokemon/pokedex_text.h#gLoudredPokedexText","th":"มันหันลำโพงกลมบนหัว\\nเพื่อยิงคลื่นเสียงความถี่สูง\\nใส่ศัตรูด้วยเสียงดังสนั่น\\nมันสะสมพลังด้วยการกระทืบพื้น"}
+{"id":"src/data/pokemon/pokedex_text.h#gExploudPokedexText","th":"มันมีอวัยวะสร้างเสียงอยู่ทั่วร่างกาย\\nมันสื่อสารกับตัวอื่น\\nด้วยการปรับระดับเสียง\\nและความดังของเสียงร้อง"}
+{"id":"src/data/pokemon/pokedex_text.h#gMakuhitaPokedexText","th":"มันชอบฝึกร่างกายให้แข็งแกร่งยิ่งกว่าสิ่งใด\\nถ้าได้ยินเสียงครืน ๆ ในถ้ำ\\nนั่นคือเสียงของมาคุโนชิตะ\\nที่กำลังฝึกอย่างหนัก"}
+{"id":"src/data/pokemon/pokedex_text.h#gHariyamaPokedexText","th":"มันชอบท้าประลองกำลัง\\nกับผู้อื่นโดยไม่ลังเล\\nเคยมีคนเห็นมันยืนบนรางรถไฟ\\nแล้วใช้ฝ่ามือผลักหยุดรถไฟ"}
+{"id":"src/data/pokemon/pokedex_text.h#gAzurillPokedexText","th":"หางที่อัดแน่นด้วยสารอาหาร\\nเด้งดึ๋งเหมือนลูกบอลยาง ในวันที่แดดดี\\nพวกมันจะมารวมกันที่ริมน้ำ\\nแล้วเล่นสาดน้ำกันอย่างสนุกสนาน"}
+{"id":"src/data/pokemon/pokedex_text.h#gNosepassPokedexText","th":"ร่างกายของมันปล่อยพลังแม่เหล็กรุนแรง\\nมันกินเหยื่อที่ถูกแรงนั้นดูดเข้ามา\\nพลังแม่เหล็กจะแรงขึ้น\\nในฤดูหนาว"}
+{"id":"src/data/pokemon/pokedex_text.h#gSkittyPokedexText","th":"ท่าทางน่ารักน่าชังของเอเนโกะ\\nทำให้มันเป็นที่นิยมมาก ในการต่อสู้\\nมันจะทำหางพองฟู\\nและขู่ศัตรูด้วยเสียงคำรามแหลม"}
+{"id":"src/data/pokemon/pokedex_text.h#gDelcattyPokedexText","th":"แทนที่จะมีรังถาวร\\nมันชอบหาที่สบาย ๆ แล้วนอนตรงนั้น\\nมันหากินกลางคืน\\nและจะกระฉับกระเฉงเมื่อพลบค่ำ"}
+{"id":"src/data/pokemon/pokedex_text.h#gSableyePokedexText","th":"มันใช้กรงเล็บแหลมคมขุดโพรงแตกแขนง\\nในถ้ำเพื่อหาอาหาร ซึ่งก็คืออัญมณีดิบ\\nยามิรามิซุ่มอยู่ในความมืด\\nจึงพบเห็นได้ยาก"}
+{"id":"src/data/pokemon/pokedex_text.h#gMawilePokedexText","th":"กรามยักษ์ของมันแท้จริงแล้ว\\nคือเขาเหล็กที่เปลี่ยนรูป มันหลอกศัตรู\\nให้ตายใจด้วยท่าทางน่ารัก\\nแล้วงับด้วยกรามยักษ์"}
+{"id":"src/data/pokemon/pokedex_text.h#gAronPokedexText","th":"โปเกมอนที่สวมเกราะเหล็ก\\nเมื่อวิวัฒนาการจะสร้างเกราะชุดใหม่\\nเกราะเก่าที่ทิ้งไปจะถูกเก็บ\\nมาเป็นโลหะสำหรับทำเครื่องเหล็ก"}
+{"id":"src/data/pokemon/pokedex_text.h#gLaironPokedexText","th":"เมื่อโคโดราสองตัวเจอกันในธรรมชาติ\\nพวกมันจะแย่งอาณาเขต\\nด้วยการเอาร่างเหล็กพุ่งชนกัน\\nเสียงชนดังไปไกลหลายกิโลเมตร"}
+{"id":"src/data/pokemon/pokedex_text.h#gAggronPokedexText","th":"เขาเหล็กจะค่อย ๆ ยาวขึ้นทีละน้อย\\nจึงใช้บอกอายุของบอสโกโดราได้\\nรอยแผลบนเกราะคือของที่ระลึก\\nจากการต่อสู้ที่มันภาคภูมิใจ"}
+{"id":"src/data/pokemon/pokedex_text.h#gMedititePokedexText","th":"มันนั่งสมาธิต่อเนื่องหลายชั่วโมงทุกวัน\\nผลจากการฝึกโยคะอย่างเคร่งครัด\\nทำให้พลังจิตของมันกล้าแกร่ง\\nจนลอยตัวได้"}
+{"id":"src/data/pokemon/pokedex_text.h#gMedichamPokedexText","th":"จากการฝึกโยคะอย่างโหดหิน\\nมันได้พลังหยั่งรู้การเคลื่อนไหว\\nของศัตรู มันต่อสู้ด้วยท่วงท่า\\nอันงดงามราวกับร่ายรำ"}
+{"id":"src/data/pokemon/pokedex_text.h#gElectrikePokedexText","th":"มันสร้างไฟฟ้าจากแรงเสียดทาน\\nกับอากาศ ในฤดูที่อากาศแห้งมาก\\nทั่วร่างของมันจะลุกโชน\\nด้วยประกายไฟรุนแรง"}
+{"id":"src/data/pokemon/pokedex_text.h#gManectricPokedexText","th":"เพราะฟ้ามักผ่าลงใกล้ ๆ ที่มันอยู่\\nจึงเคยเชื่อกันว่าไลโวลต์\\nเกิดจากสายฟ้า ในการต่อสู้\\nมันจะสร้างเมฆฝนฟ้าคะนอง"}
+{"id":"src/data/pokemon/pokedex_text.h#gPluslePokedexText","th":"มันมีนิสัยชอบเชียร์\\nโปเกมอนพวกพ้อง มันลัดวงจรไฟฟ้า\\nที่ปล่อยจากอุ้งมือ\\nให้กลายเป็นพู่เชียร์"}
+{"id":"src/data/pokemon/pokedex_text.h#gMinunPokedexText","th":"ในที่ประชุมนักวิชาการโปเกมอน\\nมีการประกาศว่าการได้รับไฟฟ้า\\nจากพลาสุรุและไมนันพร้อมกัน\\nจะช่วยให้เลือดไหลเวียนดีและกระปรี้กระเปร่า"}
+{"id":"src/data/pokemon/pokedex_text.h#gVolbeatPokedexText","th":"บารุบีทจุดไฟท้ายแล้วบินเป็นฝูง\\nวาดลวดลายเรขาคณิต\\nบนท้องฟ้ายามค่ำคืน ถ้าน้ำในบ่อสกปรก\\nพวกมันจะย้ายรัง"}
+{"id":"src/data/pokemon/pokedex_text.h#gIllumisePokedexText","th":"โปเกมอนหากินกลางคืน\\nที่ตื่นตัวเมื่อตกค่ำ มันนำฝูงบารุบีท\\nวาดลวดลายบนท้องฟ้า\\nมีการยืนยันแล้วว่ามีลวดลายกว่า 200 แบบ"}
+{"id":"src/data/pokemon/pokedex_text.h#gRoseliaPokedexText","th":"โรเซเลียที่ดื่มน้ำพุอุดมสารอาหาร\\nจะผลิดอกไม้อันสวยงาม\\nกลิ่นหอมของดอกไม้\\nทำให้ศัตรูเผลอไผล"}
+{"id":"src/data/pokemon/pokedex_text.h#gGulpinPokedexText","th":"น้ำย่อยในกระเพาะของโปเกมอนนี้\\nย่อยได้แม้กระทั่งเศษเหล็ก\\nมันกลืนสิ่งที่ใหญ่พอ ๆ กับตัวเอง\\nได้ในคำเดียว"}
+{"id":"src/data/pokemon/pokedex_text.h#gSwalotPokedexText","th":"กรดในกระเพาะที่รุนแรงของมัน\\nย่อยได้เกือบทุกอย่าง\\nสิ่งเดียวในโลกที่มารุโนมย่อยไม่ได้\\nก็คือกระเพาะของตัวเอง"}
+{"id":"src/data/pokemon/pokedex_text.h#gCarvanhaPokedexText","th":"คิบาเนียรุมโจมตีเรือเป็นฝูงจนจม\\nแม้จะกล่าวกันว่าเป็นโปเกมอนที่ดุร้ายมาก\\nแต่ทันทีที่รู้ตัวว่าอยู่ตัวเดียว\\nมันจะหนีไปอย่างขลาดกลัว"}
+{"id":"src/data/pokemon/pokedex_text.h#gSharpedoPokedexText","th":"อันธพาลแห่งท้องทะเลผู้ดุร้ายและเจ้าเล่ห์\\nผิวของมันมีพื้นผิวพิเศษ\\nที่ลดแรงต้านในน้ำ\\nว่ายได้เร็วกว่า 120 กม./ชม."}
+{"id":"src/data/pokemon/pokedex_text.h#gWailmerPokedexText","th":"แม้ปกติโปเกมอนนี้จะอาศัยในทะเล\\nแต่ก็อยู่บนบกได้ไม่นาน\\nถ้าร่างกายแห้ง\\nมันจะหมดเรี่ยวแรง"}
+{"id":"src/data/pokemon/pokedex_text.h#gWailordPokedexText","th":"มันหายใจทางรูจมูกที่ยกขึ้นเหนือทะเล\\nเมื่อสูดหายใจเต็มที่\\nโฮเอลโอดำน้ำลงไปได้ลึก\\nเกือบ 3,000 เมตร"}
+{"id":"src/data/pokemon/pokedex_text.h#gNumelPokedexText","th":"ดอนเมลเก็บลาวาเดือดไว้ในโหนกบนหลัง\\nมันเป็นโปเกมอนที่อึดทน\\nแบกของหนัก 100 กิโลกรัมได้\\nและช่วยงานมนุษย์มาตั้งแต่อดีต"}
+{"id":"src/data/pokemon/pokedex_text.h#gCameruptPokedexText","th":"โปเกมอนที่อาศัยในปล่องภูเขาไฟ\\nทุก ๆ 10 ปี ภูเขาไฟบนหลัง\\nจะปะทุอย่างรุนแรง ขณะนี้กำลังมีการวิจัย\\nถึงสาเหตุของการปะทุ"}
+{"id":"src/data/pokemon/pokedex_text.h#gTorkoalPokedexText","th":"มันต่อสู้ด้วยพลังงานจากการเผาถ่านหิน\\nเมื่อพ่นควันออกจากรูจมูก\\nจะมีเสียงดัง\\nคล้ายหวูดรถไฟ"}
+{"id":"src/data/pokemon/pokedex_text.h#gSpoinkPokedexText","th":"โปเกมอนที่ใช้พลังจิตได้ตามใจ\\nมันกระเด้งตัวไม่หยุดแม้ขณะหลับ\\nมันชอบกินเห็ด\\nที่ขึ้นอยู่ใต้ดิน"}
+{"id":"src/data/pokemon/pokedex_text.h#gGrumpigPokedexText","th":"มันเก็บพลังไว้ในไข่มุกดำบนหน้าผาก\\nเมื่อใช้พลังจิต มันจะเต้นท่าแปลก ๆ\\nท่าเต้นของมัน\\nโด่งดังมากในต่างประเทศ"}
+{"id":"src/data/pokemon/pokedex_text.h#gSpindaPokedexText","th":"จุดเด่นคือลายจุด\\nที่ไม่ซ้ำกันเลยสักตัว\\nท่าเดินโซซัดโซเซของมัน\\nทำให้ศัตรูเล็งพลาด"}
+{"id":"src/data/pokemon/pokedex_text.h#gTrapinchPokedexText","th":"กรามใหญ่ของมันบดก้อนหินได้\\nเพราะหัวใหญ่มาก\\nถ้าหงายหลังล้มลง\\nมันจะพลิกตัวกลับได้ยาก"}
+{"id":"src/data/pokemon/pokedex_text.h#gVibravaPokedexText","th":"มันปล่อยคลื่นเสียงความถี่สูง\\nด้วยการถูปีกเข้าด้วยกัน\\nเพราะปีกของบิบราวายังเติบโตไม่เต็มที่\\nมันจึงบินได้แค่ระยะสั้น"}
+{"id":"src/data/pokemon/pokedex_text.h#gFlygonPokedexText","th":"เสียงกระพือปีกของมันฟังคล้ายเสียงร้องเพลง\\nเพื่อไม่ให้ศัตรูพบ\\nมันจะกระพือปีกให้ทรายในทะเลทราย\\nฟุ้งเป็นม่านเพื่อซ่อนตัว"}
+{"id":"src/data/pokemon/pokedex_text.h#gCacneaPokedexText","th":"ซาโบเนียอาศัยในทะเลทราย\\nที่แทบไม่มีฝนตก มันต่อสู้\\nด้วยการเหวี่ยงแขนหนาที่มีหนาม\\nปีละครั้งจะมีดอกสีเหลืองบาน"}
+{"id":"src/data/pokemon/pokedex_text.h#gCacturnePokedexText","th":"หลังจากใช้ชีวิตในทะเลทรายอันโหดร้าย\\nนับพันปี เลือดของมันเปลี่ยนเป็น\\nสารชนิดเดียวกับทราย\\nมันหากินในเวลากลางคืน"}
+{"id":"src/data/pokemon/pokedex_text.h#gSwabluPokedexText","th":"โปเกมอนที่มีปีกเหมือนปุยเมฆ\\nหลังผ่านพ้นฤดูหนาวที่อาหารขาดแคลน\\nฝูงชิรุตโตะจะย้าย\\nเข้ามาใกล้เมืองในฤดูใบไม้ผลิ"}
+{"id":"src/data/pokemon/pokedex_text.h#gAltariaPokedexText","th":"มันฮัมเพลงด้วยเสียงโซปราโนอันไพเราะ\\nบินอยู่ท่ามกลางเมฆขาว\\nบนท้องฟ้าสีคราม\\nมันพ่นลูกไฟร้อนแรงออกจากปาก"}
+{"id":"src/data/pokemon/pokedex_text.h#gZangoosePokedexText","th":"เมื่อต่อสู้ มันจะยืนด้วยขาหลัง\\nแล้วโจมตีด้วยขาหน้าที่มีกรงเล็บแหลม\\nขนของมันจะตั้งชัน\\nหากเจอฮาบูเนก"}
+{"id":"src/data/pokemon/pokedex_text.h#gSeviperPokedexText","th":"ฮาบูเนกและซันกูสเป็นคู่ปรับตลอดกาล\\nมันรับมือความว่องไวของซันกูส\\nด้วยหางที่คมเหมือนดาบ\\nซึ่งมีพิษร้ายแรงซึมออกมาด้วย"}
+{"id":"src/data/pokemon/pokedex_text.h#gLunatonePokedexText","th":"มันจะตื่นตัวมากในคืนพระจันทร์เต็มดวง\\nโปเกมอนนี้ถูกค้นพบครั้งแรก\\nเมื่อ 40 ปีก่อน\\nที่จุดซึ่งอุกกาบาตตก"}
+{"id":"src/data/pokemon/pokedex_text.h#gSolrockPokedexText","th":"พลังงานแสงอาทิตย์คือแหล่งพลัง\\nของโปเกมอนนี้ ในวันที่แดดจ้า\\nโซลร็อคจะเรียงแถวหันหน้าเข้าหาดวงอาทิตย์\\nเพื่อดูดซับแสง"}
+{"id":"src/data/pokemon/pokedex_text.h#gBarboachPokedexText","th":"ร่างกายของมันปกคลุมด้วยเมือกลื่น\\nเมือกนี้เป็นเกราะป้องกัน\\nไม่ให้เชื้อโรคในน้ำโคลน\\nเข้าสู่ร่างของโดจ็อจจิ"}
+{"id":"src/data/pokemon/pokedex_text.h#gWhiscashPokedexText","th":"มันทำนายแผ่นดินไหวได้อย่างน่าประหลาด\\nตอนกลางวันมันจะนอนในโคลนก้นบ่อ\\nเมื่อตื่นขึ้น\\nมันจะกินไม่หยุดตลอดทั้งคืน"}
+{"id":"src/data/pokemon/pokedex_text.h#gCorphishPokedexText","th":"เมื่อใช้ก้ามใหญ่หนีบเหยื่อได้แล้ว\\nมันจะไม่ยอมปล่อยไม่ว่ากรณีใด\\nเป็นโปเกมอนที่อึดทน\\nอยู่รอดได้ในทุกสภาพแวดล้อม"}
+{"id":"src/data/pokemon/pokedex_text.h#gCrawdauntPokedexText","th":"โปเกมอนป่าเถื่อนที่รักการต่อสู้\\nชิซาริเกอร์รุ่นเก๋าที่ชนะมาแล้ว\\nนับร้อยครั้ง จะมีก้ามยักษ์\\nที่เต็มไปด้วยรอยแผลนับไม่ถ้วน"}
+{"id":"src/data/pokemon/pokedex_text.h#gBaltoyPokedexText","th":"ยาจิลอนเคลื่อนที่ด้วยการหมุนบนขาเดียว\\nมีภาพของมันปรากฏบนจิตรกรรมฝาผนัง\\nของเมืองที่เคยรุ่งเรือง\\nในยุคโบราณ"}
+{"id":"src/data/pokemon/pokedex_text.h#gClaydolPokedexText","th":"เนนดอลนอนหลับขณะลอยอยู่กลางอากาศ\\nแขนของมันแยกออกจากลำตัว\\nและลอยอยู่ได้\\nด้วยพลังจิตของโปเกมอนนี้"}
+{"id":"src/data/pokemon/pokedex_text.h#gLileepPokedexText","th":"มันพรางตัวเป็นสาหร่าย\\nด้วยการโบกหนวดไปมา เหยื่อที่ไม่ทันระวัง\\nและเข้ามาใกล้เกินไปจะถูกกลืนทั้งตัว\\nมันสูญพันธุ์ไปเมื่อ 100 ล้านปีก่อน"}
+{"id":"src/data/pokemon/pokedex_text.h#gCradilyPokedexText","th":"มันลากร่างอันหนักอึ้งไปตามพื้นทะเล\\nและทำรังในน้ำตื้นของทะเลอุ่น\\nเมื่อน้ำลง\\nจะพบยูเรเดิลได้ตามชายหาด"}
+{"id":"src/data/pokemon/pokedex_text.h#gAnorithPokedexText","th":"มันถูกฟื้นคืนชีพจากฟอสซิล\\nด้วยพลังวิทยาศาสตร์ มันว่ายน้ำ\\nด้วยการโบกปีกแปดข้างที่ลำตัว\\nซึ่งเคยเป็นขาที่ปรับตัวให้อยู่ในทะเล"}
+{"id":"src/data/pokemon/pokedex_text.h#gArmaldoPokedexText","th":"ปกติอามัลโดอาศัยอยู่บนบก\\nแต่เมื่อล่าเหยื่อ\\nมันจะดำลงไปในทะเล\\nและว่ายน้ำด้วยปีกใหญ่สองข้าง"}
+{"id":"src/data/pokemon/pokedex_text.h#gFeebasPokedexText","th":"ฮินบาสอาศัยในบ่อน้ำ\\nที่มีวัชพืชขึ้นรก เพราะรูปร่าง\\nที่ซอมซ่อสุด ๆ\\nดูเหมือนจะมีเทรนเนอร์ไม่กี่คนที่เลี้ยงมัน"}
+{"id":"src/data/pokemon/pokedex_text.h#gMiloticPokedexText","th":"กล่าวกันว่ามันอาศัยอยู่ใต้ก้น\\nทะเลสาบขนาดใหญ่ ด้วยความที่ถือว่า\\nงดงามที่สุดในบรรดาโปเกมอนทั้งหมด\\nมันจึงถูกวาดเป็นภาพและปั้นเป็นรูปปั้น"}
+{"id":"src/data/pokemon/pokedex_text.h#gCastformPokedexText","th":"มันเปลี่ยนร่างไปตามสภาพอากาศ\\nดูเหมือนว่าความเปลี่ยนแปลงของอากาศ\\nเช่นอุณหภูมิและความชื้น\\nจะส่งผลต่อโครงสร้างเซลล์ของมัน"}
+{"id":"src/data/pokemon/pokedex_text.h#gKecleonPokedexText","th":"โปเกมอนที่เปลี่ยนสีตัว\\nให้กลมกลืนกับสิ่งรอบข้างได้\\nคาคุเรออนจะกลับเป็นสีเดิม\\nเมื่อตกใจ"}
+{"id":"src/data/pokemon/pokedex_text.h#gShuppetPokedexText","th":"โปเกมอนนี้ออกเร่ร่อนยามดึก\\nเพื่อตามหาอารมณ์ด้านลบ\\nอย่างความแค้นและความริษยา\\nแล้วกลับรังเมื่อพระอาทิตย์เริ่มขึ้น"}
+{"id":"src/data/pokemon/pokedex_text.h#gBanettePokedexText","th":"ตุ๊กตาผ้าที่ถูกทิ้งกลายเป็นโปเกมอนนี้\\nกล่าวกันว่าพวกมันอาศัยอยู่ตามกองขยะ\\nและเร่ร่อนตามหา\\nเด็กที่ทิ้งพวกมันไป"}
+{"id":"src/data/pokemon/pokedex_text.h#gDuskullPokedexText","th":"แค่ถูกตาสีแดงดวงเดียวของมันจ้องมอง\\nแม้แต่ผู้ใหญ่ร่างกำยำก็ตัวแข็งด้วยความกลัว\\nมันเป็นโปเกมอนหากินกลางคืน\\nที่เร่ร่อนภายใต้ม่านความมืด"}
+{"id":"src/data/pokemon/pokedex_text.h#gDusclopsPokedexText","th":"เชื่อกันว่าร่างกายของมันกลวงเปล่า\\nมีเพียงลูกไฟวิญญาณลุกโชนอยู่ข้างใน\\nแต่ยังไม่มีใคร\\nยืนยันทฤษฎีนี้ได้"}
+{"id":"src/data/pokemon/pokedex_text.h#gTropiusPokedexText","th":"มันบินด้วยการกระพือใบไม้กว้าง\\nพวงผลไม้ที่ขึ้นรอบคอ\\nมีรสหวานอร่อย ในฤดูใบไม้ผลิ\\nมันจะโปรยเกสรจากคอ"}
+{"id":"src/data/pokemon/pokedex_text.h#gChimechoPokedexText","th":"พวกมันบินไปมาอย่างกระฉับกระเฉง\\nเมื่อฤดูร้อนมาถึง พวกมันสื่อสารกัน\\nด้วยเสียงร้องที่แตกต่างกัน\\nถึงเจ็ดแบบ"}
+{"id":"src/data/pokemon/pokedex_text.h#gAbsolPokedexText","th":"มันรับรู้ความเปลี่ยนแปลงเล็กน้อย\\nของท้องฟ้าและผืนดินได้อย่างเฉียบคม\\nจึงทำนายภัยธรรมชาติได้\\nมันเป็นโปเกมอนอายุยืนถึง 100 ปี"}
+{"id":"src/data/pokemon/pokedex_text.h#gWynautPokedexText","th":"โซนาโนะชอบกินผลไม้หวาน\\nมันใช้แขนที่เหมือนหูเด็ดผลไม้\\nอย่างชาญฉลาด พวกมันรวมตัวกันในสวนผลไม้\\nเพราะถูกกลิ่นหอมดึงดูด"}
+{"id":"src/data/pokemon/pokedex_text.h#gSnoruntPokedexText","th":"ยูกิวาราชิมักเคลื่อนที่\\nเป็นกลุ่มราวห้าตัว กล่าวกันว่า\\nในเขตหิมะ ถ้าเห็นพวกมันตอนดึก\\nรุ่งเช้าหิมะจะตก"}
+{"id":"src/data/pokemon/pokedex_text.h#gGlaliePokedexText","th":"โอนิโกริมีพลังแช่แข็งความชื้น\\nในอากาศได้ในพริบตา\\nเมฆผลึกน้ำแข็งระยิบระยับ\\nดุจเพชรจะก่อตัวรอบร่างของมัน"}
+{"id":"src/data/pokemon/pokedex_text.h#gSphealPokedexText","th":"ร่างกายปกคลุมด้วยขนนุ่มฟูทั้งตัว\\nมันจึงไม่รู้สึกหนาวเลย\\nแม้จะกลิ้งไปมาบนแผ่นน้ำแข็ง\\nหรือดำลงไปในทะเล"}
+{"id":"src/data/pokemon/pokedex_text.h#gSealeoPokedexText","th":"โทโดกลาร์อยู่เป็นฝูงบนแผ่นน้ำแข็ง\\nมันใช้ครีบอันทรงพลังทุบน้ำแข็ง\\nมันดำลงทะเลเพื่อล่าเหยื่อ\\nวันละห้าครั้ง"}
+{"id":"src/data/pokemon/pokedex_text.h#gWalreinPokedexText","th":"เพื่อปกป้องฝูง จ่าฝูงจะต่อสู้\\nกับทุกสิ่งที่รุกล้ำอาณาเขต\\nแม้ต้องแลกด้วยชีวิต\\nงาของมันอาจหักระหว่างต่อสู้"}
+{"id":"src/data/pokemon/pokedex_text.h#gClamperlPokedexText","th":"เพิร์ลรูงับเปลือกปิดใส่เหยื่อ\\nเพื่อไม่ให้หนีไปได้ กล่าวกันว่า\\nไข่มุกที่มันสร้างขึ้นเมื่อวิวัฒนาการ\\nเปี่ยมด้วยพลังงานลึกลับ"}
+{"id":"src/data/pokemon/pokedex_text.h#gHuntailPokedexText","th":"เพื่อทนแรงกดมหาศาลของน้ำ\\nใต้ทะเลลึก กระดูกสันหลังของมัน\\nจึงหนาและแข็งแรงมาก หางที่เป็นรูปปลาเล็ก\\nมีดวงตาที่เรืองแสงได้"}
+{"id":"src/data/pokemon/pokedex_text.h#gGorebyssPokedexText","th":"ซากุราบิสดูดของเหลวในร่างเหยื่อ\\nผ่านปากที่เป็นท่อเรียวบาง\\nสีชมพูอ่อนบนตัว\\nจะสดใสขึ้นเมื่อกินอิ่ม"}
+{"id":"src/data/pokemon/pokedex_text.h#gRelicanthPokedexText","th":"โปเกมอนที่เคยเชื่อกันว่าสูญพันธุ์ไปแล้ว\\nสายพันธุ์นี้ไม่เปลี่ยนรูปร่าง\\nมาตลอด 100 ล้านปี\\nมันใช้ครีบอกเดินไปตามพื้นทะเล"}
+{"id":"src/data/pokemon/pokedex_text.h#gLuvdiscPokedexText","th":"ลัฟคัสใช้กิ่งของซันนีโกะเป็นรัง\\nมีธรรมเนียมมาแต่โบราณ\\nว่าการมอบลัฟคัสเป็นของขวัญ\\nคือการบอกความรักต่อใครสักคน"}
+{"id":"src/data/pokemon/pokedex_text.h#gBagonPokedexText","th":"แม้ตัวจะเล็ก แต่โปเกมอนนี้ทรงพลังมาก\\nเพราะร่างกายเต็มไปด้วยกล้ามเนื้อ\\nมันพุ่งโขกหัว\\nด้วยกะโหลกที่แข็งดั่งเหล็ก"}
+{"id":"src/data/pokemon/pokedex_text.h#gShelgonPokedexText","th":"มันแทบไม่กินอะไรเลยระหว่างรอวิวัฒนาการ\\nมันแข็งแกร่งขึ้นด้วยการอดทนต่อความหิว\\nเปลือกจะหลุดลอกออก\\nทันทีที่เริ่มวิวัฒนาการ"}
+{"id":"src/data/pokemon/pokedex_text.h#gSalamencePokedexText","th":"หลังผ่านไปหลายปี โครงสร้างเซลล์\\nเกิดการกลายพันธุ์ขึ้นกะทันหัน\\nจนงอกปีกออกมา เมื่อโกรธ\\nมันจะขาดสติและอาละวาดอย่างควบคุมไม่ได้"}
+{"id":"src/data/pokemon/pokedex_text.h#gBeldumPokedexText","th":"เมื่อดันบัลรวมกันเป็นฝูง\\nพวกมันเคลื่อนไหวพร้อมเพรียงกัน\\nราวกับเป็นโปเกมอนตัวเดียว\\nพวกมันสื่อสารกันด้วยคลื่นสมอง"}
+{"id":"src/data/pokemon/pokedex_text.h#gMetangPokedexText","th":"กรงเล็บที่ปลายแขนมีพลังทำลายล้าง\\nฉีกแผ่นเหล็กหนาได้\\nราวกับเป็นผ้าไหม\\nมันบินได้เร็วกว่า 100 กม./ชม."}
+{"id":"src/data/pokemon/pokedex_text.h#gMetagrossPokedexText","th":"เมทากรอสมีสมองสี่ก้อน\\nที่เชื่อมกันด้วยโครงข่ายประสาทซับซ้อน\\nผลจากการประสานกันนี้\\nทำให้มันฉลาดกว่าซูเปอร์คอมพิวเตอร์"}
+{"id":"src/data/pokemon/pokedex_text.h#gRegirockPokedexText","th":"โปเกมอนที่ร่างกายทำจากหินทั้งหมด\\nถ้าร่างกายส่วนใดบิ่นหลุดระหว่างต่อสู้\\nเรจิร็อคจะซ่อมแซมตัวเอง\\nด้วยการเติมหินก้อนใหม่"}
+{"id":"src/data/pokemon/pokedex_text.h#gRegicePokedexText","th":"ทั่วทั้งร่างทำจากน้ำแข็งแอนตาร์กติก\\nหลังการศึกษาอย่างละเอียด\\nนักวิจัยเชื่อว่าน้ำแข็งนี้\\nก่อตัวขึ้นในยุคน้ำแข็ง"}
+{"id":"src/data/pokemon/pokedex_text.h#gRegisteelPokedexText","th":"ร่างกายของมันแข็งกว่าโลหะใด ๆ\\nโลหะที่ประกอบเป็นร่างกาย\\nคือสสารลึกลับ ไม่เพียงแข็งเท่านั้น\\nแต่ยังยืดหดได้อย่างยืดหยุ่น"}
+{"id":"src/data/pokemon/pokedex_text.h#gLatiasPokedexText","th":"พวกมันอยู่เป็นฝูงเล็ก ๆ เพียงไม่กี่ตัว\\nแทบไม่เคยติดต่อกับผู้คน\\nหรือโปเกมอนอื่น\\nและจะหายตัวไปเมื่อรู้สึกถึงศัตรู"}
+{"id":"src/data/pokemon/pokedex_text.h#gLatiosPokedexText","th":"แม้จะซ่อนตัวอยู่ มันก็รู้ตำแหน่ง\\nและรับรู้อารมณ์ของผู้อื่นได้\\nเพราะมีพลังโทรจิต ด้วยสติปัญญา\\nมันจึงเข้าใจภาษามนุษย์"}
+{"id":"src/data/pokemon/pokedex_text.h#gKyogrePokedexText","th":"ไคออกาปรากฏในตำนาน\\nในฐานะผู้สร้างทะเล หลังจากต่อสู้\\nกับกราดอนมาเนิ่นนาน\\nมันก็หลับใหลอยู่ใต้ก้นทะเล"}
+{"id":"src/data/pokemon/pokedex_text.h#gGroudonPokedexText","th":"กราดอนปรากฏในตำนาน\\nในฐานะผู้สร้างแผ่นดิน มันหลับอยู่\\nในลาวาใต้พิภพ กล่าวกันว่า\\nเมื่อมันตื่น ภูเขาไฟจะปะทุ"}
+{"id":"src/data/pokemon/pokedex_text.h#gRayquazaPokedexText","th":"โปเกมอนที่บินไม่หยุดอยู่ในชั้นโอโซน\\nกล่าวกันว่ามันจะลงมาสู่พื้นดิน\\nหากไคออกาและกราดอน\\nต่อสู้กัน"}
+{"id":"src/data/pokemon/pokedex_text.h#gJirachiPokedexText","th":"กล่าวกันว่าจิราชิทำให้คำขอพรเป็นจริง\\nขณะที่มันหลับ เปลือกผลึกแข็งแรง\\nจะห่อหุ้มร่างไว้\\nเพื่อปกป้องจากศัตรู"}
+{"id":"src/data/pokemon/pokedex_text.h#gDeoxysPokedexText","th":"โปเกมอนที่กลายพันธุ์จากไวรัสต่างดาว\\nที่ถูกลำแสงเลเซอร์\\nร่างกายของมันถูกออกแบบ\\nมาเพื่อความว่องไวและความเร็วสูง"}
+{"id":"src/data/text/abilities.h#sNoneDescription","th":"ไม่มีความสามารถพิเศษ"}
+{"id":"src/data/text/abilities.h#sStenchDescription","th":"ช่วยไล่โปเกมอนป่า"}
+{"id":"src/data/text/abilities.h#sDrizzleDescription","th":"เรียกฝนระหว่างต่อสู้"}
+{"id":"src/data/text/abilities.h#sSpeedBoostDescription","th":"ความเร็วค่อย ๆ เพิ่มขึ้น"}
+{"id":"src/data/text/abilities.h#sBattleArmorDescription","th":"กันการโจมตีโดนจุดตาย"}
+{"id":"src/data/text/abilities.h#sSturdyDescription","th":"กันท่าน็อกในทีเดียว"}
+{"id":"src/data/text/abilities.h#sDampDescription","th":"กันการระเบิดตัวเอง"}
+{"id":"src/data/text/abilities.h#sLimberDescription","th":"กันอาการอัมพาต"}
+{"id":"src/data/text/abilities.h#sSandVeilDescription","th":"หลบหลีกดีขึ้นในพายุทราย"}
+{"id":"src/data/text/abilities.h#sStaticDescription","th":"ทำให้อัมพาตเมื่อสัมผัส"}
+{"id":"src/data/text/abilities.h#sVoltAbsorbDescription","th":"เปลี่ยนไฟฟ้าเป็น HP"}
+{"id":"src/data/text/abilities.h#sWaterAbsorbDescription","th":"เปลี่ยนน้ำเป็น HP"}
+{"id":"src/data/text/abilities.h#sObliviousDescription","th":"กันการหลงเสน่ห์"}
+{"id":"src/data/text/abilities.h#sCloudNineDescription","th":"ลบล้างผลของสภาพอากาศ"}
+{"id":"src/data/text/abilities.h#sCompoundEyesDescription","th":"เพิ่มความแม่นยำ"}
+{"id":"src/data/text/abilities.h#sInsomniaDescription","th":"กันการหลับ"}
+{"id":"src/data/text/abilities.h#sColorChangeDescription","th":"เปลี่ยนประเภทตามท่าศัตรู"}
+{"id":"src/data/text/abilities.h#sImmunityDescription","th":"กันการติดพิษ"}
+{"id":"src/data/text/abilities.h#sFlashFireDescription","th":"พลังเพิ่มเมื่อโดนท่าไฟ"}
+{"id":"src/data/text/abilities.h#sShieldDustDescription","th":"กันผลพิเศษของท่า"}
+{"id":"src/data/text/abilities.h#sOwnTempoDescription","th":"กันอาการสับสน"}
+{"id":"src/data/text/abilities.h#sSuctionCupsDescription","th":"ยึดร่างไว้แน่นหนา"}
+{"id":"src/data/text/abilities.h#sIntimidateDescription","th":"ลดพลังโจมตีของศัตรู"}
+{"id":"src/data/text/abilities.h#sShadowTagDescription","th":"ไม่ให้ศัตรูหนี"}
+{"id":"src/data/text/abilities.h#sRoughSkinDescription","th":"ทำร้ายผู้ที่สัมผัส"}
+{"id":"src/data/text/abilities.h#sWonderGuardDescription","th":"โดนแค่ท่าที่ “ได้ผลดีมาก”"}
+{"id":"src/data/text/abilities.h#sLevitateDescription","th":"ไม่โดนท่าประเภท GROUND"}
+{"id":"src/data/text/abilities.h#sEffectSporeDescription","th":"ปล่อยสปอร์เมื่อสัมผัส"}
+{"id":"src/data/text/abilities.h#sSynchronizeDescription","th":"ส่งต่ออาการผิดปกติ"}
+{"id":"src/data/text/abilities.h#sClearBodyDescription","th":"กันการลดค่าสถานะ"}
+{"id":"src/data/text/abilities.h#sNaturalCureDescription","th":"หายจากอาการเมื่อสลับตัว"}
+{"id":"src/data/text/abilities.h#sLightningRodDescription","th":"ดึงดูดท่าไฟฟ้า"}
+{"id":"src/data/text/abilities.h#sSereneGraceDescription","th":"ผลพิเศษของท่าเกิดง่ายขึ้น"}
+{"id":"src/data/text/abilities.h#sSwiftSwimDescription","th":"ความเร็วเพิ่มเมื่อฝนตก"}
+{"id":"src/data/text/abilities.h#sChlorophyllDescription","th":"ความเร็วเพิ่มเมื่อแดดจ้า"}
+{"id":"src/data/text/abilities.h#sIlluminateDescription","th":"เจอโปเกมอนป่าบ่อยขึ้น"}
+{"id":"src/data/text/abilities.h#sTraceDescription","th":"คัดลอกคุณสมบัติ"}
+{"id":"src/data/text/abilities.h#sHugePowerDescription","th":"เพิ่มพลังโจมตี"}
+{"id":"src/data/text/abilities.h#sPoisonPointDescription","th":"ทำให้ศัตรูติดพิษเมื่อสัมผัส"}
+{"id":"src/data/text/abilities.h#sInnerFocusDescription","th":"กันการชะงัก"}
+{"id":"src/data/text/abilities.h#sMagmaArmorDescription","th":"กันการแช่แข็ง"}
+{"id":"src/data/text/abilities.h#sWaterVeilDescription","th":"กันแผลไฟไหม้"}
+{"id":"src/data/text/abilities.h#sMagnetPullDescription","th":"ขังโปเกมอนประเภท STEEL"}
+{"id":"src/data/text/abilities.h#sSoundproofDescription","th":"ไม่โดนท่าที่ใช้เสียง"}
+{"id":"src/data/text/abilities.h#sRainDishDescription","th":"ฟื้น HP เล็กน้อยเมื่อฝนตก"}
+{"id":"src/data/text/abilities.h#sSandStreamDescription","th":"เรียกพายุทราย"}
+{"id":"src/data/text/abilities.h#sPressureDescription","th":"ศัตรูใช้ PP มากขึ้น"}
+{"id":"src/data/text/abilities.h#sThickFatDescription","th":"ทนทั้งความร้อนและความเย็น"}
+{"id":"src/data/text/abilities.h#sEarlyBirdDescription","th":"ตื่นจากการหลับได้เร็ว"}
+{"id":"src/data/text/abilities.h#sFlameBodyDescription","th":"ศัตรูที่สัมผัสจะโดนไฟไหม้"}
+{"id":"src/data/text/abilities.h#sRunAwayDescription","th":"หนีจากการต่อสู้ได้ง่าย"}
+{"id":"src/data/text/abilities.h#sKeenEyeDescription","th":"กันความแม่นยำลดลง"}
+{"id":"src/data/text/abilities.h#sHyperCutterDescription","th":"กันพลังโจมตีลดลง"}
+{"id":"src/data/text/abilities.h#sPickupDescription","th":"อาจเก็บไอเท็มได้"}
+{"id":"src/data/text/abilities.h#sTruantDescription","th":"ใช้ท่าได้เทิร์นเว้นเทิร์น"}
+{"id":"src/data/text/abilities.h#sHustleDescription","th":"แลกความแม่นยำกับพลัง"}
+{"id":"src/data/text/abilities.h#sCuteCharmDescription","th":"ทำให้หลงเสน่ห์เมื่อสัมผัส"}
+{"id":"src/data/text/abilities.h#sPlusDescription","th":"พลังเพิ่มเมื่ออยู่กับไมนัส"}
+{"id":"src/data/text/abilities.h#sMinusDescription","th":"พลังเพิ่มเมื่ออยู่กับพลัส"}
+{"id":"src/data/text/abilities.h#sForecastDescription","th":"เปลี่ยนร่างตามสภาพอากาศ"}
+{"id":"src/data/text/abilities.h#sStickyHoldDescription","th":"กันการถูกขโมยไอเท็ม"}
+{"id":"src/data/text/abilities.h#sShedSkinDescription","th":"ลอกคราบเพื่อรักษาอาการ"}
+{"id":"src/data/text/abilities.h#sGutsDescription","th":"พลังโจมตีเพิ่มเมื่อติดอาการ"}
+{"id":"src/data/text/abilities.h#sMarvelScaleDescription","th":"พลังป้องกันเพิ่มเมื่อติดอาการ"}
+{"id":"src/data/text/abilities.h#sLiquidOozeDescription","th":"ผู้ดูดพลังจะบาดเจ็บ"}
+{"id":"src/data/text/abilities.h#sOvergrowDescription","th":"ท่า GRASS แรงขึ้นเมื่อจวนตัว"}
+{"id":"src/data/text/abilities.h#sBlazeDescription","th":"ท่า FIRE แรงขึ้นเมื่อจวนตัว"}
+{"id":"src/data/text/abilities.h#sTorrentDescription","th":"ท่า WATER แรงขึ้นเมื่อจวนตัว"}
+{"id":"src/data/text/abilities.h#sSwarmDescription","th":"ท่า BUG แรงขึ้นเมื่อจวนตัว"}
+{"id":"src/data/text/abilities.h#sRockHeadDescription","th":"ไม่เสียพลังจากแรงสะท้อน"}
+{"id":"src/data/text/abilities.h#sDroughtDescription","th":"เรียกแสงแดดระหว่างต่อสู้"}
+{"id":"src/data/text/abilities.h#sArenaTrapDescription","th":"กันการหลบหนี"}
+{"id":"src/data/text/abilities.h#sVitalSpiritDescription","th":"กันการหลับ"}
+{"id":"src/data/text/abilities.h#sWhiteSmokeDescription","th":"กันการลดค่าสถานะ"}
+{"id":"src/data/text/abilities.h#sPurePowerDescription","th":"เพิ่มพลังโจมตี"}
+{"id":"src/data/text/abilities.h#sShellArmorDescription","th":"กันการโจมตีโดนจุดตาย"}
+{"id":"src/data/text/abilities.h#sCacophonyDescription","th":"ไม่โดนท่าที่ใช้เสียง"}
+{"id":"src/data/text/abilities.h#sAirLockDescription","th":"ลบล้างผลของสภาพอากาศ"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2003RegionalTourney","th":"ทัวร์นาเมนต์ภูมิภาค 2003"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_Champion","th":"ริบบิ้นแชมเปี้ยน"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2003NationalTourney","th":"ทัวร์นาเมนต์ระดับชาติ 2003"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2003GlobalCup","th":"โกลบอลคัพ 2003"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_RunnerUp","th":"ริบบิ้นรองแชมป์"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_Semifinalist","th":"ริบบิ้นรอบรองชนะเลิศ"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2004RegionalTourney","th":"ทัวร์นาเมนต์ภูมิภาค 2004"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2004NationalTourney","th":"ทัวร์นาเมนต์ระดับชาติ 2004"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2004GlobalCup","th":"โกลบอลคัพ 2004"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2005RegionalTourney","th":"ทัวร์นาเมนต์ภูมิภาค 2005"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2005NationalTourney","th":"ทัวร์นาเมนต์ระดับชาติ 2005"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_2005GlobalCup","th":"โกลบอลคัพ 2005"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonBattleCup","th":"โปเกมอนแบทเทิลคัพ"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_Participation","th":"ริบบิ้นผู้เข้าร่วม"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonLeague","th":"โปเกมอนลีก"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_AdvanceCup","th":"แอดวานซ์คัพ"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonTournament","th":"ทัวร์นาเมนต์โปเกมอน"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_Participation2","th":"ริบบิ้นผู้เข้าร่วม"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonEvent","th":"อีเวนต์โปเกมอน"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonFestival","th":"เทศกาลโปเกมอน"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_DifficultyClearing","th":"ผ่านด่านสุดยาก"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_Commemorative","th":"ริบบิ้นที่ระลึก"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_ClearingAllChallenges","th":"ริบบิ้นที่มอบให้แก่"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_ClearingAllChallenges","th":"ผู้ผ่านทุกความท้าทาย"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_100StraightWin","th":"ชนะรวด 100 ครั้ง"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_DarknessTower","th":"พิชิตหอคอยแห่งความมืด"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_RedTower","th":"พิชิตหอคอยสีแดง"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_BlackironTower","th":"พิชิตหอคอยเหล็กดำ"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_FinalTower","th":"พิชิตหอคอยสุดท้าย"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_LegendMaking","th":"สร้างตำนาน"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonCenterTokyo","th":"โปเกมอนเซ็นเตอร์โตเกียว"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonCenterOsaka","th":"โปเกมอนเซ็นเตอร์โอซาก้า"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonCenterNagoya","th":"โปเกมอนเซ็นเตอร์นาโกย่า"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_PokemonCenterNY","th":"โปเกมอนเซ็นเตอร์นิวยอร์ก"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_SummerHolidays","th":"ริบบิ้นวันหยุดฤดูร้อน"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_WinterHolidays","th":"ริบบิ้นวันหยุดฤดูหนาว"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_SpringHolidays","th":"ริบบิ้นวันหยุดฤดูใบไม้ผลิ"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_Evergreen","th":"ริบบิ้นเขียวชอุ่ม"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_SpecialHoliday","th":"ริบบิ้นวันหยุดพิเศษ"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_HardWorker","th":"ริบบิ้นคนขยัน"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_LotsOfFriends","th":"ริบบิ้นเพื่อนมากมาย"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_FullOfEnergy","th":"ริบบิ้นพลังล้นเหลือ"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_LovedPokemon","th":"ริบบิ้นที่ระลึก"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_LovedPokemon","th":"สำหรับโปเกมอนที่เป็นที่รัก"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart1_LoveForPokemon","th":"ริบบิ้นที่แสดงถึง"}
+{"id":"src/data/text/gift_ribbon_descriptions.h#gGiftRibbonDescriptionPart2_LoveForPokemon","th":"ความรักต่อโปเกมอน"}
+{"id":"src/data/text/item_descriptions.h#sMasterBallDesc","th":"ลูกบอลที่ดีที่สุด\\nจับโปเกมอนได้\\nโดยไม่พลาด"}
+{"id":"src/data/text/item_descriptions.h#sUltraBallDesc","th":"ลูกบอลที่ดีกว่า\\nจับได้ง่ายกว่า\\nGREAT BALL"}
+{"id":"src/data/text/item_descriptions.h#sGreatBallDesc","th":"ลูกบอลที่ดี\\nจับได้ง่ายกว่า\\nPOKé BALL"}
+{"id":"src/data/text/item_descriptions.h#sPokeBallDesc","th":"อุปกรณ์สำหรับ\\nจับโปเกมอน\\nป่า"}
+{"id":"src/data/text/item_descriptions.h#sSafariBallDesc","th":"ลูกบอลพิเศษที่ใช้ได้\\nเฉพาะใน\\nซาฟารีโซน"}
+{"id":"src/data/text/item_descriptions.h#sNetBallDesc","th":"ลูกบอลที่ได้ผลดีกับ\\nโปเกมอนประเภท\\nWATER และ BUG"}
+{"id":"src/data/text/item_descriptions.h#sDiveBallDesc","th":"ลูกบอลที่ได้ผลดีกับ\\nโปเกมอนที่อยู่\\nใต้ท้องทะเล"}
+{"id":"src/data/text/item_descriptions.h#sNestBallDesc","th":"ลูกบอลที่ได้ผลดีกับ\\nโปเกมอนที่\\nอ่อนแอ"}
+{"id":"src/data/text/item_descriptions.h#sRepeatBallDesc","th":"ลูกบอลที่ได้ผลดีกับ\\nโปเกมอนที่เคย\\nจับได้แล้ว"}
+{"id":"src/data/text/item_descriptions.h#sTimerBallDesc","th":"ลูกบอลที่ยิ่งแรงขึ้น\\nเมื่อต่อสู้\\nนานหลายเทิร์น"}
+{"id":"src/data/text/item_descriptions.h#sLuxuryBallDesc","th":"ลูกบอลแสนสบาย\\nทำให้โปเกมอน\\nสนิทสนมง่ายขึ้น"}
+{"id":"src/data/text/item_descriptions.h#sPremierBallDesc","th":"ลูกบอลหายาก\\nทำขึ้นเพื่อระลึกถึง\\nงานบางอย่าง"}
+{"id":"src/data/text/item_descriptions.h#sPotionDesc","th":"ฟื้น HP ของ\\nโปเกมอน\\n20 หน่วย"}
+{"id":"src/data/text/item_descriptions.h#sAntidoteDesc","th":"รักษาโปเกมอน\\nที่ติดพิษ"}
+{"id":"src/data/text/item_descriptions.h#sBurnHealDesc","th":"รักษาโปเกมอน\\nที่โดนไฟไหม้"}
+{"id":"src/data/text/item_descriptions.h#sIceHealDesc","th":"ละลายน้ำแข็งให้\\nโปเกมอนที่ถูกแช่แข็ง"}
+{"id":"src/data/text/item_descriptions.h#sAwakeningDesc","th":"ปลุกโปเกมอน\\nที่หลับอยู่"}
+{"id":"src/data/text/item_descriptions.h#sParalyzeHealDesc","th":"รักษาโปเกมอน\\nที่เป็นอัมพาต"}
+{"id":"src/data/text/item_descriptions.h#sFullRestoreDesc","th":"ฟื้น HP และ\\nรักษาอาการผิดปกติ\\nของโปเกมอนจนหมด"}
+{"id":"src/data/text/item_descriptions.h#sMaxPotionDesc","th":"ฟื้น HP ของ\\nโปเกมอนจนเต็ม"}
+{"id":"src/data/text/item_descriptions.h#sHyperPotionDesc","th":"ฟื้น HP ของ\\nโปเกมอน\\n200 หน่วย"}
+{"id":"src/data/text/item_descriptions.h#sSuperPotionDesc","th":"ฟื้น HP ของ\\nโปเกมอน\\n50 หน่วย"}
+{"id":"src/data/text/item_descriptions.h#sFullHealDesc","th":"รักษาอาการผิดปกติ\\nทั้งหมดของ\\nโปเกมอน 1 ตัว"}
+{"id":"src/data/text/item_descriptions.h#sReviveDesc","th":"ชุบชีวิตโปเกมอน\\nที่หมดสติ พร้อม HP\\nครึ่งหนึ่ง"}
+{"id":"src/data/text/item_descriptions.h#sMaxReviveDesc","th":"ชุบชีวิตโปเกมอน\\nที่หมดสติ พร้อม HP\\nเต็มหลอด"}
+{"id":"src/data/text/item_descriptions.h#sFreshWaterDesc","th":"น้ำแร่\\nที่ฟื้น HP\\n50 หน่วย"}
+{"id":"src/data/text/item_descriptions.h#sSodaPopDesc","th":"น้ำอัดลมซ่า ๆ\\nที่ฟื้น HP\\n60 หน่วย"}
+{"id":"src/data/text/item_descriptions.h#sLemonadeDesc","th":"เครื่องดื่มหวานจัด\\nที่ฟื้น HP\\n80 หน่วย"}
+{"id":"src/data/text/item_descriptions.h#sMoomooMilkDesc","th":"นมบำรุงร่างกาย\\nที่ฟื้น HP\\n100 หน่วย"}
+{"id":"src/data/text/item_descriptions.h#sEnergyPowderDesc","th":"ผงรสขม\\nที่ฟื้น HP\\n50 หน่วย"}
+{"id":"src/data/text/item_descriptions.h#sEnergyRootDesc","th":"รากไม้รสขม\\nที่ฟื้น HP\\n200 หน่วย"}
+{"id":"src/data/text/item_descriptions.h#sHealPowderDesc","th":"ผงรสขม\\nที่รักษาอาการ\\nผิดปกติทั้งหมด"}
+{"id":"src/data/text/item_descriptions.h#sRevivalHerbDesc","th":"สมุนไพรรสขมจัด\\nที่ชุบชีวิต\\nโปเกมอนที่หมดสติ"}
+{"id":"src/data/text/item_descriptions.h#sEtherDesc","th":"ฟื้น PP ของท่า\\nที่เลือก\\n10 หน่วย"}
+{"id":"src/data/text/item_descriptions.h#sMaxEtherDesc","th":"ฟื้น PP ของท่า\\nที่เลือก\\nจนเต็ม"}
+{"id":"src/data/text/item_descriptions.h#sElixirDesc","th":"ฟื้น PP ของ\\nทุกท่า 10 หน่วย"}
+{"id":"src/data/text/item_descriptions.h#sMaxElixirDesc","th":"ฟื้น PP ของ\\nทุกท่าของโปเกมอน\\nจนเต็ม"}
+{"id":"src/data/text/item_descriptions.h#sLavaCookieDesc","th":"ของขึ้นชื่อประจำถิ่น\\nที่รักษาอาการ\\nผิดปกติทั้งหมด"}
+{"id":"src/data/text/item_descriptions.h#sBlueFluteDesc","th":"ขลุ่ยแก้วที่ปลุก\\nโปเกมอน\\nที่หลับอยู่"}
+{"id":"src/data/text/item_descriptions.h#sYellowFluteDesc","th":"ขลุ่ยแก้วที่ช่วย\\nให้โปเกมอน\\nหายสับสน"}
+{"id":"src/data/text/item_descriptions.h#sRedFluteDesc","th":"ขลุ่ยแก้วที่ช่วย\\nให้โปเกมอน\\nหายหลงเสน่ห์"}
+{"id":"src/data/text/item_descriptions.h#sBlackFluteDesc","th":"ขลุ่ยแก้วที่ไล่\\nโปเกมอนป่า\\nให้ห่างออกไป"}
+{"id":"src/data/text/item_descriptions.h#sWhiteFluteDesc","th":"ขลุ่ยแก้วที่ล่อ\\nโปเกมอนป่า"}
+{"id":"src/data/text/item_descriptions.h#sBerryJuiceDesc","th":"น้ำผลไม้แท้ 100%\\nที่ฟื้น HP\\n20 หน่วย"}
+{"id":"src/data/text/item_descriptions.h#sSacredAshDesc","th":"ชุบชีวิตโปเกมอน\\nที่หมดสติทุกตัว\\nพร้อมฟื้นฟูจนเต็ม"}
+{"id":"src/data/text/item_descriptions.h#sShoalSaltDesc","th":"เกลือที่ได้จาก\\nส่วนลึกของ\\nถ้ำหาดตื้น"}
+{"id":"src/data/text/item_descriptions.h#sShoalShellDesc","th":"เปลือกหอยที่พบ\\nในส่วนลึกของ\\nถ้ำหาดตื้น"}
+{"id":"src/data/text/item_descriptions.h#sRedShardDesc","th":"เศษของไอเท็มโบราณ\\nขายได้\\nในราคาถูก"}
+{"id":"src/data/text/item_descriptions.h#sBlueShardDesc","th":"เศษของไอเท็มโบราณ\\nขายได้\\nในราคาถูก"}
+{"id":"src/data/text/item_descriptions.h#sYellowShardDesc","th":"เศษของไอเท็มโบราณ\\nขายได้\\nในราคาถูก"}
+{"id":"src/data/text/item_descriptions.h#sGreenShardDesc","th":"เศษของไอเท็มโบราณ\\nขายได้\\nในราคาถูก"}
+{"id":"src/data/text/item_descriptions.h#sHPUpDesc","th":"เพิ่มค่าพื้นฐาน HP\\nของโปเกมอน 1 ตัว"}
+{"id":"src/data/text/item_descriptions.h#sProteinDesc","th":"เพิ่มค่าพื้นฐาน\\nพลังโจมตีของ\\nโปเกมอน 1 ตัว"}
+{"id":"src/data/text/item_descriptions.h#sIronDesc","th":"เพิ่มค่าพื้นฐาน\\nพลังป้องกันของ\\nโปเกมอน 1 ตัว"}
+{"id":"src/data/text/item_descriptions.h#sCarbosDesc","th":"เพิ่มค่าพื้นฐาน\\nความเร็วของ\\nโปเกมอน 1 ตัว"}
+{"id":"src/data/text/item_descriptions.h#sCalciumDesc","th":"เพิ่มค่าพื้นฐาน\\nโจมตีพิเศษของ\\nโปเกมอน 1 ตัว"}
+{"id":"src/data/text/item_descriptions.h#sRareCandyDesc","th":"เพิ่มเลเวลของ\\nโปเกมอน\\n1 ระดับ"}
+{"id":"src/data/text/item_descriptions.h#sPPUpDesc","th":"เพิ่ม PP สูงสุด\\nของท่า\\nที่เลือก"}
+{"id":"src/data/text/item_descriptions.h#sZincDesc","th":"เพิ่มค่าพื้นฐาน\\nป้องกันพิเศษของ\\nโปเกมอน 1 ตัว"}
+{"id":"src/data/text/item_descriptions.h#sPPMaxDesc","th":"เพิ่ม PP ของท่า\\nจนถึง\\nค่าสูงสุด"}
+{"id":"src/data/text/item_descriptions.h#sGuardSpecDesc","th":"กันค่าสถานะลดลง\\nเมื่อใช้\\nระหว่างต่อสู้"}
+{"id":"src/data/text/item_descriptions.h#sDireHitDesc","th":"เพิ่มโอกาส\\nโจมตีโดนจุดตาย\\nตลอดการต่อสู้นั้น"}
+{"id":"src/data/text/item_descriptions.h#sXAttackDesc","th":"เพิ่มพลังโจมตี\\nตลอดการต่อสู้\\nครั้งนั้น"}
+{"id":"src/data/text/item_descriptions.h#sXDefendDesc","th":"เพิ่มพลังป้องกัน\\nตลอดการต่อสู้\\nครั้งนั้น"}
+{"id":"src/data/text/item_descriptions.h#sXSpeedDesc","th":"เพิ่มความเร็ว\\nตลอดการต่อสู้\\nครั้งนั้น"}
+{"id":"src/data/text/item_descriptions.h#sXAccuracyDesc","th":"เพิ่มความแม่นยำ\\nของท่าโจมตี\\nตลอดการต่อสู้นั้น"}
+{"id":"src/data/text/item_descriptions.h#sXSpecialDesc","th":"เพิ่มโจมตีพิเศษ\\nตลอดการต่อสู้\\nครั้งนั้น"}
+{"id":"src/data/text/item_descriptions.h#sPokeDollDesc","th":"ใช้เพื่อหนีจาก\\nการต่อสู้กับ\\nโปเกมอนป่า"}
+{"id":"src/data/text/item_descriptions.h#sFluffyTailDesc","th":"ใช้เพื่อหนีจาก\\nการต่อสู้กับ\\nโปเกมอนป่า"}
+{"id":"src/data/text/item_descriptions.h#sSuperRepelDesc","th":"ไล่โปเกมอนป่า\\nที่อ่อนแอเป็นเวลา\\n200 ก้าว"}
+{"id":"src/data/text/item_descriptions.h#sMaxRepelDesc","th":"ไล่โปเกมอนป่า\\nที่อ่อนแอเป็นเวลา\\n250 ก้าว"}
+{"id":"src/data/text/item_descriptions.h#sEscapeRopeDesc","th":"ใช้หนีออกจาก\\nถ้ำหรือดันเจี้ยน\\nได้ทันที"}
+{"id":"src/data/text/item_descriptions.h#sRepelDesc","th":"ไล่โปเกมอนป่า\\nที่อ่อนแอเป็นเวลา\\n100 ก้าว"}
+{"id":"src/data/text/item_descriptions.h#sSunStoneDesc","th":"ทำให้โปเกมอน\\nบางชนิด\\nวิวัฒนาการ"}
+{"id":"src/data/text/item_descriptions.h#sMoonStoneDesc","th":"ทำให้โปเกมอน\\nบางชนิด\\nวิวัฒนาการ"}
+{"id":"src/data/text/item_descriptions.h#sFireStoneDesc","th":"ทำให้โปเกมอน\\nบางชนิด\\nวิวัฒนาการ"}
+{"id":"src/data/text/item_descriptions.h#sThunderStoneDesc","th":"ทำให้โปเกมอน\\nบางชนิด\\nวิวัฒนาการ"}
+{"id":"src/data/text/item_descriptions.h#sWaterStoneDesc","th":"ทำให้โปเกมอน\\nบางชนิด\\nวิวัฒนาการ"}
+{"id":"src/data/text/item_descriptions.h#sLeafStoneDesc","th":"ทำให้โปเกมอน\\nบางชนิด\\nวิวัฒนาการ"}
+{"id":"src/data/text/item_descriptions.h#sTinyMushroomDesc","th":"เห็ดธรรมดา\\nที่ขายได้\\nในราคาถูก"}
+{"id":"src/data/text/item_descriptions.h#sBigMushroomDesc","th":"เห็ดหายาก\\nที่ขายได้\\nในราคาสูง"}
+{"id":"src/data/text/item_descriptions.h#sPearlDesc","th":"ไข่มุกสวย\\nที่ขายได้\\nในราคาถูก"}
+{"id":"src/data/text/item_descriptions.h#sBigPearlDesc","th":"ไข่มุกเม็ดใหญ่งดงาม\\nที่ขายได้\\nในราคาสูง"}
+{"id":"src/data/text/item_descriptions.h#sStardustDesc","th":"ทรายสีแดงสวยงาม\\nขายได้\\nในราคาสูง"}
+{"id":"src/data/text/item_descriptions.h#sStarPieceDesc","th":"เศษอัญมณีสีแดง\\nขายได้\\nในราคาสูงมาก"}
+{"id":"src/data/text/item_descriptions.h#sNuggetDesc","th":"ก้อนทองคำบริสุทธิ์\\nขายได้\\nในราคาสูง"}
+{"id":"src/data/text/item_descriptions.h#sHeartScaleDesc","th":"เกล็ดที่งดงาม\\nเป็นที่ต้องการ\\nของนักสะสม"}
+{"id":"src/data/text/item_descriptions.h#sOrangeMailDesc","th":"จดหมายลาย\\nจิกุซากุมะ\\nให้โปเกมอนถือ"}
+{"id":"src/data/text/item_descriptions.h#sHarborMailDesc","th":"จดหมายลาย\\nเคียโมเมะ\\nให้โปเกมอนถือ"}
+{"id":"src/data/text/item_descriptions.h#sGlitterMailDesc","th":"จดหมายลาย\\nปิกาจู\\nให้โปเกมอนถือ"}
+{"id":"src/data/text/item_descriptions.h#sMechMailDesc","th":"จดหมายลาย\\nคอยล์\\nให้โปเกมอนถือ"}
+{"id":"src/data/text/item_descriptions.h#sWoodMailDesc","th":"จดหมายลาย\\nนามาเคโระ\\nให้โปเกมอนถือ"}
+{"id":"src/data/text/item_descriptions.h#sWaveMailDesc","th":"จดหมายลาย\\nโฮเอลโกะ\\nให้โปเกมอนถือ"}
+{"id":"src/data/text/item_descriptions.h#sBeadMailDesc","th":"จดหมายที่มีภาพวาด\\nของโปเกมอน\\nที่ถืออยู่"}
+{"id":"src/data/text/item_descriptions.h#sShadowMailDesc","th":"จดหมายลาย\\nโยมาวารุ\\nให้โปเกมอนถือ"}
+{"id":"src/data/text/item_descriptions.h#sTropicMailDesc","th":"จดหมายลาย\\nคิเรฮานะ\\nให้โปเกมอนถือ"}
+{"id":"src/data/text/item_descriptions.h#sDreamMailDesc","th":"จดหมายที่มีภาพวาด\\nของโปเกมอน\\nที่ถืออยู่"}
+{"id":"src/data/text/item_descriptions.h#sFabMailDesc","th":"จดหมายลายหรูหรา\\nให้โปเกมอน\\nถือ"}
+{"id":"src/data/text/item_descriptions.h#sRetroMailDesc","th":"จดหมายที่มีภาพวาด\\nของโปเกมอน\\nสามตัว"}
+{"id":"src/data/text/item_descriptions.h#sCheriBerryDesc","th":"ไอเท็มให้ถือ\\nที่รักษาอัมพาต\\nระหว่างต่อสู้"}
+{"id":"src/data/text/item_descriptions.h#sChestoBerryDesc","th":"ไอเท็มให้ถือ\\nที่ปลุกโปเกมอน\\nระหว่างต่อสู้"}
+{"id":"src/data/text/item_descriptions.h#sPechaBerryDesc","th":"ไอเท็มให้ถือ\\nที่รักษาพิษ\\nระหว่างต่อสู้"}
+{"id":"src/data/text/item_descriptions.h#sRawstBerryDesc","th":"ไอเท็มให้ถือ\\nที่รักษาแผลไฟไหม้\\nระหว่างต่อสู้"}
+{"id":"src/data/text/item_descriptions.h#sAspearBerryDesc","th":"ไอเท็มให้ถือ\\nที่ละลายน้ำแข็ง\\nระหว่างต่อสู้"}
+{"id":"src/data/text/item_descriptions.h#sLeppaBerryDesc","th":"ไอเท็มให้ถือ\\nที่ฟื้น 10 PP\\nระหว่างต่อสู้"}
+{"id":"src/data/text/item_descriptions.h#sOranBerryDesc","th":"ไอเท็มให้ถือ\\nที่ฟื้น 10 HP\\nระหว่างต่อสู้"}
+{"id":"src/data/text/item_descriptions.h#sPersimBerryDesc","th":"ไอเท็มให้ถือ\\nที่รักษาอาการสับสน\\nระหว่างต่อสู้"}

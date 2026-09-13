@@ -1,0 +1,477 @@
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_ThankYouNotEnoughToBattle", "th": "{PLAYER} ขอบคุณนะครับ การเป็นเทรนเนอร์นี่ไม่ง่ายเลยนะครับ\\pแค่มีโปเกมอนแล้วให้มันต่อสู้ยังไม่พอ นั่นยังไม่ใช่เทรนเนอร์ตัวจริงครับ$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_UncleNoNeedToBeDown", "th": "ลุง: มิตสึรุ ไม่ต้องท้อใจขนาดนั้นหรอก\\pไม่มีอะไรมาขวางไม่ให้หลานแข็งแกร่งขึ้นเรื่อย ๆ ได้หรอกนะ\\pมา กลับบ้านกันเถอะ ทุกคนรออยู่นะ$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_UncleVisitUsSometime", "th": "ลุง: {PLAYER}{KUN} ลุงเพิ่งนึกออก เธอคงเป็นเทรนเนอร์ที่คอยดูแลมิตสึรุตอนที่เขาจับโปเกมอนตัวแรกสินะ\\pแวะมาเยี่ยมพวกเราที่ชิดาเกะบ้างสิ มิตสึรุคงดีใจแน่ ๆ$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_WallyPokenavCall", "th": "… … … … … … … … … … … ติ๊ด!\\pมิตสึรุ: อ๊ะ สวัสดีครับ {PLAYER}!\\pผมแค่อยากบอกว่าคุณลุงซื้อโปเกนาวีให้ผมแล้วครับ!\\pต่อไปนี้ผมติดต่อ {PLAYER} ได้ทุกเมื่อเลยครับ!\\p… … … … … … … … … … … แกร๊ก!$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_RegisteredWally", "th": "ลงทะเบียนมิตสึรุไว้ในโปเกนาวีแล้ว$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_ScottYouDidntHoldBack", "th": "เอนิชิดะ: เฮะเฮะ… ผมดูแมตช์เมื่อกี้อยู่ด้วยนะ!\\pเธอเป็นเพื่อนกับเด็กชื่อมิตสึรุคนนั้นใช่ไหม?\\pแต่เธอก็ไม่ออมมือเลย แถมยังชนะได้อย่างสวยงามอีกต่างหาก\\pใช่เลย! นี่แหละการต่อสู้โปเกมอนของจริง!\\pผมชื่นชมเทรนเนอร์แบบนี้ที่สุดเลย!\\p… … … … … … ผมจะเป็นกำลังใจให้นะ!$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_WattsonNeedFavorTakeKey", "th": "เท็สเซ็น: โอ้ {PLAYER}{KUN}! ดูท่าทางกระฉับกระเฉงดีนี่! ดีมาก วาฮ่าฮ่าฮ่าฮ่า!\\pเอาล่ะ! ข้าตัดสินใจแล้ว! ข้ามีเรื่องจะขอร้องหน่อย {PLAYER}{KUN}!\\pเมืองคินเซ็ตสึมีเขตใต้ดินชื่อว่านิวคินเซ็ตสึ\\p{PLAYER}{KUN} ข้าอยากให้เจ้าไปที่นั่นแล้วปิดเครื่องปั่นไฟให้ที\\pเครื่องปั่นไฟมันเริ่มรวน ชักจะไม่ปลอดภัยแล้ว\\pนี่ KEY สำหรับเข้าไปในนิวคินเซ็ตสึ$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_WattsonWontBeChallenge", "th": "เท็สเซ็น: ไม่ต้องห่วงหรอก สำหรับเจ้าคงไม่ใช่เรื่องยากอะไร\\pทางเข้านิวคินเซ็ตสึอยู่ไม่ไกลจากเส้นทาง 110 ใช้ท่า SURF ไปแป๊บเดียวก็ถึง\\pงั้นก็ตามนั้น ข้าฝากไว้กับเจ้าแล้วนะ! วาฮ่าฮ่าฮ่าฮ่า!$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_WattsonThanksTakeTM", "th": "เท็สเซ็น: วาฮ่าฮ่าฮ่าฮ่า!\\pข้าว่าแล้ว {PLAYER}{KUN}! ข้าเลือกคนไม่ผิดจริง ๆ!\\pนี่คือของตอบแทน--TM ที่บรรจุท่า THUNDERBOLT!\\pรับไปเถอะ เจ้าสมควรได้มันแล้ว!$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_WattsonYoungTakeCharge", "th": "เท็สเซ็น: วาฮ่าฮ่าฮ่าฮ่า!\\pได้เห็นคนรุ่นใหม่ก้าวขึ้นมาแบกรับหน้าที่แบบนี้ ข้าดีใจเหลือเกิน!$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_NurseHurtMonBackToHealth", "th": "การต่อสู้โปเกมอนมันก็เท่ดีหรอกนะ…\\pแต่ถ้าโปเกมอนบาดเจ็บ ก็ต้องดูแลรักษาให้มันหายดีด้วย$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_AllSortsOfPeopleComeThrough", "th": "ถนนในเมืองนี้ทอดยาวไปทั้งทิศเหนือ ใต้ ตะวันออก และตะวันตก\\pเพราะแบบนั้น ที่นี่เลยมีผู้คนหลากหลายแวะผ่านมา$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_RydelVeryGenerous", "th": "ไปร้านจักรยานคาเซโนะมาหรือยังคะ?\\pคุณคาเซโนะ เจ้าของร้าน เป็นคนใจกว้างมากเลยค่ะ$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_PokemonCanJumpYouOnBike", "th": "ถึงจะขี่จักรยานอยู่ โปเกมอนป่าก็อาจกระโจนเข้าใส่ได้นะ$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_CitySign", "th": "เมืองคินเซ็ตสึ “เมืองแห่งความสนุกที่สดใสเจิดจ้า!”$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_GymSign", "th": "ยิมโปเกมอนเมืองคินเซ็ตสึ หัวหน้ายิม: เท็สเซ็น “ชายผู้ร่าเริงดุจกระแสไฟฟ้า!”$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_BikeShopSign", "th": "“ปั่นบนกรวด เขย่าจิตวิญญาณ!” ร้านจักรยานคาเซโนะ$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_GameCornerSign", "th": "“แหล่งเล่นสนุกสำหรับทุกคน!” เกมคอร์เนอร์คินเซ็ตสึ$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_ExplainTV", "th": "สวัสดี ได้ดูทีวีบ้างหรือเปล่า?\\pช่วงนี้มีรายการใหม่เจ๋ง ๆ เพิ่มมาเยอะเลยนะ\\pทีวีนี่เจ๋งสุด ๆ บางทีก็เห็นเพื่อนตัวเองโผล่ในทีวีแบบไม่ทันตั้งตัว\\pบางทีเขาก็เอาเราไปออกทีวีโดยไม่บอกก่อนด้วยนะ\\pอยากออกทีวีบ้างจัง\\pเพราะงั้นเราว่าเธอควรดูทีวีทุกครั้งที่มีโอกาสนะ$"}
+{"id": "data/maps/MauvilleCity/scripts.inc#MauvilleCity_Text_BeenCheckingOutTV", "th": "สวัสดี ช่วงนี้ได้ดูทีวีบ้างไหม?$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_RydelGreeting", "th": "โอ้โฮ นี่ใครกันเนี่ย? ลูกค้าไฟแรงสุด ๆ เลย!\\pผมน่ะหรือ? เรียกผมว่าคาเซโนะก็ได้ ผมเป็นเจ้าของร้านจักรยานนี้เอง$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_DidYouComeFromFarAway", "th": "คาเซโนะ: RUNNING SHOES ของเธอ… สกปรกมอมแมมเชียว\\pมาจากที่ไกล ๆ หรือเปล่า?$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_GuessYouDontNeedBike", "th": "คาเซโนะ: อย่างนั้นหรือ?\\pถ้าอย่างนั้น เธอคงไม่ต้องการจักรยานของผมแล้วสินะ$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne", "th": "คาเซโนะ: อืม อืม… … … … …\\pเธอบอกว่าเดินทางมาไกลจากมิชิโระเลยงั้นหรือ?\\pตายจริง! ไกลเกินเรื่องเลยนะนั่น!\\pถ้ามีจักรยานของผม เธอจะไปไหนก็ได้สบาย ๆ แถมได้สัมผัสสายลมอ่อน ๆ ไปด้วย!\\pงั้นเอาอย่างนี้! ผมจะให้จักรยานเธอหนึ่งคัน!\\pอ๊ะ เดี๋ยวก่อน!\\pลืมบอกไปว่าจักรยานมีสองแบบ!\\pคือ MACH BIKE กับ ACRO BIKE!\\pMACH BIKE เหมาะกับคนที่อยากสัมผัสสายลมเต็มตัว!\\pส่วน ACRO BIKE เหมาะกับคนที่ชอบขี่โชว์ลีลา!\\pผมมันใจดีอยู่แล้ว เลือกคันไหนก็ได้ตามใจชอบเลย!\\pจะเลือกคันไหนดีล่ะ?$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_ChoseMachBike", "th": "{PLAYER} เลือก MACH BIKE$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_ChoseAcroBike", "th": "{PLAYER} เลือก ACRO BIKE$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_ComeBackToSwitchBikes", "th": "คาเซโนะ: ถ้าอยากเปลี่ยนจักรยานเมื่อไหร่ ก็แวะมาหาผมได้เลย!$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_WantToSwitchBikes", "th": "คาเซโนะ: หืม? คิดจะเปลี่ยนจักรยานอยู่หรือ?$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_IllSwitchBikes", "th": "คาเซโนะ: ได้เลย ไม่มีปัญหา! ผมเปลี่ยนให้เอง!$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_ExchangedMachForAcro", "th": "{PLAYER} เปลี่ยน MACH BIKE เป็น ACRO BIKE$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_ExchangedAcroForMach", "th": "{PLAYER} เปลี่ยน ACRO BIKE เป็น MACH BIKE$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_HappyYouLikeIt", "th": "คาเซโนะ: ดี ดี! ดีใจที่เธอชอบนะ!$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_OhYourBikeIsInPC", "th": "หืม? จักรยานที่ผมให้ไปหายไปไหนล่ะ?\\pอ๋อ เข้าใจแล้ว เธอเก็บไว้ใน PC นี่เอง\\pงั้นเอาออกจาก PC มาก่อน แล้วผมจะเปลี่ยนให้ด้วยความยินดี!\\pขอให้สายลมหนุนหลังเธอตลอดการผจญภัยนะ!$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_HandbooksAreInBack", "th": "ผมกำลังเรียนรู้เรื่องจักรยานไปด้วยระหว่างทำงานที่นี่\\pถ้าอยากได้คำแนะนำเรื่องการขี่จักรยาน มีคู่มืออยู่สองสามเล่มด้านหลังร้านนะ$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_MachHandbookWhichPage", "th": "เป็นคู่มือของ MACH BIKE\\pจะอ่านหน้าไหน?$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_HowToRideMachBike", "th": "จักรยานจะเคลื่อนที่ไปตามทิศที่กดปุ่มทิศทาง +\\pเมื่อเริ่มออกตัวแล้ว ความเร็วจะเพิ่มขึ้นเรื่อย ๆ\\pหากต้องการหยุด ให้ปล่อยปุ่มทิศทาง + จักรยานจะค่อย ๆ ชะลอจนหยุด\\pจะอ่านหน้าอื่นไหม?$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_HowToTurnMachBike", "th": "MACH BIKE ทำความเร็วได้สูง แต่หยุดกะทันหันไม่ค่อยได้\\pจึงเลี้ยวหัวมุมได้ค่อนข้างยาก\\pให้ปล่อยปุ่มทิศทาง + ก่อนถึงหัวมุมเล็กน้อยเพื่อชะลอความเร็ว\\pจะอ่านหน้าอื่นไหม?$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_SandySlopes", "th": "ทั่วภูมิภาคโฮเอ็นมีเนินทรายเล็ก ๆ อยู่หลายแห่ง\\pทรายที่ร่วนซุยทำให้ปีนขึ้นไปตามปกติไม่ได้\\pแต่ถ้ามี MACH BIKE ก็จะพุ่งขึ้นเนินทรายได้สบาย\\pจะอ่านหน้าอื่นไหม?$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_AcroHandbookWhichPage", "th": "เป็นคู่มือของ ACRO BIKE\\pจะอ่านหน้าไหน?$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_Wheelies", "th": "กดปุ่ม B ระหว่างขี่ ล้อหน้าจะยกขึ้น\\pใช้ปุ่มทิศทาง + ขี่ไปมาทั้งที่ล้อหน้ายังยกอยู่ได้\\pเทคนิคนี้เรียกว่าวีลลี่\\pจะอ่านหน้าอื่นไหม?$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_BunnyHops", "th": "กดปุ่ม B ค้างไว้ จักรยานจะกระโดดอยู่กับที่\\pเทคนิคนี้เรียกว่าบันนี่ฮอป\\pขี่ไปพร้อมกับกระโดดก็ได้ด้วย\\pจะอ่านหน้าอื่นไหม?$"}
+{"id": "data/maps/MauvilleCity_BikeShop/scripts.inc#MauvilleCity_BikeShop_Text_Jumps", "th": "กดปุ่ม B พร้อมกับปุ่มทิศทาง + เพื่อกระโดด\\pกดปุ่มทิศทาง + ไปด้านข้างเพื่อกระโดดไปทางด้านข้าง\\pกดไปด้านหลังเพื่อกลับทิศจักรยานขณะกระโดด\\pจะอ่านหน้าอื่นไหม?$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner", "th": "ที่นี่คือเกมคอร์เนอร์คินเซ็ตสึค่ะ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins", "th": "ต้องการเหรียญไว้เล่นเกมใช่ไหมคะ?\\pแต่ดูเหมือนคุณไม่มี COIN CASE ไว้ใส่เหรียญนะคะ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_WereYouLookingForCoins", "th": "กำลังหาเหรียญอยู่หรือเปล่าคะ?\\p50 เหรียญ ราคา ¥1000 ค่ะ รับไหมคะ?$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins", "th": "ขอบคุณมากค่ะ! นี่เหรียญของคุณค่ะ!$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_DontHaveEnoughMoney", "th": "เอ่อ… ดูเหมือนเงินของคุณจะไม่พอนะคะ…$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_CoinCaseIsFull", "th": "อ๊ะ? COIN CASE ของคุณเต็มแล้วค่ะ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_DontNeedCoinsThen", "th": "อ้อ… ไม่ต้องการเหรียญหรือคะ? ขอให้โชคดีกับการผจญภัยนะคะ!$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes", "th": "ยินดีต้อนรับค่ะ\\pที่นี่นำเหรียญมาแลกของรางวัลได้ค่ะ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_WhichPrize", "th": "ต้องการของรางวัลชิ้นไหนคะ?$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX", "th": "เลือก {STR_VAR_1} {STR_VAR_2} ใช่ไหมคะ?$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_SendToYourHomePC", "th": "ขอบคุณค่ะ! เราจะส่งไปที่ PC ที่บ้านของคุณนะคะ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_NotEnoughCoins", "th": "เหรียญของคุณไม่พอค่ะ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor", "th": "ไม่มีที่ว่างสำหรับวาง {STR_VAR_1} แล้ว$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_OhIsThatSo", "th": "อย่างนั้นหรือคะ? เก็บเหรียญให้ได้มากกว่านี้ก่อนแล้วค่อยกลับมานะคะ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_SoYourChoiceIsX", "th": "เลือก {STR_VAR_1} ใช่ไหมคะ?$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_HereYouGo", "th": "นี่ค่ะ!$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_CantCarryAnyMore", "th": "อ๊ะ คุณถือเพิ่มมากกว่านี้ไม่ได้แล้วค่ะ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne", "th": "ฉันพลาดไปได้ตุ๊กตาแบบเดียวกันมาสองตัวน่ะ\\pเอาไปสักตัวไหม?$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_HereYouGo2", "th": "นี่จ้ะ!$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_YouWantItButNotNow", "th": "เอ๊ะ? อยากได้ แต่ยังไม่ใช่ตอนนี้งั้นเหรอ?$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_DontBeNegative", "th": "โธ่ อย่าคิดลบแบบนั้นสิ! เอาไปเลย!$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_CantWinJackpot", "th": "มีของรางวัลที่ฉันอยากได้ แต่ไม่เคยได้แจ็กพอตสักที$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor", "th": "นี่ หนู ถ้าอยากเล่นที่นี่ ต้องมี COIN CASE นะ\\pจำได้ว่าคุณผู้หญิงบ้านข้าง ๆ มีอยู่อันหนึ่ง ลองไปหาเธอดูสิ!$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins", "th": "ดวงคนเรามันไม่อยู่ได้นานหรอก ได้มาเยอะเกินไปแล้ว เอ้า เอาเหรียญไปบ้าง!$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone", "th": "คินเซ็ตสึมีอะไรให้ทุกคนได้สนุก\\pสำหรับผม ก็คือเกมคอร์เนอร์นี่แหละ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates", "th": "โต๊ะรูเล็ตแต่ละโต๊ะมีอัตราต่างกันนะ\\pจะเลือกโต๊ะไหน ก็ดูเหรียญที่มีอยู่ก่อนล่ะ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime", "th": "อยู่ในนี้แล้วเผลอลืมเวลาได้ง่ายจริง ๆ ต้องกลับไปทำงานแล้ว$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay", "th": "ต้องใช้เหรียญถึงจะเล่นในเกมคอร์เนอร์นี้ได้นะคะ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_RouletteOnlyLuck", "th": "รูเล็ตนี่… เล่นยากทีเดียว\\pแพ้หรือชนะ ขึ้นอยู่กับโชคล้วน ๆ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed", "th": "เล่นสล็อตได้ครั้งละไม่เกินสามเหรียญนะ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_DifficultToStopOn7", "th": "ทำให้มันหยุดตรง “7” พอดีนี่ยากสุด ๆ เลย\\pถ้ามันหยุดตรง “7” ระหว่างโบนัสเกมรีลไทม์ จะได้เหรียญพิเศษด้วยนะ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo", "th": "มีข้อมูลเรื่องสล็อตมาฝากค่ะ\\pยิ่งสะสมสายฟ้าได้มาก ก็ยิ่งได้โอกาสรีลไทม์มากขึ้น\\pในเกมที่ได้โอกาสรีลไทม์สูงสุดห้าครั้ง…\\pมีโอกาสได้โบนัสปกติสี่ครั้ง ตามด้วยบิ๊กโบนัสอีกหนึ่งครั้ง\\pรวมแล้วจะได้ 660 เหรียญ แต่ก็ยากมากเลยค่ะ$"}
+{"id": "data/maps/MauvilleCity_GameCorner/scripts.inc#MauvilleCity_GameCorner_Text_CantPlayWithNoCoinCase", "th": "ถ้าไม่มี COIN CASE จะเล่นไม่ได้$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_GymGuideAdvice", "th": "เฮ้ เป็นไงบ้าง {PLAYER} ว่าที่แชมเปี้ยน?\\pเท็สเซ็น หัวหน้ายิมคินเซ็ตสึ ใช้โปเกมอนประเภท ELECTRIC\\pถ้าไปท้าเขาด้วยโปเกมอนประเภท WATER ล่ะก็ โดนช็อตแน่! เปรี๊ยะ!\\pแถมเขายังติดตั้งประตูที่ควบคุมด้วยสวิตช์ไว้ทั่วยิมอีกด้วย! แปลกคนจริง ๆ!\\pเอาล่ะ สู้เขานะ!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_GymGuidePostVictory", "th": "โอ้โห เธอนี่ไฟแรงสุด ๆ! ปล่อยไฟจนประตูเปิดเลย!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_KirkIntro", "th": "ไฟฟ้าในจิตวิญญาณฉัน จะทำลายความฝันเธอให้ป่นปี้ โว้วเย้!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_KirkDefeat", "th": "นั่นมันเสียบปลั๊ก เร่งแอมป์ โอเวอร์ไดรฟ์สุดขีดเลยเว้ย!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_KirkPostBattle", "th": "โปเกมอนกับร็อก มันอยู่ที่หัวใจล้วน ๆ โว้วเย้!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_ShawnIntro", "th": "ฉันฝึกมากับเท็สเซ็นนะเว้ย! ไม่มีทางแพ้ง่าย ๆ หรอก!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_ShawnDefeat", "th": "ปลั๊กหลุด ไฟดับ…$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_ShawnPostBattle", "th": "เท็สเซ็น หัวหน้ายิมของเรา อยู่ในวงการมานานแสนนานแล้ว\\pแกสู้มาตั้งแต่ก่อนพ่อของเธอจะเกิดซะอีก ตาแก่คนนี้เหนียวสุด ๆ$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_BenIntro", "th": "ยิมนี้มีปริศนาด้วยล่ะ! สนุกดีใช่ไหมฮะ?$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_BenDefeat", "th": "แพ้แล้วไม่สนุกเลย…$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_BenPostBattle", "th": "คุณเท็สเซ็นบอกว่าชอบทำกับดักเล็ก ๆ ด้วยสวิตช์ฮะ$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_VivianIntro", "th": "ด้วยเสน่ห์ของฉันกับท่าของโปเกมอน เธอต้องช็อกแน่!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_VivianDefeat", "th": "พลังของเธอทำฉันช็อกไปเลย!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_VivianPostBattle", "th": "ได้ยินมาว่าคุณเท็สเซ็นเป็นคนก่อตั้งเมืองคินเซ็ตสึ\\pเขาเป็นเทรนเนอร์มาก่อนพวกเราตั้งนาน คงรู้อะไรเยอะแยะไปหมดแน่ ๆ!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_AngeloIntro", "th": "ผมชอบของที่เป็นประกายวิบวับ!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_AngeloDefeat", "th": "โอ๊ย… ตาพร่าไปหมดแล้ว…$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_AngeloPostBattle", "th": "หน้าผากของคุณเท็สเซ็นแห่งยิมคินเซ็ตสึเป็นประกายวิบวับ เห็นแล้วมีความสุขจัง!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_WattsonIntro", "th": "ข้าเลิกล้มแผนปรับปรุงเมืองไปแล้วล่ะ\\pก็เลยใช้เวลาไปกับการสร้างประตูกับดักในยิมแทน\\pหืม? แล้วเจ้ามาทำอะไรที่นี่ล่ะ?\\pอะไรนะ? เจ้าบอกว่าผ่านประตูกลของข้ามาได้หมดแล้วงั้นหรือ?\\pวาฮ่าฮ่าฮ่าฮ่า! น่าสนุกจริง ๆ!\\pถ้าอย่างนั้น ข้า เท็สเซ็น หัวหน้ายิมคินเซ็ตสึ จะช็อตเจ้าให้สะใจเลย!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_WattsonDefeat", "th": "วาฮ่าฮ่าฮ่าฮ่า! ก็ได้ ข้าแพ้แล้ว!\\pเจ้าทำให้ข้าตื่นเต้นได้จริง ๆ! รับเข็มกลัดนี้ไปเถอะ!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_ReceivedDynamoBadge", "th": "{PLAYER} ได้รับเข็มกลัดไดนาโมจากเท็สเซ็น$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis", "th": "ด้วยเข็มกลัดไดนาโม โปเกมอนจะใช้ท่า ROCK SMASH นอกการต่อสู้ได้\\pแล้วยังทำให้โปเกมอนของเจ้าเร็วขึ้นอีกนิดด้วย\\pอืม… รับนี่ไปด้วยสิ!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_ExplainShockWave", "th": "TM34 นั่นบรรจุท่า SHOCK WAVE\\pเป็นท่าที่ไว้ใจได้ ไม่มีวันพลาดเป้า! พึ่งพามันได้เลย!\\p… … … … … …$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_RegisteredWattson", "th": "ลงทะเบียนหัวหน้ายิมเท็สเซ็นไว้ในโปเกนาวีแล้ว$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_WattsonPostBattle", "th": "ได้เห็นเทรนเนอร์รุ่นใหม่ที่มีอนาคตไกลอย่างเจ้า ข้าก็เปี่ยมไปด้วยความหวังเลย!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor", "th": "วาฮ่าฮ่าฮ่าฮ่า! ก้าวต่อไปแล้วพยายามเข้านะ เจ้าหนู!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_GymStatue", "th": "ยิมโปเกมอนเมืองคินเซ็ตสึ$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_GymStatueCertified", "th": "ยิมโปเกมอนเมืองคินเซ็ตสึ\\pเทรนเนอร์ที่เท็สเซ็นรับรอง: {PLAYER}$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_WattsonPreRematch", "th": "เท็สเซ็น: อะฮ่า! มาจนได้! ข้ารู้ว่าเจ้าต้องการอะไร เจ้าอยากสู้กับโปเกมอนของข้าสินะ!\\pวาฮ่าฮ่าฮ่าฮ่า!\\pข้าจะทำให้ประกายไฟแลบออกจากตัวเจ้าเลย! อย่าหาว่าข้าไม่เตือนนะ!$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_WattsonRematchDefeat", "th": "อุ๊ย… แบตเตอรี่ของเราหมดเกลี้ยงเลย…$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_WattsonPostRematch", "th": "เท็สเซ็น: เราต้องไปชาร์จแบตเตอรี่ใหม่อีกแล้ว\\pพอชาร์จเต็มเมื่อไหร่ เราจะรับคำท้าของเจ้าด้วยความยินดี\\pงั้นก็แวะมาใหม่นะ ได้ไหมล่ะ?$"}
+{"id": "data/maps/MauvilleCity_Gym/scripts.inc#MauvilleCity_Gym_Text_WattsonRematchNeedTwoMons", "th": "เท็สเซ็น: อะฮ่า! มาจนได้! ข้ารู้ว่าเจ้าต้องการอะไร เจ้าอยากสู้กับโปเกมอนของข้าสินะ!\\pวาฮ่าฮ่าฮ่าฮ่า!\\pอุ๊บส์! เดี๋ยวก่อน! เจ้ามีโปเกมอนมาแค่ตัวเดียวเองนี่!\\pพาโปเกมอนมาสองตัวขึ้นไปแล้วค่อยมาหาข้านะ ตกลงไหม?$"}
+{"id": "data/maps/MauvilleCity_House1/scripts.inc#MauvilleCity_House1_Text_ImRockSmashDudeTakeThis", "th": "วู้ฮู้!\\pได้ยินว่าคนเรียกผมว่า “ไอ้หมอ ROCK SMASH” แต่ผมว่ามันฟังดูดูถูกไปหน่อย\\pผมว่าผมควรได้รับความเคารพมากกว่านี้ อย่างเช่น “พี่ใหญ่ ROCK SMASH” อะไรแบบนี้\\pวู้ฮู้!\\pว่าแต่ โปเกมอนของเธอดูแข็งแรงดีนะ\\pชอบจัง! เอ้า รับ HIDDEN MACHINE นี่ไปเลย!$"}
+{"id": "data/maps/MauvilleCity_House1/scripts.inc#MauvilleCity_House1_Text_ExplainRockSmash", "th": "HM นั่นบรรจุท่า ROCK SMASH\\pถ้าเจอก้อนหินใหญ่ขวางทางอยู่ละก็…\\pใช้ท่าจาก HM นั่นทุบมันให้พ้นทางไปเลย!\\pใช่แล้ว! ทุบหินให้กระจุย ผมว่างั้นแหละ! วู้ฮู้!$"}
+{"id": "data/maps/MauvilleCity_House1/scripts.inc#MauvilleCity_House1_Text_MonCanFlyOutOfSmashedRock", "th": "อ้อ ใช่ ถ้าทุบหิน อาจมีโปเกมอนที่ซ่อนอยู่กระโจนออกมาด้วยนะ\\pวู้ฮู้!$"}
+{"id": "data/maps/MauvilleCity_House2/scripts.inc#MauvilleCity_House2_Text_BuyHarborMailAtSlateport", "th": "ถ้ามีจักรยาน คงปั่นไปช็อปปิ้งที่ไคนะได้สบาย ๆ\\pจะได้ไปซื้อ HARBOR MAIL ที่โปเกมาร์ทในไคนะ…$"}
+{"id": "data/maps/MauvilleCity_House2/scripts.inc#MauvilleCity_House2_Text_TradeHarborMailForCoinCase", "th": "อ๊ะ! มี HARBOR MAIL ด้วยหรือคะ? แลกกับ COIN CASE ไหมคะ?$"}
+{"id": "data/maps/MauvilleCity_House2/scripts.inc#MauvilleCity_House2_Text_IllTradeYouCoinCase", "th": "ดีใจจังเลย! โอเค ฉันจะแลก COIN CASE ให้นะคะ!$"}
+{"id": "data/maps/MauvilleCity_House2/scripts.inc#MauvilleCity_House2_Text_UseCoinCaseAtGameCorner", "th": "COIN CASE นั่นใช้ที่เกมคอร์เนอร์ได้นะคะ$"}
+{"id": "data/maps/MauvilleCity_House2/scripts.inc#MauvilleCity_House2_Text_ThatsDisappointing", "th": "โธ่ น่าเสียดายจัง\\pจะเล่นเกมคอร์เนอร์ต้องมี COIN CASE นะคะ$"}
+{"id": "data/maps/MauvilleCity_Mart/scripts.inc#MauvilleCity_Mart_Text_ItemsToTemporarilyElevateStats", "th": "มีไอเท็มที่ช่วยเพิ่มค่าสถานะของโปเกมอนได้ชั่วคราวอยู่นะ\\pที่ลุงรู้ว่าใช้ในการต่อสู้ได้ก็คือ X ATTACK กับ X DEFEND…\\pลุงเชื่อว่ายังมีแบบอื่นอีกนะ$"}
+{"id": "data/maps/MauvilleCity_Mart/scripts.inc#MauvilleCity_Mart_Text_DecisionsDetermineBattle", "th": "จะใช้ท่าไหน หรือจะใช้ไอเท็มแทน…\\pผมว่าการตัดสินใจของเทรนเนอร์นี่แหละที่กำหนดผลการต่อสู้$"}
+{"id": "data/maps/MauvilleCity_PokemonCenter_1F/scripts.inc#MauvilleCity_PokemonCenter_1F_Text_ManOverThereSaysWeirdThings", "th": "ผู้ชายคนนั้นน่ะ ชอบพูดอะไรแปลก ๆ!\\pตลกแบบแปลก ๆ ดี คงลืมเขาไม่ลงแน่เลย!$"}
+{"id": "data/maps/MauvilleCity_PokemonCenter_1F/scripts.inc#MauvilleCity_PokemonCenter_1F_Text_MyDataUpdatedFromRecordCorner", "th": "พอเข้าไปใช้เรคคอร์ดคอร์เนอร์ ข้อมูลเรื่องที่กำลังฮิตในมุโระก็อัปเดตเลยค่ะ\\pตอนนี้ข้อมูลส่วนนั้นเหมือนกับของเพื่อนฉันแล้ว!$"}
+{"id": "data/maps/MauvilleCity_PokemonCenter_1F/scripts.inc#MauvilleCity_PokemonCenter_1F_Text_RecordCornerSoundsFun", "th": "ชั้นบนของโปเกมอนเซ็นเตอร์เปิดเรคคอร์ดคอร์เนอร์แล้วฮะ\\pไม่รู้ว่าเป็นยังไง แต่ฟังดูสนุกดี จะไปดูสักหน่อย!$"}
+{"id": "data/maps/MauvilleCity_PokemonCenter_2F/scripts.inc#MauvilleCity_PokemonCenter_2F_Text_Youngster", "th": "รู้ไหมว่าที่โคลอสเซียมตรงนี้ต่อสู้ผ่านการลิงก์ได้ด้วยนะฮะ\\pเขาจะติดสถิติไว้บนผนังให้ทุกคนเห็นเลย\\pถ้าแพ้บ่อยกว่าชนะก็น่าอายแย่…$"}
+{"id": "data/maps/MeteorFalls_1F_1R/scripts.inc#MeteorFalls_1F_1R_Text_WithThisMeteorite", "th": "เฮะเฮะเฮะ!\\pด้วย METEORITE นี่ เจ้านั่นที่ภูเขาปล่องไฟจะ…$"}
+{"id": "data/maps/MeteorFalls_1F_1R/scripts.inc#MeteorFalls_1F_1R_Text_DontExpectMercyFromMagma", "th": "หา?\\pไม่รู้ว่าแกเป็นใคร แต่ถ้ามาขวางแก๊งแม็กม่าล่ะก็ อย่าหวังว่าจะได้รับความปรานี!$"}
+{"id": "data/maps/MeteorFalls_1F_1R/scripts.inc#MeteorFalls_1F_1R_Text_HoldItRightThereMagma", "th": "หยุดอยู่ตรงนั้นแหละ แก๊งแม็กม่า!\\pถ้าคิดว่าจะทำอะไรกับโลกนี้ตามใจชอบได้ล่ะก็ คิดผิดถนัดเลยเว้ย!$"}
+{"id": "data/maps/MeteorFalls_1F_1R/scripts.inc#MeteorFalls_1F_1R_Text_BeSeeingYouTeamAqua", "th": "เฮะเฮะเฮะ! แก๊งอควาก็มาด้วยแฮะ!\\pแต่จะมาจัดการพวกแกทั้งหมดก็ยุ่งยากเกินไป…\\pหึ ช่างมันเถอะ!\\pเราได้ METEORITE มาแล้ว มุ่งหน้าสู่ภูเขาปล่องไฟกันเลย!\\pเฮะเฮะเฮะ! แล้วเจอกันนะ เจ้าพวกแก๊งอควาบื้อ ๆ!$"}
+{"id": "data/maps/MeteorFalls_1F_1R/scripts.inc#MeteorFalls_1F_1R_Text_ArchieSeenYouBefore", "th": "อาโอกิริ: ข้าเคยเห็นเจ้ามาก่อนหรือเปล่า? ที่พิพิธภัณฑ์ของไคนะ?\\pอ้อ เจ้าชื่อ {PLAYER} งั้นหรือ\\pตอนนั้นข้านึกว่าเจ้าเป็นลูกสมุนแก๊งแม็กม่าซะอีก\\pหึ… เจ้านี่เป็นเด็กแปลกดีนะ\\pแก๊งแม็กม่าเป็นพวกคลั่งที่อันตรายสุด ๆ\\pพวกมันก่อความเสียหายโดยอ้างว่าจะขยายแผ่นดิน\\pพวกมันคือคู่ปรับของพวกเรา แก๊งอควาผู้รักทะเล!$"}
+{"id": "data/maps/MeteorFalls_1F_1R/scripts.inc#MeteorFalls_1F_1R_Text_BossWeShouldChaseMagma", "th": "บอส เราควรไล่ตามแก๊งแม็กม่านะ…$"}
+{"id": "data/maps/MeteorFalls_1F_1R/scripts.inc#MeteorFalls_1F_1R_Text_ArchieYesNoTellingWhatMagmaWillDo", "th": "อาโอกิริ: ใช่ ใช่ ต้องไล่ตาม! เราต้องรีบแล้ว\\pไม่รู้เลยว่าแก๊งแม็กม่าจะทำอะไรที่ภูเขาปล่องไฟ!$"}
+{"id": "data/maps/MeteorFalls_1F_1R/scripts.inc#MeteorFalls_1F_1R_Text_ArchieFarewell", "th": "อาโอกิริ: {PLAYER} เจ้าเองก็ระวังแก๊งแม็กม่าไว้ด้วยล่ะ\\pลาก่อน!$"}
+{"id": "data/maps/MeteorFalls_1F_1R/scripts.inc#MeteorFalls_1F_1R_Text_MeetProfCozmo", "th": "ผ… ผมชื่อโซราอิชิ… เป็นนักวิจัยครับ…\\pแก๊งแม็กม่าขอให้ผมนำทางไปน้ำตกดาวตก…\\pแต่พวกนั้นหลอกผม แถมยังแย่ง METEORITE ของผมไปอีก…\\pแล้วก็มีอีกกลุ่มที่คล้าย ๆ กันโผล่มา คือแก๊งอควา\\pหลังจากนั้น… ผมก็ไม่เข้าใจอะไรเลย\\pแต่แก๊งแม็กม่าพวกนั้น…\\pจะเอา METEORITE ไปทำอะไรที่ภูเขาปล่องไฟกันนะ?$"}
+{"id": "data/maps/MeteorFalls_1F_1R/scripts.inc#MeteorFalls_1F_1R_Text_WhatsTeamMagmaDoingAtMtChimney", "th": "ดร.โซราอิชิ: แต่แก๊งแม็กม่าพวกนั้น…\\pจะเอา METEORITE ไปทำอะไรที่ภูเขาปล่องไฟกันนะ?$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_NicolasIntro", "th": "ที่นี่คือที่ฝึกของพวกเราผู้ใช้โปเกมอนประเภท DRAGON\\pแม้แต่แชมเปี้ยนยังแวะมา ตอนนี้รู้หรือยังว่าที่นี่พิเศษแค่ไหน?$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_NicolasDefeat", "th": "อึก! ไม่คิดเลยว่าเธอจะเก่งขนาดนี้!$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_NicolasPostBattle", "th": "เส้นทางข้างหน้ายังอีกยาวไกลและโหดหิน\\pเมื่อไหร่ผมกับโปเกมอนจะได้เป็นที่หนึ่งนะ?$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_NicolasRegister", "th": "ผมอยากรู้เรื่องพลังของเธอให้มากกว่านี้ ขอลงทะเบียนเธอไว้ในโปเกนาวีของผมนะ$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_NicolasRematchIntro", "th": "ตั้งแต่เจอกันครั้งก่อน เราฝึกหนักโดยมุ่งเป้าสู่ที่หนึ่ง\\pช่วยทดสอบหน่อยว่าเราแข็งแกร่งขึ้นแค่ไหนแล้ว!$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_NicolasRematchDefeat", "th": "อึก! ไม่คิดเลยว่าเธอจะเก่งขนาดนี้!$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_NicolasPostRematch", "th": "เห็นได้ชัดว่าเธอยังฝึกโปเกมอนไม่หยุดเลย\\pตราบใดที่เธอยังแข็งแกร่ง ผมเองก็แข็งแกร่งขึ้นได้เหมือนกัน!$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JohnIntro", "th": "จอห์น: เราสองคนต่อสู้ด้วยโปเกมอนเป็นคู่มาตลอด เรามั่นใจในตัวเองนะ$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JohnDefeat", "th": "จอห์น: โอ้โห เราแพ้แล้วล่ะ ยายที่รัก$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JohnPostBattle", "th": "จอห์น: เราแต่งงานกันมาห้าสิบปีแล้ว\\pพอนึกดูแล้ว ตายังไม่เคยชนะยายที่รักในการต่อสู้เลยสักครั้ง$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JohnNotEnoughMons", "th": "จอห์น: โอ้โห เทรนเนอร์ตัวน้อยนี่นา!\\pจะสู้กับเราไหม? ถ้าจะสู้ ต้องพาโปเกมอนมาเพิ่มอีกนะ$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JohnRegister", "th": "จอห์น: หนูเทรนเนอร์ ถ้ามีโอกาส จะมาสู้กับเราอีกไหม?$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JayIntro", "th": "เจย์: เราแต่งงานกันมาห้าสิบปีแล้วจ้ะ\\pสายสัมพันธ์ของเราสองคนไม่มีวันขาดสะบั้นหรอก$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JayDefeat", "th": "เจย์: ตายจริง เราแพ้แล้วล่ะ ตาที่รัก$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JayPostBattle", "th": "เจย์: ห้าสิบปีที่แต่งงานกันมา…\\pเวลาทะเลาะกันทีไร เราก็ตัดสินกันด้วยการต่อสู้โปเกมอนทุกที…$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JayNotEnoughMons", "th": "เจย์: แหม เทรนเนอร์ตัวน้อยนี่นา\\pถ้าอยากสู้กับเรา ต้องพาโปเกมอนมาเพิ่มอีกนะจ๊ะ$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JohnRematchIntro", "th": "จอห์น: เราสองคนต่อสู้ด้วยโปเกมอนเป็นคู่มาตลอด เรามั่นใจในตัวเองนะ$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JohnRematchDefeat", "th": "จอห์น: โอ้โห เราแพ้แล้วล่ะ ยายที่รัก$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JohnPostRematch", "th": "จอห์น: แต่งงานกันมาห้าสิบปี…\\pย้อนนึกดูแล้ว ตากับยายที่รักสู้กันทุกวันเลยนะ…$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons", "th": "จอห์น: โอ้โห เทรนเนอร์ตัวน้อยนี่นา!\\pจะสู้กับเราไหม? ถ้าจะสู้ ต้องพาโปเกมอนมาเพิ่มอีกนะ$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JayRematchIntro", "th": "เจย์: เราแต่งงานกันมาห้าสิบปีแล้วจ้ะ\\pเราคอยประคับประคองกันมาตลอด จนแข็งแกร่งขึ้นมาได้$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JayRematchDefeat", "th": "เจย์: ตายจริง เราแพ้แล้วล่ะ ตาที่รัก$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JayPostRematch", "th": "เจย์: ห้าสิบปีที่แต่งงานกันมา… มีเรื่องราวเกิดขึ้นมากมาย\\pหวังว่าเราจะสร้างความทรงจำดี ๆ ด้วยกันต่อไปอีกนะจ๊ะ$"}
+{"id": "data/maps/MeteorFalls_1F_2R/scripts.inc#MeteorFalls_1F_2R_Text_JayRematchNotEnoughMons", "th": "เจย์: แหม เทรนเนอร์ตัวน้อยนี่นา\\pถ้าอยากสู้กับเรา ต้องพาโปเกมอนมาเพิ่มอีกนะจ๊ะ$"}
+{"id": "data/maps/MeteorFalls_StevensCave/scripts.inc#MeteorFalls_StevensCave_Text_ShouldKnowHowGoodIAmExpectWorst", "th": "ไดโกะ: โอ้โห {PLAYER}{KUN} ผมทึ่งเลยที่คุณหาผมเจอที่นี่\\pคุณคง… เอ่อ… คิดว่าผมเป็นแค่คนบ้าหินหรือเปล่าครับ?\\pไม่ใช่หรอก ไม่น่าใช่\\pเราเคยสู้เคียงข้างกันที่ศูนย์อวกาศโทคุซาเนะ\\pคุณน่าจะรู้ดีว่าผมเก่งแค่ไหน\\pเอาล่ะ {PLAYER}{KUN} ถ้าคุณจะท้าสู้อย่างจริงจัง ก็เตรียมใจรับสิ่งที่เลวร้ายที่สุดไว้ได้เลยครับ!$"}
+{"id": "data/maps/MeteorFalls_StevensCave/scripts.inc#MeteorFalls_StevensCave_Text_StevenDefeat", "th": "คุณ… ผมไม่คิดเลยว่าคุณจะแข็งแกร่งขนาดนี้…$"}
+{"id": "data/maps/MeteorFalls_StevensCave/scripts.inc#MeteorFalls_StevensCave_Text_MyPredictionCameTrue", "th": "ไดโกะ: พอนึกดูแล้ว ตั้งแต่เราพบกันครั้งแรกที่ถ้ำหินแกรนิตในมุโระ ผมก็รู้สึกแบบนี้มาตลอด\\pผมคิดไว้ว่าสักวันคุณจะได้เป็นแชมเปี้ยน\\pคำทำนายของผมมักจะเป็นจริงเสมอ\\pแล้วจากนี้คุณจะไปที่ไหนต่อ?\\p… … … … … … … … … … … …\\pฟุฟุฟุ แม้แต่ผมก็บอกไม่ได้หรอกครับ$"}
+{"id": "data/maps/MirageTower_4F/scripts.inc#MirageTower_4F_Text_TakeRootFossil", "th": "พบ ROOT FOSSIL\\pถ้าเอาฟอสซิลนี้ไป พื้นรอบ ๆ อาจพังทลายลงมา…\\pจะเอา ROOT FOSSIL ไปอยู่ดีไหม?$"}
+{"id": "data/maps/MirageTower_4F/scripts.inc#MirageTower_4F_Text_LeftRootFossilAlone", "th": "{PLAYER} ปล่อย ROOT FOSSIL ไว้อย่างเดิม$"}
+{"id": "data/maps/MirageTower_4F/scripts.inc#MirageTower_4F_Text_TakeClawFossil", "th": "พบ CLAW FOSSIL\\pถ้าเอาฟอสซิลนี้ไป พื้นรอบ ๆ อาจพังทลายลงมา…\\pจะเอา CLAW FOSSIL ไปอยู่ดีไหม?$"}
+{"id": "data/maps/MirageTower_4F/scripts.inc#MirageTower_4F_Text_LeaveClawFossilAlone", "th": "{PLAYER} ปล่อย CLAW FOSSIL ไว้อย่างเดิม$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_WantKingsRockStevenGaveMe", "th": "ผมได้นี่มาจากพี่ไดโกะ แต่ไม่รู้ว่ามันเอาไว้ทำอะไร\\pคิดว่ามันชื่อ KING'S ROCK นะ อยากได้ไหม?$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_YouCanKeepIt", "th": "จะอยากได้ไปทำไมอะ? แปลกคนจัง\\pเอาไปได้เลย แต่อย่าบอกพี่ไดโกะนะ$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_StevensHouseOverThere", "th": "บ้านพี่ไดโกะอยู่ตรงนั้นเอง!$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_WhatToDoWithWeirdRock", "th": "ใช่ไหมล่ะ เธอก็คิดแบบนั้น! หินแปลก ๆ แบบนี้จะเอาไปทำอะไรได้ล่ะ?$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_WailmerWatching", "th": "แถวโทคุซาเนะมีโฮเอลโกะป่าให้ดูด้วยนะ\\pมันเรียกว่า… เอ่อ… อะไรนะ…\\pโฮ… โฮ… โฮ…\\pโฮเอลโกะวอทชิ่ง!$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_SpaceCenterReceivedLetter", "th": "ศูนย์อวกาศบนเกาะนี้ปล่อยจรวดยักษ์อยู่เรื่อย ๆ ค่ะ\\pช่วงนี้วุ่นวายกันใหญ่ เพราะจดหมายฉบับหนึ่งที่เพิ่งได้รับมาค่ะ$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_SpaceCenterLaunchingRockets", "th": "ศูนย์อวกาศบนเกาะนี้ปล่อยจรวดยักษ์อยู่เรื่อย ๆ ค่ะ$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_MossdeepTargetedByMagma", "th": "ได้ยินจากเพื่อนกะลาสีว่าแก๊งอควาไปตั้งฐานอยู่ที่มินาโมะ\\pแถมได้ยินว่ามีใครบางคนไปจัดการพวกมันซะเละเลย!\\pแต่ที่โทคุซาเนะนี่ โดนแก๊งแม็กม่าหมายตาไว้\\pถ้าอยากรู้ว่าพวกมันคิดจะทำอะไร ลองไปที่ศูนย์อวกาศดูสิ$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_FeelReliefOnLand", "th": "ผมเป็นกะลาสี ทะเลก็ต้องสำคัญกับผมอยู่แล้ว\\pแต่รู้อะไรไหม? พอขึ้นฝั่งหลังออกเรือมานาน ๆ ก็โล่งใจจริง ๆ นะ!$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_NiceIfWorldCoveredByFlowers", "th": "คงดีนะ ถ้า…\\pทั้งโลกเต็มไปด้วยต้นไม้และดอกไม้เหมือนเกาะนี้?$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_LifeNeedsSeaToLive", "th": "สิ่งมีชีวิตทั้งหลายต้องพึ่งทะเลเพื่อดำรงชีวิต แม้จะอาศัยอยู่บนบกก็ตาม\\pเมื่อสิ้นอายุขัย สิ่งมีชีวิตก็กลายเป็นดินและคืนสู่ผืนแผ่นดิน\\pและทะเลก็เชื่อมต่อกับแผ่นดินอยู่เสมอ\\pใช่แล้ว เหมือนชายฝั่งตรงนี้ยังไงล่ะ$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_SurfExhilarating", "th": "นั่งเรือเดินทางก็ดีอยู่หรอก\\pแต่ข้ามทะเลไปกับโปเกมอนด้วยท่า SURF…\\pนั่นแหละการเดินทางที่เร้าใจสุด ๆ! ว่าไหม หนู?$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_SpecialSpaceCenterRock", "th": "หินก้อนนี้มีความหมายพิเศษสำหรับคนที่ศูนย์อวกาศนะคะ\\pพวกเขาตั้งไว้ตรงนี้เพื่ออธิษฐานให้จรวดบินได้อย่างปลอดภัย\\pเวลาคุณอธิษฐาน ใช้อะไรคะ? อธิษฐานกับดวงดาวหรือเปล่า?\\pฉันใช้ป้ายอธิษฐานให้คำขอเป็นจริงค่ะ นั่นแหละวิธีของฉัน$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_ItsAWhiteRock", "th": "เป็นหินสีขาว$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_GymSign", "th": "ยิมโปเกมอนเมืองโทคุซาเนะ หัวหน้ายิม: รันและฟู\\p“คู่หูผู้ลึกลับ!”$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_CitySign", "th": "เมืองโทคุซาเนะ “คำขวัญของเรา: รักและทะนุถนอมโปเกมอน!”$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_SpaceCenterSign", "th": "ศูนย์อวกาศโทคุซาเนะ “สถานที่ที่ใกล้อวกาศที่สุด”$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_ScottSomethingWrongWithTown", "th": "เอนิชิดะ: {PLAYER}{KUN} สบายดีไหม? ผมน่ะสบายดีสุด ๆ!\\pได้ยินมาว่าหัวหน้ายิมโทคุซาเนะเก่งมาก เลยมาดูด้วยตาตัวเองซะหน่อย\\pแต่เมืองนี้ดูแปลก ๆ ไปนะ\\pผู้คนพูดกันถึงจดหมายเตือนกับศูนย์อวกาศ…\\pแต่ผมว่ามันคงไม่เกี่ยวกับผมหรอกนะ$"}
+{"id": "data/maps/MossdeepCity/scripts.inc#MossdeepCity_Text_SootopolisNewGymLeader", "th": "อ๊า… ปล่อยให้คลื่นซัดเท้าแบบนี้สบายจริง ๆ…\\pพูดถึงคลื่น รู้จักเมืองรุเนะบนเกาะนั่นไหม?\\pได้ยินว่ายิมที่นั่นมีหัวหน้ายิมคนใหม่มาแล้ว\\pเขาว่ากันว่าหัวหน้ายิมคนใหม่เคยเป็นอาจารย์ของมิคุริด้วยนะ$"}
+{"id": "data/maps/MossdeepCity_GameCorner_1F/scripts.inc#RS_MysteryEventsHouse_Text_OldManGreeting", "th": "สมัยหนุ่ม ๆ ข้าเคยท่องไปทั่วโลกในฐานะเทรนเนอร์โปเกมอน\\pตอนนี้แก่หง่อมแล้ว ความสนุกเดียวที่เหลือก็คือการดูเทรนเนอร์รุ่นใหม่ต่อสู้กัน$"}
+{"id": "data/maps/MossdeepCity_GameCorner_1F/scripts.inc#RS_MysteryEventsHouse_Text_DoorIsLocked", "th": "ประตูดูเหมือนจะถูกล็อกไว้$"}
+{"id": "data/maps/MossdeepCity_GameCorner_1F/scripts.inc#RS_MysteryEventsHouse_Text_ChallengeVisitingTrainer", "th": "เทรนเนอร์ชื่อ {STR_VAR_1} กำลังมาเยี่ยมบ้านข้าอยู่\\pหนูอยากท้าสู้กับ {STR_VAR_1} ไหม?$"}
+{"id": "data/maps/MossdeepCity_GameCorner_1F/scripts.inc#RS_MysteryEventsHouse_Text_YouWontBattle", "th": "ไม่สู้หรือ? น่าเสียดายที่ไม่ได้ดูหนูต่อสู้…$"}
+{"id": "data/maps/MossdeepCity_GameCorner_1F/scripts.inc#RS_MysteryEventsHouse_Text_KeepItToA3On3", "th": "โอ้ ดี ดี!\\pแต่บ้านข้าไม่ได้แข็งแรงอะไรนัก\\pขอให้สู้กันแค่แบบ 3 ต่อ 3 ได้ไหม?$"}
+{"id": "data/maps/MossdeepCity_GameCorner_1F/scripts.inc#RS_MysteryEventsHouse_Text_SaveYourProgress", "th": "ก่อนสองคนจะสู้กัน ควรบันทึกเกมไว้ก่อนนะ$"}
+{"id": "data/maps/MossdeepCity_GameCorner_1F/scripts.inc#RS_MysteryEventsHouse_Text_HopeToSeeAGoodMatch", "th": "หวังว่าจะได้ดูแมตช์ดี ๆ นะ!$"}
+{"id": "data/maps/MossdeepCity_GameCorner_1F/scripts.inc#RS_MysteryEventsHouse_Text_BattleTie", "th": "ผลออกมาเสมอกันสินะ\\pเป็นแมตช์ที่ยอดเยี่ยม ไม่มีฝ่ายไหนยอมถอยแม้แต่ก้าวเดียว!$"}
+{"id": "data/maps/MossdeepCity_GameCorner_1F/scripts.inc#RS_MysteryEventsHouse_Text_BattleWon", "th": "ยอดเยี่ยมที่สุด!\\pเหมือนได้เห็นตัวข้าเองสมัยหนุ่ม ๆ อีกครั้งเลย!$"}
+{"id": "data/maps/MossdeepCity_GameCorner_1F/scripts.inc#RS_MysteryEventsHouse_Text_BattleLost", "th": "อา น่าเสียดายจริง!\\pแต่ก็เป็นแมตช์ที่ดีนะ หวังว่าคราวหน้าหนูจะชนะ$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_GymGuideAdvice", "th": "โย่ เป็นไงบ้าง {PLAYER} ว่าที่แชมเปี้ยน?\\pหัวหน้ายิมที่นี่ใช้โปเกมอนประเภท PSYCHIC\\pถ้าไปสู้ด้วยโปเกมอนประเภท FIGHTING หรือ POISON ล่ะก็ โดนเล่นงานหนักแน่!\\pแถมพวกเขายังจะโจมตีด้วยคอมบิเนชันสุดยอดอีกด้วย\\pถ้าอยากชนะ ต้องแสดงให้เห็นว่าเธอกับโปเกมอนสนิทกันแค่ไหน สู้เขานะ!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_GymGuidePostVictory", "th": "ว้าว เธอสุดยอดไปเลย! เป็นเทรนเนอร์ที่เก่งจริง ๆ!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_PrestonIntro", "th": "การต่อสู้ขึ้นอยู่กับความแข็งแกร่งของจิตใจ! คนจิตใจอ่อนแอไม่มีวันชนะ!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_PrestonDefeat", "th": "แพ้ซะแล้ว! ผมต้องขัดเกลาจิตใจใหม่อีกครั้ง!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_PrestonPostBattle", "th": "คนที่ลังเลคือคนที่แพ้ นั่นคือคำเตือนของผม$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_VirgilIntro", "th": "ขอดูพรสวรรค์ของเธอหน่อย!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_VirgilDefeat", "th": "เธอมีพรสวรรค์ที่น่าทึ่งจริง ๆ!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_VirgilPostBattle", "th": "ถ้าบนโลกนี้มีอัจฉริยะอยู่จริง ก็คือหัวหน้ายิมของเรานี่แหละ!\\pแต่เธออาจจะมีพรสวรรค์มากกว่าพวกเขาอีกก็ได้…$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_BlakeIntro", "th": "ฟุฟุฟุฟุ… ดูผมทำให้ POKé BALL ลอยด้วยพลังจิตนะ!\\pอ๊ากกกกกกกกกก!\\p… … … … … … …\\pบางทีคลื่นก็ไม่ค่อยตรงกันน่ะ…$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_BlakeDefeat", "th": "ฝีมือต่อสู้โปเกมอนของผมก็คลื่นไม่ตรงเหมือนกัน!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_BlakePostBattle", "th": "POKé BALL หนักเกินกว่าจะยกด้วยพลังจิต แต่ก้อนฝุ่นนี่ล่ะ…\\pฮึบบบบบบบบบบบบ!\\p… … … … … …\\pเปล่านะ ผมไม่ได้โกง! ผมไม่ได้เป่ามัน! สาบานเลย!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_HannahIntro", "th": "ถ้าแพ้ฉันแล้ว ก็อย่าโทษตัวเองมากนักนะ\\pไม่ใช่เพราะเธออ่อนแอหรอก--ฉันแค่แข็งแกร่งเกินไปต่างหาก!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_HannahDefeat", "th": "เธอน่ะแข็งแกร่งเกินไปแล้ว!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_HannahPostBattle", "th": "ฉันจะไม่ท้อเพราะแพ้หรอก แค่ต้องฝึกให้หนักขึ้นเท่านั้น\\pคิดบวก--นั่นแหละจุดแข็งของฉัน!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_SamanthaIntro", "th": "ฉันเห็นแล้ว… เห็นอนาคตของเธอ…\\pถ้าชนะฉันได้ ฉันจะบอกอนาคตให้!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_SamanthaDefeat", "th": "ฉันยอมแพ้!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_SamanthaPostBattle", "th": "เธอจะได้ต่อสู้อย่างดุเดือดสุด ๆ กับหัวหน้ายิมของเรา…\\pผลน่ะหรือ… ไม่บอกหรอก!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_MauraIntro", "th": "เส้นทางที่เธอเดินผ่านมา… สิ่งที่เธอได้พบเจอ…\\pทุ่มทุกอย่างที่เรียนรู้มาใส่ฉันเลย!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_MauraDefeat", "th": "เธอเดินบนเส้นทางแห่งความยิ่งใหญ่มาจริง ๆ!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_MauraPostBattle", "th": "อนาคตที่สดใสรอคนที่มุ่งมั่นพากเพียรอยู่\\pส่วนคนที่เกียจคร้าน ปลายทางมีเพียงความสิ้นหวัง\\pทำอะไรไว้ ก็ได้อย่างนั้น…$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_SylviaIntro", "th": "ต่อให้ต้องเสี่ยงชีวิต ฉันก็จะชนะการต่อสู้นี้ให้ได้…!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_SylviaDefeat", "th": "สิ่งที่เธอทำ… มันน่าสะพรึงกลัว…$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_SylviaPostBattle", "th": "กล้าดียังไงมาชนะฉัน…\\pถ้ามีเรื่องร้าย ๆ เกิดขึ้นกับเธอ ก็ไม่ใช่ความผิดของฉันนะ…$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_NateIntro", "th": "โฮ่โฮ่โฮ่\\pดูเหมือนผมต้องแสดงให้คุณเห็นว่าประเภท PSYCHIC เหนียวแน่นแค่ไหน$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_NateDefeat", "th": "โอ้! ตายจริง! สไตล์การต่อสู้ของคุณยอดเยี่ยมมาก!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_NatePostBattle", "th": "ผ… ผมไม่หวั่นไหวกับความพ่ายแพ้หรอก ต่… ต่อให้แพ้ย่อยยับแค่ไหนก็ตาม$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_KathleenIntro", "th": "ขอให้เธอได้พบกับช่วงเวลาที่แสนน่ากลัวสุด ๆ!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_KathleenDefeat", "th": "ม… ไม่นะะะะะ!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_KathleenPostBattle", "th": "พลังชีวิตของเธอมันติดต่อได้! ออกไปห่าง ๆ ฉันเร็ว ๆ เลย!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_CliffordIntro", "th": "ผมอาจจะผ่านช่วงรุ่งโรจน์มาแล้ว แต่อย่ามาดูแคลนผมเชียวนะ$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_CliffordDefeat", "th": "อา คุณเปี่ยมไปด้วยพลังของวัยหนุ่มสาวจริง ๆ!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_CliffordPostBattle", "th": "ดูเหมือนผมจะเอาชนะพลังอันสดใสของวัยหนุ่มสาวไม่ได้เสียแล้ว$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_MaceyIntro", "th": "เธอไปไม่ถึงปลายทางหรอก! ตราบใดที่ฉันยังขวางอยู่!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_MaceyDefeat", "th": "ทำไมเธอแข็งแกร่งเกินเหตุขนาดนี้?$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_MaceyPostBattle", "th": "หึ! เธออาจจะเก่ง แต่ไม่เหมาะกับประเภท PSYCHIC หรอก!\\pวิธีต่อสู้ของเธอมันโหดเกินไป!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_NicholasIntro", "th": "ว้ากกก! ลองชิมพลังโปเกมอนสุดโหดของผมดูสิ!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_NicholasDefeat", "th": "โอ้! เสร็จกันพอดี!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_NicholasPostBattle", "th": "เอาล่ะ! คราวหน้าผมจะพัฒนาพลังโปเกมอนสุดพิเศษที่ไร้เทียมทานให้ได้$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_TateAndLizaIntro", "th": "ฟู: เฮะเฮะเฮะ… ตกใจไหม?\\pรัน: ฟุฟุฟุ… ตกใจไหม?\\pฟู: ที่มีหัวหน้ายิมตั้งสองคน?\\pรัน: ที่มีหัวหน้ายิมตั้งสองคน?\\pฟู: เราเป็นฝาแฝด!\\pรัน: เราเป็นฝาแฝด!\\pฟู: เราไม่ต้องพูดกันเลย เพราะ…\\pรัน: เรารู้ได้ทันทีว่า…\\pฟู: อีกคนกำลังคิดอะไร…\\pรัน: ทุกอย่างอยู่ในใจเรา!\\pฟู: คอมบิเนชันของเรา…\\pรัน: เธอจะชนะได้ไหม?$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_TateAndLizaDefeat", "th": "ฟู: อะไรนะ?! คอมบิเนชันของเรา…\\pรัน: ถูกทำลายซะแล้ว!\\pฟู: ช่วยไม่ได้ เธอชนะแล้ว…\\pรัน: เพราะงั้น รับนี่ไปเป็นการยอมรับนะ$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_ReceivedMindBadge", "th": "{PLAYER} ได้รับเข็มกลัดมายด์จากฟูและรัน$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_ExplainMindBadgeTakeThis", "th": "ฟู: เข็มกลัดมายด์จะช่วยเพิ่มพลังโจมตีพิเศษกับพลังป้องกันพิเศษของโปเกมอน\\pรัน: แล้วยังใช้ท่า DIVE จาก HM นอกการต่อสู้ได้ด้วย\\pฟู: รับนี่ไปด้วยนะ$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_ExplainCalmMind", "th": "ฟู: TM04 นั่นบรรจุ…\\pรัน: CALM MIND!\\pฟู: มันเพิ่มพลังโจมตีพิเศษ และ…\\pรัน: เพิ่มพลังป้องกันพิเศษ!\\pฟู: เป็นท่าที่เหมาะสุด ๆ…\\pรัน: สำหรับโปเกมอนประเภท PSYCHIC!\\p… … … … … …$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_RegisteredTateAndLiza", "th": "ลงทะเบียนหัวหน้ายิมฟูและรันไว้ในโปเกนาวีแล้ว$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_TateAndLizaPostBattle", "th": "ฟู: ดูเหมือนสายสัมพันธ์ระหว่างเธอกับโปเกมอน จะแข็งแกร่งกว่าสายสัมพันธ์ฝาแฝดของเราซะอีก\\pรัน: เธอจะแข็งแกร่งขึ้นอีกแน่! เราสู้กับเธอมาแล้ว เรารู้ดี$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons", "th": "ฟู: เฮะเฮะเฮะ… ตกใจไหม?\\pรัน: ที่มีหัวหน้ายิมตั้งสองคน?\\pฟู: อุ๊บส์ เธอมีแค่ตัวเดียว…\\pรัน: โปเกมอนที่สู้ได้น่ะ\\pฟู: แบบนี้เราสู้ด้วยไม่ได้หรอก!\\pรัน: ถ้าอยากท้าสู้กับเรา พาโปเกมอนมาเพิ่มอีกนะ$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_GymStatue", "th": "ยิมโปเกมอนเมืองโทคุซาเนะ$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_GymStatueCertified", "th": "ยิมโปเกมอนเมืองโทคุซาเนะ\\pเทรนเนอร์ที่รันและฟูรับรอง: {PLAYER}$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_TateAndLizaPreRematch", "th": "ฟู: โปเกมอน…\\pรัน: โปเกมอน…\\pฟู: พอเปลี่ยนสมาชิกในทีม…\\pรัน: สไตล์การต่อสู้ก็เปลี่ยนไป\\pฟู: แต่เรา…\\pรัน: แต่เรา…\\pฟู: จะอยู่กับรันตลอดไป!\\pรัน: จะอยู่กับฟูตลอดไป!\\pฟู: คอมบิเนชันของเรา…\\pรัน: จะโชว์ให้ดูอีกกี่ครั้งก็ได้!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_TateAndLizaRematchDefeat", "th": "ฟู: เธอกับโปเกมอน…\\pรัน: เหมือนเป็นพี่น้องกันเลย!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_TateAndLizaPostRematch", "th": "ฟู: ต่อให้ล้มเรา เราก็ไม่ยอมล้มอยู่อย่างนั้นหรอก!\\pรัน: เพราะเราสองคนคอยประคองกันอยู่เสมอ!$"}
+{"id": "data/maps/MossdeepCity_Gym/scripts.inc#MossdeepCity_Gym_Text_TateAndLizaRematchNeedTwoMons", "th": "ฟู: เธอกลับมาอีกแล้ว…\\pรัน: เธอกลับมาอีกแล้ว…\\pฟู: เพื่อสู้กับเราอีกรอบ\\pรัน: เพื่อสู้กับเราอีกรอบ\\pฟู: แต่ว่า…\\pรัน: สำหรับแมตช์ของเรา…\\pฟู: เธอพาโปเกมอนมาแค่ตัวเดียว!\\pรัน: เธอพาโปเกมอนมาแค่ตัวเดียว!\\pฟู: ครั้งหน้าพามาอย่างน้อย…\\pรัน: สองตัวนะ$"}
+{"id": "data/maps/MossdeepCity_House1/scripts.inc#MossdeepCity_House1_Text_HmmYourPokemon", "th": "อืม! {STR_VAR_1} ของเธอ…$"}
+{"id": "data/maps/MossdeepCity_House1/scripts.inc#MossdeepCity_House1_Text_ItLikesXPokeblocks", "th": "มันชอบ {STR_VAR_1} ใช่ไหม?\\pไม่สิ ฉันมั่นใจเลย! มันชอบ {STR_VAR_1} แน่ ๆ!$"}
+{"id": "data/maps/MossdeepCity_House1/scripts.inc#MossdeepCity_House1_Text_DoesntLikeOrDislikePokeblocks", "th": "ดูเหมือนมันจะไม่ได้ชอบหรือเกลียดโปเกบล็อกแบบไหนเป็นพิเศษนะ$"}
+{"id": "data/maps/MossdeepCity_House1/scripts.inc#MossdeepCity_House1_Text_HusbandCanTellPokeblockMonLikes", "th": "สามีของฉันดูออกทันทีเลยค่ะ ว่าโปเกมอนตัวไหนชอบโปเกบล็อกแบบไหน$"}
+{"id": "data/maps/MossdeepCity_House2/scripts.inc#MossdeepCity_House2_Text_SisterMailsBoyfriendInFortree", "th": "น้องสาวผมส่ง MAIL หาแฟนที่อยู่ฮิวามากิ\\pผมไม่ได้อิจฉาเลยสักนิดนะ$"}
+{"id": "data/maps/MossdeepCity_House2/scripts.inc#MossdeepCity_House2_Text_PokemonCarriesMailBackAndForth", "th": "ถึงหนูจะไม่ได้เจอเพื่อนที่ฮิวามากิ แต่โปเกมอนของหนูก็ช่วยส่ง MAIL ไปมาให้\\pหนูไม่เหงาหรอก ถึงจะอยู่ห่างกันก็ตาม$"}
+{"id": "data/maps/MossdeepCity_House2/scripts.inc#MossdeepCity_House2_Text_Wingull", "th": "เคียโมเมะ: ปิเฮียว!$"}
+{"id": "data/maps/MossdeepCity_House3/scripts.inc#MossdeepCity_House3_Text_YouWantSuperRod", "th": "เฮ้ เทรนเนอร์! SUPER ROD นี่มันสุดยอดจริง ๆ นะ!\\pจะว่ายังไงก็ว่าไป แต่เจ้านี่ตกโปเกมอนจากก้นทะเลได้เลย!\\pว่าไง? อยากได้ใช่ไหมล่ะ?$"}
+{"id": "data/maps/MossdeepCity_House3/scripts.inc#MossdeepCity_House3_Text_SuperRodIsSuper", "th": "ใช่แล้ว ใช่แล้ว! ก็ SUPER ROD มันสุดยอดจริง ๆ นี่นา!$"}
+{"id": "data/maps/MossdeepCity_House3/scripts.inc#MossdeepCity_House3_Text_TryDroppingRodInWater", "th": "ถ้าเจอน้ำที่ไหน ลองหย่อน ROD ลงไปดูสิ ว่าอะไรจะมากินเบ็ด!$"}
+{"id": "data/maps/MossdeepCity_House3/scripts.inc#MossdeepCity_House3_Text_DontYouLikeToFish", "th": "หา? ไม่ชอบตกปลาหรือไง?$"}
+{"id": "data/maps/MossdeepCity_House3/scripts.inc#MossdeepCity_House3_Text_GoAfterSeafloorPokemon", "th": "ใช้ SUPER ROD ไปตามล่าโปเกมอนก้นทะเลเลย$"}
+{"id": "data/maps/MossdeepCity_House4/scripts.inc#MossdeepCity_House4_Text_BrotherLikesToFindBases", "th": "น้องชายฉันบอกว่าชอบไปตามหาฐานลับของคนอื่นค่ะ$"}
+{"id": "data/maps/MossdeepCity_House4/scripts.inc#MossdeepCity_House4_Text_BrotherLikesToVisitBasesAndBattle", "th": "น้องชายฉันบอกว่าชอบไปเยี่ยมฐานลับของคนอื่นแล้วต่อสู้โปเกมอนกันค่ะ$"}
+{"id": "data/maps/MossdeepCity_House4/scripts.inc#MossdeepCity_House4_Text_YouMadeSecretBaseNearX", "th": "เธอใช่ไหมที่สร้างฐานลับไว้ใกล้ ๆ {STR_VAR_1}?$"}
+{"id": "data/maps/MossdeepCity_House4/scripts.inc#MossdeepCity_House4_Text_MakeSecretBase", "th": "เธอน่าจะสร้างฐานลับไว้ที่ไหนสักแห่งนะ เดี๋ยวเราจะไปหาเอง!$"}
+{"id": "data/maps/MossdeepCity_House4/scripts.inc#MossdeepCity_House4_Text_Skitty", "th": "เอเนโกะ: เมี้ยวว?$"}
+{"id": "data/maps/MossdeepCity_Mart/scripts.inc#MossdeepCity_Mart_Text_ReviveIsFantastic", "th": "REVIVE สุดยอดไปเลยค่ะ!\\pให้โปเกมอนที่หมดสภาพ แล้วโปเกมอนก็จะฟื้นขึ้นมา\\pแต่ระวังนะคะ REVIVE ไม่ได้ฟื้นฟู PP ของท่าที่ใช้ไปแล้ว$"}
+{"id": "data/maps/MossdeepCity_Mart/scripts.inc#MossdeepCity_Mart_Text_MaxRepelLastsLongest", "th": "MAX REPEL ไล่โปเกมอนอ่อน ๆ ได้ทั้งหมดเลย\\pในบรรดาสเปรย์ REPEL ทั้งหมด อันนี้อยู่ได้นานที่สุด$"}
+{"id": "data/maps/MossdeepCity_Mart/scripts.inc#MossdeepCity_Mart_Text_NetAndDiveBallsRare", "th": "NET BALL กับ DIVE BALL เป็น POKé BALL หายากที่ผลิตแค่ในโทคุซาเนะเท่านั้น\\pNET BALL ได้ผลดีกับโปเกมอนประเภท BUG และ WATER\\pDIVE BALL ได้ผลดีที่สุดกับโปเกมอนที่อยู่ใต้ท้องทะเล$"}
+{"id": "data/maps/MossdeepCity_PokemonCenter_1F/scripts.inc#MossdeepCity_PokemonCenter_1F_Text_GymLeaderDuoFormidable", "th": "หัวหน้ายิมเมืองนี้เป็นคู่หูที่น่าเกรงขามมากค่ะ\\pท่าคอมบิเนชันของพวกเขาน่ะ แบบว่า สุดยอด ว้าวมากเลย!$"}
+{"id": "data/maps/MossdeepCity_PokemonCenter_1F/scripts.inc#MossdeepCity_PokemonCenter_1F_Text_AbilitiesMightChangeMoves", "th": "ขึ้นอยู่กับคุณสมบัติของโปเกมอน บางท่าอาจเปลี่ยนไป หรือใช้ไม่ได้ผลเลยก็ได้นะ$"}
+{"id": "data/maps/MossdeepCity_PokemonCenter_2F/scripts.inc#MossdeepCity_PokemonCenter_2F_Text_Woman5", "th": "ถ้าฉันชนะการต่อสู้แบบลิงก์เยอะ ๆ แล้วโชว์ให้ทุกคนเห็นว่าฉันเก่งแค่ไหน อาจจะมีแฟนคลับก็ได้นะ!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_RocketLaunchImminent", "th": "จรวดใกล้จะปล่อยแล้ว!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_SuccessfulLaunchNumber", "th": "จรวดขึ้นสู่ฟ้าอย่างปลอดภัย! นี่เป็นการปล่อยสำเร็จครั้งที่ {STR_VAR_1} แล้ว!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_HaywireButRocketLaunchImminent", "th": "รู้ว่าตอนนี้อะไร ๆ วุ่นวายไปหมด แต่…\\pจรวดใกล้จะปล่อยแล้ว!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_HaywireButSuccessfulLaunchNumber", "th": "รู้ว่าตอนนี้อะไร ๆ วุ่นวายไปหมด แต่…\\pจรวดขึ้นสู่ฟ้าอย่างปลอดภัย! นี่เป็นการปล่อยสำเร็จครั้งที่ {STR_VAR_1} แล้ว!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_RocketLaunchDemandsPerfection", "th": "การปล่อยจรวดต้องสมบูรณ์แบบ ผิดพลาดแม้แต่ 1% ก็ไม่ได้\\pต่อให้เรียบร้อยถึง 99% ถ้าอีก 1% มีปัญหา ทุกอย่างก็สูญเปล่า\\pถึงอย่างนั้น เราก็ไม่เคยหยุดพยายาม ทำไมน่ะหรือ? เพราะมันคือความฝันที่ไม่มีวันสิ้นสุดยังไงล่ะ$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_MagmaHaveSightsOnSpaceCenter", "th": "เจ้าพวกอันธพาลแม็กม่าหมายตาศูนย์อวกาศของเรา\\pแต่เราจะปล่อยให้เรื่องเล็กแค่นั้นมาขัดขวางการปล่อยจรวดไม่ได้!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_FoundThisYouCanHaveIt", "th": "ผมเดินเล่นริมหาดอยู่ แล้วก็เจอนี่เข้า\\pผมไม่ได้ต้องการมันหรอก เอาไปเถอะ$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_HoennFamousForMeteorShowers", "th": "ภูมิภาคโฮเอ็นขึ้นชื่อเรื่องฝนดาวตกมาตั้งแต่สมัยก่อนแล้ว$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_MagmaCantStealFuelTakeThis", "th": "จะปล่อยให้แก๊งแม็กม่าขโมยเชื้อเพลิงจรวดไปไม่ได้เด็ดขาด\\pอ้อ จริงสิ หินที่ผมเจอบนชายหาดนี่ เอาไปได้เลยนะ$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_CantStrollOnBeachWithMagma", "th": "มีแก๊งแม็กม่าป้วนเปี้ยนอยู่แบบนี้ เดินเล่นริมหาดคงไม่ปลอดภัยแล้วล่ะ$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_DidPokemonComeFromSpace", "th": "มีคนบอกว่าโปเกมอนมาจากอวกาศ จะจริงหรือเปล่านะ?$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_AquaShouldBeatMagma", "th": "แก๊งอควาน่าจะไปจัดการแก๊งแม็กม่าซะ!\\pแต่ถ้าเป็นแบบนั้น แก๊งอควาคงได้ใจกำเริบเสิบสานแน่ ว่าไหมคะ?$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_RocketsBoggleMyMind", "th": "ก้อนโลหะยักษ์ทะยานทะลุท้องฟ้าขึ้นไปสู่อวกาศ…\\pคิดแล้วตาก็ยังงงไม่หาย!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_MagmaWantsToSpoilMyDream", "th": "ก้อนโลหะยักษ์ทะยานทะลุท้องฟ้าขึ้นไปสู่อวกาศ…\\pแต่แก๊งแม็กม่าจะมาทำลายความฝันของตา!\\pตาไม่ยอมเด็ดขาด!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_StevenMagmaCantBeAllowedToTakeFuel", "th": "ไดโกะ: {PLAYER}{KUN} อ่านประกาศนั่นแล้วหรือยังครับ?\\pแก๊งแม็กม่ากำลังจะมาเอาเชื้อเพลิงจรวดบนเกาะนี้\\pผมไม่รู้ว่าพวกนั้นจะเอาไปทำอะไร แต่จะปล่อยให้เอาไปไม่ได้\\pผมจะคอยเฝ้าดูสถานการณ์อยู่ที่นี่อีกสักพัก\\pระหว่างนี้ คุณลองไปเดินดูรอบเมืองก่อนไหมครับ?$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_Grunt3Intro", "th": "ตามสัญญา เรามาเอาเชื้อเพลิงจรวดแล้ว!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_Grunt3Defeat", "th": "เชื้อเพลิงหมดซะแล้ว…$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_Grunt3PostBattle", "th": "อย่าคิดว่าชนะฉันได้แล้วจะได้ใจนะ!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_Grunt1Intro", "th": "เราเตือนไว้แล้วอย่างยุติธรรม! พวกเราไม่ได้ลับ ๆ ล่อ ๆ เลย!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_Grunt1Defeat", "th": "ชิ… น่าจะใช้แผนสกปรกลับ ๆ ล่อ ๆ ซะก็ดี…$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_Grunt1PostBattle", "th": "เออ เข้าใจแล้วน่า! คราวหน้าจะมาแบบไม่บอกล่วงหน้าก็ได้$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_Grunt4Intro", "th": "เชื้อเพลิงจรวดที่ศูนย์อวกาศเก็บไว้--นั่นแหละเป้าหมายของเรา\\pเราจะเอาไปให้หมดไม่เหลือสักหยด!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_Grunt4Defeat", "th": "ขอร้องล่ะ แบ่งเชื้อเพลิงให้หน่อยได้ไหม? แค่ถ้วยเล็ก ๆ ก็ยังดี!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_Grunt4PostBattle", "th": "จะเอาเชื้อเพลิงจรวดไปทำอะไรน่ะหรือ?\\pฉันจะไปรู้ได้ยังไง? ไปถามหัวหน้าข้างบนโน่นสิ!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_Grunt2Intro", "th": "หัวหน้าสั่งไว้ว่าห้ามใคร ห้ามใครก็ตาม ผ่านฉันไปได้!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_Grunt2Defeat", "th": "อ๊าก! อ๊าก! อ๊ากกก!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_Grunt2PostBattle", "th": "ขอร้องล่ะ ช่วยบอกหัวหน้าทีว่าฉันไม่ได้ทิ้งหน้าที่\\pว่าฉันยืนหยัดจนถึงวินาทีสุดท้าย…$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc#MossdeepCity_SpaceCenter_1F_Text_MagmaIntentToStealNotice", "th": "นี่มัน… จดหมายแจ้งว่าจะมาขโมยงั้นหรือ?\\p“ถึงเจ้าหน้าที่ศูนย์อวกาศ: สบายดีไหม? พวกเราสบายดี\\p“อีกไม่นานเราจะไปเยี่ยมเพื่อเอาเชื้อเพลิงจรวดของพวกคุณ\\p“กรุณาอย่าพยายามหยุดเรา ไม่ว่ายังไงเราก็จะเอาเชื้อเพลิงไปให้ได้\\p“ขอให้มีแผ่นดินมากขึ้น! -- แก๊งแม็กม่า”$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_MossdeepIdealForRockets", "th": "โทคุซาเนะอากาศแจ่มใสเกือบตลอด แถมลมก็นิ่ง\\pจึงเป็นทำเลที่เหมาะกับการปล่อยจรวดที่สุด$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_WhyWouldMagmaStealRocketFuel", "th": "ทำไมแก๊งแม็กม่าถึงอยากขโมยเชื้อเพลิงจรวดของเราตั้งแต่แรกนะ?$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut", "th": "ถ้าผมอายุน้อยกว่านี้สักหน่อย ก็คงอยากเป็นนักบินอวกาศ…\\pไม่สิ… ยังไม่สายเกินไป! ผมทำได้ และจะลองดู!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_MagmaCantGetAwayWithThis", "th": "ถ้าแก๊งแม็กม่าเอาเชื้อเพลิงจรวดไป ผมก็ไปอวกาศไม่ได้น่ะสิ!\\pจะปล่อยให้พวกมันทำเรื่องอุกอาจแบบนี้ไม่ได้!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_WishOrdinaryPeopleCouldGoIntoSpace", "th": "อยากให้คนธรรมดาได้ไปอวกาศบ้างสักวันจัง…$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_DoesMagmaWantToGoToSpace", "th": "แก๊งแม็กม่า… พวกนั้นก็อยากไปอวกาศเหมือนกันหรือเปล่านะ?$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_YoureOutnumberedTakeUsOn", "th": "แกเป็นอะไรไปน่ะ?\\pสามต่อหนึ่งแท้ ๆ ยังจะสู้กับพวกเราอีกหรือ?$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_GoodAnswer", "th": "ตอบได้ดี! คนฉลาดเขาก็ทำแบบนี้แหละ!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_Grunt5Intro", "th": "บ้าบิ่นไม่กลัวใครสินะ? ก็ได้ ฉันขอประเดิมก่อน!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_Grunt5Defeat", "th": "แพ้ซะแล้ว! แต่ว่า!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_Grunt6Intro", "th": "ยังเร็วไปที่จะโล่งใจ! คนต่อไปคือฉัน!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_Grunt6Defeat", "th": "ฉันก็แพ้เหมือนกัน! แต่ว่า!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_Grunt7Intro", "th": "คงอยากพักแล้วสินะ แต่ฉันไม่ยอมให้พักหรอก!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_Grunt7Defeat", "th": "น่าจะพักกันก่อน… น่าจะทำแบบนั้นแท้ ๆ…$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_Grunt6PostBattle", "th": "มากันตั้งสามคน ดูสภาพน่าอนาถของพวกเราสิ$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_Grunt7PostBattle", "th": "สามคนแพ้ยับแบบนี้… ดูแย่กว่าปกติตั้งสามเท่า!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_Grunt5PostBattle", "th": "พวกเรามีประโยชน์ต่อหัวหน้าบ้างหรือเปล่านะ?$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_WellTakeCareOfYou", "th": "เฮะเฮะเฮะ!\\pอุตส่าห์มาถึงนี่เพื่อเอาเชื้อเพลิง ก็ยังโดนขัดขวางอีกแล้ว!\\pถ้าแกจะมายุ่งกับเราด้วยล่ะก็ เราจะจัดการแกไปพร้อมกันเลย!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_MaxieDontInterfere", "th": "มัตสึบุสะ: หลีกไป! อย่าบังอาจมาขัดขวาง!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel", "th": "ไดโกะ: แก๊งแม็กม่า…\\pขโมยเชื้อเพลิงจรวดไปจะได้อะไรขึ้นมา?$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano", "th": "มัตสึบุสะ: ฟุฟุฟุ… ในเมื่ออยากรู้นัก ก็จะอธิบายให้ฟัง\\pเราจะทิ้งเชื้อเพลิงทั้งหมดลงไปในภูเขาปล่องไฟ!\\pเมื่อไม่มีกราดอนแล้ว ภูเขากองตะกรันลูกนั้นก็ไร้ประโยชน์สำหรับเรา!\\pเราจึงจะใช้พลังของเชื้อเพลิงทำให้ภูเขาไฟปะทุ!\\pมันจะรุนแรงมหาศาล!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle", "th": "ไดโกะ: {PLAYER}{KUN}! คุณจะช่วยผมหรือครับ?\\pไปสู้ด้วยกันเถอะ! พร้อมหรือยังครับ?$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly", "th": "ไดโกะ: ถ้าอย่างนั้น รีบเข้า! เตรียมตัวเร็ว ๆ ครับ!$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand", "th": "สิ่งที่ฉันต้องการ… ฉันแค่ต้องการขยายแผ่นดิน…$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_Text_TabithaDefeat", "th": "ฉันจะอยู่เคียงข้างท่านหัวหน้า…$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided", "th": "มัตสึบุสะ: เราทำให้ภูเขาไฟปะทุไม่สำเร็จ…\\pเราควบคุมกราดอนไม่ได้ หลังจากปลุกมันขึ้นมา…\\pเป้าหมายที่จะขยายแผ่นดินของเรา ผิดพลาดงั้นหรือ?\\p… … … … … … … … … … … …\\pถ้า… ถ้าพวกเรา แก๊งแม็กม่า เป็นฝ่ายผิด… … … … … … …\\pเป้าหมายของแก๊งอควาที่จะขยายทะเล ก็ผิดพลาดไม่ต่างกันหรือเปล่า?$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_MaxieWeWillGiveUp", "th": "มัตสึบุสะ: ก็ได้… เราจะเลิกยุ่งกับเชื้อเพลิง…\\pดูเหมือนจะมีเรื่องที่สำคัญกว่านี้ที่ฉันต้องตรวจสอบ…$"}
+{"id": "data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc#MossdeepCity_SpaceCenter_2F_Text_StevenThankYouComeSeeMeAtHome", "th": "ไดโกะ: ฟู่ ตึงเครียดสุด ๆ เลย {PLAYER}{KUN} ขอบคุณมากครับ\\pผมมีของจะให้เป็นการขอบคุณที่ช่วยเหลือ\\pหลังจากนี้แวะมาหาผมที่บ้านนะครับ\\pอ้อ จริงสิ ผมไม่ได้อยู่ที่เมืองคานาซุมิหรอกนะ ผมอยู่บนเกาะนี้เองครับ$"}
+{"id": "data/maps/MossdeepCity_StevensHouse/scripts.inc#MossdeepCity_StevensHouse_Text_YouveEarnedHMDive", "th": "ไดโกะ: {PLAYER}{KUN}…\\pอย่างที่เห็น ที่นี่ไม่มีอะไรมาก แต่ก็เป็นบ้านของผม\\pขอบคุณสำหรับทุกอย่างที่คุณทำนะครับ\\pนี่เป็นของแทนคำขอบคุณ HIDDEN MACHINE DIVE ครับ\\pไม่ต้องเกรงใจ--คุณสมควรได้ HM นี้แล้ว$"}
+{"id": "data/maps/MossdeepCity_StevensHouse/scripts.inc#MossdeepCity_StevensHouse_Text_ExplainDive", "th": "ไดโกะ: ระหว่างใช้ท่า SURF คุณน่าจะสังเกตเห็นผืนน้ำสีเข้มเป็นหย่อม ๆ\\pถ้าเจอน้ำลึกแบบนั้น ให้ใช้ท่า DIVE แล้วคุณจะดำลงไปถึงก้นทะเล\\pเมื่ออยากขึ้นมาข้างบน ก็ใช้ท่า DIVE อีกครั้ง\\pแต่บางที่ก็อาจโผล่ขึ้นมาไม่ได้นะครับ$"}
+{"id": "data/maps/MossdeepCity_StevensHouse/scripts.inc#MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis", "th": "ไดโกะ: ดูเหมือนว่าจะมีถ้ำใต้น้ำอยู่ระหว่างโทคุซาเนะกับรุเนะ\\pถ้ำเดียวกับที่กัปตันคุสึโนกิพบด้วยเรือดำน้ำของเขานั่นแหละครับ$"}
+{"id": "data/maps/MossdeepCity_StevensHouse/scripts.inc#MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum", "th": "{PLAYER} ตรวจดู POKé BALL\\pข้างในมีโปเกมอน ดันบัล\\pจะเอา POKé BALL ไปไหม?$"}
+{"id": "data/maps/MossdeepCity_StevensHouse/scripts.inc#MossdeepCity_StevensHouse_Text_ObtainedBeldum", "th": "{PLAYER} ได้รับดันบัล$"}
+{"id": "data/maps/MossdeepCity_StevensHouse/scripts.inc#MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon", "th": "ไม่มีที่ว่างสำหรับโปเกมอนอีกแล้ว$"}
+{"id": "data/maps/MossdeepCity_StevensHouse/scripts.inc#MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas", "th": "{PLAYER} วาง POKé BALL ไว้ที่เดิม$"}
+{"id": "data/maps/MossdeepCity_StevensHouse/scripts.inc#MossdeepCity_StevensHouse_Text_LetterFromSteven", "th": "เป็นจดหมาย\\p… … … … … …\\pถึง {PLAYER}{KUN}…\\pผมตัดสินใจออกเดินทางไปฝึกฝนและค้นหาตัวเองสักพัก\\pคงยังไม่กลับบ้านไปอีกระยะหนึ่ง\\pผมมีเรื่องจะขอร้อง\\pอยากให้คุณรับ POKé BALL บนโต๊ะไป\\pข้างในคือดันบัล โปเกมอนตัวโปรดของผม\\pฝากด้วยนะครับ\\pหวังว่าเราจะได้พบกันอีกสักวัน\\pสึวาบุกิ ไดโกะ$"}
+{"id": "data/maps/MossdeepCity_StevensHouse/scripts.inc#MossdeepCity_StevensHouse_Text_CollectionOfRareRocks", "th": "เป็นคอลเลกชันหินและแร่หายากที่ไดโกะสะสมไว้$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_MeteoriteWillActivateVolcano", "th": "พลังที่อยู่ใน METEORITE…\\pถ้าขยายพลังนั้นด้วยเครื่องนี้ ภูเขาไฟของภูเขาปล่องไฟจะปะทุรุนแรงขึ้นทันที…\\pพลังงานจะก่อตัวลึกลงไปในปล่องภูเขาไฟ แล้ว… ฟุฟุฟุ…$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_MaxieIntro", "th": "มัตสึบุสะ: หืม? เธอเป็นใคร?\\p… … … … … … … … … … … …\\pฉันได้ยินอาโอกิริบ่นถึงเด็กคนหนึ่งที่คอยสอดมือเข้าไปยุ่งเรื่องของแก๊งอควา\\pคงหมายถึงเธอสินะ\\pหึ! แล้วเธอคิดจะมาขัดขวางพวกเรา แก๊งแม็กม่า ด้วยหรือ?\\pฟังให้ดี นานมาแล้ว สิ่งมีชีวิตอาศัยผืนแผ่นดินในการดำรงชีวิตและเติบโต\\pเพราะเหตุนั้น แผ่นดินจึงสำคัญที่สุด! มันคือต้นกำเนิดของทุกสิ่ง!\\pเพราะเหตุนั้น แก๊งแม็กม่าจึงอุทิศตนเพื่อขยายผืนแผ่นดิน\\pเพื่อความก้าวหน้าของมนุษยชาติและโปเกมอน!\\pและเพื่อการนั้น เราต้องการพลังของสิ่งที่หลับใหลอยู่ในภูเขาลูกนี้…\\pอ๊ะ! เธอไม่จำเป็นต้องรู้มากขนาดนั้น\\pแต่ช่างเถอะ! ฉันจะสอนให้รู้ว่าการมาขวางแผนการยิ่งใหญ่ของเราจะเป็นยังไง!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_MaxieDefeat", "th": "อะไรนะ?!\\pฉัน มัตสึบุสะ ถูกเล่นงานโดยไม่ทันตั้งตัวงั้นหรือ?!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_MaxieYouHaventSeenLastOfMagma", "th": "มัตสึบุสะ: แต่พอเถอะ ครั้งนี้ฉันจะถอยให้\\pแต่อย่าคิดว่านี่จะเป็นครั้งสุดท้ายที่เธอได้เจอแก๊งแม็กม่า\\pฟุฟุฟุ…\\pต่อให้ไม่มี METEORITE ถ้าเราได้ ORB นั่นมา… ฟุฟุฟุ…$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_TabithaIntro", "th": "ฮึฮึฮึ!\\pอุตส่าห์มาถึงนี่จนได้สินะ!\\pแต่สายไปแล้ว! ฉันส่ง METEORITE จากน้ำตกดาวตกให้บอสไปแล้ว!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_TabithaDefeat", "th": "ฮึฮึฮึ…\\pถึงฉันจะแพ้ แต่ถ้าหัวหน้าปลุกเจ้านั่นขึ้นมาได้ล่ะก็…$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_TabithaPostBattle", "th": "บอส รีบเข้า! ใส่พลังงานของ METEORITE เข้าไปเลย!\\pฮึฮึฮึ…$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_Grunt2Intro", "th": "พวกเราแก๊งแม็กม่าทำงานหนักเพื่อทุกคนนะ\\pแบบว่า ถ้าพลังของเจ้านั่นสร้างแผ่นดินเพิ่มได้ ก็จะมีที่อยู่อาศัยมากขึ้น\\pทุกคนก็จะมีความสุข!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_Grunt2Defeat", "th": "หา? อะไรนะ ฉันแพ้งั้นหรือ?$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_Grunt2PostBattle", "th": "บอสบอกว่า “มันจะทำให้ทุกคนมีความสุข”\\pแต่ทำไมทุกคนถึงคอยมาขวางเราอยู่เรื่อยนะ?$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_Grunt1Intro", "th": "ถ้ามีแผ่นดินมากขึ้น ฉันก็จะได้มีบ้านหลังใหญ่เป็นของตัวเอง!\\pฉันจะสร้างมันบนลาวาที่แข็งตัวแล้ว!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_Grunt1Defeat", "th": "ความฝันเรื่องบ้านหลังใหญ่ของฉัน…$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_Grunt1PostBattle", "th": "เด็กอย่างเธอน่ะ ควรไปเล่นน้ำตีคลื่นอยู่ริมหาดโน่น!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_TeamAquaAlwaysMessingWithPlans", "th": "แก๊งอควาน่ารำคาญพวกนั้น… คอยมาป่วนแผนของเราตลอดเลย!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_MeteoritesPackAmazingPower", "th": "METEORITE มีพลังมหาศาลเลยนะ!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_YouBetterNotMessWithUs", "th": "อย่ามายุ่งกับพวกเรานะ!\\pเรากำลังจะปลุกเจ้านั่นเพื่อประโยชน์ของทุกคน!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_AquasNameSimilar", "th": "เราคือแก๊งแม็กม่า!\\pพวกนั้นคือแก๊งอควา!\\pหงุดหงิดชะมัดที่พวกนั้นตั้งชื่อเลียนแบบเรา!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_DouseThemInFire", "th": "เย่! เผามันให้เกรียมเลย!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_KeepMakingMoreLand", "th": "เราจะสร้างแผ่นดินเพิ่มขึ้นไปเรื่อย ๆ!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_Bufoh", "th": "บุโฟ!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ArchieGoStopTeamMagma", "th": "อาโอกิริ: ชิ {PLAYER}! นึกแล้วเชียวว่าเจ้าต้องโผล่มา!\\pดูเองเลยว่าพวกคลั่งแก๊งแม็กม่ากำลังทำอะไร!\\pพวกมันจะอัดพลังของ METEORITE ที่ขโมยมาเข้าไปในภูเขาไฟ!\\pถ้าทำแบบนั้น ภูเขาไฟต้องระเบิดแน่!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ArchieIHaveMyHandsFull", "th": "อาโอกิริ: ชิ…\\pข้าอยากหยุดมัตสึบุสะนั่น แต่ทำไม่ได้!\\pไม่ใช่ตอนที่ต้องสู้กับศัตรูสามคนพร้อมกันแบบนี้!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ArchieThankYou", "th": "อาโอกิริ: {PLAYER}! ขอบใจมาก!\\pเพราะเจ้าช่วย เราถึงขัดขวางแผนทำลายล้างของแก๊งแม็กม่าได้!\\pแต่… เจ้าน่ะ… อยู่ข้างไหนกันแน่?\\pอา ช่างมันเถอะ\\pพวกเราจะเฝ้าระวังและไล่ล่าแก๊งแม็กม่าต่อไป\\p{PLAYER} แล้วเราจะได้พบกันอีก!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_MagmaOutnumbersUs", "th": "ให้ตายสิ… แก๊งแม็กม่ามีคนมากกว่าเรา! ตามไม่ทันเลย!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_LessHabitatForWaterPokemon", "th": "ถ้าพวกมันขยายแผ่นดิน ที่อยู่อาศัยของโปเกมอน WATER ก็จะน้อยลง!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_MagmasNameSimilar", "th": "เราคือแก๊งอควา!\\pพวกนั้นคือแก๊งแม็กม่า!\\pโมโหชะมัดที่พวกนั้นตั้งชื่อให้สับสนแบบนี้!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_Bushaa", "th": "บุชาา!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_LavaCookiesJust200", "th": "LAVA COOKIE เป็นของขึ้นชื่อของภูเขาปล่องไฟจ้ะ\\pลองสักชิ้นสิ แค่ ¥200 เอง$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ThankYouDear", "th": "ขอบใจจ้ะหนู!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_YouveNotGotTheMoney", "th": "โถ ถ้าไม่มีเงิน ก็ซื้ออะไรไม่ได้หรอกจ้ะ$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_OhFineThen", "th": "อ้อ ก็ได้จ้ะ$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_MeteoriteFittedOnMachine", "th": "METEORITE ถูกติดตั้งไว้บนเครื่องจักรลึกลับ…\\pเครื่องจักรดูเหมือนกำลังสะสมพลังงานไว้ใน METEORITE$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_RemoveTheMeteorite", "th": "METEORITE ถูกติดตั้งไว้บนเครื่องจักรลึกลับ…\\pจะถอด METEORITE ออกไหม?$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_PlayerRemovedMeteorite", "th": "{PLAYER} ถอด METEORITE ออกจากเครื่องจักรลึกลับ$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_PlayerLeftMeteorite", "th": "{PLAYER} ปล่อย METEORITE ไว้ที่เดิม$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_MachineMakesNoResponse", "th": "เครื่องจักรลึกลับนี้… ไม่มีปฏิกิริยาใด ๆ เลย$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_RouteSign", "th": "{DOWN_ARROW} ทางภูเขาขรุขระ ข้างหน้าคือเมืองฟุเอ็น$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ShelbyIntro", "th": "ยายไปแช่บ่อน้ำพุร้อนมา ได้ผ่อนคลายกระดูกที่เหนื่อยล้า\\pตอนนี้ยายรู้สึกแข็งแรงเต็มที่เลย!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ShelbyDefeat", "th": "ตายจริง นี่หนูเก่งไม่เบาเลยนะ!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ShelbyPostBattle", "th": "แหม แพ้ซะแล้ว แบบนี้ยายจะเรียกตัวเองว่าผู้เชี่ยวชาญได้ยังไงล่ะ?$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ShelbyRegister", "th": "ขอบใจนะหนู สนุกเหมือนได้สู้กับหลานตัวเองเลย\\pแวะมาสู้กับยายอีกนะจ๊ะ$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ShelbyRematchIntro", "th": "ถ้าหนูทำให้หัวใจเป็นหนึ่งเดียวกับโปเกมอนได้ ก็จะทำเรื่องยิ่งใหญ่ได้แน่นอนจ้ะ$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ShelbyRematchDefeat", "th": "ตายจริง นี่หนูเก่งไม่เบาเลยนะ!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ShelbyPostRematch", "th": "หัวใจของหนูคงเป็นหนึ่งเดียวกับหัวใจของโปเกมอนแล้วล่ะมั้ง$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_MelissaIntro", "th": "ไฟในตัวฉันมันลุกโชนแล้วที่รัก ทนไม่ไหวแล้ว! ต้องสู้เดี๋ยวนี้!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_MelissaDefeat", "th": "โอ้ว แมตช์ร้อนแรงแผดเผาสุด ๆ!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_MelissaPostBattle", "th": "ความร้อนของภูเขาปล่องไฟทำให้ฉันร้อนรุ่มไปหมดเลยที่รัก!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_SheilaIntro", "th": "ในที่สุดก็มาถึงภูเขาปล่องไฟ อยากให้โปเกมอนของฉันได้ต่อสู้แล้วค่ะ!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_SheilaDefeat", "th": "วิธีต่อสู้ของเธอ… เหมือนภูเขาปล่องไฟระเบิดเลย!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_SheilaPostBattle", "th": "อย่างที่บอก ในที่สุดฉันก็มาถึงภูเขาปล่องไฟ ถ้าแค่มาเที่ยวชมวิวก็น่าเสียดายแย่…\\pฉันอยากต่อสู้สักหน่อย แล้วซื้อ LAVA COOKIE เป็นของฝากด้วยค่ะ$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ShirleyIntro", "th": "ตั้งแต่ได้แช่บ่อน้ำพุร้อน ฉันก็รู้สึกดีสุด ๆ มั่นใจว่าต้องชนะแน่!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ShirleyDefeat", "th": "โอ๊ย! หนาวสะท้านเลยหลังขึ้นจากน้ำ$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_ShirleyPostBattle", "th": "คงต้องไปแช่บ่อน้ำพุร้อนอีกรอบแล้ว ไปด้วยกันไหม?\\pล้อเล่นน่ะ!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_SawyerIntro", "th": "ภูเขานี่เจ๋งจริง ๆ! มีคนร้อนแรงอยู่รอบตัวเต็มไปหมด!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_SawyerDefeat", "th": "โอ้ เธอเองก็ร้อนแรงเหมือนกันนี่!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_SawyerPostBattle", "th": "ผมว่าต้องไปแช่บ่อน้ำพุร้อนฟุเอ็นกับชาวบ้านสักหน่อยแล้ว!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_SawyerRegister", "th": "ผมชอบคนไฟแรงตัวเล็ก ๆ อย่างเธอ ขอลงทะเบียนเธอไว้ในโปเกนาวีของผมนะ$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_SawyerRematchIntro", "th": "แถวนี้มีคนร้อนแรงอยู่รอบตัว มีความสุขจัง ผมไม่แพ้หรอก!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_SawyerRematchDefeat", "th": "โห เธอยังร้อนแรงเหมือนเดิมเลย!$"}
+{"id": "data/maps/MtChimney/scripts.inc#MtChimney_Text_SawyerPostRematch", "th": "จริง ๆ แล้วที่นี่ร้อนมากเลยนะ ผมใส่เสื้อหนาเกินไปสำหรับแถวนี้$"}
+{"id": "data/maps/MtChimney_CableCarStation/scripts.inc#MtChimney_CableCarStation_Text_CableCarReadyGetOn", "th": "กระเช้าลอยฟ้าพร้อมจะลงไปแล้วค่ะ จะโดยสารไหมคะ?$"}
+{"id": "data/maps/MtChimney_CableCarStation/scripts.inc#MtChimney_CableCarStation_Text_StepThisWay", "th": "เชิญทางนี้ค่ะ$"}
+{"id": "data/maps/MtChimney_CableCarStation/scripts.inc#MtChimney_CableCarStation_Text_RideAnotherTime", "th": "โอกาสหน้าเชิญใช้บริการใหม่นะคะ$"}
+{"id": "data/maps/MtPyre_1F/scripts.inc#MtPyre_1F_Text_TakeThisForYourOwnGood", "th": "มีสิ่งต่าง ๆ มากมายเร่ร่อนอยู่บนเนินเขาของภูเขาส่งวิญญาณ…\\pไม่รู้เลยว่าจะเกิดอะไรขึ้น รับนี่ไปสิ เพื่อตัวหนูเองนะ$"}
+{"id": "data/maps/MtPyre_1F/scripts.inc#MtPyre_1F_Text_ExplainCleanseTag", "th": "ให้โปเกมอนถือ CLEANSE TAG นั่นไว้\\pมันจะช่วยไล่โปเกมอนป่าไม่ให้เข้าใกล้$"}
+{"id": "data/maps/MtPyre_1F/scripts.inc#MtPyre_1F_Text_ComeToPayRespects", "th": "มาไหว้ดวงวิญญาณของโปเกมอนที่จากไปหรือคะ?\\pคุณคงรักโปเกมอนของคุณมากเลยนะคะ$"}
+{"id": "data/maps/MtPyre_1F/scripts.inc#MtPyre_1F_Text_RestingPlaceOfZigzagoon", "th": "ที่นี่คือที่พักสุดท้ายของจิกุซากุมะของผม ผมรักมันมาก…$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_MemoriesOfSkitty", "th": "ความทรงจำเกี่ยวกับเอเนโกะแสนรักของฉัน… คิดทีไรน้ำตาก็ไหลทุกที$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_TumbledFromFloorAbove", "th": "โอ๊ย เจ็บ… พื้นตรงนี้มีหลุมอยู่ประปราย\\pผมไม่ทันสังเกต เลยตกลงมาจากชั้นบน$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_MarkIntro", "th": "เฮ้! มาหาโปเกมอนหรือ? ตามหลังผมมาเลยนี่! เสียมารยาทจริง!$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_MarkDefeat", "th": "อ๊ายยยย! ขอโทษ ยกโทษให้ผมเถอะ!$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_MarkPostBattle", "th": "ที่นี่คนไม่ค่อยมา ผมเลยคิดว่าจะมีโปเกมอนหายาก$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_LukeIntro", "th": "ลุค: พวกเรามาที่นี่เพราะโดนท้า\\pเฮะเฮะ ถ้าผมโชว์ความเท่ให้แฟนเห็น แฟนต้องหลงรักผมแน่ ๆ!\\pรู้แล้ว! ผมจะจัดการคุณ แล้วโชว์ให้แฟนเห็นว่าผมเท่แค่ไหน!$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_LukeDefeat", "th": "ลุค: อุ๊บส์!$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_LukePostBattle", "th": "ลุค: เราแพ้ แต่ไม่เป็นไรหรอก! ผมอยู่ข้าง ๆ เธอตรงนี้ เราจะผ่านคำท้านี้ไปด้วยกัน!$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_LukeNotEnoughMons", "th": "ลุค: ถ้าอยากสู้กับผม ก็พาโปเกมอนมาเพิ่มอีกสิ\\pไม่งั้นผมก็อวดความเท่ให้แฟนดูไม่ได้น่ะสิ!$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_DezIntro", "th": "เดซ: ฉันมาที่นี่กับแฟนเพราะโดนท้าค่ะ\\pน่ากลัวมากเลย แต่มีแฟนอยู่ด้วย ก็ไม่เป็นไร\\pรู้แล้ว! ฉันจะช่วยให้แฟนดูเท่ด้วยการชนะคุณ!$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_DezDefeat", "th": "เดซ: ว้ายยย! น่ากลัว!$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_DezPostBattle", "th": "เดซ: เราสวีตกันขนาดนี้ แพ้ก็ไม่แคร์หรอก!$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_DezNotEnoughMons", "th": "เดซ: ถ้าอยากท้าสู้กับเรา ต้องพาโปเกมอนมาอย่างน้อยสองตัวนะ\\pแฟนฉันเก่งนะ โปเกมอนตัวเดียวไม่พอหรอก$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_LeahIntro", "th": "เธอเป็นหน้าแปลก… รีบไปซะก่อนจะมีอะไรเกิดขึ้นกับเธอ!$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_LeahDefeat", "th": "อืม… ทนทานดีนี่$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_LeahPostBattle", "th": "ตระกูลของฉันเป็นเทรนเนอร์อยู่ที่นี่มาตั้งแต่สมัยทวดของฉัน…\\pหน้าที่ของฉันคือปกป้องภูเขานี้…$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_ZanderIntro", "th": "คิยาาาาาา! กลัวจังเลย!$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_ZanderDefeat", "th": "ไม่นะะะะะ! สติหลุดไปหมดแล้ว!$"}
+{"id": "data/maps/MtPyre_2F/scripts.inc#MtPyre_2F_Text_ZanderPostBattle", "th": "เห็นอะไรขยับทีไรก็สะดุ้งทุกที…\\pไม่น่ามาฝึกที่นี่เลย…$"}
+{"id": "data/maps/MtPyre_3F/scripts.inc#MtPyre_3F_Text_WilliamIntro", "th": "บรรยากาศอันเข้มข้นของภูเขานี้ทำให้พลังจิตของผมเพิ่มพูน!\\pเด็กกระจอกอย่างเธอ… ยังฝันจะชนะอีกหรือ?$"}
+{"id": "data/maps/MtPyre_3F/scripts.inc#MtPyre_3F_Text_WilliamDefeat", "th": "ผมจมอยู่กับความสมเพชตัวเอง…$"}
+{"id": "data/maps/MtPyre_3F/scripts.inc#MtPyre_3F_Text_WilliamPostBattle", "th": "พลังจิตของผมเพิ่มขึ้นหลายเท่าแน่ ๆ แต่ว่า…$"}
+{"id": "data/maps/MtPyre_3F/scripts.inc#MtPyre_3F_Text_KaylaIntro", "th": "อ๊ะฮ่าฮ่าฮ่าฮ่า!\\pที่นี่ไม่ใช่ที่สำหรับเด็ก ๆ โดยเฉพาะเธอ!$"}
+{"id": "data/maps/MtPyre_3F/scripts.inc#MtPyre_3F_Text_KaylaDefeat", "th": "แพ้ขาดลอยเลย…$"}
+{"id": "data/maps/MtPyre_3F/scripts.inc#MtPyre_3F_Text_KaylaPostBattle", "th": "แปลว่าการฝึกของฉันยังไม่พอ…\\pต้องมุ่งหน้าสู่ยอดเขาต่อไป…\\pสู้เขา ตัวฉัน!$"}
+{"id": "data/maps/MtPyre_3F/scripts.inc#MtPyre_3F_Text_GabrielleIntro", "th": "มาที่นี่ทำไมคะ?$"}
+{"id": "data/maps/MtPyre_3F/scripts.inc#MtPyre_3F_Text_GabrielleDefeat", "th": "สุดยอดไปเลยค่ะ! คุณเป็นเทรนเนอร์ที่พิเศษมาก$"}
+{"id": "data/maps/MtPyre_3F/scripts.inc#MtPyre_3F_Text_GabriellePostBattle", "th": "โปเกมอนที่ไม่ได้อยู่บนโลกนี้แล้ว โปเกมอนที่อยู่กับคุณตอนนี้\\pและโปเกมอนที่คุณจะได้พบในอนาคต…\\pล้วนควรได้รับความรักอย่างเท่าเทียมกัน โปรดจำไว้นะคะ$"}
+{"id": "data/maps/MtPyre_3F/scripts.inc#MtPyre_3F_Text_GabrielleRegister", "th": "ดิฉันอยากเห็นโปเกมอนของคุณตอนที่มันโตขึ้นอีกหน่อย…\\pขอดูโปเกนาวีของคุณหน่อยนะคะ$"}
+{"id": "data/maps/MtPyre_3F/scripts.inc#MtPyre_3F_Text_GabrielleRematchIntro", "th": "อ้อ คุณนี่เอง…\\pมาให้ดิฉันดูโปเกมอนที่โตขึ้นแล้วหรือคะ?$"}
+{"id": "data/maps/MtPyre_3F/scripts.inc#MtPyre_3F_Text_GabrielleRematchDefeat", "th": "สุดยอดจริง ๆ! คุณเป็นคนพิเศษจริง ๆ ค่ะ$"}
+{"id": "data/maps/MtPyre_3F/scripts.inc#MtPyre_3F_Text_GabriellePostRematch", "th": "โปเกมอนที่ไม่ได้อยู่บนโลกนี้แล้ว โปเกมอนที่อยู่กับคุณตอนนี้\\pและโปเกมอนที่คุณจะได้พบในอนาคต…\\pล้วนควรได้รับความรักอย่างเท่าเทียมกัน ดิฉันเห็นแล้วว่าคุณยังจำได้ค่ะ$"}
+{"id": "data/maps/MtPyre_4F/scripts.inc#MtPyre_5F_Text_AtsushiIntro", "th": "อาจารย์… โปรดเฝ้าดูพัฒนาการของผมด้วย!$"}
+{"id": "data/maps/MtPyre_4F/scripts.inc#MtPyre_5F_Text_AtsushiDefeat", "th": "อาจารย์… โปรดยกโทษให้ผมด้วย!$"}
+{"id": "data/maps/MtPyre_4F/scripts.inc#MtPyre_5F_Text_AtsushiPostBattle", "th": "ถ้าผมยังไม่เก่งขึ้น อาจารย์ที่หลับใหลอยู่ที่นี่ก็คงไม่ได้พักอย่างสงบ…$"}
+{"id": "data/maps/MtPyre_5F/scripts.inc#MtPyre_4F_Text_TashaIntro", "th": "ฉันรักทุกสิ่งที่น่าสะพรึงกลัว… เหมือนเป็นโรคเลย…\\pพออยู่ที่นี่… ฉันก็สั่นด้วยความกลัว…$"}
+{"id": "data/maps/MtPyre_5F/scripts.inc#MtPyre_4F_Text_TashaDefeat", "th": "ความพ่ายแพ้… ฉันไม่ชอบ…$"}
+{"id": "data/maps/MtPyre_5F/scripts.inc#MtPyre_4F_Text_TashaPostBattle", "th": "ฉันอยากเห็นสิ่งที่น่ากลัว… ฉันไปจากที่นี่ไม่ได้…\\pอยู่ก่อนสิ… อยู่กับฉันไม่ได้หรือ?$"}
+{"id": "data/maps/MtPyre_6F/scripts.inc#MtPyre_6F_Text_ValerieIntro", "th": "พออยู่ที่นี่… พลังประหลาดก็ไหลเข้ามาในตัวฉัน…$"}
+{"id": "data/maps/MtPyre_6F/scripts.inc#MtPyre_6F_Text_ValerieDefeat", "th": "พลังกำลังเหือดหายไป…$"}
+{"id": "data/maps/MtPyre_6F/scripts.inc#MtPyre_6F_Text_ValeriePostBattle", "th": "บางทีพลังนั้นอาจมาจากดวงวิญญาณของโปเกมอนที่หลับไม่สนิทอยู่ที่นี่…$"}
+{"id": "data/maps/MtPyre_6F/scripts.inc#MtPyre_6F_Text_ValerieRegister", "th": "ฟุฟุฟุ… ฉันแพ้ แต่ว่า… ฉันมีความสามารถเล็ก ๆ อยู่อย่างหนึ่ง…\\pโดยไม่ต้องแตะโปเกนาวีของเธอเลย… ฮึบ!$"}
+{"id": "data/maps/MtPyre_6F/scripts.inc#MtPyre_6F_Text_ValerieRematchIntro", "th": "ข้างหลังเธอ… นั่นอะไร…$"}
+{"id": "data/maps/MtPyre_6F/scripts.inc#MtPyre_6F_Text_ValerieRematchDefeat", "th": "มีบางอย่างเลือนหายไป…$"}
+{"id": "data/maps/MtPyre_6F/scripts.inc#MtPyre_6F_Text_ValeriePostRematch", "th": "โปเกมอนที่หลับใหลอยู่ที่นี่… บางครั้งก็ออกมาเล่นกัน…$"}
+{"id": "data/maps/MtPyre_6F/scripts.inc#MtPyre_6F_Text_CedricIntro", "th": "หลงทางหรือ? ไม่ต้องกลัว ผมอยู่นี่แล้ว!$"}
+{"id": "data/maps/MtPyre_6F/scripts.inc#MtPyre_6F_Text_CedricDefeat", "th": "ไม่ได้หลงทางหรอกหรือ?$"}
+{"id": "data/maps/MtPyre_6F/scripts.inc#MtPyre_6F_Text_CedricPostBattle", "th": "ผมคิดว่าเทรนเนอร์ที่หลงทางคงตื่นตระหนกและเอาชนะง่าย\\pมันเป็นวิธีสกปรก ผมจะไม่ทำอีกแล้ว…$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_Grunt1Intro", "th": "แย่แล้ว! เจ้าพวกแก๊งแม็กม่ามาถึงก่อนเรา!\\pเราจะตามหลังไม่ได้!$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_Grunt1Defeat", "th": "นึกว่าเป็นพวกแม็กม่าที่ย้อนกลับมาซะอีก…$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_Grunt1PostBattle", "th": "เออ แกน่ะเก่งจริง… แต่พวกเรามีกันเยอะนะเว้ย!$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_Grunt2Intro", "th": "ฮ่า! ซวยล่ะสิ!\\pถ้ามาเร็วกว่านี้ ก็แค่สู้กับแก๊งแม็กม่าอ่อนหัดพวกนั้น\\pแต่มาตอนนี้ ก็ต้องเจอพวกเราที่แกร่งกว่าแทน!$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_Grunt2Defeat", "th": "อึก… น่าจะปล่อยให้แกไปสู้กับแก๊งแม็กม่าก่อน…$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_Grunt2PostBattle", "th": "แกไม่รู้อะไรเลย! แล้วจะมายุ่งกับพวกเราทำไม?$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_Grunt3Intro", "th": "แก… เราเห็นแกที่ภูเขาปล่องไฟ\\pแกไม่ได้อยู่แก๊งไหนเลย แล้วจะมาที่นี่ทำไม?$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_Grunt3Defeat", "th": "ถ้าจะไปยุ่งกับใคร ไปยุ่งกับแก๊งแม็กม่าเถอะ…$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_Grunt3PostBattle", "th": "หึ ช่างมันเถอะ! เราถ่วงเวลาได้แล้ว!\\pป่านนี้บอสคงฉกของที่ต้องการไปแล้ว!$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_Grunt4Intro", "th": "อ๋อ รู้แล้ว! แกเคยพยายามเข้าแก๊งแม็กม่า แต่พวกนั้นไม่รับสินะ!\\pงั้นอย่าคิดว่าเราจะให้แกเข้าแก๊งอควาของเราล่ะ!$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_Grunt4Defeat", "th": "ถ้าอยากเข้าแก๊งอควาขนาดนั้น เราก็พอจะพิจารณาให้ได้นะ…$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_Grunt4PostBattle", "th": "พวกเราสมาชิกกับหัวหน้าเข้าขากันสุดยอดไปเลย$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo", "th": "อาโอกิริ: มัตสึบุสะแห่งแก๊งแม็กม่าชิงตัดหน้าเราไปก่อน แต่เราก็ได้สิ่งที่ต้องการแล้ว\\pRED ORB ที่เก็บรักษาไว้ที่ภูเขาส่งวิญญาณ… ตอนนี้อยู่ในมือข้า อาโอกิริ แล้ว!\\pฟุฟุฟุ… ทีนี้เป้าหมายสูงสุดของเราก็จะเป็นจริงได้!\\pเอาล่ะ ทุกคน! ถอนกำลังได้!$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_BothOrbsTakenMagmaLeftThis", "th": "โอ้ ไม่นะ… เรื่องแบบนี้ไม่ควรเกิดขึ้น…\\pไม่ใช่แค่ BLUE ORB แต่ RED ORB ก็ถูกเอาไปด้วย…\\pBLUE ORB กับ RED ORB ต้องไม่ถูกแยกจากกัน ทั้งสองต้องอยู่คู่กัน\\pพวกผู้ชายเหล่านั้นคิดจะทำอะไรกับ ORB ทั้งสองลูกนะ?\\p… … … … … … … … … … … …\\pอ้อ ใช่แล้ว คนที่มาเอา BLUE ORB ไปก่อนคือแก๊งแม็กม่าใช่ไหม?\\pพวกนั้นรีบร้อนจนทิ้งของนี่ไว้\\pยายเองก็นึกไม่ออกว่ามันคืออะไรกันแน่\\pอยากให้หนูรับไว้ บางทีอาจมีประโยชน์บ้างก็ได้จ้ะ$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_OrbsHaveBeenTaken", "th": "BLUE ORB กับ RED ORB ถูกพวกผู้ชายชั่วร้ายเหล่านั้นเอาไป…\\pทั้งสองต้องไม่แยกจากกัน… ยายกลัวว่าจะเกิดเรื่องร้ายแรงขึ้น…$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_GroudonKyogreAwakened", "th": "ตายจริง…\\pหนูบอกว่าทั้งกราดอนและไคออกาตื่นขึ้นแล้วงั้นหรือ?\\pว่ากันว่า BLUE ORB กับ RED ORB เคยสงบความโกรธเกรี้ยวของโปเกมอนทั้งสองตัวนั้น…\\pยังว่ากันอีกว่าเจ้าของที่แท้จริงของ ORB ยังคงอยู่\\pแต่ไม่มีใครรู้ว่า ORB เป็นของใคร หรือของสิ่งใดกันแน่\\pอาจเป็นมนุษย์ หรืออาจเป็นโปเกมอน แต่ก็ไม่มีใครรู้$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_ThoseTwoMenReturnedOrbs", "th": "ชายสองคนที่เอา ORB ไป กลับมาคืนเองกับมือ\\pพวกเขา… บางทีอาจไม่ได้ชั่วร้ายอย่างที่คิดก็ได้…$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_SuperAncientPokemonTaughtUs", "th": "ร่างจุติแห่งแผ่นดิน ทะเล และท้องฟ้า…\\pว่ากันว่านั่นคือตัวตนของโปเกมอนโบราณยุคดึกดำบรรพ์…\\pเช่นเดียวกับที่มนุษย์และโปเกมอนมีชีวิต โลกของเราก็มีชีวิตเช่นกัน…\\pโปเกมอนโบราณยุคดึกดำบรรพ์สอนเราไว้อย่างนั้น…$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_WillYouHearOutMyTale", "th": "ภูเขาส่งวิญญาณคือที่ที่เราปลอบประโลมดวงวิญญาณของโปเกมอนที่จากไปแล้ว…\\pที่นี่เป็นที่สูงซึ่งมองเห็นโฮเอ็นได้ทั้งหมด…\\pดวงวิญญาณของโปเกมอนคงได้พบความสงบที่นี่…\\pการที่หนูมาอยู่ที่นี่เป็นเรื่องบังเอิญหรือเปล่านะ…\\pจะฟังเรื่องเล่าของตาไหม? เรื่องที่เล่าขานกันมาช้านานในภูมิภาคโฮเอ็น$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_GroudonKyogreTale", "th": "เรื่องนี้เกิดขึ้นเมื่อนานแสนนานมาแล้ว…\\pโลกต้องสั่นสะเทือนจากการปะทะอันดุเดือด ระหว่างโปเกมอนแห่งแผ่นดินกับโปเกมอนแห่งท้องทะเล…\\pโปเกมอนแห่งแผ่นดินยกภูเขาขึ้นและสร้างทวีป…\\pโปเกมอนแห่งท้องทะเลซัดคลื่นยักษ์และขุดเป็นมหาสมุทร…\\pการต่อสู้อันดุเดือดของทั้งสองดำเนินไปไม่มีที่สิ้นสุด\\pโลกถูกกลืนด้วยเพลิงมหาศาลและพายุร้าย\\pBLUE ORB และ RED ORB ได้ยุติหายนะนั้นลง\\pแสงสว่างที่ส่องออกมาจาก ORB ทั้งสองลูกได้สงบคู่ต่อสู้ที่เดือดดาลลง\\pทั้งคู่ที่สงบลงแล้วก็ดำดิ่งลงสู่ใต้ทะเลลึก และในที่สุดก็หายไป…$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_WellThatTooIsFine", "th": "เข้าใจแล้ว… อืม แบบนั้นก็ดีเหมือนกัน…$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_MaxieSilence", "th": "มัตสึบุสะ: {PLAYER}…\\p… … … … … … … … … … … …$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_HearTheNewLegendOfHoenn", "th": "หน้าที่ของตาคือถ่ายทอดตำนานแห่งโฮเอ็นให้คนรุ่นหลัง\\pและวิกฤตที่เพิ่งจบลงที่รุเนะ ก็ได้เขียนตำนานขึ้นใหม่…\\pหนูมีเวลาฟังตำนานใหม่ของโฮเอ็นไหม?$"}
+{"id": "data/maps/MtPyre_Summit/scripts.inc#MtPyre_Summit_Text_HoennTrioTale", "th": "เรื่องนี้เกิดขึ้นเมื่อนานแสนนานมาแล้ว…\\pโลกต้องสั่นสะเทือนจากการปะทะอันดุเดือด ระหว่างโปเกมอนแห่งแผ่นดินกับโปเกมอนแห่งท้องทะเล…\\pโปเกมอนแห่งแผ่นดินยกภูเขาขึ้นและสร้างทวีป…\\pโปเกมอนแห่งท้องทะเลซัดคลื่นยักษ์และขุดเป็นมหาสมุทร…\\pการต่อสู้อันดุเดือดของทั้งสองดำเนินไปไม่มีที่สิ้นสุด\\pโลกถูกกลืนด้วยไฟมหาศาลและพายุร้าย\\pในตอนนั้นเอง โปเกมอนแห่งท้องฟ้าก็ลงมาจากพายุ\\pโปเกมอนที่เปล่งแสงสีเขียวสดใสได้สงบโปเกมอนทั้งสองที่เดือดดาลลง\\pจากนั้น เมื่อทำหน้าที่เสร็จสิ้น โปเกมอนสีเขียวก็บินจากไปสู่ท้องฟ้าสีครามอันไกลโพ้น…$"}
+{"id": "data/maps/NewMauville_Entrance/scripts.inc#NewMauville_Entrance_Text_DoorIsLocked", "th": "ประตูถูกล็อกไว้$"}
+{"id": "data/maps/NewMauville_Entrance/scripts.inc#NewMauville_Entrance_Text_UseBasementKey", "th": "จะใช้ BASEMENT KEY ไหม?$"}
+{"id": "data/maps/NewMauville_Entrance/scripts.inc#NewMauville_Entrance_Text_UsedBasementKey", "th": "{PLAYER} ใช้ BASEMENT KEY\\pประตูเปิดออกแล้ว!$"}
+{"id": "data/maps/NewMauville_Inside/scripts.inc#NewMauville_Inside_Text_GeneratorRadiatingHeat", "th": "เครื่องปั่นไฟแผ่ความร้อนออกมาจนรู้สึกได้แม้อยู่ห่างออกไป\\pดูเหมือนควรรีบปิดให้เร็วที่สุด$"}
+{"id": "data/maps/NewMauville_Inside/scripts.inc#NewMauville_Inside_Text_GeneratorQuietedDown", "th": "เครื่องปั่นไฟเงียบลงแล้ว$"}
+{"id": "data/maps/NewMauville_Inside/scripts.inc#NewMauville_Inside_Text_SteppedOnSwitchGeneratorStopped", "th": "{PLAYER} เหยียบสวิตช์\\pแกร๊ก…\\p… … … … … … … … … … … … … … … …\\pดูเหมือนเครื่องปั่นไฟจะหยุดทำงานแล้ว…$"}
+{"id": "data/maps/OldaleTown/scripts.inc#OldaleTown_Text_SavingMyProgress", "th": "อยากพักสักหน่อย เลยบันทึกเกมไว้ก่อนค่ะ$"}
+{"id": "data/maps/OldaleTown/scripts.inc#OldaleTown_Text_IWorkAtPokemonMart", "th": "สวัสดีครับ! ผมทำงานที่โปเกมาร์ท\\pไปกับผมหน่อยได้ไหมครับ?$"}

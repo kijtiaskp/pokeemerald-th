@@ -1,4 +1,4 @@
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks9","th":"อะฮะ {STR_VAR_1} ตัวนึงใช่มะ! โอเค โอเคสุด ๆ!\\pเดี๋ยวจับใส่มอนสเตอร์บอลแบบ ปึ้ก! เลย!\\pเอาล่ะ ขอบใจเหมือนเคยนะ! อาดิโอส!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks9","th":"อะฮะ {STR_VAR_1} ตัวนึงใช่มะ! โอเค โอเคสุด ๆ!\\pเดี๋ยวจับใส่ BALL แบบ ปึ้ก! เลย!\\pเอาล่ะ ขอบใจเหมือนเคยนะ! อาดิโอส!$"}
 {"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon10","th":"{PLAYER}{KUN} ฟังนะ! ข่าวใหญ่!\\pฉันจับโปเกมอนภาพลวงตาได้แล้ว!\\pโกหกน่ะสิ! วะฮ่าฮ่าฮ่า!\\pแต่เรื่องนี้ไม่โกหกนะ ฉันจับโปเกมอนไม่ค่อยเก่งเลย\\pงั้นอาจารย์ช่วยเลือกให้หน่อยสิ ว่าควรจับโปเกมอนแบบไหนดี\\pตัวไหนดีกว่ากัน? {STR_VAR_1} หรือ {STR_VAR_2}?$"}
 {"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks10","th":"เลือก {STR_VAR_1} งั้นเหรอ? งั้นฉันไปจับอีกแบบแทนละกัน!\\pล้อเล่นน่า! จะทำตามคำสอนของอาจารย์เลย!\\pขอบคุณนะอาจารย์! สอนฉันต่อไปอีกนะ!$"}
 {"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon11","th":"อ-ะ-ฮ-อ-ย! สะกดรวมได้ อะฮอย!\\pกะลาสีสายแร็ปคือตัวข้า! จำกันได้ใช่มั้ย ใครกันหนา?\\pวันนี้มีคำถามเรื่องโปเกมอน อยากขอคำแนะนำจากเธอก่อน!\\pมี {STR_VAR_1} กับ {STR_VAR_2} ให้เลือกนะเออ ตัวไหนควรจับมาเป็นของข้าล่ะเธอ?$"}
@@ -189,3 +189,292 @@
 {"id":"data/text/battle_dome.inc#BattleDome_Text_SemifinalMatch1","th":"รอบรองชนะเลิศ คู่ที่ 1$"}
 {"id":"data/text/battle_dome.inc#BattleDome_Text_SemifinalMatch2","th":"รอบรองชนะเลิศ คู่ที่ 2$"}
 {"id":"data/text/battle_dome.inc#BattleDome_Text_FinalMatch","th":"รอบชิงชนะเลิศ$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent","th":"ยินดีต้อนรับสู่แบทเทิลเต็นท์ สาขาฮาจิตสึเกะครับ!\\pผมเป็นผู้ดูแลทัวร์นาเมนต์เซ็ตน็อกเอาต์ครับ!$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_TakeChallenge","th":"ต้องการท้าทายทัวร์นาเมนต์เซ็ตน็อกเอาต์หรือไม่ครับ?$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge","th":"แล้วโอกาสหน้า เราจะรอการท้าทายของคุณครับ!$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_ExplainFallarborTent","th":"ที่แบทเทิลเต็นท์ฮาจิตสึเกะ เราจัดทัวร์นาเมนต์เซ็ตน็อกเอาต์ครับ\\pผู้เข้าร่วมทุกคนต้องลงแข่งด้วยทีมโปเกมอนสามตัว\\pโปเกมอนทั้งสามต้องเรียงตามลำดับที่จะออกสนาม\\pระหว่างการต่อสู้ โปเกมอนจะออกมาทีละตัว ตามลำดับที่ตั้งไว้\\pเมื่อโปเกมอนออกสนามแล้ว ต้องสู้ต่อไปจนกว่าจะรู้ผล\\pถ้าผ่านไปสามเทิร์นแล้วยังไม่รู้ผล จะตัดสินด้วยคะแนนกรรมการ\\pหากต้องการพักการท้าทาย กรุณาเซฟเกม\\pถ้าไม่เซฟ จะไม่สามารถท้าทายต่อได้\\pหากคุณเอาชนะเทรนเนอร์ได้สามคนติดต่อกัน เราจะมอบรางวัลชั้นดีให้ครับ$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_SaveBeforeChallenge","th":"ก่อนจะพาไปยังแบทเทิลเต็นท์ ผมต้องเซฟเกมก่อน ได้ไหมครับ?$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_WhichLevelMode","th":"เรามีการท้าทายสองระดับ คือเลเวล 50 และเลเวลอิสระ จะเลือกแบบไหนครับ?$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_SelectThreeMons","th":"ดีมาก ถ้าอย่างนั้น กรุณาเลือกโปเกมอนสามตัวครับ$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50","th":"ท่านผู้ท้าชิงครับ!\\pคุณยังไม่มีโปเกมอนสามตัวที่จำเป็นต่อการเข้าร่วม\\pและโปเกมอนต้องไม่ถือไอเท็มชนิดเดียวกันด้วย\\pไข่{STR_VAR_1} ไม่มีสิทธิ์เข้าร่วม\\pเมื่อเตรียมตัวพร้อมแล้ว เชิญกลับมาใหม่นะครับ$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen","th":"ท่านผู้ท้าชิงครับ!\\pคุณยังไม่มีโปเกมอนสามตัวที่จำเป็นต่อการเข้าร่วม\\pหากจะเข้าร่วม ต้องนำโปเกมอนต่างชนิดกันสามตัวมา\\pและโปเกมอนต้องไม่ถือไอเท็มชนิดเดียวกันด้วย\\pไข่{STR_VAR_1} ไม่มีสิทธิ์เข้าร่วม\\pเมื่อเตรียมตัวพร้อมแล้ว เชิญกลับมาใหม่นะครับ$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_GuideYouToBattleTent","th":"ต่อไป ผมจะนำทางคุณไปยังแบทเทิลเต็นท์ครับ$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_DidntSaveBeforeQuitting","th":"ท่านผู้ท้าชิงครับ!\\pคุณไม่ได้เซฟเกมก่อนปิดเครื่องใช่ไหมครับ?\\pน่าเสียดาย แต่นั่นทำให้คุณถูกตัดสิทธิ์จากการท้าทายครั้งนี้\\pแน่นอนว่า คุณสามารถเริ่มท้าทายใหม่ได้ครับ$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_BeatThreeTrainers","th":"ยอดเยี่ยมมาก! คุณเอาชนะเทรนเนอร์ได้สามคนติดต่อกันแล้ว!$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_WaitWhileSaveGame","th":"กรุณารอสักครู่ ผมจะเซฟเกมให้ครับ$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_PresentYouWithPrize","th":"เพื่อเป็นเกียรติแก่การชนะสามครั้งติดต่อกัน เราขอมอบรางวัลนี้ให้ครับ$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_ReceivedPrize","th":"{PLAYER} ได้รับรางวัล {STR_VAR_1}$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_BagFullReturnForPrize","th":"โอ๊ะ? ดูเหมือนกระเป๋าของคุณจะเต็มแล้ว\\pกรุณาจัดที่ว่าง แล้วกลับมารับรางวัลนะครับ$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_ThankYouWaitWhileSaving","th":"ขอบคุณมากที่เข้าร่วมครับ!\\pกรุณารอสักครู่ ผมจะเซฟเกมให้$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge2","th":"แล้วโอกาสหน้า เราจะรอการท้าทายของคุณครับ!$"}
+{"id":"data/text/battle_tent.inc#FallarborTown_BattleTentLobby_Text_LookingForwardToArrival","th":"เรารอการมาถึงของคุณอยู่เลยครับ\\pก่อนจะพาไปยังแบทเทิลเต็นท์ ผมต้องเซฟเกมก่อน กรุณารอสักครู่$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent","th":"ยินดีต้อนรับสู่แบทเทิลเต็นท์ สาขาชิดาเกะ!\\pที่นี่ จะทดสอบความไว้ใจที่เทรนเนอร์มีต่อโปเกมอน$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_TakeChallenge","th":"ต้องการท้าทายแบทเทิลเต็นท์ชิดาเกะหรือไม่?$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent","th":"ที่แบทเทิลเต็นท์ชิดาเกะ มีกฎสำคัญข้อหนึ่งที่ต้องปฏิบัติตาม\\pเทรนเนอร์ทำได้เพียงสลับโปเกมอนเข้าออกเท่านั้น\\pนอกจากนั้น เทรนเนอร์ห้ามสั่งการโปเกมอนเด็ดขาด\\pโปเกมอนจะเคลื่อนไหวตามนิสัยของตัวเอง และต่อสู้ด้วยตัวเอง\\pคุณต้องเชื่อใจโปเกมอนของคุณ และเฝ้ามองพวกมัน\\pหากคุณได้รับเกียรติ เอาชนะเทรนเนอร์ได้สามคนติดต่อกัน\\pเราจะมอบรางวัลให้\\pหากต้องการพักการท้าทาย กรุณาเซฟเกม\\pถ้าไม่เซฟก่อนพัก คุณจะถูกตัดสิทธิ์$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_ReturnFortified","th":"เมื่อหัวใจและโปเกมอนของคุณแข็งแกร่งขึ้นแล้ว จงกลับมาอีกครั้ง$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_WhichLevelMode","th":"มีความยากสองระดับ คือเลเวล 50 และเลเวลอิสระ คุณจะเลือกท้าทายแบบไหน?$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50","th":"เฮ้อ…\\pคุณยังไม่มีโปเกมอนสามตัวที่จำเป็นต่อการท้าทาย\\pหากจะเข้าร่วม ต้องนำโปเกมอนต่างชนิดกันสามตัวมา\\pและโปเกมอนต้องไม่ถือไอเท็มชนิดเดียวกัน\\pไข่{STR_VAR_1} ไม่มีสิทธิ์เข้าร่วม\\pเตรียมตัวให้พร้อมแล้วค่อยกลับมา$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen","th":"เฮ้อ…\\pคุณยังไม่มีโปเกมอนสามตัวที่จำเป็นต่อการท้าทาย\\pหากจะเข้าร่วม ต้องนำโปเกมอนต่างชนิดกันสามตัวมา\\pและโปเกมอนต้องไม่ถือไอเท็มชนิดเดียวกัน\\pไข่{STR_VAR_1} ไม่มีสิทธิ์เข้าร่วม\\pเตรียมตัวให้พร้อมแล้วค่อยกลับมา$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_SelectThreeMons","th":"ดี ต่อไป คุณต้องเลือกโปเกมอนสามตัว$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_SaveBeforeChallenge","th":"ผมต้องเซฟเกมก่อนพาคุณไปยังแบทเทิลเต็นท์ ได้ไหม?$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_NowFollowMe","th":"ดี ต่อไป ตามผมมา$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_ResultsWillBeRecorded","th":"ผมรู้สึกเป็นเกียรติ ที่ได้เห็นผลงานของโปเกมอนของคุณ\\pผลการแข่งจะถูกบันทึกไว้ ขอให้รอสักครู่$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_AchievedThreeWinStreak","th":"ชนะสามครั้งติดต่อกัน…\\pสายสัมพันธ์ระหว่างหัวใจของคุณกับโปเกมอน ดูมั่นคงและแท้จริงยิ่งนัก$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_FeatWillBeRecorded","th":"ผลงานของคุณจะถูกบันทึกไว้ ขอให้รอสักครู่$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_PresentYouWithPrize","th":"สำหรับผลงานการชนะสามครั้งติดต่อกัน เราขอมอบรางวัลนี้ให้$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent","th":"ยินดีต้อนรับสู่แบทเทิลเต็นท์ สาขาไคนะครับ!\\pผมเป็นผู้ดูแลทัวร์นาเมนต์แบทเทิลสว็อปครับ$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_TakeChallenge","th":"ต้องการท้าทายแบทเทิลสว็อปไหมครับ?$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_ExplainSlateportTent","th":"ที่แบทเทิลเต็นท์ไคนะ เราจัดกิจกรรมแบทเทิลสว็อป\\pโดยใช้โปเกมอนเช่าครับ\\pก่อนอื่น คุณจะได้ยืมโปเกมอนสามตัว สำหรับกิจกรรมนี้โดยเฉพาะ\\pใช้โปเกมอนเช่าที่ได้รับ ลงต่อสู้แบบซิงเกิลแบทเทิล\\pถ้าชนะ คุณจะแลกโปเกมอนเช่าได้หนึ่งตัว\\pต่อสู้และแลกเปลี่ยนวนไปแบบนี้\\pถ้าชนะติดต่อกันสามครั้ง จะได้รับรางวัลชั้นดีครับ\\pหากต้องการพักการท้าทาย กรุณาเซฟเกม\\pถ้าไม่เซฟก่อนพัก คุณจะถูกตัดสิทธิ์ครับ$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_LookForwardToNextVisit","th":"หวังว่าจะได้พบคุณอีกครั้งนะครับ$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_WhichLevelMode","th":"ต้องการท้าทายระดับไหนครับ? เลเวล 50 หรือเลเวล 100?$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge","th":"ก่อนเริ่มการท้าทาย ผมต้องเซฟข้อมูลก่อน ได้ไหมครับ?$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping","th":"ได้ครับ ระหว่างการแข่งขัน ผมจะเก็บรักษาโปเกมอนของคุณไว้ให้$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_StepThisWay","th":"เชิญทางนี้ครับ$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults","th":"ขอบคุณที่เข้าร่วมครับ!\\pผมจะคืนโปเกมอนของคุณ แลกกับโปเกมอนเช่าของเรา\\pผมต้องเซฟผลการแข่งของคุณด้วย กรุณารอสักครู่$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals","th":"ผมจะคืนโปเกมอนของคุณ แลกกับโปเกมอนเช่าของเราครับ$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_WonThreeMatchesReturnMons","th":"ยินดีด้วยครับ! คุณชนะติดต่อกันสามครั้งแล้ว!\\pผมจะคืนโปเกมอนของคุณ แลกกับโปเกมอนเช่าของเรา\\pผมต้องเซฟผลการแข่งของคุณด้วย กรุณารอสักครู่$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_AwardYouThisPrize","th":"เพื่อเป็นเกียรติแก่การชนะสามครั้งติดต่อกัน เราขอมอบรางวัลนี้ให้ครับ$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom","th":"โอ๊ะ? ดูเหมือนคุณจะไม่มีที่ว่างเก็บของชิ้นนี้\\pกรุณาจัดที่ว่างในกระเป๋า แล้วบอกผมนะครับ$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_BeenWaitingForYou","th":"เรารอคุณอยู่เลยครับ!\\pก่อนจะท้าทายต่อ ผมต้องเซฟเกมก่อน$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting","th":"เสียใจที่ต้องบอกนะครับ แต่ครั้งก่อนคุณเลิกเล่นโดยไม่ได้เซฟ\\pผลคือ คุณถูกตัดสิทธิ์จากการท้าทายครับ$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_ReturnPersonalMons","th":"เราจะคืนโปเกมอนส่วนตัวของคุณครับ$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_ReceivedPrize","th":"{PLAYER} ได้รับรางวัล {STR_VAR_1}$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_RulesAreListed","th":"กฎของแบทเทิลสว็อปติดประกาศไว้$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_ReadWhichHeading","th":"ต้องการอ่านหัวข้อไหน?$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_ExplainBasicRules","th":"ในกิจกรรมแบทเทิลสว็อป ใช้โปเกมอนได้เพียงสามตัวเท่านั้น\\pไม่ว่าจะเช่าหรือแลก ในทีมจะมีโปเกมอนชนิดเดียวกันซ้ำกันไม่ได้$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_ExplainSwapPartnerRules","th":"แลกโปเกมอนได้เฉพาะกับเทรนเนอร์ที่เพิ่งเอาชนะมาเท่านั้น\\pและแลกได้เฉพาะโปเกมอนที่เทรนเนอร์ผู้แพ้ใช้เท่านั้น$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_ExplainSwapNumberRules","th":"ทุกครั้งที่ชนะ สามารถแลกกับโปเกมอนของคู่ต่อสู้ที่แพ้ได้หนึ่งตัว\\pไม่สามารถแลกโปเกมอนกับเทรนเนอร์คนที่สามของกิจกรรมได้$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_ExplainSwapNotes","th":"การแลกโปเกมอนมีสองประเด็นสำคัญที่ควรรู้\\pข้อแรก ขณะแลกจะดูค่าสถานะของโปเกมอนที่จะได้รับไม่ได้\\pข้อสอง โปเกมอนในทีมจะเรียงตามลำดับที่เช่ามา\\pลำดับนี้จะไม่เปลี่ยน แม้จะแลกโปเกมอนไปแล้วก็ตาม$"}
+{"id":"data/text/battle_tent.inc#SlateportCity_BattleTentLobby_Text_ExplainMonRules","th":"โปเกมอนของแบทเทิลเต็นท์ไคนะ เป็นโปเกมอนเช่าทั้งหมด\\pโปเกมอนเช่าทุกตัวจะคงไว้ที่เลเวล 30$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_RulesAreListed2","th":"กฎของแบทเทิลเต็นท์ชิดาเกะติดประกาศไว้$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_ReadWhichHeading","th":"ต้องการอ่านหัวข้อไหน?$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules","th":"ที่แบทเทิลเต็นท์ชิดาเกะ โปเกมอนต้องคิดและต่อสู้ด้วยตัวเอง\\pโปเกมอนที่อยู่กับคนต่างจากในป่า\\pพวกมันจะมีพฤติกรรมต่างกันไปตามนิสัย$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules","th":"โปเกมอนบางตัว อาจชอบบุกไม่ว่าจะเกิดอะไรขึ้น ขึ้นอยู่กับนิสัย\\pบางตัวอาจชอบปกป้องตัวเองจากอันตรายทุกอย่าง\\pบางตัวอาจสนุกกับการก่อกวน หรือทำให้คู่ต่อสู้สับสน\\pโปเกมอนจะมีท่าโปรดที่ถนัดใช้ ขึ้นอยู่กับนิสัยของมัน\\pและอาจไม่ชอบท่าบางท่าที่ใช้ได้ไม่ถนัด$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules","th":"มีท่าโจมตีที่สร้างความเสียหายให้คู่ต่อสู้โดยตรง\\pมีท่าป้องกันที่ใช้เตรียมรับการโจมตี หรือใช้ฟื้นฟู HP เป็นต้น\\pและยังมีท่าแปลก ๆ อื่น ๆ ที่ทำให้คู่ต่อสู้อ่อนแอลง\\pด้วยสถานะผิดปกติ เช่น พิษ หรืออัมพาต\\pโปเกมอนจะพิจารณาใช้ท่าจากทั้งสามประเภทนี้$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules","th":"เมื่อไม่ได้รับคำสั่งจากเทรนเนอร์\\pโปเกมอนอาจใช้ท่าบางท่าได้ไม่เต็มประสิทธิภาพ\\pโปเกมอนจะใช้ท่าที่มันไม่ชอบได้ไม่ดี\\pถ้าโปเกมอนรู้แต่ท่าที่ไม่เข้ากับนิสัย\\pมันมักจะดึงศักยภาพออกมาได้ไม่เต็มที่$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules","th":"ขึ้นอยู่กับนิสัย โปเกมอนบางตัวเมื่อตกอยู่ในอันตราย\\pอาจเริ่มใช้ท่าที่ไม่เข้ากับนิสัยของตัวเอง\\pหากโปเกมอนเริ่มทำตัวแปลก ๆ ตอนจนตรอก ให้เฝ้าดูมันให้ดี$"}
+{"id":"data/text/battle_tent.inc#BattleTentLobby_Text_ExplainLevelRules","th":"ที่แบทเทิลเต็นท์นี้ เลเวลของคู่ต่อสู้จะถูกปรับ ให้ตรงกับเลเวลโปเกมอนของคุณ\\pแต่โปเกมอนของเทรนเนอร์ที่คุณเจอ จะไม่มีตัวไหนต่ำกว่าเลเวล 30$"}
+{"id":"data/text/battle_tent.inc#VerdanturfTown_BattleTentLobby_Text_RulesAreListed","th":"กฎของแบทเทิลเต็นท์ชิดาเกะติดประกาศไว้$"}
+{"id":"data/text/berries.inc#PetalburgCity_Gym_Text_GiveEnigmaBerry","th":"พ่อ: สวัสดี {PLAYER}!\\pพ่อเพิ่งได้เบอร์รี่หายากมากมาลูกหนึ่ง อยากให้ลูกเก็บไว้$"}
+{"id":"data/text/berries.inc#Route104_Text_PlantBerriesInSoilTakeThis","th":"ถ้าเห็นเบอร์รี่งอกอยู่ในดินร่วน ก็เก็บไปได้เลยนะ\\pแต่ต้องปลูกเบอร์รี่คืนไว้ที่เดิมด้วย นั่นเป็นมารยาทพื้นฐาน\\pนี่ ป้าแบ่งให้หนูลูกนึงนะ$"}
+{"id":"data/text/berries.inc#Route104_Text_TrainersOftenMakeMonHoldBerries","th":"ดูจากท่าทางแล้ว หนูต้องเป็นเทรนเนอร์ใช่ไหม?\\pเทรนเนอร์มักให้โปเกมอนถือเบอร์รี่ไว้\\pจะปลูกเบอร์รี่หรือจะใช้ ก็แล้วแต่หนูนะ$"}
+{"id":"data/text/berries.inc#Route111_Text_WateredPlantsEveryDayTakeBerry","th":"หนูรดน้ำต้นไม้ทุกวันเลย ดอกไม้ก็บานเต็มไปหมด\\pแถมยังได้เบอร์รี่มาเยอะแยะด้วย\\pนี่! เอาไปเลย!$"}
+{"id":"data/text/berries.inc#Route111_Text_GoingToTryToMakeDifferentColorBerries","th":"หนูจะพยายามปลูกเบอร์รี่หลาย ๆ สีให้ได้เลย\\pพี่ก็พยายามด้วยนะ!$"}
+{"id":"data/text/berries.inc#Route111_Text_WhatColorBerriesToLookForToday","th":"วันนี้หนูจะหาเบอร์รี่สีอะไรดีน้า?$"}
+{"id":"data/text/berries.inc#Route114_Text_LoveUsingBerryCrushShareBerry","th":"ผมชอบเล่นเครื่องเบอร์รี่ครัช เลยสะสมเบอร์รี่ไว้\\pถ้าอยากได้ ผมแบ่งให้ลูกหนึ่งนะ$"}
+{"id":"data/text/berries.inc#Route114_Text_TryBerryCrushWithFriends","th":"ลองเล่นเครื่องเบอร์รี่ครัชกับเพื่อน ๆ ดูสิ$"}
+{"id":"data/text/berries.inc#Route114_Text_FunToThinkAboutBerries","th":"ควรปลูกเบอร์รี่ลูกไหนดี? ควรใช้หรือเก็บสะสมไว้?\\pแค่คิดก็สนุกแล้ว$"}
+{"id":"data/text/berries.inc#Route120_Text_BerriesExpressionOfLoveIsntIt","th":"เบอร์รี่เติบโตด้วยการดูดซับแสงแดดค่ะ\\pเราช่วยให้เบอร์รี่โตได้ ด้วยการรดน้ำอย่างสม่ำเสมอ\\pมันคือการแสดงความรักอย่างหนึ่ง ใช่ไหมคะ?$"}
+{"id":"data/text/berries.inc#Route120_Text_YesYouUnderstand","th":"ใช่ ใช่ คุณเข้าใจที่ฉันหมายถึง\\pรับนี่ไปนะคะ$"}
+{"id":"data/text/berries.inc#Route120_Text_MakeYourOwnImpressions","th":"อ้อ… แต่การมีความรู้สึกเป็นของตัวเองก็สำคัญเหมือนกันนะคะ…\\pรับนี่ไปเถอะค่ะ$"}
+{"id":"data/text/berries.inc#Route120_Text_BerryIsRareRaiseItWithCare","th":"ฉันว่าเบอร์รี่ลูกนั้นหายากนะคะ หวังว่าคุณจะปลูกเลี้ยงมันด้วยความรักนะคะ$"}
+{"id":"data/text/berries.inc#Route120_Text_IllGetMoreBerriesFromBerryMaster","th":"ฉันจะไปขอเบอร์รี่เพิ่มจากปรมาจารย์เบอร์รี่ค่ะ$"}
+{"id":"data/text/berries.inc#LilycoveCity_Text_BerrySuitsYou","th":"ว่ากันตามจริงแล้ว…\\pเหมือนสูทที่เข้ากับผมพอดิบพอดี\\pและสายลมสดชื่นที่เข้ากับท้องทะเล\\pเบอร์รี่ก็เข้ากับคุณอย่างไร้ที่ติ…\\pเพราะอะไรกันหรือ?$"}
+{"id":"data/text/berries.inc#LilycoveCity_Text_BecauseYoureTrainer","th":"ว่ากันตามจริงแล้ว…\\pก็เพราะคุณเป็นเทรนเนอร์ยังไงล่ะครับ!$"}
+{"id":"data/text/berries.inc#LilycoveCity_Text_PokeblocksSuitPokemon","th":"ว่ากันตามจริงแล้ว…\\pความเรียบง่ายอย่างสง่างามเข้ากับผมฉันใด\\p{POKEBLOCK} ก็เข้ากับโปเกมอนฉันนั้น$"}
+{"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_YoureDeservingOfBerry","th":"เรียกข้าว่าปรมาจารย์เบอร์รี่ก็ได้\\pข้าฝันอยากให้โลกเต็มไปด้วยดอกไม้สวย ๆ\\pก็เลยปลูกเบอร์รี่ แจกจ่ายให้ทุกคน\\pหนูก็คู่ควรได้รับสักลูก!$"}
+{"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_WhyBeStingyTakeAnother","th":"จะงกไปทำไม? เอาไปอีกลูกสิ!$"}
+{"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_VisitPrettyPetalFlowerShop","th":"อย่าลืมแวะไปร้านดอกไม้พริตตี้เพทัล ใกล้เมืองคานาซุมิล่ะ\\pขอให้ดอกไม้เบ่งบานทั่วโลก!$"}
+{"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_DoneForToday","th":"วันนี้พอแค่นี้ก่อน ไว้มาใหม่วันหลังนะ\\pขอให้ดอกไม้เบ่งบานทั่วโลก!$"}
+{"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_HeardAGoodSayingLately","th":"สามีของยายน่ะ ปลูกเบอร์รี่เก่งที่สุดในโลกเลย\\pยายภูมิใจในตัวแกจริง ๆ\\pว่าแต่หนู ช่วงนี้ได้ยินคำพูดดี ๆ บ้างไหม?$"}
+{"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_InspirationalTakeThis","th":"โอ้! ช่างเป็นคำพูดที่ยอดเยี่ยม! ฟังแล้วมีแรงบันดาลใจจริง ๆ!\\pยายอยากให้หนูรับนี่ไว้$"}
+{"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_GoodSayingTakeThis","th":"โอ้! คำพูดดีจริง ๆ หนูนี่เก่งไม่เบาเลยนะ\\pยายอยากให้หนูรับนี่ไว้$"}
+{"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_JoyNeverGoesOutOfMyLife","th":"หลานทั้งสี่คนของยาย คงจะเก่งกว่าตาแกเสียอีก\\pชีวิตยายไม่เคยขาดความสุขเลย!$"}
+{"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_Ah","th":"อ้อ…$"}
+{"id":"data/text/berries.inc#Route104_PrettyPetalFlowerShop_Text_ThisIsPrettyPetalFlowerShop","th":"สวัสดีค่ะ!\\pที่นี่คือร้านดอกไม้พริตตี้เพทัล เรากระจายดอกไม้ไปทั่วโลกค่ะ!$"}
+{"id":"data/text/berries.inc#Route104_PrettyPetalFlowerShop_Text_LearnAboutBerries","th":"{PLAYER}{KUN} อยากเรียนรู้เรื่องเบอร์รี่ไหมคะ?$"}
+{"id":"data/text/berries.inc#Route104_PrettyPetalFlowerShop_Text_IntroLearnAboutBerries","th":"คุณชื่ออะไรคะ?\\p{PLAYER}{KUN} ชื่อเพราะจังเลยค่ะ\\p{PLAYER}{KUN} อยากเรียนรู้เรื่องเบอร์รี่ไหมคะ?$"}
+{"id":"data/text/berries.inc#Route104_PrettyPetalFlowerShop_Text_BerriesExplanation","th":"เบอร์รี่งอกบนต้นไม้ ที่เติบโตได้ดีเฉพาะในดินร่วนนุ่ม ๆ เท่านั้นค่ะ\\pถ้าเก็บเบอร์รี่ไป อย่าลืมปลูกคืนลงในดินร่วนหนึ่งลูกนะคะ\\pเบอร์รี่ที่ปลูกไว้จะงอกขึ้นมาในไม่ช้า เติบโตเป็นต้น\\pออกดอกสวยงาม แล้วก็ออกผลเบอร์รี่อีกครั้งค่ะ\\pฉันอยากเห็นทั้งโลกเต็มไปด้วยดอกไม้สวย ๆ\\pนั่นคือความฝันของฉันค่ะ\\pช่วยฉันหน่อยนะคะ {PLAYER}{KUN}\\pปลูกเบอร์รี่ แล้วทำให้โลกนี้มีดอกไม้มากขึ้นนะคะ$"}
+{"id":"data/text/berries.inc#Route104_PrettyPetalFlowerShop_Text_FlowersBringHappiness","th":"ดอกไม้นำความสุขมาให้ผู้คนมากมายเลย ว่าไหมคะ?$"}
+{"id":"data/text/berries.inc#Route104_PrettyPetalFlowerShop_Text_YouCanHaveThis","th":"สวัสดีค่ะ!\\pยิ่งใส่ใจดอกไม้มากเท่าไหร่ ดอกไม้ก็ยิ่งบานสวยมากเท่านั้น\\pคุณต้องชอบการดูแลดอกไม้แน่ ๆ ฉันมั่นใจเลย รับนี่ไปสิคะ$"}
+{"id":"data/text/berries.inc#Route104_PrettyPetalFlowerShop_Text_WailmerPailExplanation","th":"ระหว่างที่ต้นเบอร์รี่กำลังโต ให้รดน้ำด้วย WAILMER PAIL นะคะ\\pอ้อ อีกเรื่องหนึ่ง\\pถ้าไม่เก็บเบอร์รี่สักพัก มันจะร่วงลงพื้น\\pแต่เดี๋ยวก็งอกขึ้นมาใหม่ค่ะ\\pสุดยอดไปเลยใช่ไหมคะ?\\pเหมือนมันมีความมุ่งมั่นที่จะมีชีวิตอยู่เลย$"}
+{"id":"data/text/berries.inc#Route104_PrettyPetalFlowerShop_Text_ImGrowingFlowers","th":"หนูอยากเป็นเหมือนพี่สาว ๆ หนูก็ปลูกดอกไม้เหมือนกันนะ!\\pนี่! ให้พี่นะ!$"}
+{"id":"data/text/berries.inc#Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries","th":"เราปลูกเบอร์รี่ให้โตได้ หรือจะให้โปเกมอนถือไว้ก็ได้\\pแต่ตอนนี้มีเครื่องที่ผสมเบอร์รี่หลาย ๆ แบบ\\pแล้วทำเป็นขนมให้โปเกมอนกินด้วยนะ\\pหนูก็อยากกินขนมบ้างจัง$"}
+{"id":"data/text/berries.inc#SootopolisCity_Text_NameIsKiriHaveOneOfThese","th":"หวัดดี พี่ชื่ออะไรเหรอ?\\p… … …  … … …  … … … โอเค ชื่อเพราะจัง!\\pหนูชื่อคิริ\\pพ่อกับแม่ตั้งชื่อนี้ให้ อยากให้หนูโตมาแข็งแรงและใจดี\\pพ่อแม่หวังไว้แบบนั้นน่ะ\\pให้พี่อันนี้หนึ่งลูกนะ$"}
+{"id":"data/text/berries.inc#SootopolisCity_Text_GiveYouThisBerryToo","th":"คิริให้เบอร์รี่ลูกนี้ด้วยนะ! คิริชอบมันมาก ๆ เลย!$"}
+{"id":"data/text/berries.inc#SootopolisCity_Text_WhatKindOfWishInYourName","th":"ชื่อของพี่ มีคำอวยพรแบบไหนอยู่นะ?$"}
+{"id":"data/text/berries.inc#SootopolisCity_Text_LikeSeasonBornIn","th":"ฤดูใบไม้ผลิ ฤดูร้อน ฤดูใบไม้ร่วง แล้วก็ฤดูหนาว\\pถ้าเกิดตอนฤดูใบไม้ผลิ จะชอบฤดูใบไม้ผลิไหม?\\pแล้วถ้าเกิดตอนฤดูร้อน จะชอบฤดูร้อนรึเปล่า?$"}
+{"id":"data/text/berries.inc#SootopolisCity_Text_ThenILoveAutumn","th":"งั้นคิริเกิดตอนฤดูใบไม้ร่วง คิริก็เลยชอบฤดูใบไม้ร่วงที่สุด!\\pพี่ชอบฤดูไหนเหรอ?$"}
+{"id":"data/text/berries.inc#SootopolisCity_Text_OhDoesntMatter","th":"อ้อ… ไม่เป็นไรหรอก…\\pมีอีกตั้งหลายเรื่องที่หนูอยากรู้…$"}
+{"id":"data/text/birch_speech.inc#gText_Birch_Welcome","th":"สวัสดี! ขอโทษที่ให้รอนะ!\\pยินดีต้อนรับสู่โลกของโปเกมอน!\\pฉันชื่อโอดามากิ\\pแต่ทุกคนเรียกฉันว่า ศาสตราจารย์โปเกมอน\\p$"}
+{"id":"data/text/birch_speech.inc#gText_Birch_Pokemon","th":"นี่คือสิ่งที่เราเรียกว่า “โปเกมอน”\\p$"}
+{"id":"data/text/birch_speech.inc#gText_Birch_MainSpeech","th":"โลกนี้มีสิ่งมีชีวิตที่เรียกว่าโปเกมอนอาศัยอยู่ทั่วทุกแห่ง\\pพวกเรามนุษย์อยู่ร่วมกับโปเกมอน\\pบางครั้งเป็นเพื่อนเล่น บางครั้งเป็นเพื่อนร่วมงาน\\pและบางครั้ง เราก็ร่วมมือกันต่อสู้กับคนอื่นที่เป็นแบบเดียวกับเรา\\pแต่ถึงเราจะใกล้ชิดกันแค่ไหน เราก็ยังไม่รู้จักโปเกมอนทั้งหมด\\pที่จริงแล้ว ยังมีความลับอีกมากมายเกี่ยวกับโปเกมอน\\pเพื่อไขปริศนาของโปเกมอน ฉันจึงทำการวิจัยอยู่ นั่นคืองานของฉัน\\p$"}
+{"id":"data/text/birch_speech.inc#gText_Birch_AndYouAre","th":"แล้วเธอล่ะ?$"}
+{"id":"data/text/birch_speech.inc#gText_Birch_BoyOrGirl","th":"เธอเป็นเด็กผู้ชาย? หรือเด็กผู้หญิง?$"}
+{"id":"data/text/birch_speech.inc#gText_Birch_WhatsYourName","th":"เอาล่ะ เธอชื่ออะไร?$"}
+{"id":"data/text/birch_speech.inc#gText_Birch_SoItsPlayer","th":"ชื่อ {PLAYER}{KUN} ใช่ไหม?$"}
+{"id":"data/text/birch_speech.inc#gText_Birch_YourePlayer","th":"อ๋อ เข้าใจแล้ว!\\pเธอคือ {PLAYER}{KUN} ที่กำลังจะย้ายมาอยู่\\pเมืองมิชิโระ บ้านเกิดของฉันนี่เอง นึกออกแล้ว!\\p$"}
+{"id":"data/text/birch_speech.inc#gText_Birch_AreYouReady","th":"เอาล่ะ พร้อมหรือยัง?\\pการผจญภัยของเธอเองกำลังจะเริ่มต้นขึ้นแล้ว\\pรวบรวมความกล้า แล้วกระโจนเข้าสู่โลกของโปเกมอน\\pที่ซึ่งความฝัน การผจญภัย และมิตรภาพรอเธออยู่!\\pเอาล่ะ ไว้เจอกันทีหลังนะ มาหาฉันที่แล็บโปเกมอนล่ะ\\p$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_BlendWithTheBlendMaster","th":"ปรมาจารย์เบลนด์: ใช่แล้ว! ข้านี่แหละคือปรมาจารย์เบลนด์!\\pมาเบลนด์กับข้าสิ แล้วเจ้าจะได้เห็นฝีมือขั้นเทพในการเบลนด์ของข้า!$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_SeeMyMasteryInAction","th":"ปรมาจารย์เบลนด์: ฮืมมม! อยากเห็นฝีมือของข้าสินะ?$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_TooBusyNowIsee","th":"ฮืมมม!\\pงั้นตอนนี้เจ้ายุ่งอยู่สินะ!\\pแต่ไม่ต้องห่วง! ข้าจะอยู่ที่นี่ทั้งวัน! ทำธุระเสร็จแล้วรีบกลับมาล่ะ!$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_BlendMasterNoBerries","th":"ฮืมมม!\\pเจ้าไม่มีเบอร์รี่สักลูกเลย!\\pข้าจะอยู่ที่นี่ทั้งวัน! รีบไปหาเบอร์รี่มาล่ะ!$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_BlendMasterKnowHowToMakePokeblocks","th":"แน่นอน! แน่นอน!\\pว่าแต่… เจ้ารู้วิธีเบลนด์{POKEBLOCK}จากเบอร์รี่ใช่ไหม?$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_BlendMasterExplainBerryBlending","th":"ฮืมมม!\\pอา แต่มันเป็นขั้นตอนง่าย ๆ!\\pเมื่อลูกศรของเบลนเดอร์มาถึงเครื่องหมายของเจ้า ก็กดปุ่ม A ทันที\\pแค่นั้นแหละที่ต้องทำ\\pเมื่อเห็นว่าข้ากดปุ่ม A ได้แม่นยำแค่ไหน เจ้าจะเข้าใจเอง$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_BlendMasterLetsBerryBlender","th":"ดี!\\pงั้นมาเริ่มกันเลย!\\pทุกคนพร้อมกับปรมาจารย์เบลนด์ มาเบอร์รี่เบลนเดอร์กันเถอะ!$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_BlendMasterNoPokeblockCase","th":"ฮืมมม!\\pดูเหมือนเจ้ายังไม่มี {POKEBLOCK} CASE!\\pข้าจะอยู่ที่นี่ทั้งวัน! ไปหา {POKEBLOCK} CASE มาแล้วรีบกลับมาล่ะ!$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_BlendMasterPokeblockCaseFull","th":"ฮืมมม!\\p{POKEBLOCK} CASE ของเจ้าดูจะเต็มแล้ว!\\pข้าจะอยู่ที่นี่ทั้งวัน! ใช้{POKEBLOCK}ไปบ้างแล้วรีบกลับมาล่ะ!$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_WhoaAwesome","th":"โห! สุดยอด!$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_WickedlyFast","th":"เร็วสุด ๆ ไปเลย!$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_WhatAnExpert","th":"เก่งสุดยอดไปเลย!$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_MadeAmazingPokeblocksWithMaster","th":"ตอนหนูเบลนด์กับปรมาจารย์ เราทำ{POKEBLOCK}ออกมาได้สุดยอดเลย!$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_QualitiesOfBlendMaster","th":"ดวงตาที่จับลูกศรได้แม่นยำราวกับเครื่องจักร…\\pมือที่กดปุ่ม A ได้เที่ยงตรงราวกับกลไกนาฬิกา…\\pสิ่งเหล่านี้แหละ ที่ทำให้ปรมาจารย์เบลนด์ยิ่งใหญ่อย่างแท้จริง$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_MasterWorksOnSkillsInMountains","th":"ว่ากันว่าปรมาจารย์เบลนด์ ฝึกฝีมืออยู่ลึกเข้าไปในภูเขา\\pบางครั้งเขาก็มาที่เมืองมินาโมะ เพื่อเบลนด์เบอร์รี่ทั้งวันเลยค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_WelcomeWhichCableClubService","th":"ยินดีต้อนรับสู่โปเกมอนเคเบิลคลับค่ะ\\pต้องการใช้บริการใดคะ?$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_WhichService","th":"ต้องการใช้บริการใดคะ?$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_TradeUsingLinkCable","th":"แลกเปลี่ยนโปเกมอนกับผู้เล่นอื่น ผ่านสาย GBA Game Link$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_BattleUsingLinkCable","th":"ต่อสู้กับเทรนเนอร์คนอื่น ผ่านสาย GBA Game Link$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_RecordCornerUsingLinkCable","th":"ใช้เรคคอร์ดคอร์เนอร์กับผู้อื่น ผ่านสาย GBA Game Link$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_CloseThisMenu","th":"ปิดเมนูนี้$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_NeedTwoMonsForDoubleBattle","th":"การต่อสู้แบบดับเบิลแบทเทิล ต้องมีโปเกมอนอย่างน้อยสองตัวค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_NeedTwoMonsToTrade","th":"การแลกเปลี่ยน ต้องมีโปเกมอนติดตัวอย่างน้อยสองตัวค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_CantTradeEnigmaBerry","th":"โปเกมอนที่ถือ {STR_VAR_1} BERRY ไม่สามารถแลกเปลี่ยนได้ค่ะ$"}
+{"id":"data/text/cable_club.inc#gText_PleaseWaitForLink","th":"กรุณารอสักครู่ … … ปุ่ม B: ยกเลิก$"}
+{"id":"data/text/cable_club.inc#gText_ConfirmLinkWhenPlayersReady","th":"เมื่อผู้เล่นทุกคนพร้อมแล้ว… ปุ่ม A: ยืนยัน ปุ่ม B: ยกเลิก$"}
+{"id":"data/text/cable_club.inc#gText_ConfirmStartLinkWithXPlayers","th":"เริ่มการเชื่อมต่อกับผู้เล่น {STR_VAR_1} คน ปุ่ม A: ยืนยัน ปุ่ม B: ยกเลิก$"}
+{"id":"data/text/cable_club.inc#gText_AwaitingLinkup","th":"กำลังรอการเชื่อมต่อ… … … ปุ่ม B: ยกเลิก$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_OkayToSaveProgress","th":"ต้องเซฟความคืบหน้าก่อนเชื่อมต่อ เซฟเลยไหมคะ?$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_PleaseEnter","th":"เชิญเข้าไปเลยค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_DirectYouToYourRoom","th":"จะพาไปที่ห้องของคุณเลยนะคะ$"}
+{"id":"data/text/cable_club.inc#Text_SomeoneIsNotReadyToLink","th":"มีผู้เล่นบางคนยังไม่พร้อมเชื่อมต่อ\\pกรุณากลับมาใหม่ หลังจากทุกคนเตรียมพร้อมแล้ว$"}
+{"id":"data/text/cable_club.inc#Text_LinkErrorPleaseReset","th":"ขออภัย เกิดข้อผิดพลาดในการเชื่อมต่อ… กรุณารีเซ็ตแล้วลองใหม่อีกครั้ง$"}
+{"id":"data/text/cable_club.inc#Text_PlayersMadeDifferentSelections","th":"ดูเหมือนผู้เล่นที่เชื่อมต่อจะเลือกไม่ตรงกัน$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_PleaseVisitAgain","th":"แล้วแวะมาใหม่นะคะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_IncorrectNumberOfParticipants","th":"จำนวนผู้เข้าร่วมไม่ถูกต้องค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_CantSingleBattleWithXPlayers","th":"โหมดซิงเกิลแบทเทิล เล่นด้วยผู้เล่น {STR_VAR_1} คนไม่ได้ค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_CantDoubleBattleWithXPlayers","th":"โหมดดับเบิลแบทเทิล เล่นด้วยผู้เล่น {STR_VAR_1} คนไม่ได้ค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_NeedFourPlayers","th":"โหมดการต่อสู้นี้ ต้องมีผู้เล่นสี่คนค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_PleaseConfirmNumberAndRestart","th":"กรุณาตรวจสอบจำนวนผู้เล่น แล้วเริ่มใหม่อีกครั้งค่ะ$"}
+{"id":"data/text/cable_club.inc#Text_TerminateLinkConfirmation","th":"ถ้าออกจากห้อง การเชื่อมต่อจะสิ้นสุดลง ตกลงไหมคะ?$"}
+{"id":"data/text/cable_club.inc#Text_TerminateLinkPleaseWait","th":"กำลังยุติการเชื่อมต่อ… จะพาคุณออกจากห้อง กรุณารอสักครู่$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_TooBusyToNotice","th":"เทรนเนอร์คนนี้ยุ่งจนไม่ทันสังเกต…$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_GotToLookAtTrainerCard","th":"เยี่ยม! ได้ดูการ์ดเทรนเนอร์ของ {STR_VAR_1} แล้ว!$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_GotToLookAtColoredTrainerCard","th":"เยี่ยม! ได้ดูการ์ดเทรนเนอร์ของ {STR_VAR_1} แล้ว!\\pเป็นการ์ด {STR_VAR_2}!$"}
+{"id":"data/text/cable_club.inc#BattleColosseum_2P_Text_TakePlaceStartBattle","th":"เชิญเข้าประจำที่ แล้วเริ่มการต่อสู้ได้เลยค่ะ$"}
+{"id":"data/text/cable_club.inc#TradeCenter_Text_TakeSeatStartTrade","th":"เชิญนั่งประจำที่ แล้วเริ่มการแลกเปลี่ยนได้เลยค่ะ$"}
+{"id":"data/text/cable_club.inc#RecordCorner_Text_ThanksForComing","th":"ขอบคุณที่มาใช้บริการค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_TrainerCardDataOverwritten","th":"ข้อมูลการ์ดเทรนเนอร์จะถูกเขียนทับ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_HopeToSeeYouAgain","th":"หวังว่าจะได้พบกันอีกนะคะ!$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_NotSetUpForFarAwayRegion","th":"ต้องขออภัยเป็นอย่างยิ่งค่ะ\\pตอนนี้เรายังไม่พร้อมให้บริการแลกเปลี่ยน\\pกับเทรนเนอร์ที่อยู่ไกลในภูมิภาคอื่นค่ะ…$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_OtherTrainerNotReady","th":"เทรนเนอร์อีกฝ่ายยังไม่พร้อมค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_YouHaveAMonThatCantBeTaken","th":"คุณมีโปเกมอนอย่างน้อยหนึ่งตัว ที่ไม่สามารถนำไปได้$"}
+{"id":"data/text/cable_club.inc#RecordCorner_Text_TakeSeatAndWait","th":"เชิญนั่งประจำที่ แล้วรอสักครู่ค่ะ$"}
+{"id":"data/text/cable_club.inc#RecordCorner_Text_PlayerSentOverOneX","th":"{STR_VAR_1} ส่ง {STR_VAR_2} มาให้หนึ่งชิ้น$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_CantMixWithJapaneseGame","th":"ขออภัย เกิดข้อผิดพลาดในการส่งข้อมูล\\pไม่สามารถผสมบันทึกกับเกมรูบี้ หรือแซฟไฟร์เวอร์ชันญี่ปุ่นได้\\pและไม่สามารถผสมบันทึกกับเอเมอรัลด์เวอร์ชันญี่ปุ่น\\pพร้อมกับรูบี้หรือแซฟไฟร์เวอร์ชันต่างประเทศ ในเวลาเดียวกันได้$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_AdapterNotConnected","th":"อะแดปเตอร์ไร้สายเชื่อมต่อไม่ถูกต้อง$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_ParticipantsStepUpToCounter","th":"ขอเชิญผู้เข้าร่วมมาที่เคาน์เตอร์ต้อนรับค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_Hello","th":"สวัสดีค่ะ!$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_PleaseWait","th":"กรุณารอสักครู่ค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_YouMayTradeHere","th":"ที่นี่ คุณแลกเปลี่ยนโปเกมอนกับเทรนเนอร์คนอื่นได้$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_YouMayBattleHere","th":"ที่นี่ คุณต่อสู้กับเพื่อน ๆ ได้$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_CanMakeBerryPowder","th":"เทรนเนอร์ 2 ถึง 5 คน ทำผงเบอร์รี่ร่วมกันได้$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_CanMixRecords","th":"ผสมบันทึกของผู้เล่น 2 ถึง 4 คนเข้าด้วยกันได้$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_GuideToVariousServices","th":"คำแนะนำบริการต่าง ๆ ของไวร์เลสคลับ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_CancelSelectedItem","th":"ยกเลิกรายการเมนูที่เลือก$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_WhichBattleMode","th":"ต้องการต่อสู้โหมดไหน?$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_ReturnsToPreviousStep","th":"กลับไปขั้นตอนก่อนหน้า$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_NeedBerryForBerryCrush","th":"การใช้บริการเบอร์รี่ครัช ต้องมีเบอร์รี่อย่างน้อยหนึ่งลูกค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_NeedTwoMonsForUnionRoom","th":"การเข้ายูเนียนรูม ต้องมีโปเกมอนอย่างน้อยสองตัวค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_NoEnigmaBerryInUnionRoom","th":"โปเกมอนที่ถือ {STR_VAR_1} BERRY เข้ายูเนียนรูมไม่ได้ค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_UnionRoomAdapterNotConnected","th":"ที่นี่คือยูเนียนรูม ของโปเกมอนไวร์เลสคลับค่ะ\\pน่าเสียดาย อะแดปเตอร์ไร้สายของคุณเชื่อมต่อไม่ถูกต้อง\\pแล้วแวะมาใหม่นะคะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_OhExcuseMe","th":"อ๊ะ… ขอโทษค่ะ!$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_PlayerIsWaiting","th":"ดูเหมือนตอนนี้ {STR_VAR_1} กำลังเล่นอยู่ค่ะ สู้ ๆ นะคะ!$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_DescribeWhichGame","th":"ถ้าต้องการ ผมอธิบายกติกาเกมให้ฟังได้นะครับ\\pจะให้อธิบายเกมไหนดีครับ?$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_PokemonJumpInfo","th":"“โปเกมอนจัมป์”\\pให้โปเกมอนกระโดดข้ามเชือก VINE WHIP โดยกดปุ่ม A\\pเฉพาะโปเกมอนตัวเล็ก สูงไม่เกินราว 70 เซนติเมตรเท่านั้นที่เข้าร่วมได้\\pโปเกมอนที่ทำได้แค่ว่ายน้ำ ขุดดิน หรือบิน จะกระโดดไม่เก่ง\\pด้วยเหตุนี้ โปเกมอนพวกนั้นจึงเข้าร่วมไม่ได้\\pถ้าทุกคนกระโดดพร้อมกัน จะมีเรื่องดี ๆ เกิดขึ้นนะครับ$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_DodrioBerryPickingInfo","th":"“โดโดริโอเก็บเบอร์รี่”\\pบังคับหัวทั้งสามของโดโดริโอ ให้รับเบอร์รี่ที่ร่วงลงมา\\pกดขวา ขึ้น หรือซ้ายที่ปุ่ม {PLUS} เพื่อขยับหัว\\pหากจะเล่นเกมนี้ ต้องมีโดโดริโอครับ$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_TalkToOldManToPlay","th":"ถ้าอยากเล่นเกม บอกคุณลุงข้าง ๆ ผมได้เลยครับ$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_WelcomeCanYouWait","th":"สวัสดี ยินดีต้อนรับ! มาเล่นเกมผ่านการสื่อสารไร้สายใช่ไหม?\\pรอสักครู่นะ$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_ComeAgain","th":"เอาล่ะ แล้วมาใหม่นะ!$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_AdapterNotConnected","th":"อะแดปเตอร์ไร้สายยังไม่ได้เชื่อมต่อ ต่อให้เรียบร้อยแล้วค่อยกลับมานะ!$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_PlayWhichGame","th":"เอาล่ะ อยากเล่นเกมไหนล่ะ?$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_EnterWhichPokemon","th":"จะให้โปเกมอนตัวไหนลงเล่นล่ะ?$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_AllGoodToGo","th":"โอเค พร้อมลุยแล้ว อย่ายอมแพ้คนอื่นล่ะ!$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_LeavingDoComeAgain","th":"จะกลับแล้วเหรอ? แล้วมาใหม่นะ!$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_ExplainRequiredMon","th":"ดูเหมือนหนูจะไม่มีโปเกมอนที่ลงเล่นได้เลยนะ…\\pอยากให้ลุงอธิบายไหม ว่าโปเกมอนแบบไหนลงเล่นได้?$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_ShortJumpingPokemonAllowed","th":"“โปเกมอนจัมป์” เปิดให้โปเกมอนที่สูงไม่เกินราว 70 เซนติเมตร\\pที่ลงเล่นไม่ได้ คือโปเกมอนที่กระโดดไม่ได้\\pก็อย่างโปเกมอนที่ทำได้แค่ว่ายน้ำ ขุดดิน หรือบินน่ะ\\pแค่นี้แหละที่ต้องรู้$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_OnlyDodrioAllowed","th":"โดโดริโอเก็บเบอร์รี่ เป็นเกมที่มีแต่โดโดริโอเท่านั้นที่ลงเล่นได้$"}
+{"id":"data/text/cable_club.inc#MossdeepCity_GameCorner_1F_Text_RetryPlease","th":"ช่วยลองใหม่ตั้งแต่ต้นอีกครั้งได้ไหม?$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_WelcomeWhichDirectCornerRoom","th":"ยินดีต้อนรับสู่ไดเร็กต์คอร์เนอร์ ของโปเกมอนไวร์เลสคลับค่ะ\\pที่นี่ คุณสามารถติดต่อกับเพื่อน ๆ ได้โดยตรง\\pต้องการเข้าห้องไหนคะ?$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_TradePokemon","th":"ต้องการแลกเปลี่ยนโปเกมอนไหมคะ?$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_PlayWhichBattleMode","th":"ต้องการเล่นโหมดการต่อสู้แบบไหนคะ?$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_AccessRecordCorner","th":"ต้องการเข้าใช้เรคคอร์ดคอร์เนอร์ไหมคะ?$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_UseBerryCrush","th":"ต้องการใช้ระบบเบอร์รี่ครัชไหมคะ?$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_ExplainBattleModes","th":"โหมดการต่อสู้มีสามแบบค่ะ\\pซิงเกิลแบทเทิล สำหรับเทรนเนอร์สองคน ที่มีโปเกมอนคนละหนึ่งตัวขึ้นไป\\pเทรนเนอร์แต่ละคน ส่งโปเกมอนออกสู้ได้ครั้งละหนึ่งตัว\\pดับเบิลแบทเทิล สำหรับเทรนเนอร์สองคน ที่มีโปเกมอนคนละสองตัวขึ้นไป\\pเทรนเนอร์แต่ละคน จะส่งโปเกมอนออกสู้พร้อมกันครั้งละสองตัว\\pมัลติแบทเทิล สำหรับเทรนเนอร์สี่คน ที่มีโปเกมอนคนละหนึ่งตัวขึ้นไป\\pเทรนเนอร์แต่ละคน ส่งโปเกมอนออกสู้ได้ครั้งละหนึ่งตัว$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_ChooseGroupLeaderOfTwo","th":"กรุณาตกลงกันว่า ใครในสองคนจะเป็นหัวหน้ากลุ่ม\\pจากนั้น ผู้เล่นอีกคนต้องเลือก “เข้าร่วมกลุ่ม”$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_ChooseGroupLeaderOfFour","th":"กรุณาตกลงกันว่า ใครในสี่คนจะเป็นหัวหน้ากลุ่ม\\pจากนั้น ผู้เล่นคนอื่นต้องเลือก “เข้าร่วมกลุ่ม”$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_ChooseGroupLeader","th":"กรุณาตกลงกันว่า ใครจะเป็นหัวหน้ากลุ่ม\\pจากนั้น ผู้เล่นคนอื่นต้องเลือก “เข้าร่วมกลุ่ม”$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_WelcomeUnionRoomEnter","th":"ยินดีต้อนรับสู่ยูเนียนรูม ของโปเกมอนไวร์เลสคลับค่ะ\\pที่นี่ คุณสามารถติดต่อกับเทรนเนอร์คนอื่น ๆ ได้โดยตรง\\pรวมถึงคนที่คุณอาจไม่รู้จักด้วยค่ะ\\pต้องการเข้าห้องไหมคะ?$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_UnionRoomInfo","th":"เทรนเนอร์ในยูเนียนรูม คือผู้เล่นรอบตัวคุณ ที่เข้ามาในห้องนี้เช่นกัน\\pที่นี่คุณทำได้หลายอย่าง เช่น ทักทายกัน\\pคุณส่งโปเกมอนไม่เกิน Lv. 30 สองตัว ลงต่อสู้แบบตัวต่อตัวได้\\pคุณร่วมแชทกับคนอื่นได้ 2 ถึง 5 คน\\pหรือ จะลงทะเบียนโปเกมอนเพื่อแลกเปลี่ยนก็ได้\\pต้องการเข้าห้องไหมคะ?$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_EnjoyUnionRoom","th":"ขอให้สนุกกับเวลาในยูเนียนรูมนะคะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_FirstTimeRightThisWay","th":"สวัสดีค่ะ! ดิฉันชื่อทีล่า\\pคงเป็นครั้งแรกที่มาชั้นนี้สินะคะ\\pดิฉันจะแนะนำวิธีใช้ระบบสื่อสารไร้สายให้ค่ะ\\pก่อนอื่น ขอพาชมชั้นนี้ของโปเกมอนเซ็นเตอร์ก่อนนะคะ\\pเชิญทางนี้ค่ะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_ExplainWirelessClubFirstTime","th":"ชั้นบนสุดมีห้องอยู่สองห้องค่ะ\\pห้องแรก ห้องทางซ้าย คือยูเนียนรูม\\pคุณสามารถเชื่อมต่อกับเทรนเนอร์รอบตัว ที่เข้ามาในยูเนียนรูมเช่นกัน\\pคุณจะแชท ต่อสู้ หรือแลกเปลี่ยนกับพวกเขาก็ได้\\pห้องที่สอง ห้องทางขวา คือไดเร็กต์คอร์เนอร์\\pในห้องนี้ คุณแลกเปลี่ยนหรือต่อสู้โปเกมอนกับเพื่อน ๆ ได้\\pถ้าไม่ได้ต่ออะแดปเตอร์ไร้สาย ก็ยังเชื่อมต่อด้วยสาย GBA Game Link ได้\\pในกรณีนั้น คุณต้องไปที่ไดเร็กต์คอร์เนอร์\\pขอให้สนุกกับระบบสื่อสารไร้สายนะคะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_AskAboutLinking","th":"สวัสดีค่ะ {PLAYER}!\\pดิฉันเอง ทีล่า ผู้ดูแลชั้น 2 ของโปเกมอนเซ็นเตอร์ค่ะ\\pมีเรื่องอะไรเกี่ยวกับการเชื่อมต่อ ที่อยากถามดิฉันไหมคะ?$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_ExplainWirelessClub","th":"ดิฉันจะอธิบายวิธีใช้โปเกมอนไวร์เลสคลับให้ฟังค่ะ\\pที่ชั้นบนสุดนี้ มีห้องอยู่สองห้อง\\pห้องแรก ห้องทางซ้าย คือยูเนียนรูม\\pคุณสามารถเชื่อมต่อกับเทรนเนอร์รอบตัว ที่เข้ามาในยูเนียนรูมเช่นกัน\\pคุณจะแชท ต่อสู้ หรือแลกเปลี่ยนกับพวกเขาก็ได้\\pห้องที่สอง ห้องทางขวา คือไดเร็กต์คอร์เนอร์\\pในห้องนี้ คุณแลกเปลี่ยนหรือต่อสู้โปเกมอนกับเพื่อน ๆ ได้\\pบางครั้ง คุณอาจหาเพื่อนไม่เจอ ทั้งในยูเนียนรูมหรือไดเร็กต์คอร์เนอร์\\pในกรณีนั้น กรุณาขยับเข้าไปใกล้เพื่อนมากขึ้นค่ะ\\pถ้าไม่ได้ต่ออะแดปเตอร์ไร้สาย ก็ยังเชื่อมต่อด้วยสาย GBA Game Link ได้\\pในกรณีนั้น คุณต้องไปที่ไดเร็กต์คอร์เนอร์\\pขอให้สนุกกับระบบสื่อสารไร้สายนะคะ$"}
+{"id":"data/text/cable_club.inc#CableClub_Text_HopeYouEnjoyWirelessSystem","th":"ขอให้สนุกกับระบบสื่อสารไร้สายนะคะ$"}
+{"id":"data/text/check_furniture.inc#Text_PictureBookShelf","th":"มีหนังสือภาพโปเกมอนอยู่ชุดหนึ่ง$"}
+{"id":"data/text/check_furniture.inc#Text_BookShelf","th":"เต็มไปด้วยหนังสือหลากหลายประเภท$"}
+{"id":"data/text/check_furniture.inc#Text_PokemonCenterBookShelf","th":"นิตยสารโปเกมอน! “โปเกมอนเพื่อนซี้”…\\p“คู่มือโปเกมอน”… “โปเกมอนแสนน่ารัก”…$"}
+{"id":"data/text/check_furniture.inc#Text_Vase","th":"แจกันใบนี้ดูแพงจัง… ลองมองเข้าไปข้างใน…\\pแต่ข้างในว่างเปล่า$"}
+{"id":"data/text/check_furniture.inc#Text_EmptyTrashCan","th":"ว่างเปล่า$"}
+{"id":"data/text/check_furniture.inc#Text_ShopShelf","th":"ชั้นวางเต็มไปด้วยสินค้าโปเกมอนนานาชนิด$"}
+{"id":"data/text/check_furniture.inc#Text_Blueprint","th":"พิมพ์เขียวอะไรสักอย่าง? ซับซ้อนเกินไปแล้ว!$"}
+{"id":"data/text/contest_link.inc#gTest_MissedTurn","th":"พลาดเทิร์น$"}
+{"id":"data/text/contest_link.inc#gText_LinkStandby4","th":"รอเชื่อมต่อ!$"}
+{"id":"data/text/contest_link.inc#gText_WinnerIsPlayersMonCongrats","th":"ผู้ชนะคือ {STR_VAR_2} ของ {STR_VAR_1}! ขอแสดงความยินดี!$"}
+{"id":"data/text/contest_link.inc#gText_WinnerIsPlayersMon","th":"ผู้ชนะคือ {STR_VAR_2} ของ {STR_VAR_1}!{PAUSE_UNTIL_PRESS}$"}
+{"id":"data/text/contest_link.inc#gText_PrimaryJudgingNumX","th":"การตัดสินรอบแรก: หมายเลข {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"}
+{"id":"data/text/contest_link.inc#gText_SecondaryJudgingNumX","th":"การตัดสินรอบสอง: หมายเลข {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"}
+{"id":"data/text/contest_link.inc#gText_SetEventNumX","th":"อีเวนต์ที่ตั้งไว้: หมายเลข {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"}
+{"id":"data/text/contest_link.inc#gText_MoveUsedMostOften","th":"ท่าที่ใช้บ่อยที่สุด: {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"}
+{"id":"data/text/contest_link.inc#gText_MostImpressiveMon","th":"โปเกมอนที่น่าประทับใจที่สุด: {STR_VAR_2} ของ {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"}
+{"id":"data/text/contest_link.inc#gText_SetEventNumX2","th":"อีเวนต์ที่ตั้งไว้: หมายเลข {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"}
+{"id":"data/text/contest_link.inc#gText_LinkTVProgramWillNotBeMadeTrainerLost","th":"จะไม่มีการสร้างรายการทีวีแบบลิงก์ เพราะเทรนเนอร์แพ้{PAUSE_UNTIL_PRESS}$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingContest","th":"คอนเทสต์$"}
+{"id":"data/text/contest_painting.inc#gContestRankNormal","th":"ระดับนอร์มอล$"}
+{"id":"data/text/contest_painting.inc#gContestRankSuper","th":"ระดับซูเปอร์$"}
+{"id":"data/text/contest_painting.inc#gContestRankHyper","th":"ระดับไฮเปอร์$"}
+{"id":"data/text/contest_painting.inc#gContestRankMaster","th":"ระดับมาสเตอร์$"}
+{"id":"data/text/contest_painting.inc#gContestLink","th":"ลิงก์$"}
+{"id":"data/text/contest_painting.inc#gContestCoolness","th":"ความเท่$"}
+{"id":"data/text/contest_painting.inc#gContestBeauty","th":"ความสวยงาม$"}
+{"id":"data/text/contest_painting.inc#gContestCuteness","th":"ความน่ารัก$"}
+{"id":"data/text/contest_painting.inc#gContestSmartness","th":"ความฉลาด$"}
+{"id":"data/text/contest_painting.inc#gContestToughness","th":"ความแข็งแกร่ง$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingCool1","th":"สุดเท่ไม่มีหยุด {STR_VAR_1} ผู้ล้ำค่าเกินประเมิน$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingCool2","th":"เฮ้ ทางนี้! {STR_VAR_1} โปเกมอนหน้าตาดี$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingCool3","th":"{STR_VAR_1} ผู้ยอดเยี่ยม มหัศจรรย์ และสุดยิ่งใหญ่$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingBeauty1","th":"วีนัสคนสุดท้ายแห่งศตวรรษ {STR_VAR_1} ผู้งดงาม$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingBeauty2","th":"รอยยิ้มเจิดจ้าระยิบระยับของ {STR_VAR_1}$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingBeauty3","th":"ซูเปอร์ไอดอลแห่งโปเกมอนเซ็นเตอร์ {STR_VAR_1} ผู้ไม่มีใครเทียบ$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingCute1","th":"{STR_VAR_1} แสนน่ารักและอ่อนหวาน$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingCute2","th":"ภาพแห่งชัยชนะของ {STR_VAR_1} แสนสวย$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingCute3","th":"ขยิบตาให้หน่อย! {STR_VAR_1} โปเกมอนสุดน่ารัก$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingSmart1","th":"ปรมาจารย์แห่งความฉลาด {STR_VAR_1} โปเกมอนผู้ปราดเปรื่อง$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingSmart2","th":"{STR_VAR_1} ผู้ถูกเลือกเหนือโปเกมอนทั้งปวง$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingSmart3","th":"ช่วงเวลาอันสง่างามของ {STR_VAR_1} ผู้เป็นเลิศ$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingTough1","th":"{STR_VAR_1} จอมความเร็ว ผู้มีกล้ามเนื้อทรงพลัง$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingTough2","th":"{STR_VAR_1} ผู้แข็งแกร่ง แข็งแกร่งกว่า และแข็งแกร่งที่สุด$"}
+{"id":"data/text/contest_painting.inc#gContestPaintingTough3","th":"{STR_VAR_1} ไฮเปอร์โปเกมอนผู้แกร่งสุดขีด$"}
+{"id":"data/text/contest_strings.inc#gText_HighlyAppealingMove","th":"ท่าที่แสดงได้ดึงดูดใจมาก$"}
+{"id":"data/text/contest_strings.inc#gText_UserMoreEasilyStartled","th":"หลังใช้ท่านี้ ผู้ใช้จะตกใจง่ายขึ้น$"}
+{"id":"data/text/contest_strings.inc#gText_GreatAppealButNoMoreToEnd","th":"แสดงได้โดดเด่น แต่จะแสดงไม่ได้อีกจนจบ$"}
+{"id":"data/text/contest_strings.inc#gText_UsedRepeatedlyWithoutBoringJudge","th":"ใช้ซ้ำได้ โดยกรรมการไม่เบื่อ$"}
+{"id":"data/text/contest_strings.inc#gText_AvoidStartledByOthersOnce","th":"ป้องกันการถูกทำให้ตกใจได้หนึ่งครั้ง$"}
+{"id":"data/text/contest_strings.inc#gText_AvoidStartledByOthers","th":"ป้องกันการถูกทำให้ตกใจได้$"}
+{"id":"data/text/contest_strings.inc#gText_AvoidStartledByOthersLittle","th":"ป้องกันการถูกทำให้ตกใจได้เล็กน้อย$"}
+{"id":"data/text/contest_strings.inc#gText_UserLessLikelyStartled","th":"หลังใช้ท่านี้ ผู้ใช้จะตกใจยากขึ้น$"}
+{"id":"data/text/contest_strings.inc#gText_SlightlyStartleFrontMon","th":"ทำให้โปเกมอนตัวข้างหน้าตกใจเล็กน้อย$"}
+{"id":"data/text/contest_strings.inc#gText_SlightlyStartleAppealed","th":"ทำให้ตัวที่แสดงไปแล้วตกใจเล็กน้อย$"}
+{"id":"data/text/contest_strings.inc#gText_StartleAppealedBeforeUser","th":"ทำให้โปเกมอนที่แสดงก่อนผู้ใช้ตกใจ$"}
+{"id":"data/text/contest_strings.inc#gText_StartleAllAppealed","th":"ทำให้โปเกมอนทุกตัวที่แสดงไปแล้วตกใจ$"}
+{"id":"data/text/contest_strings.inc#gText_BadlyStartleFrontMon","th":"ทำให้โปเกมอนตัวข้างหน้าตกใจอย่างมาก$"}
+{"id":"data/text/contest_strings.inc#gText_BadlyStartleAppealed","th":"ทำให้ตัวที่แสดงไปแล้วตกใจอย่างมาก$"}
+{"id":"data/text/contest_strings.inc#gText_StartleAppealedBeforeUser2","th":"ทำให้โปเกมอนที่แสดงก่อนผู้ใช้ตกใจ$"}
+{"id":"data/text/contest_strings.inc#gText_StartleAllAppealed2","th":"ทำให้โปเกมอนทุกตัวที่แสดงไปแล้วตกใจ$"}
+{"id":"data/text/contest_strings.inc#gText_ShiftJudgesAttentionFromOthers","th":"ดึงความสนใจของกรรมการ ออกจากตัวอื่น$"}
+{"id":"data/text/contest_strings.inc#gText_StartleMonHasJudgesAttention","th":"ทำให้โปเกมอนที่กรรมการสนใจอยู่ตกใจ$"}
+{"id":"data/text/contest_strings.inc#gText_JamOthersMissesTurn","th":"ก่อกวนตัวอื่น แต่จะพลาดการแสดงหนึ่งเทิร์น$"}
+{"id":"data/text/contest_strings.inc#gText_StartleMonsMadeSameTypeAppeal","th":"ทำให้โปเกมอนที่แสดงประเภทเดียวกันตกใจ$"}
+{"id":"data/text/contest_strings.inc#gText_BadlyStartleCoolAppeals","th":"ทำให้โปเกมอนที่แสดงประเภทเท่ตกใจอย่างมาก$"}
+{"id":"data/text/contest_strings.inc#gText_BadlyStartleBeautyAppeals","th":"ทำให้โปเกมอนที่แสดงประเภทสวยงามตกใจอย่างมาก$"}
+{"id":"data/text/contest_strings.inc#gText_BadlyStartleCuteAppeals","th":"ทำให้โปเกมอนที่แสดงประเภทน่ารักตกใจอย่างมาก$"}

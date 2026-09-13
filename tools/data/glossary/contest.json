@@ -1,0 +1,16 @@
+[
+  {"en": "COOL", "th": "เท่", "note": "ประเภทคอนเทสต์; COOLNESS = ความเท่"},
+  {"en": "BEAUTY", "th": "สวยงาม", "note": "ประเภทคอนเทสต์; BEAUTY CONTEST = คอนเทสต์ความสวยงาม"},
+  {"en": "CUTE", "th": "น่ารัก", "note": "ประเภทคอนเทสต์; CUTENESS = ความน่ารัก"},
+  {"en": "SMART", "th": "ฉลาด", "note": "ประเภทคอนเทสต์; SMARTNESS = ความฉลาด"},
+  {"en": "TOUGH", "th": "แข็งแกร่ง", "note": "ประเภทคอนเทสต์; TOUGHNESS = ความแข็งแกร่ง"},
+  {"en": "NORMAL RANK", "th": "ระดับนอร์มอล"},
+  {"en": "SUPER RANK", "th": "ระดับซูเปอร์"},
+  {"en": "HYPER RANK", "th": "ระดับไฮเปอร์"},
+  {"en": "MASTER RANK", "th": "ระดับมาสเตอร์"},
+  {"en": "appeal", "th": "การแสดง"},
+  {"en": "JUDGE", "th": "กรรมการ"},
+  {"en": "DAY CARE", "th": "สถานรับเลี้ยง"},
+  {"en": "CYCLING ROAD", "th": "ไซเคิลโรด"},
+  {"en": "TRAINER'S SCHOOL", "th": "โรงเรียนเทรนเนอร์"}
+]

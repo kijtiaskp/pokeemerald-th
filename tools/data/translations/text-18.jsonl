@@ -42,7 +42,7 @@
 {"id": "src/battle_message.c#sText_ButNothingHappened", "th": "แต่ไม่มีอะไรเกิดขึ้น!"}
 {"id": "src/battle_message.c#sText_ButItFailed", "th": "แต่ใช้ไม่สำเร็จ!"}
 {"id": "src/battle_message.c#sText_ItHurtConfusion", "th": "มันสับสนจนโจมตีตัวเอง!"}
-{"id": "src/battle_message.c#sText_MirrorMoveFailed", "th": "สะท้อนท่า ใช้ไม่สำเร็จ!"}
+{"id": "src/battle_message.c#sText_MirrorMoveFailed", "th": "MIRROR MOVE ใช้ไม่สำเร็จ!"}
 {"id": "src/battle_message.c#sText_StartedToRain", "th": "ฝนเริ่มตกแล้ว!"}
 {"id": "src/battle_message.c#sText_DownpourStarted", "th": "ฝนเริ่มตกหนัก!"}
 {"id": "src/battle_message.c#sText_RainContinues", "th": "ฝนยังคงตกอยู่"}
@@ -57,12 +57,12 @@
 {"id": "src/battle_message.c#sText_StartedHail", "th": "ลูกเห็บเริ่มตก!"}
 {"id": "src/battle_message.c#sText_HailContinues", "th": "ลูกเห็บยังคงตกอยู่"}
 {"id": "src/battle_message.c#sText_HailStopped", "th": "ลูกเห็บหยุดตกแล้ว"}
-{"id": "src/battle_message.c#sText_FailedToSpitUp", "th": "แต่ใช้ คายพลัง แล้วไม่มีอะไรออกมาเลย!"}
-{"id": "src/battle_message.c#sText_FailedToSwallow", "th": "แต่ใช้ กลืนพลัง แล้วไม่มีอะไรให้กลืนเลย!"}
-{"id": "src/battle_message.c#sText_WindBecameHeatWave", "th": "สายลมกลายเป็น ลมร้อน!"}
+{"id": "src/battle_message.c#sText_FailedToSpitUp", "th": "แต่ใช้ SPIT UP แล้วไม่มีอะไรออกมาเลย!"}
+{"id": "src/battle_message.c#sText_FailedToSwallow", "th": "แต่ใช้ SWALLOW แล้วไม่มีอะไรให้กลืนเลย!"}
+{"id": "src/battle_message.c#sText_WindBecameHeatWave", "th": "สายลมกลายเป็น HEAT WAVE!"}
 {"id": "src/battle_message.c#sText_StatChangesGone", "th": "การเปลี่ยนแปลงค่าสถานะทั้งหมดถูกลบล้างแล้ว!"}
 {"id": "src/battle_message.c#sText_CoinsScattered", "th": "เหรียญกระจายเต็มไปหมด!"}
-{"id": "src/battle_message.c#sText_TooWeakForSubstitute", "th": "อ่อนแรงเกินกว่าจะสร้าง ตัวตายตัวแทน ได้!"}
+{"id": "src/battle_message.c#sText_TooWeakForSubstitute", "th": "อ่อนแรงเกินกว่าจะสร้าง SUBSTITUTE ได้!"}
 {"id": "src/battle_message.c#sText_SharedPain", "th": "ทั้งสองฝ่ายแบ่งความเจ็บปวดกัน!"}
 {"id": "src/battle_message.c#sText_BellChimed", "th": "เสียงระฆังดังกังวาน!"}
 {"id": "src/battle_message.c#sText_FaintInThree", "th": "โปเกมอนที่โดนผลทั้งหมด จะหมดสภาพในอีก 3 เทิร์น!"}
@@ -85,7 +85,7 @@
 {"id": "src/battle_message.c#sText_PkmnEnthralledByX", "th": "{B_OPPONENT_MON1_NAME} หลงใหล {B_BUFF1}!"}
 {"id": "src/battle_message.c#sText_PkmnIgnoredX", "th": "{B_OPPONENT_MON1_NAME} ไม่สนใจ {B_BUFF1} เลยสักนิด!"}
 {"id": "src/battle_message.c#sText_ThrewPokeblockAtPkmn", "th": "{B_PLAYER_NAME} โยน{POKEBLOCK} ใส่ {B_OPPONENT_MON1_NAME}!"}
-{"id": "src/battle_message.c#sText_OutOfSafariBalls", "th": "{PLAY_SE SE_DING_DONG}ผู้ประกาศ: ซาฟารีบอลหมดแล้ว! จบเกม!\\p"}
+{"id": "src/battle_message.c#sText_OutOfSafariBalls", "th": "{PLAY_SE SE_DING_DONG}ผู้ประกาศ: SAFARI BALLS หมดแล้ว! จบเกม!\\p"}
 {"id": "src/battle_message.c#sText_OpponentMon1Appeared", "th": "{B_OPPONENT_MON1_NAME} ปรากฏตัวออกมา!\\p"}
 {"id": "src/battle_message.c#sText_WildPkmnAppeared", "th": "{B_OPPONENT_MON1_NAME}ป่า ปรากฏตัวออกมา!\\p"}
 {"id": "src/battle_message.c#sText_LegendaryPkmnAppeared", "th": "{B_OPPONENT_MON1_NAME}ป่า ปรากฏตัวออกมา!\\p"}
@@ -159,8 +159,8 @@
 {"id": "src/battle_message.c#sText_ItIsRaining", "th": "ฝนกำลังตก"}
 {"id": "src/battle_message.c#sText_SandstormIsRaging", "th": "พายุทรายกำลังโหมกระหน่ำ"}
 {"id": "src/battle_message.c#sText_BoxIsFull", "th": "กล่องเต็มแล้ว! จับเพิ่มไม่ได้อีก!\\p"}
-{"id": "src/battle_message.c#sText_EnigmaBerry", "th": "ผลนาโซะ"}
-{"id": "src/battle_message.c#sText_BerrySuffix", "th": "เบอร์รี"}
+{"id": "src/battle_message.c#sText_EnigmaBerry", "th": "ENIGMA BERRY"}
+{"id": "src/battle_message.c#sText_BerrySuffix", "th": " BERRY"}
 {"id": "src/battle_message.c#sText_PkmnsItemCuredParalysis", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} รักษาอาการอัมพาตจนหาย!"}
 {"id": "src/battle_message.c#sText_PkmnsItemCuredPoison", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} รักษาพิษจนหาย!"}
 {"id": "src/battle_message.c#sText_PkmnsItemHealedBurn", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} รักษาแผลไฟไหม้จนหาย!"}
@@ -196,7 +196,7 @@
 {"id": "src/battle_message.c#sText_Defense", "th": "พลังป้องกัน"}
 {"id": "src/battle_message.c#sText_SpAtk", "th": "พลังโจมตีพิเศษ"}
 {"id": "src/battle_message.c#sText_SpDef", "th": "พลังป้องกันพิเศษ"}
-{"id": "src/battle_message.c#gText_SafariBalls", "th": "{HIGHLIGHT DARK_GRAY}ซาฟารีบอล"}
+{"id": "src/battle_message.c#gText_SafariBalls", "th": "{HIGHLIGHT DARK_GRAY}SAFARI BALLS"}
 {"id": "src/battle_message.c#gText_SafariBallLeft", "th": "{HIGHLIGHT DARK_GRAY}เหลือ: {HIGHLIGHT DARK_GRAY}"}
 {"id": "src/battle_message.c#gText_Sleep", "th": "หลับ"}
 {"id": "src/battle_message.c#gText_Poison", "th": "พิษ"}
@@ -214,24 +214,24 @@
 {"id": "src/battle_message.c#gText_Loss", "th": "{HIGHLIGHT TRANSPARENT}แพ้"}
 {"id": "src/battle_message.c#gText_Draw", "th": "{HIGHLIGHT TRANSPARENT}เสมอ"}
 {"id": "src/battle_message.c#sText_SpaceIs", "th": " คือ"}
-{"id": "src/battle_message.c#TYPE_NORMAL", "th": "ท่าชนิดปกติ"}
-{"id": "src/battle_message.c#TYPE_FIGHTING", "th": "ท่าชนิดต่อสู้"}
-{"id": "src/battle_message.c#TYPE_FLYING", "th": "ท่าชนิดบิน"}
-{"id": "src/battle_message.c#TYPE_POISON", "th": "ท่าชนิดพิษ"}
-{"id": "src/battle_message.c#TYPE_GROUND", "th": "ท่าชนิดดิน"}
-{"id": "src/battle_message.c#TYPE_ROCK", "th": "ท่าชนิดหิน"}
-{"id": "src/battle_message.c#TYPE_BUG", "th": "ท่าชนิดแมลง"}
-{"id": "src/battle_message.c#TYPE_GHOST", "th": "ท่าชนิดผี"}
-{"id": "src/battle_message.c#TYPE_STEEL", "th": "ท่าชนิดเหล็ก"}
+{"id": "src/battle_message.c#TYPE_NORMAL", "th": "ท่าชนิด NORMAL"}
+{"id": "src/battle_message.c#TYPE_FIGHTING", "th": "ท่าชนิด FIGHTING"}
+{"id": "src/battle_message.c#TYPE_FLYING", "th": "ท่าชนิด FLYING"}
+{"id": "src/battle_message.c#TYPE_POISON", "th": "ท่าชนิด POISON"}
+{"id": "src/battle_message.c#TYPE_GROUND", "th": "ท่าชนิด GROUND"}
+{"id": "src/battle_message.c#TYPE_ROCK", "th": "ท่าชนิด ROCK"}
+{"id": "src/battle_message.c#TYPE_BUG", "th": "ท่าชนิด BUG"}
+{"id": "src/battle_message.c#TYPE_GHOST", "th": "ท่าชนิด GHOST"}
+{"id": "src/battle_message.c#TYPE_STEEL", "th": "ท่าชนิด STEEL"}
 {"id": "src/battle_message.c#TYPE_MYSTERY", "th": "ท่าชนิด ???"}
-{"id": "src/battle_message.c#TYPE_FIRE", "th": "ท่าชนิดไฟ"}
-{"id": "src/battle_message.c#TYPE_WATER", "th": "ท่าชนิดน้ำ"}
-{"id": "src/battle_message.c#TYPE_GRASS", "th": "ท่าชนิดหญ้า"}
-{"id": "src/battle_message.c#TYPE_ELECTRIC", "th": "ท่าชนิดไฟฟ้า"}
-{"id": "src/battle_message.c#TYPE_PSYCHIC", "th": "ท่าชนิดพลังจิต"}
-{"id": "src/battle_message.c#TYPE_ICE", "th": "ท่าชนิดน้ำแข็ง"}
-{"id": "src/battle_message.c#TYPE_DRAGON", "th": "ท่าชนิดมังกร"}
-{"id": "src/battle_message.c#TYPE_DARK", "th": "ท่าชนิดความมืด"}
+{"id": "src/battle_message.c#TYPE_FIRE", "th": "ท่าชนิด FIRE"}
+{"id": "src/battle_message.c#TYPE_WATER", "th": "ท่าชนิด WATER"}
+{"id": "src/battle_message.c#TYPE_GRASS", "th": "ท่าชนิด GRASS"}
+{"id": "src/battle_message.c#TYPE_ELECTRIC", "th": "ท่าชนิด ELECTRIC"}
+{"id": "src/battle_message.c#TYPE_PSYCHIC", "th": "ท่าชนิด PSYCHIC"}
+{"id": "src/battle_message.c#TYPE_ICE", "th": "ท่าชนิด ICE"}
+{"id": "src/battle_message.c#TYPE_DRAGON", "th": "ท่าชนิด DRAGON"}
+{"id": "src/battle_message.c#TYPE_DARK", "th": "ท่าชนิด DARK"}
 {"id": "src/battle_message.c#gText_BattleTourney", "th": "ทัวร์นาเมนต์"}
 {"id": "src/battle_message.c#sText_Round1", "th": "รอบที่ 1"}
 {"id": "src/battle_message.c#sText_Round2", "th": "รอบที่ 2"}
@@ -288,7 +288,7 @@
 {"id": "src/berry.c#sBerryDescriptionPart2_Rawst", "th": "เบอร์รี่มักจะมีรสขมขึ้นมาก"}
 {"id": "src/berry.c#sBerryDescriptionPart1_Aspear", "th": "เบอร์รี่เนื้อแข็ง อัดแน่นด้วยน้ำ"}
 {"id": "src/berry.c#sBerryDescriptionPart2_Aspear", "th": "รสเข้มข้น ค่อนข้างเปรี้ยว"}
-{"id": "src/berry.c#sBerryDescriptionPart1_Leppa", "th": "โตช้ากว่าคุราโบและผลอื่น ๆ"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Leppa", "th": "โตช้ากว่า CHERI และผลอื่น ๆ"}
 {"id": "src/berry.c#sBerryDescriptionPart2_Leppa", "th": "ยิ่งลูกเล็ก ยิ่งอร่อย"}
 {"id": "src/berry.c#sBerryDescriptionPart1_Oran", "th": "เบอร์รี่แปลก ๆ ที่มีหลายรสผสมกัน"}
 {"id": "src/berry.c#sBerryDescriptionPart2_Oran", "th": "โตเต็มที่ภายในครึ่งวัน"}
@@ -296,12 +296,12 @@
 {"id": "src/berry.c#sBerryDescriptionPart2_Persim", "th": "จะสดใสขึ้นเมื่อโดนแดด"}
 {"id": "src/berry.c#sBerryDescriptionPart1_Lum", "th": "โตช้า ถ้าดูแลด้วยความรัก"}
 {"id": "src/berry.c#sBerryDescriptionPart2_Lum", "th": "อาจออกผลได้ถึงสองลูก"}
-{"id": "src/berry.c#sBerryDescriptionPart1_Sitrus", "th": "ใกล้ชิดกับโอเรน เบอร์รี่ลูกใหญ่นี้"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Sitrus", "th": "ใกล้ชิดกับ ORAN เบอร์รี่ลูกใหญ่นี้"}
 {"id": "src/berry.c#sBerryDescriptionPart2_Sitrus", "th": "มีรสชาติกลมกล่อม"}
 {"id": "src/berry.c#sBerryDescriptionPart1_Figy", "th": "เบอร์รี่ที่ดูเหมือนถูกเคี้ยวมาแล้ว"}
 {"id": "src/berry.c#sBerryDescriptionPart2_Figy", "th": "อัดแน่นไปด้วยสารรสเผ็ด"}
 {"id": "src/berry.c#sBerryDescriptionPart1_Wiki", "th": "ว่ากันว่าผิวเบอร์รี่ขรุขระ"}
-{"id": "src/berry.c#sBerryDescriptionPart2_Wiki", "th": "เพื่อให้โปเกมอนจับถือได้ง่าย"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Wiki", "th": "ให้โปเกมอนจับถือได้ง่าย"}
 {"id": "src/berry.c#sBerryDescriptionPart1_Mago", "th": "เบอร์รี่จะโค้งงอขึ้นเมื่อโต"}
 {"id": "src/berry.c#sBerryDescriptionPart2_Mago", "th": "ยิ่งโค้ง ยิ่งหวานอร่อย"}
 {"id": "src/berry.c#sBerryDescriptionPart1_Aguav", "th": "ดอกเล็กบอบบาง หายากตรงที่"}
@@ -380,12 +380,12 @@
 {"id": "src/berry_blender.c#sText_CommunicationStandby", "th": "กำลังรอการสื่อสาร…"}
 {"id": "src/berry_blender.c#sText_WouldLikeToBlendAnotherBerry", "th": "จะปั่นเบอร์รี่อีกไหม?"}
 {"id": "src/berry_blender.c#sText_RunOutOfBerriesForBlending", "th": "เบอร์รี่ที่จะใช้ปั่นใน\\nเครื่องปั่นเบอร์รี่หมดแล้ว\\p"}
-{"id": "src/berry_blender.c#sText_YourPokeblockCaseIsFull", "th": "กล่อง{POKEBLOCK}ของคุณเต็มแล้ว\\p"}
+{"id": "src/berry_blender.c#sText_YourPokeblockCaseIsFull", "th": "{POKEBLOCK} CASE ของคุณเต็มแล้ว\\p"}
 {"id": "src/berry_blender.c#sText_HasNoBerriesToPut", "th": " ไม่มีเบอร์รี่ที่จะใส่ใน\\nเครื่องปั่นเบอร์รี่"}
-{"id": "src/berry_blender.c#sText_ApostropheSPokeblockCaseIsFull", "th": " กล่อง{POKEBLOCK}เต็มแล้ว\\p"}
+{"id": "src/berry_blender.c#sText_ApostropheSPokeblockCaseIsFull", "th": " {POKEBLOCK} CASE เต็มแล้ว\\p"}
 {"id": "src/berry_blender.c#sText_BlendingResults", "th": "ผลการปั่น"}
 {"id": "src/berry_blender.c#sText_BerryUsed", "th": "เบอร์รี่ที่ใช้"}
-{"id": "src/berry_blender.c#sText_SpaceBerry", "th": " เบอร์รี่"}
+{"id": "src/berry_blender.c#sText_SpaceBerry", "th": " BERRY"}
 {"id": "src/berry_blender.c#sText_Time", "th": "เวลา:"}
 {"id": "src/berry_blender.c#sText_Min", "th": " นาที "}
 {"id": "src/berry_blender.c#sText_Sec", "th": " วินาที"}
@@ -394,8 +394,8 @@
 {"id": "src/berry_blender.c#sText_Ranking", "th": "อันดับ"}
 {"id": "src/berry_blender.c#sText_TheLevelIs", "th": "ระดับ "}
 {"id": "src/berry_blender.c#sText_TheFeelIs", "th": " และความเนียน "}
-{"id": "src/berry_blender.c#sJPText_GoodTvReady", "th": "\\nได้รายการทีวีดี ๆ แล้ว "}
-{"id": "src/berry_blender.c#sJPText_BadTvReady", "th": "\\nได้รายการทีวีแย่ ๆ แล้ว "}
+{"id": "src/berry_blender.c#sJPText_GoodTvReady", "th": "\\nได้ทีวีดี "}
+{"id": "src/berry_blender.c#sJPText_BadTvReady", "th": "\\nได้ทีวีแย่ "}
 {"id": "src/berry_fix_program.c#sText_BerryProgramUpdate", "th": "อัปเดตโปรแกรมเบอร์รี่"}
 {"id": "src/berry_fix_program.c#sText_RubySapphire", "th": "รูบี้/แซฟไฟร์"}
 {"id": "src/berry_fix_program.c#sText_Emerald", "th": "เอเมอรัลด์"}
@@ -405,3 +405,1477 @@
 {"id": "src/berry_fix_program.c#sText_TransmittingPleaseWait", "th": "กำลังส่งข้อมูล โปรดรอสักครู่\\n{COLOR RED}{SHADOW LIGHT_RED}โปรดอย่าปิดเครื่องหรือถอดสาย\\nGame Boy Advance Game\\nLink Cable"}
 {"id": "src/berry_fix_program.c#sText_PleaseFollowInstructionsOnScreen", "th": "โปรดทำตามคำแนะนำบนหน้าจอ\\nโปเกมอน รูบี้/แซฟไฟร์"}
 {"id": "src/berry_fix_program.c#sText_TransmissionFailureTryAgain", "th": "การส่งข้อมูลล้มเหลว\\n{COLOR RED}{SHADOW LIGHT_RED}โปรดลองอีกครั้ง"}
+{"id": "src/data/battle_frontier/apprentice.h#@2", "th": "อลัน"}
+{"id": "src/data/battle_frontier/apprentice.h#@3", "th": "อแลง"}
+{"id": "src/data/battle_frontier/apprentice.h#@4", "th": "อเดลโฟ"}
+{"id": "src/data/battle_frontier/apprentice.h#@5", "th": "เคลาส์"}
+{"id": "src/data/battle_frontier/apprentice.h#@6", "th": "เตโอ"}
+{"id": "src/data/battle_frontier/apprentice.h#@8", "th": "ไลโอเนล"}
+{"id": "src/data/battle_frontier/apprentice.h#@9", "th": "ลีโอเนล"}
+{"id": "src/data/battle_frontier/apprentice.h#@10", "th": "ไคโอ"}
+{"id": "src/data/battle_frontier/apprentice.h#@11", "th": "ลุดวิก"}
+{"id": "src/data/battle_frontier/apprentice.h#@12", "th": "เลโอ"}
+{"id": "src/data/battle_frontier/apprentice.h#@14", "th": "ซันนี่"}
+{"id": "src/data/battle_frontier/apprentice.h#@15", "th": "แอร์เว"}
+{"id": "src/data/battle_frontier/apprentice.h#@16", "th": "เฟโดร"}
+{"id": "src/data/battle_frontier/apprentice.h#@17", "th": "เวนเซล"}
+{"id": "src/data/battle_frontier/apprentice.h#@18", "th": "ซานติ"}
+{"id": "src/data/battle_frontier/apprentice.h#@20", "th": "เลย์ลา"}
+{"id": "src/data/battle_frontier/apprentice.h#@21", "th": "เลลา"}
+{"id": "src/data/battle_frontier/apprentice.h#@22", "th": "แอสทริด"}
+{"id": "src/data/battle_frontier/apprentice.h#@23", "th": "ซอนยา"}
+{"id": "src/data/battle_frontier/apprentice.h#@24", "th": "โลล่า"}
+{"id": "src/data/battle_frontier/apprentice.h#@26", "th": "เมซี่"}
+{"id": "src/data/battle_frontier/apprentice.h#@27", "th": "อาเมลี"}
+{"id": "src/data/battle_frontier/apprentice.h#@28", "th": "คลีโอ"}
+{"id": "src/data/battle_frontier/apprentice.h#@29", "th": "มาเรีย"}
+{"id": "src/data/battle_frontier/apprentice.h#@30", "th": "เอลิซา"}
+{"id": "src/data/battle_frontier/apprentice.h#@32", "th": "ดอนเต"}
+{"id": "src/data/battle_frontier/apprentice.h#@33", "th": "บราฮิม"}
+{"id": "src/data/battle_frontier/apprentice.h#@34", "th": "กลาอูโก"}
+{"id": "src/data/battle_frontier/apprentice.h#@35", "th": "โยเซฟ"}
+{"id": "src/data/battle_frontier/apprentice.h#@36", "th": "โรเก"}
+{"id": "src/data/battle_frontier/apprentice.h#@38", "th": "อามิรา"}
+{"id": "src/data/battle_frontier/apprentice.h#@39", "th": "ลอร์"}
+{"id": "src/data/battle_frontier/apprentice.h#@40", "th": "ดาฟเน"}
+{"id": "src/data/battle_frontier/apprentice.h#@41", "th": "อเมลี"}
+{"id": "src/data/battle_frontier/apprentice.h#@42", "th": "ลาร่า"}
+{"id": "src/data/battle_frontier/apprentice.h#@44", "th": "คาลี"}
+{"id": "src/data/battle_frontier/apprentice.h#@45", "th": "โจดี้"}
+{"id": "src/data/battle_frontier/apprentice.h#@46", "th": "อีเลนยา"}
+{"id": "src/data/battle_frontier/apprentice.h#@47", "th": "คาโร"}
+{"id": "src/data/battle_frontier/apprentice.h#@48", "th": "เอลซ่า"}
+{"id": "src/data/battle_frontier/apprentice.h#@50", "th": "แอนนี่"}
+{"id": "src/data/battle_frontier/apprentice.h#@51", "th": "แอนนี"}
+{"id": "src/data/battle_frontier/apprentice.h#@52", "th": "อิเมลดา"}
+{"id": "src/data/battle_frontier/apprentice.h#@53", "th": "อิเนส"}
+{"id": "src/data/battle_frontier/apprentice.h#@54", "th": "โรซ่า"}
+{"id": "src/data/battle_frontier/apprentice.h#@56", "th": "ดิลเลน"}
+{"id": "src/data/battle_frontier/apprentice.h#@57", "th": "เรอเน"}
+{"id": "src/data/battle_frontier/apprentice.h#@58", "th": "อินโดร"}
+{"id": "src/data/battle_frontier/apprentice.h#@59", "th": "เดทเลฟ"}
+{"id": "src/data/battle_frontier/apprentice.h#@60", "th": "เปโดร"}
+{"id": "src/data/battle_frontier/apprentice.h#@62", "th": "ดัลลัส"}
+{"id": "src/data/battle_frontier/apprentice.h#@63", "th": "บรูโน"}
+{"id": "src/data/battle_frontier/apprentice.h#@64", "th": "เลอาโก"}
+{"id": "src/data/battle_frontier/apprentice.h#@65", "th": "อันสการ"}
+{"id": "src/data/battle_frontier/apprentice.h#@66", "th": "มาโนโล"}
+{"id": "src/data/battle_frontier/apprentice.h#@68", "th": "แฟรงก์"}
+{"id": "src/data/battle_frontier/apprentice.h#@69", "th": "ฟรังก์"}
+{"id": "src/data/battle_frontier/apprentice.h#@70", "th": "โอลินโด"}
+{"id": "src/data/battle_frontier/apprentice.h#@71", "th": "ฟรังค์"}
+{"id": "src/data/battle_frontier/apprentice.h#@72", "th": "เมาโร"}
+{"id": "src/data/battle_frontier/apprentice.h#@74", "th": "ลามอนต์"}
+{"id": "src/data/battle_frontier/apprentice.h#@75", "th": "ซาฟ"}
+{"id": "src/data/battle_frontier/apprentice.h#@76", "th": "ออเฟโอ"}
+{"id": "src/data/battle_frontier/apprentice.h#@77", "th": "ยูร์เกน"}
+{"id": "src/data/battle_frontier/apprentice.h#@78", "th": "ฮอร์เก"}
+{"id": "src/data/battle_frontier/apprentice.h#@80", "th": "ไทรีส"}
+{"id": "src/data/battle_frontier/apprentice.h#@81", "th": "แอนดี้"}
+{"id": "src/data/battle_frontier/apprentice.h#@82", "th": "ปาริเด"}
+{"id": "src/data/battle_frontier/apprentice.h#@83", "th": "เดวิด"}
+{"id": "src/data/battle_frontier/apprentice.h#@84", "th": "ชิโช"}
+{"id": "src/data/battle_frontier/apprentice.h#@86", "th": "ดันเต"}
+{"id": "src/data/battle_frontier/apprentice.h#@87", "th": "ดานเต"}
+{"id": "src/data/battle_frontier/apprentice.h#@88", "th": "ราอูล"}
+{"id": "src/data/battle_frontier/apprentice.h#@89", "th": "โลธาร์"}
+{"id": "src/data/battle_frontier/apprentice.h#@90", "th": "ปาโบล"}
+{"id": "src/data/battle_frontier/apprentice.h#@92", "th": "อาตูโร"}
+{"id": "src/data/battle_frontier/apprentice.h#@93", "th": "อาทูโร"}
+{"id": "src/data/battle_frontier/apprentice.h#@94", "th": "โรโมโล"}
+{"id": "src/data/battle_frontier/apprentice.h#@95", "th": "ไบรอัน"}
+{"id": "src/data/battle_frontier/apprentice.h#@96", "th": "อาตูโร่"}
+{"id": "src/data/credits.h#sCreditsText_PkmnEmeraldVersion", "th": "โปเกมอน เวอร์ชันเอเมอรัลด์"}
+{"id": "src/data/credits.h#sCreditsText_Credits", "th": "เครดิต"}
+{"id": "src/data/credits.h#sCreditsText_ExecutiveDirector", "th": "ผู้อำนวยการบริหาร"}
+{"id": "src/data/credits.h#sCreditsText_Director", "th": "ผู้กำกับ"}
+{"id": "src/data/credits.h#sCreditsText_ArtDirector", "th": "ผู้กำกับศิลป์"}
+{"id": "src/data/credits.h#sCreditsText_BattleDirector", "th": "ผู้กำกับระบบต่อสู้"}
+{"id": "src/data/credits.h#sCreditsText_MainProgrammer", "th": "โปรแกรมเมอร์หลัก"}
+{"id": "src/data/credits.h#sCreditsText_BattleSystemPgrms", "th": "โปรแกรมเมอร์ระบบต่อสู้"}
+{"id": "src/data/credits.h#sCreditsText_FieldSystemPgrms", "th": "โปรแกรมเมอร์ระบบฟิลด์"}
+{"id": "src/data/credits.h#sCreditsText_Programmers", "th": "โปรแกรมเมอร์"}
+{"id": "src/data/credits.h#sCreditsText_MainGraphicDesigner", "th": "กราฟิกดีไซเนอร์หลัก"}
+{"id": "src/data/credits.h#sCreditsText_GraphicDesigners", "th": "กราฟิกดีไซเนอร์"}
+{"id": "src/data/credits.h#sCreditsText_PkmnDesigners", "th": "ผู้ออกแบบโปเกมอน"}
+{"id": "src/data/credits.h#sCreditsText_MusicComposition", "th": "ประพันธ์ดนตรี"}
+{"id": "src/data/credits.h#sCreditsText_SoundEffectsAndPkmnVoices", "th": "เสียงประกอบ & เสียงร้องโปเกมอน"}
+{"id": "src/data/credits.h#sCreditsText_GameDesigners", "th": "ผู้ออกแบบเกม"}
+{"id": "src/data/credits.h#sCreditsText_ScenarioPlot", "th": "โครงเรื่อง"}
+{"id": "src/data/credits.h#sCreditsText_Scenario", "th": "บทเกม"}
+{"id": "src/data/credits.h#sCreditsText_ScriptDesigners", "th": "ผู้ออกแบบสคริปต์"}
+{"id": "src/data/credits.h#sCreditsText_MapDesigners", "th": "ผู้ออกแบบแผนที่"}
+{"id": "src/data/credits.h#sCreditsText_MapDataDesigners", "th": "ผู้ออกแบบข้อมูลแผนที่"}
+{"id": "src/data/credits.h#sCreditsText_ParametricDesigners", "th": "ผู้ออกแบบพารามิเตอร์"}
+{"id": "src/data/credits.h#sCreditsText_PokedexText", "th": "ข้อความโปเกเด็กซ์"}
+{"id": "src/data/credits.h#sCreditsText_EnvAndToolPgrms", "th": "โปรแกรมเมอร์ระบบ & เครื่องมือ"}
+{"id": "src/data/credits.h#sCreditsText_NCLProductTesting", "th": "ทดสอบผลิตภัณฑ์ NCL"}
+{"id": "src/data/credits.h#sCreditsText_SpecialThanks", "th": "ขอขอบคุณเป็นพิเศษ"}
+{"id": "src/data/credits.h#sCreditsText_Coordinators", "th": "ผู้ประสานงาน"}
+{"id": "src/data/credits.h#sCreditsText_Producers", "th": "โปรดิวเซอร์"}
+{"id": "src/data/credits.h#sCreditsText_ExecProducers", "th": "โปรดิวเซอร์บริหาร"}
+{"id": "src/data/credits.h#sCreditsText_InfoSupervisors", "th": "ผู้ควบคุมข้อมูล"}
+{"id": "src/data/credits.h#sCreditsText_TaskManagers", "th": "ผู้จัดการงาน"}
+{"id": "src/data/credits.h#sCreditsText_BrailleCodeCheck", "th": "ตรวจสอบอักษรเบรลล์"}
+{"id": "src/data/credits.h#sCreditsText_WorldDirector", "th": "ผู้กำกับโลกของเกม"}
+{"id": "src/data/credits.h#sCreditsText_BattleFrontierData", "th": "ข้อมูลแบทเทิลฟรอนเทียร์"}
+{"id": "src/data/credits.h#sCreditsText_SupportProgrammers", "th": "โปรแกรมเมอร์สนับสนุน"}
+{"id": "src/data/credits.h#sCreditsText_Artwork", "th": "ภาพประกอบ"}
+{"id": "src/data/credits.h#sCreditsText_LeadProgrammer", "th": "หัวหน้าโปรแกรมเมอร์"}
+{"id": "src/data/credits.h#sCreditsText_LeadGraphicArtist", "th": "หัวหน้าศิลปินกราฟิก"}
+{"id": "src/data/credits.h#sCreditsText_SatoshiTajiri", "th": "Satoshi Tajiri"}
+{"id": "src/data/credits.h#sCreditsText_JunichiMasuda", "th": "Junichi Masuda"}
+{"id": "src/data/credits.h#sCreditsText_KenSugimori", "th": "Ken Sugimori"}
+{"id": "src/data/credits.h#sCreditsText_ShigekiMorimoto", "th": "Shigeki Morimoto"}
+{"id": "src/data/credits.h#sCreditsText_TetsuyaWatanabe", "th": "Tetsuya Watanabe"}
+{"id": "src/data/credits.h#sCreditsText_HisashiSogabe", "th": "Hisashi Sogabe"}
+{"id": "src/data/credits.h#sCreditsText_SosukeTamada", "th": "Sosuke Tamada"}
+{"id": "src/data/credits.h#sCreditsText_AkitoMori", "th": "Akito Mori"}
+{"id": "src/data/credits.h#sCreditsText_KeitaKagaya", "th": "Keita Kagaya"}
+{"id": "src/data/credits.h#sCreditsText_YoshinoriMatsuda", "th": "Yoshinori Matsuda"}
+{"id": "src/data/credits.h#sCreditsText_HiroyukiNakamura", "th": "Hiroyuki Nakamura"}
+{"id": "src/data/credits.h#sCreditsText_MasaoTaya", "th": "Masao Taya"}
+{"id": "src/data/credits.h#sCreditsText_SatoshiNohara", "th": "Satoshi Nohara"}
+{"id": "src/data/credits.h#sCreditsText_TomomichiOhta", "th": "Tomomichi Ohta"}
+{"id": "src/data/credits.h#sCreditsText_MiyukiIwasawa", "th": "Miyuki Iwasawa"}
+{"id": "src/data/credits.h#sCreditsText_TakenoriOhta", "th": "Takenori Ohta"}
+{"id": "src/data/credits.h#sCreditsText_HironobuYoshida", "th": "Hironobu Yoshida"}
+{"id": "src/data/credits.h#sCreditsText_MotofumiFujiwara", "th": "Motofumi Fujiwara"}
+{"id": "src/data/credits.h#sCreditsText_SatoshiOhta", "th": "Satoshi Ohta"}
+{"id": "src/data/credits.h#sCreditsText_AsukaIwashita", "th": "Asuka Iwashita"}
+{"id": "src/data/credits.h#sCreditsText_AimiTomita", "th": "Aimi Tomita"}
+{"id": "src/data/credits.h#sCreditsText_TakaoUnno", "th": "Takao Unno"}
+{"id": "src/data/credits.h#sCreditsText_KanakoEo", "th": "Kanako Eo"}
+{"id": "src/data/credits.h#sCreditsText_JunOkutani", "th": "Jun Okutani"}
+{"id": "src/data/credits.h#sCreditsText_AtsukoNishida", "th": "Atsuko Nishida"}
+{"id": "src/data/credits.h#sCreditsText_MuneoSaito", "th": "Muneo Saito"}
+{"id": "src/data/credits.h#sCreditsText_RenaYoshikawa", "th": "Rena Yoshikawa"}
+{"id": "src/data/credits.h#sCreditsText_GoIchinose", "th": "Go Ichinose"}
+{"id": "src/data/credits.h#sCreditsText_MorikazuAoki", "th": "Morikazu Aoki"}
+{"id": "src/data/credits.h#sCreditsText_KojiNishino", "th": "Koji Nishino"}
+{"id": "src/data/credits.h#sCreditsText_KenjiMatsushima", "th": "Kenji Matsushima"}
+{"id": "src/data/credits.h#sCreditsText_TetsujiOhta", "th": "Tetsuji Ohta"}
+{"id": "src/data/credits.h#sCreditsText_HitomiSato", "th": "Hitomi Sato"}
+{"id": "src/data/credits.h#sCreditsText_TakeshiKawachimaru", "th": "Takeshi Kawachimaru"}
+{"id": "src/data/credits.h#sCreditsText_TeruyukiShimoyamada", "th": "Teruyuki Shimoyamada"}
+{"id": "src/data/credits.h#sCreditsText_ShigeruOhmori", "th": "Shigeru Ohmori"}
+{"id": "src/data/credits.h#sCreditsText_TadashiTakahashi", "th": "Tadashi Takahashi"}
+{"id": "src/data/credits.h#sCreditsText_ToshinobuMatsumiya", "th": "Toshinobu Matsumiya"}
+{"id": "src/data/credits.h#sCreditsText_AkihitoTomisawa", "th": "Akihito Tomisawa"}
+{"id": "src/data/credits.h#sCreditsText_HirokiEnomoto", "th": "Hiroki Enomoto"}
+{"id": "src/data/credits.h#sCreditsText_KazuyukiTerada", "th": "Kazuyuki Terada"}
+{"id": "src/data/credits.h#sCreditsText_YuriSakurai", "th": "Yuri Sakurai"}
+{"id": "src/data/credits.h#sCreditsText_HiromiSagawa", "th": "Hiromi Sagawa"}
+{"id": "src/data/credits.h#sCreditsText_KenjiTominaga", "th": "Kenji Tominaga"}
+{"id": "src/data/credits.h#sCreditsText_YoshioTajiri", "th": "Yoshio Tajiri"}
+{"id": "src/data/credits.h#sCreditsText_TeikoSasaki", "th": "Teiko Sasaki"}
+{"id": "src/data/credits.h#sCreditsText_SachikoHamano", "th": "Sachiko Hamano"}
+{"id": "src/data/credits.h#sCreditsText_ChieMatsumiya", "th": "Chie Matsumiya"}
+{"id": "src/data/credits.h#sCreditsText_AkikoShinozaki", "th": "Akiko Shinozaki"}
+{"id": "src/data/credits.h#sCreditsText_AstukoFujii", "th": "Astuko Fujii"}
+{"id": "src/data/credits.h#sCreditsText_NozomuSaito", "th": "Nozomu Saito"}
+{"id": "src/data/credits.h#sCreditsText_KenkichiToyama", "th": "Kenkichi Toyama"}
+{"id": "src/data/credits.h#sCreditsText_SuguruNakatsui", "th": "Suguru Nakatsui"}
+{"id": "src/data/credits.h#sCreditsText_YumiFunasaka", "th": "Yumi Funasaka"}
+{"id": "src/data/credits.h#sCreditsText_NaokoYanase", "th": "Naoko Yanase"}
+{"id": "src/data/credits.h#sCreditsText_NCLSuperMarioClub", "th": "NCL Super Mario Club"}
+{"id": "src/data/credits.h#sCreditsText_AtsushiTada", "th": "Atsushi Tada"}
+{"id": "src/data/credits.h#sCreditsText_TakahiroOhnishi", "th": "Takahiro Ohnishi"}
+{"id": "src/data/credits.h#sCreditsText_NorihideOkamura", "th": "Norihide Okamura"}
+{"id": "src/data/credits.h#sCreditsText_HiroNakamura", "th": "Hiro Nakamura"}
+{"id": "src/data/credits.h#sCreditsText_HiroyukiUesugi", "th": "Hiroyuki Uesugi"}
+{"id": "src/data/credits.h#sCreditsText_TerukiMurakawa", "th": "Teruki Murakawa"}
+{"id": "src/data/credits.h#sCreditsText_AkiraKinashi", "th": "Akira Kinashi"}
+{"id": "src/data/credits.h#sCreditsText_MichikoTakizawa", "th": "Michiko Takizawa"}
+{"id": "src/data/credits.h#sCreditsText_MakikoTakada", "th": "Makiko Takada"}
+{"id": "src/data/credits.h#sCreditsText_TakanaoKondo", "th": "Takanao Kondo"}
+{"id": "src/data/credits.h#sCreditsText_AiMashima", "th": "Ai Mashima"}
+{"id": "src/data/credits.h#sCreditsText_GakujiNomoto", "th": "Gakuji Nomoto"}
+{"id": "src/data/credits.h#sCreditsText_TakehiroIzushi", "th": "Takehiro Izushi"}
+{"id": "src/data/credits.h#sCreditsText_HitoshiYamagami", "th": "Hitoshi Yamagami"}
+{"id": "src/data/credits.h#sCreditsText_KyokoWatanabe", "th": "Kyoko Watanabe"}
+{"id": "src/data/credits.h#sCreditsText_TakaoNakano", "th": "Takao Nakano"}
+{"id": "src/data/credits.h#sCreditsText_HiroyukiJinnai", "th": "Hiroyuki Jinnai"}
+{"id": "src/data/credits.h#sCreditsText_HiroakiTsuru", "th": "Hiroaki Tsuru"}
+{"id": "src/data/credits.h#sCreditsText_TsunekazIshihara", "th": "Tsunekaz Ishihara"}
+{"id": "src/data/credits.h#sCreditsText_SatoruIwata", "th": "Satoru Iwata"}
+{"id": "src/data/credits.h#sCreditsText_KazuyaSuyama", "th": "Kazuya Suyama"}
+{"id": "src/data/credits.h#sCreditsText_SatoshiMitsuhara", "th": "Satoshi Mitsuhara"}
+{"id": "src/data/credits.h#sCreditsText_JapanBrailleLibrary", "th": "Japan Braille Library"}
+{"id": "src/data/credits.h#sCreditsText_TomotakaKomura", "th": "Tomotaka Komura"}
+{"id": "src/data/credits.h#sCreditsText_MikikoOhhashi", "th": "Mikiko Ohhashi"}
+{"id": "src/data/credits.h#sCreditsText_DaisukeHoshino", "th": "Daisuke Hoshino"}
+{"id": "src/data/credits.h#sCreditsText_KenjiroIto", "th": "Kenjiro Ito"}
+{"id": "src/data/credits.h#sCreditsText_RuiKawaguchi", "th": "Rui Kawaguchi"}
+{"id": "src/data/credits.h#sCreditsText_ShunsukeKohori", "th": "Shunsuke Kohori"}
+{"id": "src/data/credits.h#sCreditsText_SachikoNakamichi", "th": "Sachiko Nakamichi"}
+{"id": "src/data/credits.h#sCreditsText_FujikoNomura", "th": "Fujiko Nomura"}
+{"id": "src/data/credits.h#sCreditsText_KazukiYoshihara", "th": "Kazuki Yoshihara"}
+{"id": "src/data/credits.h#sCreditsText_RetsujiNomoto", "th": "Retsuji Nomoto"}
+{"id": "src/data/credits.h#sCreditsText_AzusaTajima", "th": "Azusa Tajima"}
+{"id": "src/data/credits.h#sCreditsText_ShusakuEgami", "th": "Shusaku Egami"}
+{"id": "src/data/credits.h#sCreditsText_PackageAndManual", "th": "ภาพประกอบกล่อง & คู่มือ"}
+{"id": "src/data/credits.h#sCreditsText_EnglishVersion", "th": "ผู้ประสานงานฉบับภาษาอังกฤษ"}
+{"id": "src/data/credits.h#sCreditsText_Translator", "th": "ผู้แปล"}
+{"id": "src/data/credits.h#sCreditsText_TextEditor", "th": "บรรณาธิการข้อความ"}
+{"id": "src/data/credits.h#sCreditsText_NCLCoordinator", "th": "ผู้ประสานงาน NCL"}
+{"id": "src/data/credits.h#sCreditsText_GraphicDesigner", "th": "กราฟิกดีไซเนอร์"}
+{"id": "src/data/credits.h#sCreditsText_NOAProductTesting", "th": "ทดสอบผลิตภัณฑ์ NOA"}
+{"id": "src/data/credits.h#sCreditsText_HideyukiNakajima", "th": "Hideyuki Nakajima"}
+{"id": "src/data/credits.h#sCreditsText_HidenoriSaeki", "th": "Hidenori Saeki"}
+{"id": "src/data/credits.h#sCreditsText_YokoWatanabe", "th": "Yoko Watanabe"}
+{"id": "src/data/credits.h#sCreditsText_SakaeKimura", "th": "Sakae Kimura"}
+{"id": "src/data/credits.h#sCreditsText_ChiakiShinkai", "th": "Chiaki Shinkai"}
+{"id": "src/data/credits.h#sCreditsText_SethMcMahill", "th": "Seth McMahill"}
+{"id": "src/data/credits.h#sCreditsText_NobOgasawara", "th": "Nob Ogasawara"}
+{"id": "src/data/credits.h#sCreditsText_TeresaLillygren", "th": "Teresa Lillygren"}
+{"id": "src/data/credits.h#sCreditsText_KimikoNakamichi", "th": "Kimiko Nakamichi"}
+{"id": "src/data/credits.h#sCreditsText_SouichiYamamoto", "th": "Souichi Yamamoto"}
+{"id": "src/data/credits.h#sCreditsText_YuichiroIto", "th": "Yuichiro Ito"}
+{"id": "src/data/credits.h#sCreditsText_ThomasHertzog", "th": "Thomas Hertzog"}
+{"id": "src/data/credits.h#sCreditsText_MikaKurosawa", "th": "Mika Kurosawa"}
+{"id": "src/data/credits.h#sCreditsText_NationalFederationBlind", "th": "National Federation of the Blind"}
+{"id": "src/data/credits.h#sCreditsText_PatriciaAMaurer", "th": "Patricia A. Maurer"}
+{"id": "src/data/credits.h#sCreditsText_EuropeanBlindUnion", "th": "European Blind Union"}
+{"id": "src/data/credits.h#sCreditsText_AustralianBrailleAuthority", "th": "Australian Braille Authority"}
+{"id": "src/data/credits.h#sCreditsText_RoyalNewZealandFederationBlind", "th": "Royal New Zealand Federation for the Blind"}
+{"id": "src/data/credits.h#sCreditsText_MotoyasuTojima", "th": "Motoyasu Tojima"}
+{"id": "src/data/credits.h#sCreditsText_NicolaPrattBarlow", "th": "Nicola Pratt-Barlow"}
+{"id": "src/data/credits.h#sCreditsText_ShellieDow", "th": "Shellie Dow"}
+{"id": "src/data/credits.h#sCreditsText_ErikJohnson", "th": "Erik Johnson"}
+{"id": "src/data/decoration/description.h#DecorDesc_SMALL_DESK", "th": "โต๊ะเล็ก ๆ\\nสำหรับหนึ่งคน"}
+{"id": "src/data/decoration/description.h#DecorDesc_POKEMON_DESK", "th": "โต๊ะเล็ก ๆ ที่ทำเป็น\\nรูปทรง POKé\\nBALL"}
+{"id": "src/data/decoration/description.h#DecorDesc_HEAVY_DESK", "th": "โต๊ะใหญ่ทำจาก\\nเหล็ก วางของตกแต่ง\\nไว้ด้านบนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_RAGGED_DESK", "th": "โต๊ะใหญ่ทำจาก\\nไม้ วางของตกแต่ง\\nไว้ด้านบนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_COMFORT_DESK", "th": "โต๊ะใหญ่ทำจาก\\nใบไม้ วางของตกแต่ง\\nไว้ด้านบนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_PRETTY_DESK", "th": "โต๊ะใหญ่มากทำจาก\\nแก้ว วางของตกแต่ง\\nได้หลายชิ้น"}
+{"id": "src/data/decoration/description.h#DecorDesc_BRICK_DESK", "th": "โต๊ะใหญ่มากทำจาก\\nอิฐ วางของตกแต่ง\\nได้หลายชิ้น"}
+{"id": "src/data/decoration/description.h#DecorDesc_CAMP_DESK", "th": "โต๊ะใหญ่มากทำจาก\\nท่อนไม้ วางของ\\nตกแต่งได้หลายชิ้น"}
+{"id": "src/data/decoration/description.h#DecorDesc_HARD_DESK", "th": "โต๊ะใหญ่มากทำจาก\\nหิน วางของตกแต่ง\\nได้หลายชิ้น"}
+{"id": "src/data/decoration/description.h#DecorDesc_SMALL_CHAIR", "th": "เก้าอี้เล็ก ๆ\\nสำหรับหนึ่งคน"}
+{"id": "src/data/decoration/description.h#DecorDesc_POKEMON_CHAIR", "th": "เก้าอี้เล็ก ๆ ที่ทำ\\nเป็นรูปทรง\\nPOKé BALL"}
+{"id": "src/data/decoration/description.h#DecorDesc_HEAVY_CHAIR", "th": "เก้าอี้เล็ก ๆ\\nทำจากเหล็ก"}
+{"id": "src/data/decoration/description.h#DecorDesc_PRETTY_CHAIR", "th": "เก้าอี้เล็ก ๆ\\nทำจากแก้ว"}
+{"id": "src/data/decoration/description.h#DecorDesc_COMFORT_CHAIR", "th": "เก้าอี้เล็ก ๆ\\nทำจากใบไม้"}
+{"id": "src/data/decoration/description.h#DecorDesc_RAGGED_CHAIR", "th": "เก้าอี้เล็ก ๆ\\nทำจากไม้"}
+{"id": "src/data/decoration/description.h#DecorDesc_BRICK_CHAIR", "th": "เก้าอี้เล็ก ๆ\\nทำจากอิฐ"}
+{"id": "src/data/decoration/description.h#DecorDesc_CAMP_CHAIR", "th": "เก้าอี้เล็ก ๆ\\nทำจากท่อนไม้"}
+{"id": "src/data/decoration/description.h#DecorDesc_HARD_CHAIR", "th": "เก้าอี้เล็ก ๆ\\nทำจากหิน"}
+{"id": "src/data/decoration/description.h#DecorDesc_RED_PLANT", "th": "ต้นไม้กระถาง\\nสีแดงสด"}
+{"id": "src/data/decoration/description.h#DecorDesc_TROPICAL_PLANT", "th": "ไม้ดอกเมืองร้อน\\nในกระถาง"}
+{"id": "src/data/decoration/description.h#DecorDesc_PRETTY_FLOWERS", "th": "กระถางดอกไม้\\nน่ารัก ๆ"}
+{"id": "src/data/decoration/description.h#DecorDesc_COLORFUL_PLANT", "th": "กระถางใหญ่ที่มี\\nดอกไม้หลากสี\\nมากมาย"}
+{"id": "src/data/decoration/description.h#DecorDesc_BIG_PLANT", "th": "ต้นไม้ใหญ่ทรงร่ม\\nในกระถาง\\nขนาดใหญ่"}
+{"id": "src/data/decoration/description.h#DecorDesc_GORGEOUS_PLANT", "th": "ต้นไม้ใหญ่สะดุดตา\\nในกระถางใหญ่"}
+{"id": "src/data/decoration/description.h#DecorDesc_RED_BRICK", "th": "อิฐสีแดง\\nวางของตกแต่ง\\nไว้ด้านบนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_YELLOW_BRICK", "th": "อิฐสีเหลือง\\nวางของตกแต่ง\\nไว้ด้านบนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_BLUE_BRICK", "th": "อิฐสีฟ้า\\nวางของตกแต่ง\\nไว้ด้านบนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_RED_BALLOON", "th": "ลูกโป่งสีแดงบรรจุ\\nน้ำ จะแตกถ้า\\nเหยียบลงไป"}
+{"id": "src/data/decoration/description.h#DecorDesc_BLUE_BALLOON", "th": "ลูกโป่งสีฟ้าบรรจุ\\nน้ำ จะแตกถ้า\\nเหยียบลงไป"}
+{"id": "src/data/decoration/description.h#DecorDesc_YELLOW_BALLOON", "th": "ลูกโป่งสีเหลือง\\nบรรจุน้ำ จะแตก\\nถ้าเหยียบลงไป"}
+{"id": "src/data/decoration/description.h#DecorDesc_RED_TENT", "th": "เต็นท์สีแดงหลังใหญ่\\nเข้าไปซ่อนข้างใน\\nได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_BLUE_TENT", "th": "เต็นท์สีฟ้าหลังใหญ่\\nเข้าไปซ่อนข้างใน\\nได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_SOLID_BOARD", "th": "วางทับหลุมเพื่อ\\nข้ามไปอีก\\nฝั่งหนึ่ง"}
+{"id": "src/data/decoration/description.h#DecorDesc_SLIDE", "th": "ใช้ไถลลงมา\\nจากแท่น"}
+{"id": "src/data/decoration/description.h#DecorDesc_FENCE_LENGTH", "th": "รั้วเล็ก ๆ\\nที่กั้นทางเดิน"}
+{"id": "src/data/decoration/description.h#DecorDesc_FENCE_WIDTH", "th": "รั้วเล็ก ๆ\\nที่กั้นทางเดิน"}
+{"id": "src/data/decoration/description.h#DecorDesc_TIRE", "th": "ยางรถเก่าเส้นใหญ่\\nวางของตกแต่ง\\nไว้ด้านบนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_STAND", "th": "แท่นขนาดใหญ่\\nที่มีขั้นบันได"}
+{"id": "src/data/decoration/description.h#DecorDesc_MUD_BALL", "th": "ก้อนโคลนก้อนใหญ่\\nจะแตกถ้าเหยียบ\\nลงไป"}
+{"id": "src/data/decoration/description.h#DecorDesc_BREAKABLE_DOOR", "th": "ประตูแปลก ๆ ที่\\nคนเดินทะลุผ่าน\\nไปได้เลย"}
+{"id": "src/data/decoration/description.h#DecorDesc_SAND_ORNAMENT", "th": "ของประดับที่ทำ\\nจากทราย จะพัง\\nถ้าไปแตะ"}
+{"id": "src/data/decoration/description.h#DecorDesc_SILVER_SHIELD", "th": "มอบให้เมื่อชนะ\\nติดต่อกัน 50 ครั้ง\\nที่แบทเทิลทาวเวอร์"}
+{"id": "src/data/decoration/description.h#DecorDesc_GOLD_SHIELD", "th": "มอบให้เมื่อชนะ\\nติดต่อกัน 100 ครั้ง\\nที่แบทเทิลทาวเวอร์"}
+{"id": "src/data/decoration/description.h#DecorDesc_GLASS_ORNAMENT", "th": "แบบจำลองแก้วของ\\nประติมากรรมดังใน\\nพิพิธภัณฑ์ศิลปะ"}
+{"id": "src/data/decoration/description.h#DecorDesc_TV", "th": "ทีวีของเล่น\\nสีเทาขนาดเล็ก"}
+{"id": "src/data/decoration/description.h#DecorDesc_ROUND_TV", "th": "ทีวีของเล่นที่\\nทำเลียนแบบ\\nทาเนโบ"}
+{"id": "src/data/decoration/description.h#DecorDesc_CUTE_TV", "th": "ทีวีของเล่นที่\\nทำเลียนแบบ\\nเอเนโกะ"}
+{"id": "src/data/decoration/description.h#DecorDesc_GLITTER_MAT", "th": "พรมแปลก ๆ ที่\\nเป็นประกายเมื่อ\\nถูกเหยียบ"}
+{"id": "src/data/decoration/description.h#DecorDesc_JUMP_MAT", "th": "พรมกลที่จะ\\nกระโดดเมื่อ\\nถูกเหยียบ"}
+{"id": "src/data/decoration/description.h#DecorDesc_SPIN_MAT", "th": "พรมกลที่จะ\\nหมุนไปรอบ ๆ เมื่อ\\nถูกเหยียบ"}
+{"id": "src/data/decoration/description.h#DecorDesc_C_LOW_NOTE_MAT", "th": "พรมที่เล่นเสียง\\nโดต่ำเมื่อ\\nถูกเหยียบ"}
+{"id": "src/data/decoration/description.h#DecorDesc_D_NOTE_MAT", "th": "พรมที่เล่นเสียง\\nเรเมื่อ\\nถูกเหยียบ"}
+{"id": "src/data/decoration/description.h#DecorDesc_E_NOTE_MAT", "th": "พรมที่เล่นเสียง\\nมีเมื่อ\\nถูกเหยียบ"}
+{"id": "src/data/decoration/description.h#DecorDesc_F_NOTE_MAT", "th": "พรมที่เล่นเสียง\\nฟาเมื่อ\\nถูกเหยียบ"}
+{"id": "src/data/decoration/description.h#DecorDesc_G_NOTE_MAT", "th": "พรมที่เล่นเสียง\\nซอลเมื่อ\\nถูกเหยียบ"}
+{"id": "src/data/decoration/description.h#DecorDesc_A_NOTE_MAT", "th": "พรมที่เล่นเสียง\\nลาเมื่อ\\nถูกเหยียบ"}
+{"id": "src/data/decoration/description.h#DecorDesc_B_NOTE_MAT", "th": "พรมที่เล่นเสียง\\nทีเมื่อ\\nถูกเหยียบ"}
+{"id": "src/data/decoration/description.h#DecorDesc_C_HIGH_NOTE_MAT", "th": "พรมที่เล่นเสียง\\nโดสูงเมื่อ\\nถูกเหยียบ"}
+{"id": "src/data/decoration/description.h#DecorDesc_SURF_MAT", "th": "พรมลายภาพ\\nSURF\\nวางของไว้บนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_THUNDER_MAT", "th": "พรมลายภาพ\\nTHUNDER\\nวางของไว้บนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_FIRE_BLAST_MAT", "th": "พรมลายภาพ\\nFIRE BLAST\\nวางของไว้บนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_POWDER_SNOW_MAT", "th": "พรมลายภาพ POWDER\\nSNOW\\nวางของไว้บนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_ATTRACT_MAT", "th": "พรมลายภาพ\\nATTRACT\\nวางของไว้บนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_FISSURE_MAT", "th": "พรมลายภาพ\\nFISSURE\\nวางของไว้บนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_SPIKES_MAT", "th": "พรมลายภาพ\\nSPIKES\\nวางของไว้บนได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_BALL_POSTER", "th": "โปสเตอร์เล็ก ๆ\\nพิมพ์ลาย POKé\\nBALLS"}
+{"id": "src/data/decoration/description.h#DecorDesc_GREEN_POSTER", "th": "โปสเตอร์เล็ก ๆ\\nลายคิโมริ"}
+{"id": "src/data/decoration/description.h#DecorDesc_RED_POSTER", "th": "โปสเตอร์เล็ก ๆ\\nลายอาชาโม"}
+{"id": "src/data/decoration/description.h#DecorDesc_BLUE_POSTER", "th": "โปสเตอร์เล็ก ๆ\\nลายมิซึโกโร"}
+{"id": "src/data/decoration/description.h#DecorDesc_CUTE_POSTER", "th": "โปสเตอร์เล็ก ๆ\\nลายรูริริ"}
+{"id": "src/data/decoration/description.h#DecorDesc_PIKA_POSTER", "th": "โปสเตอร์ใหญ่\\nลายปิกาจูและ\\nพิชู"}
+{"id": "src/data/decoration/description.h#DecorDesc_LONG_POSTER", "th": "โปสเตอร์ใหญ่\\nลายฮาบูเนก"}
+{"id": "src/data/decoration/description.h#DecorDesc_SEA_POSTER", "th": "โปสเตอร์ใหญ่\\nลายจีแลนซ์"}
+{"id": "src/data/decoration/description.h#DecorDesc_SKY_POSTER", "th": "โปสเตอร์ใหญ่\\nลายเคียโมเมะ"}
+{"id": "src/data/decoration/description.h#DecorDesc_KISS_POSTER", "th": "โปสเตอร์ใหญ่\\nลายมุชูล"}
+{"id": "src/data/decoration/description.h#DecorDesc_PICHU_DOLL", "th": "ตุ๊กตาพิชู\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_PIKACHU_DOLL", "th": "ตุ๊กตาปิกาจู\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_MARILL_DOLL", "th": "ตุ๊กตามาริล\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_TOGEPI_DOLL", "th": "ตุ๊กตาโทเกปี\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_CYNDAQUIL_DOLL", "th": "ตุ๊กตาฮิโนอาราชิ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_CHIKORITA_DOLL", "th": "ตุ๊กตาชิโครีตา\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_TOTODILE_DOLL", "th": "ตุ๊กตาวานิโนโกะ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_JIGGLYPUFF_DOLL", "th": "ตุ๊กตาพูริน\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_MEOWTH_DOLL", "th": "ตุ๊กตาเนียส\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_CLEFAIRY_DOLL", "th": "ตุ๊กตาปิปปี\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_DITTO_DOLL", "th": "ตุ๊กตาเมตามอน\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_SMOOCHUM_DOLL", "th": "ตุ๊กตามุชูล\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_TREECKO_DOLL", "th": "ตุ๊กตาคิโมริ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_TORCHIC_DOLL", "th": "ตุ๊กตาอาชาโม\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_MUDKIP_DOLL", "th": "ตุ๊กตามิซึโกโร\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_DUSKULL_DOLL", "th": "ตุ๊กตาโยมาวารุ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_WYNAUT_DOLL", "th": "ตุ๊กตาโซนาโนะ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_BALTOY_DOLL", "th": "ตุ๊กตายาจิลอน\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_KECLEON_DOLL", "th": "ตุ๊กตาคาคุเรออน\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_AZURILL_DOLL", "th": "ตุ๊กตารูริริ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_SKITTY_DOLL", "th": "ตุ๊กตาเอเนโกะ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_SWABLU_DOLL", "th": "ตุ๊กตาชิรุตโตะ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_GULPIN_DOLL", "th": "ตุ๊กตาโกคูลิน\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_LOTAD_DOLL", "th": "ตุ๊กตาฮาซึโบ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_SEEDOT_DOLL", "th": "ตุ๊กตาทาเนโบ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_PIKA_CUSHION", "th": "เบาะปิกาจู\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_ROUND_CUSHION", "th": "เบาะมาริล\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_KISS_CUSHION", "th": "เบาะมุชูล\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_ZIGZAG_CUSHION", "th": "เบาะจิกุซากุมะ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_SPIN_CUSHION", "th": "เบาะพัทชีล\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_DIAMOND_CUSHION", "th": "เบาะยามิรามิ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_BALL_CUSHION", "th": "เบาะลายบอล\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_GRASS_CUSHION", "th": "เบาะลายหญ้า\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_FIRE_CUSHION", "th": "เบาะลายไฟ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_WATER_CUSHION", "th": "เบาะลายน้ำ\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_SNORLAX_DOLL", "th": "ตุ๊กตาตัวใหญ่\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_RHYDON_DOLL", "th": "ตุ๊กตาตัวใหญ่\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_LAPRAS_DOLL", "th": "ตุ๊กตาตัวใหญ่\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_VENUSAUR_DOLL", "th": "ตุ๊กตาตัวใหญ่\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_CHARIZARD_DOLL", "th": "ตุ๊กตาตัวใหญ่\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_BLASTOISE_DOLL", "th": "ตุ๊กตาตัวใหญ่\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_WAILMER_DOLL", "th": "ตุ๊กตาตัวใหญ่\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_REGIROCK_DOLL", "th": "ตุ๊กตาตัวใหญ่\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_REGICE_DOLL", "th": "ตุ๊กตาตัวใหญ่\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/decoration/description.h#DecorDesc_REGISTEEL_DOLL", "th": "ตุ๊กตาตัวใหญ่\\nวางบนพรมหรือ\\nบนโต๊ะได้"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Meets", "th": "พบ"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Concede", "th": "ยอมถอย"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Give", "th": "ให้"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Gives", "th": "ให้แก่"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Played", "th": "เล่นแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Plays", "th": "เล่น"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Collect", "th": "สะสม"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Walking", "th": "เดินอยู่"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Walks", "th": "เดิน"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Says", "th": "บอกว่า"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Went", "th": "ไปแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Said", "th": "พูดว่า"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_WakeUp", "th": "ตื่น"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_WakesUp", "th": "ตื่นนอน"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Angers", "th": "ยั่วโมโห"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Teach", "th": "สอน"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Teaches", "th": "สั่งสอน"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Please", "th": "ได้โปรด"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Learn", "th": "เรียนรู้"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Change", "th": "เปลี่ยน"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Story", "th": "เรื่องราว"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Trust", "th": "เชื่อใจ"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Lavish", "th": "ทุ่มเท"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Listens", "th": "รับฟัง"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Hearing", "th": "การได้ยิน"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Trains", "th": "ฝึกฝน"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Choose", "th": "เลือก"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Come", "th": "มา"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Came", "th": "มาแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Search", "th": "ค้นหา"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Make", "th": "ทำ"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Cause", "th": "เป็นเหตุ"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Know", "th": "รู้"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Knows", "th": "รู้ดี"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Refuse", "th": "ปฏิเสธ"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Stores", "th": "เก็บไว้"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Brag", "th": "คุยโว"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Ignorant", "th": "ไม่ประสา"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Thinks", "th": "คิดว่า"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Believe", "th": "เชื่อ"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Slide", "th": "ไถล"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Eats", "th": "กิน"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Use", "th": "ใช้"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Uses", "th": "ใช้งาน"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Using", "th": "กำลังใช้"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Couldnt", "th": "ทำไม่ได้"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Capable", "th": "ทำได้"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Disappear", "th": "หายไป"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Appear", "th": "ปรากฏ"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Throw", "th": "ขว้าง"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Worry", "th": "กังวล"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Slept", "th": "หลับไปแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Sleep", "th": "นอน"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Release", "th": "ปล่อย"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Drinks", "th": "ดื่ม"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Runs", "th": "วิ่ง"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Run", "th": "หนี"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Works", "th": "ทำงาน"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Working", "th": "ทำงานอยู่"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Talking", "th": "คุยอยู่"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Talk", "th": "คุย"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Sink", "th": "จม"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Smack", "th": "ตบ"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Pretend", "th": "แกล้งทำ"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Praise", "th": "ชมเชย"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Overdo", "th": "เกินไป"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Show", "th": "แสดง"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Looks", "th": "ดูเหมือน"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Sees", "th": "เห็น"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Seek", "th": "แสวงหา"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Own", "th": "เป็นเจ้าของ"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Take", "th": "เอาไป"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Allow", "th": "อนุญาต"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Forget", "th": "ลืม"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Forgets", "th": "ลืมไป"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Appears", "th": "โผล่มา"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Faint", "th": "หมดสภาพ"}
+{"id": "src/data/easy_chat/easy_chat_group_actions.h#gEasyChatWord_Fainted", "th": "หมดสภาพแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Wandering", "th": "เร่ร่อน"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Rickety", "th": "ง่อนแง่น"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_RockSolid", "th": "มั่นคง"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Hungry", "th": "หิว"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Tight", "th": "แน่น"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Ticklish", "th": "จั๊กจี้"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Twirling", "th": "หมุนติ้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Spiraling", "th": "เป็นเกลียว"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Thirsty", "th": "กระหาย"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Lolling", "th": "นอนเอกเขนก"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Silky", "th": "นุ่มลื่น"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Sadly", "th": "อย่างเศร้า"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Hopeless", "th": "สิ้นหวัง"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Useless", "th": "ไร้ประโยชน์"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Drooling", "th": "น้ำลายไหล"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Exciting", "th": "น่าตื่นเต้น"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Thick", "th": "หนา"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Smooth", "th": "ราบรื่น"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Slimy", "th": "เป็นเมือก"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Thin", "th": "บาง"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Break", "th": "พัง"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Voracious", "th": "ตะกละ"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Scatter", "th": "กระจาย"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Awesome", "th": "สุดยอด"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Wimpy", "th": "ป๊อด"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Wobbly", "th": "โยกเยก"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Shaky", "th": "สั่นเทา"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Ripped", "th": "ขาดวิ่น"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Shredded", "th": "ฉีกขาด"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Increasing", "th": "เพิ่มขึ้น"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Yet", "th": "ยังคง"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Destroyed", "th": "ถูกทำลาย"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Fiery", "th": "ร้อนแรง"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_LoveyDovey", "th": "หวานแหวว"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Happily", "th": "อย่างสุขใจ"}
+{"id": "src/data/easy_chat/easy_chat_group_adjectives.h#gEasyChatWord_Anticipation", "th": "ความคาดหวัง"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_MatchUp", "th": "ประลอง"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Go", "th": "ไป"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_No1", "th": "ที่หนึ่ง"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Decide", "th": "ตัดสิน"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_LetMeWin", "th": "ให้ฉันชนะ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Wins", "th": "เป็นฝ่ายชนะ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Win", "th": "ชนะ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Won", "th": "ชนะแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_IfIWin", "th": "ถ้าฉันชนะ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_WhenIWin", "th": "ตอนฉันชนะ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_CantWin", "th": "ชนะไม่ได้"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_CanWin", "th": "ชนะได้"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_NoMatch", "th": "ไม่คู่ควร"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Spirit", "th": "จิตวิญญาณ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Decided", "th": "ตัดสินแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_TrumpCard", "th": "ไพ่ตาย"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_TakeThat", "th": "เอานี่ไป"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_ComeOn", "th": "มาเลย"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Attack", "th": "โจมตี"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Surrender", "th": "ยอมแพ้"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Gutsy", "th": "ใจกล้า"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Talent", "th": "ความสามารถ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Strategy", "th": "กลยุทธ์"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Smite", "th": "ฟาด"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Match", "th": "การแข่ง"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Victory", "th": "ชัยชนะ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Offensive", "th": "เชิงรุก"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Sense", "th": "สัมผัส"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Versus", "th": "ปะทะ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Fights", "th": "ต่อสู้กัน"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Power", "th": "พลัง"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Challenge", "th": "ท้าทาย"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Strong", "th": "แข็งแกร่ง"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_TooStrong", "th": "เก่งเกินไป"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_GoEasy", "th": "ออมมือ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Foe", "th": "ศัตรู"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Genius", "th": "อัจฉริยะ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Legend", "th": "ตำนาน"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Escape", "th": "หลบหนี"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Aim", "th": "เล็ง"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Battle", "th": "การต่อสู้"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Fight", "th": "สู้"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Resuscitate", "th": "ชุบชีวิต"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Points", "th": "แต้ม"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Serious", "th": "จริงจัง"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_GiveUp", "th": "ถอดใจ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Loss", "th": "ความพ่ายแพ้"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_IfILose", "th": "ถ้าฉันแพ้"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Lost", "th": "แพ้แล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Lose", "th": "แพ้"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Guard", "th": "ป้องกัน"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Partner", "th": "คู่หู"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Reject", "th": "ปัดตก"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Accept", "th": "ยอมรับ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Invincible", "th": "ไร้พ่าย"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Received", "th": "ได้รับแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Easy", "th": "ง่าย"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Weak", "th": "อ่อนแอ"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_TooWeak", "th": "อ่อนเกินไป"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Pushover", "th": "ไก่อ่อน"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Leader", "th": "หัวหน้ายิม"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Rule", "th": "กติกา"}
+{"id": "src/data/easy_chat/easy_chat_group_battle.h#gEasyChatWord_Move", "th": "ท่า"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Hot", "th": "ร้อน"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Exists", "th": "มีอยู่"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Excess", "th": "มากเกิน"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Approved", "th": "อนุมัติ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Has", "th": "มี"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Good", "th": "ดี"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Less", "th": "น้อยกว่า"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Momentum", "th": "แรงส่ง"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Going", "th": "กำลังไป"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Weird", "th": "แปลก"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Busy", "th": "ยุ่ง"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Together", "th": "ด้วยกัน"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Full", "th": "เต็ม"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Absent", "th": "ไม่อยู่"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Being", "th": "กำลังเป็น"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Need", "th": "ต้องการ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Tasty", "th": "อร่อย"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Skilled", "th": "ชำนาญ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Noisy", "th": "เสียงดัง"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Big", "th": "ใหญ่"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Late", "th": "สาย"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Close", "th": "ใกล้"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Docile", "th": "เชื่อฟัง"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Amusing", "th": "น่าขำ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Entertaining", "th": "สนุกสนาน"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Perfection", "th": "สมบูรณ์แบบ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Pretty", "th": "สวย"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Healthy", "th": "สุขภาพดี"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Excellent", "th": "ยอดเยี่ยม"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_UpsideDown", "th": "กลับหัว"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Cold", "th": "หนาว"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Refreshing", "th": "สดชื่น"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Unavoidable", "th": "หนีไม่พ้น"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Much", "th": "มากมาย"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Overwhelming", "th": "ท่วมท้น"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Fabulous", "th": "วิเศษ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Else", "th": "อื่น ๆ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Expensive", "th": "แพง"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Correct", "th": "ถูกต้อง"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Impossible", "th": "เหลือวิสัย"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Small", "th": "เล็ก"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Different", "th": "แตกต่าง"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Tired", "th": "เหนื่อย"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Skill", "th": "ฝีมือ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Top", "th": "สูงสุด"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_NonStop", "th": "ไม่หยุด"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Preposterous", "th": "ไร้สาระ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_None", "th": "ไม่มีเลย"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Nothing", "th": "ไม่มีอะไร"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Natural", "th": "ธรรมชาติ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Becomes", "th": "กลายเป็น"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Lukewarm", "th": "อุ่น ๆ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Fast", "th": "เร็ว"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Low", "th": "ต่ำ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Awful", "th": "แย่มาก"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Alone", "th": "คนเดียว"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Bored", "th": "เบื่อ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Secret", "th": "ความลับ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Mystery", "th": "ปริศนา"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Lacks", "th": "ขาด"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Best", "th": "ดีที่สุด"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Lousy", "th": "ห่วยแตก"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Mistake", "th": "ผิดพลาด"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Kind", "th": "ใจดี"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Well", "th": "อย่างดี"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Weakened", "th": "อ่อนแรง"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Simple", "th": "เรียบง่าย"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Seems", "th": "ดูจะ"}
+{"id": "src/data/easy_chat/easy_chat_group_conditions.h#gEasyChatWord_Badly", "th": "อย่างแย่"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Will", "th": "จะ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_WillBeHere", "th": "จะมาที่นี่"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Or", "th": "หรือ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Times", "th": "ครั้ง"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Wonder", "th": "สงสัย"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_IsItQues", "th": "เหรอ?"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Be", "th": "เป็น"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Gimme", "th": "ขอหน่อย"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Could", "th": "อาจจะ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_LikelyTo", "th": "มีแนวโน้ม"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Would", "th": "คงจะ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Is", "th": "คือ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_IsntItQues", "th": "ใช่ไหม?"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Lets", "th": "กันเถอะ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Other", "th": "อื่น"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Are", "th": "ล้วนเป็น"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Was", "th": "เคยเป็น"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Were", "th": "ล้วนเคย"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Those", "th": "พวกนั้น"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Isnt", "th": "ไม่ใช่"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Wont", "th": "จะไม่"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Cant", "th": "ไม่ได้"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Can", "th": "ได้"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Dont", "th": "อย่า"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Do", "th": "ทำ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Does", "th": "ก็ทำ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Whom", "th": "กับใคร"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Which", "th": "อันไหน"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Wasnt", "th": "ไม่ได้เป็น"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Werent", "th": "ล้วนไม่ใช่"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Have", "th": "แล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Havent", "th": "ยังไม่"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_An", "th": "หนึ่ง"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Not", "th": "ไม่"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_There", "th": "ที่นั่น"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_OkQues", "th": "โอเคไหม?"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_So", "th": "ดังนั้น"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Maybe", "th": "บางที"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_About", "th": "เกี่ยวกับ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Over", "th": "เหนือ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_It", "th": "มัน"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_All", "th": "ทั้งหมด"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_For", "th": "สำหรับ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_On", "th": "บน"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Off", "th": "ปิด"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_As", "th": "ในฐานะ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_To", "th": "ถึง"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_With", "th": "กับ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Better", "th": "ดีกว่า"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Ever", "th": "เคย"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Since", "th": "ตั้งแต่"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Of", "th": "ของ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_BelongsTo", "th": "เป็นของ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_At", "th": "ที่"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_In", "th": "ใน"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Out", "th": "นอก"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Too", "th": "ด้วย"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Like", "th": "เหมือน"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Did", "th": "ได้ทำ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Didnt", "th": "ไม่ได้ทำ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Doesnt", "th": "ไม่ทำ"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Without", "th": "โดยไม่มี"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_After", "th": "หลังจาก"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Before", "th": "ก่อน"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_While", "th": "ระหว่าง"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Than", "th": "กว่า"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Once", "th": "ครั้งหนึ่ง"}
+{"id": "src/data/easy_chat/easy_chat_group_endings.h#gEasyChatWord_Anywhere", "th": "ทุกที่"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Appeal", "th": "การแสดง"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Events", "th": "งานกิจกรรม"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_StayAtHome", "th": "อยู่บ้าน"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Berry", "th": "เบอร์รี่"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Contest", "th": "คอนเทสต์"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Mc", "th": "พิธีกร"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Judge", "th": "กรรมการ"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Super", "th": "ซูเปอร์"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Stage", "th": "เวที"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_HallOfFame", "th": "หอเกียรติยศ"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Evolution", "th": "วิวัฒนาการ"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Hyper", "th": "ไฮเปอร์"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_BattleTower", "th": "ทาวเวอร์"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Leaders", "th": "พวกหัวหน้า"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_BattleRoom", "th": "ห้องต่อสู้"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Hidden", "th": "ซ่อนเร้น"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_SecretBase", "th": "ฐานลับ"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Blend", "th": "ปั่น"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Master", "th": "มาสเตอร์"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Rank", "th": "ระดับ"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Ribbon", "th": "ริบบิ้น"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Crush", "th": "บดขยี้"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Direct", "th": "โดยตรง"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Tower", "th": "หอคอย"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Union", "th": "ยูเนียน"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Room", "th": "ห้อง"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Wireless", "th": "ไร้สาย"}
+{"id": "src/data/easy_chat/easy_chat_group_events.h#gEasyChatWord_Frontier", "th": "ฟรอนเทียร์"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Meet", "th": "พบกัน"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Play", "th": "เล่นสนุก"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Hurried", "th": "รีบร้อน"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Goes", "th": "ออกไป"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Giddy", "th": "ระริกระรี้"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Happy", "th": "มีความสุข"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Happiness", "th": "ความสุข"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Excite", "th": "ตื่นเต้น"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Important", "th": "สำคัญ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Funny", "th": "ตลก"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Got", "th": "ได้แล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_GoHome", "th": "กลับบ้าน"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Disappointed", "th": "ผิดหวัง"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Disappoints", "th": "ทำผิดหวัง"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Sad", "th": "เศร้า"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Try", "th": "ลองดู"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Tries", "th": "พยายาม"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Hears", "th": "ได้ยินว่า"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Think", "th": "คิด"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Hear", "th": "ได้ยิน"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Wants", "th": "อยากได้"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Misheard", "th": "ฟังผิด"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Dislike", "th": "ไม่ชอบ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Angry", "th": "โกรธ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Anger", "th": "ความโกรธ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Scary", "th": "น่ากลัว"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Lonesome", "th": "เหงา"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Disappoint", "th": "น่าผิดหวัง"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Joy", "th": "ความยินดี"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Gets", "th": "ได้รับ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Never", "th": "ไม่เคย"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Darn", "th": "ให้ตายสิ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Downcast", "th": "ห่อเหี่ยว"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Incredible", "th": "เหลือเชื่อ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Likes", "th": "ชอบ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Dislikes", "th": "เกลียด"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Boring", "th": "น่าเบื่อ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Care", "th": "ใส่ใจ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Cares", "th": "ห่วงใย"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_AllRight", "th": "ไม่เป็นไร"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Adore", "th": "หลงรัก"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Disaster", "th": "หายนะ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Enjoy", "th": "สนุก"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Enjoys", "th": "สนุกกับ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Eat", "th": "ทาน"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Lacking", "th": "ขาดแคลน"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Bad", "th": "ไม่ดี"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Hard", "th": "ยาก"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Terrible", "th": "แย่สุด ๆ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Should", "th": "ควร"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Nice", "th": "ดีจัง"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Drink", "th": "เครื่องดื่ม"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Surprise", "th": "ประหลาดใจ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Fear", "th": "ความกลัว"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Want", "th": "อยาก"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Wait", "th": "รอก่อน"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Satisfied", "th": "พอใจ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_See", "th": "ดูสิ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Rare", "th": "หายาก"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Negative", "th": "แง่ลบ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Done", "th": "เสร็จแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Danger", "th": "อันตราย"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Defeated", "th": "พ่ายแพ้"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Beat", "th": "เอาชนะ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Great", "th": "เยี่ยม"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Romantic", "th": "โรแมนติก"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Question", "th": "คำถาม"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Understand", "th": "เข้าใจ"}
+{"id": "src/data/easy_chat/easy_chat_group_feelings.h#gEasyChatWord_Understands", "th": "รู้เรื่อง"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Thanks", "th": "ขอบใจ"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Yes", "th": "ใช่"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_HereGoes", "th": "เริ่มล่ะนะ"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_HereICome", "th": "ฉันมาแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_HereItIs", "th": "นี่ไงล่ะ"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Yeah", "th": "ใช่เลย"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Welcome", "th": "ต้อนรับ"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Oi", "th": "นี่!"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_HowDo", "th": "ยินดีรู้จัก"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Congrats", "th": "ยินดีด้วย"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_GiveMe", "th": "ขอให้"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Sorry", "th": "ขอโทษ"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Apologize", "th": "ขออภัย"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Forgive", "th": "ยกโทษให้"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_HeyThere", "th": "เฮ้ นี่"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Hello", "th": "สวัสดี"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_GoodBye", "th": "ลาก่อน"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_ThankYou", "th": "ขอบคุณ"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_IveArrived", "th": "มาถึงแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Pardon", "th": "ว่าไงนะ"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Excuse", "th": "ขอตัว"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_SeeYa", "th": "ไว้เจอกัน"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_ExcuseMe", "th": "ขอโทษนะ"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_WellThen", "th": "งั้นก็"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_GoAhead", "th": "เชิญเลย"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Appreciate", "th": "ซาบซึ้ง"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_HeyQues", "th": "หือ?"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_WhatsUpQues", "th": "ว่าไง?"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_HuhQues", "th": "ห๊ะ?"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_No", "th": "ไม่"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Hi", "th": "หวัดดี"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_YeahYeah", "th": "ใช่ ๆ"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_ByeBye", "th": "บ๊ายบาย"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_MeetYou", "th": "ยินดีที่พบ"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Hey", "th": "เฮ้"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Smell", "th": "กลิ่น"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Listening", "th": "ฟังอยู่"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_HooHah", "th": "ฮู้ฮา"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Yahoo", "th": "ยาฮู้"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_Yo", "th": "โย่"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_ComeOver", "th": "มานี่สิ"}
+{"id": "src/data/easy_chat/easy_chat_group_greetings.h#gEasyChatWord_CountOn", "th": "ฝากด้วย"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Idol", "th": "ไอดอล"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Anime", "th": "อนิเมะ"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Song", "th": "เพลง"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Movie", "th": "หนัง"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Sweets", "th": "ขนมหวาน"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Chat", "th": "แชต"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_ChildsPlay", "th": "ของเด็กเล่น"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Toys", "th": "ของเล่น"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Music", "th": "ดนตรี"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Cards", "th": "การ์ด"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Shopping", "th": "ช็อปปิ้ง"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Camera", "th": "กล้อง"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Viewing", "th": "การชม"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Spectator", "th": "ผู้ชม"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Gourmet", "th": "นักชิม"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Game", "th": "เกม"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Rpg", "th": "RPG"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Collection", "th": "คอลเลกชัน"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Complete", "th": "ครบชุด"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Magazine", "th": "นิตยสาร"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Walk", "th": "เดินเล่น"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Bike", "th": "จักรยาน"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Hobby", "th": "งานอดิเรก"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Sports", "th": "กีฬา"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Software", "th": "ซอฟต์แวร์"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Songs", "th": "บทเพลง"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Diet", "th": "ลดน้ำหนัก"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Treasure", "th": "สมบัติ"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Travel", "th": "ท่องเที่ยว"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Dance", "th": "เต้นรำ"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Channel", "th": "ช่อง"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Making", "th": "ประดิษฐ์"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Fishing", "th": "ตกปลา"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Date", "th": "เดต"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Design", "th": "ดีไซน์"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Locomotive", "th": "หัวรถจักร"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_PlushDoll", "th": "ตุ๊กตา"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Pc", "th": "PC"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Flowers", "th": "ดอกไม้"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Hero", "th": "ฮีโร่"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Nap", "th": "งีบ"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Heroine", "th": "นางเอก"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Fashion", "th": "แฟชั่น"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Adventure", "th": "ผจญภัย"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Board", "th": "บอร์ด"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Ball", "th": "ลูกบอล"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Book", "th": "หนังสือ"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Festival", "th": "เทศกาล"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Comics", "th": "การ์ตูน"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Holiday", "th": "วันหยุด"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Plans", "th": "แผนการ"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Trendy", "th": "อินเทรนด์"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Vacation", "th": "พักร้อน"}
+{"id": "src/data/easy_chat/easy_chat_group_hobbies.h#gEasyChatWord_Look", "th": "ลุค"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Chores", "th": "งานบ้าน"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Home", "th": "บ้าน"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Money", "th": "เงิน"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Allowance", "th": "ค่าขนม"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Bath", "th": "อาบน้ำ"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Conversation", "th": "บทสนทนา"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_School", "th": "โรงเรียน"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Commemorate", "th": "ระลึกถึง"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Habit", "th": "ความเคยชิน"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Group", "th": "กลุ่ม"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Word", "th": "คำพูด"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Store", "th": "ร้านค้า"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Service", "th": "บริการ"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Work", "th": "งาน"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_System", "th": "ระบบ"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Train", "th": "รถไฟ"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Class", "th": "ชั้นเรียน"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Lessons", "th": "บทเรียน"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Information", "th": "ข้อมูล"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Living", "th": "การใช้ชีวิต"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Teacher", "th": "ครู"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Tournament", "th": "การแข่งขัน"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Letter", "th": "จดหมาย"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Event", "th": "อีเวนต์"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Digital", "th": "ดิจิทัล"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Test", "th": "ข้อสอบ"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_DeptStore", "th": "ห้าง"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Television", "th": "โทรทัศน์"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Phone", "th": "โทรศัพท์"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Item", "th": "ไอเท็ม"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Name", "th": "ชื่อ"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_News", "th": "ข่าว"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Popular", "th": "ยอดนิยม"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Party", "th": "ปาร์ตี้"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Study", "th": "เรียน"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Machine", "th": "เครื่องจักร"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Mail", "th": "เมล"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Message", "th": "ข้อความ"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Promise", "th": "สัญญา"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Dream", "th": "ความฝัน"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Kindergarten", "th": "อนุบาล"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Life", "th": "ชีวิต"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Radio", "th": "วิทยุ"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_Rental", "th": "ให้เช่า"}
+{"id": "src/data/easy_chat/easy_chat_group_lifestyle.h#gEasyChatWord_World", "th": "โลก"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Highs", "th": "จุดสูง"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Lows", "th": "จุดต่ำ"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Um", "th": "เอ่อ"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Rear", "th": "ด้านท้าย"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Things", "th": "สิ่งต่าง ๆ"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Thing", "th": "สิ่งของ"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Below", "th": "ข้างล่าง"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Above", "th": "ข้างบน"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Back", "th": "ข้างหลัง"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_High", "th": "สูง"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Here", "th": "ที่นี่"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Inside", "th": "ข้างใน"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Outside", "th": "ข้างนอก"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Beside", "th": "ข้าง ๆ"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_ThisIsItExcl", "th": "นี่แหละ!"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_This", "th": "นี่"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Every", "th": "ทุก"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_These", "th": "พวกนี้"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_TheseWere", "th": "พวกนี้เคย"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Down", "th": "ลง"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_That", "th": "นั่น"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_ThoseAre", "th": "พวกนั้นคือ"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_ThoseWere", "th": "พวกนั้นเคย"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_ThatsItExcl", "th": "นั่นแหละ!"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Am", "th": "อยู่"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_ThatWas", "th": "นั่นเคยเป็น"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Front", "th": "ข้างหน้า"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Up", "th": "ขึ้น"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Choice", "th": "ทางเลือก"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Far", "th": "ไกล"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Away", "th": "ห่างไกล"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Near", "th": "ใกล้ ๆ"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Where", "th": "ที่ไหน"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_When", "th": "เมื่อไร"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_What", "th": "อะไร"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Deep", "th": "ลึก"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Shallow", "th": "ตื้น"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Why", "th": "ทำไม"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Confused", "th": "สับสน"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Opposite", "th": "ตรงข้าม"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Left", "th": "ซ้าย"}
+{"id": "src/data/easy_chat/easy_chat_group_misc.h#gEasyChatWord_Right", "th": "ขวา"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Opponent", "th": "คู่ต่อสู้"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_You", "th": "คุณ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Yours", "th": "ของคุณเอง"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Son", "th": "ลูกชาย"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Your", "th": "ของคุณ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Youre", "th": "คุณคือ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Youve", "th": "คุณได้"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Mother", "th": "แม่"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Grandfather", "th": "คุณปู่"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Uncle", "th": "คุณลุง"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Father", "th": "พ่อ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Boy", "th": "เด็กผู้ชาย"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Adult", "th": "ผู้ใหญ่"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Brother", "th": "พี่ชาย"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Sister", "th": "พี่สาว"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Grandmother", "th": "คุณย่า"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Aunt", "th": "คุณป้า"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Parent", "th": "พ่อแม่"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Man", "th": "ผู้ชาย"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Me", "th": "ฉัน"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Girl", "th": "เด็กผู้หญิง"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Babe", "th": "ที่รัก"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Family", "th": "ครอบครัว"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Her", "th": "หล่อน"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Him", "th": "เขาคนนั้น"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_He", "th": "เขา"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Place", "th": "สถานที่"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Daughter", "th": "ลูกสาว"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_His", "th": "ของเขา"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Hes", "th": "เขาคือ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Arent", "th": "ไม่ใช่เหรอ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Siblings", "th": "พี่น้อง"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Kid", "th": "เด็ก"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Children", "th": "เด็ก ๆ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Mr", "th": "นาย"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Mrs", "th": "นาง"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Myself", "th": "ตัวฉันเอง"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_IWas", "th": "ฉันเคย"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_ToMe", "th": "กับฉัน"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_My", "th": "ของฉัน"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_IAm", "th": "ฉันคือ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Ive", "th": "ฉันได้"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Who", "th": "ใคร"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Someone", "th": "ใครบางคน"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_WhoWas", "th": "ผู้ที่เคย"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_ToWhom", "th": "ถึงใคร"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Whose", "th": "ของใคร"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_WhoIs", "th": "ใครกัน"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Its", "th": "มันคือ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Lady", "th": "สุภาพสตรี"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Friend", "th": "เพื่อน"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Ally", "th": "พวกพ้อง"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Person", "th": "คน"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Dude", "th": "ไอ้หนุ่ม"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_They", "th": "พวกเขา"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_TheyWere", "th": "พวกเขาเคย"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_ToThem", "th": "ถึงพวกเขา"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Their", "th": "ของพวกเขา"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Theyre", "th": "พวกเขาคือ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Theyve", "th": "พวกเขาได้"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_We", "th": "พวกเรา"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Been", "th": "เคยมา"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_ToUs", "th": "ถึงพวกเรา"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Our", "th": "ของพวกเรา"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_WeRe", "th": "พวกเราคือ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Rival", "th": "คู่แข่ง"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Weve", "th": "พวกเราได้"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Woman", "th": "ผู้หญิง"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_She", "th": "เธอ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_SheWas", "th": "เธอเคย"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_ToHer", "th": "ถึงเธอ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Hers", "th": "ของเธอ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_SheIs", "th": "เธอคือ"}
+{"id": "src/data/easy_chat/easy_chat_group_people.h#gEasyChatWord_Some", "th": "บ้าง"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Listen", "th": "ฟังนะ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_NotVery", "th": "ไม่ค่อย"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Mean", "th": "ใจร้าย"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Lie", "th": "โกหก"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Lay", "th": "วาง"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Recommend", "th": "แนะนำ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Nitwit", "th": "เจ้าบื้อ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Quite", "th": "ค่อนข้าง"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_From", "th": "จาก"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Feeling", "th": "ความรู้สึก"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_But", "th": "แต่"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_However", "th": "อย่างไรก็ดี"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Case", "th": "กรณี"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_The", "th": "นั้น"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Miss", "th": "พลาด"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_How", "th": "ยังไง"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Hit", "th": "โดน"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Enough", "th": "พอแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_ALot", "th": "เยอะ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_ALittle", "th": "นิดหน่อย"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Absolutely", "th": "แน่นอน"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_And", "th": "และ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Only", "th": "เท่านั้น"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Around", "th": "แถว ๆ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Probably", "th": "น่าจะ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_If", "th": "ถ้า"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Very", "th": "มาก"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_ATinyBit", "th": "นิดเดียว"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Wild", "th": "ดุเดือด"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Thats", "th": "นั่นคือ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Just", "th": "แค่"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_EvenSo", "th": "ถึงงั้น"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_MustBe", "th": "ต้องเป็น"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Naturally", "th": "แน่อยู่แล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_ForNow", "th": "ตอนนี้ก่อน"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Understood", "th": "เข้าใจแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Joking", "th": "ล้อเล่น"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Ready", "th": "พร้อม"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Something", "th": "บางอย่าง"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Somehow", "th": "ไม่รู้ทำไม"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Although", "th": "ถึงแม้"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Also", "th": "อีกทั้ง"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Perfect", "th": "เพอร์เฟกต์"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_AsMuchAs", "th": "มากเท่ากับ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Really", "th": "จริง ๆ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Truly", "th": "แท้จริง"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Seriously", "th": "เอาจริง"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Totally", "th": "สุด ๆ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Until", "th": "จนกว่า"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_AsIf", "th": "ราวกับ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Mood", "th": "อารมณ์"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Rather", "th": "ออกจะ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Awfully", "th": "แสนจะ"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Mode", "th": "โหมด"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_More", "th": "มากขึ้น"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_TooLate", "th": "สายไปแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Finally", "th": "ในที่สุด"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Any", "th": "ไหนก็ได้"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Instead", "th": "แทน"}
+{"id": "src/data/easy_chat/easy_chat_group_speech.h#gEasyChatWord_Fantastic", "th": "เจ๋งสุด ๆ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Dark", "th": "DARK"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Stench", "th": "กลิ่นเหม็น"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_ThickFat", "th": "ไขมันหนา"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_RainDish", "th": "จานรับฝน"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Drizzle", "th": "เรียกฝน"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_ArenaTrap", "th": "หลุมกับดัก"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Intimidate", "th": "ข่มขู่"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_RockHead", "th": "หัวหิน"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Color", "th": "สี"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_AltColor", "th": "สีหายาก"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Rock", "th": "ROCK"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Beautiful", "th": "สวยงาม"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Beauty", "th": "ความงาม"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_AirLock", "th": "แอร์ล็อก"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Psychic", "th": "PSYCHIC"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_HyperCutter", "th": "ก้ามทรงพลัง"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Fighting", "th": "FIGHTING"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_ShadowTag", "th": "เหยียบเงา"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Smart", "th": "ฉลาด"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Smartness", "th": "ความฉลาด"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_SpeedBoost", "th": "เร่งความไว"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Cool", "th": "เท่"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Coolness", "th": "ความเท่"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_BattleArmor", "th": "เกราะรบ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Cute", "th": "น่ารัก"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Cuteness", "th": "ความน่ารัก"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Sturdy", "th": "ทนทาน"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_SuctionCups", "th": "ปุ่มดูด"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Grass", "th": "GRASS"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_ClearBody", "th": "ร่างโปร่งใส"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Torrent", "th": "กระแสเชี่ยว"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Ghost", "th": "GHOST"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Ice", "th": "ICE"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Guts", "th": "ใจสู้"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_RoughSkin", "th": "ผิวฉลาม"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_ShellArmor", "th": "เกราะเปลือก"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_NaturalCure", "th": "ฟื้นตัวเอง"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Damp", "th": "ความชื้น"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Ground", "th": "GROUND"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Limber", "th": "ยืดหยุ่น"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_MagnetPull", "th": "แรงแม่เหล็ก"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_WhiteSmoke", "th": "ควันขาว"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Synchronize", "th": "ซิงโคร"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Overgrow", "th": "ใบไม้แกร่ง"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_SwiftSwim", "th": "ว่ายน้ำฉิว"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_SandStream", "th": "ก่อพายุทราย"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_SandVeil", "th": "ซ่อนในทราย"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_KeenEye", "th": "ตาเฉียบคม"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_InnerFocus", "th": "จิตแน่วแน่"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Static", "th": "ไฟฟ้าสถิต"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Type", "th": "ประเภท"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Tough", "th": "แกร่ง"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Toughness", "th": "ความแกร่ง"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_ShedSkin", "th": "ลอกคราบ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_HugePower", "th": "แรงมหาศาล"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_VoltAbsorb", "th": "ดูดซับไฟฟ้า"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_WaterAbsorb", "th": "ดูดซับน้ำ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Electric", "th": "ELECTRIC"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Forecast", "th": "พยากรณ์"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_SereneGrace", "th": "พรสวรรค์"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Poison", "th": "POISON"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_PoisonPoint", "th": "หนามพิษ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Dragon", "th": "DRAGON"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Trace", "th": "ลอกแบบ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Oblivious", "th": "ประสาทช้า"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Truant", "th": "ขี้เกียจ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_RunAway", "th": "หนีเก่ง"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_StickyHold", "th": "เหนียวหนึบ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_CloudNine", "th": "ไร้กังวล"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Normal", "th": "NORMAL"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Steel", "th": "STEEL"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Illuminate", "th": "เรืองแสง"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_EarlyBird", "th": "ตื่นเช้า"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Hustle", "th": "ฮึกเหิม"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Shine", "th": "ความแวววาว"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Flying", "th": "FLYING"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Drought", "th": "ภัยแล้ง"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Lightningrod", "th": "สายล่อฟ้า"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Compoundeyes", "th": "ตาประกอบ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_MarvelScale", "th": "เกล็ดลึกลับ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_WonderGuard", "th": "ปกป้องวิเศษ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Insomnia", "th": "นอนไม่หลับ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Levitate", "th": "ลอยตัว"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Plus", "th": "พลัส"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Pressure", "th": "กดดัน"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_LiquidOoze", "th": "เมือกพิษ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_ColorChange", "th": "เปลี่ยนสี"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Soundproof", "th": "กันเสียง"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_EffectSpore", "th": "ละอองสปอร์"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Pkrs", "th": "โปเกรัส"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Fire", "th": "FIRE"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_FlameBody", "th": "ร่างเพลิง"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Minus", "th": "ไมนัส"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_OwnTempo", "th": "จังหวะตน"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_MagmaArmor", "th": "เกราะแม็กมา"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Water", "th": "WATER"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_WaterVeil", "th": "ม่านน้ำ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Bug", "th": "BUG"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Swarm", "th": "สัญญาณแมลง"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_CuteCharm", "th": "มีเสน่ห์"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Immunity", "th": "ภูมิคุ้มกัน"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Blaze", "th": "เพลิงโหม"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Pickup", "th": "เก็บของ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Pattern", "th": "ลวดลาย"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_FlashFire", "th": "รับเปลวไฟ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_VitalSpirit", "th": "ตื่นตัว"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_Chlorophyll", "th": "คลอโรฟิลล์"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_PurePower", "th": "พลังโยคะ"}
+{"id": "src/data/easy_chat/easy_chat_group_status.h#gEasyChatWord_ShieldDust", "th": "ผงเกล็ด"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Fall", "th": "ใบไม้ร่วง"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Morning", "th": "ตอนเช้า"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Tomorrow", "th": "พรุ่งนี้"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Last", "th": "ล่าสุด"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Day", "th": "วัน"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Sometime", "th": "สักวัน"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Always", "th": "เสมอ"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Current", "th": "ปัจจุบัน"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Forever", "th": "ตลอดไป"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Days", "th": "หลายวัน"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_End", "th": "จุดจบ"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Tuesday", "th": "วันอังคาร"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Yesterday", "th": "เมื่อวาน"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Today", "th": "วันนี้"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Friday", "th": "วันศุกร์"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Monday", "th": "วันจันทร์"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Later", "th": "ทีหลัง"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Earlier", "th": "เมื่อกี้"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Another", "th": "อีก"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Time", "th": "เวลา"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Finish", "th": "จบ"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Wednesday", "th": "วันพุธ"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Soon", "th": "เร็ว ๆ นี้"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Start", "th": "เริ่ม"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Month", "th": "เดือน"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Stop", "th": "หยุด"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Now", "th": "ตอนนี้"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Final", "th": "สุดท้าย"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Next", "th": "ถัดไป"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Age", "th": "อายุ"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Saturday", "th": "วันเสาร์"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Summer", "th": "ฤดูร้อน"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Sunday", "th": "วันอาทิตย์"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Beginning", "th": "ตอนเริ่ม"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Spring", "th": "ใบไม้ผลิ"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Daytime", "th": "กลางวัน"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Winter", "th": "ฤดูหนาว"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Daily", "th": "ทุกวัน"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Olden", "th": "สมัยก่อน"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Almost", "th": "เกือบ"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Nearly", "th": "แทบจะ"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Thursday", "th": "วันพฤหัส"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Nighttime", "th": "กลางคืน"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Night", "th": "คืน"}
+{"id": "src/data/easy_chat/easy_chat_group_time.h#gEasyChatWord_Week", "th": "สัปดาห์"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_IChooseYou", "th": "ฉันเลือกนาย"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Gotcha", "th": "จับได้แล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Trade", "th": "แลกเปลี่ยน"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Sapphire", "th": "แซฟไฟร์"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Evolve", "th": "วิวัฒน์"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Encyclopedia", "th": "สารานุกรม"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Nature", "th": "นิสัย"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Center", "th": "เซ็นเตอร์"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Egg", "th": "ไข่"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Link", "th": "ลิงก์"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_SpAbility", "th": "คุณสมบัติ"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Trainer", "th": "เทรนเนอร์"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Version", "th": "เวอร์ชัน"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Pokenav", "th": "โปเกนาวี"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Pokemon", "th": "โปเกมอน"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Get", "th": "ได้มา"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Pokedex", "th": "โปเกเด็กซ์"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Ruby", "th": "รูบี้"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Level", "th": "เลเวล"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Red", "th": "เรด"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Green", "th": "กรีน"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Bag", "th": "กระเป๋า"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Flame", "th": "เปลวไฟ"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Gold", "th": "โกลด์"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Leaf", "th": "ใบไม้"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Silver", "th": "ซิลเวอร์"}
+{"id": "src/data/easy_chat/easy_chat_group_trainer.h#gEasyChatWord_Emerald", "th": "เอเมอรัลด์"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_KthxBye", "th": "โอเค บาย"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_YesSirExcl", "th": "รับทราบ!"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_AvantGarde", "th": "ล้ำยุค"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Couple", "th": "คู่รัก"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_MuchObliged", "th": "ขอบคุณมาก"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_YeehawExcl", "th": "ยี่ฮ่า!"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Mega", "th": "เมกะ"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_1HitKOExcl", "th": "น็อกทีเดียว"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Destiny", "th": "โชคชะตา"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Cancel", "th": "ยกเลิก"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_New", "th": "ใหม่"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Flatten", "th": "บี้แบน"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Kidding", "th": "พูดเล่น"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Loser", "th": "ขี้แพ้"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Losing", "th": "กำลังแพ้"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Happening", "th": "เกิดขึ้น"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_HipAnd", "th": "เก๋ไก๋"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Shake", "th": "เขย่า"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Shady", "th": "น่าสงสัย"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Upbeat", "th": "คึกคัก"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Modern", "th": "ทันสมัย"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_SmellYa", "th": "แล้วเจอกัน"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Bang", "th": "ปัง"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Knockout", "th": "น็อกเอาต์"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Hassle", "th": "วุ่นวาย"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Winner", "th": "ผู้ชนะ"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Fever", "th": "คลั่งไคล้"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Wannabe", "th": "อยากเป็น"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Baby", "th": "เบบี๋"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Heart", "th": "หัวใจ"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Old", "th": "แก่"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Young", "th": "เยาว์วัย"}
+{"id": "src/data/easy_chat/easy_chat_group_trendy_saying.h#gEasyChatWord_Ugly", "th": "ขี้เหร่"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_UhOh", "th": "อุ๊ย"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Waaah", "th": "แง้"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Ahaha", "th": "อะฮ่าฮ่า"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_OhQues", "th": "โอ้?"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Nope", "th": "ไม่เอา"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Urgh", "th": "อึก"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Hmm", "th": "อืม"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Whoah", "th": "โว้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_WroooaarExcl", "th": "โฮกกก!"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Wow", "th": "ว้าว"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Giggle", "th": "คิกคิก"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Sigh", "th": "เฮ้อ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Unbelievable", "th": "ไม่น่าเชื่อ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Cries", "th": "ร้องไห้"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Agree", "th": "เห็นด้วย"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_EhQues", "th": "เอ๊ะ?"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Cry", "th": "ร้อง"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Ehehe", "th": "เอะเฮะเฮะ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_OiOiOi", "th": "เฮ้ ๆ ๆ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_OhYeah", "th": "โอ้ เยส"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Oh", "th": "โอ้"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Oops", "th": "อุ๊บส์"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Shocked", "th": "ตกใจ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Eek", "th": "กรี๊ด"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Graaah", "th": "กร๊าาา"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Gwahahaha", "th": "กว๊าฮ่าฮ่า"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Way", "th": "ไม่มีทาง"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Tch", "th": "จิ๊"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Hehe", "th": "เฮะเฮะ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Hah", "th": "ฮะ!"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Yup", "th": "อื้อ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Hahaha", "th": "ฮ่าฮ่าฮ่า"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Aiyeeh", "th": "ไอ๊ยา"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Hiyah", "th": "ฮิย้า"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Fufufu", "th": "ฟุฟุฟุ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Lol", "th": "555"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Snort", "th": "ฮึ่ย"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Humph", "th": "หึ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Hehehe", "th": "เฮะเฮะเฮะ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Heh", "th": "เฮอะ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Hohoho", "th": "โฮะโฮะโฮะ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_UhHuh", "th": "อ้อ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_OhDear", "th": "ตายแล้ว"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Arrgh", "th": "อ๊ากกก"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Mufufu", "th": "มุฟุฟุ"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Mmm", "th": "อื้ม"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_OhKay", "th": "โอ-เค"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Okay", "th": "โอเค"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Lalala", "th": "ลาลาลา"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Yay", "th": "เย้"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Aww", "th": "อ๊าว"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Wowee", "th": "ว้าวว"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Gwah", "th": "กว๊าก"}
+{"id": "src/data/easy_chat/easy_chat_group_voices.h#gEasyChatWord_Wahahaha", "th": "วะฮ่าฮ่าฮ่า"}
+{"id": "src/data/pokemon/pokedex_text.h#gDummyPokedexText", "th": "โปเกมอนที่เพิ่งถูกค้นพบใหม่\\nขณะนี้อยู่ระหว่างการสำรวจ\\nยังไม่มีข้อมูลโดยละเอียด\\nในเวลานี้"}
+{"id": "src/data/pokemon/pokedex_text.h#gBulbasaurPokedexText", "th": "ฟุชิกิดาเนะมักงีบหลับกลางแดดจ้า\\nบนหลังมีเมล็ดพันธุ์อยู่\\nเมื่อได้ดูดซับแสงแดด เมล็ดนั้น\\nจะค่อย ๆ โตขึ้นเรื่อย ๆ"}
+{"id": "src/data/pokemon/pokedex_text.h#gIvysaurPokedexText", "th": "ขาของฟุชิกิโซแข็งแรงขึ้นเพื่อรองรับ\\nหัวดอก ถ้าอยู่กลางแดดนานขึ้น\\nดอกตูมก็จะบานเป็น\\nดอกไม้ขนาดใหญ่ในไม่ช้า"}
+{"id": "src/data/pokemon/pokedex_text.h#gVenusaurPokedexText", "th": "ว่ากันว่าดอกของฟุชิกิบานะจะมีสีสด\\nถ้าได้รับสารอาหารและแสงแดด\\nอย่างเพียงพอ กลิ่นหอมของดอก\\nช่วยปลอบประโลมจิตใจผู้คน"}
+{"id": "src/data/pokemon/pokedex_text.h#gCharmanderPokedexText", "th": "เปลวไฟที่ลุกอยู่ปลายหาง\\nบ่งบอกถึงอารมณ์ของมัน\\nเปลวไฟจะไหววูบเมื่อฮิโตคาเงะดีใจ\\nและลุกโชนเมื่อโกรธจัด"}
+{"id": "src/data/pokemon/pokedex_text.h#gCharmeleonPokedexText", "th": "กรงเล็บคมกริบของมันฉีกทำลายศัตรู\\nอย่างไร้ปรานี เมื่อพบศัตรูที่แข็งแกร่ง\\nมันจะฮึกเหิม และเปลวไฟที่หาง\\nจะลุกโชนเป็นสีขาวอมฟ้า"}
+{"id": "src/data/pokemon/pokedex_text.h#gCharizardPokedexText", "th": "ลิซาร์ดอนบินไปทั่วเพื่อหาคู่ต่อสู้\\nที่แข็งแกร่ง มันพ่นเปลวไฟร้อนจัด\\nที่หลอมละลายได้ทุกสิ่ง แต่จะ\\nไม่มีวันพ่นไฟใส่ศัตรูที่อ่อนแอกว่า"}
+{"id": "src/data/pokemon/pokedex_text.h#gSquirtlePokedexText", "th": "กระดองของมันไม่ได้มีไว้ป้องกันตัว\\nเท่านั้น รูปทรงกลมมนและร่องบนผิว\\nช่วยลดแรงต้านน้ำ ทำให้เซนิกาเมะ\\nว่ายน้ำได้ด้วยความเร็วสูง"}
+{"id": "src/data/pokemon/pokedex_text.h#gWartortlePokedexText", "th": "หางใหญ่ของมันปกคลุมด้วยขนหนานุ่ม\\nที่สีจะเข้มขึ้นตามอายุ\\nรอยขีดข่วนบนกระดองคือหลักฐาน\\nถึงความแกร่งในการต่อสู้ของมัน"}
+{"id": "src/data/pokemon/pokedex_text.h#gBlastoisePokedexText", "th": "ปืนฉีดน้ำที่ยื่นออกมาจากกระดอง\\nมีความแม่นยำสูงมาก กระสุนน้ำ\\nยิงโดนกระป๋องได้อย่างแม่นยำ\\nจากระยะไกลกว่า 50 เมตร"}
+{"id": "src/data/pokemon/pokedex_text.h#gCaterpiePokedexText", "th": "ความตะกละทำให้มันกินใบไม้\\nที่ใหญ่กว่าตัวเองได้โดยไม่ลังเล\\nมันปล่อยกลิ่นฉุนรุนแรง\\nออกมาจากหนวด"}
+{"id": "src/data/pokemon/pokedex_text.h#gMetapodPokedexText", "th": "เปลือกของมันแข็งเหมือนแผ่นเหล็ก\\nทรานเซลแทบไม่ขยับตัว เพราะกำลัง\\nเตรียมร่างอันอ่อนนุ่มภายในเปลือก\\nให้พร้อมสำหรับการวิวัฒนาการ"}
+{"id": "src/data/pokemon/pokedex_text.h#gButterfreePokedexText", "th": "มันเก่งมากในการหาน้ำหวาน\\nแสนอร่อยจากดอกไม้ มันค้นหา เก็บ\\nและขนน้ำหวานจากดอกไม้\\nที่บานอยู่ไกลกว่า 10 กิโลเมตรได้"}
+{"id": "src/data/pokemon/pokedex_text.h#gWeedlePokedexText", "th": "บีเดิลมีประสาทรับกลิ่นไวมาก\\nมันแยกใบไม้ชนิดที่ชอบ\\nออกจากชนิดที่ไม่ชอบได้ด้วยการ\\nดมด้วยจมูกยาวสีแดงขนาดใหญ่"}
+{"id": "src/data/pokemon/pokedex_text.h#gKakunaPokedexText", "th": "มันแทบไม่ขยับขณะเกาะอยู่บนต้นไม้\\nแต่ภายในกำลังเตรียมตัวสำหรับ\\nการวิวัฒนาการอย่างขะมักเขม้น\\nดูได้จากเปลือกที่ร้อนขึ้น"}
+{"id": "src/data/pokemon/pokedex_text.h#gBeedrillPokedexText", "th": "สเปียร์หวงถิ่นอย่างมาก\\nเพื่อความปลอดภัย ไม่ควรมีใคร\\nเข้าใกล้รังของมันเด็ดขาด ถ้ามันโกรธ\\nพวกมันจะรุมโจมตีเป็นฝูง"}
+{"id": "src/data/pokemon/pokedex_text.h#gPidgeyPokedexText", "th": "มันรับรู้ทิศทางได้แม่นยำมาก\\nสามารถกลับรังได้โดยไม่หลงทาง\\nไม่ว่าจะถูกพาไปไกลจาก\\nถิ่นที่คุ้นเคยแค่ไหนก็ตาม"}
+{"id": "src/data/pokemon/pokedex_text.h#gPidgeottoPokedexText", "th": "โปเกมอนนี้บินลาดตระเวนไปทั่ว\\nอาณาเขตกว้างใหญ่ของมัน ถ้าถิ่นที่อยู่\\nถูกรุกล้ำ มันจะลงโทษศัตรูด้วย\\nกรงเล็บคมอย่างไม่ปรานี"}
+{"id": "src/data/pokemon/pokedex_text.h#gPidgeotPokedexText", "th": "โปเกมอนนี้มีขนเงางามสวยสะดุดตา\\nเทรนเนอร์หลายคนหลงใหลขนสวย\\nบนหัวของมันจนเลือกพีเจียต\\nมาเป็นโปเกมอนของตน"}
+{"id": "src/data/pokemon/pokedex_text.h#gRattataPokedexText", "th": "โครัตตาระมัดระวังตัวอย่างที่สุด\\nแม้ขณะหลับ มันก็ขยับหูฟัง\\nหาอันตรายอยู่ตลอดเวลา\\nมันสร้างรังได้ทุกที่"}
+{"id": "src/data/pokemon/pokedex_text.h#gRaticatePokedexText", "th": "เขี้ยวแข็งแรงของรัตตางอกยาวไม่หยุด\\nเพื่อฝนเขี้ยวให้สั้นลง มันจึงแทะ\\nก้อนหินและท่อนไม้ บางครั้งถึงกับ\\nแทะผนังบ้านด้วย"}
+{"id": "src/data/pokemon/pokedex_text.h#gSpearowPokedexText", "th": "เสียงร้องดังของมันได้ยินไปไกล\\nถึง 800 เมตร ถ้าได้ยินเสียงร้องแหลม\\nก้องไปทั่ว แสดงว่าพวกมันกำลัง\\nเตือนกันและกันถึงอันตราย"}
+{"id": "src/data/pokemon/pokedex_text.h#gFearowPokedexText", "th": "คอยาวและจะงอยปากที่ยื่นยาวของมัน\\nเหมาะกับการจับเหยื่อในดินหรือน้ำ\\nมันขยับจะงอยปากยาวเรียวนี้\\nอย่างคล่องแคล่วเพื่อจิกเหยื่อ"}
+{"id": "src/data/pokemon/pokedex_text.h#gEkansPokedexText", "th": "อาร์โบขดตัวเป็นวงก้นหอยขณะพัก\\nท่านี้ช่วยให้มันตอบโต้ศัตรู\\nจากทุกทิศทางได้อย่างรวดเร็ว\\nด้วยการชูหัวขึ้นขู่"}
+{"id": "src/data/pokemon/pokedex_text.h#gArbokPokedexText", "th": "โปเกมอนนี้มีแรงรัดมหาศาล\\nมันรัดถังน้ำมันเหล็กจนแบนได้\\nเมื่อมันพันร่างรอบศัตรูแล้ว\\nก็ไม่มีทางหนีรอดได้เลย"}
+{"id": "src/data/pokemon/pokedex_text.h#gPikachuPokedexText", "th": "มันเก็บไฟฟ้าไว้ในถุงไฟฟ้า\\nที่แก้ม เมื่อปล่อยพลังงานที่สะสมไว้\\nออกมาในคราวเดียว พลังไฟฟ้า\\nจะรุนแรงเท่ากับสายฟ้าผ่า"}
+{"id": "src/data/pokemon/pokedex_text.h#gRaichuPokedexText", "th": "ถ้ามันเก็บไฟฟ้าไว้มากเกินไป\\nนิสัยจะก้าวร้าวขึ้น เพื่อป้องกันเรื่องนี้\\nมันจะปล่อยพลังงานส่วนเกินเป็นระยะ\\nเพื่อทำให้ตัวเองสงบลง"}
+{"id": "src/data/pokemon/pokedex_text.h#gSandshrewPokedexText", "th": "เมื่อขดตัวเป็นลูกกลม มันทำให้\\nการโจมตีทุกอย่างกระเด็นออกไปได้\\nหนังของมันแข็งและหนาขึ้น\\nจากการใช้ชีวิตในทะเลทราย"}
+{"id": "src/data/pokemon/pokedex_text.h#gSandslashPokedexText", "th": "มันขดตัวเป็นลูกกลมเพื่อป้องกันตัว\\nจากการโจมตีของศัตรู และขดตัว\\nเพื่อป้องกันโรคลมแดดในเวลากลางวัน\\nที่อุณหภูมิสูงขึ้นอย่างรวดเร็ว"}
+{"id": "src/data/pokemon/pokedex_text.h#gNidoranFPokedexText", "th": "เชื่อกันว่าเงี่ยงพิษร้ายแรงของมัน\\nพัฒนาขึ้นเพื่อปกป้องร่างเล็ก ๆ\\nของโปเกมอนนี้ เมื่อโกรธ มันจะปล่อย\\nพิษร้ายกาจออกมาจากเขา"}
+{"id": "src/data/pokemon/pokedex_text.h#gNidorinaPokedexText", "th": "เมื่ออยู่กับเพื่อนหรือครอบครัว\\nมันจะเก็บเงี่ยงไว้เพื่อไม่ให้\\nบาดเจ็บ มันดูจะกระวนกระวาย\\nถ้าถูกแยกจากตัวอื่น ๆ"}
+{"id": "src/data/pokemon/pokedex_text.h#gNidoqueenPokedexText", "th": "มันเก่งในการพุ่งชนศัตรูให้กระเด็น\\nด้วยร่างแข็งแกร่งที่ปกคลุมด้วยเกล็ด\\nโปเกมอนนี้จะแข็งแกร่งที่สุด\\nเมื่อปกป้องลูกของมัน"}
+{"id": "src/data/pokemon/pokedex_text.h#gNidoranMPokedexText", "th": "นิโดรัน♂ พัฒนากล้ามเนื้อที่ขยับหู\\nไปได้อย่างอิสระทุกทิศทาง\\nแม้เสียงที่เบาที่สุดก็ไม่อาจเล็ดลอด\\nการรับรู้ของโปเกมอนนี้ได้"}
+{"id": "src/data/pokemon/pokedex_text.h#gNidorinoPokedexText", "th": "เขาของมันแข็งกว่าเพชร\\nถ้ารู้สึกถึงศัตรู เงี่ยงบนหลัง\\nจะตั้งชันขึ้นพร้อมกัน แล้วมันจะ\\nท้าสู้ศัตรูด้วยพลังทั้งหมดที่มี"}
+{"id": "src/data/pokemon/pokedex_text.h#gNidokingPokedexText", "th": "หางหนาของนิโดคิงมีพลังทำลายล้าง\\nมหาศาล มากพอจะโค่นเสาส่งไฟฟ้า\\nแรงสูงได้ เมื่อมันเริ่มอาละวาด\\nก็ไม่มีอะไรหยุดมันได้"}
+{"id": "src/data/pokemon/pokedex_text.h#gClefairyPokedexText", "th": "ทุกคืนพระจันทร์เต็มดวง พวกมัน\\nจะออกมาเล่นกัน เมื่อรุ่งสาง ปิปปี\\nที่เหนื่อยล้าจะนอนเบียดกัน\\nอยู่ในหุบเขาลึกอันเงียบสงบ"}
+{"id": "src/data/pokemon/pokedex_text.h#gClefablePokedexText", "th": "พิคซีใช้ปีกช่วยให้กระโดดได้เบา ๆ\\nราวกับกำลังบิน ก้าวที่เด้งดึ๋ง\\nทำให้มันเดินบนน้ำได้ ในคืนเงียบสงบ\\nใต้แสงจันทร์ มันจะเดินเล่นบนทะเลสาบ"}
+{"id": "src/data/pokemon/pokedex_text.h#gVulpixPokedexText", "th": "มันควบคุมไฟได้อย่างอิสระ ทำให้\\nลูกไฟลอยไปมาเหมือนผีกระสือ\\nก่อนวิวัฒนาการไม่นาน หางทั้งหก\\nจะร้อนราวกับลุกเป็นไฟ"}
+{"id": "src/data/pokemon/pokedex_text.h#gNinetalesPokedexText", "th": "ว่ากันมานานแล้วว่าหางทั้งเก้า\\nแต่ละหางมีพลังวิเศษอยู่\\nคิวคอนที่มีอายุยืนยาว\\nจะมีขนที่เปล่งประกายราวกับทองคำ"}
+{"id": "src/data/pokemon/pokedex_text.h#gJigglypuffPokedexText", "th": "ไม่มีใครอดหลับได้เมื่อได้ยิน\\nเพลงของพูริน คลื่นเสียงร้องเพลง\\nของมันตรงกับคลื่นสมองของ\\nคนที่กำลังหลับลึก"}
+{"id": "src/data/pokemon/pokedex_text.h#gWigglytuffPokedexText", "th": "ขนของมันนุ่มหรูหราที่สุด\\nการได้นอนข้างพูคูรินนั้นแสนวิเศษ\\nร่างของมันพองขยายได้ราวกับ\\nไม่มีที่สิ้นสุดเมื่อสูดหายใจเข้า"}
+{"id": "src/data/pokemon/pokedex_text.h#gZubatPokedexText", "th": "เพราะอาศัยอยู่ในถ้ำมืดสนิท\\nดวงตาของพวกมันจึงค่อย ๆ ปิดลง\\nจนมองไม่เห็น พวกมันใช้คลื่นเสียง\\nความถี่สูงเพื่อตรวจจับสิ่งกีดขวาง"}
+{"id": "src/data/pokemon/pokedex_text.h#gGolbatPokedexText", "th": "เขี้ยวของมันเจาะหนังสัตว์หนา ๆ\\nได้ง่ายดาย มันชอบดูดเลือดของคน\\nและโปเกมอน มันบินวนในความมืด\\nแล้วจู่โจมจากด้านหลัง"}
+{"id": "src/data/pokemon/pokedex_text.h#gOddishPokedexText", "th": "โปเกมอนนี้โตขึ้นด้วยการดูดซับแสงจันทร์\\nในเวลากลางวัน มันจะฝังตัวอยู่ในดิน\\nโผล่ออกมาแค่ใบ เพื่อไม่ให้\\nศัตรูมองเห็น"}
+{"id": "src/data/pokemon/pokedex_text.h#gGloomPokedexText", "th": "น้ำหวานกลิ่นเหม็นร้ายกาจไหลย้อย\\nจากปาก แค่ได้กลิ่นนิดเดียว\\nก็ทำให้ความจำเสื่อมได้ แต่ว่ากันว่า\\nแฟน ๆ บางคนชอบกลิ่นเหม็นรุนแรงนี้"}
+{"id": "src/data/pokemon/pokedex_text.h#gVileplumePokedexText", "th": "ในฤดูที่มันผลิตละอองเกสรมาก\\nอากาศรอบตัวรัฟเฟรเซียจะกลายเป็น\\nสีเหลืองขณะมันเดิน ละอองเกสรนี้\\nมีพิษร้ายแรงและทำให้เป็นอัมพาต"}
+{"id": "src/data/pokemon/pokedex_text.h#gParasPokedexText", "th": "พารัสมีเห็ดถั่งเช่าปรสิต\\nงอกอยู่บนหลัง เห็ดเติบโตโดย\\nดูดสารอาหารจากร่างที่อาศัย\\nและมีค่าในฐานะยาอายุวัฒนะ"}
+{"id": "src/data/pokemon/pokedex_text.h#gParasectPokedexText", "th": "พาราเซ็กต์รุมเกาะรากต้นไม้ใหญ่\\nเป็นกลุ่มและดูดสารอาหาร\\nเมื่อต้นไม้ที่ถูกเกาะตายลง\\nพวกมันจะย้ายไปต้นใหม่พร้อมกัน"}
+{"id": "src/data/pokemon/pokedex_text.h#gVenonatPokedexText", "th": "ขนบางแข็งที่ปกคลุมทั่วร่าง\\nว่ากันว่าวิวัฒนาการมาเพื่อป้องกันตัว\\nดวงตาโตของมันไม่เคยพลาด\\nแม้เหยื่อตัวเล็กจิ๋ว"}
+{"id": "src/data/pokemon/pokedex_text.h#gVenomothPokedexText", "th": "มอร์ฟอนเป็นโปเกมอนหากินกลางคืน\\nเหยื่อโปรดคือแมลงที่มาชุมนุม\\nรอบไฟถนน เพราะถูก\\nแสงไฟในความมืดดึงดูด"}
+{"id": "src/data/pokemon/pokedex_text.h#gDiglettPokedexText", "th": "ฟาร์มส่วนใหญ่เลี้ยงดิกดาไว้\\nเหตุผลง่ายมาก ไม่ว่าพวกมัน\\nจะขุดไปที่ไหน ดินก็ถูกพรวนอย่างดี\\nเหมาะกับการปลูกพืชผลแสนอร่อย"}
+{"id": "src/data/pokemon/pokedex_text.h#gDugtrioPokedexText", "th": "เพราะแฝดสามนี้แยกมาจากร่างเดียวกัน\\nพวกมันจึงคิดเหมือนกันทุกอย่าง\\nพวกมันร่วมมือกันขุด\\nใต้ดินไปไม่รู้จบ"}
+{"id": "src/data/pokemon/pokedex_text.h#gMeowthPokedexText", "th": "เนียสหดกรงเล็บคมเข้าไปในอุ้งเท้า\\nเพื่อย่องไปมาอย่างเงียบเชียบ\\nไม่รู้ด้วยเหตุใด โปเกมอนนี้ชอบ\\nเหรียญมันวาวที่เป็นประกาย"}
+{"id": "src/data/pokemon/pokedex_text.h#gPersianPokedexText", "th": "หนวดหนาหกเส้นของเปอร์เซียน\\nสัมผัสการเคลื่อนไหวของอากาศเพื่อรับรู้\\nสิ่งที่อยู่รอบตัว มันจะเชื่องลง\\nถ้าถูกจับที่หนวด"}
+{"id": "src/data/pokemon/pokedex_text.h#gPsyduckPokedexText", "th": "เมื่ออาการปวดหัวรุนแรงขึ้น มันจะเริ่ม\\nใช้พลังประหลาด แต่มันจำพลัง\\nของตัวเองไม่ได้ จึงดูงุนงง\\nและสับสนอยู่เสมอ"}
+{"id": "src/data/pokemon/pokedex_text.h#gGolduckPokedexText", "th": "โกลดักเป็นนักว่ายน้ำฝีมือดี\\nบางครั้งมันเข้าร่วมฝึกซ้อมกับ\\nนักว่ายน้ำแข่งขัน มันใช้พลังจิต\\nเมื่อหน้าผากเปล่งแสงวาววับ"}
+{"id": "src/data/pokemon/pokedex_text.h#gMankeyPokedexText", "th": "เมื่อมันเริ่มตัวสั่นและหายใจทางจมูก\\nแรงขึ้น นั่นคือสัญญาณว่ามันโกรธ\\nแต่เพราะสิ่งนี้เกิดขึ้นในพริบตา\\nจึงไม่มีเวลาให้หนีเลย"}
+{"id": "src/data/pokemon/pokedex_text.h#gPrimeapePokedexText", "th": "เมื่อโกรธจัด เลือดของมัน\\nจะไหลเวียนแรงขึ้น และกล้ามเนื้อ\\nจะแข็งแรงขึ้น แต่มันก็\\nฉลาดน้อยลงไปมากเช่นกัน"}
+{"id": "src/data/pokemon/pokedex_text.h#gGrowlithePokedexText", "th": "ประสาทรับกลิ่นชั้นยอดทำให้\\nโปเกมอนนี้ไม่ลืมกลิ่นใดเลย\\nไม่ว่าอย่างไร มันใช้การดมกลิ่น\\nเพื่อรับรู้อารมณ์ของผู้อื่น"}
+{"id": "src/data/pokemon/pokedex_text.h#gArcaninePokedexText", "th": "ว่ากันว่าโปเกมอนเท้าไวนี้วิ่งได้\\nกว่า 10,000 กิโลเมตรในหนึ่งวันหนึ่งคืน\\nไฟที่ลุกโชนอยู่ภายในร่าง\\nคือแหล่งพลังของมัน"}
+{"id": "src/data/pokemon/pokedex_text.h#gPoliwagPokedexText", "th": "มองเห็นลำไส้ขดเป็นวงของโปเกมอนนี้\\nผ่านผิวหนังบาง ๆ ได้ แต่ผิวหนัง\\nก็ยืดหยุ่นมากเช่นกัน\\nแม้แต่เขี้ยวคม ๆ ยังเด้งกลับ"}
+{"id": "src/data/pokemon/pokedex_text.h#gPoliwhirlPokedexText", "th": "ผิวกายของมันเปียกลื่นด้วยของเหลว\\nคล้ายน้ำมันอยู่เสมอ ผิวที่ลื่นนี้\\nทำให้มันลื่นหลุดจากการจับกุม\\nของศัตรูในการต่อสู้ได้ง่าย ๆ"}
+{"id": "src/data/pokemon/pokedex_text.h#gPoliwrathPokedexText", "th": "กล้ามเนื้อที่พัฒนาอย่างสูงไม่เคย\\nเหนื่อยล้า ไม่ว่าจะออกกำลังแค่ไหน\\nโปเกมอนนี้ว่ายข้ามมหาสมุทรแปซิฟิก\\nไปกลับได้อย่างสบาย ๆ"}
+{"id": "src/data/pokemon/pokedex_text.h#gAbraPokedexText", "th": "โปเกมอนที่นอนวันละ 18 ชั่วโมง\\nจากการสังเกตพบว่ามันใช้\\nTELEPORT เปลี่ยนตำแหน่ง\\nทุก ๆ ชั่วโมง"}
+{"id": "src/data/pokemon/pokedex_text.h#gKadabraPokedexText", "th": "มีข่าวลือว่าเด็กชายที่มีพลังจิต\\nกลายร่างเป็นยุนเกลาร์กะทันหัน\\nขณะช่วยงานวิจัย\\nเกี่ยวกับพลังเหนือธรรมชาติ"}
+{"id": "src/data/pokemon/pokedex_text.h#gAlakazamPokedexText", "th": "แม้จะมีพลังจิตแข็งแกร่งและ\\nฉลาดหลักแหลม แต่กล้ามเนื้อของฟูดิน\\nอ่อนแอมาก มันใช้พลังจิต\\nในการขยับร่างกาย"}
+{"id": "src/data/pokemon/pokedex_text.h#gMachopPokedexText", "th": "มันฝึกฝนอย่างหนักอยู่ตลอด\\nเพื่อฝึกศิลปะการต่อสู้ทุกแขนง\\nพละกำลังของมันยกนักซูโม่\\nขึ้นบ่าได้อย่างง่ายดาย"}
+{"id": "src/data/pokemon/pokedex_text.h#gMachokePokedexText", "th": "โกริกีคาดเข็มขัดไว้เพื่อควบคุม\\nพลังมหาศาลของตัวเอง\\nเพราะมันอันตรายเกินไป จึงไม่เคย\\nมีใครถอดเข็มขัดออกเลย"}
+{"id": "src/data/pokemon/pokedex_text.h#gMachampPokedexText", "th": "ไม่มีทางป้องกันหมัดและสันมือ\\nที่ระดมมาจากแขนทั้งสี่ได้\\nจิตวิญญาณนักสู้ของมันจะลุกโชน\\nเมื่อเจอคู่ต่อสู้ที่แข็งแกร่ง"}
+{"id": "src/data/pokemon/pokedex_text.h#gBellsproutPokedexText", "th": "ร่างผอมบางยืดหยุ่นของมาดาสึโบมิ\\nทำให้มันเอนหลบการโจมตีได้\\nไม่ว่าจะแรงแค่ไหน จากปาก\\nมันปล่อยของเหลวที่หลอมได้แม้แต่เหล็ก"}
+{"id": "src/data/pokemon/pokedex_text.h#gWeepinbellPokedexText", "th": "ตอนกลางคืน อุซึดงใช้ก้นที่เป็นตะขอ\\nเกี่ยวกิ่งไม้แล้วนอนหลับ\\nถ้ามันขยับตัวขณะหลับ\\nอาจตื่นมาพบว่าตัวเองอยู่บนพื้น"}
+{"id": "src/data/pokemon/pokedex_text.h#gVictreebelPokedexText", "th": "เถาวัลย์ยาวที่ยื่นจากหัวถูกโบกไปมา\\nราวกับสิ่งมีชีวิตเพื่อล่อเหยื่อ\\nเมื่อเหยื่อที่ไม่ทันระวังตัวเข้าใกล้\\nก็จะถูกกลืนทั้งตัว"}
+{"id": "src/data/pokemon/pokedex_text.h#gTentacoolPokedexText", "th": "ร่างกายของมันเกือบทั้งหมดเป็นน้ำ\\nมันจับศัตรูด้วยหนวดยาวสองเส้น\\nแล้วแทงด้วยเหล็กในพิษ\\nที่ปลายหนวด"}
+{"id": "src/data/pokemon/pokedex_text.h#gTentacruelPokedexText", "th": "มันอาศัยอยู่ตามโขดหินซับซ้อน\\nใต้ท้องทะเล และจับเหยื่อด้วยหนวด\\n80 เส้น ลูกแก้วสีแดงจะเรืองแสง\\nเมื่อตื่นเต้นหรือกระวนกระวาย"}
+{"id": "src/data/pokemon/pokedex_text.h#gGeodudePokedexText", "th": "มันปีนทางภูเขาโดยใช้เพียง\\nพลังแขน เพราะมันดูเหมือน\\nก้อนหินริมทาง นักปีนเขาจึงอาจ\\nเหยียบมันโดยไม่รู้ตัว"}
+{"id": "src/data/pokemon/pokedex_text.h#gGravelerPokedexText", "th": "พวกมันลงจากภูเขาด้วยการกลิ้ง\\nลงทางลาดชัน พวกมันดุดันมาก\\nพุ่งชนต้นไม้และหินยักษ์ที่ขวางทาง\\nกระเด็นด้วยเสียงดังสนั่น"}
+{"id": "src/data/pokemon/pokedex_text.h#gGolemPokedexText", "th": "ว่ากันว่ามันอาศัยอยู่ในปล่องภูเขาไฟ\\nบนยอดเขา ปีละครั้งมันจะลอกคราบ\\nแล้วตัวใหญ่ขึ้น คราบที่ลอกออก\\nจะแตกร่วนแล้วกลับคืนสู่ดิน"}
+{"id": "src/data/pokemon/pokedex_text.h#gPonytaPokedexText", "th": "โพนีตาอ่อนแอมากตอนเกิด\\nแทบยืนไม่ได้ ขาของมันจะแข็งแรงขึ้น\\nจากการล้มลุกคลุกคลาน\\nขณะพยายามวิ่งตามพ่อแม่"}
+{"id": "src/data/pokemon/pokedex_text.h#gRapidashPokedexText", "th": "ปกติมันจะวิ่งเหยาะ ๆ อย่างสบายใจ\\nในทุ่งหญ้า แต่เมื่อแกลล็อปจริงจังขึ้นมา\\nแผงคอเพลิงจะลุกโชน และมันจะ\\nควบด้วยความเร็วถึง 240 กม./ชม."}
+{"id": "src/data/pokemon/pokedex_text.h#gSlowpokePokedexText", "th": "มันจับเหยื่อด้วยการจุ่มหางลงน้ำ\\nริมแม่น้ำ แต่มักลืมว่าตัวเอง\\nกำลังทำอะไร แล้วใช้เวลาทั้งวัน\\nนั่งอู้อยู่ริมน้ำ"}
+{"id": "src/data/pokemon/pokedex_text.h#gSlowbroPokedexText", "th": "หางของมันมีเชลเดอร์กัดติดแน่น\\nผลคือใช้หางตกปลาไม่ได้อีกต่อไป\\nมันจึงต้องว่ายน้ำจับเหยื่อ\\nอย่างไม่เต็มใจ"}
+{"id": "src/data/pokemon/pokedex_text.h#gMagnemitePokedexText", "th": "ชิ้นส่วนสองข้างลำตัวเป็นแม่เหล็ก\\nพลังสูงมาก สร้างสนามแม่เหล็ก\\nมากพอจะดึงวัตถุเหล็ก\\nจากระยะไกลกว่า 100 เมตรได้"}
+{"id": "src/data/pokemon/pokedex_text.h#gMagnetonPokedexText", "th": "ที่จริงแล้วมันคือคอยล์สามตัวที่เชื่อมกัน\\nด้วยแม่เหล็ก มันปล่อยคลื่นวิทยุรุนแรง\\nที่ทำให้อุณหภูมิสูงขึ้น 2 องศา\\nในรัศมี 1 กิโลเมตร"}
+{"id": "src/data/pokemon/pokedex_text.h#gFarfetchdPokedexText", "th": "มันมักถือกิ่งพืชอยู่เสมอ\\nดูเหมือนว่ากิ่งไม้มีทั้งดีและไม่ดี\\nบางครั้งโปเกมอนนี้ก็ต่อสู้กับตัวอื่น\\nเพื่อแย่งกิ่งไม้ชั้นดี"}
+{"id": "src/data/pokemon/pokedex_text.h#gDoduoPokedexText", "th": "แม้ขณะกินหรือนอน หัวข้างหนึ่ง\\nจะคอยระวังสัญญาณอันตรายเสมอ\\nเมื่อถูกคุกคาม มันจะวิ่งหนี\\nด้วยความเร็วกว่า 100 กม./ชม."}
+{"id": "src/data/pokemon/pokedex_text.h#gDodrioPokedexText", "th": "โปเกมอนสายพันธุ์แปลกที่มีสามหัว\\nมันวิ่งข้ามทุ่งหญ้าอย่างว่องไว\\nแม้ในฤดูแล้ง\\nที่ฝนตกน้อย"}
+{"id": "src/data/pokemon/pokedex_text.h#gSeelPokedexText", "th": "พาววาวล่าเหยื่อในทะเลเยือกแข็ง\\nเมื่อต้องการหายใจ มันจะเจาะรู\\nบนน้ำแข็งด้วยส่วนที่ยื่นแหลม\\nบนหัว"}
+{"id": "src/data/pokemon/pokedex_text.h#gDewgongPokedexText", "th": "มันชอบงีบบนน้ำแข็งที่หนาวจัด\\nภาพโปเกมอนนี้นอนบนธารน้ำแข็ง\\nเคยทำให้กะลาสีเรือในอดีต\\nเข้าใจผิดคิดว่าเป็นนางเงือก"}
+{"id": "src/data/pokemon/pokedex_text.h#gGrimerPokedexText", "th": "เบโทเบตาเกิดจากโคลนเน่าเสียในทะเล\\nอาหารโปรดคืออะไรก็ได้ที่สกปรก\\nพวกมันกินน้ำเสียที่ปล่อยออกมา\\nจากโรงงาน"}
+{"id": "src/data/pokemon/pokedex_text.h#gMukPokedexText", "th": "มันชอบที่อยู่อาศัยที่อุ่นและชื้น\\nในหน้าร้อน สารพิษในร่างกาย\\nจะเข้มข้นขึ้น ทำให้เบโทเบตัน\\nเหม็นเหมือนขยะเน่าในครัว"}
+{"id": "src/data/pokemon/pokedex_text.h#gShellderPokedexText", "th": "ตอนกลางคืน มันใช้ลิ้นกว้าง ๆ\\nขุดหลุมที่พื้นทะเลเพื่อเป็นที่นอน\\nขณะหลับมันจะปิดเปลือก\\nแต่ปล่อยลิ้นห้อยออกมา"}
+{"id": "src/data/pokemon/pokedex_text.h#gCloysterPokedexText", "th": "มันว่ายน้ำในทะเลด้วยการกลืนน้ำ\\nแล้วพ่นออกไปทางด้านหลัง\\nพาร์เชนยิงหนามออกจากเปลือก\\nด้วยระบบเดียวกันนี้"}
+{"id": "src/data/pokemon/pokedex_text.h#gGastlyPokedexText", "th": "เมื่อโดนลมแรง ร่างที่เป็นแก๊ส\\nของโกสจะสลายหายไปอย่างรวดเร็ว\\nพวกมันจึงรวมตัวกันใต้ชายคาบ้าน\\nเพื่อหลบลมพัด"}
+{"id": "src/data/pokemon/pokedex_text.h#gHaunterPokedexText", "th": "ถ้าโกสท์กวักมือเรียกคุณขณะลอย\\nอยู่ในความมืด อย่าเข้าใกล้เด็ดขาด\\nโปเกมอนนี้จะพยายามเลียคุณ\\nด้วยลิ้นแล้วดูดชีวิตคุณไป"}
+{"id": "src/data/pokemon/pokedex_text.h#gGengarPokedexText", "th": "ยามดึก เงาของคุณที่ทอดจากไฟถนน\\nอาจแซงหน้าคุณไปกะทันหัน\\nที่จริงนั่นคือเก็งกาที่วิ่งผ่าน\\nแกล้งทำเป็นเงาของคุณ"}
+{"id": "src/data/pokemon/pokedex_text.h#gOnixPokedexText", "th": "ในสมองของอิวาร์คมีแม่เหล็กที่ช่วย\\nไม่ให้หลงทิศขณะขุดอุโมงค์\\nยิ่งอายุมากขึ้น ร่างกาย\\nจะยิ่งกลมมนและเรียบลื่นขึ้น"}
+{"id": "src/data/pokemon/pokedex_text.h#gDrowzeePokedexText", "th": "ถ้าจมูกคุณคันขณะนอนหลับ\\nนั่นคือสัญญาณว่าสลีปกำลังยืน\\nอยู่เหนือหมอน และพยายามกิน\\nความฝันของคุณผ่านทางรูจมูก"}
+{"id": "src/data/pokemon/pokedex_text.h#gHypnoPokedexText", "th": "การแกว่งและประกายของลูกตุ้ม\\nในมือสลีปเปอร์ ทำให้ศัตรูตกอยู่\\nในภวังค์สะกดจิต ขณะออกหาเหยื่อ\\nมันจะขัดลูกตุ้มให้เงางาม"}
+{"id": "src/data/pokemon/pokedex_text.h#gKrabbyPokedexText", "th": "แครบอาศัยในรูที่ขุดไว้บนชายหาด\\nบนหาดทรายที่อาหารมีน้อย\\nจะเห็นพวกมันทะเลาะแย่ง\\nอาณาเขตกันอยู่บ่อย ๆ"}
+{"id": "src/data/pokemon/pokedex_text.h#gKinglerPokedexText", "th": "มันโบกก้ามยักษ์ขนาดมหึมาในอากาศ\\nเพื่อสื่อสารกับตัวอื่น\\nแต่เพราะก้ามหนักมาก\\nโปเกมอนนี้จึงเหนื่อยเร็ว"}
+{"id": "src/data/pokemon/pokedex_text.h#gVoltorbPokedexText", "th": "มันมีรูปร่างเหมือน POKé BALL\\nอย่างน่าประหลาดโดยไม่มีใครอธิบายได้\\nมันระเบิดเมื่อโดนแรงกระแทกนิดเดียว\\nแม้แต่เทรนเนอร์มากประสบการณ์ยังระวัง"}
+{"id": "src/data/pokemon/pokedex_text.h#gElectrodePokedexText", "th": "พวกมันปรากฏตัวจำนวนมากที่\\nโรงไฟฟ้า เพราะกินไฟฟ้าเป็นอาหาร\\nพวกมันจึงทำให้เกิดไฟดับครั้งใหญ่\\nอย่างโกลาหลในเมืองใกล้เคียง"}
+{"id": "src/data/pokemon/pokedex_text.h#gExeggcutePokedexText", "th": "มันประกอบด้วยไข่หกฟองที่ดูแลกัน\\nไข่ดึงดูดกันและกัน\\nแล้วหมุนไปรอบ ๆ เมื่อรอยร้าว\\nปรากฏมากขึ้น ก็ใกล้วิวัฒนาการแล้ว"}
+{"id": "src/data/pokemon/pokedex_text.h#gExeggutorPokedexText", "th": "นัชชีมีถิ่นกำเนิดในเขตร้อน หัวของมัน\\nโตขึ้นเมื่อได้รับแสงแดดจัด\\nว่ากันว่าเมื่อหัวร่วงหล่น\\nพวกมันจะรวมตัวกันเป็นทามะทามะ"}
+{"id": "src/data/pokemon/pokedex_text.h#gCubonePokedexText", "th": "มันโหยหาแม่ที่จะไม่ได้พบอีกแล้ว\\nเมื่อเห็นเงาแม่ในพระจันทร์เต็มดวง\\nมันก็ร้องไห้ คราบบนกะโหลก\\nที่มันสวมอยู่เกิดจากน้ำตา"}
+{"id": "src/data/pokemon/pokedex_text.h#gMarowakPokedexText", "th": "การะการะคือร่างวิวัฒนาการของคาระคาระ\\nที่เข้มแข็งขึ้นจากการก้าวผ่าน\\nความโศกเศร้าที่เสียแม่ไป จิตใจที่ผ่าน\\nการหล่อหลอมแล้วไม่แตกสลายง่าย ๆ"}
+{"id": "src/data/pokemon/pokedex_text.h#gHitmonleePokedexText", "th": "ขาของมันยืดหดได้อย่างอิสระ\\nด้วยขาที่เหมือนสปริงนี้ มันเตะศัตรู\\nจนล้มคว่ำอย่างรุนแรง หลังการต่อสู้\\nมันจะนวดขาที่เหนื่อยล้า"}
+{"id": "src/data/pokemon/pokedex_text.h#gHitmonchanPokedexText", "th": "ว่ากันว่าเอบิวาลาร์มีจิตวิญญาณ\\nของนักมวยที่มุ่งสู่การเป็น\\nแชมป์โลก จิตใจที่ไม่ยอมแพ้\\nทำให้มันไม่มีวันถอดใจ"}
+{"id": "src/data/pokemon/pokedex_text.h#gLickitungPokedexText", "th": "ทุกครั้งที่เห็นสิ่งไม่คุ้นเคย มันจะ\\nเลียสิ่งนั้นเสมอ เพราะมันจดจำ\\nสิ่งต่าง ๆ ด้วยสัมผัสและรสชาติ\\nมันค่อนข้างไม่ชอบของเปรี้ยว"}
+{"id": "src/data/pokemon/pokedex_text.h#gKoffingPokedexText", "th": "ถ้าเข้าใกล้โดกาส คุณจะมีโอกาส\\nมองเห็นแก๊สพิษหมุนวนอยู่ข้างใน\\nผ่านผิวบาง ๆ ของมัน\\nมันระเบิดได้แม้โดนกระตุ้นนิดเดียว"}
+{"id": "src/data/pokemon/pokedex_text.h#gWeezingPokedexText", "th": "การเจือจางแก๊สพิษของมันด้วย\\nกรรมวิธีพิเศษจะได้น้ำหอมชั้นเลิศ\\nสำหรับมาตาโดกาส แก๊สที่ลอยออกจาก\\nกองขยะคืออาหารอันโอชะที่สุด"}
+{"id": "src/data/pokemon/pokedex_text.h#gRhyhornPokedexText", "th": "เมื่อเริ่มวิ่งแล้ว มันจะไม่หยุด\\nสมองเล็ก ๆ ทำให้มันโง่จนจำไม่ได้\\nว่าเริ่มวิ่งไปทำไม\\nตั้งแต่แรก"}
+{"id": "src/data/pokemon/pokedex_text.h#gRhydonPokedexText", "th": "เขาของมันหมุนเหมือนสว่าน\\nทำลายตึกสูงได้ในการโจมตีครั้งเดียว\\nมันยืนด้วยขาหลัง และสมอง\\nก็พัฒนาไปอย่างดี"}
+{"id": "src/data/pokemon/pokedex_text.h#gChanseyPokedexText", "th": "ลัคกีวางไข่ที่มีคุณค่าทางอาหารสูง\\nทุกวัน ไข่อร่อยมากจนแม้แต่\\nคนที่เบื่ออาหาร\\nก็ยังกินอย่างเอร็ดอร่อย"}
+{"id": "src/data/pokemon/pokedex_text.h#gTangelaPokedexText", "th": "เถาวัลย์ของมันขาดง่ายและไม่เจ็บ\\nเมื่อถูกจับ ทำให้มันหนีได้\\nอย่างรวดเร็ว เถาที่ขาดไป\\nจะงอกใหม่ในวันรุ่งขึ้น"}
+{"id": "src/data/pokemon/pokedex_text.h#gKangaskhanPokedexText", "th": "ถ้าเจอการูราตัวเล็กเล่นอยู่ลำพัง\\nอย่าพยายามจับมันเด็ดขาด\\nแม่ของมันต้องอยู่แถวนั้นแน่\\nและจะโกรธจัดอย่างรุนแรง"}
+{"id": "src/data/pokemon/pokedex_text.h#gHorseaPokedexText", "th": "มันกระดิกครีบบนหลังไปมาอย่างชาญฉลาด\\nทำให้เคลื่อนที่ได้ทุกทิศทาง\\nขณะหันหน้าไปข้างหน้า มันพ่นหมึก\\nเพื่อหนีเมื่อรู้สึกถึงอันตราย"}
+{"id": "src/data/pokemon/pokedex_text.h#gSeadraPokedexText", "th": "เงี่ยงพิษทั่วร่างของมันมีค่ามาก\\nในฐานะส่วนผสมของ\\nยาสมุนไพรแผนโบราณ มันไม่ปรานี\\nสิ่งใดที่เข้าใกล้รังของมัน"}
+{"id": "src/data/pokemon/pokedex_text.h#gGoldeenPokedexText", "th": "ในฤดูใบไม้ผลิ จะเห็นฝูงโทซาคินโตะ\\nว่ายทวนน้ำตกและแม่น้ำขึ้นไป\\nมันสร้างความเสียหายรุนแรง\\nด้วยเขาเดี่ยวของมัน"}
+{"id": "src/data/pokemon/pokedex_text.h#gSeakingPokedexText", "th": "มันเจาะรูบนก้อนหินใต้ลำธาร\\nนี่คือนวัตกรรมอันชาญฉลาด\\nที่ป้องกันไม่ให้ไข่ถูกโจมตี\\nหรือถูกกระแสน้ำพัดพาไป"}

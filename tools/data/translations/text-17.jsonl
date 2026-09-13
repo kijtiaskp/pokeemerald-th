@@ -1,0 +1,461 @@
+{"id": "data/text/tv.inc#TrendWatcher_Text_Outro", "th": "พิธีกร: …เอ่อ… ก็อย่างที่ได้ยินนะ เหล่าคนทันสมัยทั้งหลาย!\\p{STR_VAR_1} {STR_VAR_2}…เอ่อ… ไม่ได้ฮิตติดกระแสในเมืองมุโระเลยแฮะ!\\pหมดเวลาแล้ว ไว้เจอกันใหม่นะ!\\pคุณลุง: {STR_VAR_1} {STR_VAR_2}!$"}
+{"id": "data/text/tv.inc#gTVHoennTreasureInvestigatorsText00", "th": "นักล่าสมบัติแห่งโฮเอ็น!\\pสวัสดีทุกคน! ช่วงนี้ได้ไอเท็มลับกันบ้างหรือเปล่า?\\pเช่นเคย วันนี้เราจะมาตรวจสอบรายงานความลับจากผู้พบเห็นทั่วทุกสารทิศ!\\pเริ่มกันที่จดหมายฉบับแรก เขียนมาว่า “พบ {STR_VAR_1} แล้ว!”$"}
+{"id": "data/text/tv.inc#gTVHoennTreasureInvestigatorsText01", "th": "ว้าว จดหมายนี้ต้องดูให้ดีเลย! เดี๋ยวอ่านให้ฟังนะ\\p…ถึง ทีมนักล่าสมบัติ หวังว่าทุกคนสบายดี\\pเมื่อไม่นานมานี้ ฉันเห็น {STR_VAR_2} แถว ๆ {STR_VAR_3}\\pเทรนเนอร์คนนั้นเจอไอเท็ม {STR_VAR_1} น่าอิจฉาจริง ๆ\\p…เยี่ยมมาก {STR_VAR_2}!\\pท่านผู้ชม ขอให้เรื่องนี้เป็นแรงบันดาลใจ หยิบ ITEMFINDER ขึ้นมาแล้วออกตามหากันเลย!\\pจะรอข่าวสุดตื่นเต้นจากทุกคนนะ!$"}
+{"id": "data/text/tv.inc#gTVHoennTreasureInvestigatorsText02", "th": "ว้าว จดหมายนี้ต้องดูให้ดีเลย! เดี๋ยวอ่านให้ฟังนะ\\p…ถึง ทีมนักล่าสมบัติ หวังว่าทุกคนสบายดี\\pเมื่อไม่นานมานี้ ฉันเห็น {STR_VAR_2} บนเรือเฟอร์รี่\\pเทรนเนอร์คนนั้นเจอไอเท็ม {STR_VAR_1} น่าอิจฉาจริง ๆ\\p…เยี่ยมมาก {STR_VAR_2}!\\pท่านผู้ชม ขอให้เรื่องนี้เป็นแรงบันดาลใจ หยิบ ITEMFINDER ขึ้นมาแล้วออกตามหากันเลย!\\pจะรอข่าวสุดตื่นเต้นจากทุกคนนะ!$"}
+{"id": "data/text/tv.inc#gTVFindThatGamerText00", "th": "ตามหาสุดยอดนักเล่นเกม!\\pเฮ้ เหล่านักเล่นเกมทั้งหลาย! {STR_VAR_2} ของคุณหมุนติ้วอยู่หรือเปล่า?\\pเช่นเคย เราจะส่องสปอตไลต์ไปที่เทรนเนอร์สุดพิเศษที่แวะมาเกมคอร์เนอร์!\\pนักเล่นเกมอันดับ 1 ของวันนี้ก็คือ… {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVFindThatGamerText01", "th": "{STR_VAR_1} เล่นเกม {STR_VAR_2} และได้เหรียญมาถึง {STR_VAR_3} เหรียญ หาดูยากสุด ๆ!\\p“ถ้า {STR_VAR_1} มาเมื่อไหร่ ต้องเช็กให้ดีว่าเหรียญในร้านพอหรือเปล่า”\\pนี่คือเสียงบ่นของพนักงานเกมคอร์เนอร์ เวลานักเล่นของเราลงสนาม!\\pท่านผู้ชม ถ้าไปเล่นเกม {STR_VAR_2} ที่เกมคอร์เนอร์ ก็ดูแลเหรียญของตัวเองให้ดีเหมือน {STR_VAR_1} นะ\\pรายงานสดจากเกมคอร์เนอร์ ที่ที่คุณสัมผัสความตื่นเต้นได้เต็มที่!\\pวันนี้พอแค่นี้!$"}
+{"id": "data/text/tv.inc#gTVFindThatGamerText02", "th": "{STR_VAR_1} เล่นเกม {STR_VAR_2} และเสียเหรียญไป {STR_VAR_3} เหรียญ\\p“ถ้า {STR_VAR_1} มาเมื่อไหร่ ยอดขายเหรียญของเราดูจะพุ่งขึ้นทุกที”\\pนี่คือคำพูดของพนักงานเกมคอร์เนอร์ เวลานักเล่นของเราลงสนาม!$"}
+{"id": "data/text/tv.inc#gTVFindThatGamerText03", "th": "ท่านผู้ชม ถ้าไปเล่นเกม {STR_VAR_2} ที่เกมคอร์เนอร์ ก็ดูแลเหรียญของตัวเองให้ดีเหมือน {STR_VAR_1} นะ\\pรายงานสดจากเกมคอร์เนอร์ ที่ที่คุณสัมผัสความตื่นเต้นได้เต็มที่!\\pวันนี้พอแค่นี้!$"}
+{"id": "data/text/tv.inc#gTVBreakingNewsText00", "th": "ข่าวด่วนทางทีวี!$"}
+{"id": "data/text/tv.inc#gTVBreakingNewsText01", "th": "{STR_VAR_1} จับ {STR_VAR_2} หายากได้แล้ว!\\pเรากำลังรายงานสดจากบริเวณ {STR_VAR_3}!\\pเมื่อสักครู่นี้เอง {STR_VAR_1} จับ {STR_VAR_2} หายากได้สำเร็จที่นี่!$"}
+{"id": "data/text/tv.inc#gTVBreakingNewsText02", "th": "เมื่อ {STR_VAR_1} เจอกับ {STR_VAR_2} หายาก เทรนเนอร์ได้ส่งโปเกมอน {STR_VAR_3} ออกไป$"}
+{"id": "data/text/tv.inc#gTVBreakingNewsText03", "th": "ในการต่อสู้ครั้งนั้น เทรนเนอร์ขว้าง POKé BALL ไปทั้งหมด {STR_VAR_1} ลูก\\pและในที่สุด โปเกมอนหายากก็ถูกจับได้ด้วย {STR_VAR_2} ที่ขว้างเป็นลูกสุดท้าย$"}
+{"id": "data/text/tv.inc#gTVBreakingNewsText04", "th": "ในวินาทีนั้น เสียงร้องแห่งชัยชนะของ {STR_VAR_1} ก็ดังก้องไปทั่ว {STR_VAR_2}\\pบอกตามตรงว่าอิจฉา {STR_VAR_1} อยู่นิด ๆ อยากตะโกนดีใจแบบนั้นบ้างจัง\\p…ขอจบการถ่ายทอดสดจากบรรยากาศแห่งความสุขเพียงเท่านี้!$"}
+{"id": "data/text/tv.inc#gTVBreakingNewsText05", "th": "{STR_VAR_1} จับ {STR_VAR_2} หายากไม่สำเร็จ!\\pเรากำลังรายงานสดจากบริเวณ {STR_VAR_3}!\\pที่นี่เองที่ {STR_VAR_1} พลาดท่าจับ {STR_VAR_2} หายากไม่สำเร็จ!$"}
+{"id": "data/text/tv.inc#gTVBreakingNewsText06", "th": "เมื่อ {STR_VAR_1} เจอกับ {STR_VAR_2} หายาก เทรนเนอร์ได้ส่งโปเกมอน {STR_VAR_3} ออกไป$"}
+{"id": "data/text/tv.inc#gTVBreakingNewsText07", "th": "เทรนเนอร์สั่งให้ {STR_VAR_2} ใช้ท่า {STR_VAR_1}\\pโดยไม่ได้ตั้งใจ เทรนเนอร์ก็ทำให้โปเกมอนหายากหมดสภาพไปเสียแล้ว…$"}
+{"id": "data/text/tv.inc#gTVBreakingNewsText12", "th": "แต่ {STR_VAR_1} กลับตื่นตระหนกเมื่อเห็น {STR_VAR_2} หายาก\\pด้วยความสับสน เทรนเนอร์สั่งให้ {STR_VAR_3} โจมตี\\pโดยไม่ได้ตั้งใจ เทรนเนอร์ก็ทำให้โปเกมอนหายากหมดสภาพไป$"}
+{"id": "data/text/tv.inc#gTVBreakingNewsText08", "th": "ในวินาทีนั้น เสียงกรีดร้องด้วยความเจ็บใจของ {STR_VAR_1} ก็ดังก้องไปทั่ว {STR_VAR_2}…$"}
+{"id": "data/text/tv.inc#gTVBreakingNewsText09", "th": "แต่ดูเหมือน {STR_VAR_1} จะใช้ POKé BALL หมดเสียแล้ว\\pเทรนเนอร์จำต้องถอนตัวจากการต่อสู้กับ {STR_VAR_2} หายาก\\pในวินาทีนั้น เสียงกรีดร้องด้วยความเจ็บใจของ {STR_VAR_1} ก็ดังก้องไปทั่ว {STR_VAR_3}…$"}
+{"id": "data/text/tv.inc#gTVBreakingNewsText10", "th": "แต่ {STR_VAR_2} ก็หนีไปโดยไม่ทันตั้งตัว\\pในวินาทีนั้น เสียงกรีดร้องด้วยความเจ็บใจของ {STR_VAR_1} ก็ดังก้องไปทั่ว {STR_VAR_3}…$"}
+{"id": "data/text/tv.inc#gTVBreakingNewsText11", "th": "บอกตามตรงว่าเห็นใจ {STR_VAR_1} จริง ๆ ขนาดตัวเองยังอยากกรีดร้องตามเลย\\p…ขอจบการถ่ายทอดสดจากบรรยากาศอันแสนเศร้าเพียงเท่านี้!$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText00", "th": "สวัสดีทุกท่าน! ได้เวลาของรายการเยือนฐานลับอีกครั้งแล้ว\\pวันนี้เราจะไปเยือนฐานลับของ {STR_VAR_1}\\p{STR_VAR_1} ตกแต่งฐานลับไว้อย่างไรบ้างนะ?\\pไปดูกันเลย! … … … … … …$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText01", "th": "โอ้! ช่างวิเศษเหลือเกิน!\\p{STR_VAR_2} ชิ้นนี้… ไม่มีใครคาดคิดว่าจะได้เจอที่นี่เลย!$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText02", "th": "โอ้! น่าทึ่งเหลือเกิน!\\pไม่มีเฟอร์นิเจอร์หรือของตกแต่งแม้แต่ชิ้นเดียว!\\pคนธรรมดาไม่มีทางเลียนแบบความกล้าแบบนี้ได้แน่!\\pเรียบง่าย แต่อัดแน่น ใช่แล้ว อัดแน่นไปด้วยความดิบเถื่อน!\\pขอคารวะเลย {STR_VAR_1} ต้องเป็นคุณเท่านั้นถึงจะทำได้!$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText03", "th": "โอ้! เข้าใจแล้ว! เข้าใจแจ่มแจ้งเลย!\\p{STR_VAR_2} ที่วางอยู่ตรงนี้… สื่อสารได้ทรงพลังมาก!$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText04", "th": "โอ้! เข้าใจแล้ว! เข้าใจแจ่มแจ้งเลย!\\pพื้นที่นี้ตั้งใจเว้นว่างไว้ ไม่วางของตกแต่งเลย!\\pสื่อสารได้ทรงพลังมาก!$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText05", "th": "ว้าววววว!\\pการจับคู่ {STR_VAR_2} กับ {STR_VAR_3}!\\pนี่แหละคู่ในฝันของจริง!$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText06", "th": "ว้าววววว!\\pการวาง {STR_VAR_2} ไว้ตรงนี้…\\pช่างมีพลังแผ่ไปทั่วทั้งฐานลับ!$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText07", "th": "ว้าววววว!\\pที่นี่ไม่มีอะไรวางไว้เลย\\pพื้นที่ว่างเปล่านี้ส่งผลต่อบรรยากาศของฐานลับทั้งหมด$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText08", "th": "โอ้! {STR_VAR_1} มาแล้ว! ขอท้าประลองกับเทรนเนอร์คนนี้หน่อย!\\p… … … … … … … … … … … …$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText09", "th": "เฮ้อ… ต้องยอมรับในฝีมือของ {STR_VAR_1} จริง ๆ\\pโปเกมอนของเทรนเนอร์คนนี้คู่ควรกับตำแหน่งแชมเปี้ยนอย่างแท้จริง\\pเป็นหลักฐานชั้นดีถึงความแข็งแกร่งของ {STR_VAR_1} ในฐานะเทรนเนอร์\\pการที่ {STR_VAR_2} รู้จักท่า {STR_VAR_3}…\\pแสดงให้เห็นว่า {STR_VAR_1} เป็นเทรนเนอร์แบบไหน\\pเป็นบทเรียนที่มีค่ามากจริง ๆ!$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText10", "th": "อ๊ายยย! ต้องยอมรับในฝีมือของ {STR_VAR_1} จริง ๆ\\pโปเกมอนของเทรนเนอร์คนนี้แกร่งอย่างกับสัตว์ประหลาด!\\pเป็นหลักฐานชั้นดีถึงความทรหดของ {STR_VAR_1} ในฐานะเทรนเนอร์\\pการที่ {STR_VAR_2} รู้จักท่า {STR_VAR_3}…\\pแสดงให้เห็นว่า {STR_VAR_1} เป็นเทรนเนอร์แบบไหน\\pเป็นบทเรียนที่มีค่ามากจริง ๆ!$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText11", "th": "ว้าววววว! ต้องยอมรับในฝีมือของ {STR_VAR_1} จริง ๆ\\pโปเกมอนของเทรนเนอร์คนนี้ได้รับการเลี้ยงดูอย่างสมดุลเห็นได้ชัด\\pเป็นหลักฐานชั้นดีถึงความใส่ใจของ {STR_VAR_1} ในฐานะเทรนเนอร์\\pการที่ {STR_VAR_2} รู้จักท่า {STR_VAR_3}…\\pแสดงให้เห็นว่า {STR_VAR_1} เป็นเทรนเนอร์แบบไหน\\pเป็นบทเรียนที่มีค่ามากจริง ๆ!$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText12", "th": "แหม แหม! ต้องยอมรับในฝีมือของ {STR_VAR_1} จริง ๆ\\pโปเกมอนของเทรนเนอร์คนนี้มีแววจะเติบโตได้อีกไกล\\pสะท้อนถึงความหวังและความฝันของ {STR_VAR_1}\\pการที่ {STR_VAR_2} รู้จักท่า {STR_VAR_3}…\\pแสดงให้เห็นว่า {STR_VAR_1} เป็นเทรนเนอร์แบบไหน\\pเป็นบทเรียนที่มีค่ามากจริง ๆ!$"}
+{"id": "data/text/tv.inc#gTVSecretBaseVisitText13", "th": "ต้องบอกเลยว่าเป็นฐานลับที่ยอดเยี่ยมมาก!\\pท่านผู้ชม ถ้ามีโอกาส ลองแวะไปเยือนฐานลับของ {STR_VAR_1} ดูนะ\\pแล้วพบกันใหม่ ขอลาไปก่อน!$"}
+{"id": "data/text/tv.inc#gTVPokemonLotteryWinnerFlashReportText00", "th": "ตื่นเต้น! เร้าใจ!\\pนี่คือรายงานด่วนผู้ถูกลอตเตอรี่โปเกมอน!\\pสวัสดี! เรากำลังรายงานสดจากมุมลอตเตอรี่โปเกมอน ชั้นล่างของห้างสรรพสินค้ามินาโมะ!\\pวันนี้ก็มีเทรนเนอร์ผู้โชคดีปรากฏตัวขึ้นอีกคนเช่นเคย!\\pชื่อของเทรนเนอร์คนนั้นคือ… {STR_VAR_1}!\\p{STR_VAR_1} ถูกรางวัล{STR_VAR_2} และได้ {STR_VAR_3} กลับบ้านไป!\\p{STR_VAR_1}! ขอแสดงความยินดีด้วย!\\pท่านผู้ชม อย่ามัวแต่ดู มาร่วมลุ้นกันเถอะ!\\pพวกเราทุกคนที่ห้างสรรพสินค้ามินาโมะ รอต้อนรับคุณอยู่นะ!\\pนี่คือการถ่ายทอดสดจากห้างสรรพสินค้ามินาโมะ ศูนย์รวมสินค้าครบครันที่สุดในโฮเอ็น!$"}
+{"id": "data/text/tv.inc#gTVThePokemonBattleSeminarText00", "th": "สัมมนาการต่อสู้โปเกมอน!\\pเราจะมาวิเคราะห์การต่อสู้ เพื่อเรียนรู้บทเรียนจากผู้อื่น\\pกรณีศึกษาวันนี้คือการต่อสู้ของ {STR_VAR_1}\\p{STR_VAR_2} ของ {STR_VAR_1} กำลังต่อสู้กับ {STR_VAR_3}…$"}
+{"id": "data/text/tv.inc#gTVThePokemonBattleSeminarText01", "th": "และมันใช้ท่า {STR_VAR_3} ใส่ {STR_VAR_2}…\\pอืม… {STR_VAR_1}! แบบนั้นผิดถนัดเลย!$"}
+{"id": "data/text/tv.inc#gTVThePokemonBattleSeminarText02", "th": "นอกจากท่าที่พาไปสู่หายนะนั้น {STR_VAR_1} ของเทรนเนอร์ยังรู้จัก$"}
+{"id": "data/text/tv.inc#gTVThePokemonBattleSeminarText03", "th": "ท่า {STR_VAR_1}, {STR_VAR_2} และ {STR_VAR_3} ด้วย$"}
+{"id": "data/text/tv.inc#gTVThePokemonBattleSeminarText04", "th": "ท่า {STR_VAR_1} และ {STR_VAR_2} ด้วย$"}
+{"id": "data/text/tv.inc#gTVThePokemonBattleSeminarText05", "th": "ท่า {STR_VAR_2} ด้วย$"}
+{"id": "data/text/tv.inc#gTVThePokemonBattleSeminarText06", "th": "ถ้าอย่างนั้น ในสถานการณ์นี้ เทรนเนอร์ควรใช้ท่าอะไร?\\p… … … … … … ท่า {STR_VAR_1} นั่นเอง!\\pท่า {STR_VAR_1} ดีกว่า {STR_VAR_2} อย่างเทียบไม่ติด!\\pท่านผู้ชม ขอให้เรียนรู้จากกรณีนี้ แล้วต่อสู้อย่างชาญฉลาด!\\pแล้วพบกันใหม่ สวัสดี!$"}
+{"id": "data/text/tv.inc#gTVTrainerFanClubText00", "th": "ทุกคนพร้อมกัน! แฟนคลับเทรนเนอร์!\\pพิธีกร: ทุกคนมันส์กันอยู่ไหม? วันนี้เรารวบรวมแฟน ๆ ของเทรนเนอร์สุดฮอต {STR_VAR_1} มาไว้ที่นี่!\\pแฟนคลับ: ว้าาาาาาาาาา!\\pแฟนคลับ: {STR_VAR_1}!\\pพิธีกร: ทุกคน! ชอบ {STR_VAR_1} กันไหม?!\\pแฟนคลับ: รัก {STR_VAR_1} ที่สุด!\\pพิธีกร: ชอบอะไรใน {STR_VAR_1} กันบ้าง?!$"}
+{"id": "data/text/tv.inc#gTVTrainerFanClubText01", "th": "แฟนคลับ: ท่าขว้าง POKé BALL สุดเท่!$"}
+{"id": "data/text/tv.inc#gTVTrainerFanClubText02", "th": "แฟนคลับ: ท่าวิ่งสุดน่ารัก!$"}
+{"id": "data/text/tv.inc#gTVTrainerFanClubText03", "th": "แฟนคลับ: ยิ่งเจอศึกหนัก ยิ่งแกร่งขึ้น!$"}
+{"id": "data/text/tv.inc#gTVTrainerFanClubText04", "th": "แฟนคลับ: ความรู้เรื่องโปเกมอน!$"}
+{"id": "data/text/tv.inc#gTVTrainerFanClubText05", "th": "แฟนคลับ: ความใจดีต่อโปเกมอนทุกตัว!$"}
+{"id": "data/text/tv.inc#gTVTrainerFanClubText06", "th": "แฟนคลับ: ฝีมือขี่จักรยานสุดเจ๋ง!$"}
+{"id": "data/text/tv.inc#gTVTrainerFanClubText07", "th": "แฟนคลับ: สไตล์การซื้อไอเท็มสุดเท่!$"}
+{"id": "data/text/tv.inc#gTVTrainerFanClubText08", "th": "แฟนคลับ: การตั้งชื่อเล่นให้โปเกมอนแสนน่ารัก!$"}
+{"id": "data/text/tv.inc#gTVTrainerFanClubText09", "th": "แฟนคลับ: สไตล์ตกแต่งฐานลับสุดเก๋!$"}
+{"id": "data/text/tv.inc#gTVTrainerFanClubText10", "th": "แฟนคลับ: การใช้ TM อย่างกล้าได้กล้าเสีย!$"}
+{"id": "data/text/tv.inc#gTVTrainerFanClubText11", "th": "พิธีกร: อย่างที่เห็น {STR_VAR_1} ฮอตสุด ๆ! ร้อนแรงจนแตะไม่ได้เลย โอ้โห!\\pในหมู่แฟนคลับของ {STR_VAR_1} มีสโลแกนพิเศษอยู่ด้วย!\\pพิธีกร: ถ้าพูดว่า {STR_VAR_1} ทุกคนตอบว่า…\\pแฟนคลับ: {STR_VAR_2}!\\pแฟนคลับ: {STR_VAR_3}!\\pแฟนคลับ: {STR_VAR_2}!\\pแฟนคลับ: {STR_VAR_3}!\\pพิธีกร: ใช่แล้ว เวลามีคนพูดว่า “{STR_VAR_1}”…\\pให้ตอบกลับไปว่า “{STR_VAR_2} {STR_VAR_3}!”\\pฟังแล้วติดหูจริง ๆ! เข้าใจเลยว่าทำไมคนถึงกลายเป็นแฟนคลับของ {STR_VAR_1}!\\pเอาล่ะ คุณที่อยู่หน้าจอทีวี มาร่วมกันเลย! ทุกคนพร้อมกัน!\\pพิธีกร: ถ้าพูดว่า {STR_VAR_1} ทุกคนตอบว่า…\\pแฟนคลับ: {STR_VAR_2}!\\pแฟนคลับ: {STR_VAR_3}!\\pแฟนคลับ: {STR_VAR_2}!\\pแฟนคลับ: {STR_VAR_3}!\\pพิธีกร: ขอบคุณแฟนคลับสุดมันส์ของ {STR_VAR_1} ทุกคน! รายการวันนี้จบลงแล้ว แล้วพบกันใหม่!\\pพิธีกร: ถ้าพูดว่า {STR_VAR_1} ทุกคนตอบว่า…\\pแฟนคลับ: {STR_VAR_2}!\\pแฟนคลับ: {STR_VAR_3}!$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_Intro", "th": "ส่องความน่ารัก! โปเกมอนติดริบบิ้น!\\pสวัสดีท่านผู้ชมที่น่ารักทุกคน!\\pทุกคนต้องเห็นด้วยแน่ ๆ ว่าโปเกมอนที่ติดริบบิ้นนั้นงดงามสุด ๆ!\\pวันนี้อยากแนะนำโปเกมอนแสนน่ารักที่เจอระหว่างเดินเล่นในเมือง\\pโปเกมอนน่ารักประจำวันนี้คือ {STR_VAR_2} ของ {STR_VAR_1}$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonsLow", "th": "{STR_VAR_2} ติดริบบิ้นอยู่ {STR_VAR_3} อัน\\pแสดงให้เห็นว่า {STR_VAR_1} รักโปเกมอนตัวนี้มากแค่ไหน$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonsMid", "th": "{STR_VAR_2} ติดริบบิ้นมากถึง {STR_VAR_3} อัน สุดยอดไปเลย!\\pแสดงให้เห็นถึงความทุ่มเทที่ {STR_VAR_1} มีต่อโปเกมอนตัวนี้!$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonsHigh", "th": "{STR_VAR_2} ติดริบบิ้นมากถึง {STR_VAR_3} อัน เหลือเชื่อจริง ๆ!\\pแสดงให้เห็นว่า {STR_VAR_1} ทุ่มเทให้การสะสมอย่างเต็มที่!$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonIntro", "th": "มาดูริบบิ้นมากมายที่ {STR_VAR_2} ติดอยู่ให้ใกล้ขึ้นอีกหน่อยกันเถอะ$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonChampion", "th": "ริบบิ้นแชมเปี้ยนนั้นงามเด่นเป็นพิเศษ\\p{STR_VAR_2} ได้รับมาตอนขึ้นหอเกียรติยศ\\pช่วยขับความกล้าหาญของ {STR_VAR_2} ให้โดดเด่นขึ้นจริง ๆ\\p{STR_VAR_2} กับริบบิ้นแชมเปี้ยน! คู่นี้ได้ผลดีเยี่ยม!$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonCool", "th": "ริบบิ้นเท่นั้นงามเด่นเป็นพิเศษ\\p{STR_VAR_2} ได้รับมาจากการชนะคอนเทสต์ความเท่\\pช่วยขับความเท่ของ {STR_VAR_2} ให้โดดเด่นขึ้นจริง ๆ\\p{STR_VAR_2} กับริบบิ้นเท่! คู่นี้ได้ผลดีเยี่ยม!$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonBeauty", "th": "ริบบิ้นสวยนั้นงามเด่นเป็นพิเศษ\\p{STR_VAR_2} ได้รับมาจากการชนะคอนเทสต์ความสวย\\pช่วยขับความสวยของ {STR_VAR_2} ให้โดดเด่นขึ้นจริง ๆ\\p{STR_VAR_2} กับริบบิ้นสวย! คู่นี้ได้ผลดีเยี่ยม!$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonCute", "th": "ริบบิ้นน่ารักนั้นงามเด่นเป็นพิเศษ\\p{STR_VAR_2} ได้รับมาจากการชนะคอนเทสต์ความน่ารัก\\pช่วยขับความน่ารักของ {STR_VAR_2} ให้โดดเด่นขึ้นจริง ๆ\\p{STR_VAR_2} กับริบบิ้นน่ารัก! คู่นี้ได้ผลดีเยี่ยม!$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonSmart", "th": "ริบบิ้นฉลาดนั้นงามเด่นเป็นพิเศษ\\p{STR_VAR_2} ได้รับมาจากการชนะคอนเทสต์ความฉลาด\\pช่วยขับความฉลาดของ {STR_VAR_2} ให้โดดเด่นขึ้นจริง ๆ\\p{STR_VAR_2} กับริบบิ้นฉลาด! คู่นี้ได้ผลดีเยี่ยม!$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonTough", "th": "ริบบิ้นแกร่งนั้นงามเด่นเป็นพิเศษ\\p{STR_VAR_2} ได้รับมาจากการชนะคอนเทสต์ความแกร่ง\\pช่วยขับความแกร่งของ {STR_VAR_2} ให้โดดเด่นขึ้นจริง ๆ\\p{STR_VAR_2} กับริบบิ้นแกร่ง! คู่นี้ได้ผลดีเยี่ยม!$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonWinning", "th": "ริบบิ้นชัยชนะนั้นงามเด่นเป็นพิเศษ\\p{STR_VAR_2} ได้รับมาจากผลงานที่แบทเทิลทาวเวอร์\\pช่วยขับความทรงพลังของ {STR_VAR_2} ให้โดดเด่นขึ้นจริง ๆ\\p{STR_VAR_2} กับริบบิ้นชัยชนะ! คู่นี้ได้ผลดีเยี่ยม!$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonVictory", "th": "ริบบิ้นวิกตอรีนั้นงามเด่นเป็นพิเศษ\\p{STR_VAR_2} ได้รับมาจากผลงานที่แบทเทิลทาวเวอร์\\pช่วยขับความทรงพลังอันเหลือเชื่อของ {STR_VAR_2} ให้โดดเด่นขึ้นจริง ๆ\\p{STR_VAR_2} กับริบบิ้นวิกตอรี! คู่นี้ได้ผลดีเยี่ยม!$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonArtist", "th": "ริบบิ้นศิลปินนั้นงามเด่นเป็นพิเศษ\\p{STR_VAR_2} ได้รับมาจากการเป็นแบบให้ศิลปิน\\pช่วยขับเสน่ห์ซูเปอร์สตาร์ของ {STR_VAR_2} ให้โดดเด่นขึ้นจริง ๆ\\p{STR_VAR_2} กับริบบิ้นศิลปิน! คู่นี้ได้ผลดีเยี่ยม!$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_RibbonEffort", "th": "ริบบิ้นขยันนั้นงามเด่นเป็นพิเศษ\\p{STR_VAR_2} ได้รับมาจากการฝึกฝนอย่างทุ่มเทเป็นพิเศษ\\pช่วยขับความมุ่งมั่นของ {STR_VAR_2} ให้โดดเด่นขึ้นจริง ๆ\\p{STR_VAR_2} กับริบบิ้นขยัน! คู่นี้ได้ผลดีเยี่ยม!$"}
+{"id": "data/text/tv.inc#TVSpotTheCuties_Text_Outro", "th": "…เฮ้อ…\\pริบบิ้นกับโปเกมอน… ช่างเข้ากันได้อย่างวิเศษ!\\pก่อนจะเป็นลมไปเสียก่อน ขอลาทุกคนตรงนี้!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText00", "th": "สวัสดี! ได้เวลาของข่าวโปเกมอนแล้ว\\pวันนี้มีข่าวดีจากแบทเทิลฟรอนเทียร์มาฝาก$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText01", "th": "เทรนเนอร์ {STR_VAR_1} สร้างสถิติใหม่ ชนะรวด {STR_VAR_2} ครั้ง ในการท้าทายห้องซิงเกิลแบทเทิลของแบทเทิลทาวเวอร์\\pขอแสดงความยินดีกับ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText02", "th": "เทรนเนอร์ {STR_VAR_1} สร้างสถิติใหม่ ชนะรวด {STR_VAR_2} ครั้ง ในการท้าทายห้องดับเบิลแบทเทิลของแบทเทิลทาวเวอร์\\pขอแสดงความยินดีกับ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText03", "th": "เทรนเนอร์ {STR_VAR_1} สร้างสถิติใหม่ ชนะรวด {STR_VAR_2} ครั้ง ในการท้าทายห้องมัลติแบทเทิลของแบทเทิลทาวเวอร์\\pขอแสดงความยินดีกับ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText04", "th": "เทรนเนอร์ {STR_VAR_1} สร้างสถิติใหม่ ชนะรวด {STR_VAR_2} ครั้ง ในการท้าทายห้องลิงก์มัลติแบทเทิลของแบทเทิลทาวเวอร์\\pขอแสดงความยินดีกับ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText05", "th": "เทรนเนอร์ {STR_VAR_1} สร้างสถิติใหม่ คว้าแชมป์ติดต่อกัน {STR_VAR_2} สมัย ในทัวร์นาเมนต์ซิงเกิลแบทเทิลของแบทเทิลโดม\\pขอแสดงความยินดีกับ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText06", "th": "เทรนเนอร์ {STR_VAR_1} สร้างสถิติใหม่ คว้าแชมป์ติดต่อกัน {STR_VAR_2} สมัย ในทัวร์นาเมนต์ดับเบิลแบทเทิลของแบทเทิลโดม\\pขอแสดงความยินดีกับ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText07", "th": "เทรนเนอร์ {STR_VAR_1} สร้างสถิติใหม่ ชนะรวด {STR_VAR_2} ครั้ง ในการท้าทายแบทเทิลสวอปแบบซิงเกิลของแบทเทิลแฟคทอรี\\pขอแสดงความยินดีกับ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText08", "th": "เทรนเนอร์ {STR_VAR_1} สร้างสถิติใหม่ ชนะรวด {STR_VAR_2} ครั้ง ในการท้าทายแบทเทิลสวอปแบบดับเบิลของแบทเทิลแฟคทอรี\\pขอแสดงความยินดีกับ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText09", "th": "เทรนเนอร์ {STR_VAR_1} สร้างสถิติใหม่ ผ่านไปได้ {STR_VAR_2} ห้อง ในการท้าทายแบทเทิลช้อยส์ของแบทเทิลไพค์\\pขอแสดงความยินดีกับ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText10", "th": "เทรนเนอร์ {STR_VAR_1} สร้างสถิติใหม่ ชนะรวด {STR_VAR_2} ครั้ง ในทัวร์นาเมนต์เซ็ต KO ของแบทเทิลอารีนา\\pขอแสดงความยินดีกับ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText11", "th": "เทรนเนอร์ {STR_VAR_1} สร้างสถิติใหม่ ชนะรวด {STR_VAR_2} ครั้ง ในการท้าทายโถงซิงเกิลแบทเทิลของแบทเทิลพาเลซ\\pขอแสดงความยินดีกับ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText12", "th": "เทรนเนอร์ {STR_VAR_1} สร้างสถิติใหม่ ชนะรวด {STR_VAR_2} ครั้ง ในการท้าทายโถงดับเบิลแบทเทิลของแบทเทิลพาเลซ\\pขอแสดงความยินดีกับ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText13", "th": "เทรนเนอร์ {STR_VAR_1} สร้างสถิติใหม่ ผ่านไปได้ {STR_VAR_2} ชั้น ในการท้าทายแบทเทิลเควสต์ของแบทเทิลพีระมิด\\pขอแสดงความยินดีกับ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText14", "th": "และแด่โปเกมอนทั้งสามตัว {STR_VAR_1}, {STR_VAR_2} และ {STR_VAR_3}!\\pขอแสดงความยินดีกับผลงานทำลายสถิติ!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText15", "th": "และแด่โปเกมอนทั้งสองตัว {STR_VAR_1} และ {STR_VAR_2}!\\pขอแสดงความยินดีกับผลงานทำลายสถิติ!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText16", "th": "และแด่โปเกมอนทั้งสี่ตัว: {STR_VAR_1}!\\p{STR_VAR_2}!\\p{STR_VAR_3}!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText17", "th": "และ {STR_VAR_1}!\\pขอแสดงความยินดีกับผลงานทำลายสถิติ!$"}
+{"id": "data/text/tv.inc#gTVPokemonNewsBattleFrontierText18", "th": "หวังว่าจะได้เห็นผลงานทำลายสถิติจาก {STR_VAR_1} และโปเกมอนคู่ใจอีกเรื่อย ๆ!\\pนี่คือข่าวจากรายการข่าวโปเกมอน!$"}
+{"id": "data/text/tv.inc#gTVWhatsNo1InHoennTodayText00", "th": "วันนี้ใครเป็นที่ 1 ในโฮเอ็น? ใช่แล้ว ได้เวลานั้นอีกแล้ว!\\pสวัสดีท่านผู้ชม! ทุกคนทำทุกอย่างเต็มที่กันอยู่หรือเปล่า?\\pมาดูเทรนเนอร์ที่ทำได้ดีที่สุดในวันนี้กันเถอะ!\\pเทรนเนอร์อันดับ 1 ของวันนี้ ไม่ใช่ใครอื่น {STR_VAR_1} นั่นเอง!$"}
+{"id": "data/text/tv.inc#gTVWhatsNo1InHoennTodayText01", "th": "ในวันเดียว {STR_VAR_1} หมุนสล็อตที่เกมคอร์เนอร์ไปถึง {STR_VAR_2} ครั้ง\\pระหว่างเล่น มีคนได้ยิน {STR_VAR_1} พึมพำว่า “พอเป็นเรา วงล้อไม่ยอมขยับเลย…” น่าสนใจจริงไหม?$"}
+{"id": "data/text/tv.inc#gTVWhatsNo1InHoennTodayText02", "th": "ในวันเดียว {STR_VAR_1} เล่นรูเล็ตที่เกมคอร์เนอร์ไปถึง {STR_VAR_2} ครั้ง\\pระหว่างเล่น {STR_VAR_1} ตะโกนว่า “ปล่อยให้ลูกบอลตัดสินเลย!”\\pแววตาของเทรนเนอร์จดจ่อ ใบหน้าเต็มไปด้วยสมาธิ$"}
+{"id": "data/text/tv.inc#gTVWhatsNo1InHoennTodayText03", "th": "ในวันเดียว {STR_VAR_1} ต่อสู้กับโปเกมอนป่าไปถึง {STR_VAR_2} ครั้ง!\\pดูเหมือนว่าโปเกมอนของ {STR_VAR_1} จะแข็งแกร่งขึ้นอย่างเทียบไม่ติด\\pพวกมันพร้อมจะสู้ทุกที่ ทุกเวลา ทุกรูปแบบ!$"}
+{"id": "data/text/tv.inc#gTVWhatsNo1InHoennTodayText04", "th": "ในวันเดียว {STR_VAR_1} หมุนเครื่องปั่นเบอร์รี่ไปถึง {STR_VAR_2} ครั้ง!\\pช่วงท้าย ๆ ขนาด {STR_VAR_1} เองก็ดูจะเวียนหัว\\pเทรนเนอร์เดินโซเซไปมาเหมือนพัทชีลเลย!$"}
+{"id": "data/text/tv.inc#gTVWhatsNo1InHoennTodayText05", "th": "ในวันเดียว {STR_VAR_1} ปลูกเบอร์รี่ไปถึง {STR_VAR_2} ต้น!\\pผลก็คือ เสื้อผ้าของ {STR_VAR_1} เปื้อนดินมอมแมมไปหมด\\pทุกที่ที่เทรนเนอร์ปลูก ดอกไม้นับไม่ถ้วนก็ผลิบาน\\pว่ากันว่าดอกไม้เหล่านั้นช่วยให้จิตใจผู้คนสงบลง$"}
+{"id": "data/text/tv.inc#gTVWhatsNo1InHoennTodayText06", "th": "ในวันเดียว {STR_VAR_1} เก็บเบอร์รี่ไปถึง {STR_VAR_2} ลูก!\\pกระเป๋าของ {STR_VAR_1} เต็มไปด้วยเบอร์รี่ จนเทรนเนอร์เดินแทบไม่ไหว!$"}
+{"id": "data/text/tv.inc#gTVWhatsNo1InHoennTodayText07", "th": "ในวันเดียว {STR_VAR_1} ได้แบทเทิลพอยต์มาถึง {STR_VAR_2} แต้ม!\\pหลังจากนั้นมีคนเห็น {STR_VAR_1} กำลังลังเลว่าจะแลกแบทเทิลพอยต์เป็นไอเท็มเจ๋ง ๆ หรือของตกแต่งเก๋ ๆ ดี\\pว่ากันว่าเทรนเนอร์ยิ้มไม่หุบระหว่างชั่งใจ$"}
+{"id": "data/text/tv.inc#gTVWhatsNo1InHoennTodayText08", "th": "ช่างน่าทึ่งจริง ๆ!\\p{STR_VAR_1}! คุณคือเทรนเนอร์อันดับ 1 ของวันนี้!\\pท่านผู้ชม เอา {STR_VAR_1} เป็นแรงบันดาลใจ! คุณเองก็เป็นที่ 1 ได้ทุกวัน!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_Intro", "th": "เจาะลึกความลับฐานลับ!\\pเทรนเนอร์ทำอะไรกันในฐานลับที่ไม่มีใครเห็น?\\pวันนี้เราจะไปสำรวจฐานลับของ {STR_VAR_1}\\pอ้าว? ดูเหมือนว่า {STR_VAR_2} จะมาเยี่ยมพอดี\\pไปแอบดูกันเถอะ!\\p{STR_VAR_2} จะทำอะไรนะ?$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_WhatWillPlayerDoNext1", "th": "{STR_VAR_2} จะทำอะไรต่อไป?$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_WhatWillPlayerDoNext2", "th": "แล้วคราวนี้ {STR_VAR_2} จะทำอะไรนะ?$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_TookXStepsBeforeLeaving", "th": "สุดท้าย {STR_VAR_2} เดินไป {STR_VAR_3} ก้าวในฐานลับของ {STR_VAR_1} ก่อนจะกลับไป$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_BaseFailedToInterestPlayer", "th": "อืม…\\pดูเหมือนว่าฐานลับของ {STR_VAR_1} จะไม่ถูกใจ {STR_VAR_2} เลย…$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_PlayerEnjoyedBase", "th": "ดูเหมือนว่า {STR_VAR_2} จะสนุกกับฐานลับของ {STR_VAR_1} อย่างเต็มที่$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_PlayerHugeFanOfBase", "th": "ดูเหมือนว่า {STR_VAR_2} จะกลายเป็นแฟนตัวยงของฐานลับของ {STR_VAR_1} ไปแล้ว$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_Outro", "th": "ท่านผู้ชมเองก็ลองไปเยี่ยมชมฐานลับของ {STR_VAR_1} ดูได้นะ\\pคราวหน้าเราจะไปเยือนฐานลับแห่งอื่น ติดตามชมกันด้วย! ขอบคุณที่รับชม!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_StoppedMoving1", "th": "ผู้มาเยือนหยุดแล้ว!\\pผู้มาเยือนไม่ขยับเลย!\\pฐานลับของ {STR_VAR_1} น่าเบื่อขนาดนั้นเลยเหรอ?$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_StoppedMoving2", "th": "ผู้มาเยือนหยุดแล้ว!\\pผู้มาเยือนไม่ขยับเลย!\\pเหนื่อยหรือเปล่า? ผู้มาเยือนหมดแรงแล้วเหรอ?$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedChair", "th": "ผู้มาเยือนนั่งลงบนเก้าอี้! นั่งเรียบร้อยแล้ว!\\pดูสีหน้าปลื้มปริ่มนั่นสิ!\\pเก้าอี้ตัวนั้นต้องนั่งสบายมากแน่ ๆ!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedBalloon", "th": "ผู้มาเยือนพุ่งเข้าใส่ลูกโป่ง!\\pแตกแล้ว! ตายจริง ระเบิดดังโพละเลย!\\pผู้มาเยือนดูตกใจกับเสียงดังกะทันหัน!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedTent", "th": "ผู้มาเยือนเข้าไปในเต็นท์!\\pผู้มาเยือนวิ่งไปวิ่งมา!\\pโอ้โห ผู้มาเยือนกระโดดโลดเต้นอย่างสนุกสนาน!\\pผู้มาเยือนดูทึ่งกับขนาดของเต็นท์!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedPlant", "th": "ผู้มาเยือนกำลังพินิจกระถางต้นไม้!\\pผู้มาเยือนมีรสนิยมเป็นผู้ใหญ่เกินคาด!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedGoldShield", "th": "ผู้มาเยือนกำลังพินิจโล่ทอง!\\pดวงตาของผู้มาเยือนเป็นประกายด้วยความทึ่ง!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedSilverShield", "th": "ผู้มาเยือนกำลังพินิจโล่เงิน!\\pผู้มาเยือนตาโตเลย!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedGlassOrnament", "th": "ผู้มาเยือนกำลังพินิจรูปปั้นแก้ว!\\pตายแล้ว!\\pผู้มาเยือนเอามือไปจับ!\\pรอยนิ้วมือเต็มไปหมดแล้ว…$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedTV", "th": "ผู้มาเยือนกำลังดูโทรทัศน์!\\pดูเหมือนเราจะมีแฟนตัวยงของทีวีอยู่ที่นี่!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedMudBall", "th": "ผู้มาเยือนกระทืบก้อนโคลน!\\pผู้มาเยือนดูมีความสุขมาก!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedBag", "th": "…อ้าว?\\pผู้มาเยือนล้วงกระเป๋าของตัวเองแล้วคุ้ยหาอะไรบางอย่าง!\\pผู้มาเยือนหยิบ {STR_VAR_2} ออกมาหนึ่งชิ้น!\\pดูรอยยิ้มของผู้มาเยือนตอนชู {STR_VAR_2} ขึ้นมาสิ!\\pเหมือนโฆษณาทีวีเลย!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedCushion", "th": "ผู้มาเยือนคว้าเบาะรองนั่งแล้ว…$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_HitCushion", "th": "…เริ่มทุบมัน!\\pผู้มาเยือนเครียดจัดอยู่หรือเปล่า?$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_HuggedCushion", "th": "…กอดไว้แน่น!\\pผู้มาเยือนกำลังมีความสุขกับเรื่องอะไรอยู่หรือเปล่า?$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_BattledWon", "th": "ผู้มาเยือนกำลังคุยกับ {STR_VAR_1}!\\pดูเหมือนว่าจะมีการต่อสู้เกิดขึ้น!\\pและ…\\pผู้มาเยือนนั่นเอง! ผู้มาเยือนชนะในเกมเยือน!\\pผู้มาเยือนกำลังเต้นฉลองชัยชนะ!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_BattledLost", "th": "ผู้มาเยือนกำลังคุยกับ {STR_VAR_1}!\\pดูเหมือนว่าจะมีการต่อสู้เกิดขึ้น!\\pและ…\\p{STR_VAR_1} นั่นเอง! ผู้มาเยือนแพ้แล้ว!\\pผู้มาเยือนดูหงอยเหงา!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_DeclinedBattle", "th": "ผู้มาเยือนกำลังคุยกับ {STR_VAR_1}!\\pดูเหมือนว่าจะมีการต่อสู้เกิดขึ้น!\\pและ…\\pไม่นะ ผู้มาเยือนปฏิเสธ!\\pสุดท้ายก็ไม่มีการต่อสู้!\\pผู้มาเยือนไม่ถูกชะตากับ {STR_VAR_1} หรือเปล่า?$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedPoster", "th": "ผู้มาเยือนจ้องมองโปสเตอร์อย่างตั้งใจ!\\pโปสเตอร์ถูกใจผู้มาเยือนหรือเปล่า?\\p…แต่… สายตาของผู้มาเยือนดูน่าขนลุกชอบกล$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedNoteMat", "th": "ผู้มาเยือนเหยียบพรมโน้ตดนตรี!\\p…อืม… ผู้มาเยือนแต่งเพลงตลก ๆ ขึ้นมาได้!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_BattledDraw", "th": "ผู้มาเยือนกำลังคุยกับ {STR_VAR_1}!\\pดูเหมือนว่าจะมีการต่อสู้เกิดขึ้น!\\pและ…\\pเสมอกัน! ไม่มีใครแพ้ชนะ!\\pเทรนเนอร์ทั้งสองดูผิดหวังมาก!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedSpinMat", "th": "ผู้มาเยือนเหยียบพรมหมุน!\\pดูเหมือนผู้มาเยือนจะเวียนหัว!\\pผู้มาเยือนเดินโซเซ! ระวังด้วย!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedSandOrnament", "th": "ผู้มาเยือนเอื้อมมือไปหารูปปั้นทราย!\\pโอ๊ะ!\\pพังแล้ว! แตกกระจายเลย!\\pผู้มาเยือนดูเขินอายและรู้สึกผิด!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedDesk", "th": "ผู้มาเยือนเอานิ้วถูบนโต๊ะ!\\pดูเหมือนผู้มาเยือนจะไม่ชอบฝุ่น!\\pผู้มาเยือนใส่ใจความสะอาดเกินคาด!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedBrick", "th": "ผู้มาเยือนจ้องมองก้อนอิฐ!\\pบางทีผู้มาเยือนอาจกำลังนึกถึงของที่วางอยู่บนก้อนอิฐ$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedSolidBoard", "th": "ผู้มาเยือนกำลังเดินข้ามแผ่นไม้แข็ง\\pผู้มาเยือนก้มมองพื้นตลอดเวลา\\pผู้มาเยือนดูขี้กลัวและระมัดระวังเกินคาด!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedFence", "th": "ผู้มาเยือนจ้องมองรั้วอย่างตั้งใจ!\\pไอเดียกับดักใหม่ผุดขึ้นมาในหัวผู้มาเยือนหรือเปล่า?$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedGlitterMat", "th": "ผู้มาเยือนเหยียบพรมระยิบระยับ!\\pผู้มาเยือนโพสท่าต่าง ๆ มากมาย!\\pดูเหมือนผู้มาเยือนกำลังฝันว่าตัวเองเป็นไอดอล!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedTire", "th": "ผู้มาเยือนจ้องมองยางรถอย่างตั้งใจ!\\pผู้มาเยือนกำลังนึกถึงรถที่ใช้ยางแบบนี้อยู่หรือเปล่า?$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedStand", "th": "ผู้มาเยือนปีนขึ้นแท่นยืน!\\pผู้มาเยือนมองลงมาทั่วฐานของ {STR_VAR_1} จากที่สูง!\\pและ…\\pส่งเสียงคำราม! ผู้มาเยือนคำรามลั่น!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_BrokeDoor", "th": "ผู้มาเยือนพุ่งชนประตูพังได้เต็มแรง!\\pผู้มาเยือนหัวเราะลั่นเลย!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedDoll", "th": "ผู้มาเยือนกำลังคุยกับตุ๊กตา!\\p…น่าขนลุกนิดหน่อยนะ…$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedSlide", "th": "ผู้มาเยือนกำลังปีนบันไดสไลเดอร์!\\pและ…\\pผู้มาเยือนไถลลงมาแล้ว!\\pดูเหมือนผู้มาเยือนจะสนุกสุด ๆ!$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedSlideButDidntGoDown", "th": "ผู้มาเยือนกำลังปีนบันไดสไลเดอร์!\\pและ…\\pผู้มาเยือนปีนบันไดกลับลงมา!\\pผู้มาเยือนเกิดปอดแหกขึ้นมากะทันหันหรือเปล่า?$"}
+{"id": "data/text/tv.inc#TVSecretBaseSecrets_Text_UsedJumpMat", "th": "ผู้มาเยือนเหยียบพรมกระโดด!\\pผู้มาเยือนกระโดดหนึ่งครั้ง!\\pสองครั้ง!\\pและลงพื้นได้สวยงาม!\\pผู้มาเยือนปรบมือ! ช่างเป็นการแสดงเดี่ยวที่ยอดเยี่ยม!$"}
+{"id": "data/text/tv.inc#gTVSafariFanClubText00", "th": "แฟนคลับซาฟารี!\\pนักข่าว: เอาล่ะเพื่อน ๆ! ขว้าง SAFARI BALL กันอยู่หรือเปล่า?\\pบอกเลยว่าตอนนี้เราอยู่ที่ซาฟารีโซน ที่อัดแน่นไปด้วยโปเกมอนสุดเจ๋ง!\\pมาคุยกับไกด์ซาฟารีคนเก่งคนนี้กันเลย!\\pเอาล่ะเพื่อน เทรนเนอร์ที่มาเยือนเป็นยังไงกันบ้าง?$"}
+{"id": "data/text/tv.inc#gTVSafariFanClubText01", "th": "ไกด์: ทุกคนดูจะพยายามกันเต็มที่เลย\\p{STR_VAR_1} ทำได้ดีเป็นพิเศษ\\pก่อนหน้านี้ {STR_VAR_1} จับโปเกมอนได้ถึง {STR_VAR_2} ตัวเลยนะ$"}
+{"id": "data/text/tv.inc#gTVSafariFanClubText02", "th": "เทรนเนอร์คนนี้ใช้โปเกบล็อกเก่งมาก คราวนั้นใช้ไป {STR_VAR_2} ชิ้นมั้ง$"}
+{"id": "data/text/tv.inc#gTVSafariFanClubText03", "th": "เทรนเนอร์คนนี้ไม่ใช้โปเกบล็อกเลยสักชิ้น! ไม่เลยจริง ๆ!\\pนี่แหละมือโปรตัวจริง$"}
+{"id": "data/text/tv.inc#gTVSafariFanClubText04", "th": "นักข่าว: จริงเหรอเนี่ย?\\pฟังดูแล้ว {STR_VAR_1} เพื่อนเราเป็นสุดยอดปรมาจารย์ซาฟารีเลยนะ!\\pไกด์: หวังว่าเทรนเนอร์คนนี้จะกลับมาโชว์ฝีมือสุดยอดให้ดูอีก$"}
+{"id": "data/text/tv.inc#gTVSafariFanClubText05", "th": "ไกด์: ดูเหมือนจะไม่มีใครทำได้ดีเลย\\p{STR_VAR_1} ย่ำแย่เป็นพิเศษ\\pก่อนหน้านี้ เทรนเนอร์คนนี้จับโปเกมอนได้แค่ {STR_VAR_2} ตัวเอง$"}
+{"id": "data/text/tv.inc#gTVSafariFanClubText06", "th": "ไกด์: ดูเหมือนจะไม่มีใครทำได้ดีเลย\\p{STR_VAR_1} ย่ำแย่เป็นพิเศษ\\pก่อนหน้านี้ เทรนเนอร์คนนี้จับโปเกมอนไม่ได้เลยสักตัว! ไม่ได้เลยจริง ๆ!$"}
+{"id": "data/text/tv.inc#gTVSafariFanClubText07", "th": "เทรนเนอร์คนนี้ก็ใช้โปเกบล็อกนะ คราวนั้นใช้ไป {STR_VAR_2} ชิ้นมั้ง\\pแต่ให้ตายสิ อยากให้เทรนเนอร์คนนี้เก่งขึ้นอีกหน่อยจัง$"}
+{"id": "data/text/tv.inc#gTVSafariFanClubText08", "th": "คิดว่าถ้าใช้โปเกบล็อก เทรนเนอร์คนนี้น่าจะโชคดีขึ้น คราวนั้นไม่ได้ใช้เลยสักชิ้น$"}
+{"id": "data/text/tv.inc#gTVSafariFanClubText09", "th": "นักข่าว: จริงเหรอเนี่ย?\\pฟังดูแล้ว {STR_VAR_1} เพื่อนเรายังต้องฝึกซาฟารีอีกเยอะเลยนะ\\pไกด์: หวังว่าเทรนเนอร์คนนี้จะแวะมาบ่อย ๆ จนจับทางได้$"}
+{"id": "data/text/tv.inc#gTVSafariFanClubText10", "th": "นักข่าว: ถูกต้องที่สุด! การกล้าเผชิญความท้าทายเป็นเรื่องสำคัญ!\\pท่านผู้ชม มาที่ซาฟารีแล้วลองท้าทายด้วยตัวเองกันเลย!\\pแล้วพบกันใหม่ บ๊ายบาย!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_Intro", "th": "“รายงานสดคอนเทสต์โปเกมอน!”\\pพิธีกร: ขอบคุณที่ร่วมรับชม!\\pเรากำลังรายงานสดจากเวที {STR_VAR_1} ที่เพิ่งจบลง\\pในฮอลล์ยังเต็มไปด้วยผู้ชมที่ไม่ยอมกลับบ้าน\\pผู้ชม: {STR_VAR_2}!\\pผู้ชม: {STR_VAR_3}!\\pพิธีกร: อย่างที่ได้ยิน ผู้ชนะคอนเทสต์ครั้งนี้คือโปเกมอน {STR_VAR_2} ของ {STR_VAR_3}\\pผู้ชม: {STR_VAR_2}! เยี่ยมที่สุด!\\pผู้ชม: {STR_VAR_3}! สุดยอดเลย!\\pพิธีกร: มาฟังความเห็นของแฟน ๆ เกี่ยวกับคอนเทสต์ครั้งนี้กันเถอะ$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_WonBothRounds", "th": "ผู้ชม: {STR_VAR_2} ได้ที่หนึ่งทั้งการตัดสินรอบแรกและรอบสองเลย!\\p{STR_VAR_2} ตัวนั้นต้องชนะต่อไปเรื่อย ๆ แน่!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_BetterRound2", "th": "ผู้ชม: {STR_VAR_2} ทำได้ไม่ดีในการตัดสินรอบแรก แต่มากวาดคะแนนในรอบสอง!\\pเป็นการพลิกกลับมาอย่างปาฏิหาริย์ของ {STR_VAR_2} ตัวนั้น เย้!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_EqualRounds", "th": "ผู้ชม: {STR_VAR_2} ทำได้สม่ำเสมอทั้งการตัดสินรอบแรกและรอบสอง\\p{STR_VAR_3} กับ {STR_VAR_2} คู่นี้ไม่ธรรมดาเลย!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_BetterRound1", "th": "ผู้ชม: ในแง่ของ {STR_VAR_1} {STR_VAR_2} ตัวนั้นโดดเด่นมาก\\pแต่คราวหน้าหวังว่าจะแสดงได้ดีกว่านี้นะ$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_GotNervous", "th": "ผู้ชม: ตอนที่ {STR_VAR_2} ประหม่า ฉันอดตะโกนเชียร์ไม่ได้เลย\\pอยากบอก {STR_VAR_2} ตัวนั้นว่า “ยินดีด้วยนะ!”$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_StartledFoes", "th": "ผู้ชม: การแสดงของ {STR_VAR_2} ทำเอาฉันสะดุ้งไปด้วยเลย!\\p{STR_VAR_2} เธอสุดยอดมาก!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_UsedCombo", "th": "ผู้ชม: การแสดงคอมโบของ {STR_VAR_2} ตะลึงไปเลย!\\pสะเทือนใจถึงแก่นเลย!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_ExcitingAppeal", "th": "ผู้ชม: การแสดงของ {STR_VAR_2} ผู้ชนะ ทำเอาใจเต้นตึกตักเลย!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_WasCool", "th": "{STR_VAR_2}! เธอเท่มาก!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_WasBeautiful", "th": "{STR_VAR_2}! เธอสวยมาก!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_WasCute", "th": "{STR_VAR_2}! เธอน่ารักมาก!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_WasSmart", "th": "{STR_VAR_2}! เธอฉลาดมาก!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_WasTough", "th": "{STR_VAR_2}! เธอแกร่งมาก!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_VeryExcitingAppeal", "th": "ผู้ชม: การแสดงของ {STR_VAR_2} ผู้ชนะ ยังทำเอาใจเต้นตึกตักไม่หายเลย!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_VeryCool", "th": "{STR_VAR_2}! เธอคือที่สุดของความเท่!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_VeryBeautiful", "th": "{STR_VAR_2}! เธอสวยที่สุด!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_VeryCute", "th": "{STR_VAR_2}! เธอน่ารักที่สุดในโลก!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_VerySmart", "th": "{STR_VAR_2}! เธอฉลาดที่สุดในหมู่คนฉลาด!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_VeryTough", "th": "{STR_VAR_2}! เธอแกร่งที่สุดในหมู่คนแกร่ง!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_TookBreak", "th": "ผู้ชม: แม้ตอนที่ {STR_VAR_2} พักการแสดง ฉันก็ละสายตาไปไม่ได้เลย\\pหลงเสน่ห์ {STR_VAR_2} ตัวนั้นเข้าเต็มเปา$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_GotStartled", "th": "ผู้ชม: ตอนที่ {STR_VAR_2} สะดุ้งเพราะการแสดงของโปเกมอนตัวอื่น ฉันแทบร้องไห้\\p{STR_VAR_2} เธอยืนหยัดได้! สุดยอด!$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_MoveWonderful", "th": "ผู้ชม: โอ้… {STR_VAR_3} ของ {STR_VAR_2}! {STR_VAR_3} ของ {STR_VAR_2}! {STR_VAR_3} ของ {STR_VAR_2}! ทำไมถึงได้วิเศษขนาดนี้?$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_TalkAboutAnotherMon", "th": "พิธีกร: อย่างที่เห็น ที่นี่เต็มไปด้วยแฟน ๆ ของ {STR_VAR_1}!\\pอีกเรื่องที่ต้องพูดถึงคือ โปเกมอนอีกตัว {STR_VAR_3} ของ {STR_VAR_2} ก็สะดุดตาเหมือนกัน\\p{STR_VAR_3} ของ {STR_VAR_2}…$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_FailedToAppeal", "th": "มันไม่ได้แสดงเลยสักครั้งในการตัดสินรอบสองเพราะความประหม่า\\pคราวหน้าอยากเห็น {STR_VAR_1} ตัวนี้แสดงสักครั้งก็ยังดี$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_LastInBothRounds", "th": "มันได้ที่โหล่ทั้งการตัดสินรอบแรกและรอบสอง\\pหวังว่า {STR_VAR_1} จะฝึก {STR_VAR_2} ตัวนี้ใหม่ และลบล้างความอับอายจากการได้ที่โหล่แบบไม่มีข้อกังขานี้$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_NotExcitingEnough", "th": "มันไม่สามารถใช้ประโยชน์จากความตื่นเต้นของผู้ชมและแสดงได้อย่างเหมาะสม\\pหวังว่าคราวหน้า {STR_VAR_1} จะเรียนรู้วิธีอ่านอารมณ์ผู้ชม และปลุกความตื่นเต้นให้ถึงขีดสุด$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_LostAfterWinningRound1", "th": "แม้จะได้ที่หนึ่งในการตัดสินรอบแรก แต่การแสดงในรอบสองกลับไม่เข้าเป้า\\pจึงพ่ายแพ้แบบถูกแซงอย่างน่าอับอาย\\pเชื่อว่าตอนนี้ {STR_VAR_1} กำลังศึกษาวิธีแสดงให้ได้ผลดีกว่านี้อยู่แน่ ๆ$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_NeverExciting", "th": "ผู้ชมไม่ตื่นเต้นกับการแสดงของมันเลยตลอดการตัดสินรอบสอง\\pหวังว่ามันจะเลิกกังวลเรื่องโปเกมอนตัวอื่น แล้วหันมาแสดงเพื่อผู้ชมให้มากขึ้น$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_LostBySmallMargin", "th": "มันแพ้ {STR_VAR_2} ของ {STR_VAR_1} ไปแบบเฉียดฉิว\\pเข้าใกล้ชัยชนะขนาดนั้นแต่กลับพลาด คงเจ็บปวดน่าดู\\pไม่แปลกใจเลยถ้า {STR_VAR_3} จะร้องไห้กับผลลัพธ์นี้$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_RepeatedAppeals", "th": "มันทำให้กรรมการผิดหวังเพราะแสดงซ้ำแบบเดิม\\pนี่เป็นความผิดพลาดที่ให้อภัยไม่ได้ในทุกคอนเทสต์ และโปเกมอนก็ต้องรับผลนั้น\\p{STR_VAR_1} ควรรู้สึกผิดกับผลงานน่าผิดหวังครั้งนี้$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_ValiantEffortButLost", "th": "{STR_VAR_1} พยายามอย่างกล้าหาญ แต่…\\pทุกอย่างสูญเปล่า จบที่อันดับสุดท้าย\\p{STR_VAR_1} ควรเรียนรู้จากความพ่ายแพ้นี้ แล้วนำไปใช้ให้เกิดประโยชน์$"}
+{"id": "data/text/tv.inc#ContestLiveUpdates_Text_Outro", "th": "ขอปิดรายการด้วยการอำลาผู้ชนะตามธรรมเนียม\\pครั้งนี้คือ {STR_VAR_1} กับ {STR_VAR_2}!\\pพิธีกร: ทุกคนพร้อมไหม? พร้อมกันเลย!\\pผู้ชม: {STR_VAR_1}! {STR_VAR_2}! ยินดีด้วย! คุณคือผู้ชนะคอนเทสต์!$"}
+{"id": "data/text/tv.inc#gTVPokemonBattleUpdateText00", "th": "“อัปเดตการต่อสู้โปเกมอน!”\\pรายงานผลการต่อสู้โปเกมอนสด ๆ ร้อน ๆ!$"}
+{"id": "data/text/tv.inc#gTVPokemonBattleUpdateText01", "th": "เทรนเนอร์ {STR_VAR_1} และ {STR_VAR_2} ประชันกันในการต่อสู้แบบ {STR_VAR_3}\\pการแข่งขันนี้จบลงด้วยชัยชนะของ {STR_VAR_1}!$"}
+{"id": "data/text/tv.inc#gTVPokemonBattleUpdateText02", "th": "ในการต่อสู้ครั้งนี้ {STR_VAR_2} ของ {STR_VAR_1} ใช้ {STR_VAR_3} ได้อย่างทรงพลัง!$"}
+{"id": "data/text/tv.inc#gTVPokemonBattleUpdateText03", "th": "{STR_VAR_2} ของ {STR_VAR_1} ทำผลงานได้ย่ำแย่จนน่าเจ็บใจ$"}
+{"id": "data/text/tv.inc#gTVPokemonBattleUpdateText04", "th": "ขอแสดงความยินดีกับชัยชนะ {STR_VAR_1}!\\pส่วน {STR_VAR_2} ผู้พ่ายแพ้ หวังว่าคราวหน้าจะได้ผลลัพธ์ที่ดีกว่านี้!\\pจบการรายงานตอนนี้ของ “อัปเดตการต่อสู้โปเกมอน!”$"}
+{"id": "data/text/tv.inc#gTVPokemonBattleUpdateText05", "th": "ทีมของเทรนเนอร์ {STR_VAR_1} และ {STR_VAR_2} พบกันในมัลติแบทเทิล\\pการแข่งขันนี้จบลงด้วยชัยชนะของทีม {STR_VAR_1}$"}
+{"id": "data/text/tv.inc#gTVPokemonBattleUpdateText06", "th": "ในการต่อสู้ครั้งนี้ {STR_VAR_2} ในทีมของ {STR_VAR_1} ใช้ {STR_VAR_3} ได้อย่างทรงพลัง$"}
+{"id": "data/text/tv.inc#gTVPokemonBattleUpdateText07", "th": "{STR_VAR_3} ในทีมของ {STR_VAR_2} ทำผลงานได้ย่ำแย่จนน่าเจ็บใจ\\pขอแสดงความยินดีกับชัยชนะของทีมคุณ {STR_VAR_1}!\\pส่วนทีมของ {STR_VAR_2} ผู้พ่ายแพ้ หวังว่าคราวหน้าจะได้ผลลัพธ์ที่ดีกว่านี้!\\pจบการรายงานตอนนี้ของ “อัปเดตการต่อสู้โปเกมอน!”$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_GabbyPreFirstBattle", "th": "มาริ: โอ้! เจอเทรนเนอร์ท่าทางแกร่งตรงนี้ซะได้!\\pโอเค เปิดกล้อง! ไปสัมภาษณ์กันเลย!$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_GabbyIntro", "th": "มาริ: โอ้! {PLAYER} นี่นา! สวัสดี! จำพวกเราจากคราวที่แล้วได้ไหม?\\pช่วยโชว์ให้ดูหน่อยว่าเก่งขึ้นแค่ไหนแล้ว? โอเค เริ่มสัมภาษณ์!$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_GabbyDefeatFirstTime", "th": "มาริ: ตาฉันไม่ได้ฝาดจริง ๆ! เจอเทรนเนอร์สุดทึ่งเข้าแล้ว!$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_WhoAreYouInterview", "th": "มาริ: สุดยอด! สุดยอด! เธอเป็นใครกันเนี่ย?!\\pพอเห็นเธอปุ๊บ ก็รู้เลยว่าต้องได้เรื่องเด็ดแน่!\\pอ๊ะ ขออธิบายก่อนนะ พวกเราเดินทางไปทั่วเพื่อสัมภาษณ์เทรนเนอร์ทุกแบบ\\pเพราะงั้น ขอเวลาสักนิดให้เราสัมภาษณ์ได้ไหม?$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_QuoteFromLastInterview", "th": "มาริ: “{STR_VAR_1}!”\\pจำได้ไหม? นั่นคือประโยคปิดท้ายการต่อสู้ที่เธอให้ไว้คราวที่แล้ว\\pเรื่องแบบนี้ฉันไม่มีวันลืมเด็ดขาด!$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_YouStompedUsInterviewAgain", "th": "คราวที่แล้วที่เราสู้กัน เธอถล่มพวกเราก่อนจะทันตั้งตัวเลย…\\pยังไงก็เถอะ ว่าไง? อยากให้สัมภาษณ์อีกรอบไหม?$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_YouThrewABallAtUsInterviewAgain", "th": "คราวที่แล้วที่เราสู้กัน เธอขว้าง POKé BALL ใส่พวกเราใช่ไหม?\\pพวกเราช็อกมาก! เลยเอาไปเล่าให้ทุกคนฟัง ทุกคนเลยนะ!\\pยังไงก็เถอะ ว่าไง? อยากให้สัมภาษณ์อีกรอบไหม?$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_CleverItemSkillsInterviewAgain", "th": "คราวที่แล้วที่เราสู้กัน ฝีมือใช้ไอเท็มของเธอเล่นงานเราซะอยู่หมัด\\pยังไงก็เถอะ ว่าไง? อยากให้สัมภาษณ์อีกรอบไหม?$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_WeLookedRespectableInterviewAgain", "th": "คราวที่แล้วที่เราสู้กัน พวกเราก็พอจะดูดีได้บ้าง\\pยังไงก็เถอะ ว่าไง? อยากให้สัมภาษณ์อีกรอบไหม?$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_InterviewAgain", "th": "ยังไงก็เถอะ ว่าไง? อยากให้สัมภาษณ์อีกรอบไหม?$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_DescribeYourFeelings", "th": "จริงเหรอ? ขอบคุณนะ!\\pโอเค ช่วยบอกความรู้สึกเกี่ยวกับการต่อสู้ของเรา แต่ต้องสั้นกระชับนะ เอาเลย!$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_PerfectWellBeSeeingYou", "th": "มาริ: อืม ใช่เลย! ประโยคปิดท้ายสุดเพอร์เฟกต์!\\pรู้สึกว่ารายการนี้ต้องออกมาดีแน่ ๆ\\pมีโอกาสได้ออกอากาศทางทีวีด้วยนะ อย่าลืมติดตามดูพวกเราล่ะ!\\pโอเค! แล้วเจอกันใหม่!$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_DontGiveUpKeepingEyeOut", "th": "มาริ: อ้าว…\\pก็ได้ แต่อย่าเพิ่งยอมแพ้นะ! พวกเราจะคอยจับตาดูเธออยู่!$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_KeepingAnEyeOutForYou", "th": "มาริ: พวกเราจะคอยจับตาดูเธออยู่นะ!$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_GabbyNotEnoughMons", "th": "มาริ: มีเทรนเนอร์เก่ง ๆ ที่มีโปเกมอนเยอะ ๆ อยู่แถวนี้บ้างไหมนะ?$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_GiveUsAnInterviewThisTime", "th": "มาริ: ว้าว เธอนี่ไม่ธรรมดาเลย!\\pเก่งขึ้นเยอะมาก เยอะจริง ๆ ตั้งแต่ครั้งที่แล้วที่เราสู้กัน\\pพวกเราไม่ได้คิดผิดเลยที่มองว่าเธอเป็นเทรนเนอร์ดาวรุ่ง\\pยังไงก็เถอะ ว่าไง? คราวนี้ยอมให้สัมภาษณ์หน่อยได้ไหม?$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_GabbyDefeat", "th": "มาริ: เป็นการต่อสู้ที่ดุเดือดมาก! ถ่ายไว้ครบไหม?$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_TyPreFirstBattle", "th": "ได: เฮ้ ดูนั่นสิ! เทรนเนอร์ท่าทางแกร่งตรงนี้ซะได้! กล้องเดินแล้ว!$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_TyIntro", "th": "ได: เฮ้ ดูนั่นสิ! จำเธอได้นะ!\\pจะถ่ายการต่อสู้นี้ลงกล้องตัวนี้ให้หมดเลย!$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_TyPostBattle", "th": "ได: เธอนี่เกิดมาเพื่อกล้องเลย! ได้ภาพเด็ดมาเพียบ!$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_TyNotEnoughMons", "th": "ได: มีโปเกมอนตัวเดียวแค่นั้นเองเหรอ?\\pถ้ามีโปเกมอนมากกว่านี้ ภาพจะออกมาดีกว่านี้นะ แต่…$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_TyDefeatFirstTime", "th": "ได: ใช่เลย เราเจอเทรนเนอร์ดาวรุ่งเข้าจริง ๆ นี่เป็นข่าวเด็ดสุด ๆ ของเราเลย!$"}
+{"id": "data/text/tv.inc#GabbyAndTy_Text_TyDefeat", "th": "ได: ใช่ ถ่ายไว้หมดแล้ว การต่อสู้ทั้งหมดอยู่ในกล้องเรียบร้อย$"}
+{"id": "data/text/tv.inc#gTVInSearchOfTrainersText00", "th": "ตามล่าหาเทรนเนอร์…\\pมาริ: สวัสดีค่ะ! วันนี้ฉันมาอยู่ที่บริเวณใกล้ ๆ {STR_VAR_1}\\pพวกเรากำลังตามหาดาวรุ่งหน้าใหม่ในวงการ\\pวันนี้เราหันเลนส์ไปที่เทรนเนอร์ {PLAYER}\\pเทรนเนอร์คนนี้มีบางอย่างที่ดึงดูดความสนใจของเรา$"}
+{"id": "data/text/tv.inc#gTVInSearchOfTrainersText01", "th": "เราเคยสู้กับ {PLAYER} มาก่อน และยืนยันได้ว่าเทรนเนอร์คนนี้พัฒนาขึ้นจากเดิมมากแน่นอน\\pตอนที่เจอเทรนเนอร์คนนี้ ก็รู้เลยว่าต้องเป็นคนพิเศษ!$"}
+{"id": "data/text/tv.inc#gTVInSearchOfTrainersText02", "th": "วิธีที่ดีที่สุดในการวัดว่าเทรนเนอร์แข็งแกร่งแค่ไหน…\\pก็คือ… วิธีที่เร็วที่สุดคือการต่อสู้ เราจึงเริ่มการสืบสวน!\\p… …\\pนั่นคือเหตุผลที่เราได้ต่อสู้กับ {PLAYER}\\pผลคือ เราถูกบดขยี้ ม้วนเก็บ แล้วโยนทิ้งอย่างราบคาบ!\\p{PLAYER} แข็งแกร่งอย่างไร้ความปรานี…\\pนี่คือความประทับใจของเราหลังจากได้ต่อสู้กับเทรนเนอร์คนนี้$"}
+{"id": "data/text/tv.inc#gTVInSearchOfTrainersText03", "th": "การผสานของ {STR_VAR_1} กับ {STR_VAR_3} นั้นยอดเยี่ยมมาก!\\pภาพที่ {STR_VAR_1} กับ {STR_VAR_3} คอยสนับสนุนกันและกันอย่างไม่เห็นแก่ตัวกลางสมรภูมิ…\\pเป็นภาพที่งดงามน่าประทับใจ!\\p{STR_VAR_2} คือท่าสุดท้ายที่เทรนเนอร์ใช้ในการต่อสู้กับเรา\\pท่า {STR_VAR_2} คือสัญลักษณ์แห่งมิตรภาพของ {STR_VAR_1} และ {STR_VAR_3}!$"}
+{"id": "data/text/tv.inc#gTVInSearchOfTrainersText04", "th": "…ฉันหมดความมั่นใจในตัวเองไปเลยหลังจากเจอกันครั้งนั้น\\pเราแพ้ก่อนจะได้โจมตีสักครั้ง ฮือ… สะอื้น…\\pถึงอย่างนั้น การต่อสู้ของ {PLAYER} ก็คุ้มค่าแก่การดู\\pขอแนะนำให้เทรนเนอร์ที่มั่นใจในตัวเอง ลองไปท้าสู้กับ {PLAYER} ดู$"}
+{"id": "data/text/tv.inc#gTVInSearchOfTrainersText05", "th": "มีเรื่องเดียวที่ต้องพูด ห้ามขว้าง POKé BALL ระหว่างต่อสู้กับเทรนเนอร์เด็ดขาด!\\p{PLAYER} แข็งแกร่งจริง แต่ไม่รู้กติกาพื้นฐานเลย\\pขอฝากท่านผู้ชมทางบ้านหน่อย\\pถ้าเจอ {PLAYER} ช่วยตักเตือนเทรนเนอร์คนนี้ด้วยนะคะ!$"}
+{"id": "data/text/tv.inc#gTVInSearchOfTrainersText06", "th": "{PLAYER} อ่านการเคลื่อนไหวของคู่ต่อสู้ได้เก่งมาก\\pจังหวะการใช้ไอเท็มได้ผลอย่างน่าทึ่ง!$"}
+{"id": "data/text/tv.inc#gTVInSearchOfTrainersText07", "th": "บอกตามตรง ฉันเคยคิดว่าตัวเองก็เก่งพอตัวเหมือนกัน\\pถึงเราจะแพ้ แต่ก็เป็นการต่อสู้ที่สูสีดุเดือด\\pแต่ถ้ายังต้องดิ้นรนตอนสู้กับฉัน ก็ยังต้องพัฒนาอีกเยอะนะ {PLAYER}!$"}
+{"id": "data/text/tv.inc#gTVInSearchOfTrainersText08", "th": "หลังการต่อสู้ เราขอให้ {PLAYER} สรุปสั้น ๆ\\pเทรนเนอร์ตอบว่า “{STR_VAR_1}”\\pโปเกมอน {STR_VAR_2} และ {STR_VAR_3} ของ {PLAYER}… และ “{STR_VAR_1}”…\\pอืม! ลึกซึ้ง! ประโยคนั้นมีความหมายลึกซึ้งซ่อนอยู่!\\pไม่แปลกใจเลย เทรนเนอร์เก่ง ๆ ย่อมพูดอะไรดี ๆ\\pวันนี้พอเท่านี้ค่ะ! แล้วพบกันใหม่ในการออกอากาศครั้งหน้า!$"}
+{"id": "data/text/tv.inc#ContestLadyShow_Text_Intro", "th": "“รายงานสดคอนเทสต์โปเกมอน!”\\pพิธีกร: ขออภัยที่ขัดจังหวะรายการปกติ และขอบคุณที่ร่วมรับชม!\\pเรากำลังถ่ายทอดสดจากเวที {STR_VAR_1} ที่เพิ่งจบลง!\\pผู้ชม: ?!!!!\\pพิธีกร: อ๊ะ! ดูเหมือนผู้เข้าแข่งขันคอนเทสต์กำลังเดินมาทางนี้!\\pจะลองขอสัมภาษณ์สด ๆ ให้ท่านผู้ชมทางบ้านได้ชมกัน!\\pผู้ชม: ?!!!! ?!!!!$"}
+{"id": "data/text/tv.inc#ContestLadyShow_Text_Won", "th": "พิธีกร: ขอโทษที! ขอบคุณที่มาร่วมรายการสด!\\pขอแสดงความยินดีกับชัยชนะด้วย!\\pอะไรคือปัจจัยสำคัญที่ทำให้ชนะอย่างงดงามในวันนี้?\\pสาวสวย: วันนี้เราทำเต็มที่ ทั้งฉันและ {STR_VAR_2} ของฉัน!\\pแต่ถ้าไม่ได้ความช่วยเหลือจากทุกคนก่อนถึงวันคอนเทสต์ คงไม่มาถึงจุดนี้แน่ ๆ ค่ะ!\\pพิธีกร: มีคนพิเศษที่อยากแบ่งปันความสุขนี้ด้วยไหม? พูดสดได้เลย!\\pสาวสวย: เฮ้ ทางนั้น!\\p{STR_VAR_3}! ดูอยู่หรือเปล่า? เราทำได้แล้ว! ขอบคุณนะ!$"}
+{"id": "data/text/tv.inc#ContestLadyShow_Text_Lost", "th": "พิธีกร: ขอโทษที! ขอบคุณที่มาร่วมรายการสด!\\pผลออกมาแบบนี้คงผิดหวังน่าดู มีอะไรจะพูดไหม?\\pสาวสวย: เจ็บปวดจัง… ฉันกับ {STR_VAR_2} ทำเต็มที่แล้ว…\\pแต่รู้สึกเหมือนทำให้ทุกคนที่คอยสนับสนุนเราผิดหวัง\\pพิธีกร: ไม่อยากพูดเลย แต่สีสันของโปเกมอนดูขาดอะไรไปนิดนะ\\pสาวสวย: {STR_VAR_3} ขอโทษนะ… คราวหน้าจะทำให้ดีกว่านี้ สัญญา… …ฮึก… แง้!\\pผู้ชม: เห็นไหมนั่น? น่าสงสารจัง!\\pพิธีกร: เอ่อ… แย่ละ…\\pเอ่อ… หมดเวลาสำหรับวันนี้แล้ว! ขอบคุณที่รับชม!$"}
+{"id": "data/text/tv.inc#ContestLadyShow_Text_LostBadly", "th": "พิธีกร: ขอโทษที! ขอบคุณที่มาร่วมรายการสด!\\pการแข่งขันคอนเทสต์เป็นยังไงบ้าง?\\pสาวสวย: ไม่มีอะไรเป็นไปตามแผนเลย… ไม่รู้ทำไม {STR_VAR_2} ของฉันถึงเรียกคะแนนนิยมไม่ได้เลย\\pพิธีกร: ไม่อยากพูดเลย แต่สีสันของโปเกมอนดูขาดอะไรไปนิดนะ\\pสาวสวย: … … … … … … …ฮึก… แง้!\\pผู้ชม: เห็นไหมนั่น? น่าสงสารจัง!\\pพิธีกร: เอ่อ… แย่ละ…\\pเอ่อ… หมดเวลาสำหรับวันนี้แล้ว! ขอบคุณที่รับชม!$"}
+{"id": "src/battle_message.c#sText_PkmnGainedEXP", "th": "{B_BUFF1} ได้รับค่าประสบการณ์{B_BUFF2} {B_BUFF3} แต้ม!\\p"}
+{"id": "src/battle_message.c#sText_ABoosted", "th": "เพิ่มพิเศษ"}
+{"id": "src/battle_message.c#sText_PkmnGrewToLv", "th": "{B_BUFF1} เลเวลขึ้นเป็น Lv. {B_BUFF2}!{WAIT_SE}\\p"}
+{"id": "src/battle_message.c#sText_PkmnLearnedMove", "th": "{B_BUFF1} เรียนรู้ท่า {B_BUFF2} แล้ว!{WAIT_SE}\\p"}
+{"id": "src/battle_message.c#sText_TryToLearnMove1", "th": "{B_BUFF1} กำลังพยายามเรียนรู้ท่า {B_BUFF2}\\p"}
+{"id": "src/battle_message.c#sText_TryToLearnMove2", "th": "แต่ {B_BUFF1} เรียนรู้ท่าได้ไม่เกิน 4 ท่า\\p"}
+{"id": "src/battle_message.c#sText_TryToLearnMove3", "th": "จะลืมท่าเดิมเพื่อเรียนรู้ท่า {B_BUFF2} ไหม?"}
+{"id": "src/battle_message.c#sText_PkmnForgotMove", "th": "{B_BUFF1} ลืมท่า {B_BUFF2} แล้ว\\p"}
+{"id": "src/battle_message.c#sText_StopLearningMove", "th": "{PAUSE 32}เลิกเรียนรู้ท่า {B_BUFF2} ไหม?"}
+{"id": "src/battle_message.c#sText_DidNotLearnMove", "th": "{B_BUFF1} ไม่ได้เรียนรู้ท่า {B_BUFF2}\\p"}
+{"id": "src/battle_message.c#sText_UseNextPkmn", "th": "จะใช้โปเกมอนตัวต่อไปไหม?"}
+{"id": "src/battle_message.c#sText_AttackMissed", "th": "การโจมตีของ {B_ATK_NAME_WITH_PREFIX} พลาดเป้า!"}
+{"id": "src/battle_message.c#sText_PkmnProtectedItself", "th": "{B_DEF_NAME_WITH_PREFIX} ป้องกันตัวเองไว้ได้!"}
+{"id": "src/battle_message.c#sText_AvoidedDamage", "th": "{B_DEF_NAME_WITH_PREFIX} หลบความเสียหายได้ด้วย {B_DEF_ABILITY}!"}
+{"id": "src/battle_message.c#sText_PkmnMakesGroundMiss", "th": "{B_DEF_NAME_WITH_PREFIX} ทำให้ท่าประเภท GROUND พลาดเป้าด้วย {B_DEF_ABILITY}!"}
+{"id": "src/battle_message.c#sText_PkmnAvoidedAttack", "th": "{B_DEF_NAME_WITH_PREFIX} หลบการโจมตีได้!"}
+{"id": "src/battle_message.c#sText_ItDoesntAffect", "th": "ไม่มีผลกับ {B_DEF_NAME_WITH_PREFIX}…"}
+{"id": "src/battle_message.c#sText_AttackerFainted", "th": "{B_ATK_NAME_WITH_PREFIX} หมดสภาพแล้ว!\\p"}
+{"id": "src/battle_message.c#sText_TargetFainted", "th": "{B_DEF_NAME_WITH_PREFIX} หมดสภาพแล้ว!\\p"}
+{"id": "src/battle_message.c#sText_PlayerGotMoney", "th": "{B_PLAYER_NAME} ได้รับ ¥{B_BUFF1} จากการชนะ!\\p"}
+{"id": "src/battle_message.c#sText_PlayerWhiteout", "th": "{B_PLAYER_NAME} ไม่มีโปเกมอนที่สู้ได้เหลืออยู่แล้ว!\\p"}
+{"id": "src/battle_message.c#sText_PlayerWhiteout2", "th": "{B_PLAYER_NAME} หน้ามืดไปหมด!{PAUSE_UNTIL_PRESS}"}
+{"id": "src/battle_message.c#sText_PreventsEscape", "th": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} ป้องกันการหลบหนีด้วย {B_SCR_ACTIVE_ABILITY}!\\p"}
+{"id": "src/battle_message.c#sText_CantEscape2", "th": "หนีไม่ได้!\\p"}
+{"id": "src/battle_message.c#sText_AttackerCantEscape", "th": "{B_ATK_NAME_WITH_PREFIX} หนีไม่ได้!"}
+{"id": "src/battle_message.c#sText_HitXTimes", "th": "โจมตีโดน {B_BUFF1} ครั้ง!"}
+{"id": "src/battle_message.c#sText_PkmnFellAsleep", "th": "{B_EFF_NAME_WITH_PREFIX} หลับไปแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnMadeSleep", "th": "{B_SCR_ACTIVE_ABILITY} ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ทำให้ {B_EFF_NAME_WITH_PREFIX} หลับ!"}
+{"id": "src/battle_message.c#sText_PkmnAlreadyAsleep", "th": "{B_DEF_NAME_WITH_PREFIX} หลับอยู่แล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnAlreadyAsleep2", "th": "{B_ATK_NAME_WITH_PREFIX} หลับอยู่แล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnWasntAffected", "th": "{B_DEF_NAME_WITH_PREFIX} ไม่ได้รับผลกระทบ!"}
+{"id": "src/battle_message.c#sText_PkmnWasPoisoned", "th": "{B_EFF_NAME_WITH_PREFIX} ติดพิษ!"}
+{"id": "src/battle_message.c#sText_PkmnPoisonedBy", "th": "{B_SCR_ACTIVE_ABILITY} ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ทำให้ {B_EFF_NAME_WITH_PREFIX} ติดพิษ!"}
+{"id": "src/battle_message.c#sText_PkmnHurtByPoison", "th": "{B_ATK_NAME_WITH_PREFIX} ได้รับบาดเจ็บจากพิษ!"}
+{"id": "src/battle_message.c#sText_PkmnAlreadyPoisoned", "th": "{B_DEF_NAME_WITH_PREFIX} ติดพิษอยู่แล้ว"}
+{"id": "src/battle_message.c#sText_PkmnBadlyPoisoned", "th": "{B_EFF_NAME_WITH_PREFIX} ติดพิษร้ายแรง!"}
+{"id": "src/battle_message.c#sText_PkmnEnergyDrained", "th": "{B_DEF_NAME_WITH_PREFIX} ถูกดูดพลังงาน!"}
+{"id": "src/battle_message.c#sText_PkmnWasBurned", "th": "{B_EFF_NAME_WITH_PREFIX} ถูกไฟไหม้!"}
+{"id": "src/battle_message.c#sText_PkmnBurnedBy", "th": "{B_SCR_ACTIVE_ABILITY} ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ทำให้ {B_EFF_NAME_WITH_PREFIX} ถูกไฟไหม้!"}
+{"id": "src/battle_message.c#sText_PkmnHurtByBurn", "th": "{B_ATK_NAME_WITH_PREFIX} ได้รับบาดเจ็บจากแผลไฟไหม้!"}
+{"id": "src/battle_message.c#sText_PkmnAlreadyHasBurn", "th": "{B_DEF_NAME_WITH_PREFIX} มีแผลไฟไหม้อยู่แล้ว"}
+{"id": "src/battle_message.c#sText_PkmnWasFrozen", "th": "{B_EFF_NAME_WITH_PREFIX} แข็งเป็นน้ำแข็ง!"}
+{"id": "src/battle_message.c#sText_PkmnFrozenBy", "th": "{B_SCR_ACTIVE_ABILITY} ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ทำให้ {B_EFF_NAME_WITH_PREFIX} แข็งเป็นน้ำแข็ง!"}
+{"id": "src/battle_message.c#sText_PkmnIsFrozen", "th": "{B_ATK_NAME_WITH_PREFIX} แข็งเป็นน้ำแข็งอยู่!"}
+{"id": "src/battle_message.c#sText_PkmnWasDefrosted", "th": "น้ำแข็งที่หุ้ม {B_DEF_NAME_WITH_PREFIX} ละลายแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnWasDefrosted2", "th": "น้ำแข็งที่หุ้ม {B_ATK_NAME_WITH_PREFIX} ละลายแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnWasDefrostedBy", "th": "{B_ATK_NAME_WITH_PREFIX} ละลายน้ำแข็งด้วย {B_CURRENT_MOVE}!"}
+{"id": "src/battle_message.c#sText_PkmnWasParalyzed", "th": "{B_EFF_NAME_WITH_PREFIX} เป็นอัมพาต! อาจขยับตัวไม่ได้!"}
+{"id": "src/battle_message.c#sText_PkmnWasParalyzedBy", "th": "{B_SCR_ACTIVE_ABILITY} ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ทำให้ {B_EFF_NAME_WITH_PREFIX} เป็นอัมพาต! อาจขยับตัวไม่ได้!"}
+{"id": "src/battle_message.c#sText_PkmnIsParalyzed", "th": "{B_ATK_NAME_WITH_PREFIX} เป็นอัมพาต! ขยับตัวไม่ได้!"}
+{"id": "src/battle_message.c#sText_PkmnIsAlreadyParalyzed", "th": "{B_DEF_NAME_WITH_PREFIX} เป็นอัมพาตอยู่แล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnHealedParalysis", "th": "{B_DEF_NAME_WITH_PREFIX} หายจากอัมพาตแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnDreamEaten", "th": "ความฝันของ {B_DEF_NAME_WITH_PREFIX} ถูกกินไปแล้ว!"}
+{"id": "src/battle_message.c#sText_StatsWontIncrease", "th": "{B_BUFF1} ของ {B_ATK_NAME_WITH_PREFIX} เพิ่มขึ้นไม่ได้อีกแล้ว!"}
+{"id": "src/battle_message.c#sText_StatsWontDecrease", "th": "{B_BUFF1} ของ {B_DEF_NAME_WITH_PREFIX} ลดลงไม่ได้อีกแล้ว!"}
+{"id": "src/battle_message.c#sText_TeamStoppedWorking", "th": "{B_BUFF1} ของทีมเราหมดผลแล้ว!"}
+{"id": "src/battle_message.c#sText_FoeStoppedWorking", "th": "{B_BUFF1} ของฝ่ายตรงข้ามหมดผลแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnIsConfused", "th": "{B_ATK_NAME_WITH_PREFIX} สับสนอยู่!"}
+{"id": "src/battle_message.c#sText_PkmnHealedConfusion", "th": "{B_ATK_NAME_WITH_PREFIX} หายสับสนแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnWasConfused", "th": "{B_EFF_NAME_WITH_PREFIX} เกิดความสับสน!"}
+{"id": "src/battle_message.c#sText_PkmnAlreadyConfused", "th": "{B_DEF_NAME_WITH_PREFIX} สับสนอยู่แล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnFellInLove", "th": "{B_DEF_NAME_WITH_PREFIX} ตกหลุมรัก!"}
+{"id": "src/battle_message.c#sText_PkmnInLove", "th": "{B_ATK_NAME_WITH_PREFIX} หลงรัก {B_SCR_ACTIVE_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_PkmnImmobilizedByLove", "th": "{B_ATK_NAME_WITH_PREFIX} มัวแต่หลงรักจนขยับไม่ได้!"}
+{"id": "src/battle_message.c#sText_PkmnBlownAway", "th": "{B_DEF_NAME_WITH_PREFIX} ถูกพัดปลิวไป!"}
+{"id": "src/battle_message.c#sText_PkmnChangedType", "th": "{B_ATK_NAME_WITH_PREFIX} เปลี่ยนเป็นประเภท {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_PkmnFlinched", "th": "{B_ATK_NAME_WITH_PREFIX} สะดุ้งจนขยับไม่ได้!"}
+{"id": "src/battle_message.c#sText_PkmnRegainedHealth", "th": "{B_DEF_NAME_WITH_PREFIX} ฟื้นพลังแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnHPFull", "th": "HP ของ {B_DEF_NAME_WITH_PREFIX} เต็มอยู่แล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnRaisedSpDef", "th": "{B_CURRENT_MOVE} ของ {B_ATK_PREFIX2} ทำให้ป้องกันพิเศษเพิ่มขึ้น!"}
+{"id": "src/battle_message.c#sText_PkmnRaisedSpDefALittle", "th": "{B_CURRENT_MOVE} ของ {B_ATK_PREFIX2} ทำให้ป้องกันพิเศษเพิ่มขึ้นเล็กน้อย!"}
+{"id": "src/battle_message.c#sText_PkmnRaisedDef", "th": "{B_CURRENT_MOVE} ของ {B_ATK_PREFIX2} ทำให้พลังป้องกันเพิ่มขึ้น!"}
+{"id": "src/battle_message.c#sText_PkmnRaisedDefALittle", "th": "{B_CURRENT_MOVE} ของ {B_ATK_PREFIX2} ทำให้พลังป้องกันเพิ่มขึ้นเล็กน้อย!"}
+{"id": "src/battle_message.c#sText_PkmnCoveredByVeil", "th": "ทีมของ {B_ATK_PREFIX2} ถูกม่านพลังปกคลุม!"}
+{"id": "src/battle_message.c#sText_PkmnUsedSafeguard", "th": "ทีมของ {B_DEF_NAME_WITH_PREFIX} ได้รับการปกป้องจาก SAFEGUARD!"}
+{"id": "src/battle_message.c#sText_PkmnSafeguardExpired", "th": "ทีมของ {B_ATK_PREFIX3} ไม่ได้รับการปกป้องจาก SAFEGUARD อีกแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnWentToSleep", "th": "{B_ATK_NAME_WITH_PREFIX} หลับไป!"}
+{"id": "src/battle_message.c#sText_PkmnSleptHealthy", "th": "{B_ATK_NAME_WITH_PREFIX} นอนหลับจนหายเป็นปกติ!"}
+{"id": "src/battle_message.c#sText_PkmnWhippedWhirlwind", "th": "{B_ATK_NAME_WITH_PREFIX} ปั่นลมหมุนขึ้นมา!"}
+{"id": "src/battle_message.c#sText_PkmnTookSunlight", "th": "{B_ATK_NAME_WITH_PREFIX} ดูดซับแสงแดด!"}
+{"id": "src/battle_message.c#sText_PkmnLoweredHead", "th": "{B_ATK_NAME_WITH_PREFIX} ก้มหัวลง!"}
+{"id": "src/battle_message.c#sText_PkmnIsGlowing", "th": "{B_ATK_NAME_WITH_PREFIX} เปล่งแสง!"}
+{"id": "src/battle_message.c#sText_PkmnFlewHigh", "th": "{B_ATK_NAME_WITH_PREFIX} บินขึ้นสูง!"}
+{"id": "src/battle_message.c#sText_PkmnDugHole", "th": "{B_ATK_NAME_WITH_PREFIX} ขุดหลุมลงไป!"}
+{"id": "src/battle_message.c#sText_PkmnHidUnderwater", "th": "{B_ATK_NAME_WITH_PREFIX} ดำน้ำหลบอยู่!"}
+{"id": "src/battle_message.c#sText_PkmnSprangUp", "th": "{B_ATK_NAME_WITH_PREFIX} กระโดดขึ้นสูง!"}
+{"id": "src/battle_message.c#sText_PkmnSqueezedByBind", "th": "{B_DEF_NAME_WITH_PREFIX} ถูก {B_ATK_NAME_WITH_PREFIX} ใช้ท่า BIND บีบรัด!"}
+{"id": "src/battle_message.c#sText_PkmnTrappedInVortex", "th": "{B_DEF_NAME_WITH_PREFIX} ติดอยู่ในน้ำวน!"}
+{"id": "src/battle_message.c#sText_PkmnTrappedBySandTomb", "th": "{B_DEF_NAME_WITH_PREFIX} ติดอยู่ใน SAND TOMB!"}
+{"id": "src/battle_message.c#sText_PkmnWrappedBy", "th": "{B_DEF_NAME_WITH_PREFIX} ถูก {B_ATK_NAME_WITH_PREFIX} ใช้ท่า WRAP พันรัดไว้!"}
+{"id": "src/battle_message.c#sText_PkmnClamped", "th": "{B_ATK_NAME_WITH_PREFIX} ใช้ท่า CLAMP หนีบ {B_DEF_NAME_WITH_PREFIX} ไว้!"}
+{"id": "src/battle_message.c#sText_PkmnHurtBy", "th": "{B_ATK_NAME_WITH_PREFIX} ได้รับบาดเจ็บจาก {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_PkmnFreedFrom", "th": "{B_ATK_NAME_WITH_PREFIX} หลุดจาก {B_BUFF1} แล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnCrashed", "th": "{B_ATK_NAME_WITH_PREFIX} พุ่งเลยเป้าไปชนเข้าอย่างจัง!"}
+{"id": "src/battle_message.c#gText_PkmnShroudedInMist", "th": "{B_ATK_PREFIX2} ถูก MIST ปกคลุม!"}
+{"id": "src/battle_message.c#sText_PkmnProtectedByMist", "th": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} ได้รับการปกป้องจาก MIST!"}
+{"id": "src/battle_message.c#gText_PkmnGettingPumped", "th": "{B_ATK_NAME_WITH_PREFIX} ฮึกเหิมขึ้นมา!"}
+{"id": "src/battle_message.c#sText_PkmnHitWithRecoil", "th": "{B_ATK_NAME_WITH_PREFIX} ได้รับแรงสะท้อนกลับ!"}
+{"id": "src/battle_message.c#sText_PkmnProtectedItself2", "th": "{B_ATK_NAME_WITH_PREFIX} ป้องกันตัวเองไว้!"}
+{"id": "src/battle_message.c#sText_PkmnBuffetedBySandstorm", "th": "{B_ATK_NAME_WITH_PREFIX} ถูกพายุทรายโหมกระหน่ำ!"}
+{"id": "src/battle_message.c#sText_PkmnPeltedByHail", "th": "{B_ATK_NAME_WITH_PREFIX} ถูก HAIL กระหน่ำ!"}
+{"id": "src/battle_message.c#sText_PkmnsXWoreOff", "th": "{B_BUFF1} ของ {B_ATK_PREFIX1} หมดฤทธิ์แล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnSeeded", "th": "{B_DEF_NAME_WITH_PREFIX} ถูกฝังเมล็ด!"}
+{"id": "src/battle_message.c#sText_PkmnEvadedAttack", "th": "{B_DEF_NAME_WITH_PREFIX} หลบการโจมตีได้!"}
+{"id": "src/battle_message.c#sText_PkmnSappedByLeechSeed", "th": "LEECH SEED ดูดพลังชีวิตของ {B_ATK_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_PkmnFastAsleep", "th": "{B_ATK_NAME_WITH_PREFIX} หลับสนิท"}
+{"id": "src/battle_message.c#sText_PkmnWokeUp", "th": "{B_ATK_NAME_WITH_PREFIX} ตื่นแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnUproarKeptAwake", "th": "แต่ UPROAR ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ทำให้หลับไม่ลง!"}
+{"id": "src/battle_message.c#sText_PkmnWokeUpInUproar", "th": "{B_ATK_NAME_WITH_PREFIX} ตื่นเพราะ UPROAR!"}
+{"id": "src/battle_message.c#sText_PkmnCausedUproar", "th": "{B_ATK_NAME_WITH_PREFIX} เริ่มใช้ท่า UPROAR!"}
+{"id": "src/battle_message.c#sText_PkmnMakingUproar", "th": "{B_ATK_NAME_WITH_PREFIX} กำลังใช้ท่า UPROAR อยู่!"}
+{"id": "src/battle_message.c#sText_PkmnCalmedDown", "th": "{B_ATK_NAME_WITH_PREFIX} สงบลงแล้ว"}
+{"id": "src/battle_message.c#sText_PkmnCantSleepInUproar", "th": "แต่ {B_DEF_NAME_WITH_PREFIX} หลับไม่ลงเพราะ UPROAR!"}
+{"id": "src/battle_message.c#sText_PkmnStockpiled", "th": "{B_ATK_NAME_WITH_PREFIX} ใช้ท่า STOCKPILE สะสมพลังได้ {B_BUFF1} ครั้ง!"}
+{"id": "src/battle_message.c#sText_PkmnCantStockpile", "th": "{B_ATK_NAME_WITH_PREFIX} ใช้ท่า STOCKPILE เพิ่มไม่ได้อีกแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnCantSleepInUproar2", "th": "แต่ {B_DEF_NAME_WITH_PREFIX} หลับไม่ลงเพราะ UPROAR!"}
+{"id": "src/battle_message.c#sText_UproarKeptPkmnAwake", "th": "แต่ UPROAR ทำให้ {B_DEF_NAME_WITH_PREFIX} ยังตื่นอยู่!"}
+{"id": "src/battle_message.c#sText_PkmnStayedAwakeUsing", "th": "{B_DEF_NAME_WITH_PREFIX} ตื่นอยู่ได้ด้วย {B_DEF_ABILITY}!"}
+{"id": "src/battle_message.c#sText_PkmnStoringEnergy", "th": "{B_ATK_NAME_WITH_PREFIX} กำลังสะสมพลังงาน!"}
+{"id": "src/battle_message.c#sText_PkmnUnleashedEnergy", "th": "{B_ATK_NAME_WITH_PREFIX} ปลดปล่อยพลังงาน!"}
+{"id": "src/battle_message.c#sText_PkmnFatigueConfusion", "th": "{B_ATK_NAME_WITH_PREFIX} สับสนเพราะความเหนื่อยล้า!"}
+{"id": "src/battle_message.c#sText_PlayerPickedUpMoney", "th": "{B_PLAYER_NAME} เก็บเงินได้ ¥{B_BUFF1}!\\p"}
+{"id": "src/battle_message.c#sText_PkmnUnaffected", "th": "{B_DEF_NAME_WITH_PREFIX} ไม่ได้รับผลใด ๆ!"}
+{"id": "src/battle_message.c#sText_PkmnTransformedInto", "th": "{B_ATK_NAME_WITH_PREFIX} แปลงร่างเป็น {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_PkmnMadeSubstitute", "th": "{B_ATK_NAME_WITH_PREFIX} สร้าง SUBSTITUTE ขึ้นมา!"}
+{"id": "src/battle_message.c#sText_PkmnHasSubstitute", "th": "{B_ATK_NAME_WITH_PREFIX} มี SUBSTITUTE อยู่แล้ว!"}
+{"id": "src/battle_message.c#sText_SubstituteDamaged", "th": "SUBSTITUTE รับความเสียหายแทน {B_DEF_NAME_WITH_PREFIX}!\\p"}
+{"id": "src/battle_message.c#sText_PkmnSubstituteFaded", "th": "SUBSTITUTE ของ {B_DEF_NAME_WITH_PREFIX} หายไปแล้ว!\\p"}
+{"id": "src/battle_message.c#sText_PkmnMustRecharge", "th": "{B_ATK_NAME_WITH_PREFIX} ต้องพักเพื่อเติมพลัง!"}
+{"id": "src/battle_message.c#sText_PkmnRageBuilding", "th": "RAGE ของ {B_DEF_NAME_WITH_PREFIX} ทวีความรุนแรงขึ้น!"}
+{"id": "src/battle_message.c#sText_PkmnMoveWasDisabled", "th": "{B_BUFF1} ของ {B_DEF_NAME_WITH_PREFIX} ถูกห้ามใช้!"}
+{"id": "src/battle_message.c#sText_PkmnMoveDisabledNoMore", "th": "{B_ATK_NAME_WITH_PREFIX} พ้นจากการถูกห้ามใช้ท่าแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnGotEncore", "th": "{B_DEF_NAME_WITH_PREFIX} โดน ENCORE!"}
+{"id": "src/battle_message.c#sText_PkmnEncoreEnded", "th": "ENCORE ของ {B_ATK_NAME_WITH_PREFIX} หมดผลแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnTookAim", "th": "{B_ATK_NAME_WITH_PREFIX} เล็งเป้าไปที่ {B_DEF_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_PkmnSketchedMove", "th": "{B_ATK_NAME_WITH_PREFIX} ใช้ท่า SKETCH คัดลอก {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_PkmnTryingToTakeFoe", "th": "{B_ATK_NAME_WITH_PREFIX} พยายามจะลากคู่ต่อสู้ไปด้วย!"}
+{"id": "src/battle_message.c#sText_PkmnTookFoe", "th": "{B_DEF_NAME_WITH_PREFIX} ลาก {B_ATK_NAME_WITH_PREFIX} ไปด้วย!"}
+{"id": "src/battle_message.c#sText_PkmnReducedPP", "th": "PP ของท่า {B_BUFF1} ของ {B_DEF_NAME_WITH_PREFIX} ลดลง {B_BUFF2}!"}
+{"id": "src/battle_message.c#sText_PkmnStoleItem", "th": "{B_ATK_NAME_WITH_PREFIX} ขโมย {B_LAST_ITEM} ของ {B_DEF_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_TargetCantEscapeNow", "th": "{B_DEF_NAME_WITH_PREFIX} หนีไม่ได้แล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnFellIntoNightmare", "th": "{B_DEF_NAME_WITH_PREFIX} ตกอยู่ใน NIGHTMARE!"}
+{"id": "src/battle_message.c#sText_PkmnLockedInNightmare", "th": "{B_ATK_NAME_WITH_PREFIX} ติดอยู่ใน NIGHTMARE!"}
+{"id": "src/battle_message.c#sText_PkmnLaidCurse", "th": "{B_ATK_NAME_WITH_PREFIX} ตัด HP ของตัวเอง แล้วใช้ CURSE สาปแช่ง {B_DEF_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_PkmnAfflictedByCurse", "th": "{B_ATK_NAME_WITH_PREFIX} ได้รับผลจาก CURSE!"}
+{"id": "src/battle_message.c#sText_SpikesScattered", "th": "SPIKES ถูกโปรยไปทั่วฝั่งของคู่ต่อสู้!"}
+{"id": "src/battle_message.c#sText_PkmnHurtBySpikes", "th": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} ได้รับบาดเจ็บจาก SPIKES!"}
+{"id": "src/battle_message.c#sText_PkmnIdentified", "th": "{B_ATK_NAME_WITH_PREFIX} มองทะลุ {B_DEF_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_PkmnPerishCountFell", "th": "การนับถอยหลัง PERISH ของ {B_ATK_NAME_WITH_PREFIX} ลดลงเหลือ {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_PkmnBracedItself", "th": "{B_ATK_NAME_WITH_PREFIX} ตั้งท่ารับ!"}
+{"id": "src/battle_message.c#sText_PkmnEnduredHit", "th": "{B_DEF_NAME_WITH_PREFIX} ใช้ท่า ENDURE รับการโจมตีไว้ได้!"}
+{"id": "src/battle_message.c#sText_MagnitudeStrength", "th": "MAGNITUDE {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_PkmnCutHPMaxedAttack", "th": "{B_ATK_NAME_WITH_PREFIX} ตัด HP ของตัวเอง แล้วเพิ่มพลังโจมตีจนถึงขีดสุด!"}
+{"id": "src/battle_message.c#sText_PkmnCopiedStatChanges", "th": "{B_ATK_NAME_WITH_PREFIX} คัดลอกการเปลี่ยนแปลงค่าสถานะของ {B_DEF_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_PkmnGotFree", "th": "{B_ATK_NAME_WITH_PREFIX} หลุดพ้นจาก {B_BUFF1} ของ {B_DEF_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_PkmnShedLeechSeed", "th": "{B_ATK_NAME_WITH_PREFIX} สลัด LEECH SEED ออกได้!"}
+{"id": "src/battle_message.c#sText_PkmnBlewAwaySpikes", "th": "{B_ATK_NAME_WITH_PREFIX} ปัด SPIKES ทิ้งไปแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnFledFromBattle", "th": "{B_ATK_NAME_WITH_PREFIX} หนีออกจากการต่อสู้!"}
+{"id": "src/battle_message.c#sText_PkmnForesawAttack", "th": "{B_ATK_NAME_WITH_PREFIX} มองเห็นการโจมตีล่วงหน้า!"}
+{"id": "src/battle_message.c#sText_PkmnTookAttack", "th": "{B_DEF_NAME_WITH_PREFIX} โดนการโจมตี {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_PkmnChoseXAsDestiny", "th": "{B_ATK_NAME_WITH_PREFIX} เลือก {B_CURRENT_MOVE} เป็นชะตากรรมของตน!"}
+{"id": "src/battle_message.c#sText_PkmnAttack", "th": "การโจมตีของ {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_PkmnCenterAttention", "th": "{B_ATK_NAME_WITH_PREFIX} กลายเป็นจุดสนใจ!"}
+{"id": "src/battle_message.c#sText_PkmnChargingPower", "th": "{B_ATK_NAME_WITH_PREFIX} เริ่มชาร์จพลัง!"}
+{"id": "src/battle_message.c#sText_NaturePowerTurnedInto", "th": "NATURE POWER กลายเป็น {B_CURRENT_MOVE}!"}
+{"id": "src/battle_message.c#sText_PkmnStatusNormal", "th": "สถานะของ {B_ATK_NAME_WITH_PREFIX} กลับเป็นปกติแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnSubjectedToTorment", "th": "{B_DEF_NAME_WITH_PREFIX} โดน TORMENT!"}
+{"id": "src/battle_message.c#sText_PkmnTighteningFocus", "th": "{B_ATK_NAME_WITH_PREFIX} กำลังรวบรวมสมาธิ!"}
+{"id": "src/battle_message.c#sText_PkmnFellForTaunt", "th": "{B_DEF_NAME_WITH_PREFIX} หลงกล TAUNT!"}
+{"id": "src/battle_message.c#sText_PkmnReadyToHelp", "th": "{B_ATK_NAME_WITH_PREFIX} พร้อมช่วยเหลือ {B_DEF_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_PkmnSwitchedItems", "th": "{B_ATK_NAME_WITH_PREFIX} สลับไอเท็มกับคู่ต่อสู้!"}
+{"id": "src/battle_message.c#sText_PkmnObtainedX", "th": "{B_ATK_NAME_WITH_PREFIX} ได้รับ {B_BUFF1}"}
+{"id": "src/battle_message.c#sText_PkmnObtainedX2", "th": "{B_DEF_NAME_WITH_PREFIX} ได้รับ {B_BUFF2}"}
+{"id": "src/battle_message.c#sText_PkmnObtainedXYObtainedZ", "th": "{B_ATK_NAME_WITH_PREFIX} ได้รับ {B_BUFF1}\\p{B_DEF_NAME_WITH_PREFIX} ได้รับ {B_BUFF2}"}
+{"id": "src/battle_message.c#sText_PkmnCopiedFoe", "th": "{B_ATK_NAME_WITH_PREFIX} ลอกเลียน {B_DEF_ABILITY} ของ {B_DEF_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_PkmnMadeWish", "th": "{B_ATK_NAME_WITH_PREFIX} ใช้ท่า WISH อธิษฐานขอพร!"}
+{"id": "src/battle_message.c#sText_PkmnWishCameTrue", "th": "WISH ของ {B_BUFF1} เป็นจริงแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnPlantedRoots", "th": "{B_ATK_NAME_WITH_PREFIX} หยั่งรากลงดิน!"}
+{"id": "src/battle_message.c#sText_PkmnAbsorbedNutrients", "th": "{B_ATK_NAME_WITH_PREFIX} ดูดสารอาหารผ่านราก!"}
+{"id": "src/battle_message.c#sText_PkmnAnchoredItself", "th": "{B_DEF_NAME_WITH_PREFIX} ยึดตัวเองไว้ด้วยราก!"}
+{"id": "src/battle_message.c#sText_PkmnWasMadeDrowsy", "th": "{B_ATK_NAME_WITH_PREFIX} ทำให้ {B_DEF_NAME_WITH_PREFIX} ง่วงนอน!"}
+{"id": "src/battle_message.c#sText_PkmnKnockedOff", "th": "{B_ATK_NAME_WITH_PREFIX} ปัด {B_LAST_ITEM} ของ {B_DEF_NAME_WITH_PREFIX} หลุดมือ!"}
+{"id": "src/battle_message.c#sText_PkmnSwappedAbilities", "th": "{B_ATK_NAME_WITH_PREFIX} สลับคุณสมบัติกับคู่ต่อสู้!"}
+{"id": "src/battle_message.c#sText_PkmnSealedOpponentMove", "th": "{B_ATK_NAME_WITH_PREFIX} ผนึกท่าของคู่ต่อสู้!"}
+{"id": "src/battle_message.c#sText_PkmnWantsGrudge", "th": "{B_ATK_NAME_WITH_PREFIX} ต้องการให้คู่ต่อสู้แบกรับความแค้นจาก GRUDGE!"}
+{"id": "src/battle_message.c#sText_PkmnLostPPGrudge", "th": "{B_BUFF1} ของ {B_ATK_NAME_WITH_PREFIX} เสีย PP ทั้งหมดเพราะ GRUDGE!"}
+{"id": "src/battle_message.c#sText_PkmnShroudedItself", "th": "{B_ATK_NAME_WITH_PREFIX} ห่อหุ้มตัวเองด้วย {B_CURRENT_MOVE}!"}
+{"id": "src/battle_message.c#sText_PkmnMoveBounced", "th": "{B_CURRENT_MOVE} ของ {B_ATK_NAME_WITH_PREFIX} ถูก MAGIC COAT สะท้อนกลับ!"}
+{"id": "src/battle_message.c#sText_PkmnWaitsForTarget", "th": "{B_ATK_NAME_WITH_PREFIX} รอให้เป้าหมายเคลื่อนไหว!"}
+{"id": "src/battle_message.c#sText_PkmnSnatchedMove", "th": "{B_DEF_NAME_WITH_PREFIX} ใช้ท่า SNATCH ฉกท่าของ {B_SCR_ACTIVE_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_ElectricityWeakened", "th": "พลังของไฟฟ้าอ่อนลง!"}
+{"id": "src/battle_message.c#sText_FireWeakened", "th": "พลังของไฟอ่อนลง!"}
+{"id": "src/battle_message.c#sText_XFoundOneY", "th": "{B_ATK_NAME_WITH_PREFIX} เจอ {B_LAST_ITEM} หนึ่งชิ้น!"}
+{"id": "src/battle_message.c#sText_SoothingAroma", "th": "กลิ่นหอมชวนผ่อนคลายลอยฟุ้งไปทั่วบริเวณ!"}
+{"id": "src/battle_message.c#sText_ItemsCantBeUsedNow", "th": "ตอนนี้ใช้ไอเท็มไม่ได้{PAUSE 64}"}
+{"id": "src/battle_message.c#sText_ForXCommaYZ", "th": "สำหรับ {B_SCR_ACTIVE_NAME_WITH_PREFIX} แล้ว {B_LAST_ITEM} {B_BUFF1}"}
+{"id": "src/battle_message.c#sText_PkmnUsedXToGetPumped", "th": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} ใช้ {B_LAST_ITEM} เพื่อเพิ่มความฮึกเหิม!"}
+{"id": "src/battle_message.c#sText_PkmnLostFocus", "th": "{B_ATK_NAME_WITH_PREFIX} เสียสมาธิจนขยับไม่ได้!"}
+{"id": "src/battle_message.c#sText_PkmnWasDraggedOut", "th": "{B_DEF_NAME_WITH_PREFIX} ถูกลากออกมา!\\p"}
+{"id": "src/battle_message.c#sText_TheWallShattered", "th": "กำแพงแตกกระจาย!"}
+{"id": "src/battle_message.c#sText_ButNoEffect", "th": "แต่ไม่มีผลใด ๆ!"}
+{"id": "src/battle_message.c#sText_PkmnHasNoMovesLeft", "th": "{B_ACTIVE_NAME_WITH_PREFIX} ไม่มีท่าเหลือให้ใช้แล้ว!\\p"}
+{"id": "src/battle_message.c#sText_PkmnMoveIsDisabled", "th": "{B_CURRENT_MOVE} ของ {B_ACTIVE_NAME_WITH_PREFIX} ถูกห้ามใช้อยู่!\\p"}
+{"id": "src/battle_message.c#sText_PkmnCantUseMoveTorment", "th": "{B_ACTIVE_NAME_WITH_PREFIX} ใช้ท่าเดิมติดกันไม่ได้เพราะโดน TORMENT!\\p"}
+{"id": "src/battle_message.c#sText_PkmnCantUseMoveTaunt", "th": "{B_ACTIVE_NAME_WITH_PREFIX} ใช้ {B_CURRENT_MOVE} ไม่ได้เพราะโดน TAUNT!\\p"}
+{"id": "src/battle_message.c#sText_PkmnCantUseMoveSealed", "th": "{B_ACTIVE_NAME_WITH_PREFIX} ใช้ {B_CURRENT_MOVE} ที่ถูกผนึกไว้ไม่ได้!\\p"}
+{"id": "src/battle_message.c#sText_PkmnMadeItRain", "th": "{B_SCR_ACTIVE_ABILITY} ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ทำให้ฝนตก!"}
+{"id": "src/battle_message.c#sText_PkmnRaisedSpeed", "th": "{B_SCR_ACTIVE_ABILITY} ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ทำให้ความเร็วเพิ่มขึ้น!"}
+{"id": "src/battle_message.c#sText_PkmnProtectedBy", "th": "{B_DEF_NAME_WITH_PREFIX} ได้รับการปกป้องจาก {B_DEF_ABILITY}!"}
+{"id": "src/battle_message.c#sText_PkmnPreventsUsage", "th": "{B_DEF_ABILITY} ของ {B_DEF_NAME_WITH_PREFIX} ทำให้ {B_ATK_NAME_WITH_PREFIX} ใช้ {B_CURRENT_MOVE} ไม่ได้!"}
+{"id": "src/battle_message.c#sText_PkmnRestoredHPUsing", "th": "{B_DEF_NAME_WITH_PREFIX} ฟื้น HP ด้วย {B_DEF_ABILITY}!"}
+{"id": "src/battle_message.c#sText_PkmnsXMadeYUseless", "th": "{B_DEF_ABILITY} ของ {B_DEF_NAME_WITH_PREFIX} ทำให้ {B_CURRENT_MOVE} ไร้ผล!"}
+{"id": "src/battle_message.c#sText_PkmnChangedTypeWith", "th": "{B_DEF_ABILITY} ของ {B_DEF_NAME_WITH_PREFIX} เปลี่ยนให้เป็นประเภท {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_PkmnPreventsParalysisWith", "th": "{B_DEF_ABILITY} ของ {B_EFF_NAME_WITH_PREFIX} ป้องกันอัมพาต!"}
+{"id": "src/battle_message.c#sText_PkmnPreventsRomanceWith", "th": "{B_DEF_ABILITY} ของ {B_DEF_NAME_WITH_PREFIX} ป้องกันการหลงเสน่ห์!"}
+{"id": "src/battle_message.c#sText_PkmnPreventsPoisoningWith", "th": "{B_DEF_ABILITY} ของ {B_EFF_NAME_WITH_PREFIX} ป้องกันการติดพิษ!"}
+{"id": "src/battle_message.c#sText_PkmnPreventsConfusionWith", "th": "{B_DEF_ABILITY} ของ {B_DEF_NAME_WITH_PREFIX} ป้องกันความสับสน!"}
+{"id": "src/battle_message.c#sText_PkmnRaisedFirePowerWith", "th": "{B_DEF_ABILITY} ของ {B_DEF_NAME_WITH_PREFIX} เพิ่มพลังท่าประเภท FIRE!"}
+{"id": "src/battle_message.c#sText_PkmnAnchorsItselfWith", "th": "{B_DEF_NAME_WITH_PREFIX} ยึดตัวเองไว้ด้วย {B_DEF_ABILITY}!"}
+{"id": "src/battle_message.c#sText_PkmnCutsAttackWith", "th": "{B_SCR_ACTIVE_ABILITY} ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ลดพลังโจมตีของ {B_DEF_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_PkmnPreventsStatLossWith", "th": "{B_SCR_ACTIVE_ABILITY} ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ป้องกันค่าสถานะลดลง!"}
+{"id": "src/battle_message.c#sText_PkmnHurtsWith", "th": "{B_DEF_ABILITY} ของ {B_DEF_NAME_WITH_PREFIX} ทำร้าย {B_ATK_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_PkmnTraced", "th": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} ลอกแบบ {B_BUFF2} ของ {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_PkmnsXPreventsBurns", "th": "{B_EFF_ABILITY} ของ {B_EFF_NAME_WITH_PREFIX} ป้องกันแผลไฟไหม้!"}
+{"id": "src/battle_message.c#sText_PkmnsXBlocksY", "th": "{B_DEF_ABILITY} ของ {B_DEF_NAME_WITH_PREFIX} ป้องกัน {B_CURRENT_MOVE}!"}
+{"id": "src/battle_message.c#sText_PkmnsXBlocksY2", "th": "{B_SCR_ACTIVE_ABILITY} ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ป้องกัน {B_CURRENT_MOVE}!"}
+{"id": "src/battle_message.c#sText_PkmnsXRestoredHPALittle2", "th": "{B_ATK_ABILITY} ของ {B_ATK_NAME_WITH_PREFIX} ฟื้น HP เล็กน้อย!"}
+{"id": "src/battle_message.c#sText_PkmnsXWhippedUpSandstorm", "th": "{B_SCR_ACTIVE_ABILITY} ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ก่อพายุทราย!"}
+{"id": "src/battle_message.c#sText_PkmnsXIntensifiedSun", "th": "{B_SCR_ACTIVE_ABILITY} ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ทำให้แสงแดดแรงขึ้น!"}
+{"id": "src/battle_message.c#sText_PkmnsXPreventsYLoss", "th": "{B_SCR_ACTIVE_ABILITY} ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ป้องกัน {B_BUFF1} ลดลง!"}
+{"id": "src/battle_message.c#sText_PkmnsXInfatuatedY", "th": "{B_DEF_ABILITY} ของ {B_DEF_NAME_WITH_PREFIX} ทำให้ {B_ATK_NAME_WITH_PREFIX} หลงเสน่ห์!"}

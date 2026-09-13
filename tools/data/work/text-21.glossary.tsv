@@ -94,12 +94,23 @@ HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอ�
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
+COOL	เท่	contest	ประเภทคอนเทสต์; COOLNESS = ความเท่
+BEAUTY	สวยงาม	contest	ประเภทคอนเทสต์; BEAUTY CONTEST = คอนเทสต์ความสวยงาม
+CUTE	น่ารัก	contest	ประเภทคอนเทสต์; CUTENESS = ความน่ารัก
+SMART	ฉลาด	contest	ประเภทคอนเทสต์; SMARTNESS = ความฉลาด
+TOUGH	แข็งแกร่ง	contest	ประเภทคอนเทสต์; TOUGHNESS = ความแข็งแกร่ง
+NORMAL RANK	ระดับนอร์มอล	contest	
+SUPER RANK	ระดับซูเปอร์	contest	
+HYPER RANK	ระดับไฮเปอร์	contest	
+MASTER RANK	ระดับมาสเตอร์	contest	
+JUDGE	กรรมการ	contest	
+DAY CARE	สถานรับเลี้ยง	contest	
 BATTLE TOWER	แบทเทิลทาวเวอร์	frontier	
 BATTLE DOME	แบทเทิลโดม	frontier	
 BATTLE PALACE	แบทเทิลพาเลซ	frontier	
 BATTLE ARENA	แบทเทิลอารีนา	frontier	
 BATTLE FACTORY	แบทเทิลแฟกทอรี	frontier	
-BATTLE PIKE	แบทเทิลไพค์	frontier	
+BATTLE PIKE	แบทเทิลทิวบ์	frontier	
 BATTLE PYRAMID	แบทเทิลพีระมิด	frontier	
 BATTLE POINTS	แบทเทิลพอยต์	frontier	
 BP	BP	frontier	
@@ -210,7 +221,7 @@ TORCHIC DOLL	ตุ๊กตาอาชาโม	decoration
 MUDKIP DOLL	ตุ๊กตามิซึโกโร	decoration	
 KISS CUSHION	เบาะจุ๊บ	decoration	
 SNORLAX DOLL	ตุ๊กตาคาบิกอน	decoration	
-LAPRAS DOLL	ตุ๊กตาลาปลาซ	decoration	
+LAPRAS DOLL	ตุ๊กตาลาพลาซ	decoration	
 VENUSAUR DOLL	ตุ๊กตาฟุชิกิบานะ	decoration	
 CHARIZARD DOLL	ตุ๊กตาลิซาร์ดอน	decoration	
 BLASTOISE DOLL	ตุ๊กตาคาเม็กซ์	decoration	

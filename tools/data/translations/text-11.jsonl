@@ -1,342 +1,342 @@
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_CheckedClockStory","th":"นี่คือเรื่องราวของเทรนเนอร์ชื่อ {STR_VAR_3}\\pเทรนเนอร์คนนี้ดูนาฬิกาไปแล้ว {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นเทรนเนอร์ที่ตรงต่อเวลา และใส่ใจทุกนาทีเลยทีเดียว$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WonLotteryTitle","th":"พ่อมดลอตเตอรี่โปเกมอน$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WonLotteryAction","th":"ถูกลอตเตอรี่โปเกมอน$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WonLotteryStory","th":"นี่คือเรื่องราวของเทรนเนอร์ชื่อ {STR_VAR_3}\\pเทรนเนอร์คนนี้ถูกลอตเตอรี่โปเกมอน มาแล้ว {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงมีเพื่อนมากมาย ไว้แลกเปลี่ยนโปเกมอนด้วยแน่ ๆ!$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedDaycareTitle","th":"เทรนเนอร์ขาประจำสถานรับเลี้ยง$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedDaycareAction","th":"ฝากโปเกมอนไว้ที่สถานรับเลี้ยง$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedDaycareStory","th":"นี่คือเรื่องราวของเทรนเนอร์ชื่อ {STR_VAR_3}\\pเทรนเนอร์คนนี้ฝากโปเกมอนไว้ที่ สถานรับเลี้ยงถึง {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นคนมุ่งมั่น ที่เลี้ยงโปเกมอนอย่างจริงจังสุด ๆ!$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_RodeCableCarTitle","th":"เทรนเนอร์ผู้หลงรักกระเช้าลอยฟ้า$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_RodeCableCarAction","th":"นั่งกระเช้าลอยฟ้า$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_RodeCableCarStory","th":"นี่คือเรื่องราวของเทรนเนอร์ชื่อ {STR_VAR_3}\\pเทรนเนอร์คนนี้นั่งกระเช้าลอยฟ้า ไปแล้ว {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นเทรนเนอร์งานยุ่ง ที่ขึ้น ๆ ลง ๆ อยู่ตลอดเวลา!$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_HotSpringsTitle","th":"เทรนเนอร์ผู้หลงรักบ่อน้ำพุร้อน$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_HotSpringsAction","th":"แช่บ่อน้ำพุร้อน$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_HotSpringsStory","th":"นี่คือเรื่องราวของเทรนเนอร์ชื่อ {STR_VAR_3}\\pเทรนเนอร์คนนี้แช่บ่อน้ำพุร้อน ไปแล้ว {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นเทรนเนอร์ ที่มีผิวเนียนนุ่มเหมือนผิวเด็กแน่ ๆ!$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_HearMyStory","th":"ผมคือกิดดี้! มีเรื่องสุดตื่นเต้น จะเล่าให้ฟัง!\\pอยากฟังเรื่องของผมไหม?$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_GiddyFeelingTheBlues","th":"โธ่… ทำเอาผมเศร้าเลย…$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_AlsoIWasThinking","th":"แล้วก็นะ ผมกำลังคิดว่า…$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WeShouldChatAgain","th":"ก็ประมาณนี้แหละ…\\pไว้มาคุยกันอีกนะ! บ๊ายบาย!$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WouldYouLikeToHearMySong","th":"สวัสดี ผมคือบาร์ด นักร้องพเนจร อยากฟังเพลงของผมไหม?$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_BardFeelingTheBlues1","th":"โธ่… ทำเอาผมเศร้าเลย…$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WishICouldPlaySongForOthers","th":"โอ้ ช่างเป็นเพลงที่ซึ้งกินใจ… อยากเล่นให้คนอื่นฟังบ้างจัง…$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WouldYouLikeToWriteSomeLyrics","th":"เป็นไง? ชอบเพลงของผมไหม?\\pแต่ผมยังไม่ค่อยพอใจ เนื้อร้องเท่าไหร่\\pช่วยแต่งเนื้อเพลงใหม่ ให้ผมหน่อยได้ไหม?$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_BardFeelingTheBlues2","th":"โธ่… ทำเอาผมเศร้าเลย…$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_LetMeSingItForYou","th":"ขอบคุณมาก! งั้นขอร้องให้ฟังเลยนะ$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_ThatHowYouWantedSongToGo","th":"เพลงออกมาเป็นอย่างที่ อยากได้หรือเปล่า?$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_IllSingThisSongForAWhile","th":"โอเค! ตามนี้เลย ผมจะร้องเพลงนี้ไปอีกสักพัก$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TeachWhatsHipAndHappening","th":"เฮ้ โย่! เขาเรียกผมว่าฮิปสเตอร์ เดี๋ยวจะสอนว่าตอนนี้ อะไรกำลังฮิตกำลังมา$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_IAlreadyTaughtYou","th":"แต่เฮ้ ผมสอนเรื่องที่กำลังฮิต ให้เธอไปแล้วนี่\\pผมอยากไปบอกต่อ ให้คนอื่นบ้าง$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_IveGotNothingNewToTeach","th":"แต่เฮ้ เธอรู้เรื่องที่กำลังฮิต อยู่เยอะแล้วนี่\\pผมไม่มีอะไรใหม่จะสอนแล้วล่ะ!$"}
-{"id":"data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_HaveYouHeardOfWord","th":"เฮ้ เคยได้ยินคำว่า “{STR_VAR_1}” ไหม?\\pแปลว่าอะไรน่ะเหรอ? เอ่อ… ไปถามพ่อกับแม่ดูนะ โอเค?$"}
-{"id":"data/scripts/profile_man.inc#ProfileMan_Text_CollectTrainerProfiles","th":"สวัสดีครับ เทรนเนอร์! รอยยิ้มของคุณสวยจริง ๆ\\pผมมีงานอดิเรก คือสะสมโปรไฟล์ ของเทรนเนอร์โปเกมอนครับ$"}
-{"id":"data/scripts/profile_man.inc#ProfileMan_Text_MayISeeYourProfile","th":"ว่าไงครับ? ขอดูโปรไฟล์ของคุณ ได้ไหมครับ?$"}
-{"id":"data/scripts/profile_man.inc#ProfileMan_Text_EasyChatExplanation","th":"โปรไฟล์ทำได้ด้วยการนำคำ หรือวลีสี่ชิ้นมาเรียงต่อกันครับ\\pเดี๋ยวผมจะให้ดูตัวอย่างโปรไฟล์ ที่ใช้ข้อความสี่ชิ้นนะครับ\\pคุณสลับข้อความทั้งสี่ชิ้น กับชิ้นอื่นได้ตามใจชอบ เพื่อสร้างโปรไฟล์ของตัวเอง\\pข้อความที่ใช้ได้มีเยอะมากครับ\\pข้อความถูกจัดเป็นกลุ่ม เช่น โปเกมอน ไลฟ์สไตล์ และงานอดิเรก จะได้หาง่าย ๆ\\pอันดับแรก ให้เลือกกลุ่มข้อความ เพื่อแสดงรายการตัวเลือก\\pจากนั้นเลือกคำที่ต้องการ\\pทำแบบนี้กับข้อความที่เหลือ แล้วคุณจะได้โปรไฟล์ของตัวเองครับ$"}
-{"id":"data/scripts/profile_man.inc#ProfileMan_Text_LetsSeeItThen","th":"ดีเลย! ขอบคุณครับ! งั้นขอดูหน่อยนะครับ$"}
-{"id":"data/scripts/profile_man.inc#ProfileMan_Text_ImagineYouWouldHaveWonderfulProfile","th":"โธ่ จริงเหรอครับ?\\pคนอย่างคุณ ต้องมีโปรไฟล์ที่ยอดเยี่ยมแน่ ๆ…$"}
-{"id":"data/scripts/profile_man.inc#ProfileMan_Text_NotIntoItRightNow","th":"อ้าว? ตอนนี้ยังไม่อยากทำเหรอครับ?\\pไม่เป็นไรครับ ผมสะดวกตลอดเวลา!$"}
-{"id":"data/scripts/profile_man.inc#ProfileMan_Text_YouHaveWonderfulSmile","th":"สวัสดีครับ เทรนเนอร์! รอยยิ้มของคุณสวยจริง ๆ$"}
-{"id":"data/scripts/profile_man.inc#ProfileMan_Text_MayISeeYourNewProfile","th":"ขอดูโปรไฟล์ใหม่ของคุณ ได้ไหมครับ?$"}
-{"id":"data/scripts/profile_man.inc#ProfileMan_Text_EvenBetterThanLastProfile","th":"ดีเลย! ขอบคุณครับ!\\pหวังว่าจะดียิ่งกว่า โปรไฟล์ที่ให้ดูครั้งก่อนนะครับ$"}
-{"id":"data/scripts/profile_man.inc#ProfileMan_Text_LikeProfileWayItIs","th":"อ๋อ คุณชอบโปรไฟล์แบบเดิมอยู่แล้ว\\pก็ไม่แปลกครับ โปรไฟล์ตอนนี้ ก็ยอดเยี่ยมอยู่แล้ว$"}
-{"id":"data/scripts/profile_man.inc#ProfileMan_Text_FantasticProfile","th":"ย-ยอดไปเลย!\\pโปรไฟล์ของคุณสุดยอดมาก! บอกความเป็นตัวคุณได้ชัดเจนจริง ๆ\\pใครได้ยินโปรไฟล์นี้ ต้องหลงเสน่ห์คุณแน่นอน!\\pขอบคุณครับ!$"}
-{"id":"data/scripts/profile_man.inc#ProfileMan_Text_YouKnowSecretSaying","th":"อ๊ะ? คุณรู้คำลับด้วย!\\pแปลว่าตอนนี้คุณเป็นสมาชิก ชมรมมิสเทอรีอีเวนต์แล้วนะครับ!$"}
-{"id":"data/scripts/repel.inc#Text_RepelWoreOff","th":"REPEL หมดฤทธิ์แล้ว…$"}
-{"id":"data/scripts/roulette.inc#Roulette_Text_PlayMinimumWagerIsX","th":"เดิมพันขั้นต่ำของโต๊ะนี้ คือ {STR_VAR_1} จะเล่นไหม?$"}
-{"id":"data/scripts/roulette.inc#Roulette_Text_NotEnoughCoins","th":"เหรียญไม่พอ$"}
-{"id":"data/scripts/roulette.inc#Roulette_Text_SpecialRateTable","th":"ตอนนี้โต๊ะนี้ได้อัตราพิเศษ!$"}
-{"id":"data/scripts/roulette.inc#Roulette_Text_ControlsInstruction","th":"วางเดิมพันด้วยปุ่มทิศทาง + แล้วกดปุ่ม A$"}
-{"id":"data/scripts/roulette.inc#Roulette_Text_ItsAHit","th":"ถูกแล้ว!$"}
-{"id":"data/scripts/roulette.inc#Roulette_Text_Jackpot","th":"แจ็กพอต!$"}
-{"id":"data/scripts/roulette.inc#Roulette_Text_NothingDoing","th":"ไม่ถูกเลย!$"}
-{"id":"data/scripts/roulette.inc#Roulette_Text_YouveWonXCoins","th":"ได้รับ {STR_VAR_1} เหรียญ!$"}
-{"id":"data/scripts/roulette.inc#Roulette_Text_NoCoinsLeft","th":"เหรียญหมดแล้ว…$"}
-{"id":"data/scripts/roulette.inc#Roulette_Text_KeepPlaying","th":"เล่นต่อไหม?$"}
-{"id":"data/scripts/roulette.inc#Roulette_Text_BoardWillBeCleared","th":"จะเคลียร์กระดานรูเล็ต$"}
-{"id":"data/scripts/roulette.inc#Roulette_Text_YouDontHaveACoinCase","th":"ไม่มี COIN CASE$"}
-{"id":"data/scripts/roulette.inc#Roulette_Text_CoinCaseIsFull","th":"COIN CASE เต็มแล้ว! นำเหรียญไปแลกของรางวัลได้$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Text_WouldYouLikeToExit","th":"จะออกจากซาฟารีโซน ตอนนี้เลยไหม?$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Text_TimesUp","th":"ติ๊งต่อง! หมดเวลา! เกมซาฟารีจบแล้ว$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Text_OutOfBalls","th":"SAFARI BALL หมดแล้ว เกมซาฟารีจบแล้ว$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Text_PlacePokeblockOnFeeder","th":"จะวาง{POKEBLOCK} ไว้บนที่วาง{POKEBLOCK}ไหม?$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Text_PokeblockStillHere","th":"{STR_VAR_1} ที่วางไว้ก่อนหน้านี้ ยังอยู่ที่นี่$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Text_PokeblockWasPlaced","th":"วาง {STR_VAR_1} ไว้บนที่วาง{POKEBLOCK}แล้ว$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_WelcomeToSafariZone","th":"ยินดีต้อนรับสู่ซาฟารีโซนค่ะ!\\pที่นี่ คุณจะได้พบโปเกมอนมากมาย ที่หาดูได้ยากในโฮเอ็น\\pและจะได้เห็นพวกมันในสภาพป่า ตามธรรมชาติจริง ๆ ค่ะ\\pยิ่งไปกว่านั้น เรายังเปิดประตูต้อนรับ เทรนเนอร์โปเกมอนด้วย\\pจับโปเกมอนกลับไปเป็นของตัวเองได้เลยค่ะ!\\pเชิญเข้ามาสนุกกับซาฟารีโซนได้เลยค่ะ!$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_WelcomeFirstTime","th":"ยินดีต้อนรับสู่ซาฟารีโซนครับ! มาที่นี่ครั้งแรกหรือเปล่าครับ?$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_ComeInAndEnjoy","th":"เชิญเข้ามาสนุกกับซาฟารีโซนได้เลยครับ!$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_FirstTimeInfo","th":"เมื่อเข้าซาฟารีโซน คุณจะได้ SAFARI BALL 30 ลูก ไว้จับโปเกมอน\\pเกมซาฟารีจะจบลงเมื่อ SAFARI BALL หมด หรือเมื่อเดินครบ 500 ก้าว\\pเชิญเข้ามาสนุกกับซาฟารีโซนได้เลยครับ!$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_WouldYouLikeToPlay","th":"ยินดีต้อนรับสู่ซาฟารีโซน!\\pจับได้ไม่อั้นเพียง ¥500! สนใจเล่นเกมซาฟารีไหม?$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_PlayAnotherTime","th":"ได้เลย โอกาสหน้าเชิญใหม่นะ!$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_NotEnoughMoney","th":"เงินไม่พอ ขออภัยด้วย$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_ThatWillBe500Please","th":"ค่าบริการ ¥500$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_HereAreYourSafariBalls","th":"นี่คือ SAFARI BALL ของคุณ$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_Received30SafariBalls","th":"{PLAYER} ได้รับ SAFARI BALL 30 ลูก$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_PleaseEnjoyYourself","th":"เมื่อเกมจบ เราจะแจ้งให้ทราบ\\pระหว่างนี้ ขอให้สนุกนะ! ออกผจญภัยในป่ากันเลย!$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_PCIsFull","th":"ขออภัย! กล่อง PC ของคุณเต็มแล้ว$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_YouNeedPokeblockCase","th":"ขออภัย! ดูเหมือนคุณ จะไม่มี {POKEBLOCK} CASE\\pถ้าใช้{POKEBLOCK} เกมซาฟารีจะได้ผลดีขึ้นมาก\\pกรุณากลับมาพร้อม {POKEBLOCK} CASE\\pรับ {POKEBLOCK} CASE ได้ที่ หอคอนเทสต์เมืองมินาโมะ$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_South_Text_StillHaveTimeExit","th":"ยังมีเวลาเหลืออยู่ จะออกจากซาฟารีโซนตอนนี้เลยไหมครับ?$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_South_Text_EnjoyTheRestOfYourAdventure","th":"ขอให้สนุกกับการผจญภัยในป่า ที่เหลืออยู่นะครับ!$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_South_Text_ExitEarlyThankYouForPlaying","th":"ได้ครับ\\pขอรับ SAFARI BALL ที่เหลือคืนนะครับ\\pขอบคุณที่มาเล่นครับ แล้วมาใหม่นะครับ$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_South_Text_GoodLuck","th":"โชคดีครับ!\\pถ้าต้องการอะไร บอกผมได้เลยนะครับ!$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_South_Text_Boy","th":"รู้ไหม?\\pถ้าเอา{POKEBLOCK}ใส่ในกล่องสี่เหลี่ยมนั่น โปเกมอนจะมารวมตัวกันล่ะ$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_South_Text_Man","th":"อยากเข้าไปลึกกว่านี้ แต่ลืมเอาจักรยานมา\\pรู้สึกว่าโปเกมอนหายาก น่าจะอยู่ตามพื้นที่รอบนอกนะ$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Southwest_Text_Woman","th":"บางทีโยน{POKEBLOCK}ให้โปเกมอน มันก็ไม่สนใจเลย\\pโปเกมอนก็เลือกกินเหมือนกัน เหรอคะ?$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Northwest_Text_Man","th":"แฮ่ก… แฮ่ก… ผม…มาถึงนี่…จนได้…แต่…\\pเหนื่อยแทบขาดใจ… ไม่มีแรงจะจับโปเกมอนแล้ว…$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_North_Text_Fisherman","th":"ผมมีภารกิจตามหาโปเกมอนประเภท WATER ที่ไม่มีในโฮเอ็น\\pรู้ไหมว่าทะเลสาบอยู่ตรงไหน?$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_North_Text_Man","th":"ผมจะจับโปเกมอนหายากที่นี่เยอะ ๆ แล้วเอาไปแลกกับเพื่อน!$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_South_Text_Youngster","th":"ผมวาง{POKEBLOCK}ไว้บนที่วาง{POKEBLOCK} แต่มันหายไปแล้ว\\pสงสัยโปเกมอนมากินไป ตอนที่ผมไม่ทันเห็นแน่ ๆ$"}
-{"id":"data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_TrainerTip","th":"เคล็ดลับเทรนเนอร์ ซาฟารีโซน!\\pโยน{POKEBLOCK}ใส่โปเกมอนป่า เพื่อให้มันหนีได้ยากขึ้น$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Southwest_Text_RestHouseSign","th":"“พักเท้าที่เหนื่อยล้า” บ้านพักผ่อน$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_RestHouse_Text_Youngster","th":"ผมไม่มี{POKEBLOCK}เลย แต่ก็จับโปเกมอนได้เยอะนะ\\pถ้าเข้าไปใกล้ ๆ ก่อนโยน SAFARI BALL โอกาสจับได้ก็จะสูงขึ้น$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_RestHouse_Text_PsychicM","th":"ถ้าใช้{POKEBLOCK} โปเกมอนป่าจะไม่หนีไวนัก\\pแต่ให้{POKEBLOCK}กับโปเกมอน ที่ไม่ค่อยหนีอยู่แล้ว ก็ไม่ค่อยได้ผลหรอก$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_RestHouse_Text_FatMan","th":"ถ้าวาง{POKEBLOCK}ไว้บนที่วาง โปเกมอนจะถูกดึงดูดเข้ามา\\pผมว่าโปเกมอนที่มีนิสัยแบบเดียวกัน จะชอบ{POKEBLOCK}แบบเดียวกันนะ$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_South_Text_AreaOffLimits1","th":"พื้นที่นี้ยังก่อสร้างอยู่ ห้ามเข้าครับ ขอโทษด้วย!$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Southeast_Text_ExpansionIsFinished","th":"โครงการขยายซาฟารีโซน เสร็จสมบูรณ์แล้วครับ\\pหวังว่าจะสนุกกับพื้นที่ใหม่นะครับ$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_South_Text_AreaOffLimits2","th":"พื้นที่นี้ยังก่อสร้างอยู่ ห้ามเข้าครับ ขอโทษด้วย!$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Southeast_Text_LittleGirl","th":"ว้าว! เย้! หนูไม่เคยเห็นโปเกมอนพวกนี้มาก่อนเลย!$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Southeast_Text_FatMan","th":"โปเกมอนแถวนี้ ผมไม่เคยเห็นมาก่อนเลย\\pแถมยังจับโปเกมอนหายากพวกนี้ได้ด้วย! เจ๋งสุด ๆ!$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Southeast_Text_RichBoy","th":"โปเกมอนแถวนี้ดูเหมือน จะมาจากที่อื่นที่ไม่ใช่โฮเอ็นนะ$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Northeast_Text_Boy","th":"SAFARI BALL เหลืออยู่แค่สองสามลูก\\pเลือกไม่ถูกเลยว่าจะจับตัวไหนดี$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Northeast_Text_Woman","th":"ได้ยินมาว่าที่นี่มีปิกาจูด้วย จะอยู่ตรงไหนนะ?$"}
-{"id":"data/scripts/safari_zone.inc#SafariZone_Northeast_Text_Girl","th":"โธ่เอ๊ย! จับอะไรไม่ได้เลย!\\pถ้าไม่ได้สักตัว ก็เสียค่าเข้าฟรีเลยน่ะสิ!$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_TreeCanBeClimbed","th":"ถ้ามีเถาวัลย์ห้อยลงมา ก็จะปีนต้นไม้นี้ได้$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_TreeUseSecretPower","th":"ถ้ามีเถาวัลย์ห้อยลงมา ก็จะปีนต้นไม้นี้ได้\\pจะใช้ SECRET POWER ไหม?$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_VineDroppedDown","th":"เถาวัลย์เส้นใหญ่ห้อยลงมาแล้ว!$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_ClumpOfGrass","th":"ถ้าขยับพุ่มหญ้านี้ได้ อาจเข้าไปข้างในได้$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_ClumpUseSecretPower","th":"ถ้าขยับพุ่มหญ้านี้ได้ อาจเข้าไปข้างในได้\\pจะใช้ SECRET POWER ไหม?$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_DiscoveredSmallEntrance","th":"พบทางเข้าเล็ก ๆ!$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_AllDecorationsWillBeReturned","th":"ของตกแต่งและเฟอร์นิเจอร์ทั้งหมดในฐานลับ จะถูกส่งกลับไปที่ PC\\pตกลงไหม?$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_WantToRegisterSecretBase","th":"จะลงทะเบียนฐานลับของ {STR_VAR_1} ไหม?$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_AlreadyRegisteredDelete","th":"ข้อมูลนี้ลงทะเบียนไว้แล้ว จะลบออกไหม?$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_TooManyBasesDeleteSome","th":"ลงทะเบียนได้สูงสุด 10 แห่ง\\pถ้าต้องการลงทะเบียนแห่งอื่น ให้ลบออกหนึ่งแห่ง$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_RegistrationCompleted","th":"ลงทะเบียนเรียบร้อย$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_DataUnregistered","th":"ยกเลิกการลงทะเบียนแล้ว$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_BootUpPC","th":"{PLAYER} เปิด PC$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_WhatWouldYouLikeToDo","th":"จะทำอะไร?$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_RegistryInfo","th":"ฐานลับที่ลงทะเบียนแล้วจะไม่หายไป เว้นแต่เทรนเนอร์เจ้าของ ย้ายไปที่อื่น\\pถ้าลบฐานลับออกจากรายการ ฐานอื่นอาจเข้ามาแทนที่\\pลงทะเบียนฐานลับได้สูงสุด 10 แห่ง$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_BattleTowerShield","th":"โล่{STR_VAR_2} ที่มอบให้เมื่อชนะติดต่อกัน {STR_VAR_1} ครั้ง ที่แบทเทิลทาวเวอร์$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_ToyTV","th":"ทีวีของเล่นเหมือนจริง จนอาจเข้าใจผิดว่าเป็นของจริงได้$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_SeedotTV","th":"ทีวีของเล่นรูปทาเนโบ ดูเหมือนพร้อมจะกลิ้งหนีไปเองได้…$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_SkittyTV","th":"ทีวีของเล่นรูปเอเนโกะ ดูเหมือนพร้อมจะเดินเตร่หนีไป…$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_WouldYouLikeToMoveBases","th":"สร้างฐานลับได้เพียงแห่งเดียว\\pจะย้ายออกจากฐานลับ ใกล้{STR_VAR_1}ไหม?$"}
-{"id":"data/scripts/secret_base.inc#SecretBase_Text_MovingCompletedUseSecretPower","th":"ย้ายเรียบร้อย\\pจะใช้ SECRET POWER ไหม?$"}
-{"id":"data/scripts/secret_power_tm.inc#Route111_Text_MakingRoomUseTMToMakeYourOwn","th":"อะไรเหรอ? ผมทำอะไรอยู่น่ะเหรอ?\\pผมกำลังคิดจะสร้างห้องของตัวเอง ตรงนี้ด้วยท่าของโปเกมอน\\pนึกออกแล้ว! ให้ TM นี่กับเธอ เธอจะเอาไปสร้างห้องของตัวเองไหม?$"}
-{"id":"data/scripts/secret_power_tm.inc#Route111_Text_ExplainSecretPower","th":"หาต้นไม้ใหญ่ที่ดูเหมือน จะมีเถาวัลย์ห้อยลงมาได้\\pใช้ SECRET POWER ตรงหน้าต้นไม้ เถาวัลย์จะหลุดห้อยลงมา ให้ปีนขึ้นไปได้\\pข้างบนมีที่ว่างเยอะ ไว้วางของที่ชอบ\\pมันจะเป็นห้องลับของเธอเอง… ฐานลับไงล่ะ!\\pเธอก็ลองสร้างสักแห่งสิ\\pอีกอย่าง ฐานลับไม่จำเป็นต้อง อยู่บนต้นไม้เสมอไปนะ\\pลองใช้ SECRET POWER กับผนังหิน ที่มีรอยบุ๋มเล็ก ๆ ดูสิ\\pผมจะไปหาที่อื่นดูบ้าง โอเค บ๊ายบาย!$"}
-{"id":"data/scripts/secret_power_tm.inc#Route111_Text_DontWantThis","th":"อ้าว ไม่เอาเหรอ? ถ้าเปลี่ยนใจก็บอกนะ โอเค?$"}
-{"id":"data/scripts/secret_power_tm.inc#Route111_Text_DontHaveAnyRoom","th":"อ้าว ไม่มีที่เก็บแล้วนี่\\pผมเก็บไว้ให้ก่อน ไว้ค่อยกลับมาเอานะ โอเค?$"}
-{"id":"data/scripts/shared_secret_base.inc#SecretBase_Text_SmallIndentInWall","th":"ผนังมีรอยบุ๋มเล็ก ๆ$"}
-{"id":"data/scripts/shared_secret_base.inc#SecretBase_Text_IndentUseSecretPower","th":"ผนังมีรอยบุ๋มเล็ก ๆ\\pจะใช้ SECRET POWER ไหม?$"}
-{"id":"data/scripts/shared_secret_base.inc#SecretBase_Text_DiscoveredSmallCavern","th":"พบถ้ำเล็ก ๆ!$"}
-{"id":"data/scripts/shared_secret_base.inc#SecretBase_Text_WantToMakeYourSecretBaseHere","th":"จะสร้างฐานลับที่นี่ไหม?$"}
-{"id":"data/scripts/test_signpost.inc#Text_ThisIsATestSignpostMsg","th":"นี่คือข้อความทดสอบ นี่คือป้าย$"}
-{"id":"data/text/abnormal_weather.inc#gText_AbnormalWeatherEnded_Rain","th":"ฝนที่ตกหนักดูเหมือนจะหยุดแล้ว…$"}
-{"id":"data/text/abnormal_weather.inc#gText_AbnormalWeatherEnded_Sun","th":"แสงแดดที่แผดจ้าดูเหมือนจะอ่อนลงแล้ว…$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge0","th":"เอ่อ ผมเป็นศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ฮะ ฮึก… ตื่นเต้นจนทนไม่ไหวแล้ว…$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge1","th":"ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1}! ลุยเลย!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge2","th":"ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ครับ! โปรดรับคำท้าของผมด้วย!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge3","th":"เอ่อ… ฉันเป็นศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ค่ะ… คนอย่างฉันจะชนะได้เหรอคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge4","th":"ฉันคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1}! จะยอมให้เธอท้าสู้ก็ได้!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge5","th":"ผมยุ่งสุด ๆ แต่ก็บังเอิญเป็น ศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ด้วยนะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge6","th":"ฉันคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1}! ยินดีที่ได้รู้จักนะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge7","th":"ดิฉันรับใช้เป็นศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ค่ะ ขอเริ่มเลยได้ไหมคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge8","th":"กรี๊ด! ฉันคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ค่ะ! จะพยายามเต็มที่เลยค่ะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge9","th":"ยี่ฮา! ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1}! ตั้งการ์ดเลย!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge10","th":"ผมคือศิษย์คนที่ 1,000 ของ {STR_VAR_1}! จริง ๆ แล้วเป็นหมายเลข {STR_VAR_2} ต่างหาก! ลุยเลย!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge11","th":"เย่! ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1}! มาร็อกแอนด์โรลกันให้มันส์!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge12","th":"ยิปปี้ยาฮู! ผมนี่แหละ ศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1}!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge13","th":"แค่ก! ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ยินดีที่ได้รู้จัก! แค่ก!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge14","th":"ประหม่าจังเลย… ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ครับ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeChallenge15","th":"ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} และนั่นไม่ใช่เรื่องโกหกครับ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach0","th":"คุณคือ… {PLAYER} ใช่ไหมฮะ? โอ๊ะ! ฮึก…ฮือ…\\pอ๊ะ! ข-ขอโทษฮะ… ผมตื่นเต้นจนกลั้นน้ำตาไม่อยู่…\\pผมชื่อ {STR_VAR_1} ฮะ ผมชื่นชมคุณ {PLAYER} มากเลย\\pผม… ผมฝันมาตลอดว่าสักวัน จะได้เจอคุณ แล้วถามเรื่องโปเกมอน\\pขอร้องล่ะฮะ คุณ {PLAYER}! ช่วยสอนเรื่องโปเกมอนให้ผมทีนะฮะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching0","th":"โธ่… แ-แต่…\\pฮึก… แงงงงง!\\pขอร้องล่ะฮะ! ผมขอร้องจริง ๆ นะฮะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode0","th":"จริงเหรอฮะ? จะสอนผมจริง ๆ เหรอ? สุดยอด! เจ๋งสุด ๆ! อู้ฮู้!\\pอ๊ะ… ขอโทษฮะ… ผมดีใจจนน้ำตาไหลเลย…\\pเอ่อ… งั้นช่วยบอกผมหน่อยนะฮะ! เป็นเรื่องแบทเทิลทาวเวอร์น่ะฮะ\\pผมควรเลือกแบบไหนดีฮะ ระหว่างเลเวล 50 กับโอเพนเลเวล?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks0","th":"{STR_VAR_1} เหรอฮะ? แงงงง!\\pอ๊ะ! ขอโทษจริง ๆ ฮะ! คุณช่วยเลือกเลเวลให้ ผมดีใจจนร้องไห้เลย…\\pฮึก… ขอบคุณมากเลยฮะ! แล้วคุยกับผมอีกนะฮะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach1","th":"ว้าว! คุณคือ {PLAYER} ใช่ไหม? แข็งแกร่งสุด ๆ เลยใช่ไหมล่ะ?\\pผมชื่อ {STR_VAR_1}! เพิ่งได้เป็นเทรนเนอร์!\\pขอร้องล่ะ {PLAYER}! มาเป็นอาจารย์ของผม แล้วสอนเรื่องเทรนเนอร์เยอะ ๆ ได้ไหม?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching1","th":"อ้าว ทำไมล่ะ? นะ ๆ ขอร้องน้า ขอร้องล่ะ มาเป็นอาจารย์ของผมเถอะนะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode1","th":"เย้! เยี่ยมเลย!\\pเรื่องแรกที่อยากถาม คือเรื่องแบทเทิลทาวเวอร์!\\pห้องเลเวล 50 กับห้องโอเพนเลเวล… แบบไหนเหมาะกับผมที่สุด?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks1","th":"{STR_VAR_1} เหรอ? จริงด้วย! ผมจะพยายามให้เต็มที่!\\pถ้าเจอกันที่นี่อีก สอนเรื่องอื่นให้ผมอีกนะ อาจารย์!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach2","th":"เอ่อ… คุณคือ {PLAYER} หรือเปล่าครับ? ผมชื่อ {STR_VAR_1} ครับ\\pผมอยากเป็นเทรนเนอร์โปเกมอน แต่ไม่รู้ว่าต้องทำยังไง…\\pเลยคิดว่าน่าจะขอคำแนะนำจากคุณ เพราะคุณมีชื่อเสียงมาก\\p{PLAYER} ช่วยให้คำแนะนำผมได้ไหมครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching2","th":"โธ่ แต่ว่า…\\pผมอยากเป็นเทรนเนอร์โปเกมอน จริง ๆ นะครับ!\\pได้โปรด ช่วยตอบคำถามของผมได้ไหมครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode2","th":"ขอบคุณครับ! งั้นขอถามข้อแรกเลยนะครับ!\\pแบทเทิลทาวเวอร์มีสองระดับ คือเลเวล 50 กับโอเพนเลเวล ใช่ไหมครับ?\\pคุณคิดว่าระดับไหน เหมาะกับผมมากกว่ากันครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks2","th":"การท้าสู้แบบ {STR_VAR_1} เหรอครับ? เข้าใจแล้วครับ!\\pถ้ามีคำถามอีก ผมจะกลับมาขอคำแนะนำ ที่นี่นะครับ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach3","th":"เอ๊ะ? หา? คุณคือ… ไม่หรอก เป็นไปไม่ได้\\pคนอย่างฉันไม่มีทางได้เจอ {PLAYER} หรอกค่ะ\\p…คุณคือ {PLAYER} จริง ๆ เหรอคะ? ไม่อยากเชื่อเลยว่าได้คุยกับคุณ!\\pพอมีเรื่องดีขนาดนี้เกิดขึ้น ต่อไปต้องมีแต่เรื่องร้าย ๆ แน่เลย ฉันรู้…\\p…ขอโทษค่ะ… ฉันชื่อ… {STR_VAR_1}…\\pฉันไม่มีอะไรพิเศษ ที่จะภูมิใจได้เลย…\\pไม่ควรพูดถึงตัวเองด้วยซ้ำ เพราะเดี๋ยวคุณก็ลืม…\\pฉันเคยฝันว่าถ้าได้เจอคุณ {PLAYER} อาจจะได้ขอคำแนะนำ ในฐานะเทรนเนอร์\\pแต่คุณคงไม่ยอมหรอกค่ะ\\p…หรือว่าคุณจะใจดี ให้คำแนะนำฉันคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching3","th":"ว่าแล้วเชียว…\\pก็ต้องเป็นแบบนี้ เพราะฉันมันคนน่าเบื่อ ไร้ตัวตน…\\pแต่ก็แอบหวังว่า… คุณจะไม่เปลี่ยนใจใช่ไหมคะ?\\pแต่ฉันจะยอมแพ้ง่าย ๆ ไม่ได้ ต้องถามอีกตอนที่ยังโชคดีอยู่!\\pได้โปรด ช่วยใจดีให้คำแนะนำฉันได้ไหมคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode3","th":"จริงเหรอคะ? ไม่อยากเชื่อเลย! คุณจะให้คำแนะนำฉันจริง ๆ! ฉ-ฉันดีใจจัง…\\pเรื่องที่อยากถามเป็นเรื่องเล็กน้อยมาก แต่ฉันตัดสินใจไม่ได้…\\pที่แบทเทิลทาวเวอร์ ให้เลือกระหว่างเลเวล 50 กับโอเพนเลเวล\\pคุณคิดว่าแบบไหน ที่แม้แต่ฉันก็พอมีโอกาสคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks3","th":"{STR_VAR_1} เหรอคะ? ตกลงค่ะ! แต่คุณคิดว่าคนอย่างฉัน จะมีโอกาสจริง ๆ เหรอคะ?\\pฉันจะพยายามให้เต็มที่ ถึงจะคิดว่าคงไม่ได้ผลก็เถอะ\\pขอบคุณมากนะคะ ที่สละเวลาให้คนอย่างฉัน$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach4","th":"อ๊ะ! เธอคือ {PLAYER}{KUN} ใช่ไหม?\\pได้ยินมาว่าเธอเก่งเรื่องโปเกมอนนี่\\pฉันชื่อ {STR_VAR_1}! จะยอมเป็นเพื่อนกับเธอก็ได้!\\pรู้ไหม?\\pถ้ารู้แค่ที่โรงเรียนเทรนเนอร์สอน ไม่มีทางชนะที่แบทเทิลฟรอนเทียร์ได้หรอก\\pฉันยินดีจะฟังคำแนะนำของเธอนะ ตกลงอยู่แล้วใช่ไหมล่ะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching4","th":"หา? ทำไมถึงปฏิเสธฉันล่ะ? ฉันเป็นคนขอเองเลยนะ! เธอต้องคิดใหม่สิ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode4","th":"โอเค คือมีเรื่องหนึ่ง ฉันอยากให้เธอตัดสินใจให้\\pรู้ใช่ไหมว่าแบทเทิลทาวเวอร์ มีห้องเลเวล 50 กับห้องโอเพนเลเวล?\\pเธอว่าแบบไหนเหมาะกับฉันล่ะ {PLAYER}{KUN}?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks4","th":"โอเค {STR_VAR_1} เหมาะกับฉันใช่ไหม? ขอบใจนะ!\\pพอรู้ว่าเธอเป็นคนตัดสินใจ {PLAYER}{KUN} ถ้าแพ้ฉันก็ไม่หงุดหงิดมากหรอก\\pโอเค ไว้จะมาขอคำแนะนำอีกนะ บาย!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach5","th":"อ้าว หวัดดี! {PLAYER}{KUN}! ผมรู้จักคุณนะ เพราะคุณดังมาก!\\pเรียกผมว่า {STR_VAR_1} ก็ได้! ยินดีที่ได้รู้จัก!\\pผมเป็นนักไตรกีฬา เลยต้องรักษาหุ่นให้ฟิต ไปพร้อมกับเลี้ยงโปเกมอน\\pแถมยังมีเรื่องอื่นอีก ทั้งงาน งีบหลับ เต้นลีลาศ…\\pยุ่งขนาดนี้ จะเป็นเทรนเนอร์ดี ๆ ได้ก็ไม่ง่ายเลย\\pผมเลยมีข้อเสนอ!\\pที่เราได้เจอกันต้องมีเหตุผลแน่ ๆ งั้น {PLAYER}{KUN} แบ่งปันความรู้ให้ผมบ้าง เป็นครั้งคราวได้ไหม?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching5","th":"โธ่ ขอร้องล่ะ นะ? คนอย่างผมต้องการคนอย่างคุณนะ {PLAYER}{KUN}!\\pพูดจริง ๆ ผมต้องการคำแนะนำจากคุณ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode5","th":"ขอบคุณ! ต้องอย่างนี้สิ! งั้นเริ่มจากข้อง่าย ๆ ก่อน!\\pรู้จักสองคอร์สของแบทเทิลทาวเวอร์ ใช่ไหม? ก็เลเวล 50 กับโอเพนเลเวลไง\\pคนงานยุ่งอย่างผม ควรเตรียมตัวลงแบบไหนดี?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks5","th":"{STR_VAR_1} เหรอ? โอเค รับทราบ! ผมจะหาเวลาไปลองให้ได้!\\p…ตายแล้ว ต้องไปทำงานแล้ว! ขอบคุณนะ! ไว้เจอกัน!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach6","th":"ไม่จริงน่า! อะไรเนี่ย! เธอคือ {PLAYER} ตัวจริงหรือเปล่า?\\pอ๊ะฮ้า! สุดยอด! ฉันชื่อ {STR_VAR_1} ดีใจมากที่ได้เจอ!\\p{PLAYER} เธอเก่งมากเลยใช่ไหม?\\pใคร ๆ ก็พูดถึงเธอกันทั้งนั้น!\\pอ๊ะ! นึกไอเดียเจ๋ง ๆ ออกแล้ว! ฉันจะขอคำแนะนำจากเธอ {PLAYER}! ต้องทำให้ฉันเก่งขึ้นแน่!\\pไอเดียดีใช่ไหมล่ะ? นะ ฉันอยากได้คำแนะนำจากเธอ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching6","th":"อะฮะฮะฮ่า ทำเป็นใจร้ายก็ได้ แต่หลอกฉันไม่ได้หรอก! จริง ๆ แล้วตกลงใช่ไหมล่ะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode6","th":"เย้! รู้อยู่แล้วว่าเธอต้องใจกว้าง {PLAYER}!\\pจะถามอะไรก่อนดีนะ? …อ๊ะ นึกออกแล้ว!\\pรัวกลองหน่อย! คำถามของฉันคือ…\\pถ้าฉันจะไปท้าแบทเทิลทาวเวอร์ ควรเลือกทางไหนดี?\\pเลเวล 50 หรือโอเพนเลเวล? แบบไหนเหมาะกับฉันมากกว่ากัน?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks6","th":"โอ้-โอ้-โอ้! {STR_VAR_1} งั้นเหรอ! ขอบคุณสำหรับคำตอบสุดเจ๋งนะ!\\pวันนี้คงอยากถามแค่นี้แหละ\\pไว้มาเจอกันที่นี่อีกนะ โอเค? ขอบคุณจ้า!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach7","th":"ขออภัยนะคะ… คุณคือ {PLAYER} ใช่ไหมคะ?\\pดิฉันชื่อ {STR_VAR_1} ค่ะ ยินดีเป็นอย่างยิ่งที่ได้รู้จัก\\pดิฉันชื่นชมคุณมานานแล้วค่ะ…\\p… … … … … …\\pเอ่อ… หวังว่าคำขอนี้ จะไม่เป็นภาระกับคุณจนเกินไป แต่ว่า…\\pดิฉันขอเป็นศิษย์ของคุณ ได้ไหมคะ {PLAYER}?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching7","th":"โอ้…!\\p… … … … … … … … … … … …\\p…ดิฉันคงตกใจจนเป็นลมไปแน่ ๆ ขอโทษค่ะ ดิฉันคงฟังผิดไป\\pได้โปรด! ได้โปรดบอกว่า คุณจะรับดิฉันเป็นศิษย์เถิดค่ะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode7","th":"โอ้… ดิฉันยินดีเหลือเกินค่ะ!\\pดิฉันไม่อยากเสียเวลาของคุณ จึงขอคำแนะนำเรื่องนี้เลยนะคะ\\pดิฉันวางแผนจะไปท้าแบทเทิลทาวเวอร์ เร็ว ๆ นี้\\pแต่ที่นั่นมีสองระดับ…\\pแบบไหนเหมาะกับดิฉันที่สุดคะ? เลเวล 50 หรือโอเพนเลเวล?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks7","th":"คุณเลือก {STR_VAR_1} สินะคะ! เข้าใจแล้วค่ะ ดิฉันจะพยายามให้เต็มที่!\\pขอบคุณค่ะ {PLAYER} หวังว่าจะได้พึ่งพาคุณอีกนะคะ ดูแลตัวเองด้วยค่ะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach8","th":"กรี๊ด! กรี๊ด! {PLAYER}! คุณพูดกับฉันด้วย! ฉ-ฉันดีใจสุด ๆ เลยค่ะ!\\pฉันเอง! ฉันชื่อ {STR_VAR_1} ค่ะ! เพิ่งได้เป็นเทรนเนอร์!\\pดีใจจังที่ได้เจอคุณ {PLAYER} คนดังแห่งวงการโปเกมอน!\\pโอ้-โอ้-โอ้ นึกออกแล้ว! ขอรบกวนเรื่องใหญ่ได้ไหมคะ {PLAYER}?\\pได้โปรดรับฉันเป็นศิษย์ด้วยนะคะ! ฉันอยากเรียนรู้จากคุณ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching8","th":"แงงง! {PLAYER} ปฏิเสธฉัน… น-นี่เป็นประสบการณ์ล้ำค่าเลยค่ะ!\\p{PLAYER} ได้โปรด! ครั้งนี้ฉันอยากได้ยินคำตอบรับนะคะ!\\pขอความกรุณาชี้แนะด้วยเถิดค่ะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode8","th":"ฮี้ยยย! {PLAYER} ตกลงแล้ว! {PLAYER} ตกลงแล้ว!\\pคืนนี้ต้องนอนไม่หลับแน่… ขอบคุณมากเหลือเกินค่ะ!\\pงั้น นี่คือคำถามของฉันค่ะ!\\pที่แบทเทิลทาวเวอร์ แบบไหนเหมาะกับฉันคะ เลเวล 50 หรือโอเพนเลเวล?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks8","th":"{STR_VAR_1}! เข้าใจอย่างถ่องแท้แล้วค่ะ! เข้าใจแจ่มแจ้งเลย! ฉันดีใจจนแทบบ้าแล้วค่ะ!\\pหวังว่าคราวหน้า คุณจะยินดีสอนฉันอีกนะคะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach9","th":"โอ้โห! หรือว่าคุณจะเป็น… {PLAYER}{KUN}?! เทรนเนอร์สุดแกร่งผู้โด่งดังคนนั้น?\\pโอ้ หวัดดี! ผมนี่โชคดีที่สุดเลย!\\pหวัดดี ผมชื่อ {STR_VAR_1}!\\pผมกำลังตามหาอาจารย์สอนโปเกมอนอยู่พอดี\\pแล้วก็มาได้จังหวะเป๊ะ คุณก็โผล่มา {PLAYER}{KUN}!\\pก็ตามนั้นแหละ {PLAYER}{KUN}! ให้ผมเป็นศิษย์คุณเถอะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching9","th":"อ๊ากกก! คุณนี่เท่และแกร่งจริง ๆ…\\pอย่าทำแบบนั้นเลยน่า ผมขอร้องอยู่นะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode9","th":"โอ้ เยส! คำตอบหนักแน่นมาก! ขอบอกว่ายอดเยี่ยม!\\pงั้นขอคำแนะนำแรก เรื่องแบทเทิลทาวเวอร์หน่อย\\pถ้าผมจะไป แบบไหนดีกว่ากัน? เลเวล 50 หรือโอเพนเลเวล?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks9","th":"อาฮะ {STR_VAR_1} ตามนั้น! โอเค ชัวร์! ผมจะไปโชว์ฝีมือแบบ ตึ้ง!\\pเอาล่ะ ผมจะนับถือคุณเป็นอาจารย์! อาดิโอส!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach10","th":"อ้าว เฮ้ {PLAYER}{KUN} ใช่ไหม? ตำรวจตามหาคุณอยู่นะ!\\p… … … โกหกน่ะสิ!\\pผมชื่อ {STR_VAR_1} ดูแบบนี้แต่ผมเป็นแชมเปี้ยนโปเกมอนนะ! …อันนี้ก็โกหกเหมือนกัน!\\pแต่อันนี้ไม่โกหกนะ ผมสู้ไม่ค่อยเก่งเลย\\pงั้น มาเป็นอาจารย์สอนผม เรื่องโปเกมอนทุกอย่างได้ไหม?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching10","th":"ถ้าจะทำเย็นชาแบบนี้ ก็คอยดูว่าผมจะทำอะไร!\\pแง! แง! แง! ฮึก!\\pฮ่าฮ่าฮ่า นั่นแหละท่า FAKE TEARS ของผม!\\pน่า ๆ มาเป็นอาจารย์โปเกมอน ของผมเถอะนะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode10","th":"เย้! เดี๋ยวซื้อเรือให้เลย!\\pโกหกอีกแล้วน่ะสิ! แต่… ขอบคุณนะ อาจารย์!\\pรู้ใช่ไหมว่าแบทเทิลทาวเวอร์ มีเลเวล 50 กับโอเพนเลเวล?\\pผมเลือกไม่ถูกว่า ควรท้าระดับไหน…\\pช่วยเลือกให้หน่อยได้ไหม อาจารย์?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks10","th":"โอเค งั้น {STR_VAR_1} ดีกว่าสินะ! งั้นผมไปอีกระดับหนึ่งละกัน!\\pล้อเล่นน่า! ผมจะทำตามคำสอนของอาจารย์!\\pขอบคุณนะ อาจารย์! สอนผมต่อไปอีกนะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach11","th":"อ-า-ฮอย! สะกดว่าอาฮอย แปลว่าหวัดดีนะ โย่!\\pผมชื่อ {STR_VAR_1} กะลาสีสายแร็ป ไม่ใช่ใครที่ไหน!\\pตาเธอแล้ว เล่าเรื่องตัวเองให้ฟัง ลองดูสิ อย่ามัวเกรงใจ!\\pอ๋อ อ๋อ! ชื่อเธอคือ {PLAYER}{KUN} ส่วนโปเกมอนคือเกมที่เธอลุย!\\pแถมยังอยู่ในวัยกำลังดี ทั้งโลกคือเวทีของเธอนี่!\\pยังไงก็ขอบอกไว้ เธอคือเทรนเนอร์คนที่สิบ ที่ผมคุยด้วยวันนี้ไง!\\pงั้นมาฉลองกันให้สุด! เป็นอาจารย์ผมเป็นที่ระลึก ไม่มีหยุด!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching11","th":"แต่! เธอต้องร่วมงานกับผมนะ!\\pอย่ามัวแกล้งกันเลยน่า! มาเป็นอาจารย์ผมเถอะ ขอร้องล่ะหนา!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode11","th":"นั่นแหละ! {PLAYER} เธอนี่ใจถึง!\\pงั้นมาถามข้อแรกให้ตึง ขอคำแนะนำจากเธอสักหนึ่ง!\\pเป็นเรื่องแบทเทิลทาวเวอร์ ที่ต้องใช้พลังเต็มพาวเวอร์!\\pมีเลเวล 50 และโอเพนเลเวลให้เลือกกัน แบบไหนที่เหมาะกับผมนั้น?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks11","th":"โอเค {STR_VAR_1} ตามที่เธอบอก! ผมจะไปลุยให้สุดไม่มีหลอก!\\pถ้าวันไหนต้องการคำชี้แนะ {PLAYER} คำของเธอผมจะฟังไม่แปรแน่!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach12","th":"เฮ้ ว่าไง นั่น {PLAYER} ใช่ไหม? ทำไงดี? ทักเลยไหม?\\pทำไมจะไม่ล่ะ? ก็ทักไปแล้วไง!\\p{PLAYER} ตกใจกับผมใช่ไหม? งั้นขอแนะนำตัว ให้รู้ว่าผมเป็นใคร!\\pเรียกผมว่า {STR_VAR_1} แล้วกัน ดาวเด่นแห่งวงการกีตาร์ ก็ผมนั่น!\\pรับสัญญาณผมไหม? รับได้ชัดแจ๋วเลยใช่ไหม!\\pดวงผมกำลังขึ้นสุด ๆ งั้นขอยื่นคำขอแบบจุก ๆ!\\p{PLAYER} ให้ผมเป็นลูกศิษย์เธอเถอะ! ผมอยากให้เธอสอนทุกอย่างให้เยอะ ๆ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching12","th":"ปฏิเสธผมงั้นเหรอ? งั้นคงต้องขอใหม่ อีกรอบแล้วเธอ!\\p{PLAYER} ขอเป็นลูกศิษย์เธอเถอะ! ผมอยากให้เธอสอนทุกอย่างให้เยอะ ๆ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode12","th":"โชคดี เย่ วู้ฮู้! ขอยิงคำถามสักข้อ ให้เธอได้รู้!\\pในเมื่อใกล้แบทเทิลทาวเวอร์ ขอถามเรื่องนั้นให้เต็มพาวเวอร์!\\pจากตัวเลือกที่เธอเห็น แบบไหนคือแบบที่ผมควรเป็น?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks12","th":"ถ้า {STR_VAR_1} คือสิ่งที่เธอแนะ มันต้องเจ๋งที่สุดแน่ ๆ แหละ!\\pเอาล่ะ {PLAYER} ผมต้องออกท่องไปอย่างอิสระ แต่อย่าลืมผมเชียวนะ!\\pไว้เจอกันใหม่ เพื่อนผู้ฉลาดของผม!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach13","th":"อ้าว หวัดดี! นั่นน่ะ! ช่วยนวดไหล่ให้หน่อยได้ไหม?\\p…ใช่ ตรงนั้นแหละ! โอ๊ย โอ๊ย! อู้ว สบายสุด ๆ!\\pผมชื่อ {STR_VAR_1} ฝึกคาราเต้อยู่ แต่ร่างกายทนการฝึกหนักไม่ค่อยไหว…\\pเลยตัดสินใจว่าจะสู้โปเกมอน เพื่อฝึกให้ตัวเองแกร่งขึ้น\\pคุณคือ {PLAYER}{KUN} ใช่ไหม? แชมป์โปเกมอนลีกน่ะ?\\pนี่ ช่วยให้คำแนะนำผมหน่อยได้ไหม?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching13","th":"อ้าว ทำไมล่ะ?\\pผมไม่รบกวนมากหรอก สัญญาเลย! นะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode13","th":"ขอบคุณ ใจดีจริง ๆ! …แค่ก! แค่ก!\\pอุ๊ก ต้องรีบแข็งแรงให้ไวแล้ว…\\pผมจะไปแบทเทิลทาวเวอร์เดี๋ยวนี้เลย แต่แบบไหนดีกว่าสำหรับผม? เลเวล 50 หรือโอเพนเลเวล?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks13","th":"อืม ได้ งั้น {STR_VAR_1} นะ ผมจะไปเดี๋ยวนี้เลย\\pหวังว่าจะมาขอความช่วยเหลือ จากคุณได้เรื่อย ๆ นะ ก็คุณเป็นอาจารย์ผมนี่!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach14","th":"เอ่อ… อืม… {PLAYER}{KUN}…?\\pได้โปรด อย่ามองผมแบบนั้นเลยครับ ทำให้ผมเขินไปหมด\\pผ… ผมชื่อ {STR_VAR_1} ครับ\\pพูดแล้วอายจัง แต่ผมชอบสำรวจซากโบราณสถาน อะไรทำนองนั้น\\pที่อายกว่านั้นคือ ผมสนใจแบทเทิลฟรอนเทียร์ด้วยครับ\\p{PLAYER}{KUN} คุณขึ้นชื่อว่าเป็นเทรนเนอร์ที่แข็งแกร่ง…\\pพูดยากหน่อย แต่ผมอยากขออะไรบางอย่าง\\pช่วยเป็นอาจารย์ แล้วให้คำแนะนำผมได้ไหมครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching14","th":"ได้โปรดอย่าปัดผมทิ้งแบบนี้เลยครับ! ผมทนความอับอายนี้ไม่ไหว\\pได้โปรดเป็นอาจารย์ของผมเถอะครับ! ผมต้องการคำแนะนำจากคุณ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode14","th":"ข-ขอบคุณครับ…\\pแต่ได้โปรดอย่ามองผมแบบนั้น ผมประหม่าไปหมดแล้ว\\pช่วยตอบผมโดยไม่ต้องสบตาได้ไหมครับ\\pที่แบทเทิลทาวเวอร์… ผมควรลองระดับไหนดีครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks14","th":"โอ้… ตกลงครับ! ผมจะลองดู\\pหวังว่าจะท้าสู้ได้อย่างกล้าหาญ โดยไม่ประหม่าเสียก่อน…\\pขอบคุณครับ {PLAYER}{KUN} ถ้าเจอกันอีก หวังว่าคุณจะช่วยผมแบบนี้อีกนะครับ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticePleaseTeach15","th":"หืม? ดูเหมือนคุณจะเป็น {PLAYER}{KUN}… แต่เป็นตัวจริงแน่หรือ?\\pเรียกผมว่า {STR_VAR_1} ก็ได้ครับ\\pผมคิดเรื่องจะไปฝากตัวเป็นศิษย์ เทรนเนอร์ที่แข็งแกร่งมาสักพักแล้ว\\pจึงต้องบอกว่าโชคดีเหลือเกิน ที่คุณผ่านมา! …คุณคือ {PLAYER}{KUN} ตัวจริงใช่ไหมครับ?\\pไม่ ๆ ถ้าเป็นตัวจริงก็ไม่เป็นไร ผมเพียงอยากให้คุณ รับผมเป็นศิษย์เท่านั้นเองครับ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeRejectTeaching15","th":"หือ? อะไรทำให้คุณปฏิเสธล่ะครับ?\\pผมขออภัยที่สงสัย ในตัวตนของคุณ\\pได้โปรดรับคำขอโทษ และรับผมเป็นศิษย์ด้วยครับ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichLevelMode15","th":"คุณรับผมจริง ๆ หรือครับ? ผมไม่อยากดีใจเร็วเกินไป\\pถ้าเป็นเรื่องจริง ผมก็ต้องขออภัย แต่ตอนนี้ ผมต้องการคำแนะนำจากคุณ\\pถ้าผมจะเข้าแบทเทิลทาวเวอร์ แบบไหนที่คู่ควรกับผม? เลเวล 50 หรือโอเพนเลเวลครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeLevelModeThanks15","th":"{STR_VAR_1} หรือครับ? แน่ใจนะครับ?\\pเข้าใจแล้ว ถ้าเป็นเช่นนั้นก็ดีครับ ขอบคุณที่สละเวลาให้\\pผมรู้ว่าตัวเองอาจน่ารำคาญ แต่ยินดีมากที่คุณรับผมเป็นศิษย์\\pแล้วพบกันใหม่ครับ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem0","th":"เฮ้อ… ฮือ… อ๊ะ {PLAYER}!\\pผมกำลังกลุ้มใจ ตัดสินใจไม่ได้เลยฮะ\\pไม่รู้ว่าจะให้ {STR_VAR_1} ถือไอเท็มอะไรดี\\pช่วยบอกผมหน่อยนะฮะ {PLAYER} ควรให้มันถือไอเท็มอะไรดีฮะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing0","th":"จริงเหรอฮะ? ไม่ต้องให้ {STR_VAR_1} ถืออะไรเลยเหรอฮะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem0","th":"โอเคฮะ! ดีใจจังที่ตัดสินใจได้แล้ว! สุดยอด! เจ๋งสุด ๆ! อู้ฮู้!\\pขอบคุณมากเลยฮะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem0","th":"โล่งใจจัง… ผมว่าผมก็มี {STR_VAR_1} อยู่เหมือนกันฮะ\\pดีใจจังที่ตัดสินใจได้แล้ว! สุดยอด! เจ๋งสุด ๆ! อู้ฮู้!\\pขอบคุณมากเลยฮะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended0","th":"แงงง! อย่าใจร้ายกับผมสิฮะ!\\pไอเท็ม {STR_VAR_1} มีคนแนะนำผมไปแล้ว ฮึก…\\pหรือหมายความว่า ไม่ต้องให้ {STR_VAR_2} ถืออะไรเลยฮะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem1","th":"เย้! {PLAYER} นี่นา! ดีเลย! มีเรื่องอยากถามพอดี!\\pคุณให้โปเกมอนถือไอเท็มไหม? ผมก็อยากให้ของผมถือบ้าง แต่…\\pไอเท็มอะไรดีสำหรับให้ {STR_VAR_1} ถือ?\\pคุณคิดว่าไง?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing1","th":"หา? หมายความว่า {STR_VAR_1} ของผม ไม่ต้องถืออะไรเลยเหรอ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem1","th":"อ๋อ เข้าใจแล้ว! จะทำตามนั้นเลย! ขอบคุณที่สอนนะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem1","th":"ว้าว! {STR_VAR_1} หนึ่งอัน งั้นเหรอ? โอเค จะทำตามนั้นเลย!\\pขอบคุณที่สอนนะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended1","th":"เอ่อ ไม่ใช่ ผมไม่ได้หมายความแบบนั้น ผมอยากรู้เรื่องไอเท็มอื่น ที่ไม่ใช่อันที่รู้อยู่แล้ว\\pหรือหมายความว่า คราวนี้โปเกมอนของผม ไม่ต้องถืออะไรเลย?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem2","th":"{PLAYER} สวัสดีครับ! เป็นเรื่อง {STR_VAR_1} ของผมน่ะครับ…\\pผมอยากให้มันถือไอเท็มดี ๆ อะไรถึงจะเหมาะครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing2","th":"งั้น {STR_VAR_1} ของผม ไม่ต้องถืออะไรเลยเหรอครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem2","th":"โอเค เข้าใจแล้วครับ! แล้วเจอกันใหม่ครับ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem2","th":"ไอเท็ม {STR_VAR_1} เหรอครับ? เข้าใจแล้วครับ!\\pผมจะพยายามหามาให้ได้! แล้วเจอกันใหม่ครับ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended2","th":"มีคนสอนผมเรื่อง {STR_VAR_1} ไปแล้วครับ\\pผมอยากให้โปเกมอนถือไอเท็มชนิดอื่น\\pหรือคุณคิดว่า {STR_VAR_2} ไม่ต้องถืออะไรเลยครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem3","th":"สวัสดีค่ะ {PLAYER}… ขอโทษที่รบกวนนะคะ แต่มีเรื่องอื่นอยากถามอีกค่ะ\\pฉันคิดว่าฉันไม่เก่งพอจะชนะด้วยตัวเอง เลยคิดจะให้ {STR_VAR_1} ถือไอเท็ม\\pแต่ไม่รู้ว่าอะไรถึงจะดี\\p{PLAYER} ได้โปรดช่วยตัดสินใจแทนฉันได้ไหมคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing3","th":"โปเกมอนของคนอย่างฉัน ไม่มีไอเท็มจะดีกว่าเหรอคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem3","th":"เข้าใจแล้วค่ะ… คุณหมายความว่า ฉันไม่ควรพึ่งไอเท็มสินะคะ ฉันจะพยายามไม่พึ่งค่ะ!\\pขอบคุณมากค่ะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem3","th":"ไอเท็ม {STR_VAR_1} ตกลงค่ะ ไม่แน่ใจว่าจะหามาได้ไหม… ไม่สิ! ฉันจะพยายามหามาให้ได้\\pขอบคุณมากค่ะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended3","th":"เอ่อ แต่ว่า… ฉันว่าเคยได้ยินเรื่องนั้นมาก่อนแล้ว…\\pหรือเป็นเพราะฉันใช้ไอเท็ม {STR_VAR_1} ได้ไม่ดีคะ?\\pหรือหมายความว่า ไม่ต้องให้ {STR_VAR_2} ถืออะไรเลยคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem4","th":"อ้อ {PLAYER}{KUN} มีเรื่องอยากถามเธออยู่พอดี\\pจำได้ไหมว่าเธอเคยเลือกโปเกมอน ให้ฉันใช้?\\pแต่ฉันยังไม่เคยถามเลยว่า ควรให้มันถือไอเท็มอะไร\\pในเมื่อเธอเคยแนะนำไปแล้ว ก็รับผิดชอบให้จบเลยสิ\\pอะไรดีล่ะ? ฉันอยากให้ {STR_VAR_1} ถืออะไรสักอย่าง$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing4","th":"อ้าว! งั้น {STR_VAR_1} ของฉัน ต้องสู้ให้ดีที่สุดมือเปล่าเหรอ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem4","th":"ถ้าเธอคิดว่าแบบนั้นดีที่สุด ฉันก็จะทำตาม\\pพอรู้ว่าเธอเป็นคนตัดสินใจ {PLAYER}{KUN} ถ้าแพ้ฉันก็ไม่หงุดหงิดมากหรอก\\pโอเค ไว้จะมาขอคำแนะนำอีกนะ บาย!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem4","th":"ไอเท็ม {STR_VAR_1} เหรอ? ไม่เลว ฉันจะใช้!\\pพอรู้ว่าเธอเป็นคนตัดสินใจ {PLAYER}{KUN} ถ้าแพ้ฉันก็ไม่หงุดหงิดมากหรอก\\pโอเค ไว้จะมาขอคำแนะนำอีกนะ บาย!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended4","th":"หา? พูดอะไรน่ะ? เธอบอกเรื่อง {STR_VAR_1} ไปแล้วนี่\\pหรือหมายความว่า {STR_VAR_2} ของฉัน ต้องสู้ให้ดีที่สุดมือเปล่า?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem5","th":"โย่ {PLAYER}{KUN}!\\pเราต่างก็ยุ่ง แต่ดูเหมือนจะเจอกันบ่อยนะ!\\pวันนี้ผมต้องไปเดิน ทำความสะอาด แล้วก็แปรงขน\\pยังไม่มีเวลาซื้ออะไรให้ {STR_VAR_1} ที่รักของผมเลย\\pผมไม่มีเวลาจริง ๆ งั้นช่วยแนะนำหน่อยว่า ควรให้ {STR_VAR_1} ถืออะไรดี?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing5","th":"อ้อ เพราะผมเป็นคนงานยุ่ง คุณเลยบอกว่า {STR_VAR_1} ไม่ต้องใช้อะไรเลยเหรอ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem5","th":"โอเค รับทราบ ไม่ต้องเสียเวลาเลยสำหรับเรื่องนี้\\pขอบคุณสำหรับวันนี้! ไว้เจอกัน!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem5","th":"โอเค รับทราบ ผมจะหาเวลาไปหา {STR_VAR_1} ที่คุณแนะนำมาให้ได้\\pดีใจที่ได้อาจารย์ดี ๆ อย่างคุณ ขอบคุณนะ! ไว้เจอกัน!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended5","th":"หา? ผมรู้เรื่อง {STR_VAR_1} อยู่แล้วนะ\\pอ้อ จริงด้วย เข้าใจแล้ว เพราะผมเป็นคนงานยุ่ง คุณเลยบอกว่า {STR_VAR_2} ไม่ต้องใช้อะไรเลยสินะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem6","th":"หวัดดี {PLAYER}! ฉันเอง! วันนี้ขอยืมสมองเธออีกแล้ว ขอคำแนะนำหน่อยนะ!\\pรัวกลองหน่อย! คำถามของฉันคือ…\\pถ้าจะให้ {STR_VAR_1} ถือไอเท็ม ควรเป็นอะไรดี?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing6","th":"จริงเหรอ? เธอบอกว่า {STR_VAR_1} ของฉัน ไม่ต้องถือไอเท็มสินะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem6","th":"โอเค ทำตามนั้นเลย!\\pวันนี้คงอยากถามแค่นี้แหละ\\pไว้มาเจอกันที่นี่อีกนะ โอเค? ขอบคุณจ้า!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem6","th":"อาฮะ! {STR_VAR_1} หนึ่งอัน เลือกได้เจ๋งมาก! ต้องลองแน่นอน!\\pวันนี้คงอยากถามแค่นี้แหละ\\pไว้มาเจอกันที่นี่อีกนะ โอเค? ขอบคุณจ้า!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended6","th":"อะฮะฮ่า! ตลกจัง! เธอบอกเรื่อง {STR_VAR_1} ไปแล้วนี่นา!\\pเธอสบายดีหรือเปล่า {PLAYER}?\\pอ๊ะ เดี๋ยวนะ! เธอหมายความว่า {STR_VAR_2} ของฉัน ไม่ต้องถือไอเท็มสินะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem7","th":"สวัสดีค่ะ {PLAYER} หวังว่าคุณสบายดีนะคะ\\pขอคำแนะนำจากคุณได้ไหมคะ?\\pในการต่อสู้เมื่อไม่นานมานี้ คู่ต่อสู้ของดิฉัน ดูเหมือนจะให้โปเกมอนถือไอเท็ม\\pผลคือ ดิฉันพ่ายแพ้ค่ะ…\\pดิฉันไม่อยากล้าหลัง จึงอยากให้ {STR_VAR_1} ถือไอเท็มบ้างค่ะ\\pจะดีมากถ้าคุณช่วยตัดสินใจ ว่าอะไรเหมาะกับโปเกมอนของดิฉัน…$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing7","th":"หมายความว่า… โปเกมอนของดิฉัน ไม่จำเป็นต้องถือไอเท็มหรือคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem7","th":"ดิฉันเข้าใจแจ่มแจ้งแล้วค่ะ! จะพยายามต่อไปแบบนี้\\pขอบคุณค่ะ {PLAYER} หวังว่าจะได้พึ่งพาคุณอีกนะคะ ดูแลตัวเองด้วยค่ะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem7","th":"{STR_VAR_1} หนึ่งอัน ตามนั้นค่ะ! ดิฉันจะสั่งซื้อทันที\\pขอบคุณค่ะ {PLAYER} หวังว่าจะได้พึ่งพาคุณอีกนะคะ ดูแลตัวเองด้วยค่ะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended7","th":"คุณเคยบอกเรื่องนั้นแล้ว และดิฉันก็มีอยู่แล้วค่ะ\\pหรือคุณหมายความว่า… โปเกมอนของดิฉัน ไม่จำเป็นต้องถือไอเท็มคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem8","th":"กรี๊ด! {PLAYER}! ฉ-ฉันดีใจสุด ๆ ที่ได้เจอคุณอีกค่ะ!\\pโอ้-โอ้-โอ้! มีเรื่องที่ต้องถามคุณให้ได้เลยค่ะ {PLAYER}!\\pได้โปรดตัดสินใจว่า {STR_VAR_1} ของฉัน ควรถืออะไรดีคะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing8","th":"ว้าว! ไม่คิดว่าจะได้คำตอบแบบนั้น! งั้นก็ไม่จำเป็นต้องถือไอเท็มสินะคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem8","th":"เข้าใจอย่างถ่องแท้แล้วค่ะ! ฉันจะสู้ต่อไปโดยไม่มีไอเท็ม!\\pหวังว่าคราวหน้า คุณจะยินดีสอนฉันอีกนะคะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem8","th":"{STR_VAR_1}! ฉันจะใช้อันนั้นค่ะ!\\pเอ่อ… หรือว่า {PLAYER} คุณก็ให้โปเกมอนถือไอเท็มนั้นเหมือนกันคะ?\\pฉันจะหามาให้ได้เลยค่ะ! หวังว่าคราวหน้า คุณจะยินดีสอนฉันอีกนะคะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended8","th":"เอ๊ะ? คุณเคยแนะนำ {STR_VAR_1} ไปแล้วนี่คะ\\pหรือว่ามันเป็นของที่ดีที่สุด? หรือหมายความว่า {STR_VAR_2} ของฉัน ไม่ต้องถืออะไรเลยคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem9","th":"โอล่า! มาเอสโตรของผม {PLAYER}{KUN}!\\pผมอยากขอคำแนะนำ เรื่องเครื่องมือของโปเกมอนหน่อย\\pคุณว่าอะไรดีสำหรับให้ {STR_VAR_1} ของผมถือ?\\pไม่ต้องเขินน่า พูดออกมาเลย!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing9","th":"หือ? งั้นคุณบอกว่า {STR_VAR_1} ของผม ชนะได้โดยไม่ต้องถือไอเท็มเลยเหรอ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem9","th":"ซี บวยโน่! ผมจะสู้ให้เต็มที่ แบบ ปั้ง!\\pเอาล่ะ ขอบคุณเหมือนเคย! อาดิโอส!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem9","th":"อาฮะ {STR_VAR_1} หนึ่งอันใช่ไหม? ซี บวยโน่! ผมจะไปหามาเลย แบบ ปึ้ง!\\pเอาล่ะ ขอบคุณเหมือนเคย! อาดิโอส!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended9","th":"ไม่ ๆ! คุณเคยบอกเรื่อง {STR_VAR_1} ไปแล้วนะ\\pเอ๊ะ เดี๋ยวก่อนนะ… งั้นคุณบอกว่า {STR_VAR_2} ของผม ชนะได้โดยไม่ต้องถือไอเท็มเลยเหรอ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem10","th":"{PLAYER}{KUN} เรื่องไม่น่าเชื่อเกิดขึ้นแล้ว!\\pเช้านี้ตื่นมา โปเกมอนของผมมี NUGGET 10 ลูก!\\pโกหกน่ะสิ! ว้าฮ่าฮ่าฮ่า!\\pแต่อันนี้ไม่โกหกนะ ผมไม่ค่อยเก่งเรื่องคิดว่า โปเกมอนควรถือไอเท็มอะไร\\pงั้นช่วยเลือกให้หน่อยได้ไหม ว่า {STR_VAR_1} ของผมควรถืออะไร อาจารย์?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing10","th":"หมายความว่าไง? ไม่ต้องให้มันถืออะไรเลยเหรอ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem10","th":"โอเค งั้นไม่ต้องให้มันถืออะไรเลย งั้นผมไปหาอะไรมาให้มันถือดีกว่า!\\pล้อเล่นน่า! ผมจะทำตามคำสอนของอาจารย์!\\pขอบคุณนะ อาจารย์! สอนผมต่อไปอีกนะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem10","th":"โอเค งั้นเป็น {STR_VAR_1} หนึ่งอัน! ผมจะให้มันถืออย่างอื่นที่ไม่ใช่อันนั้น!\\pล้อเล่นน่า! ผมจะทำตามคำสอนของอาจารย์!\\pขอบคุณนะ อาจารย์! สอนผมต่อไปอีกนะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended10","th":"เอ่อ คุณเคยบอกเรื่องนั้นแล้วนี่ ใช่ไหม?\\pไม่มีอย่างอื่นแล้วเหรอ?\\pหรือหมายความว่า ไม่ต้องให้ {STR_VAR_2} ถืออะไรเลย?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem11","th":"อ-า-ฮอย! สะกดว่าอาฮอย!\\pกะลาสีสายแร็ปคือผมเอง! ขอเสนอคำถามสุดเจ๋งให้เธอเล็ง!\\pเป็นคำถามเรื่องไอเท็ม ขอคำแนะนำจากเธอให้เต็ม!\\p{STR_VAR_1} ของผมต้องมีของไว้ถือ ควรเป็นอะไร บอกผมหน่อยได้หรือ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing11","th":"จริงหรือนี่? {STR_VAR_1} ของผม ไม่ต้องถืออะไรเลยก็ดี?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem11","th":"โอเค ผมได้ยินแล้ว แน่นอน! โปเกมอนของผมจะไปมือเปล่า ไม่ต้องย้อน!\\pถ้าวันไหนต้องการคำชี้แนะ {PLAYER} คำของเธอผมจะฟังไม่แปรแน่!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem11","th":"โอเค {STR_VAR_1} หนึ่งอัน นั่นแหละที่ผมจะใช้ ให้เธอเลือกนี่ถูกแล้วจริง ๆ ไม่ผิดไป!\\pถ้าวันไหนต้องการคำชี้แนะ {PLAYER} คำของเธอผมจะฟังไม่แปรแน่!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended11","th":"โอเค {STR_VAR_1} หนึ่งอันงั้นเหรอ? วันก่อนก็บอกแล้วนะเธอ! ผมอยากได้ไอเดียใหม่ ๆ ที่ไม่เคยเจอ!\\pหรือว่าใช่แบบนั้นหรือนี่? โปเกมอนของผม ไม่ต้องถืออะไรเลยก็ดี?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem12","th":"เฮ้ ว่าไง {PLAYER}! วันนี้เจอเธออีกแล้วไง!\\pทำไงดี? ขอคำแนะนำไหม? ทำไมจะไม่ล่ะ? ก็คุยกับเธออยู่แล้วไง!\\p{PLAYER} เบื่อผมแล้วหรือเปล่า? ไม่หรอก ไม่มีทาง ไม่ใช่เรื่องของเรา!\\pช่วยฟังผมหน่อยได้ไหม? ผมกำลังหาคำแนะนำ นั่นแหละที่อยากพูดไป!\\pเป็นเรื่องไอเท็มดี ๆ ให้ {STR_VAR_1} ถือไว้ ลังเลจนกลุ้มใจไปหมดแล้วไง!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing12","th":"{STR_VAR_1} ของผมไม่ต้องใช้อะไร? ไม่ต้องถืออะไรไว้เลยใช่ไหม?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem12","th":"ถ้าไม่ถืออะไรคือดีที่สุด ผมก็จะทำตามไม่มีหยุด!\\pเอาล่ะ {PLAYER} ผมต้องออกท่องไปอย่างอิสระ แต่อย่าลืมผมเชียวนะ!\\pไว้เจอกันใหม่ เพื่อนผู้ฉลาดของผม!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem12","th":"ถ้าถือ {STR_VAR_1} คือดีที่สุด ผมก็จะทำตามไม่มีหยุด!\\pเอาล่ะ {PLAYER} ผมต้องออกท่องไปอย่างอิสระ แต่อย่าลืมผมเชียวนะ!\\pไว้เจอกันใหม่ เพื่อนผู้ฉลาดของผม!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended12","th":"เคยได้ยินเรื่อง {STR_VAR_1} แล้วใช่ไหม? ผมมั่นใจว่าเคย แน่นอนไม่ต้องสงสัย!\\pผมอยากได้อะไรใหม่ ๆ! หรือว่า {STR_VAR_2} ของผมไม่ต้องใช้อะไร? ไม่ต้องถืออะไรไว้เลยใช่ไหม?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem13","th":"อ๊าก! โอ๊ย! {PLAYER}{KUN} แขนผมหัก! อย่าจับนะ!\\pคงหักตอนลองให้แก๊งโปเกมอนของผม ถือไอเท็มหลาย ๆ แบบแน่เลย\\pเพราะอย่างนี้ ผมเลยต้องให้คุณตัดสินใจแทน\\p{PLAYER}{KUN} คุณว่าอะไรดีสำหรับให้ {STR_VAR_1} ของผมถือ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing13","th":"โอ๊ย…\\pงั้นคุณแนะนำว่า {STR_VAR_1} ของผม ไม่ต้องถืออะไรเลยเหรอ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem13","th":"อืม ได้ แบบนั้นก็ง่ายกว่า สำหรับผมในสภาพตอนนี้\\pหวังว่าจะมาขอความช่วยเหลือ จากคุณแบบนี้ได้เรื่อย ๆ นะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem13","th":"อืม ได้ งั้นเป็น {STR_VAR_1} หนึ่งอัน แขนโปเกมอนของผมยังดีอยู่ เดี๋ยวจะให้มันถือทันที\\pหวังว่าจะมาขอความช่วยเหลือ จากคุณแบบนี้ได้เรื่อย ๆ นะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended13","th":"ไม่ ๆ คุณเคยบอกเรื่อง {STR_VAR_1} ไปแล้ว จำไม่ได้เหรอ?\\pบอกอะไรที่ดีกว่านั้นหน่อยสิ\\pอ๊ะ เดี๋ยวนะ งั้นคุณแนะนำว่า {STR_VAR_2} ของผม ไม่ต้องถืออะไรเลยเหรอ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem14","th":"เอ่อ… อืม… {PLAYER}{KUN}…\\pได้โปรด อย่ามองผมแบบนั้นเลยครับ โปเกมอนของผมยังไม่มีอะไรถือเลย\\pผ… ผมอายมากที่ต้องพูดเรื่องนี้ แต่ผมต้องการคำแนะนำจริง ๆ ครับ\\pผมตัดสินใจไม่ได้ว่าไอเท็มอะไร จะทำให้ {STR_VAR_1} แข็งแกร่ง\\p{PLAYER}{KUN} คุณคิดว่าอะไรดีครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing14","th":"โอ้… งั้นคุณคิดว่า {STR_VAR_1} ของผม ไม่มีไอเท็มจะดีกว่าเหรอครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem14","th":"โอ้… ตกลงครับ! ผมจะไปโดยไม่มีไอเท็ม\\pแต่ก็ประหม่านะครับ แบบนี้จะเท่เกินไปหรือเปล่า?\\pขอบคุณครับ {PLAYER}{KUN} ถ้าเจอกันอีก หวังว่าคุณจะช่วยผมแบบนี้อีกนะครับ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem14","th":"โอ้… ตกลงครับ! ผมจะใช้ {STR_VAR_1} นั้น\\pแต่ก็ประหม่านะครับ แบบนี้จะเท่เกินไปหรือเปล่า?\\pขอบคุณครับ {PLAYER}{KUN} ถ้าเจอกันอีก หวังว่าคุณจะช่วยผมแบบนี้อีกนะครับ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended14","th":"แ-แต่ผมเคยได้ยินเรื่องนั้นแล้วครับ\\pได้โปรดอย่าปัดผมทิ้งแบบนี้เลยครับ! ผมทนความอับอายนี้ไม่ไหว\\pโอ้… หรือผมด่วนสรุปไปเอง? คุณคิดว่าถ้า {STR_VAR_2} ของผม ไม่มีไอเท็มจะดีกว่าหรือครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhatHeldItem15","th":"หืม? ดูเหมือนคุณจะเป็น {PLAYER}{KUN}… แต่ใช่จริงหรือ? หรือว่าเป็นฝาแฝด?\\pโอ้ ไม่ ๆ ๆ ไม่ต้องกังวลครับ! ถ้าคุณคือ {PLAYER} จริง ได้โปรดลืมความเสียมารยาทของผมด้วย\\pสิ่งที่ผมต้องการ คือคำแนะนำอันยอดเยี่ยมของคุณอีกสักครั้ง\\pผมมี {STR_VAR_1} ที่อยากให้ถือไอเท็มที่มีประโยชน์\\pอะไรที่คู่ควรกับมันครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeHoldNothing15","th":"ไม่ถืออะไรเลยจะดีกว่าหรือครับ? แน่ใจนะครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem15","th":"เข้าใจแล้ว ถ้าเป็นเช่นนั้นก็ดีครับ ขอบคุณที่สละเวลาให้\\pแล้วพบกันใหม่ครับ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeThanksHeldItem15","th":"{STR_VAR_1} หนึ่งอันหรือครับ? แน่ใจนะครับ?\\pเข้าใจแล้ว ถ้าเป็นเช่นนั้นก็ดีครับ ขอบคุณที่สละเวลาให้\\pหวังว่าโปเกมอนของผม จะใช้มันได้อย่างเป็นประโยชน์\\pแล้วพบกันใหม่ครับ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended15","th":"ไม่ ๆ เดี๋ยวก่อนครับ ผมเชื่อว่าคุณเคยสอนเรื่องนั้นแล้ว\\pผมอยากให้คุณแนะนำ อย่างอื่นในครั้งนี้\\pหรือว่าคุณกำลังแนะนำว่า {STR_VAR_2} ของผมไม่ควรถืออะไร? แน่ใจนะครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst0","th":"แง {PLAYER}! ผมกำลังกลุ้มใจ ฮึก…\\pผมอยากเริ่มสู้กับคนอื่น แต่ไม่รู้ต้องทำยังไงฮะ\\pควรเรียงโปเกมอนยังไง พวกมันถึงจะแข็งแกร่งที่สุด?\\pช่วยบอกผมหน่อยนะฮะ {PLAYER} ถ้าคุณเป็นผม จะส่งโปเกมอนตัวไหนออกไปก่อนฮะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks0","th":"ให้ {STR_VAR_1} ของผมออกก่อนเหรอฮะ? แงงงง!\\pอ๊ะ! ขอโทษจริง ๆ ฮะ! คุณช่วยเลือกโปเกมอนตัวแรกให้ ผมดีใจจนร้องไห้เลย…\\pขอบคุณมากเลยฮะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst1","th":"เย้! {PLAYER} นี่นา! ดีเลย! มีเรื่องอยากถามพอดี!\\pเอ่อ ในบรรดาโปเกมอนของผม คุณว่าตัวไหนควรออกก่อน?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks1","th":"{STR_VAR_1} ของผมเหรอ? จริงด้วย โอเค จะทำตามนั้นเลย!\\pขอบคุณที่สอนนะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst2","th":"{PLAYER} สวัสดีครับ!\\pผมคิดว่าในการต่อสู้ โปเกมอนตัวที่ออกก่อนสำคัญมากครับ\\pจากโปเกมอนที่ผมมี ตัวไหนเหมาะจะส่งออกไปก่อนครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks2","th":"{STR_VAR_1} ของผมออกก่อนเหรอครับ? โอเค เข้าใจแล้วครับ!\\pแล้วเจอกันใหม่ครับ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst3","th":"สวัสดีค่ะ {PLAYER}… ขอโทษที่รบกวนด้วยคำถามอีกแล้วนะคะ\\pฉันไม่มีความมั่นใจเลย ถ้าไม่มีคุณ {PLAYER} ฉันคงไม่รู้จะทำยังไง\\pอาจเสียเวลาเปล่าที่ฉันจะกังวลเรื่องนี้ แต่ก็ตัดสินใจไม่ได้สักที…\\pในการต่อสู้ ฉันควรส่งโปเกมอนตัวไหนออกไปก่อนคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks3","th":"{STR_VAR_1} ของฉันเหรอคะ? เข้าใจแล้วค่ะ!\\pไม่อยากเชื่อเลยว่าคุณจะยอมตอบ คำถามของฉันบ่อยขนาดนี้!\\pแค่คุณยอมคุยกับฉันก็ซาบซึ้งมากแล้ว… ขอบคุณค่ะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst4","th":"อ้อ {PLAYER}{KUN}! ฉันเอง! ดีใจที่เจอเธอ เพราะฉันมีปัญหานิดหน่อย\\pฉันตัดสินใจไม่ได้ว่าจะเรียงโปเกมอนยังไง ช่วยตัดสินใจให้ทีสิ\\pอ้อ ไม่ต้องเลือกทั้งทีมตอนนี้หรอกนะ\\pแค่เลือกโปเกมอนตัวแรกให้ฉันก็พอ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks4","th":"{STR_VAR_1} ของฉันเหรอ? เยี่ยมเลย!\\pพอรู้ว่าเธอเป็นคนตัดสินใจ {PLAYER}{KUN} ถ้าแพ้ฉันก็ไม่หงุดหงิดมากหรอก\\pโอเค ไว้จะมาขอคำแนะนำอีกนะ บาย!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst5","th":"หวัดดี อาจารย์ {PLAYER}{KUN}! วันนี้ผมก็ยุ่งอีกแล้ว!\\pต้องไปปั่นจักรยาน ช็อปปิ้ง แล้วก็ฮัมเพลง\\pยังไม่มีเวลาเลยว่าจะเรียงทีมโปเกมอนยังไง\\pงั้นช่วยดูทีมผมหน่อยได้ไหม? ตัวไหนควรออกก่อน?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks5","th":"โอเค รับทราบ อย่างน้อยผมก็มีเวลาพอ จะให้ {STR_VAR_1} ขึ้นนำหัวแถว!\\pตายแล้ว แฟนผมรออยู่! ขอบคุณนะ! ไว้เจอกัน!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst6","th":"ฮู้ฮู! หวัดดี {PLAYER}! เธอเดินไปไหนมาไหนดูเท่ตลอดเลย!\\pนี่ ฉันต้องการอะไรจากเธออีกแล้ว! เรื่องเดิม ๆ นั่นแหละ!\\pรัวกลองหน่อย! คำถามของฉันเป็นเรื่องทีม\\pโปเกมอนตัวไหนของฉัน ควรออกไปสู้เป็นตัวแรก?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks6","th":"อืมฮึ! {STR_VAR_1} ของฉัน งั้นเหรอ! ขอบคุณสำหรับคำตอบสุดเจ๋งนะ!\\pวันนี้คงอยากถามแค่นี้แหละ\\pไว้มาเจอกันที่นี่อีกนะ โอเค? ขอบคุณจ้า!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst7","th":"ขอบคุณมากนะคะ ที่หยุดคุยกับดิฉัน {PLAYER}\\pดิฉันรู้ว่ากำลังเอาเปรียบความใจดีของคุณ แต่ขอคำแนะนำได้ไหมคะ?\\pดิฉันอยากให้คุณช่วยตัดสินใจ ลำดับทีมโปเกมอนของดิฉัน\\pจะดีมากถ้าคุณช่วยเลือกว่า โปเกมอนตัวไหนควรออกก่อนค่ะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks7","th":"{STR_VAR_1} ของดิฉัน ตามนั้นค่ะ! จะจัดให้ขึ้นก่อนทันที\\pขอบคุณค่ะ {PLAYER} หวังว่าจะได้พึ่งพาคุณอีกนะคะ ดูแลตัวเองด้วยค่ะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst8","th":"กรี๊ด! {PLAYER}! ฉ-ฉันดีใจสุด ๆ ที่ได้เจอคุณอีกค่ะ!\\pโปเกมอนของฉันแข็งแกร่งขึ้นมากแล้วค่ะ!\\pแต่ก็ไม่ได้ชนะทุกครั้ง ดูเหมือนจะขึ้นอยู่กับว่า โปเกมอนตัวไหนออกก่อน\\p{PLAYER} ได้โปรด ฉันต้องการความช่วยเหลือจากคุณ!\\pได้โปรดตัดสินใจว่า โปเกมอนตัวไหนของฉันควรออกก่อนค่ะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks8","th":"เฮ้อ… ฉันมีความสุขล้นเหลือ…\\pเหมือนฝันเลยที่คุณ {PLAYER} ช่วยตัดสินใจให้ฉัน\\pแต่เข้าใจอย่างถ่องแท้แล้วค่ะ! ฉันจะให้ {STR_VAR_1} ออกก่อน!\\pหวังว่าคราวหน้า คุณจะยินดีสอนฉันอีกนะคะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst9","th":"หวัดดี หวัดดี! อาจารย์ของผม {PLAYER}{KUN}! วันนี้ขอคำแนะนำอันลึกซึ้งหน่อย!\\pคือผมรวมทีมโปเกมอนได้สามตัวแล้ว ถึงตอนนี้ก็ยังดีอยู่\\pแต่ลำดับการออกสู้ของทีม ยังไม่ลงตัว\\pนี่แหละที่คุณต้องมาช่วย {PLAYER}{KUN}! คุณเลือกว่าโปเกมอนตัวไหนนำทัพ!\\pไม่ต้องเขินน่า พูดออกมาเลย!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks9","th":"อาฮะ {STR_VAR_1} ของผมนำทัพ! โอเค ชัวร์! ผมจะไปจัดลำดับใหม่ แบบ ฟึ่บ!\\pเอาล่ะ ขอบคุณเหมือนเคย! อาดิโอส!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst10","th":"{PLAYER}{KUN} ฟังนะ! วิกฤติแล้ว!\\pโปเกมอนของผมทั้งสามตัว ออกไปสู้พร้อมกันหมดเลย!\\pเป็นไปไม่ได้อยู่แล้ว! ว้าฮ่าฮ่าฮ่า!\\pแต่อันนี้ไม่โกหกนะ ผมไม่ค่อยเก่งเรื่องคิดว่า ควรเรียงโปเกมอนยังไง\\pงั้นช่วยเลือกให้หน่อยได้ไหม ว่าโปเกมอนตัวไหนควรออกก่อน อาจารย์?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks10","th":"โอเค งั้นอาจารย์เลือก {STR_VAR_1} ของผมเหรอ? งั้นผมจะให้ตัวอื่นที่ไม่ใช่มันออกก่อน!\\pล้อเล่นน่า! ผมจะทำตามคำสอนของอาจารย์!\\pขอบคุณนะ อาจารย์! สอนผมต่อไปอีกนะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst11","th":"อ-า-ฮอย! สะกดว่าอาฮอย!\\pกะลาสีสายแร็ปคือผมเอง! ขอเสนอคำถามสุดเจ๋งให้เธอเล็ง!\\pเป็นคำถามเรื่องจัดทัพ ขอคำแนะนำจากเธอให้ผมรับ!\\pจากทั้งหมดนี่ ตัวไหนควรออกก่อน เป็นตัวแรกที่ลงสนามไม่ต้องย้อน?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks11","th":"โอเค ผมได้ยินแล้ว แน่นอน! ผมจะสลับลำดับใหม่ ไม่ต้องย้อน!\\pถ้าวันไหนต้องการคำชี้แนะ {PLAYER} คำของเธอผมจะฟังไม่แปรแน่!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst12","th":"ยาฮู้ {PLAYER}! เป็นไงบ้าง สบายดีไหม?\\pทำไงดี? ถามไปเลยไหม? อาฮะ ผมมีเรื่องจะถาม!\\pรับสัญญาณผมไหม? รับได้ชัดแจ๋วเลยใช่ไหม!\\pเธอต้องตัดสินใจ ว่าโปเกมอนตัวไหนของผมจะได้ขี่ออกไปก่อนใคร! หมายถึงออกไปสู้น่ะนะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks12","th":"{STR_VAR_1} ของผมเหรอ? เยี่ยม! ตามนั้นเลย ไม่ต้องกลุ้มให้เปลี่ยน!\\pเอาล่ะ {PLAYER} ผมต้องออกท่องไปอย่างอิสระ แต่อย่าลืมผมเชียวนะ!\\pไว้เจอกันใหม่ เพื่อนผู้ฉลาดของผม!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst13","th":"…อุ๊ย…โอ๊ย… {PLAYER}{KUN}… จู่ ๆ ก็ปวดท้องขึ้นมา…\\p…ค่อยยังชั่วแล้ว…\\pคงเครียดจนป่วย เพราะคิดหนักว่า จะเรียงแก๊งโปเกมอนของผมยังไง\\pเพราะอย่างนี้ ผมเลยต้องให้คุณตัดสินใจแทน\\p{PLAYER}{KUN} โปเกมอนตัวไหนของผมควรออกก่อน? หมายถึงออกแล้วชนะน่ะนะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks13","th":"อืม ได้ {STR_VAR_1} ของผมออกก่อน\\pเดี๋ยวกินข้าวเย็นเสร็จ จะไปจัดลำดับตามนั้น\\pหวังว่าจะมาขอความช่วยเหลือ จากคุณแบบนี้ได้เรื่อย ๆ นะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst14","th":"เอ่อ… อืม… {PLAYER}{KUN}?\\pได้โปรด อย่ามองผมแบบนั้นเลยครับ ผมประหม่าไปหมดแล้ว\\pเอ่อ… ผมต้องการคำแนะนำจริง ๆ ครับ\\pพูดแล้วเขินจัง แต่ผมเลือกทีมโปเกมอน 3 ตัวแล้ว แต่ตัดสินใจเรื่องลำดับไม่ได้\\pผมควรส่งโปเกมอนตัวไหนออกก่อน อย่างน้อยจะได้ดูเก่งหน่อยครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks14","th":"โอ้… ตกลงครับ! ผมจะให้ {STR_VAR_1} นำ\\pหวังว่าจะทำได้เต็มที่ โดยไม่ประหม่าเสียก่อน\\pขอบคุณครับ {PLAYER}{KUN} ถ้าเจอกันอีก หวังว่าคุณจะช่วยผมแบบนี้อีกนะครับ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMonFirst15","th":"หืม? ดูเหมือนคุณจะเป็น {PLAYER}{KUN}… แต่ใช่จริงหรือ? หรือว่าเป็นตัวปลอมที่เหมือนมาก?\\pโอ้ ไม่ ๆ ๆ ไม่ต้องกังวลครับ! ถ้าคุณคือ {PLAYER} จริง ได้โปรดลืมความเสียมารยาทของผมด้วย\\pสิ่งที่ผมต้องการ คือคำแนะนำอันยอดเยี่ยมของคุณ\\pนี่คือทีมโปเกมอนของผม อยากให้คุณบอกว่า ตัวไหนควรออกก่อนในการต่อสู้ครับ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonFirstThanks15","th":"{STR_VAR_1} ของผม… คุณไม่ได้แกล้งผมใช่ไหมครับ?\\pเข้าใจแล้ว ถ้าเป็นเช่นนั้นก็ดีครับ ขอบคุณที่สละเวลาให้\\pผมก็เป็นอย่างที่เห็นนี่แหละ แต่จะพยายามให้ดีที่สุดครับ\\pแล้วพบกันใหม่ครับ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon0","th":"ฮึก… อ๊ะ {PLAYER}!\\pมาได้จังหวะพอดีเลยฮะ! มีเรื่องที่ผมตัดสินใจไม่ได้…\\pผมตัดสินใจไม่ได้ว่าควรใช้โปเกมอนตัวไหน\\pเลือกไม่ถูกระหว่าง {STR_VAR_1} กับ {STR_VAR_2}…\\p{PLAYER} คุณว่าตัวไหน ที่จะทำให้แม้แต่ผมก็มีโอกาสชนะฮะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks0","th":"ฮึก… ผ-ผมเข้าใจแล้วฮะ! อ๊ะ! ขอโทษจริง ๆ ฮะ! ผมดีใจจนร้องไห้เลย…\\pผมจะพยายามจับ {STR_VAR_1} ให้ได้สักตัวฮะ!\\pขอบคุณมากเลยฮะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon1","th":"เย้! {PLAYER} นี่นา! มาได้จังหวะพอดีเลย! ผมอยากได้คำแนะนำอีกแล้ว!\\pเอ่อ ผมสับสนไปหมด ควรใช้ {STR_VAR_1} หรือ {STR_VAR_2} ดี…\\pคุณว่าผมควรเลี้ยงตัวไหน {PLAYER}?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks1","th":"อ๋อ {STR_VAR_1} ของผมดีกว่าสินะ! โอเค จะทำตามนั้นเลย!\\pขอบคุณที่สอนนะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon2","th":"{PLAYER} สวัสดีครับ! ผมมีคำถามอยากถามครับ\\pผมลังเลว่าควรเลี้ยง {STR_VAR_1} หรือ {STR_VAR_2} ดี\\pคุณคิดว่าโปเกมอนตัวไหน จะแข็งแกร่งกว่ากันครับ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks2","th":"คุณเลือก {STR_VAR_1} เหรอครับ? โอเค เข้าใจแล้วครับ!\\pผมจะไปจับ {STR_VAR_1} แข็งแกร่ง ๆ มาเดี๋ยวนี้เลย!\\pแล้วเจอกันใหม่ครับ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon3","th":"สวัสดีค่ะ {PLAYER}…\\pเอ่อ คุณคงลืมคนอย่างฉันไปแล้ว…\\p…แต่ไม่เป็นไรหรอกค่ะ ถ้าคุณจะให้คำแนะนำฉันได้…\\pฉันตัดสินใจไม่ได้ว่า จะเลี้ยงโปเกมอนชนิดไหนดี…\\pคัดมาเหลือ {STR_VAR_1} กับ {STR_VAR_2} แล้ว แต่ก็ติดอยู่ตรงนั้น…\\p{PLAYER} คุณคงไม่อยากเสียเวลา แต่ได้โปรดช่วยตัดสินใจให้ฉันด้วยค่ะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks3","th":"แต่ {STR_VAR_1} ในป่า จะสนใจฉันด้วยเหรอคะ?\\pฉันจะลองดูค่ะ!\\pแต่ฉันจะจับได้หรือเปล่านะ… ไม่สิ! ฉันจะพยายามให้เต็มที่!\\pขอบคุณค่ะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon4","th":"อ้อ {PLAYER}{KUN}! ดีใจที่เจอเธอนะ! ฉันกำลังจะไปตามหาเธออยู่เลย!\\pช่วยตัดสินใจหน่อยสิ ว่าฉันควรใช้โปเกมอนชนิดไหน\\pอย่างเช่น… {STR_VAR_1} กับ {STR_VAR_2} เป็นไง?\\pเธอว่าตัวไหนดีกว่ากัน?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks4","th":"{STR_VAR_1} เหรอ? เยี่ยมเลย!\\pพอรู้ว่าเธอเป็นคนตัดสินใจ {PLAYER}{KUN} ถ้าแพ้ฉันก็ไม่หงุดหงิดมากหรอก\\pโอเค ไว้จะมาขอคำแนะนำอีกนะ บาย!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon5","th":"นั่นมัน {PLAYER}{KUN} นี่นา! เป็นไงบ้าง? ผมก็ยุ่งเหมือนเคย!\\pผมอยากเก่งเรื่องโปเกมอนด้วย แต่ยังตัดสินใจไม่ได้ว่า ควรใช้ตัวไหน\\pรู้ใช่ไหมว่า {STR_VAR_1} ดูแข็งแกร่ง? แต่ {STR_VAR_2} ก็มองข้ามไม่ได้\\p{PLAYER}{KUN} ช่วยแนะนำดี ๆ หน่อย! ตัวไหนเหมาะกับผม?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks5","th":"โอเค รับทราบ ผมจะหาเวลาไปจับ {STR_VAR_1} ที่คุณแนะนำมาให้ได้\\pดีใจที่ได้อาจารย์ดี ๆ อย่างคุณ ขอบคุณนะ! ไว้เจอกัน!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon6","th":"อ๊ะ! เย้ {PLAYER} นี่นา!\\pฉันรีบไปอวดเพื่อน ๆ ทันทีเลย ว่าได้เจอเธอ!\\pวันนี้ขอยืมสมองเธออีกแล้ว ข้อนี้ง่ายมากสำหรับเธอ!\\pรัวกลองหน่อย! คำถามของฉันคือ…\\pถ้าฉันจะเลี้ยงโปเกมอน โดยมีตัวเลือกคือ {STR_VAR_1} หรือ {STR_VAR_2} ควรเลือกตัวไหนดี?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks6","th":"อ๊าาา! {STR_VAR_1} งั้นเหรอ! ขอบคุณสำหรับคำตอบสุดเจ๋งนะ!\\pวันนี้คงอยากถามแค่นี้แหละ\\pไว้มาเจอกันที่นี่อีกนะ โอเค? ขอบคุณจ้า!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon7","th":"อ้าว นั่นคุณเองหรือคะ {PLAYER}? ดีใจที่ได้พบคุณอีกค่ะ!\\pตั้งแต่ได้เป็นศิษย์ของคุณ ดิฉันก็มั่นใจในตัวเองมากขึ้น\\pดิฉันคิดว่าพร้อมจะเลี้ยง โปเกมอนของตัวเองแล้วค่ะ!\\p{PLAYER} ขอรบกวนให้คุณช่วยเลือกว่า ดิฉันควรเลี้ยงโปเกมอนตัวไหนได้ไหมคะ?\\pตัวเลือกคือ {STR_VAR_1} หรือ {STR_VAR_2}… ตัวไหนเหมาะกับดิฉันคะ?$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks7","th":"{STR_VAR_1} หนึ่งตัว ตามนั้นค่ะ! ดิฉันจะไปหามาทันที\\pขอบคุณค่ะ {PLAYER} หวังว่าจะได้พึ่งพาคุณอีกนะคะ ดูแลตัวเองด้วยค่ะ!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon8","th":"กรี๊ด! {PLAYER}! ได้เจอคุณอีกแล้ว! ฉ-ฉันดีใจสุด ๆ เลยค่ะ!\\pโอ้-โอ้-โอ้ นึกออกแล้ว! ห้ามพลาดโอกาสนี้เด็ดขาด!\\pขอรบกวนเรื่องใหญ่ได้ไหมคะ {PLAYER}? ได้โปรดเลือกโปเกมอนให้ฉันหน่อยค่ะ!\\pได้โปรดตัดสินใจว่าตัวไหนดีกว่า {STR_VAR_1} หรือ {STR_VAR_2}!$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks8","th":"ว้าว! คุณตัดสินใจให้ฉันแล้ว! ฉันจะเลี้ยง {STR_VAR_1} ให้ดีที่สุดเท่าที่ทำได้เลยค่ะ\\pหวังว่าคราวหน้า คุณจะยินดีสอนฉันอีกนะคะ$"}
-{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon9","th":"เฮ้ เฮ้! อาจารย์ของผม {PLAYER}{KUN}!\\pหวัดดี ผมตามหาคุณอยู่เลย อยากได้คำแนะนำอันลึกซึ้งอีก!\\pโปเกมอนชนิดไหนที่เหมาะกับผม {STR_VAR_1} หรือ {STR_VAR_2}?\\pไม่ต้องเขินน่า พูดออกมาเลย!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_CheckedClockStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ชื่อ {STR_VAR_3}\\pเทรนเนอร์คนนี้ดูนาฬิกาไปแล้ว {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นเทรนเนอร์ที่ตรงต่อเวลา และใส่ใจทุกนาทีเลยทีเดียว$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WonLotteryTitle", "th": "พ่อมดลอตเตอรี่โปเกมอน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WonLotteryAction", "th": "ถูกลอตเตอรี่โปเกมอน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WonLotteryStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ชื่อ {STR_VAR_3}\\pเทรนเนอร์คนนี้ถูกลอตเตอรี่โปเกมอน มาแล้ว {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงมีเพื่อนมากมาย ไว้แลกเปลี่ยนโปเกมอนด้วยแน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedDaycareTitle", "th": "เทรนเนอร์ขาประจำสถานรับเลี้ยง$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedDaycareAction", "th": "ฝากโปเกมอนไว้ที่สถานรับเลี้ยง$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedDaycareStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ชื่อ {STR_VAR_3}\\pเทรนเนอร์คนนี้ฝากโปเกมอนไว้ที่ สถานรับเลี้ยงถึง {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นคนมุ่งมั่น ที่เลี้ยงโปเกมอนอย่างจริงจังสุด ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_RodeCableCarTitle", "th": "เทรนเนอร์ผู้หลงรักกระเช้าลอยฟ้า$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_RodeCableCarAction", "th": "นั่งกระเช้าลอยฟ้า$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_RodeCableCarStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ชื่อ {STR_VAR_3}\\pเทรนเนอร์คนนี้นั่งกระเช้าลอยฟ้า ไปแล้ว {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นเทรนเนอร์งานยุ่ง ที่ขึ้น ๆ ลง ๆ อยู่ตลอดเวลา!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_HotSpringsTitle", "th": "เทรนเนอร์ผู้หลงรักบ่อน้ำพุร้อน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_HotSpringsAction", "th": "แช่บ่อน้ำพุร้อน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_HotSpringsStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ชื่อ {STR_VAR_3}\\pเทรนเนอร์คนนี้แช่บ่อน้ำพุร้อน ไปแล้ว {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นเทรนเนอร์ ที่มีผิวเนียนนุ่มเหมือนผิวเด็กแน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_HearMyStory", "th": "ผมคือกิดดี้! มีเรื่องสุดตื่นเต้น จะเล่าให้ฟัง!\\pอยากฟังเรื่องของผมไหม?$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_GiddyFeelingTheBlues", "th": "โธ่… ทำเอาผมเศร้าเลย…$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_AlsoIWasThinking", "th": "แล้วก็นะ ผมกำลังคิดว่า…$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WeShouldChatAgain", "th": "ก็ประมาณนี้แหละ…\\pไว้มาคุยกันอีกนะ! บ๊ายบาย!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WouldYouLikeToHearMySong", "th": "สวัสดี ผมคือบาร์ด นักร้องพเนจร อยากฟังเพลงของผมไหม?$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_BardFeelingTheBlues1", "th": "โธ่… ทำเอาผมเศร้าเลย…$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WishICouldPlaySongForOthers", "th": "โอ้ ช่างเป็นเพลงที่ซึ้งกินใจ… อยากเล่นให้คนอื่นฟังบ้างจัง…$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WouldYouLikeToWriteSomeLyrics", "th": "เป็นไง? ชอบเพลงของผมไหม?\\pแต่ผมยังไม่ค่อยพอใจ เนื้อร้องเท่าไหร่\\pช่วยแต่งเนื้อเพลงใหม่ ให้ผมหน่อยได้ไหม?$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_BardFeelingTheBlues2", "th": "โธ่… ทำเอาผมเศร้าเลย…$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_LetMeSingItForYou", "th": "ขอบคุณมาก! งั้นขอร้องให้ฟังเลยนะ$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_ThatHowYouWantedSongToGo", "th": "เพลงออกมาเป็นอย่างที่ อยากได้หรือเปล่า?$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_IllSingThisSongForAWhile", "th": "โอเค! ตามนี้เลย ผมจะร้องเพลงนี้ไปอีกสักพัก$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TeachWhatsHipAndHappening", "th": "เฮ้ โย่! เขาเรียกผมว่าฮิปสเตอร์ เดี๋ยวจะสอนว่าตอนนี้ อะไรกำลังฮิตกำลังมา$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_IAlreadyTaughtYou", "th": "แต่เฮ้ ผมสอนเรื่องที่กำลังฮิต ให้เธอไปแล้วนี่\\pผมอยากไปบอกต่อ ให้คนอื่นบ้าง$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_IveGotNothingNewToTeach", "th": "แต่เฮ้ เธอรู้เรื่องที่กำลังฮิต อยู่เยอะแล้วนี่\\pผมไม่มีอะไรใหม่จะสอนแล้วล่ะ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_HaveYouHeardOfWord", "th": "เฮ้ เคยได้ยินคำว่า “{STR_VAR_1}” ไหม?\\pแปลว่าอะไรน่ะเหรอ? เอ่อ… ไปถามพ่อกับแม่ดูนะ โอเค?$"}
+{"id": "data/scripts/profile_man.inc#ProfileMan_Text_CollectTrainerProfiles", "th": "สวัสดีครับ เทรนเนอร์! รอยยิ้มของคุณสวยจริง ๆ\\pผมมีงานอดิเรก คือสะสมโปรไฟล์ ของเทรนเนอร์โปเกมอนครับ$"}
+{"id": "data/scripts/profile_man.inc#ProfileMan_Text_MayISeeYourProfile", "th": "ว่าไงครับ? ขอดูโปรไฟล์ของคุณ ได้ไหมครับ?$"}
+{"id": "data/scripts/profile_man.inc#ProfileMan_Text_EasyChatExplanation", "th": "โปรไฟล์ทำได้ด้วยการนำคำ หรือวลีสี่ชิ้นมาเรียงต่อกันครับ\\pเดี๋ยวผมจะให้ดูตัวอย่างโปรไฟล์ ที่ใช้ข้อความสี่ชิ้นนะครับ\\pคุณสลับข้อความทั้งสี่ชิ้น กับชิ้นอื่นได้ตามใจชอบ เพื่อสร้างโปรไฟล์ของตัวเอง\\pข้อความที่ใช้ได้มีเยอะมากครับ\\pข้อความถูกจัดเป็นกลุ่ม เช่น โปเกมอน ไลฟ์สไตล์ และงานอดิเรก จะได้หาง่าย ๆ\\pอันดับแรก ให้เลือกกลุ่มข้อความ เพื่อแสดงรายการตัวเลือก\\pจากนั้นเลือกคำที่ต้องการ\\pทำแบบนี้กับข้อความที่เหลือ แล้วคุณจะได้โปรไฟล์ของตัวเองครับ$"}
+{"id": "data/scripts/profile_man.inc#ProfileMan_Text_LetsSeeItThen", "th": "ดีเลย! ขอบคุณครับ! งั้นขอดูหน่อยนะครับ$"}
+{"id": "data/scripts/profile_man.inc#ProfileMan_Text_ImagineYouWouldHaveWonderfulProfile", "th": "โธ่ จริงเหรอครับ?\\pคนอย่างคุณ ต้องมีโปรไฟล์ที่ยอดเยี่ยมแน่ ๆ…$"}
+{"id": "data/scripts/profile_man.inc#ProfileMan_Text_NotIntoItRightNow", "th": "อ้าว? ตอนนี้ยังไม่อยากทำเหรอครับ?\\pไม่เป็นไรครับ ผมสะดวกตลอดเวลา!$"}
+{"id": "data/scripts/profile_man.inc#ProfileMan_Text_YouHaveWonderfulSmile", "th": "สวัสดีครับ เทรนเนอร์! รอยยิ้มของคุณสวยจริง ๆ$"}
+{"id": "data/scripts/profile_man.inc#ProfileMan_Text_MayISeeYourNewProfile", "th": "ขอดูโปรไฟล์ใหม่ของคุณ ได้ไหมครับ?$"}
+{"id": "data/scripts/profile_man.inc#ProfileMan_Text_EvenBetterThanLastProfile", "th": "ดีเลย! ขอบคุณครับ!\\pหวังว่าจะดียิ่งกว่า โปรไฟล์ที่ให้ดูครั้งก่อนนะครับ$"}
+{"id": "data/scripts/profile_man.inc#ProfileMan_Text_LikeProfileWayItIs", "th": "อ๋อ คุณชอบโปรไฟล์แบบเดิมอยู่แล้ว\\pก็ไม่แปลกครับ โปรไฟล์ตอนนี้ ก็ยอดเยี่ยมอยู่แล้ว$"}
+{"id": "data/scripts/profile_man.inc#ProfileMan_Text_FantasticProfile", "th": "ย-ยอดไปเลย!\\pโปรไฟล์ของคุณสุดยอดมาก! บอกความเป็นตัวคุณได้ชัดเจนจริง ๆ\\pใครได้ยินโปรไฟล์นี้ ต้องหลงเสน่ห์คุณแน่นอน!\\pขอบคุณครับ!$"}
+{"id": "data/scripts/profile_man.inc#ProfileMan_Text_YouKnowSecretSaying", "th": "อ๊ะ? คุณรู้คำลับด้วย!\\pแปลว่าตอนนี้คุณเป็นสมาชิก ชมรมมิสเทอรีอีเวนต์แล้วนะครับ!$"}
+{"id": "data/scripts/repel.inc#Text_RepelWoreOff", "th": "REPEL หมดฤทธิ์แล้ว…$"}
+{"id": "data/scripts/roulette.inc#Roulette_Text_PlayMinimumWagerIsX", "th": "เดิมพันขั้นต่ำของโต๊ะนี้ คือ {STR_VAR_1} จะเล่นไหม?$"}
+{"id": "data/scripts/roulette.inc#Roulette_Text_NotEnoughCoins", "th": "เหรียญไม่พอ$"}
+{"id": "data/scripts/roulette.inc#Roulette_Text_SpecialRateTable", "th": "ตอนนี้โต๊ะนี้ได้อัตราพิเศษ!$"}
+{"id": "data/scripts/roulette.inc#Roulette_Text_ControlsInstruction", "th": "วางเดิมพันด้วยปุ่มทิศทาง + แล้วกดปุ่ม A$"}
+{"id": "data/scripts/roulette.inc#Roulette_Text_ItsAHit", "th": "ถูกแล้ว!$"}
+{"id": "data/scripts/roulette.inc#Roulette_Text_Jackpot", "th": "แจ็กพอต!$"}
+{"id": "data/scripts/roulette.inc#Roulette_Text_NothingDoing", "th": "ไม่ถูกเลย!$"}
+{"id": "data/scripts/roulette.inc#Roulette_Text_YouveWonXCoins", "th": "ได้รับ {STR_VAR_1} เหรียญ!$"}
+{"id": "data/scripts/roulette.inc#Roulette_Text_NoCoinsLeft", "th": "เหรียญหมดแล้ว…$"}
+{"id": "data/scripts/roulette.inc#Roulette_Text_KeepPlaying", "th": "เล่นต่อไหม?$"}
+{"id": "data/scripts/roulette.inc#Roulette_Text_BoardWillBeCleared", "th": "จะเคลียร์กระดานรูเล็ต$"}
+{"id": "data/scripts/roulette.inc#Roulette_Text_YouDontHaveACoinCase", "th": "ไม่มี COIN CASE$"}
+{"id": "data/scripts/roulette.inc#Roulette_Text_CoinCaseIsFull", "th": "COIN CASE เต็มแล้ว! นำเหรียญไปแลกของรางวัลได้$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Text_WouldYouLikeToExit", "th": "จะออกจากซาฟารีโซน ตอนนี้เลยไหม?$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Text_TimesUp", "th": "ติ๊งต่อง! หมดเวลา! เกมซาฟารีจบแล้ว$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Text_OutOfBalls", "th": "SAFARI BALL หมดแล้ว เกมซาฟารีจบแล้ว$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Text_PlacePokeblockOnFeeder", "th": "จะวาง{POKEBLOCK} ไว้บนที่วาง{POKEBLOCK}ไหม?$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Text_PokeblockStillHere", "th": "{STR_VAR_1} ที่วางไว้ก่อนหน้านี้ ยังอยู่ที่นี่$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Text_PokeblockWasPlaced", "th": "วาง {STR_VAR_1} ไว้บนที่วาง{POKEBLOCK}แล้ว$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_WelcomeToSafariZone", "th": "ยินดีต้อนรับสู่ซาฟารีโซนค่ะ!\\pที่นี่ คุณจะได้พบโปเกมอนมากมาย ที่หาดูได้ยากในโฮเอ็น\\pและจะได้เห็นพวกมันในสภาพป่า ตามธรรมชาติจริง ๆ ค่ะ\\pยิ่งไปกว่านั้น เรายังเปิดประตูต้อนรับ เทรนเนอร์โปเกมอนด้วย\\pจับโปเกมอนกลับไปเป็นของตัวเองได้เลยค่ะ!\\pเชิญเข้ามาสนุกกับซาฟารีโซนได้เลยค่ะ!$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_WelcomeFirstTime", "th": "ยินดีต้อนรับสู่ซาฟารีโซนครับ! มาที่นี่ครั้งแรกหรือเปล่าครับ?$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_ComeInAndEnjoy", "th": "เชิญเข้ามาสนุกกับซาฟารีโซนได้เลยครับ!$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_FirstTimeInfo", "th": "เมื่อเข้าซาฟารีโซน คุณจะได้ SAFARI BALL 30 ลูก ไว้จับโปเกมอน\\pเกมซาฟารีจะจบลงเมื่อ SAFARI BALL หมด หรือเมื่อเดินครบ 500 ก้าว\\pเชิญเข้ามาสนุกกับซาฟารีโซนได้เลยครับ!$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_WouldYouLikeToPlay", "th": "ยินดีต้อนรับสู่ซาฟารีโซน!\\pจับได้ไม่อั้นเพียง ¥500! สนใจเล่นเกมซาฟารีไหม?$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_PlayAnotherTime", "th": "ได้เลย โอกาสหน้าเชิญใหม่นะ!$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_NotEnoughMoney", "th": "เงินไม่พอ ขออภัยด้วย$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_ThatWillBe500Please", "th": "ค่าบริการ ¥500$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_HereAreYourSafariBalls", "th": "นี่คือ SAFARI BALL ของคุณ$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_Received30SafariBalls", "th": "{PLAYER} ได้รับ SAFARI BALL 30 ลูก$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_PleaseEnjoyYourself", "th": "เมื่อเกมจบ เราจะแจ้งให้ทราบ\\pระหว่างนี้ ขอให้สนุกนะ! ออกผจญภัยในป่ากันเลย!$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_PCIsFull", "th": "ขออภัย! กล่อง PC ของคุณเต็มแล้ว$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_YouNeedPokeblockCase", "th": "ขออภัย! ดูเหมือนคุณ จะไม่มี {POKEBLOCK} CASE\\pถ้าใช้{POKEBLOCK} เกมซาฟารีจะได้ผลดีขึ้นมาก\\pกรุณากลับมาพร้อม {POKEBLOCK} CASE\\pรับ {POKEBLOCK} CASE ได้ที่ หอคอนเทสต์เมืองมินาโมะ$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_South_Text_StillHaveTimeExit", "th": "ยังมีเวลาเหลืออยู่ จะออกจากซาฟารีโซนตอนนี้เลยไหมครับ?$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_South_Text_EnjoyTheRestOfYourAdventure", "th": "ขอให้สนุกกับการผจญภัยในป่า ที่เหลืออยู่นะครับ!$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_South_Text_ExitEarlyThankYouForPlaying", "th": "ได้ครับ\\pขอรับ SAFARI BALL ที่เหลือคืนนะครับ\\pขอบคุณที่มาเล่นครับ แล้วมาใหม่นะครับ$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_South_Text_GoodLuck", "th": "โชคดีครับ!\\pถ้าต้องการอะไร บอกผมได้เลยนะครับ!$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_South_Text_Boy", "th": "รู้ไหม?\\pถ้าเอา{POKEBLOCK}ใส่ในกล่องสี่เหลี่ยมนั่น โปเกมอนจะมารวมตัวกันล่ะ$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_South_Text_Man", "th": "อยากเข้าไปลึกกว่านี้ แต่ลืมเอาจักรยานมา\\pรู้สึกว่าโปเกมอนหายาก น่าจะอยู่ตามพื้นที่รอบนอกนะ$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Southwest_Text_Woman", "th": "บางทีโยน{POKEBLOCK}ให้โปเกมอน มันก็ไม่สนใจเลย\\pโปเกมอนก็เลือกกินเหมือนกัน เหรอคะ?$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Northwest_Text_Man", "th": "แฮ่ก… แฮ่ก… ผม…มาถึงนี่…จนได้…แต่…\\pเหนื่อยแทบขาดใจ… ไม่มีแรงจะจับโปเกมอนแล้ว…$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_North_Text_Fisherman", "th": "ผมมีภารกิจตามหาโปเกมอนประเภท WATER ที่ไม่มีในโฮเอ็น\\pรู้ไหมว่าทะเลสาบอยู่ตรงไหน?$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_North_Text_Man", "th": "ผมจะจับโปเกมอนหายากที่นี่เยอะ ๆ แล้วเอาไปแลกกับเพื่อน!$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_South_Text_Youngster", "th": "ผมวาง{POKEBLOCK}ไว้บนที่วาง{POKEBLOCK} แต่มันหายไปแล้ว\\pสงสัยโปเกมอนมากินไป ตอนที่ผมไม่ทันเห็นแน่ ๆ$"}
+{"id": "data/scripts/safari_zone.inc#Route121_SafariZoneEntrance_Text_TrainerTip", "th": "เคล็ดลับเทรนเนอร์ ซาฟารีโซน!\\pโยน{POKEBLOCK}ใส่โปเกมอนป่า เพื่อให้มันหนีได้ยากขึ้น$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Southwest_Text_RestHouseSign", "th": "“พักเท้าที่เหนื่อยล้า” บ้านพักผ่อน$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_RestHouse_Text_Youngster", "th": "ผมไม่มี{POKEBLOCK}เลย แต่ก็จับโปเกมอนได้เยอะนะ\\pถ้าเข้าไปใกล้ ๆ ก่อนโยน SAFARI BALL โอกาสจับได้ก็จะสูงขึ้น$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_RestHouse_Text_PsychicM", "th": "ถ้าใช้{POKEBLOCK} โปเกมอนป่าจะไม่หนีไวนัก\\pแต่ให้{POKEBLOCK}กับโปเกมอน ที่ไม่ค่อยหนีอยู่แล้ว ก็ไม่ค่อยได้ผลหรอก$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_RestHouse_Text_FatMan", "th": "ถ้าวาง{POKEBLOCK}ไว้บนที่วาง โปเกมอนจะถูกดึงดูดเข้ามา\\pผมว่าโปเกมอนที่มีนิสัยแบบเดียวกัน จะชอบ{POKEBLOCK}แบบเดียวกันนะ$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_South_Text_AreaOffLimits1", "th": "พื้นที่นี้ยังก่อสร้างอยู่ ห้ามเข้าครับ ขอโทษด้วย!$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Southeast_Text_ExpansionIsFinished", "th": "โครงการขยายซาฟารีโซน เสร็จสมบูรณ์แล้วครับ\\pหวังว่าจะสนุกกับพื้นที่ใหม่นะครับ$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_South_Text_AreaOffLimits2", "th": "พื้นที่นี้ยังก่อสร้างอยู่ ห้ามเข้าครับ ขอโทษด้วย!$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Southeast_Text_LittleGirl", "th": "ว้าว! เย้! หนูไม่เคยเห็นโปเกมอนพวกนี้มาก่อนเลย!$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Southeast_Text_FatMan", "th": "โปเกมอนแถวนี้ ผมไม่เคยเห็นมาก่อนเลย\\pแถมยังจับโปเกมอนหายากพวกนี้ได้ด้วย! เจ๋งสุด ๆ!$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Southeast_Text_RichBoy", "th": "โปเกมอนแถวนี้ดูเหมือน จะมาจากที่อื่นที่ไม่ใช่โฮเอ็นนะ$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Northeast_Text_Boy", "th": "SAFARI BALL เหลืออยู่แค่สองสามลูก\\pเลือกไม่ถูกเลยว่าจะจับตัวไหนดี$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Northeast_Text_Woman", "th": "ได้ยินมาว่าที่นี่มีปิกาจูด้วย จะอยู่ตรงไหนนะ?$"}
+{"id": "data/scripts/safari_zone.inc#SafariZone_Northeast_Text_Girl", "th": "โธ่เอ๊ย! จับอะไรไม่ได้เลย!\\pถ้าไม่ได้สักตัว ก็เสียค่าเข้าฟรีเลยน่ะสิ!$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_TreeCanBeClimbed", "th": "ถ้ามีเถาวัลย์ห้อยลงมา ก็จะปีนต้นไม้นี้ได้$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_TreeUseSecretPower", "th": "ถ้ามีเถาวัลย์ห้อยลงมา ก็จะปีนต้นไม้นี้ได้\\pจะใช้ SECRET POWER ไหม?$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_VineDroppedDown", "th": "เถาวัลย์เส้นใหญ่ห้อยลงมาแล้ว!$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_ClumpOfGrass", "th": "ถ้าขยับพุ่มหญ้านี้ได้ อาจเข้าไปข้างในได้$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_ClumpUseSecretPower", "th": "ถ้าขยับพุ่มหญ้านี้ได้ อาจเข้าไปข้างในได้\\pจะใช้ SECRET POWER ไหม?$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_DiscoveredSmallEntrance", "th": "พบทางเข้าเล็ก ๆ!$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_AllDecorationsWillBeReturned", "th": "ของตกแต่งและเฟอร์นิเจอร์ทั้งหมดในฐานลับ จะถูกส่งกลับไปที่ PC\\pตกลงไหม?$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_WantToRegisterSecretBase", "th": "จะลงทะเบียนฐานลับของ {STR_VAR_1} ไหม?$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_AlreadyRegisteredDelete", "th": "ข้อมูลนี้ลงทะเบียนไว้แล้ว จะลบออกไหม?$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_TooManyBasesDeleteSome", "th": "ลงทะเบียนได้สูงสุด 10 แห่ง\\pถ้าต้องการลงทะเบียนแห่งอื่น ให้ลบออกหนึ่งแห่ง$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_RegistrationCompleted", "th": "ลงทะเบียนเรียบร้อย$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_DataUnregistered", "th": "ยกเลิกการลงทะเบียนแล้ว$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_BootUpPC", "th": "{PLAYER} เปิด PC$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_WhatWouldYouLikeToDo", "th": "จะทำอะไร?$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_RegistryInfo", "th": "ฐานลับที่ลงทะเบียนแล้วจะไม่หายไป เว้นแต่เทรนเนอร์เจ้าของ ย้ายไปที่อื่น\\pถ้าลบฐานลับออกจากรายการ ฐานอื่นอาจเข้ามาแทนที่\\pลงทะเบียนฐานลับได้สูงสุด 10 แห่ง$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_BattleTowerShield", "th": "โล่{STR_VAR_2} ที่มอบให้เมื่อชนะติดต่อกัน {STR_VAR_1} ครั้ง ที่แบทเทิลทาวเวอร์$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_ToyTV", "th": "ทีวีของเล่นเหมือนจริง จนอาจเข้าใจผิดว่าเป็นของจริงได้$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_SeedotTV", "th": "ทีวีของเล่นรูปทาเนโบ ดูเหมือนพร้อมจะกลิ้งหนีไปเองได้…$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_SkittyTV", "th": "ทีวีของเล่นรูปเอเนโกะ ดูเหมือนพร้อมจะเดินเตร่หนีไป…$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_WouldYouLikeToMoveBases", "th": "สร้างฐานลับได้เพียงแห่งเดียว\\pจะย้ายออกจากฐานลับ ใกล้{STR_VAR_1}ไหม?$"}
+{"id": "data/scripts/secret_base.inc#SecretBase_Text_MovingCompletedUseSecretPower", "th": "ย้ายเรียบร้อย\\pจะใช้ SECRET POWER ไหม?$"}
+{"id": "data/scripts/secret_power_tm.inc#Route111_Text_MakingRoomUseTMToMakeYourOwn", "th": "อะไรเหรอ? ผมทำอะไรอยู่น่ะเหรอ?\\pผมกำลังคิดจะสร้างห้องของตัวเอง ตรงนี้ด้วยท่าของโปเกมอน\\pนึกออกแล้ว! ให้ TM นี่กับเธอ เธอจะเอาไปสร้างห้องของตัวเองไหม?$"}
+{"id": "data/scripts/secret_power_tm.inc#Route111_Text_ExplainSecretPower", "th": "หาต้นไม้ใหญ่ที่ดูเหมือน จะมีเถาวัลย์ห้อยลงมาได้\\pใช้ SECRET POWER ตรงหน้าต้นไม้ เถาวัลย์จะหลุดห้อยลงมา ให้ปีนขึ้นไปได้\\pข้างบนมีที่ว่างเยอะ ไว้วางของที่ชอบ\\pมันจะเป็นห้องลับของเธอเอง… ฐานลับไงล่ะ!\\pเธอก็ลองสร้างสักแห่งสิ\\pอีกอย่าง ฐานลับไม่จำเป็นต้อง อยู่บนต้นไม้เสมอไปนะ\\pลองใช้ SECRET POWER กับผนังหิน ที่มีรอยบุ๋มเล็ก ๆ ดูสิ\\pผมจะไปหาที่อื่นดูบ้าง โอเค บ๊ายบาย!$"}
+{"id": "data/scripts/secret_power_tm.inc#Route111_Text_DontWantThis", "th": "อ้าว ไม่เอาเหรอ? ถ้าเปลี่ยนใจก็บอกนะ โอเค?$"}
+{"id": "data/scripts/secret_power_tm.inc#Route111_Text_DontHaveAnyRoom", "th": "อ้าว ไม่มีที่เก็บแล้วนี่\\pผมเก็บไว้ให้ก่อน ไว้ค่อยกลับมาเอานะ โอเค?$"}
+{"id": "data/scripts/shared_secret_base.inc#SecretBase_Text_SmallIndentInWall", "th": "ผนังมีรอยบุ๋มเล็ก ๆ$"}
+{"id": "data/scripts/shared_secret_base.inc#SecretBase_Text_IndentUseSecretPower", "th": "ผนังมีรอยบุ๋มเล็ก ๆ\\pจะใช้ SECRET POWER ไหม?$"}
+{"id": "data/scripts/shared_secret_base.inc#SecretBase_Text_DiscoveredSmallCavern", "th": "พบถ้ำเล็ก ๆ!$"}
+{"id": "data/scripts/shared_secret_base.inc#SecretBase_Text_WantToMakeYourSecretBaseHere", "th": "จะสร้างฐานลับที่นี่ไหม?$"}
+{"id": "data/scripts/test_signpost.inc#Text_ThisIsATestSignpostMsg", "th": "นี่คือข้อความทดสอบ นี่คือป้าย$"}
+{"id": "data/text/abnormal_weather.inc#gText_AbnormalWeatherEnded_Rain", "th": "ฝนที่ตกหนักดูเหมือนจะหยุดแล้ว…$"}
+{"id": "data/text/abnormal_weather.inc#gText_AbnormalWeatherEnded_Sun", "th": "แสงแดดที่แผดจ้าดูเหมือนจะอ่อนลงแล้ว…$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge0", "th": "เอ่อ ผมเป็นศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ฮะ ฮึก… ตื่นเต้นจนทนไม่ไหวแล้ว…$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge1", "th": "ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1}! ลุยเลย!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge2", "th": "ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ครับ! โปรดรับคำท้าของผมด้วย!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge3", "th": "เอ่อ… ฉันเป็นศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ค่ะ… คนอย่างฉันจะชนะได้เหรอคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge4", "th": "ฉันคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1}! จะยอมให้เธอท้าสู้ก็ได้!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge5", "th": "ผมยุ่งสุด ๆ แต่ก็บังเอิญเป็น ศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ด้วยนะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge6", "th": "ฉันคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1}! ยินดีที่ได้รู้จักนะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge7", "th": "ดิฉันรับใช้เป็นศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ค่ะ ขอเริ่มเลยได้ไหมคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge8", "th": "กรี๊ด! ฉันคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ค่ะ! จะพยายามเต็มที่เลยค่ะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge9", "th": "ยี่ฮา! ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1}! ตั้งการ์ดเลย!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge10", "th": "ผมคือศิษย์คนที่ 1,000 ของ {STR_VAR_1}! จริง ๆ แล้วเป็นหมายเลข {STR_VAR_2} ต่างหาก! ลุยเลย!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge11", "th": "เย่! ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1}! มาร็อกแอนด์โรลกันให้มันส์!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge12", "th": "ยิปปี้ยาฮู! ผมนี่แหละ ศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1}!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge13", "th": "แค่ก! ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ยินดีที่ได้รู้จัก! แค่ก!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge14", "th": "ประหม่าจังเลย… ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} ครับ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeChallenge15", "th": "ผมคือศิษย์หมายเลข {STR_VAR_2} ของ {STR_VAR_1} และนั่นไม่ใช่เรื่องโกหกครับ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach0", "th": "คุณคือ… {PLAYER} ใช่ไหมฮะ? โอ๊ะ! ฮึก…ฮือ…\\pอ๊ะ! ข-ขอโทษฮะ… ผมตื่นเต้นจนกลั้นน้ำตาไม่อยู่…\\pผมชื่อ {STR_VAR_1} ฮะ ผมชื่นชมคุณ {PLAYER} มากเลย\\pผม… ผมฝันมาตลอดว่าสักวัน จะได้เจอคุณ แล้วถามเรื่องโปเกมอน\\pขอร้องล่ะฮะ คุณ {PLAYER}! ช่วยสอนเรื่องโปเกมอนให้ผมทีนะฮะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching0", "th": "โธ่… แ-แต่…\\pฮึก… แงงงงง!\\pขอร้องล่ะฮะ! ผมขอร้องจริง ๆ นะฮะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode0", "th": "จริงเหรอฮะ? จะสอนผมจริง ๆ เหรอ? สุดยอด! เจ๋งสุด ๆ! อู้ฮู้!\\pอ๊ะ… ขอโทษฮะ… ผมดีใจจนน้ำตาไหลเลย…\\pเอ่อ… งั้นช่วยบอกผมหน่อยนะฮะ! เป็นเรื่องแบทเทิลทาวเวอร์น่ะฮะ\\pผมควรเลือกแบบไหนดีฮะ ระหว่างเลเวล 50 กับโอเพนเลเวล?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks0", "th": "{STR_VAR_1} เหรอฮะ? แงงงง!\\pอ๊ะ! ขอโทษจริง ๆ ฮะ! คุณช่วยเลือกเลเวลให้ ผมดีใจจนร้องไห้เลย…\\pฮึก… ขอบคุณมากเลยฮะ! แล้วคุยกับผมอีกนะฮะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach1", "th": "ว้าว! คุณคือ {PLAYER} ใช่ไหม? แข็งแกร่งสุด ๆ เลยใช่ไหมล่ะ?\\pผมชื่อ {STR_VAR_1}! เพิ่งได้เป็นเทรนเนอร์!\\pขอร้องล่ะ {PLAYER}! มาเป็นอาจารย์ของผม แล้วสอนเรื่องเทรนเนอร์เยอะ ๆ ได้ไหม?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching1", "th": "อ้าว ทำไมล่ะ? นะ ๆ ขอร้องน้า ขอร้องล่ะ มาเป็นอาจารย์ของผมเถอะนะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode1", "th": "เย้! เยี่ยมเลย!\\pเรื่องแรกที่อยากถาม คือเรื่องแบทเทิลทาวเวอร์!\\pห้องเลเวล 50 กับห้องโอเพนเลเวล… แบบไหนเหมาะกับผมที่สุด?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks1", "th": "{STR_VAR_1} เหรอ? จริงด้วย! ผมจะพยายามให้เต็มที่!\\pถ้าเจอกันที่นี่อีก สอนเรื่องอื่นให้ผมอีกนะ อาจารย์!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach2", "th": "เอ่อ… คุณคือ {PLAYER} หรือเปล่าครับ? ผมชื่อ {STR_VAR_1} ครับ\\pผมอยากเป็นเทรนเนอร์โปเกมอน แต่ไม่รู้ว่าต้องทำยังไง…\\pเลยคิดว่าน่าจะขอคำแนะนำจากคุณ เพราะคุณมีชื่อเสียงมาก\\p{PLAYER} ช่วยให้คำแนะนำผมได้ไหมครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching2", "th": "โธ่ แต่ว่า…\\pผมอยากเป็นเทรนเนอร์โปเกมอน จริง ๆ นะครับ!\\pได้โปรด ช่วยตอบคำถามของผมได้ไหมครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode2", "th": "ขอบคุณครับ! งั้นขอถามข้อแรกเลยนะครับ!\\pแบทเทิลทาวเวอร์มีสองระดับ คือเลเวล 50 กับโอเพนเลเวล ใช่ไหมครับ?\\pคุณคิดว่าระดับไหน เหมาะกับผมมากกว่ากันครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks2", "th": "การท้าสู้แบบ {STR_VAR_1} เหรอครับ? เข้าใจแล้วครับ!\\pถ้ามีคำถามอีก ผมจะกลับมาขอคำแนะนำ ที่นี่นะครับ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach3", "th": "เอ๊ะ? หา? คุณคือ… ไม่หรอก เป็นไปไม่ได้\\pคนอย่างฉันไม่มีทางได้เจอ {PLAYER} หรอกค่ะ\\p…คุณคือ {PLAYER} จริง ๆ เหรอคะ? ไม่อยากเชื่อเลยว่าได้คุยกับคุณ!\\pพอมีเรื่องดีขนาดนี้เกิดขึ้น ต่อไปต้องมีแต่เรื่องร้าย ๆ แน่เลย ฉันรู้…\\p…ขอโทษค่ะ… ฉันชื่อ… {STR_VAR_1}…\\pฉันไม่มีอะไรพิเศษ ที่จะภูมิใจได้เลย…\\pไม่ควรพูดถึงตัวเองด้วยซ้ำ เพราะเดี๋ยวคุณก็ลืม…\\pฉันเคยฝันว่าถ้าได้เจอคุณ {PLAYER} อาจจะได้ขอคำแนะนำ ในฐานะเทรนเนอร์\\pแต่คุณคงไม่ยอมหรอกค่ะ\\p…หรือว่าคุณจะใจดี ให้คำแนะนำฉันคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching3", "th": "ว่าแล้วเชียว…\\pก็ต้องเป็นแบบนี้ เพราะฉันมันคนน่าเบื่อ ไร้ตัวตน…\\pแต่ก็แอบหวังว่า… คุณจะไม่เปลี่ยนใจใช่ไหมคะ?\\pแต่ฉันจะยอมแพ้ง่าย ๆ ไม่ได้ ต้องถามอีกตอนที่ยังโชคดีอยู่!\\pได้โปรด ช่วยใจดีให้คำแนะนำฉันได้ไหมคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode3", "th": "จริงเหรอคะ? ไม่อยากเชื่อเลย! คุณจะให้คำแนะนำฉันจริง ๆ! ฉ-ฉันดีใจจัง…\\pเรื่องที่อยากถามเป็นเรื่องเล็กน้อยมาก แต่ฉันตัดสินใจไม่ได้…\\pที่แบทเทิลทาวเวอร์ ให้เลือกระหว่างเลเวล 50 กับโอเพนเลเวล\\pคุณคิดว่าแบบไหน ที่แม้แต่ฉันก็พอมีโอกาสคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks3", "th": "{STR_VAR_1} เหรอคะ? ตกลงค่ะ! แต่คุณคิดว่าคนอย่างฉัน จะมีโอกาสจริง ๆ เหรอคะ?\\pฉันจะพยายามให้เต็มที่ ถึงจะคิดว่าคงไม่ได้ผลก็เถอะ\\pขอบคุณมากนะคะ ที่สละเวลาให้คนอย่างฉัน$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach4", "th": "อ๊ะ! เธอคือ {PLAYER}{KUN} ใช่ไหม?\\pได้ยินมาว่าเธอเก่งเรื่องโปเกมอนนี่\\pฉันชื่อ {STR_VAR_1}! จะยอมเป็นเพื่อนกับเธอก็ได้!\\pรู้ไหม?\\pถ้ารู้แค่ที่โรงเรียนเทรนเนอร์สอน ไม่มีทางชนะที่แบทเทิลฟรอนเทียร์ได้หรอก\\pฉันยินดีจะฟังคำแนะนำของเธอนะ ตกลงอยู่แล้วใช่ไหมล่ะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching4", "th": "หา? ทำไมถึงปฏิเสธฉันล่ะ? ฉันเป็นคนขอเองเลยนะ! เธอต้องคิดใหม่สิ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode4", "th": "โอเค คือมีเรื่องหนึ่ง ฉันอยากให้เธอตัดสินใจให้\\pรู้ใช่ไหมว่าแบทเทิลทาวเวอร์ มีห้องเลเวล 50 กับห้องโอเพนเลเวล?\\pเธอว่าแบบไหนเหมาะกับฉันล่ะ {PLAYER}{KUN}?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks4", "th": "โอเค {STR_VAR_1} เหมาะกับฉันใช่ไหม? ขอบใจนะ!\\pพอรู้ว่าเธอเป็นคนตัดสินใจ {PLAYER}{KUN} ถ้าแพ้ฉันก็ไม่หงุดหงิดมากหรอก\\pโอเค ไว้จะมาขอคำแนะนำอีกนะ บาย!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach5", "th": "อ้าว หวัดดี! {PLAYER}{KUN}! ผมรู้จักคุณนะ เพราะคุณดังมาก!\\pเรียกผมว่า {STR_VAR_1} ก็ได้! ยินดีที่ได้รู้จัก!\\pผมเป็นนักไตรกีฬา เลยต้องรักษาหุ่นให้ฟิต ไปพร้อมกับเลี้ยงโปเกมอน\\pแถมยังมีเรื่องอื่นอีก ทั้งงาน งีบหลับ เต้นลีลาศ…\\pยุ่งขนาดนี้ จะเป็นเทรนเนอร์ดี ๆ ได้ก็ไม่ง่ายเลย\\pผมเลยมีข้อเสนอ!\\pที่เราได้เจอกันต้องมีเหตุผลแน่ ๆ งั้น {PLAYER}{KUN} แบ่งปันความรู้ให้ผมบ้าง เป็นครั้งคราวได้ไหม?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching5", "th": "โธ่ ขอร้องล่ะ นะ? คนอย่างผมต้องการคนอย่างคุณนะ {PLAYER}{KUN}!\\pพูดจริง ๆ ผมต้องการคำแนะนำจากคุณ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode5", "th": "ขอบคุณ! ต้องอย่างนี้สิ! งั้นเริ่มจากข้อง่าย ๆ ก่อน!\\pรู้จักสองคอร์สของแบทเทิลทาวเวอร์ ใช่ไหม? ก็เลเวล 50 กับโอเพนเลเวลไง\\pคนงานยุ่งอย่างผม ควรเตรียมตัวลงแบบไหนดี?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks5", "th": "{STR_VAR_1} เหรอ? โอเค รับทราบ! ผมจะหาเวลาไปลองให้ได้!\\p…ตายแล้ว ต้องไปทำงานแล้ว! ขอบคุณนะ! ไว้เจอกัน!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach6", "th": "ไม่จริงน่า! อะไรเนี่ย! เธอคือ {PLAYER} ตัวจริงหรือเปล่า?\\pอ๊ะฮ้า! สุดยอด! ฉันชื่อ {STR_VAR_1} ดีใจมากที่ได้เจอ!\\p{PLAYER} เธอเก่งมากเลยใช่ไหม?\\pใคร ๆ ก็พูดถึงเธอกันทั้งนั้น!\\pอ๊ะ! นึกไอเดียเจ๋ง ๆ ออกแล้ว! ฉันจะขอคำแนะนำจากเธอ {PLAYER}! ต้องทำให้ฉันเก่งขึ้นแน่!\\pไอเดียดีใช่ไหมล่ะ? นะ ฉันอยากได้คำแนะนำจากเธอ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching6", "th": "อะฮะฮะฮ่า ทำเป็นใจร้ายก็ได้ แต่หลอกฉันไม่ได้หรอก! จริง ๆ แล้วตกลงใช่ไหมล่ะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode6", "th": "เย้! รู้อยู่แล้วว่าเธอต้องใจกว้าง {PLAYER}!\\pจะถามอะไรก่อนดีนะ? …อ๊ะ นึกออกแล้ว!\\pรัวกลองหน่อย! คำถามของฉันคือ…\\pถ้าฉันจะไปท้าแบทเทิลทาวเวอร์ ควรเลือกทางไหนดี?\\pเลเวล 50 หรือโอเพนเลเวล? แบบไหนเหมาะกับฉันมากกว่ากัน?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks6", "th": "โอ้-โอ้-โอ้! {STR_VAR_1} งั้นเหรอ! ขอบคุณสำหรับคำตอบสุดเจ๋งนะ!\\pวันนี้คงอยากถามแค่นี้แหละ\\pไว้มาเจอกันที่นี่อีกนะ โอเค? ขอบคุณจ้า!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach7", "th": "ขออภัยนะคะ… คุณคือ {PLAYER} ใช่ไหมคะ?\\pดิฉันชื่อ {STR_VAR_1} ค่ะ ยินดีเป็นอย่างยิ่งที่ได้รู้จัก\\pดิฉันชื่นชมคุณมานานแล้วค่ะ…\\p… … … … … …\\pเอ่อ… หวังว่าคำขอนี้ จะไม่เป็นภาระกับคุณจนเกินไป แต่ว่า…\\pดิฉันขอเป็นศิษย์ของคุณ ได้ไหมคะ {PLAYER}?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching7", "th": "โอ้…!\\p… … … … … … … … … … … …\\p…ดิฉันคงตกใจจนเป็นลมไปแน่ ๆ ขอโทษค่ะ ดิฉันคงฟังผิดไป\\pได้โปรด! ได้โปรดบอกว่า คุณจะรับดิฉันเป็นศิษย์เถิดค่ะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode7", "th": "โอ้… ดิฉันยินดีเหลือเกินค่ะ!\\pดิฉันไม่อยากเสียเวลาของคุณ จึงขอคำแนะนำเรื่องนี้เลยนะคะ\\pดิฉันวางแผนจะไปท้าแบทเทิลทาวเวอร์ เร็ว ๆ นี้\\pแต่ที่นั่นมีสองระดับ…\\pแบบไหนเหมาะกับดิฉันที่สุดคะ? เลเวล 50 หรือโอเพนเลเวล?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks7", "th": "คุณเลือก {STR_VAR_1} สินะคะ! เข้าใจแล้วค่ะ ดิฉันจะพยายามให้เต็มที่!\\pขอบคุณค่ะ {PLAYER} หวังว่าจะได้พึ่งพาคุณอีกนะคะ ดูแลตัวเองด้วยค่ะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach8", "th": "กรี๊ด! กรี๊ด! {PLAYER}! คุณพูดกับฉันด้วย! ฉ-ฉันดีใจสุด ๆ เลยค่ะ!\\pฉันเอง! ฉันชื่อ {STR_VAR_1} ค่ะ! เพิ่งได้เป็นเทรนเนอร์!\\pดีใจจังที่ได้เจอคุณ {PLAYER} คนดังแห่งวงการโปเกมอน!\\pโอ้-โอ้-โอ้ นึกออกแล้ว! ขอรบกวนเรื่องใหญ่ได้ไหมคะ {PLAYER}?\\pได้โปรดรับฉันเป็นศิษย์ด้วยนะคะ! ฉันอยากเรียนรู้จากคุณ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching8", "th": "แงงง! {PLAYER} ปฏิเสธฉัน… น-นี่เป็นประสบการณ์ล้ำค่าเลยค่ะ!\\p{PLAYER} ได้โปรด! ครั้งนี้ฉันอยากได้ยินคำตอบรับนะคะ!\\pขอความกรุณาชี้แนะด้วยเถิดค่ะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode8", "th": "ฮี้ยยย! {PLAYER} ตกลงแล้ว! {PLAYER} ตกลงแล้ว!\\pคืนนี้ต้องนอนไม่หลับแน่… ขอบคุณมากเหลือเกินค่ะ!\\pงั้น นี่คือคำถามของฉันค่ะ!\\pที่แบทเทิลทาวเวอร์ แบบไหนเหมาะกับฉันคะ เลเวล 50 หรือโอเพนเลเวล?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks8", "th": "{STR_VAR_1}! เข้าใจอย่างถ่องแท้แล้วค่ะ! เข้าใจแจ่มแจ้งเลย! ฉันดีใจจนแทบบ้าแล้วค่ะ!\\pหวังว่าคราวหน้า คุณจะยินดีสอนฉันอีกนะคะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach9", "th": "โอ้โห! หรือว่าคุณจะเป็น… {PLAYER}{KUN}?! เทรนเนอร์สุดแกร่งผู้โด่งดังคนนั้น?\\pโอ้ หวัดดี! ผมนี่โชคดีที่สุดเลย!\\pหวัดดี ผมชื่อ {STR_VAR_1}!\\pผมกำลังตามหาอาจารย์สอนโปเกมอนอยู่พอดี\\pแล้วก็มาได้จังหวะเป๊ะ คุณก็โผล่มา {PLAYER}{KUN}!\\pก็ตามนั้นแหละ {PLAYER}{KUN}! ให้ผมเป็นศิษย์คุณเถอะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching9", "th": "อ๊ากกก! คุณนี่เท่และแกร่งจริง ๆ…\\pอย่าทำแบบนั้นเลยน่า ผมขอร้องอยู่นะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode9", "th": "โอ้ เยส! คำตอบหนักแน่นมาก! ขอบอกว่ายอดเยี่ยม!\\pงั้นขอคำแนะนำแรก เรื่องแบทเทิลทาวเวอร์หน่อย\\pถ้าผมจะไป แบบไหนดีกว่ากัน? เลเวล 50 หรือโอเพนเลเวล?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks9", "th": "อาฮะ {STR_VAR_1} ตามนั้น! โอเค ชัวร์! ผมจะไปโชว์ฝีมือแบบ ตึ้ง!\\pเอาล่ะ ผมจะนับถือคุณเป็นอาจารย์! อาดิโอส!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach10", "th": "อ้าว เฮ้ {PLAYER}{KUN} ใช่ไหม? ตำรวจตามหาคุณอยู่นะ!\\p… … … โกหกน่ะสิ!\\pผมชื่อ {STR_VAR_1} ดูแบบนี้แต่ผมเป็นแชมเปี้ยนโปเกมอนนะ! …อันนี้ก็โกหกเหมือนกัน!\\pแต่อันนี้ไม่โกหกนะ ผมสู้ไม่ค่อยเก่งเลย\\pงั้น มาเป็นอาจารย์สอนผม เรื่องโปเกมอนทุกอย่างได้ไหม?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching10", "th": "ถ้าจะทำเย็นชาแบบนี้ ก็คอยดูว่าผมจะทำอะไร!\\pแง! แง! แง! ฮึก!\\pฮ่าฮ่าฮ่า นั่นแหละท่า FAKE TEARS ของผม!\\pน่า ๆ มาเป็นอาจารย์โปเกมอน ของผมเถอะนะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode10", "th": "เย้! เดี๋ยวซื้อเรือให้เลย!\\pโกหกอีกแล้วน่ะสิ! แต่… ขอบคุณนะ อาจารย์!\\pรู้ใช่ไหมว่าแบทเทิลทาวเวอร์ มีเลเวล 50 กับโอเพนเลเวล?\\pผมเลือกไม่ถูกว่า ควรท้าระดับไหน…\\pช่วยเลือกให้หน่อยได้ไหม อาจารย์?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks10", "th": "โอเค งั้น {STR_VAR_1} ดีกว่าสินะ! งั้นผมไปอีกระดับหนึ่งละกัน!\\pล้อเล่นน่า! ผมจะทำตามคำสอนของอาจารย์!\\pขอบคุณนะ อาจารย์! สอนผมต่อไปอีกนะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach11", "th": "อ-า-ฮอย! สะกดว่าอาฮอย แปลว่าหวัดดีนะ โย่!\\pผมชื่อ {STR_VAR_1} กะลาสีสายแร็ป ไม่ใช่ใครที่ไหน!\\pตาเธอแล้ว เล่าเรื่องตัวเองให้ฟัง ลองดูสิ อย่ามัวเกรงใจ!\\pอ๋อ อ๋อ! ชื่อเธอคือ {PLAYER}{KUN} ส่วนโปเกมอนคือเกมที่เธอลุย!\\pแถมยังอยู่ในวัยกำลังดี ทั้งโลกคือเวทีของเธอนี่!\\pยังไงก็ขอบอกไว้ เธอคือเทรนเนอร์คนที่สิบ ที่ผมคุยด้วยวันนี้ไง!\\pงั้นมาฉลองกันให้สุด! เป็นอาจารย์ผมเป็นที่ระลึก ไม่มีหยุด!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching11", "th": "แต่! เธอต้องร่วมงานกับผมนะ!\\pอย่ามัวแกล้งกันเลยน่า! มาเป็นอาจารย์ผมเถอะ ขอร้องล่ะหนา!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode11", "th": "นั่นแหละ! {PLAYER} เธอนี่ใจถึง!\\pงั้นมาถามข้อแรกให้ตึง ขอคำแนะนำจากเธอสักหนึ่ง!\\pเป็นเรื่องแบทเทิลทาวเวอร์ ที่ต้องใช้พลังเต็มพาวเวอร์!\\pมีเลเวล 50 และโอเพนเลเวลให้เลือกกัน แบบไหนที่เหมาะกับผมนั้น?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks11", "th": "โอเค {STR_VAR_1} ตามที่เธอบอก! ผมจะไปลุยให้สุดไม่มีหลอก!\\pถ้าวันไหนต้องการคำชี้แนะ {PLAYER} คำของเธอผมจะฟังไม่แปรแน่!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach12", "th": "เฮ้ ว่าไง นั่น {PLAYER} ใช่ไหม? ทำไงดี? ทักเลยไหม?\\pทำไมจะไม่ล่ะ? ก็ทักไปแล้วไง!\\p{PLAYER} ตกใจกับผมใช่ไหม? งั้นขอแนะนำตัว ให้รู้ว่าผมเป็นใคร!\\pเรียกผมว่า {STR_VAR_1} แล้วกัน ดาวเด่นแห่งวงการกีตาร์ ก็ผมนั่น!\\pรับสัญญาณผมไหม? รับได้ชัดแจ๋วเลยใช่ไหม!\\pดวงผมกำลังขึ้นสุด ๆ งั้นขอยื่นคำขอแบบจุก ๆ!\\p{PLAYER} ให้ผมเป็นลูกศิษย์เธอเถอะ! ผมอยากให้เธอสอนทุกอย่างให้เยอะ ๆ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching12", "th": "ปฏิเสธผมงั้นเหรอ? งั้นคงต้องขอใหม่ อีกรอบแล้วเธอ!\\p{PLAYER} ขอเป็นลูกศิษย์เธอเถอะ! ผมอยากให้เธอสอนทุกอย่างให้เยอะ ๆ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode12", "th": "โชคดี เย่ วู้ฮู้! ขอยิงคำถามสักข้อ ให้เธอได้รู้!\\pในเมื่อใกล้แบทเทิลทาวเวอร์ ขอถามเรื่องนั้นให้เต็มพาวเวอร์!\\pจากตัวเลือกที่เธอเห็น แบบไหนคือแบบที่ผมควรเป็น?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks12", "th": "ถ้า {STR_VAR_1} คือสิ่งที่เธอแนะ มันต้องเจ๋งที่สุดแน่ ๆ แหละ!\\pเอาล่ะ {PLAYER} ผมต้องออกท่องไปอย่างอิสระ แต่อย่าลืมผมเชียวนะ!\\pไว้เจอกันใหม่ เพื่อนผู้ฉลาดของผม!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach13", "th": "อ้าว หวัดดี! นั่นน่ะ! ช่วยนวดไหล่ให้หน่อยได้ไหม?\\p…ใช่ ตรงนั้นแหละ! โอ๊ย โอ๊ย! อู้ว สบายสุด ๆ!\\pผมชื่อ {STR_VAR_1} ฝึกคาราเต้อยู่ แต่ร่างกายทนการฝึกหนักไม่ค่อยไหว…\\pเลยตัดสินใจว่าจะสู้โปเกมอน เพื่อฝึกให้ตัวเองแกร่งขึ้น\\pคุณคือ {PLAYER}{KUN} ใช่ไหม? แชมป์โปเกมอนลีกน่ะ?\\pนี่ ช่วยให้คำแนะนำผมหน่อยได้ไหม?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching13", "th": "อ้าว ทำไมล่ะ?\\pผมไม่รบกวนมากหรอก สัญญาเลย! นะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode13", "th": "ขอบคุณ ใจดีจริง ๆ! …แค่ก! แค่ก!\\pอุ๊ก ต้องรีบแข็งแรงให้ไวแล้ว…\\pผมจะไปแบทเทิลทาวเวอร์เดี๋ยวนี้เลย แต่แบบไหนดีกว่าสำหรับผม? เลเวล 50 หรือโอเพนเลเวล?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks13", "th": "อืม ได้ งั้น {STR_VAR_1} นะ ผมจะไปเดี๋ยวนี้เลย\\pหวังว่าจะมาขอความช่วยเหลือ จากคุณได้เรื่อย ๆ นะ ก็คุณเป็นอาจารย์ผมนี่!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach14", "th": "เอ่อ… อืม… {PLAYER}{KUN}…?\\pได้โปรด อย่ามองผมแบบนั้นเลยครับ ทำให้ผมเขินไปหมด\\pผ… ผมชื่อ {STR_VAR_1} ครับ\\pพูดแล้วอายจัง แต่ผมชอบสำรวจซากโบราณสถาน อะไรทำนองนั้น\\pที่อายกว่านั้นคือ ผมสนใจแบทเทิลฟรอนเทียร์ด้วยครับ\\p{PLAYER}{KUN} คุณขึ้นชื่อว่าเป็นเทรนเนอร์ที่แข็งแกร่ง…\\pพูดยากหน่อย แต่ผมอยากขออะไรบางอย่าง\\pช่วยเป็นอาจารย์ แล้วให้คำแนะนำผมได้ไหมครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching14", "th": "ได้โปรดอย่าปัดผมทิ้งแบบนี้เลยครับ! ผมทนความอับอายนี้ไม่ไหว\\pได้โปรดเป็นอาจารย์ของผมเถอะครับ! ผมต้องการคำแนะนำจากคุณ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode14", "th": "ข-ขอบคุณครับ…\\pแต่ได้โปรดอย่ามองผมแบบนั้น ผมประหม่าไปหมดแล้ว\\pช่วยตอบผมโดยไม่ต้องสบตาได้ไหมครับ\\pที่แบทเทิลทาวเวอร์… ผมควรลองระดับไหนดีครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks14", "th": "โอ้… ตกลงครับ! ผมจะลองดู\\pหวังว่าจะท้าสู้ได้อย่างกล้าหาญ โดยไม่ประหม่าเสียก่อน…\\pขอบคุณครับ {PLAYER}{KUN} ถ้าเจอกันอีก หวังว่าคุณจะช่วยผมแบบนี้อีกนะครับ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticePleaseTeach15", "th": "หืม? ดูเหมือนคุณจะเป็น {PLAYER}{KUN}… แต่เป็นตัวจริงแน่หรือ?\\pเรียกผมว่า {STR_VAR_1} ก็ได้ครับ\\pผมคิดเรื่องจะไปฝากตัวเป็นศิษย์ เทรนเนอร์ที่แข็งแกร่งมาสักพักแล้ว\\pจึงต้องบอกว่าโชคดีเหลือเกิน ที่คุณผ่านมา! …คุณคือ {PLAYER}{KUN} ตัวจริงใช่ไหมครับ?\\pไม่ ๆ ถ้าเป็นตัวจริงก็ไม่เป็นไร ผมเพียงอยากให้คุณ รับผมเป็นศิษย์เท่านั้นเองครับ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeRejectTeaching15", "th": "หือ? อะไรทำให้คุณปฏิเสธล่ะครับ?\\pผมขออภัยที่สงสัย ในตัวตนของคุณ\\pได้โปรดรับคำขอโทษ และรับผมเป็นศิษย์ด้วยครับ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichLevelMode15", "th": "คุณรับผมจริง ๆ หรือครับ? ผมไม่อยากดีใจเร็วเกินไป\\pถ้าเป็นเรื่องจริง ผมก็ต้องขออภัย แต่ตอนนี้ ผมต้องการคำแนะนำจากคุณ\\pถ้าผมจะเข้าแบทเทิลทาวเวอร์ แบบไหนที่คู่ควรกับผม? เลเวล 50 หรือโอเพนเลเวลครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeLevelModeThanks15", "th": "{STR_VAR_1} หรือครับ? แน่ใจนะครับ?\\pเข้าใจแล้ว ถ้าเป็นเช่นนั้นก็ดีครับ ขอบคุณที่สละเวลาให้\\pผมรู้ว่าตัวเองอาจน่ารำคาญ แต่ยินดีมากที่คุณรับผมเป็นศิษย์\\pแล้วพบกันใหม่ครับ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem0", "th": "เฮ้อ… ฮือ… อ๊ะ {PLAYER}!\\pผมกำลังกลุ้มใจ ตัดสินใจไม่ได้เลยฮะ\\pไม่รู้ว่าจะให้ {STR_VAR_1} ถือไอเท็มอะไรดี\\pช่วยบอกผมหน่อยนะฮะ {PLAYER} ควรให้มันถือไอเท็มอะไรดีฮะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing0", "th": "จริงเหรอฮะ? ไม่ต้องให้ {STR_VAR_1} ถืออะไรเลยเหรอฮะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem0", "th": "โอเคฮะ! ดีใจจังที่ตัดสินใจได้แล้ว! สุดยอด! เจ๋งสุด ๆ! อู้ฮู้!\\pขอบคุณมากเลยฮะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem0", "th": "โล่งใจจัง… ผมว่าผมก็มี {STR_VAR_1} อยู่เหมือนกันฮะ\\pดีใจจังที่ตัดสินใจได้แล้ว! สุดยอด! เจ๋งสุด ๆ! อู้ฮู้!\\pขอบคุณมากเลยฮะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended0", "th": "แงงง! อย่าใจร้ายกับผมสิฮะ!\\pไอเท็ม {STR_VAR_1} มีคนแนะนำผมไปแล้ว ฮึก…\\pหรือหมายความว่า ไม่ต้องให้ {STR_VAR_2} ถืออะไรเลยฮะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem1", "th": "เย้! {PLAYER} นี่นา! ดีเลย! มีเรื่องอยากถามพอดี!\\pคุณให้โปเกมอนถือไอเท็มไหม? ผมก็อยากให้ของผมถือบ้าง แต่…\\pไอเท็มอะไรดีสำหรับให้ {STR_VAR_1} ถือ?\\pคุณคิดว่าไง?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing1", "th": "หา? หมายความว่า {STR_VAR_1} ของผม ไม่ต้องถืออะไรเลยเหรอ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem1", "th": "อ๋อ เข้าใจแล้ว! จะทำตามนั้นเลย! ขอบคุณที่สอนนะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem1", "th": "ว้าว! {STR_VAR_1} หนึ่งอัน งั้นเหรอ? โอเค จะทำตามนั้นเลย!\\pขอบคุณที่สอนนะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended1", "th": "เอ่อ ไม่ใช่ ผมไม่ได้หมายความแบบนั้น ผมอยากรู้เรื่องไอเท็มอื่น ที่ไม่ใช่อันที่รู้อยู่แล้ว\\pหรือหมายความว่า คราวนี้โปเกมอนของผม ไม่ต้องถืออะไรเลย?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem2", "th": "{PLAYER} สวัสดีครับ! เป็นเรื่อง {STR_VAR_1} ของผมน่ะครับ…\\pผมอยากให้มันถือไอเท็มดี ๆ อะไรถึงจะเหมาะครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing2", "th": "งั้น {STR_VAR_1} ของผม ไม่ต้องถืออะไรเลยเหรอครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem2", "th": "โอเค เข้าใจแล้วครับ! แล้วเจอกันใหม่ครับ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem2", "th": "ไอเท็ม {STR_VAR_1} เหรอครับ? เข้าใจแล้วครับ!\\pผมจะพยายามหามาให้ได้! แล้วเจอกันใหม่ครับ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended2", "th": "มีคนสอนผมเรื่อง {STR_VAR_1} ไปแล้วครับ\\pผมอยากให้โปเกมอนถือไอเท็มชนิดอื่น\\pหรือคุณคิดว่า {STR_VAR_2} ไม่ต้องถืออะไรเลยครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem3", "th": "สวัสดีค่ะ {PLAYER}… ขอโทษที่รบกวนนะคะ แต่มีเรื่องอื่นอยากถามอีกค่ะ\\pฉันคิดว่าฉันไม่เก่งพอจะชนะด้วยตัวเอง เลยคิดจะให้ {STR_VAR_1} ถือไอเท็ม\\pแต่ไม่รู้ว่าอะไรถึงจะดี\\p{PLAYER} ได้โปรดช่วยตัดสินใจแทนฉันได้ไหมคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing3", "th": "โปเกมอนของคนอย่างฉัน ไม่มีไอเท็มจะดีกว่าเหรอคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem3", "th": "เข้าใจแล้วค่ะ… คุณหมายความว่า ฉันไม่ควรพึ่งไอเท็มสินะคะ ฉันจะพยายามไม่พึ่งค่ะ!\\pขอบคุณมากค่ะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem3", "th": "ไอเท็ม {STR_VAR_1} ตกลงค่ะ ไม่แน่ใจว่าจะหามาได้ไหม… ไม่สิ! ฉันจะพยายามหามาให้ได้\\pขอบคุณมากค่ะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended3", "th": "เอ่อ แต่ว่า… ฉันว่าเคยได้ยินเรื่องนั้นมาก่อนแล้ว…\\pหรือเป็นเพราะฉันใช้ไอเท็ม {STR_VAR_1} ได้ไม่ดีคะ?\\pหรือหมายความว่า ไม่ต้องให้ {STR_VAR_2} ถืออะไรเลยคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem4", "th": "อ้อ {PLAYER}{KUN} มีเรื่องอยากถามเธออยู่พอดี\\pจำได้ไหมว่าเธอเคยเลือกโปเกมอน ให้ฉันใช้?\\pแต่ฉันยังไม่เคยถามเลยว่า ควรให้มันถือไอเท็มอะไร\\pในเมื่อเธอเคยแนะนำไปแล้ว ก็รับผิดชอบให้จบเลยสิ\\pอะไรดีล่ะ? ฉันอยากให้ {STR_VAR_1} ถืออะไรสักอย่าง$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing4", "th": "อ้าว! งั้น {STR_VAR_1} ของฉัน ต้องสู้ให้ดีที่สุดมือเปล่าเหรอ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem4", "th": "ถ้าเธอคิดว่าแบบนั้นดีที่สุด ฉันก็จะทำตาม\\pพอรู้ว่าเธอเป็นคนตัดสินใจ {PLAYER}{KUN} ถ้าแพ้ฉันก็ไม่หงุดหงิดมากหรอก\\pโอเค ไว้จะมาขอคำแนะนำอีกนะ บาย!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem4", "th": "ไอเท็ม {STR_VAR_1} เหรอ? ไม่เลว ฉันจะใช้!\\pพอรู้ว่าเธอเป็นคนตัดสินใจ {PLAYER}{KUN} ถ้าแพ้ฉันก็ไม่หงุดหงิดมากหรอก\\pโอเค ไว้จะมาขอคำแนะนำอีกนะ บาย!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended4", "th": "หา? พูดอะไรน่ะ? เธอบอกเรื่อง {STR_VAR_1} ไปแล้วนี่\\pหรือหมายความว่า {STR_VAR_2} ของฉัน ต้องสู้ให้ดีที่สุดมือเปล่า?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem5", "th": "โย่ {PLAYER}{KUN}!\\pเราต่างก็ยุ่ง แต่ดูเหมือนจะเจอกันบ่อยนะ!\\pวันนี้ผมต้องไปเดิน ทำความสะอาด แล้วก็แปรงขน\\pยังไม่มีเวลาซื้ออะไรให้ {STR_VAR_1} ที่รักของผมเลย\\pผมไม่มีเวลาจริง ๆ งั้นช่วยแนะนำหน่อยว่า ควรให้ {STR_VAR_1} ถืออะไรดี?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing5", "th": "อ้อ เพราะผมเป็นคนงานยุ่ง คุณเลยบอกว่า {STR_VAR_1} ไม่ต้องใช้อะไรเลยเหรอ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem5", "th": "โอเค รับทราบ ไม่ต้องเสียเวลาเลยสำหรับเรื่องนี้\\pขอบคุณสำหรับวันนี้! ไว้เจอกัน!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem5", "th": "โอเค รับทราบ ผมจะหาเวลาไปหา {STR_VAR_1} ที่คุณแนะนำมาให้ได้\\pดีใจที่ได้อาจารย์ดี ๆ อย่างคุณ ขอบคุณนะ! ไว้เจอกัน!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended5", "th": "หา? ผมรู้เรื่อง {STR_VAR_1} อยู่แล้วนะ\\pอ้อ จริงด้วย เข้าใจแล้ว เพราะผมเป็นคนงานยุ่ง คุณเลยบอกว่า {STR_VAR_2} ไม่ต้องใช้อะไรเลยสินะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem6", "th": "หวัดดี {PLAYER}! ฉันเอง! วันนี้ขอยืมสมองเธออีกแล้ว ขอคำแนะนำหน่อยนะ!\\pรัวกลองหน่อย! คำถามของฉันคือ…\\pถ้าจะให้ {STR_VAR_1} ถือไอเท็ม ควรเป็นอะไรดี?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing6", "th": "จริงเหรอ? เธอบอกว่า {STR_VAR_1} ของฉัน ไม่ต้องถือไอเท็มสินะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem6", "th": "โอเค ทำตามนั้นเลย!\\pวันนี้คงอยากถามแค่นี้แหละ\\pไว้มาเจอกันที่นี่อีกนะ โอเค? ขอบคุณจ้า!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem6", "th": "อาฮะ! {STR_VAR_1} หนึ่งอัน เลือกได้เจ๋งมาก! ต้องลองแน่นอน!\\pวันนี้คงอยากถามแค่นี้แหละ\\pไว้มาเจอกันที่นี่อีกนะ โอเค? ขอบคุณจ้า!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended6", "th": "อะฮะฮ่า! ตลกจัง! เธอบอกเรื่อง {STR_VAR_1} ไปแล้วนี่นา!\\pเธอสบายดีหรือเปล่า {PLAYER}?\\pอ๊ะ เดี๋ยวนะ! เธอหมายความว่า {STR_VAR_2} ของฉัน ไม่ต้องถือไอเท็มสินะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem7", "th": "สวัสดีค่ะ {PLAYER} หวังว่าคุณสบายดีนะคะ\\pขอคำแนะนำจากคุณได้ไหมคะ?\\pในการต่อสู้เมื่อไม่นานมานี้ คู่ต่อสู้ของดิฉัน ดูเหมือนจะให้โปเกมอนถือไอเท็ม\\pผลคือ ดิฉันพ่ายแพ้ค่ะ…\\pดิฉันไม่อยากล้าหลัง จึงอยากให้ {STR_VAR_1} ถือไอเท็มบ้างค่ะ\\pจะดีมากถ้าคุณช่วยตัดสินใจ ว่าอะไรเหมาะกับโปเกมอนของดิฉัน…$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing7", "th": "หมายความว่า… โปเกมอนของดิฉัน ไม่จำเป็นต้องถือไอเท็มหรือคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem7", "th": "ดิฉันเข้าใจแจ่มแจ้งแล้วค่ะ! จะพยายามต่อไปแบบนี้\\pขอบคุณค่ะ {PLAYER} หวังว่าจะได้พึ่งพาคุณอีกนะคะ ดูแลตัวเองด้วยค่ะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem7", "th": "{STR_VAR_1} หนึ่งอัน ตามนั้นค่ะ! ดิฉันจะสั่งซื้อทันที\\pขอบคุณค่ะ {PLAYER} หวังว่าจะได้พึ่งพาคุณอีกนะคะ ดูแลตัวเองด้วยค่ะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended7", "th": "คุณเคยบอกเรื่องนั้นแล้ว และดิฉันก็มีอยู่แล้วค่ะ\\pหรือคุณหมายความว่า… โปเกมอนของดิฉัน ไม่จำเป็นต้องถือไอเท็มคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem8", "th": "กรี๊ด! {PLAYER}! ฉ-ฉันดีใจสุด ๆ ที่ได้เจอคุณอีกค่ะ!\\pโอ้-โอ้-โอ้! มีเรื่องที่ต้องถามคุณให้ได้เลยค่ะ {PLAYER}!\\pได้โปรดตัดสินใจว่า {STR_VAR_1} ของฉัน ควรถืออะไรดีคะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing8", "th": "ว้าว! ไม่คิดว่าจะได้คำตอบแบบนั้น! งั้นก็ไม่จำเป็นต้องถือไอเท็มสินะคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem8", "th": "เข้าใจอย่างถ่องแท้แล้วค่ะ! ฉันจะสู้ต่อไปโดยไม่มีไอเท็ม!\\pหวังว่าคราวหน้า คุณจะยินดีสอนฉันอีกนะคะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem8", "th": "{STR_VAR_1}! ฉันจะใช้อันนั้นค่ะ!\\pเอ่อ… หรือว่า {PLAYER} คุณก็ให้โปเกมอนถือไอเท็มนั้นเหมือนกันคะ?\\pฉันจะหามาให้ได้เลยค่ะ! หวังว่าคราวหน้า คุณจะยินดีสอนฉันอีกนะคะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended8", "th": "เอ๊ะ? คุณเคยแนะนำ {STR_VAR_1} ไปแล้วนี่คะ\\pหรือว่ามันเป็นของที่ดีที่สุด? หรือหมายความว่า {STR_VAR_2} ของฉัน ไม่ต้องถืออะไรเลยคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem9", "th": "โอล่า! มาเอสโตรของผม {PLAYER}{KUN}!\\pผมอยากขอคำแนะนำ เรื่องเครื่องมือของโปเกมอนหน่อย\\pคุณว่าอะไรดีสำหรับให้ {STR_VAR_1} ของผมถือ?\\pไม่ต้องเขินน่า พูดออกมาเลย!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing9", "th": "หือ? งั้นคุณบอกว่า {STR_VAR_1} ของผม ชนะได้โดยไม่ต้องถือไอเท็มเลยเหรอ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem9", "th": "ซี บวยโน่! ผมจะสู้ให้เต็มที่ แบบ ปั้ง!\\pเอาล่ะ ขอบคุณเหมือนเคย! อาดิโอส!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem9", "th": "อาฮะ {STR_VAR_1} หนึ่งอันใช่ไหม? ซี บวยโน่! ผมจะไปหามาเลย แบบ ปึ้ง!\\pเอาล่ะ ขอบคุณเหมือนเคย! อาดิโอส!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended9", "th": "ไม่ ๆ! คุณเคยบอกเรื่อง {STR_VAR_1} ไปแล้วนะ\\pเอ๊ะ เดี๋ยวก่อนนะ… งั้นคุณบอกว่า {STR_VAR_2} ของผม ชนะได้โดยไม่ต้องถือไอเท็มเลยเหรอ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem10", "th": "{PLAYER}{KUN} เรื่องไม่น่าเชื่อเกิดขึ้นแล้ว!\\pเช้านี้ตื่นมา โปเกมอนของผมมี NUGGET 10 ลูก!\\pโกหกน่ะสิ! ว้าฮ่าฮ่าฮ่า!\\pแต่อันนี้ไม่โกหกนะ ผมไม่ค่อยเก่งเรื่องคิดว่า โปเกมอนควรถือไอเท็มอะไร\\pงั้นช่วยเลือกให้หน่อยได้ไหม ว่า {STR_VAR_1} ของผมควรถืออะไร อาจารย์?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing10", "th": "หมายความว่าไง? ไม่ต้องให้มันถืออะไรเลยเหรอ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem10", "th": "โอเค งั้นไม่ต้องให้มันถืออะไรเลย งั้นผมไปหาอะไรมาให้มันถือดีกว่า!\\pล้อเล่นน่า! ผมจะทำตามคำสอนของอาจารย์!\\pขอบคุณนะ อาจารย์! สอนผมต่อไปอีกนะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem10", "th": "โอเค งั้นเป็น {STR_VAR_1} หนึ่งอัน! ผมจะให้มันถืออย่างอื่นที่ไม่ใช่อันนั้น!\\pล้อเล่นน่า! ผมจะทำตามคำสอนของอาจารย์!\\pขอบคุณนะ อาจารย์! สอนผมต่อไปอีกนะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended10", "th": "เอ่อ คุณเคยบอกเรื่องนั้นแล้วนี่ ใช่ไหม?\\pไม่มีอย่างอื่นแล้วเหรอ?\\pหรือหมายความว่า ไม่ต้องให้ {STR_VAR_2} ถืออะไรเลย?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem11", "th": "อ-า-ฮอย! สะกดว่าอาฮอย!\\pกะลาสีสายแร็ปคือผมเอง! ขอเสนอคำถามสุดเจ๋งให้เธอเล็ง!\\pเป็นคำถามเรื่องไอเท็ม ขอคำแนะนำจากเธอให้เต็ม!\\p{STR_VAR_1} ของผมต้องมีของไว้ถือ ควรเป็นอะไร บอกผมหน่อยได้หรือ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing11", "th": "จริงหรือนี่? {STR_VAR_1} ของผม ไม่ต้องถืออะไรเลยก็ดี?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem11", "th": "โอเค ผมได้ยินแล้ว แน่นอน! โปเกมอนของผมจะไปมือเปล่า ไม่ต้องย้อน!\\pถ้าวันไหนต้องการคำชี้แนะ {PLAYER} คำของเธอผมจะฟังไม่แปรแน่!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem11", "th": "โอเค {STR_VAR_1} หนึ่งอัน นั่นแหละที่ผมจะใช้ ให้เธอเลือกนี่ถูกแล้วจริง ๆ ไม่ผิดไป!\\pถ้าวันไหนต้องการคำชี้แนะ {PLAYER} คำของเธอผมจะฟังไม่แปรแน่!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended11", "th": "โอเค {STR_VAR_1} หนึ่งอันงั้นเหรอ? วันก่อนก็บอกแล้วนะเธอ! ผมอยากได้ไอเดียใหม่ ๆ ที่ไม่เคยเจอ!\\pหรือว่าใช่แบบนั้นหรือนี่? โปเกมอนของผม ไม่ต้องถืออะไรเลยก็ดี?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem12", "th": "เฮ้ ว่าไง {PLAYER}! วันนี้เจอเธออีกแล้วไง!\\pทำไงดี? ขอคำแนะนำไหม? ทำไมจะไม่ล่ะ? ก็คุยกับเธออยู่แล้วไง!\\p{PLAYER} เบื่อผมแล้วหรือเปล่า? ไม่หรอก ไม่มีทาง ไม่ใช่เรื่องของเรา!\\pช่วยฟังผมหน่อยได้ไหม? ผมกำลังหาคำแนะนำ นั่นแหละที่อยากพูดไป!\\pเป็นเรื่องไอเท็มดี ๆ ให้ {STR_VAR_1} ถือไว้ ลังเลจนกลุ้มใจไปหมดแล้วไง!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing12", "th": "{STR_VAR_1} ของผมไม่ต้องใช้อะไร? ไม่ต้องถืออะไรไว้เลยใช่ไหม?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem12", "th": "ถ้าไม่ถืออะไรคือดีที่สุด ผมก็จะทำตามไม่มีหยุด!\\pเอาล่ะ {PLAYER} ผมต้องออกท่องไปอย่างอิสระ แต่อย่าลืมผมเชียวนะ!\\pไว้เจอกันใหม่ เพื่อนผู้ฉลาดของผม!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem12", "th": "ถ้าถือ {STR_VAR_1} คือดีที่สุด ผมก็จะทำตามไม่มีหยุด!\\pเอาล่ะ {PLAYER} ผมต้องออกท่องไปอย่างอิสระ แต่อย่าลืมผมเชียวนะ!\\pไว้เจอกันใหม่ เพื่อนผู้ฉลาดของผม!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended12", "th": "เคยได้ยินเรื่อง {STR_VAR_1} แล้วใช่ไหม? ผมมั่นใจว่าเคย แน่นอนไม่ต้องสงสัย!\\pผมอยากได้อะไรใหม่ ๆ! หรือว่า {STR_VAR_2} ของผมไม่ต้องใช้อะไร? ไม่ต้องถืออะไรไว้เลยใช่ไหม?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem13", "th": "อ๊าก! โอ๊ย! {PLAYER}{KUN} แขนผมหัก! อย่าจับนะ!\\pคงหักตอนลองให้แก๊งโปเกมอนของผม ถือไอเท็มหลาย ๆ แบบแน่เลย\\pเพราะอย่างนี้ ผมเลยต้องให้คุณตัดสินใจแทน\\p{PLAYER}{KUN} คุณว่าอะไรดีสำหรับให้ {STR_VAR_1} ของผมถือ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing13", "th": "โอ๊ย…\\pงั้นคุณแนะนำว่า {STR_VAR_1} ของผม ไม่ต้องถืออะไรเลยเหรอ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem13", "th": "อืม ได้ แบบนั้นก็ง่ายกว่า สำหรับผมในสภาพตอนนี้\\pหวังว่าจะมาขอความช่วยเหลือ จากคุณแบบนี้ได้เรื่อย ๆ นะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem13", "th": "อืม ได้ งั้นเป็น {STR_VAR_1} หนึ่งอัน แขนโปเกมอนของผมยังดีอยู่ เดี๋ยวจะให้มันถือทันที\\pหวังว่าจะมาขอความช่วยเหลือ จากคุณแบบนี้ได้เรื่อย ๆ นะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended13", "th": "ไม่ ๆ คุณเคยบอกเรื่อง {STR_VAR_1} ไปแล้ว จำไม่ได้เหรอ?\\pบอกอะไรที่ดีกว่านั้นหน่อยสิ\\pอ๊ะ เดี๋ยวนะ งั้นคุณแนะนำว่า {STR_VAR_2} ของผม ไม่ต้องถืออะไรเลยเหรอ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem14", "th": "เอ่อ… อืม… {PLAYER}{KUN}…\\pได้โปรด อย่ามองผมแบบนั้นเลยครับ โปเกมอนของผมยังไม่มีอะไรถือเลย\\pผ… ผมอายมากที่ต้องพูดเรื่องนี้ แต่ผมต้องการคำแนะนำจริง ๆ ครับ\\pผมตัดสินใจไม่ได้ว่าไอเท็มอะไร จะทำให้ {STR_VAR_1} แข็งแกร่ง\\p{PLAYER}{KUN} คุณคิดว่าอะไรดีครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing14", "th": "โอ้… งั้นคุณคิดว่า {STR_VAR_1} ของผม ไม่มีไอเท็มจะดีกว่าเหรอครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem14", "th": "โอ้… ตกลงครับ! ผมจะไปโดยไม่มีไอเท็ม\\pแต่ก็ประหม่านะครับ แบบนี้จะเท่เกินไปหรือเปล่า?\\pขอบคุณครับ {PLAYER}{KUN} ถ้าเจอกันอีก หวังว่าคุณจะช่วยผมแบบนี้อีกนะครับ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem14", "th": "โอ้… ตกลงครับ! ผมจะใช้ {STR_VAR_1} นั้น\\pแต่ก็ประหม่านะครับ แบบนี้จะเท่เกินไปหรือเปล่า?\\pขอบคุณครับ {PLAYER}{KUN} ถ้าเจอกันอีก หวังว่าคุณจะช่วยผมแบบนี้อีกนะครับ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended14", "th": "แ-แต่ผมเคยได้ยินเรื่องนั้นแล้วครับ\\pได้โปรดอย่าปัดผมทิ้งแบบนี้เลยครับ! ผมทนความอับอายนี้ไม่ไหว\\pโอ้… หรือผมด่วนสรุปไปเอง? คุณคิดว่าถ้า {STR_VAR_2} ของผม ไม่มีไอเท็มจะดีกว่าหรือครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhatHeldItem15", "th": "หืม? ดูเหมือนคุณจะเป็น {PLAYER}{KUN}… แต่ใช่จริงหรือ? หรือว่าเป็นฝาแฝด?\\pโอ้ ไม่ ๆ ๆ ไม่ต้องกังวลครับ! ถ้าคุณคือ {PLAYER} จริง ได้โปรดลืมความเสียมารยาทของผมด้วย\\pสิ่งที่ผมต้องการ คือคำแนะนำอันยอดเยี่ยมของคุณอีกสักครั้ง\\pผมมี {STR_VAR_1} ที่อยากให้ถือไอเท็มที่มีประโยชน์\\pอะไรที่คู่ควรกับมันครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeHoldNothing15", "th": "ไม่ถืออะไรเลยจะดีกว่าหรือครับ? แน่ใจนะครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksNoHeldItem15", "th": "เข้าใจแล้ว ถ้าเป็นเช่นนั้นก็ดีครับ ขอบคุณที่สละเวลาให้\\pแล้วพบกันใหม่ครับ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeThanksHeldItem15", "th": "{STR_VAR_1} หนึ่งอันหรือครับ? แน่ใจนะครับ?\\pเข้าใจแล้ว ถ้าเป็นเช่นนั้นก็ดีครับ ขอบคุณที่สละเวลาให้\\pหวังว่าโปเกมอนของผม จะใช้มันได้อย่างเป็นประโยชน์\\pแล้วพบกันใหม่ครับ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeItemAlreadyRecommended15", "th": "ไม่ ๆ เดี๋ยวก่อนครับ ผมเชื่อว่าคุณเคยสอนเรื่องนั้นแล้ว\\pผมอยากให้คุณแนะนำ อย่างอื่นในครั้งนี้\\pหรือว่าคุณกำลังแนะนำว่า {STR_VAR_2} ของผมไม่ควรถืออะไร? แน่ใจนะครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst0", "th": "แง {PLAYER}! ผมกำลังกลุ้มใจ ฮึก…\\pผมอยากเริ่มสู้กับคนอื่น แต่ไม่รู้ต้องทำยังไงฮะ\\pควรเรียงโปเกมอนยังไง พวกมันถึงจะแข็งแกร่งที่สุด?\\pช่วยบอกผมหน่อยนะฮะ {PLAYER} ถ้าคุณเป็นผม จะส่งโปเกมอนตัวไหนออกไปก่อนฮะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks0", "th": "ให้ {STR_VAR_1} ของผมออกก่อนเหรอฮะ? แงงงง!\\pอ๊ะ! ขอโทษจริง ๆ ฮะ! คุณช่วยเลือกโปเกมอนตัวแรกให้ ผมดีใจจนร้องไห้เลย…\\pขอบคุณมากเลยฮะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst1", "th": "เย้! {PLAYER} นี่นา! ดีเลย! มีเรื่องอยากถามพอดี!\\pเอ่อ ในบรรดาโปเกมอนของผม คุณว่าตัวไหนควรออกก่อน?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks1", "th": "{STR_VAR_1} ของผมเหรอ? จริงด้วย โอเค จะทำตามนั้นเลย!\\pขอบคุณที่สอนนะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst2", "th": "{PLAYER} สวัสดีครับ!\\pผมคิดว่าในการต่อสู้ โปเกมอนตัวที่ออกก่อนสำคัญมากครับ\\pจากโปเกมอนที่ผมมี ตัวไหนเหมาะจะส่งออกไปก่อนครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks2", "th": "{STR_VAR_1} ของผมออกก่อนเหรอครับ? โอเค เข้าใจแล้วครับ!\\pแล้วเจอกันใหม่ครับ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst3", "th": "สวัสดีค่ะ {PLAYER}… ขอโทษที่รบกวนด้วยคำถามอีกแล้วนะคะ\\pฉันไม่มีความมั่นใจเลย ถ้าไม่มีคุณ {PLAYER} ฉันคงไม่รู้จะทำยังไง\\pอาจเสียเวลาเปล่าที่ฉันจะกังวลเรื่องนี้ แต่ก็ตัดสินใจไม่ได้สักที…\\pในการต่อสู้ ฉันควรส่งโปเกมอนตัวไหนออกไปก่อนคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks3", "th": "{STR_VAR_1} ของฉันเหรอคะ? เข้าใจแล้วค่ะ!\\pไม่อยากเชื่อเลยว่าคุณจะยอมตอบ คำถามของฉันบ่อยขนาดนี้!\\pแค่คุณยอมคุยกับฉันก็ซาบซึ้งมากแล้ว… ขอบคุณค่ะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst4", "th": "อ้อ {PLAYER}{KUN}! ฉันเอง! ดีใจที่เจอเธอ เพราะฉันมีปัญหานิดหน่อย\\pฉันตัดสินใจไม่ได้ว่าจะเรียงโปเกมอนยังไง ช่วยตัดสินใจให้ทีสิ\\pอ้อ ไม่ต้องเลือกทั้งทีมตอนนี้หรอกนะ\\pแค่เลือกโปเกมอนตัวแรกให้ฉันก็พอ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks4", "th": "{STR_VAR_1} ของฉันเหรอ? เยี่ยมเลย!\\pพอรู้ว่าเธอเป็นคนตัดสินใจ {PLAYER}{KUN} ถ้าแพ้ฉันก็ไม่หงุดหงิดมากหรอก\\pโอเค ไว้จะมาขอคำแนะนำอีกนะ บาย!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst5", "th": "หวัดดี อาจารย์ {PLAYER}{KUN}! วันนี้ผมก็ยุ่งอีกแล้ว!\\pต้องไปปั่นจักรยาน ช็อปปิ้ง แล้วก็ฮัมเพลง\\pยังไม่มีเวลาเลยว่าจะเรียงทีมโปเกมอนยังไง\\pงั้นช่วยดูทีมผมหน่อยได้ไหม? ตัวไหนควรออกก่อน?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks5", "th": "โอเค รับทราบ อย่างน้อยผมก็มีเวลาพอ จะให้ {STR_VAR_1} ขึ้นนำหัวแถว!\\pตายแล้ว แฟนผมรออยู่! ขอบคุณนะ! ไว้เจอกัน!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst6", "th": "ฮู้ฮู! หวัดดี {PLAYER}! เธอเดินไปไหนมาไหนดูเท่ตลอดเลย!\\pนี่ ฉันต้องการอะไรจากเธออีกแล้ว! เรื่องเดิม ๆ นั่นแหละ!\\pรัวกลองหน่อย! คำถามของฉันเป็นเรื่องทีม\\pโปเกมอนตัวไหนของฉัน ควรออกไปสู้เป็นตัวแรก?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks6", "th": "อืมฮึ! {STR_VAR_1} ของฉัน งั้นเหรอ! ขอบคุณสำหรับคำตอบสุดเจ๋งนะ!\\pวันนี้คงอยากถามแค่นี้แหละ\\pไว้มาเจอกันที่นี่อีกนะ โอเค? ขอบคุณจ้า!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst7", "th": "ขอบคุณมากนะคะ ที่หยุดคุยกับดิฉัน {PLAYER}\\pดิฉันรู้ว่ากำลังเอาเปรียบความใจดีของคุณ แต่ขอคำแนะนำได้ไหมคะ?\\pดิฉันอยากให้คุณช่วยตัดสินใจ ลำดับทีมโปเกมอนของดิฉัน\\pจะดีมากถ้าคุณช่วยเลือกว่า โปเกมอนตัวไหนควรออกก่อนค่ะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks7", "th": "{STR_VAR_1} ของดิฉัน ตามนั้นค่ะ! จะจัดให้ขึ้นก่อนทันที\\pขอบคุณค่ะ {PLAYER} หวังว่าจะได้พึ่งพาคุณอีกนะคะ ดูแลตัวเองด้วยค่ะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst8", "th": "กรี๊ด! {PLAYER}! ฉ-ฉันดีใจสุด ๆ ที่ได้เจอคุณอีกค่ะ!\\pโปเกมอนของฉันแข็งแกร่งขึ้นมากแล้วค่ะ!\\pแต่ก็ไม่ได้ชนะทุกครั้ง ดูเหมือนจะขึ้นอยู่กับว่า โปเกมอนตัวไหนออกก่อน\\p{PLAYER} ได้โปรด ฉันต้องการความช่วยเหลือจากคุณ!\\pได้โปรดตัดสินใจว่า โปเกมอนตัวไหนของฉันควรออกก่อนค่ะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks8", "th": "เฮ้อ… ฉันมีความสุขล้นเหลือ…\\pเหมือนฝันเลยที่คุณ {PLAYER} ช่วยตัดสินใจให้ฉัน\\pแต่เข้าใจอย่างถ่องแท้แล้วค่ะ! ฉันจะให้ {STR_VAR_1} ออกก่อน!\\pหวังว่าคราวหน้า คุณจะยินดีสอนฉันอีกนะคะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst9", "th": "หวัดดี หวัดดี! อาจารย์ของผม {PLAYER}{KUN}! วันนี้ขอคำแนะนำอันลึกซึ้งหน่อย!\\pคือผมรวมทีมโปเกมอนได้สามตัวแล้ว ถึงตอนนี้ก็ยังดีอยู่\\pแต่ลำดับการออกสู้ของทีม ยังไม่ลงตัว\\pนี่แหละที่คุณต้องมาช่วย {PLAYER}{KUN}! คุณเลือกว่าโปเกมอนตัวไหนนำทัพ!\\pไม่ต้องเขินน่า พูดออกมาเลย!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks9", "th": "อาฮะ {STR_VAR_1} ของผมนำทัพ! โอเค ชัวร์! ผมจะไปจัดลำดับใหม่ แบบ ฟึ่บ!\\pเอาล่ะ ขอบคุณเหมือนเคย! อาดิโอส!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst10", "th": "{PLAYER}{KUN} ฟังนะ! วิกฤติแล้ว!\\pโปเกมอนของผมทั้งสามตัว ออกไปสู้พร้อมกันหมดเลย!\\pเป็นไปไม่ได้อยู่แล้ว! ว้าฮ่าฮ่าฮ่า!\\pแต่อันนี้ไม่โกหกนะ ผมไม่ค่อยเก่งเรื่องคิดว่า ควรเรียงโปเกมอนยังไง\\pงั้นช่วยเลือกให้หน่อยได้ไหม ว่าโปเกมอนตัวไหนควรออกก่อน อาจารย์?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks10", "th": "โอเค งั้นอาจารย์เลือก {STR_VAR_1} ของผมเหรอ? งั้นผมจะให้ตัวอื่นที่ไม่ใช่มันออกก่อน!\\pล้อเล่นน่า! ผมจะทำตามคำสอนของอาจารย์!\\pขอบคุณนะ อาจารย์! สอนผมต่อไปอีกนะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst11", "th": "อ-า-ฮอย! สะกดว่าอาฮอย!\\pกะลาสีสายแร็ปคือผมเอง! ขอเสนอคำถามสุดเจ๋งให้เธอเล็ง!\\pเป็นคำถามเรื่องจัดทัพ ขอคำแนะนำจากเธอให้ผมรับ!\\pจากทั้งหมดนี่ ตัวไหนควรออกก่อน เป็นตัวแรกที่ลงสนามไม่ต้องย้อน?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks11", "th": "โอเค ผมได้ยินแล้ว แน่นอน! ผมจะสลับลำดับใหม่ ไม่ต้องย้อน!\\pถ้าวันไหนต้องการคำชี้แนะ {PLAYER} คำของเธอผมจะฟังไม่แปรแน่!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst12", "th": "ยาฮู้ {PLAYER}! เป็นไงบ้าง สบายดีไหม?\\pทำไงดี? ถามไปเลยไหม? อาฮะ ผมมีเรื่องจะถาม!\\pรับสัญญาณผมไหม? รับได้ชัดแจ๋วเลยใช่ไหม!\\pเธอต้องตัดสินใจ ว่าโปเกมอนตัวไหนของผมจะได้ขี่ออกไปก่อนใคร! หมายถึงออกไปสู้น่ะนะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks12", "th": "{STR_VAR_1} ของผมเหรอ? เยี่ยม! ตามนั้นเลย ไม่ต้องกลุ้มให้เปลี่ยน!\\pเอาล่ะ {PLAYER} ผมต้องออกท่องไปอย่างอิสระ แต่อย่าลืมผมเชียวนะ!\\pไว้เจอกันใหม่ เพื่อนผู้ฉลาดของผม!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst13", "th": "…อุ๊ย…โอ๊ย… {PLAYER}{KUN}… จู่ ๆ ก็ปวดท้องขึ้นมา…\\p…ค่อยยังชั่วแล้ว…\\pคงเครียดจนป่วย เพราะคิดหนักว่า จะเรียงแก๊งโปเกมอนของผมยังไง\\pเพราะอย่างนี้ ผมเลยต้องให้คุณตัดสินใจแทน\\p{PLAYER}{KUN} โปเกมอนตัวไหนของผมควรออกก่อน? หมายถึงออกแล้วชนะน่ะนะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks13", "th": "อืม ได้ {STR_VAR_1} ของผมออกก่อน\\pเดี๋ยวกินข้าวเย็นเสร็จ จะไปจัดลำดับตามนั้น\\pหวังว่าจะมาขอความช่วยเหลือ จากคุณแบบนี้ได้เรื่อย ๆ นะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst14", "th": "เอ่อ… อืม… {PLAYER}{KUN}?\\pได้โปรด อย่ามองผมแบบนั้นเลยครับ ผมประหม่าไปหมดแล้ว\\pเอ่อ… ผมต้องการคำแนะนำจริง ๆ ครับ\\pพูดแล้วเขินจัง แต่ผมเลือกทีมโปเกมอน 3 ตัวแล้ว แต่ตัดสินใจเรื่องลำดับไม่ได้\\pผมควรส่งโปเกมอนตัวไหนออกก่อน อย่างน้อยจะได้ดูเก่งหน่อยครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks14", "th": "โอ้… ตกลงครับ! ผมจะให้ {STR_VAR_1} นำ\\pหวังว่าจะทำได้เต็มที่ โดยไม่ประหม่าเสียก่อน\\pขอบคุณครับ {PLAYER}{KUN} ถ้าเจอกันอีก หวังว่าคุณจะช่วยผมแบบนี้อีกนะครับ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMonFirst15", "th": "หืม? ดูเหมือนคุณจะเป็น {PLAYER}{KUN}… แต่ใช่จริงหรือ? หรือว่าเป็นตัวปลอมที่เหมือนมาก?\\pโอ้ ไม่ ๆ ๆ ไม่ต้องกังวลครับ! ถ้าคุณคือ {PLAYER} จริง ได้โปรดลืมความเสียมารยาทของผมด้วย\\pสิ่งที่ผมต้องการ คือคำแนะนำอันยอดเยี่ยมของคุณ\\pนี่คือทีมโปเกมอนของผม อยากให้คุณบอกว่า ตัวไหนควรออกก่อนในการต่อสู้ครับ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonFirstThanks15", "th": "{STR_VAR_1} ของผม… คุณไม่ได้แกล้งผมใช่ไหมครับ?\\pเข้าใจแล้ว ถ้าเป็นเช่นนั้นก็ดีครับ ขอบคุณที่สละเวลาให้\\pผมก็เป็นอย่างที่เห็นนี่แหละ แต่จะพยายามให้ดีที่สุดครับ\\pแล้วพบกันใหม่ครับ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMon0", "th": "ฮึก… อ๊ะ {PLAYER}!\\pมาได้จังหวะพอดีเลยฮะ! มีเรื่องที่ผมตัดสินใจไม่ได้…\\pผมตัดสินใจไม่ได้ว่าควรใช้โปเกมอนตัวไหน\\pเลือกไม่ถูกระหว่าง {STR_VAR_1} กับ {STR_VAR_2}…\\p{PLAYER} คุณว่าตัวไหน ที่จะทำให้แม้แต่ผมก็มีโอกาสชนะฮะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonThanks0", "th": "ฮึก… ผ-ผมเข้าใจแล้วฮะ! อ๊ะ! ขอโทษจริง ๆ ฮะ! ผมดีใจจนร้องไห้เลย…\\pผมจะพยายามจับ {STR_VAR_1} ให้ได้สักตัวฮะ!\\pขอบคุณมากเลยฮะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMon1", "th": "เย้! {PLAYER} นี่นา! มาได้จังหวะพอดีเลย! ผมอยากได้คำแนะนำอีกแล้ว!\\pเอ่อ ผมสับสนไปหมด ควรใช้ {STR_VAR_1} หรือ {STR_VAR_2} ดี…\\pคุณว่าผมควรเลี้ยงตัวไหน {PLAYER}?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonThanks1", "th": "อ๋อ {STR_VAR_1} ของผมดีกว่าสินะ! โอเค จะทำตามนั้นเลย!\\pขอบคุณที่สอนนะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMon2", "th": "{PLAYER} สวัสดีครับ! ผมมีคำถามอยากถามครับ\\pผมลังเลว่าควรเลี้ยง {STR_VAR_1} หรือ {STR_VAR_2} ดี\\pคุณคิดว่าโปเกมอนตัวไหน จะแข็งแกร่งกว่ากันครับ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonThanks2", "th": "คุณเลือก {STR_VAR_1} เหรอครับ? โอเค เข้าใจแล้วครับ!\\pผมจะไปจับ {STR_VAR_1} แข็งแกร่ง ๆ มาเดี๋ยวนี้เลย!\\pแล้วเจอกันใหม่ครับ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMon3", "th": "สวัสดีค่ะ {PLAYER}…\\pเอ่อ คุณคงลืมคนอย่างฉันไปแล้ว…\\p…แต่ไม่เป็นไรหรอกค่ะ ถ้าคุณจะให้คำแนะนำฉันได้…\\pฉันตัดสินใจไม่ได้ว่า จะเลี้ยงโปเกมอนชนิดไหนดี…\\pคัดมาเหลือ {STR_VAR_1} กับ {STR_VAR_2} แล้ว แต่ก็ติดอยู่ตรงนั้น…\\p{PLAYER} คุณคงไม่อยากเสียเวลา แต่ได้โปรดช่วยตัดสินใจให้ฉันด้วยค่ะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonThanks3", "th": "แต่ {STR_VAR_1} ในป่า จะสนใจฉันด้วยเหรอคะ?\\pฉันจะลองดูค่ะ!\\pแต่ฉันจะจับได้หรือเปล่านะ… ไม่สิ! ฉันจะพยายามให้เต็มที่!\\pขอบคุณค่ะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMon4", "th": "อ้อ {PLAYER}{KUN}! ดีใจที่เจอเธอนะ! ฉันกำลังจะไปตามหาเธออยู่เลย!\\pช่วยตัดสินใจหน่อยสิ ว่าฉันควรใช้โปเกมอนชนิดไหน\\pอย่างเช่น… {STR_VAR_1} กับ {STR_VAR_2} เป็นไง?\\pเธอว่าตัวไหนดีกว่ากัน?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonThanks4", "th": "{STR_VAR_1} เหรอ? เยี่ยมเลย!\\pพอรู้ว่าเธอเป็นคนตัดสินใจ {PLAYER}{KUN} ถ้าแพ้ฉันก็ไม่หงุดหงิดมากหรอก\\pโอเค ไว้จะมาขอคำแนะนำอีกนะ บาย!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMon5", "th": "นั่นมัน {PLAYER}{KUN} นี่นา! เป็นไงบ้าง? ผมก็ยุ่งเหมือนเคย!\\pผมอยากเก่งเรื่องโปเกมอนด้วย แต่ยังตัดสินใจไม่ได้ว่า ควรใช้ตัวไหน\\pรู้ใช่ไหมว่า {STR_VAR_1} ดูแข็งแกร่ง? แต่ {STR_VAR_2} ก็มองข้ามไม่ได้\\p{PLAYER}{KUN} ช่วยแนะนำดี ๆ หน่อย! ตัวไหนเหมาะกับผม?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonThanks5", "th": "โอเค รับทราบ ผมจะหาเวลาไปจับ {STR_VAR_1} ที่คุณแนะนำมาให้ได้\\pดีใจที่ได้อาจารย์ดี ๆ อย่างคุณ ขอบคุณนะ! ไว้เจอกัน!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMon6", "th": "อ๊ะ! เย้ {PLAYER} นี่นา!\\pฉันรีบไปอวดเพื่อน ๆ ทันทีเลย ว่าได้เจอเธอ!\\pวันนี้ขอยืมสมองเธออีกแล้ว ข้อนี้ง่ายมากสำหรับเธอ!\\pรัวกลองหน่อย! คำถามของฉันคือ…\\pถ้าฉันจะเลี้ยงโปเกมอน โดยมีตัวเลือกคือ {STR_VAR_1} หรือ {STR_VAR_2} ควรเลือกตัวไหนดี?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonThanks6", "th": "อ๊าาา! {STR_VAR_1} งั้นเหรอ! ขอบคุณสำหรับคำตอบสุดเจ๋งนะ!\\pวันนี้คงอยากถามแค่นี้แหละ\\pไว้มาเจอกันที่นี่อีกนะ โอเค? ขอบคุณจ้า!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMon7", "th": "อ้าว นั่นคุณเองหรือคะ {PLAYER}? ดีใจที่ได้พบคุณอีกค่ะ!\\pตั้งแต่ได้เป็นศิษย์ของคุณ ดิฉันก็มั่นใจในตัวเองมากขึ้น\\pดิฉันคิดว่าพร้อมจะเลี้ยง โปเกมอนของตัวเองแล้วค่ะ!\\p{PLAYER} ขอรบกวนให้คุณช่วยเลือกว่า ดิฉันควรเลี้ยงโปเกมอนตัวไหนได้ไหมคะ?\\pตัวเลือกคือ {STR_VAR_1} หรือ {STR_VAR_2}… ตัวไหนเหมาะกับดิฉันคะ?$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonThanks7", "th": "{STR_VAR_1} หนึ่งตัว ตามนั้นค่ะ! ดิฉันจะไปหามาทันที\\pขอบคุณค่ะ {PLAYER} หวังว่าจะได้พึ่งพาคุณอีกนะคะ ดูแลตัวเองด้วยค่ะ!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMon8", "th": "กรี๊ด! {PLAYER}! ได้เจอคุณอีกแล้ว! ฉ-ฉันดีใจสุด ๆ เลยค่ะ!\\pโอ้-โอ้-โอ้ นึกออกแล้ว! ห้ามพลาดโอกาสนี้เด็ดขาด!\\pขอรบกวนเรื่องใหญ่ได้ไหมคะ {PLAYER}? ได้โปรดเลือกโปเกมอนให้ฉันหน่อยค่ะ!\\pได้โปรดตัดสินใจว่าตัวไหนดีกว่า {STR_VAR_1} หรือ {STR_VAR_2}!$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeMonThanks8", "th": "ว้าว! คุณตัดสินใจให้ฉันแล้ว! ฉันจะเลี้ยง {STR_VAR_1} ให้ดีที่สุดเท่าที่ทำได้เลยค่ะ\\pหวังว่าคราวหน้า คุณจะยินดีสอนฉันอีกนะคะ$"}
+{"id": "data/text/apprentice.inc#gText_ApprenticeWhichMon9", "th": "เฮ้ เฮ้! อาจารย์ของผม {PLAYER}{KUN}!\\pหวัดดี ผมตามหาคุณอยู่เลย อยากได้คำแนะนำอันลึกซึ้งอีก!\\pโปเกมอนชนิดไหนที่เหมาะกับผม {STR_VAR_1} หรือ {STR_VAR_2}?\\pไม่ต้องเขินน่า พูดออกมาเลย!$"}

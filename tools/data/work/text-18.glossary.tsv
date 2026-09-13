@@ -94,6 +94,12 @@ HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอ�
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
+COOL	เท่	contest	ประเภทคอนเทสต์; COOLNESS = ความเท่
+BEAUTY	สวยงาม	contest	ประเภทคอนเทสต์; BEAUTY CONTEST = คอนเทสต์ความสวยงาม
+CUTE	น่ารัก	contest	ประเภทคอนเทสต์; CUTENESS = ความน่ารัก
+SMART	ฉลาด	contest	ประเภทคอนเทสต์; SMARTNESS = ความฉลาด
+TOUGH	แข็งแกร่ง	contest	ประเภทคอนเทสต์; TOUGHNESS = ความแข็งแกร่ง
+JUDGE	กรรมการ	contest	
 BATTLE TOWER	แบทเทิลทาวเวอร์	frontier	
 NORMAL	NORMAL	type	คงภาษาอังกฤษตามต้นฉบับ
 FIGHT	FIGHT	type	คงภาษาอังกฤษตามต้นฉบับ

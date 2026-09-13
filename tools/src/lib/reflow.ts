@@ -71,7 +71,11 @@ export function wrapParagraph(paragraph: string, maxWidth: number, charmap: Char
 // Re-breaks message-box text: two lines per box, extra lines scroll (\l) or open a new box (\p).
 export function reflowMessage(text: string, options: ReflowOptions, charmap: Charmap): string {
   const terminated = text.endsWith('$');
-  const body = terminated ? text.slice(0, -1) : text;
+  const untrimmed = terminated ? text.slice(0, -1) : text;
+  // Leading/trailing spaces matter for fragments the game concatenates at runtime.
+  const leading = untrimmed.match(/^ */)![0];
+  const trailing = untrimmed.match(/ *$/)![0];
+  const body = untrimmed.trim();
   const boxes = body.split('\\p').map((paragraph) => {
     const lines = wrapParagraph(paragraph, options.maxWidth, charmap);
     if (lines.length === 0) return '';
@@ -84,5 +88,5 @@ export function reflowMessage(text: string, options: ReflowOptions, charmap: Cha
     }
     return pairs.join('');
   });
-  return boxes.join('\\p') + (terminated ? '$' : '');
+  return leading + boxes.join('\\p') + trailing + (terminated ? '$' : '');
 }
