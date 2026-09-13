@@ -50,9 +50,10 @@ const SHIFTED_LOW_TONE_CODEPOINT = 0xf717;
 const SHIFTED_HIGH_TONE_CODEPOINT = 0xf71c;
 
 // Unifont draws ข and บ (and ป) as one shape, so their reduced bodies are hand-drawn in Unifont columns.
+// บ gets a wider, flat bottom stroke so it does not read as ข. Hand-drawn bodies skip small-font narrowing.
 const BAW_BAIMAI_BODY: Record<FontLayout['bodyRows'], string[]> = {
-  6: ['..##..#.', '..##..#.', '...#..#.', '...#..#.', '...#..#.', '...####.'],
-  5: ['..##..#.', '...#..#.', '...#..#.', '...#..#.', '...####.'],
+  6: ['.##...#.', '.##...#.', '..#...#.', '..#...#.', '..#...#.', '..#####.'],
+  5: ['.##...#.', '..#...#.', '..#...#.', '..#...#.', '..#####.'],
 };
 const BODY_OVERRIDES: Record<string, Record<FontLayout['bodyRows'], string[]>> = {
   'ข': {
@@ -233,7 +234,8 @@ export function buildThaiGlyphs(): ThaiGlyph[] {
 
   return [...glyphs, ...marks.map((glyph, i) => ({ ...glyph, slot: MARK_SLOTS[i] }))].map((glyph) => ({
     ...glyph,
-    rows: (layout: FontLayout) => (layout.narrow ? narrowRows(glyph.rows(layout), glyph.isMark) : glyph.rows(layout)),
+    rows: (layout: FontLayout) =>
+      layout.narrow && !BODY_OVERRIDES[glyph.char] ? narrowRows(glyph.rows(layout), glyph.isMark) : glyph.rows(layout),
   }));
 }
 
