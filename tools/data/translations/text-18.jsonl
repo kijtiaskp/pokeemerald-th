@@ -179,9 +179,9 @@
 {"id": "src/battle_message.c#gText_PkmnIsEvolving", "th": "อะไรนะ? {STR_VAR_1} กำลังวิวัฒนาการ!"}
 {"id": "src/battle_message.c#gText_CongratsPkmnEvolved", "th": "ยินดีด้วย! {STR_VAR_1} ของคุณ วิวัฒนาการเป็น {STR_VAR_2} แล้ว!{WAIT_SE}\\p"}
 {"id": "src/battle_message.c#gText_PkmnStoppedEvolving", "th": "เอ๊ะ? {STR_VAR_1} หยุดวิวัฒนาการ!\\p"}
-{"id": "src/battle_message.c#gText_WhatWillPkmnDo", "th": "{B_ACTIVE_NAME_WITH_PREFIX} จะทำอะไร?"}
-{"id": "src/battle_message.c#gText_WhatWillPkmnDo2", "th": "{B_PLAYER_NAME} จะทำอะไร?"}
-{"id": "src/battle_message.c#gText_WhatWillWallyDo", "th": "มิตสึรุ จะทำอะไร?"}
+{"id": "src/battle_message.c#gText_WhatWillPkmnDo", "th": "{B_ACTIVE_NAME_WITH_PREFIX}\\nจะทำอะไรดี?"}
+{"id": "src/battle_message.c#gText_WhatWillPkmnDo2", "th": "{B_PLAYER_NAME}\\nจะทำอะไรดี?"}
+{"id": "src/battle_message.c#gText_WhatWillWallyDo", "th": "มิตสึรุ\\nจะทำอะไรดี?"}
 {"id": "src/battle_message.c#gText_LinkStandby", "th": "{PAUSE 16}รอการเชื่อมต่อ…"}
 {"id": "src/battle_message.c#gText_BattleMenu", "th": "สู้{CLEAR_TO 56}กระเป๋า\\nโปเกมอน{CLEAR_TO 56}หนี"}
 {"id": "src/battle_message.c#gText_SafariZoneMenu", "th": "บอล{CLEAR_TO 56}{POKEBLOCK}\\nเข้าใกล้{CLEAR_TO 56}หนี"}

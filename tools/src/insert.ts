@@ -133,7 +133,9 @@ function main(): void {
     translated.set(translation.id, layoutTranslation(translation.th, source, limits, charmap, warn));
   }
 
-  const files = [...new Set([...translated.keys()].map((id) => id.slice(0, id.indexOf('#'))))];
+  // Every file with extracted strings is rewritten from the pristine source, so strings whose
+  // translation was removed (e.g. names kept in English) revert to the original text.
+  const files = [...new Set([...sources.keys()].map((id) => id.slice(0, id.indexOf('#'))))];
   if (process.argv.includes('--restore')) {
     restore(files);
     console.log(`Restored ${files.length} files`);
