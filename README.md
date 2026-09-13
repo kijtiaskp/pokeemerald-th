@@ -1,3 +1,5 @@
+![Pokémon Emerald ภาษาไทย](docs/banner.png)
+
 # Pokémon Emerald ภาษาไทย (pokeemerald-th)
 
 แปล Pokémon Emerald เป็นภาษาไทยทั้งเกม บนฐาน decompilation [pret/pokeemerald](https://github.com/pret/pokeemerald)
@@ -26,7 +28,8 @@
 | `tools/src/validate.ts` | ตรวจ token, `$`, byte limit, ตัวอักษรที่รองรับ |
 | `tools/src/insert.ts` | ตัดบรรทัดภาษาไทย (Intl.Segmenter + พจนานุกรมชื่อเฉพาะ) แล้วเขียนกลับ source จาก `thai-engine` |
 | `tools/src/make-bps.ts` | สร้าง/ตรวจ BPS patch |
-| `tools/src/make-patcher.ts` | สร้าง patcher หน้าเดียว (`dist/pokeemerald-th-patcher.html`, `docs/index.html`) ฝัง BPS ไว้ในไฟล์ |
+| `tools/src/make-patcher.ts` | สร้าง patcher หน้าเดียว (`dist/pokeemerald-th-patcher.html`, `docs/index.html`) และ `dist/banner.html` ฝัง BPS + รูปไว้ในไฟล์ |
+| `tools/patcher/` | template หน้า patcher, hero และ `assets/` (โลโก้/Rayquaza/box art จาก Bulbapedia ผ่าน `npm run patcher:assets`, ฉากในเกมจาก mGBA) |
 | `tools/qa/harness.lua` + `tools/src/qa.ts` | สั่ง mGBA (กดปุ่ม/ถ่ายภาพ/savestate) อัตโนมัติ |
 
 การเปลี่ยนแปลงใน engine (`rom/`)
@@ -50,7 +53,9 @@ cd tools
 npm run insert        # เขียนคำแปลลง rom/
 npm run build:th      # insert + make → rom/pokeemerald.gba
 npm run patch         # ต้องมี ../vanilla-src (git -C rom worktree add ../vanilla-src vanilla แล้ว make)
+npm run patcher:assets # ดาวน์โหลดรูปสำหรับหน้า patcher (ครั้งแรก)
 npm run patcher       # สร้าง patcher HTML จาก dist/pokeemerald-th.bps
+npm run banner        # render docs/banner.png ด้วย headless Chrome
 ```
 
 ## ข้อจำกัดที่ทราบ
@@ -63,3 +68,5 @@ npm run patcher       # สร้าง patcher HTML จาก dist/pokeemerald-
 
 ## เครดิต
 pret (pokeemerald, agbcc), GNU Unifont (glyph ต้นแบบ, SIL OFL / GPL font exception)
+
+Pokémon, Pokémon Emerald Version, โลโก้ และภาพประกอบเป็นเครื่องหมายการค้าและลิขสิทธิ์ของ Nintendo, Creatures Inc. และ GAME FREAK inc. โปรเจกต์นี้เป็นงานแฟนเมดที่ไม่มีส่วนเกี่ยวข้อง และไม่แจกจ่าย ROM

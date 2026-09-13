@@ -15,7 +15,9 @@
     "build:th": "node --disable-warning=ExperimentalWarning src/insert.ts && make -C ../rom -j8",
     "build:qa": "node --disable-warning=ExperimentalWarning src/insert.ts && touch ../rom/src/new_game.c ../rom/src/text_marquee.c && make -C ../rom -j8 THAI_QA=1 && touch ../rom/src/new_game.c ../rom/src/text_marquee.c",
     "patch": "node --disable-warning=ExperimentalWarning src/make-bps.ts ../vanilla-src/pokeemerald.gba ../rom/pokeemerald.gba ../dist/pokeemerald-th.bps",
-    "patcher": "node --disable-warning=ExperimentalWarning src/make-patcher.ts ../dist/pokeemerald-th.bps ../rom/pokeemerald.gba $(git describe --tags --abbrev=0) ../dist/pokeemerald-th-patcher.html ../docs/index.html",
-    "release": "npm run patch && npm run patcher"
+    "patcher": "node --disable-warning=ExperimentalWarning src/make-patcher.ts ../dist/pokeemerald-th.bps ../rom/pokeemerald.gba $(git describe --tags --abbrev=0) ../dist/pokeemerald-th-patcher.html ../docs/index.html --banner ../dist/banner.html",
+    "release": "npm run patch && npm run patcher && npm run banner",
+    "patcher:assets": "node --disable-warning=ExperimentalWarning src/fetch-patcher-assets.ts",
+    "banner": "\"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome\" --headless=new --screenshot=\"$PWD/../docs/banner.png\" --window-size=1200,630 --hide-scrollbars --virtual-time-budget=4000 \"file://$PWD/../dist/banner.html\""
   }
 }
