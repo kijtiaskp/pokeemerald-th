@@ -101,8 +101,9 @@ function main(): void {
   const charmap = loadCharmap();
   const sources = loadSourceEntries();
   const translationDir = path.join(DATA_DIR, 'translations');
+  const includePrefixes = process.argv.slice(2).filter((arg) => !arg.startsWith('--'));
   const translations = readdirSync(translationDir)
-    .filter((name) => name.endsWith('.jsonl'))
+    .filter((name) => name.endsWith('.jsonl') && (includePrefixes.length === 0 || includePrefixes.some((prefix) => name.startsWith(prefix))))
     .sort()
     .flatMap((name) => readJsonl<Translation>(path.join(translationDir, name)));
 

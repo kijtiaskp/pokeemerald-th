@@ -127,6 +127,17 @@ TRIATHLETE	นักไตรกีฬา	trainer_class
 SAILOR	กะลาสี	trainer_class	
 COOLTRAINER	ยอดเทรนเนอร์	trainer_class	
 DOME ACE	ซูเปอร์สตาร์	trainer_class	
+DEVON	เดวอน	contest_opponent	
+ROXANNE	สึสึจิ	trainer_name	
+BRAWLY	โทคิ	trainer_name	
+ROXANNE	สึสึจิ	trainer_name	
+ROXANNE	สึสึจิ	trainer_name	
+ROXANNE	สึสึจิ	trainer_name	
+ROXANNE	สึสึจิ	trainer_name	
+BRAWLY	โทคิ	trainer_name	
+BRAWLY	โทคิ	trainer_name	
+BRAWLY	โทคิ	trainer_name	
+BRAWLY	โทคิ	trainer_name	
 HYPNOSIS	สะกดจิต	dex_category	
 HYPNOSIS	สะกดจิต	dex_category	
 DRAGON	มังกร	dex_category	

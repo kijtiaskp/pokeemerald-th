@@ -70,6 +70,13 @@ const MAX_BYTES: Record<string, number> = {
   easy_chat: 11,
 };
 
+// Struct fields in frontier/contest tables are sized by PLAYER_NAME_LENGTH, TRAINER_NAME_LENGTH or the vanilla nickname length.
+const FIELD_MAX_BYTES_BY_FILE: [RegExp, Record<string, number>][] = [
+  [/battle_frontier_trainers\.h$|battle_tent\.h$/, { trainerName: 7 }],
+  [/contest_opponents\.h$/, { trainerName: 7, nickname: 12, monName: 10 }],
+  [/battle_frontier\/trainer_hill\.h$/, { name: 10, nickname: 10 }],
+];
+
 function classify(site: StringSite): { kind: string; maxBytes?: number } {
   let kind = site.format === 'inc' ? 'dialog' : 'ui';
   for (const [pattern, fileKind] of KIND_BY_FILE) if (pattern.test(site.file)) kind = fileKind;
@@ -81,7 +88,9 @@ function classify(site: StringSite): { kind: string; maxBytes?: number } {
   if (kind === 'berry' && /^name(~\d+)?$/.test(site.key)) kind = 'berry_name';
   if (kind === 'decoration' && !site.key.endsWith('.name') && !site.key.startsWith('DECOR_')) kind = 'decoration_desc';
 
-  return { kind, maxBytes: MAX_BYTES[kind] };
+  const fieldLimits = FIELD_MAX_BYTES_BY_FILE.find(([pattern]) => pattern.test(site.file))?.[1];
+  const fieldLimit = fieldLimits?.[site.key.slice(site.key.lastIndexOf('.') + 1).replace(/~\d+$/, '')];
+  return { kind, maxBytes: fieldLimit ?? MAX_BYTES[kind] };
 }
 
 function isTrivial(en: string): boolean {
