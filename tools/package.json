@@ -2,12 +2,18 @@
   "name": "pokeemerald-th-tools",
   "private": true,
   "type": "module",
-  "engines": { "node": ">=24" },
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
-    "font": "node src/font/build-font.ts",
-    "extract": "node src/extract.ts",
-    "insert": "node src/insert.ts",
-    "validate": "node src/validate.ts",
-    "build:th": "node src/font/build-font.ts && node src/insert.ts && make -C ../rom -j8"
+    "font": "node --disable-warning=ExperimentalWarning src/font/build-font.ts",
+    "extract": "node --disable-warning=ExperimentalWarning src/extract.ts",
+    "batches": "node --disable-warning=ExperimentalWarning src/make-batches.ts text",
+    "validate": "node --disable-warning=ExperimentalWarning src/validate.ts data/translations/*.jsonl",
+    "normalize": "node --disable-warning=ExperimentalWarning src/normalize-terms.ts --apply",
+    "insert": "node --disable-warning=ExperimentalWarning src/insert.ts",
+    "build:th": "node --disable-warning=ExperimentalWarning src/insert.ts && make -C ../rom -j8",
+    "build:qa": "node --disable-warning=ExperimentalWarning src/insert.ts && touch ../rom/src/new_game.c && make -C ../rom -j8 THAI_QA=1 && touch ../rom/src/new_game.c",
+    "patch": "node --disable-warning=ExperimentalWarning src/make-bps.ts ../vanilla-src/pokeemerald.gba ../rom/pokeemerald.gba ../dist/pokeemerald-th.bps"
   }
 }

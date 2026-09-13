@@ -186,8 +186,8 @@
 {"id": "src/battle_message.c#gText_BattleMenu", "th": "สู้{CLEAR_TO 56}กระเป๋า\\nโปเกมอน{CLEAR_TO 56}หนี"}
 {"id": "src/battle_message.c#gText_SafariZoneMenu", "th": "บอล{CLEAR_TO 56}{POKEBLOCK}\\nเข้าใกล้{CLEAR_TO 56}หนี"}
 {"id": "src/battle_message.c#gText_MoveInterfacePP", "th": "PP "}
-{"id": "src/battle_message.c#gText_MoveInterfaceType", "th": "ประเภท/"}
-{"id": "src/battle_message.c#gText_MoveInterfacePPType", "th": "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}PP\\nประเภท/"}
+{"id": "src/battle_message.c#gText_MoveInterfaceType", "th": "ธาตุ/"}
+{"id": "src/battle_message.c#gText_MoveInterfacePPType", "th": "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}PP\\nธาตุ/"}
 {"id": "src/battle_message.c#gText_WhichMoveToForget4", "th": "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}จะลืมท่าไหนดี?"}
 {"id": "src/battle_message.c#gText_BattleYesNoChoice", "th": "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}ใช่\\nไม่"}
 {"id": "src/battle_message.c#gText_BattleSwitchWhich", "th": "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}สลับ\\nตัวไหน?"}
