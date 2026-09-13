@@ -1,495 +1,495 @@
-{"id": "data/maps/OldaleTown/scripts.inc#OldaleTown_Text_ThisIsAPokemonMart", "th": "ที่นี่คือโปเกมาร์ทครับ สังเกตหลังคาสีฟ้าได้เลย\\p ร้านเรามีสินค้าหลากหลาย รวมถึง POKé BALL สำหรับจับโปเกมอนด้วยครับ\\p นี่ครับ ขอมอบชิ้นนี้ให้เป็นของแถมโปรโมชั่นครับ$"}
-{"id": "data/maps/OldaleTown/scripts.inc#OldaleTown_Text_PotionExplanation", "th": "POTION ใช้ได้ทุกเมื่อเลยครับ\\p ในบางสถานการณ์ มันจึงมีประโยชน์ยิ่งกว่าโปเกมอนเซ็นเตอร์เสียอีก$"}
-{"id": "data/maps/OldaleTown/scripts.inc#OldaleTown_Text_WaitDontComeInHere", "th": "อ๊ากกก! เดี๋ยวก่อน! อย่าเพิ่งเข้ามานะ\\p ผมเพิ่งเจอรอยเท้าของโปเกมอนหายาก!\\p รอให้ผมวาดรอยเท้าเสร็จก่อนนะ โอเค?$"}
-{"id": "data/maps/OldaleTown/scripts.inc#OldaleTown_Text_DiscoveredFootprints", "th": "ผมเพิ่งเจอรอยเท้าของโปเกมอนหายาก!\\p รอให้ผมวาดรอยเท้าเสร็จก่อนนะ โอเค?$"}
-{"id": "data/maps/OldaleTown/scripts.inc#OldaleTown_Text_FinishedSketchingFootprints", "th": "ผมวาดรอยเท้าของโปเกมอนหายากเสร็จแล้ว\\p แต่กลายเป็นว่ามันคือรอยเท้าของผมเอง…$"}
-{"id": "data/maps/OldaleTown/scripts.inc#OldaleTown_Text_MayLetsGoBack", "th": "ฮารุกะ: {PLAYER}{KUN}! ทางนี้! รีบกลับบ้านกันเถอะ!$"}
-{"id": "data/maps/OldaleTown/scripts.inc#OldaleTown_Text_BrendanLetsGoBack", "th": "ยูกิ: ผมจะกลับไปแล็บของพ่อแล้วนะ {PLAYER} รีบกลับไปด้วยล่ะ$"}
-{"id": "data/maps/OldaleTown/scripts.inc#OldaleTown_Text_TownSign", "th": "เมืองโคโทกิ “จุดเริ่มต้นจากความเรียบง่าย”$"}
-{"id": "data/maps/OldaleTown_House1/scripts.inc#OldaleTown_House1_Text_LeftPokemonGoesOutFirst", "th": "พอเริ่มการต่อสู้ โปเกมอนตัวที่อยู่ซ้ายสุดของรายชื่อจะออกไปก่อน\\p เพราะฉะนั้นถ้ามีโปเกมอนในทีมมากขึ้น ลองสลับลำดับโปเกมอนดูนะ\\p อาจทำให้ได้เปรียบก็ได้$"}
-{"id": "data/maps/OldaleTown_House2/scripts.inc#OldaleTown_House2_Text_PokemonLevelUp", "th": "เมื่อโปเกมอนต่อสู้ไปเรื่อย ๆ ก็จะเลเวลอัปและแข็งแกร่งขึ้นจ้ะ$"}
-{"id": "data/maps/OldaleTown_House2/scripts.inc#OldaleTown_House2_Text_YoullGoFurtherWithStrongPokemon", "th": "ถ้าโปเกมอนของเราแข็งแกร่งขึ้น ก็จะเดินทางไปได้ไกลกว่านี้นะ$"}
-{"id": "data/maps/OldaleTown_Mart/scripts.inc#OldaleTown_Mart_Text_PokeBallsAreSoldOut", "th": "พนักงานบอกว่าของหมดเกลี้ยงเลย ซื้อ POKé BALL ไม่ได้สักลูก$"}
-{"id": "data/maps/OldaleTown_Mart/scripts.inc#OldaleTown_Mart_Text_ImGoingToBuyPokeBalls", "th": "ฉันจะซื้อ POKé BALL เยอะ ๆ แล้วจับโปเกมอนให้เพียบเลย!$"}
-{"id": "data/maps/OldaleTown_Mart/scripts.inc#OldaleTown_Mart_Text_RestoreHPWithPotion", "th": "ถ้าโปเกมอนบาดเจ็บจน HP หมดและหมดสภาพ มันจะต่อสู้ไม่ได้\\p ถ้าไม่อยากให้โปเกมอนหมดสภาพ ก็ใช้ POTION ฟื้น HP ให้มันสิ$"}
-{"id": "data/maps/OldaleTown_PokemonCenter_1F/scripts.inc#OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC", "th": "PC ตรงมุมนั้น เทรนเนอร์โปเกมอนทุกคนใช้ได้\\p แน่นอนว่าคุณเองก็ใช้ได้เช่นกันครับ$"}
-{"id": "data/maps/OldaleTown_PokemonCenter_1F/scripts.inc#OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat", "th": "โปเกมอนเซ็นเตอร์นี่สุดยอดไปเลย!\\p ใช้บริการได้ตามใจชอบ แถมฟรีทั้งหมดด้วย ไม่ต้องห่วงอะไรเลย!$"}
-{"id": "data/maps/OldaleTown_PokemonCenter_1F/scripts.inc#OldaleTown_PokemonCenter_1F_Text_WirelessClubNotAvailable", "th": "คลับไร้สายโปเกมอนที่ชั้นสองเพิ่งสร้างเสร็จไม่นานนี้\\p แต่ได้ยินว่ายังปรับปรุงระบบกันอยู่เลยล่ะ$"}
-{"id": "data/maps/OldaleTown_PokemonCenter_1F/scripts.inc#OldaleTown_PokemonCenter_1F_Text_TradedInWirelessClub", "th": "คลับไร้สายโปเกมอนที่ชั้นสองเพิ่งสร้างเสร็จไม่นานนี้\\p ฉันแลกเปลี่ยนโปเกมอนทันทีเลยล่ะ$"}
-{"id": "data/maps/PacifidlogTown/scripts.inc#PacifidlogTown_Text_FastRunningCurrent", "th": "ทะเลระหว่างคินางิกับไคนะมีกระแสน้ำไหลเชี่ยวมาก\\p ถ้าคิดจะใช้ SURF ล่ะก็ อาจโดนพัดไปที่ไหนก็ไม่รู้นะ$"}
-{"id": "data/maps/PacifidlogTown/scripts.inc#PacifidlogTown_Text_NeatHousesOnWater", "th": "นี่ เจ๋งใช่ไหมล่ะ? บ้านพวกนี้ลอยอยู่บนน้ำ!\\p ผมเกิดที่นี่แหละ!$"}
-{"id": "data/maps/PacifidlogTown/scripts.inc#PacifidlogTown_Text_SkyPillarTooScary", "th": "เสาแห่งท้องฟ้าเหรอ?\\p…อ๋อ คงหมายถึงหอคอยสูงลิบที่อยู่ห่างออกไปหน่อยนั่นสินะ\\p ถ้าถามลุงนะ ลุงไม่ปีนหรอก ขึ้นไปสูงขนาดนั้นน่ากลัวจะตาย\\p ใช้ชีวิตระดับน้ำทะเลที่คินางิ แค่นี้ลุงก็พอใจแล้ว$"}
-{"id": "data/maps/PacifidlogTown/scripts.inc#PacifidlogTown_Text_TownSign", "th": "เมืองคินางิ\\p“เมืองที่แสงอรุณยิ้มให้ผืนน้ำ”$"}
-{"id": "data/maps/PacifidlogTown_House1/scripts.inc#PacifidlogTown_House1_Text_RegiStory", "th": "ว่ากันว่าในภูมิภาคโฮเอ็น มีโปเกมอนสามตัวที่เป็นตัวแทนพลังของหิน น้ำแข็ง และเหล็ก\\p แต่ละตัวซ่อนตัวอยู่ลึกเข้าไปในถ้ำ\\p เป็นเรื่องที่ผมได้ฟังมาตั้งแต่ยังเด็ก ๆ น่ะ$"}
-{"id": "data/maps/PacifidlogTown_House1/scripts.inc#PacifidlogTown_House1_Text_SixDotsOpenThreeDoors", "th": "“จุดหกจุดเปิดประตูสามบาน”\\p คุณปู่ชอบพูดแบบนั้น แต่ฉันก็ไม่รู้ว่าหมายความว่าอะไร$"}
-{"id": "data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_ChairmansYoungerBrotherOnVacation", "th": "เอะแฮ่ม!\\p กระผมคือบุคคลสำคัญที่สุดของแฟนคลับโปเกมอน… น้องชายของท่านประธานนั่นเอง\\p กระผมมาพักร้อนกับโปเกมอนที่นี่ ใช่แล้ว แน่นอน$"}
-{"id": "data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_AhYourPokemon", "th": "อ๊ะ! โปเกมอนของคุณ…$"}
-{"id": "data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_AdoringPokemonTakeThis", "th": "ดูออกเลยว่ามันรักคุณมาก\\p โปเกมอนที่ทั้งรักเจ้านายและน่ารักขนาดนี้ สมควรได้ TM แบบนี้ ว่าไหมครับ?$"}
-{"id": "data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_PutInSomeMoreEffort", "th": "อืม… ไม่แย่ แต่ก็ไม่ดีเหมือนกัน\\p คุณในฐานะเทรนเนอร์ต้องพยายามให้มากกว่านี้อีกหน่อยนะครับ$"}
-{"id": "data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_ViciousPokemonTakeThis", "th": "หน้าตามันดุร้ายน่าดู\\p โปเกมอนน่ากลัวแบบนั้น สมควรได้ TM แบบนี้ครับ$"}
-{"id": "data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_ExplainReturnFrustration", "th": "ถ้าโปเกมอนรักคุณมาก ท่า RETURN จะมีพลังแรงขึ้น\\p ถ้ามันไม่ชอบคุณ ท่า FRUSTRATION จะแรงขึ้นแทนครับ$"}
-{"id": "data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_GetGoodTMInXDays", "th": "อ้อ ใช่ ๆ อีกราว ๆ {STR_VAR_1} วัน กระผมน่าจะได้ TM ดี ๆ มาสักแผ่นสองแผ่น\\p ถึงตอนนั้นแวะมาหากระผมนะครับ จะให้ TM ที่เหมาะกับโปเกมอนของคุณ$"}
-{"id": "data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_Rurii", "th": "รูริริ: รูรี่$"}
-{"id": "data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_VeryFriendlyWithTrainer", "th": "ดูเหมือนมันจะสนิทกับเทรนเนอร์มาก$"}
-{"id": "data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_Rururi", "th": "รูริริ: รูรูริ!$"}
-{"id": "data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_DoesntLikeTrainerVeryMuch", "th": "ดูเหมือนมันจะไม่ค่อยชอบเทรนเนอร์เท่าไหร่$"}
-{"id": "data/maps/PacifidlogTown_House3/scripts.inc#PacifidlogTown_House3_Text_WillingToTradeIt", "th": "ดู {STR_VAR_2} ตัวนี้สิ!\\p นี่คือ {STR_VAR_2} ที่ผมจับได้เมื่อวาน ฉลองวันเกิดตัวเองเลยนะ!\\p อ้าว เห็นเลยว่าอยากได้ล่ะสิ! ก็แน่ล่ะ มันประเมินค่าไม่ได้นี่!\\p งั้นเอาอย่างนี้ ผมอาจจะยอมแลกกับ {STR_VAR_1} ก็ได้นะ$"}
-{"id": "data/maps/PacifidlogTown_House3/scripts.inc#PacifidlogTown_House3_Text_ItsSubtlyDifferentThankYou", "th": "โอ้ นี่คือ {STR_VAR_1} เหรอ?\\p คล้าย ๆ {STR_VAR_2} อยู่นะ แต่ก็ต่างกันนิดหน่อย\\p ขอบคุณมาก!$"}
-{"id": "data/maps/PacifidlogTown_House3/scripts.inc#PacifidlogTown_House3_Text_WontAcceptAnyLessThanRealMon", "th": "ไม่ ไม่ ไม่! ถ้าไม่ใช่ {STR_VAR_1} ของแท้ ผมไม่รับหรอก!$"}
-{"id": "data/maps/PacifidlogTown_House3/scripts.inc#PacifidlogTown_House3_Text_NotDesperateOrAnything", "th": "อ้าว ไม่แลกแล้วเหรอ?\\p ไม่เป็นไร ผมก็ไม่ได้อยากแลกขนาดนั้นหรอก$"}
-{"id": "data/maps/PacifidlogTown_House3/scripts.inc#PacifidlogTown_House3_Text_ReallyWantedToGetBagon", "th": "ผมรู้ว่าจะออกไปหาเองก็ได้ แต่ว่า…\\p ผมอยากได้ทัตสึเบย์ที่เทรนเนอร์คนอื่นจับมาจริง ๆ นี่นา…$"}
-{"id": "data/maps/PacifidlogTown_House3/scripts.inc#PacifidlogTown_House3_Text_IsThatAPokedex", "th": "นั่นโปเกเด็กซ์เหรอ?\\p ได้เจอโปเกมอนหลาย ๆ แบบเลยใช่ไหม?\\p อยากเป็นแบบเธอบ้างจัง$"}
-{"id": "data/maps/PacifidlogTown_House4/scripts.inc#PacifidlogTown_House4_Text_PeopleSawHighFlyingPokemon", "th": "มีคนบอกว่าเห็นโปเกมอนตัวหนึ่งบินอยู่สูงเหนือโฮเอ็น\\p มันบินอยู่ตลอดเวลาเลยเหรอ? ไม่ต้องพักที่ไหนบ้างเลยหรือไง?$"}
-{"id": "data/maps/PacifidlogTown_House4/scripts.inc#PacifidlogTown_House4_Text_SkyPokemon", "th": "โปเกมอนท้องฟ้า! โปเกมอนท้องฟ้า!$"}
-{"id": "data/maps/PacifidlogTown_House4/scripts.inc#PacifidlogTown_House4_Text_WhereDidYouComeFrom", "th": "เธอมาจากไหนเหรอ?$"}
-{"id": "data/maps/PacifidlogTown_House4/scripts.inc#PacifidlogTown_House4_Text_YesTown", "th": "ใช่? เมืองใช่เหรอ?\\p ไม่เคยได้ยินชื่อที่แบบนั้นเลยนะ$"}
-{"id": "data/maps/PacifidlogTown_House4/scripts.inc#PacifidlogTown_House4_Text_YouHaveToComeFromSomewhere", "th": "ไม่ใช่? ไม่เห็นเข้าใจเลย ยังไงก็ต้องมาจากที่ไหนสักแห่งสิ\\p อ๊ะ! เดี๋ยวนะ! อย่าบอกนะว่าเกิดที่ก้นทะเลน่ะ?$"}
-{"id": "data/maps/PacifidlogTown_House5/scripts.inc#PacifidlogTown_House5_Text_CantSeeMirageIslandToday", "th": "วันนี้มองไม่เห็นเกาะมายาเลย…$"}
-{"id": "data/maps/PacifidlogTown_House5/scripts.inc#PacifidlogTown_House5_Text_CanSeeMirageIslandToday", "th": "โอ้! โอ้โห! วันนี้มองเห็นเกาะมายาด้วย!$"}
-{"id": "data/maps/PacifidlogTown_House5/scripts.inc#PacifidlogTown_House5_Text_MirageIslandAppearDependingOnWeather", "th": "เกาะมายา…\\p มันคงปรากฏและหายไปตามสภาพอากาศที่ทำให้เกิดภาพลวงตา\\p หรือว่ามันปรากฏและหายไปจริง ๆ กันนะ?$"}
-{"id": "data/maps/PacifidlogTown_PokemonCenter_1F/scripts.inc#PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard", "th": "บัตรเทรนเนอร์ของเธอสีอะไรเหรอ? ของฉันสีทองแดงล่ะ!$"}
-{"id": "data/maps/PacifidlogTown_PokemonCenter_1F/scripts.inc#PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola", "th": "เมืองคินางิลอยอยู่บนฝูงซันนีโกะนะ\\p ถ้าฉันบอกแบบนี้ เธอจะเชื่อไหม?$"}
-{"id": "data/maps/PacifidlogTown_PokemonCenter_1F/scripts.inc#PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats", "th": "ว่ากันว่าบรรพบุรุษของชาวคินางิเกิดบนเรือ ใช้ชีวิตและตายบนเรือ\\p ข้าเข้าใจว่าที่พวกเขาใช้ชีวิตแบบนั้น ก็เพราะกำลังตามหาอะไรบางอย่างอยู่$"}
-{"id": "data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_WhereIsWally", "th": "มิตสึรุของเราหายไปไหนนะ?\\p เราต้องออกเดินทางไปเมืองชิดาเกะในอีกไม่ช้านี้แล้ว…$"}
-{"id": "data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_AreYouRookieTrainer", "th": "หวัดดี! นี่เธอเป็น… เทรนเนอร์มือใหม่รึเปล่า?\\p รู้ไหมว่าเทรนเนอร์โปเกมอนทำอะไรก่อน เวลามาถึงเมืองใหม่?\\p อย่างแรก พวกเขาจะไปดูว่าในเมืองมียิมแบบไหน$"}
-{"id": "data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_ThisIsPetalburgGym", "th": "เห็นไหม? นี่แหละยิมของเมืองโทกะ$"}
-{"id": "data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_ThisIsGymSign", "th": "นี่คือป้ายของยิม เวลาหายิมก็มองหาป้ายนี้นะ$"}
-{"id": "data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_WaterReflection", "th": "ใบหน้าผมสะท้อนอยู่ในน้ำ\\p เป็นรอยยิ้มสดใสเปี่ยมด้วยความหวัง…\\p หรืออาจเป็นสีหน้าเงียบขรึมที่กำลังต่อสู้กับความกลัว…\\p เธอเห็นอะไรสะท้อนอยู่บนใบหน้าตัวเองบ้าง?$"}
-{"id": "data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_FullPartyExplanation", "th": "สมมติว่าคุณมีโปเกมอนหกตัว แล้วจับได้อีกตัว…\\p มันจะถูกส่งไปยังกล่องเก็บผ่านการเชื่อมต่อ PC โดยอัตโนมัติครับ$"}
-{"id": "data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_GymSign", "th": "ยิมโปเกมอนเมืองโทกะ หัวหน้ายิม: เซ็นริ “ชายผู้ไล่ตามความแข็งแกร่ง!”$"}
-{"id": "data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_CitySign", "th": "เมืองโทกะ “เมืองที่ผู้คนอยู่ร่วมกับธรรมชาติ”$"}
-{"id": "data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_WallyHouseSign", "th": "บ้านของมิตสึรุ$"}
-{"id": "data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_AreYouATrainer", "th": "ขอโทษนะครับ!\\p ขอเดาจากการแต่งตัว คุณเป็นเทรนเนอร์โปเกมอนใช่ไหมครับ?$"}
-{"id": "data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_WellMaybeNot", "th": "… … … … … …\\p อืม บางทีอาจจะไม่ใช่ เสื้อผ้ายังไม่ค่อยเลอะเท่าไหร่เลย\\p คุณอาจเป็นเทรนเนอร์มือใหม่ หรือไม่ก็เด็กธรรมดาทั่วไปนะ$"}
-{"id": "data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_ImLookingForTalentedTrainers", "th": "ผมกำลังท่องไปทั่วเพื่อตามหาเทรนเนอร์ที่มีพรสวรรค์\\p ขอโทษที่รบกวนเวลานะครับ$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadYoureHereWithYourPokemon", "th": "พ่อ: หืม?\\p นั่น {PLAYER} นี่นา! ย้ายบ้านเสร็จเรียบร้อยแล้วเหรอ?\\p พ่อแปลกใจนะที่ลูกมาถึงที่นี่ได้คนเดียว\\p อ้อ เข้าใจแล้ว ลูกมากับโปเกมอนนี่เอง\\p หืม… งั้นลูกคงจะเป็นเทรนเนอร์เหมือนพ่อสินะ {PLAYER}\\p ข่าวดีจริง ๆ! พ่อจะรอดูนะ!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_WallyIdLikeAPokemon", "th": "เอ่อ… ผม… ผมอยากได้โปเกมอนสักตัวครับ…$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadOhYoureWallyRight", "th": "พ่อ: หืม? เธอคือ… เอ่อ… อ้อ ใช่ เธอคือมิตสึรุใช่ไหม?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_WallyIveNeverCaughtAPokemon", "th": "มิตสึรุ: ผมจะไปอยู่กับญาติที่เมืองชิดาเกะครับ\\p ผมคิดว่าอยู่คนเดียวคงเหงา เลยอยากพาโปเกมอนไปด้วยสักตัว\\p แต่ผมไม่เคยจับโปเกมอนมาก่อนเลย ไม่รู้ว่าต้องทำยังไง…$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadHmISee", "th": "พ่อ: อืม เข้าใจแล้ว$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadPlayerGoWithWally", "th": "พ่อ: {PLAYER} ได้ยินแล้วใช่ไหม?\\p ไปกับมิตสึรุ ดูแลให้เขาจับโปเกมอนได้อย่างปลอดภัยนะ$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_IllLoanYouMyZigzagoon", "th": "มิตสึรุ เอ้า ผมจะให้ยืมโปเกมอนของผม\\p มิตสึรุได้รับจิกุซากุมะ!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_WallyThankYouAndDadGivesPokeBall", "th": "มิตสึรุ: ว้าว! โปเกมอน!\\p พ่อ: อืม ผมจะให้ POKé BALL ด้วย สู้เขานะ!\\p มิตสึรุได้รับ POKé BALL!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_WallyOhWowThankYou", "th": "มิตสึรุ: ว้าว! ขอบคุณครับ!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_WouldYouReallyComeWithMe", "th": "{PLAYER}… จะไปกับผมจริง ๆ เหรอครับ?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadSoDidItWorkOut", "th": "พ่อ: เป็นยังไงบ้าง ได้ผลไหม?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_WallyThankYouBye", "th": "มิตสึรุ: ได้ครับ ขอบคุณมากครับ นี่ครับ คืนโปเกมอนให้\\p{PLAYER} ขอบคุณที่ไปเป็นเพื่อนผมนะครับ\\p เพราะมีทั้งสองคน ผมถึงจับโปเกมอนได้\\p ผมสัญญาว่าจะดูแลมันอย่างดีเลยครับ\\p อ๊ะ! แม่รอผมอยู่ ผมต้องไปแล้วครับ!\\p ลาก่อนนะครับ {PLAYER}!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadGoCollectBadges", "th": "พ่อ: เอาล่ะ…\\p{PLAYER} ถ้าลูกอยากเป็นเทรนเนอร์ที่แข็งแกร่ง พ่อมีคำแนะนำ\\p มุ่งหน้าไปเมืองคานาซุมิที่อยู่ถัดจากเมืองนี้ไป\\p ที่นั่น ลูกควรท้าสู้หัวหน้ายิม สึสึจิ\\p จากนั้นก็ไปยิมโปเกมอนอื่น ๆ แล้วเอาชนะหัวหน้ายิมเหล่านั้น\\p สะสมเข็มกลัดจากพวกเขา เข้าใจไหม?\\p แน่นอน พ่อเองก็เป็นหัวหน้ายิม สักวันเราจะได้สู้กัน {PLAYER}\\p แต่นั่นต้องหลังจากที่ลูกแข็งแกร่งขึ้นแล้วนะ$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanGoToRustboro", "th": "พ่อ: หืม? ลูกไม่ไปยิมโปเกมอนที่เมืองคานาซุมิหรือ?\\p สู้กับเทรนเนอร์มือใหม่ไม่ได้ท้าทายอะไรพ่อเลย\\p{PLAYER} พ่ออยากให้ลูกมาท้าพ่อตอนที่แข็งแกร่งขึ้นอีกมาก\\p พ่อจะสู้กับลูก {PLAYER} เมื่อลูกมีเข็มกลัดยิมสี่อันมาให้พ่อดู ตกลงไหม?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanGoToDewford", "th": "พ่อ: อย่างนี้นี่เอง… ลูกชนะหัวหน้ายิมที่เมืองคานาซุมิแล้วสินะ\\p แต่ยังมีเทรนเนอร์อีกมากที่แข็งแกร่งกว่าลูก {PLAYER}\\p ข้ามทะเลไปที่เมืองมุโระ มีหัวหน้ายิมชื่อโทคิอยู่\\p ลูกควรไปท้าสู้เขาดู$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_YouHaveGottenStronger", "th": "พ่อ: หืม… {PLAYER} ลูกแข็งแกร่งขึ้นแล้ว\\p ดูได้จากจำนวนเข็มกลัดที่ลูกได้มา$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanIntro", "th": "พ่อ: หืม… ลูกได้เข็มกลัดยิมครบสี่อันจริง ๆ สินะ\\p ดี ตามที่สัญญาไว้ เราจะสู้กันด้วยโปเกมอน\\p{PLAYER}…\\p พ่อดีใจมากที่ได้สู้จริงจังกับลูกของตัวเอง\\p แต่การต่อสู้ก็คือการต่อสู้!\\p พ่อจะทุ่มสุดตัวในฐานะหัวหน้ายิมเพื่อเอาชนะ\\p{PLAYER} ลูกเองก็ทุ่มให้สุดฝีมือด้วยล่ะ!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanDefeat", "th": "…\\p พ่อ… พ่อ…\\p ไม่อยากเชื่อเลย {PLAYER}…\\p พ่อแพ้ {PLAYER} งั้นหรือ?\\p แต่กฎก็คือกฎ! เอ้า รับไปสิ$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ReceivedBalanceBadge", "th": "{PLAYER} ได้รับเข็มกลัดบาลานซ์จากพ่อ!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ExplainBalanceBadgeTakeThis", "th": "พ่อ: เข็มกลัดนั้นจะทำให้พลังป้องกันของโปเกมอนทุกตัวเพิ่มขึ้น\\p และโปเกมอนที่รู้ท่า HM อย่าง SURF จะเดินทางบนผิวน้ำได้\\p นี่คือของขวัญจากพ่อ {PLAYER} พ่อเชื่อว่าลูกจะใช้มันได้อย่างถูกต้อง$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ExplainFacade", "th": "พ่อ: TM42 คือท่า FACADE\\p ถ้าโปเกมอนติดพิษ อัมพาต หรือแผลไหม้ พลังของท่าจะเพิ่มเป็นสองเท่า\\p มันอาจพลิกสถานการณ์ร้ายให้กลายเป็นความได้เปรียบได้$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadHappyAndSad", "th": "พ่อ: ในฐานะหัวหน้ายิม พ่อเจ็บใจจนพูดไม่ออก…\\p แต่ในฐานะพ่อ พ่อทั้งดีใจและใจหายนิด ๆ แปลกดีนะ…$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_PleaseComeWithMe", "th": "อ้อ อยู่นี่เอง {PLAYER}{KUN}!\\p ช่วยมากับฉันหน่อยนะ ฉันมีของที่อยากให้$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_LetMeBorrowPlayer", "th": "เซ็นริ ไม่ว่าอะไรใช่ไหมครับ?\\p ขอยืมตัว {PLAYER}{KUN} ของคุณสักครู่นะครับ$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadGoingToKeepTraining", "th": "พ่อ: {PLAYER} หมั่นไปเยี่ยมแม่บ้างนะ\\p พ่อจะอยู่ที่นี่ แล้วฝึกฝนให้หนักกว่าเดิมเป็นเท่าตัว\\p ในฐานะเทรนเนอร์ ถ้าไม่ได้แก้มือที่แพ้ลูก พ่อคงนอนไม่หลับ {PLAYER}!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadNoAmountOfTrainingIsEnough", "th": "พ่อ: {PLAYER} เป็นยังไงบ้าง?\\p โลกของโปเกมอนนั้นลึกซึ้งนัก\\p พ่อคิดจริง ๆ ว่าต่อให้ฝึกเท่าไหร่ก็ไม่มีวันพอ$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GymGuideAdvice", "th": "เฮ้ เป็นไงบ้าง {PLAYER} ว่าที่แชมเปี้ยน!\\p ประตูในยิมนี้จะเปิดเมื่อชนะเทรนเนอร์ที่รออยู่\\p อุ๊ย! ประตูห้องนี้เปิดอยู่แล้ว เพราะงั้นอย่ามาโจมตีผมนะ!\\p เทรนเนอร์ของยิมโทกะใช้ไอเท็มสารพัดแบบ\\p ประตูทางซ้ายไปห้องความเร็ว\\p ประตูทางขวาไปห้องความแม่นยำ\\p ชื่อห้องจะเขียนไว้ที่ประตู เลือกให้ดีล่ะ\\p พอเลือกประตูได้แล้ว… เอาเลย สู้ ๆ นะ!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GymGuidePostVictory", "th": "{PLAYER}! โห! ชนะได้แม้แต่พ่อตัวเองเลยเหรอ!\\p โอ้โห! เหตุการณ์พลิกล็อกสุด ๆ!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_RandallIntro", "th": "ความสามารถในการโจมตีก่อนคู่ต่อสู้…\\p แค่นั้นก็ทำให้ผมได้เปรียบมหาศาลแล้ว ว่าไหม?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_RandallDefeat", "th": "เป็นการต่อสู้ที่ยอดเยี่ยมมาก!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_RandallPostBattle", "th": "ไปห้องถัดไปเถอะ มีการท้าทายใหม่รออยู่\\p ทางซ้ายคือห้องสับสน\\p ประตูทางขวาไปห้องป้องกัน$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_RandallPostBadge", "th": "ไม่ว่าจะชนะใคร หรืออาจแพ้ใคร ก็ไม่เคยละทิ้งการฝึกฝนตัวเองและโปเกมอน\\p ผมคิดว่านั่นแหละคือหัวใจของการเป็นหัวหน้ายิม$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ParkerIntro", "th": "ที่นี่คือห้องสับสน\\p ขอดูหน่อยว่าเธอผูกพันกับโปเกมอนแค่ไหน!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ParkerDefeat", "th": "ทำให้ทีมเธอสับสนไม่พอ… พวกเธอผูกพันกันแน่นแฟ้นจริง ๆ$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ParkerPostBattle", "th": "ห้องถัดไปคือห้องพลัง ทนแรงปะทะดิบ ๆ ไหวไหมล่ะ?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ParkerPostBadge", "th": "หลังจากเธอชนะหัวหน้าของเรา การฝึกก็โหดขึ้นอีกเยอะเลย$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GeorgeIntro", "th": "ตอนที่คิดว่ากำลังจะชนะ คู่ต่อสู้ก็ฟื้น HP ซะงั้น…\\p นึกออกไหมว่ามันรู้สึกแย่แค่ไหน?\\p ผมจะให้เธอรู้เองว่ามันแย่ขนาดไหน!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GeorgeDefeat", "th": "ฟื้น HP ไม่ทัน… พลังโจมตีอะไรขนาดนี้…$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GeorgePostBattle", "th": "น่าจะรู้อยู่แล้วว่าลูกของหัวหน้าเราต้องไม่ธรรมดา\\p ไม่สิ! ฝีมือของเทรนเนอร์ได้มาจากความพยายามเท่านั้น\\p ผมแพ้เพราะความพยายามของผมยังไม่พอ\\p ไปต่อเถอะ! ห้องถัดไปคือห้องน็อกในทีเดียว$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GeorgePostBadge", "th": "ผมจะฝึกฝนที่ยิมต่อไป สักวันผมจะเป็นหัวหน้ายิมให้ได้$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_BerkeIntro", "th": "ถึงจะเป็นลูกของหัวหน้าเรา ผมก็ไม่ออมมือหรอก\\p จะให้ดูว่าโปเกมอนโดนคริติคอลมันน่ากลัวแค่ไหน!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_BerkeDefeat", "th": "พลังของเธอ… ของจริงเลยนี่$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_BerkePostBattle", "th": "พ่อของเธอแข็งแกร่งจริง ๆ เป็นเทรนเนอร์ที่ผมนับถือ\\p และผมก็รู้สึกได้ถึงประกายแบบเดียวกับพ่อเธอจากตัวเธอ\\p หวังว่าเธอจะได้สู้กับพ่ออย่างสุดมันนะ!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_BerkePostBadge", "th": "ตั้งแต่พ่อของเธอมาเป็นหัวหน้ายิม เทรนเนอร์ในเมืองโทกะก็เก่งขึ้นเยอะเลย$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_MaryIntro", "th": "คิกคิก… ที่นี่คือห้องความแม่นยำ\\p เวลาทุกการโจมตีเข้าเป้าไม่มีพลาด มันร้ายกาจน่าดูเลยนะ$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_MaryDefeat", "th": "เธอเหนือกว่าฉันขั้นหนึ่งจริง ๆ…$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_MaryPostBattle", "th": "ยังมีเทรนเนอร์ที่แข็งแกร่งกว่านี้รอเธออยู่อีกนะ\\p ซ้ายคือห้องป้องกัน ขวาคือห้องฟื้นฟู\\p ไม่ว่าทางไหน พลังโจมตีของโปเกมอนเธอจะถูกทดสอบแน่นอน$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_MaryPostBadge", "th": "รู้ไหมว่าพวกเราในฐานะเทรนเนอร์พยายามไปให้ถึงอะไร?\\p เราพยายามจะเป็นคู่ใจที่รู้ใจกันกับโปเกมอนของเรายังไงล่ะ$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_AlexiaIntro", "th": "ยิ่งพลังป้องกันสูง ฉันก็ยิ่งบุกได้บ้าระห่ำขึ้น$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_AlexiaDefeat", "th": "การป้องกันของเรายังไม่พอ…$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_AlexiaPostBattle", "th": "เธอสอนบทเรียนล้ำค่าให้ฉันเลยนะ\\p ไปต่อเถอะ! ประตูซ้ายไปห้องพลัง\\p ประตูขวาเปิดสู่ห้องน็อกในทีเดียว\\p ทั้งสองห้องมีเทรนเนอร์ที่ถนัดการบุก$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_AlexiaPostBadge", "th": "หวัดดี! ลองใช้ท่า SURF ดูหรือยัง?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_JodyIntro", "th": "หัวหน้ายิมของเราสั่งให้ทุ่มสุดตัวเพื่อชนะเธอ\\p ถึงเธอจะเป็นลูกของหัวหน้าก็ตาม!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_JodyDefeat", "th": "แต่… ฉันทุ่มสุดตัวแล้วนะ!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_JodyPostBattle", "th": "วิธีที่เธอใช้โปเกมอน… เหมือนสไตล์ของพ่อเธอเลย\\p ผ่านไปได้! หัวหน้ายิม พ่อของเธอกำลังรออยู่!$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_JodyPostBadge", "th": "การทำให้โปเกมอนแข็งแกร่งขึ้นก็เป็นเรื่องดีนะ\\p แต่อะไรที่ตัดสินผู้ชนะล่ะ?\\p ก็ความรู้สึกที่เทรนเนอร์มีต่อโปเกมอนของตัวเองยังไงล่ะ$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DoorAppearsLocked", "th": "ดูเหมือนตอนนี้ประตูนี้จะล็อกอยู่…$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterSpeedRoom", "th": "ป้ายเขียนว่า “ห้องความเร็ว”\\p จะเข้าไปหรือไม่?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DoorAppearsLocked2", "th": "ดูเหมือนตอนนี้ประตูนี้จะล็อกอยู่…$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterAccuracyRoom", "th": "ป้ายเขียนว่า “ห้องความแม่นยำ”\\p จะเข้าไปหรือไม่?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterConfusionRoom", "th": "ป้ายเขียนว่า “ห้องสับสน”\\p จะเข้าไปหรือไม่?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterDefenseRoom", "th": "ป้ายเขียนว่า “ห้องป้องกัน”\\p จะเข้าไปหรือไม่?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterRecoveryRoom", "th": "ป้ายเขียนว่า “ห้องฟื้นฟู”\\p จะเข้าไปหรือไม่?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterStrengthRoom", "th": "ป้ายเขียนว่า “ห้องพลัง”\\p จะเข้าไปหรือไม่?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterOHKORoom", "th": "ป้ายเขียนว่า “ห้องน็อกในทีเดียว”\\p จะเข้าไปหรือไม่?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterGymLeadersRoom", "th": "ป้ายเขียนว่า “ห้องหัวหน้ายิม”\\p“มาดูด้วยตาตัวเองว่ามีโปเกมอนแบบไหนรออยู่!”\\p จะเข้าไปหรือไม่?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GymStatue", "th": "ยิมโปเกมอนเมืองโทกะ$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GymStatueCertified", "th": "ยิมโปเกมอนเมืองโทกะ\\p เทรนเนอร์ที่เซ็นริรับรอง: {PLAYER}$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanPreRematch", "th": "พ่อ: {PLAYER}… พ่อรู้สึกอยู่แล้วว่าลูกจะมา\\p พ่อไม่มีวันปฏิเสธคำท้าจากลูกหรอก\\p ลูกเข้าใจใช่ไหม?\\p ในยิม ไม่สำคัญหรอกว่าเราเป็นพ่อลูกกัน\\p…ไม่สิ เพราะเราเป็นพ่อลูกกัน เราจึงต้องสู้กันให้เต็มที่ ใช่ไหม {PLAYER}?$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanRematchDefeat", "th": "เอ่อ… ฮ่า ๆ… สงสัยพ่อจะทุ่มเกินตัวไปหน่อย…$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanPostRematch", "th": "พ่อ: {PLAYER}… ความฝันของลูกคืออะไร?\\p ความฝันของพ่อน่ะหรือ… ฮ่ะฮ่ะฮ่ะ… ที่จริงมันเป็นจริงไปแล้วล่ะ$"}
-{"id": "data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanRematchNeedTwoMons", "th": "พ่อ: {PLAYER}… พ่อรู้สึกอยู่แล้วว่าลูกจะมา\\p พ่อไม่มีวันปฏิเสธคำท้าจากลูกหรอก\\p ลูกเข้าใจใช่ไหม?\\p ในยิม ไม่สำคัญหรอกว่าเราเป็นพ่อลูกกัน\\p หืม? เดี๋ยวก่อน {PLAYER}\\p ลูกมีโปเกมอนที่สู้ได้แค่ตัวเดียวหรือ?\\p ขอโทษนะ แต่ลูกต้องกลับมาพร้อมโปเกมอนอย่างน้อยสองตัว$"}
-{"id": "data/maps/PetalburgCity_House1/scripts.inc#PetalburgCity_House1_Text_TravelingIsWonderful", "th": "การเดินทางนี่วิเศษจริง ๆ!\\p ตอนหนุ่ม ๆ ข้าท่องไปทั้งทะเลและภูเขาเลยนะ!$"}
-{"id": "data/maps/PetalburgCity_House1/scripts.inc#PetalburgCity_House1_Text_GoOnAdventure", "th": "เฮ้อ…\\p อยากออกผจญภัยกับโปเกมอนบ้างจัง…\\p คลานผ่านพงหญ้าชื้น ๆ… ปีนภูเขาหินขรุขระ…\\p ข้ามทะเลคลั่ง… เดินเตร่ในถ้ำมืด ๆ…\\p แล้วบางทีก็คิดถึงบ้านนิด ๆ…\\p การเดินทางคงสนุกสุดยอดไปเลย!$"}
-{"id": "data/maps/PetalburgCity_House2/scripts.inc#PetalburgCity_House2_Text_NormanBecameGymLeader", "th": "เซ็นริได้เป็นหัวหน้ายิมคนใหม่ของเมืองเรา\\p ได้ยินว่าเขาย้ายครอบครัวมาจากที่ไกล ๆ ด้วยนะ$"}
-{"id": "data/maps/PetalburgCity_House2/scripts.inc#PetalburgCity_House2_Text_BattledNormanOnce", "th": "ผมเคยสู้กับเซ็นริครั้งหนึ่ง แต่โห เขาเก่งเกินไปมาก\\p จะพูดยังไงดีล่ะ?\\p รู้สึกว่าเขาใช้ชีวิตเพื่อโปเกมอนจริง ๆ$"}
-{"id": "data/maps/PetalburgCity_Mart/scripts.inc#PetalburgCity_Mart_Text_WeakWillGrowStronger", "th": "ถึงตอนนี้โปเกมอนจะยังอ่อนแอ มันก็จะแข็งแกร่งขึ้นได้\\p สิ่งสำคัญที่สุดคือความรัก! ความรักที่มีต่อโปเกมอน!$"}
-{"id": "data/maps/PetalburgCity_Mart/scripts.inc#PetalburgCity_Mart_Text_RepelIsUseful", "th": "ใช้ REPEL ไหม? มันกันโปเกมอนไม่ให้เข้าใกล้ เวลารีบ ๆ ใช้แล้วสะดวกดีนะ$"}
-{"id": "data/maps/PetalburgCity_Mart/scripts.inc#PetalburgCity_Mart_Text_TakeSomeAntidotesWithYou", "th": "พก ANTIDOTE ติดตัวบ้างหรือเปล่า?\\p ถ้าเดินไปพร้อมโปเกมอนที่ติดพิษ HP มันจะลดลงเรื่อย ๆ จนหมดสภาพ\\pพก ANTIDOTE ไว้บ้างนะ$"}
-{"id": "data/maps/PetalburgCity_PokemonCenter_1F/scripts.inc#PetalburgCity_PokemonCenter_1F_Text_PCStorageSystem", "th": "ระบบเก็บโปเกมอนผ่าน PC นั่นน่ะ…\\p ใครก็ตามที่สร้างมันขึ้นมา ต้องเป็นพ่อมดวิทยาศาสตร์แน่ ๆ!$"}
-{"id": "data/maps/PetalburgCity_PokemonCenter_1F/scripts.inc#PetalburgCity_PokemonCenter_1F_Text_OranBerryRegainedHP", "th": "ตอนโปเกมอนของผมกิน ORAN BERRY HP ก็ฟื้นขึ้นมาเลย!$"}
-{"id": "data/maps/PetalburgCity_PokemonCenter_1F/scripts.inc#PetalburgCity_PokemonCenter_1F_Text_ManyTypesOfPokemon", "th": "โปเกมอนมีหลายประเภท\\p ทุกประเภทต่างมีจุดแข็งและจุดอ่อนต่อประเภทอื่น\\p ขึ้นอยู่กับประเภทของโปเกมอน การต่อสู้อาจง่ายหรือยากก็ได้$"}
-{"id": "data/maps/PetalburgCity_PokemonCenter_1F/scripts.inc#PetalburgCity_PokemonCenter_1F_Text_TreeckoIsGrassType", "th": "อย่างคิโมริของเธอเป็นประเภท GRASS\\p มันได้เปรียบประเภท WATER และประเภท GROUND\\p แต่เสียเปรียบโปเกมอนประเภท FIRE$"}
-{"id": "data/maps/PetalburgCity_PokemonCenter_1F/scripts.inc#PetalburgCity_PokemonCenter_1F_Text_TorchicIsFireType", "th": "อย่างอาชาโมของเธอเป็นประเภท FIRE\\p มันได้เปรียบประเภท GRASS และประเภท BUG\\p แต่เสียเปรียบโปเกมอนประเภท WATER$"}
-{"id": "data/maps/PetalburgCity_PokemonCenter_1F/scripts.inc#PetalburgCity_PokemonCenter_1F_Text_MudkipIsWaterType", "th": "อย่างมิซึโกโรของเธอเป็นประเภท WATER\\p มันได้เปรียบประเภท FIRE\\p แต่เสียเปรียบโปเกมอนประเภท GRASS และประเภท ELECTRIC$"}
-{"id": "data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_ThanksForPlayingWithWally", "th": "เธอคือ… อ้อ เธอคงเป็น {PLAYER}{KUN} ใช่ไหม?\\p ขอบใจนะที่เล่นกับมิตสึรุเมื่อสักครู่\\p เขาร่างกายอ่อนแอ ป่วยบ่อยมาตั้งแต่เป็นทารก\\p เราเลยส่งเขาไปอยู่กับญาติของฉันที่เมืองชิดาเกะสักพัก\\p อากาศที่นั่นบริสุทธิ์กว่าที่นี่มาก\\p ว่าไงนะ? มิตสึรุอยู่ไหนเหรอ? มิตสึรุของเราออกเดินทางไปแล้วล่ะ\\p ไม่รู้ว่าป่านนี้ไปถึงไหนแล้วนะ?$"}
-{"id": "data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_WonderHowWallyIsDoing", "th": "ไม่รู้ว่ามิตสึรุของเราเป็นยังไงบ้างนะ$"}
-{"id": "data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_PleaseExcuseUs", "th": "{PLAYER}{KUN}! ขอโทษนะที่พาเธอมาที่นี่แบบนี้\\p แต่ตั้งแต่มิตสึรุไปเมืองชิดาเกะ เขาก็แข็งแรงขึ้นมากเลย\\p ทั้งหมดนี้เป็นเพราะเธอ!\\p ตอนมิตสึรุออกจากเมือง เธอช่วยเขาจับโปเกมอนใช่ไหม?\\p ฉันว่านั่นทำให้มิตสึรุดีใจมาก\\p ที่จริงไม่ใช่แค่มิตสึรุหรอก ฉันในฐานะพ่อก็ดีใจด้วย\\p ดีใจที่เขาได้เพื่อนดี ๆ อย่างเธอ\\p นี่ไม่ใช่สินบนหรืออะไรนะ แต่ฉันอยากให้เธอรับของสิ่งนี้ไว้จริง ๆ$"}
-{"id": "data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_SurfGoAllSortsOfPlaces", "th": "ถ้าโปเกมอนของเธอใช้ท่า SURF ได้ ก็จะไปได้สารพัดที่เลยนะ$"}
-{"id": "data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_WallyIsComingHomeSoon", "th": "มิตสึรุใกล้จะกลับบ้านแล้ว ฉันรอวันนั้นอยู่เลย$"}
-{"id": "data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_YouMetWallyInEverGrandeCity", "th": "หือ? เธอเจอมิตสึรุที่เมืองไซยูเหรอ?\\p โธ่ {PLAYER}{KUN} อย่าพูดเล่นน่า\\p ถึงเขาจะแข็งแรงขึ้นแล้ว แต่คงไปที่ไกลขนาดนั้นคนเดียวไม่ได้หรอก$"}
-{"id": "data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_WallyWasReallyHappy", "th": "ตอนมิตสึรุบอกเราว่าจับโปเกมอนได้ เขาดีใจมากเลย\\p ไม่ได้เห็นเขายิ้มแบบนั้นมานานมากแล้ว$"}
-{"id": "data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_WallyLeftWithoutTelling", "th": "อยากให้เก็บเรื่องนี้เป็นความลับจากสามีฉันนะ…\\p แต่มิตสึรุของเราออกจากเมืองชิดาเกะไปโดยไม่บอกใครเลย\\p รู้ไหม ถึงมิตสึรุจะร่างกายอ่อนแอ แต่ใจเขาเด็ดเดี่ยวเกินคาดเลยล่ะ\\p ฉันมั่นใจว่าสักวันเขาจะกลับมาอย่างปลอดภัย!$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_NotAOneToBeFound", "th": "อืมมม… ไม่เจอสักตัวเลย…$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_HaveYouSeenShroomish", "th": "สวัสดีครับ เห็นโปเกมอนชื่อคิโนโคโคะแถวนี้บ้างไหมครับ?\\p ผมชอบโปเกมอนตัวนั้นมากเลย$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_IWasGoingToAmbushYou", "th": "ว่าจะดักซุ่มโจมตีแก แต่แกดันมัวอืดอาดอยู่ในป่าโทกะไม่ยอมออกมาสักที\\p รอจนเบื่อแล้ว เลยมาหาเองนี่ไง!$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_HandOverThosePapers", "th": "แก! นักวิจัยเดวอน!\\p ส่งเอกสารนั่นมาซะ!$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_YouHaveToHelpMe", "th": "ว้ายยย!\\p คุณเป็นเทรนเนอร์โปเกมอนใช่ไหมครับ? ช่วยผมด้วยเถอะครับ!$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_NoOneCrossesTeamAqua", "th": "หา? คิดจะทำอะไรน่ะ? จะปกป้องหมอนั่นงั้นเหรอ?\\p ใครที่ขวางแก๊งอควาไม่มีวันได้รับความปรานี ต่อให้เป็นเด็กก็เถอะ!\\p มาสู้กันเลย!$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_YoureKiddingMe", "th": "ล้อเล่นน่า! เก่งชะมัด!$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_YouveGotSomeNerve", "th": "กรรร… กล้าดียังไงมายุ่งกับแก๊งอควา! มาสู้กันอีกรอบ!\\p ก็อยากพูดแบบนั้นหรอกนะ แต่โปเกมอนฉันหมดแล้ว…\\p แล้วอีกอย่าง พวกเราแก๊งอควาก็กำลังหมายตาของบางอย่างที่คานาซุมิเหมือนกัน\\p วันนี้ปล่อยไปก่อนก็แล้วกัน!$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_ThatWasAwfullyClose", "th": "เฮ้อ… รอดหวุดหวิดเลย!\\p เพราะคุณแท้ ๆ เขาเลยไม่ได้ขโมยเอกสารสำคัญพวกนี้ไป\\p งั้นผมขอมอบ GREAT BALL เป็นการขอบคุณนะครับ!$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_TeamAquaAfterSomethingInRustboro", "th": "เจ้าแก๊งอควานั่นบอกว่ากำลังหมายตาของบางอย่างที่คานาซุมิด้วยใช่ไหม?$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_ICantBeWastingTime", "th": "แย่แล้ว! เรื่องด่วน! มัวเสียเวลาไม่ได้แล้ว!$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_YoureLoadedWithItems", "th": "ของเต็มตัวเลยนะครับ ผมให้ GREAT BALL ไม่ได้แล้ว$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_GoBugPokemonTeam", "th": "ผมจับโปเกมอนมาได้เพียบเลย!\\p ไปเลย ไปเลย ไปเลย! ทีมโปเกมอนประเภท BUG ของผม!$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_ICouldntWin", "th": "มีโปเกมอนตั้งเยอะ แต่ก็ยังชนะไม่ได้…$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_ImOutOfPokeBalls", "th": "ผมจับโปเกมอนมาเยอะมาก จนตอนนี้ POKé BALL หมดแล้ว$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_InstantlyPopularWithBugPokemon", "th": "ถ้าเอาโปเกมอนประเภท BUG ไปโรงเรียน จะดังขึ้นมาทันทีเลยนะ!$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_CantBePopularIfILose", "th": "ถ้าแพ้ก็ดังไม่ได้น่ะสิ$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_PeopleRespectYou", "th": "ถ้ามีโปเกมอนประเภท BUG ตัวใหญ่ ๆ คนอื่นจะนับถือเลยล่ะ$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_IWantRematch1", "th": "พอโปเกมอนประเภท BUG ของผมโตแล้วขอแก้มือนะ!\\p ผมจะลงทะเบียนเธอไว้ในโปเกนาวีล่ะ!$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_IWantRematch2", "th": "พอโปเกมอนประเภท BUG ของผมโตแล้วขอแก้มือนะ!\\p ผมจะลงทะเบียนเธอไว้ในโปเกนาวีล่ะ!$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_MyPokemonHaveGrown", "th": "โปเกมอนประเภท BUG ของผมโตแล้ว ผมจะได้ดังอีกครั้ง$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_CantBePopularIfLose", "th": "ถ้าแพ้ก็ดังไม่ได้น่ะสิ$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_IveBeenTrainingHard", "th": "มีโปเกมอนเก่ง ๆ แล้วจะดังใช่ไหมล่ะ? ผมเลยฝึกหนักมาตลอดเลย$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_StayOutOfTallGrass", "th": "ไง! โปเกมอนของเธอสบายดีไหม?\\p ถ้าโปเกมอนยังอ่อนแอและอยากเลี่ยงการต่อสู้ ก็อย่าเข้าไปในพงหญ้าสูงนะ$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_HiddenItemsExplanation", "th": "บางทีก็มีของตกอยู่บนพื้น ถึงจะมองไม่เห็นก็ตาม\\p ผมเลยคอยตรวจดูตรงที่เดินอยู่เสมอ$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_TryUsingThisItem", "th": "โห เจ๋ง! นั่นเข็มกลัดของยิมคานาซุมินี่!\\p เธอต้องเป็นเทรนเนอร์แน่ ๆ ลองใช้ไอเท็มนี้ดูสิ$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_MiracleSeedExplanation", "th": "นั่นคือ MIRACLE SEED ถ้าโปเกมอนถือไว้ ท่าประเภท GRASS จะแรงขึ้น\\p นอกจาก MIRACLE SEED แล้ว ฉันว่ายังมีไอเท็มสะดวก ๆ อื่นให้โปเกมอนถืออีกนะ$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_TrainerTipsExperience", "th": "เคล็ดลับเทรนเนอร์\\p โปเกมอนที่ออกสู้แม้เพียงครั้งเดียวจะได้รับค่าประสบการณ์\\p ถ้าจะเลี้ยงโปเกมอนที่ยังอ่อน ให้วางไว้ซ้ายสุดของรายชื่อทีม\\p พอเริ่มการต่อสู้ก็สลับออกทันที มันจะได้ค่าประสบการณ์โดยไม่ต้องเจ็บตัว$"}
-{"id": "data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_TrainerTipsPP", "th": "เคล็ดลับเทรนเนอร์\\p นอกจากค่าพลังชีวิต (HP) แล้ว โปเกมอนยังมีค่าพลังท่า (PP)\\pPP ใช้ในการออกท่าระหว่างต่อสู้\\p ถ้า PP ของโปเกมอนหมด ต้องพาไปโปเกมอนเซ็นเตอร์$"}
-{"id": "data/maps/Route101/scripts.inc#Route101_Text_HelpMe", "th": "ช-ช่วยด้วย!$"}
-{"id": "data/maps/Route101/scripts.inc#Route101_Text_PleaseHelp", "th": "นี่! เธอตรงนั้นน่ะ! ได้โปรด! ช่วยด้วย!\\p ในกระเป๋าของฉัน! มี POKé BALL อยู่!$"}
-{"id": "data/maps/Route101/scripts.inc#Route101_Text_DontLeaveMe", "th": "จ-จะไปไหนน่ะ?! อย่าทิ้งฉันไว้แบบนี้สิ!$"}
-{"id": "data/maps/Route101/scripts.inc#Route101_Text_YouSavedMe", "th": "ศาสตราจารย์โอดามากิ: เฮ้อ…\\p ฉันกำลังศึกษาโปเกมอนป่าในพงหญ้าสูงอยู่ แล้วก็โดนจู่โจมเข้า\\p เธอช่วยชีวิตฉันไว้ ขอบใจมากเลย!\\p อ้าว?\\p เธอคือ {PLAYER}{KUN} นี่นา!\\p ตรงนี้ไม่ใช่ที่คุยกัน ไว้แวะมาที่แล็บโปเกมอนของฉันทีหลังนะ$"}
-{"id": "data/maps/Route101/scripts.inc#Route101_Text_TakeTiredPokemonToPokeCenter", "th": "ถ้าโปเกมอนเหนื่อย ก็พาไปโปเกมอนเซ็นเตอร์นะ\\p ที่เมืองโคโทกิใกล้ ๆ นี้ก็มีโปเกมอนเซ็นเตอร์อยู่$"}
-{"id": "data/maps/Route101/scripts.inc#Route101_Text_WildPokemonInTallGrass", "th": "ในพงหญ้าสูง โปเกมอนป่าจะกระโดดออกมา\\p ถ้าอยากจับโปเกมอน ต้องเข้าไปหาในพงหญ้าสูงนะ$"}
-{"id": "data/maps/Route101/scripts.inc#Route101_Text_RouteSign", "th": "เส้นทาง 101 {UP_ARROW} เมืองโคโทกิ$"}
-{"id": "data/maps/Route102/scripts.inc#Route102_Text_WatchMeCatchPokemon", "th": "มิตสึรุ: {PLAYER}… โปเกมอนชอบซ่อนตัวอยู่ในพงหญ้าสูงแบบนี้ใช่ไหมครับ?\\p ช่วยดูหน่อยนะครับว่าผมจะจับได้ดีไหม\\p…ว้าว!$"}
-{"id": "data/maps/Route102/scripts.inc#Route102_Text_WallyIDidIt", "th": "มิตสึรุ: ผมทำได้แล้ว… นี่คือ… โปเกมอนของผม!$"}
-{"id": "data/maps/Route102/scripts.inc#Route102_Text_LetsGoBack", "th": "{PLAYER} ขอบคุณครับ! กลับไปที่ยิมกันเถอะครับ!$"}
-{"id": "data/maps/Route102/scripts.inc#Route102_Text_ImNotVeryTall", "th": "ผม… ตัวไม่ค่อยสูง เลยจมหายไปในพงหญ้าสูงเลย\\p หญ้าเข้าจมูก แล้วก็… ฟะ ฟะ ฟะ ฟะ…\\p ฟ้าดชิ้ว!$"}
-{"id": "data/maps/Route102/scripts.inc#Route102_Text_CatchWholeBunchOfPokemon", "th": "ผมจะจับโปเกมอนให้ได้เพียบเลย!$"}
-{"id": "data/maps/Route102/scripts.inc#Route102_Text_RouteSignOldale", "th": "เส้นทาง 102 {RIGHT_ARROW} เมืองโคโทกิ$"}
-{"id": "data/maps/Route102/scripts.inc#Route102_Text_RouteSignPetalburg", "th": "เส้นทาง 102 {LEFT_ARROW} เมืองโทกะ$"}
-{"id": "data/maps/Route103/scripts.inc#Route103_Text_MayRoute103Pokemon", "th": "ฮารุกะ: ไหนดูซิ… โปเกมอนที่พบในเส้นทาง 103 ก็มี…$"}
-{"id": "data/maps/Route103/scripts.inc#Route103_Text_MayLetsBattle", "th": "อ้าว หวัดดี {PLAYER}{KUN}!\\p…อ้อ เข้าใจแล้ว พ่อฉันให้โปเกมอนเธอเป็นของขวัญสินะ\\p ไหน ๆ ก็มาเจอกันแล้ว มาสู้กันสักตาเถอะ!\\p ฉันจะให้เธอได้ลิ้มรสว่าการเป็นเทรนเนอร์เป็นยังไง$"}
-{"id": "data/maps/Route103/scripts.inc#Route103_Text_MayDefeated", "th": "ว้าว! สุดยอดเลย! {PLAYER}{KUN} เก่งใช้ได้เลยนะ!$"}
-{"id": "data/maps/Route103/scripts.inc#Route103_Text_MayTimeToHeadBack", "th": "ฮารุกะ: ฉันว่าฉันรู้แล้วล่ะว่าทำไมพ่อถึงจับตาดูเธอ\\p คือ เธอเพิ่งได้โปเกมอนตัวนั้นมา แต่มันก็ชอบเธอแล้ว\\p เธออาจเป็นเพื่อนกับโปเกมอนได้ทุกแบบง่าย ๆ เลยก็ได้นะ\\p เอาล่ะ ได้เวลากลับแล็บแล้ว$"}
-{"id": "data/maps/Route103/scripts.inc#Route103_Text_BrendanRoute103Pokemon", "th": "ยูกิ: โอเค งั้นที่อยู่ในเส้นทาง 103 ก็มีตัวนี้กับตัวนั้น…$"}
-{"id": "data/maps/Route103/scripts.inc#Route103_Text_BrendanLetsBattle", "th": "เฮ้ นั่น {PLAYER} นี่!\\p…อ้อ ใช่ พ่อให้โปเกมอนเธอไปแล้วนี่นา\\p ไหน ๆ ก็มาเจอกันแล้ว สู้กันสักตาไหมล่ะ?\\p ผมจะสอนให้เองว่าการเป็นเทรนเนอร์มันเป็นยังไง!$"}
-{"id": "data/maps/Route103/scripts.inc#Route103_Text_BrendanDefeated", "th": "หือ {PLAYER} ฝีมือไม่เลวนี่นา$"}
-{"id": "data/maps/Route103/scripts.inc#Route103_Text_BrendanTimeToHeadBack", "th": "ยูกิ: ผมเข้าใจแล้วล่ะ ผมรู้แล้วว่าทำไมพ่อถึงจับตาดูเธอ\\p ดูสิ โปเกมอนของเธอชอบเธอแล้ว ทั้งที่เพิ่งได้มาแท้ ๆ\\p{PLAYER} ผมรู้สึกว่าเธอเป็นเพื่อนกับโปเกมอนตัวไหนก็ได้ง่าย ๆ เลย\\p เรากลับแล็บกันเถอะ$"}
-{"id": "data/maps/Route103/scripts.inc#Route103_Text_ShouldHaveBroughtPotion", "th": "โปเกมอนของผมเหนื่อยจนเดินโซเซแล้ว… น่าจะพก POTION มาด้วย…$"}
-{"id": "data/maps/Route103/scripts.inc#Route103_Text_ShortcutToOldale", "th": "ถ้าข้ามทะเลจากตรงนี้ จะเป็นทางลัดไปเมืองโคโทกิ\\p ฟุฟุฟุ สะดวกดีใช่ไหมล่ะ?$"}
-{"id": "data/maps/Route103/scripts.inc#Route103_Text_RouteSign", "th": "เส้นทาง 103 {DOWN_ARROW} เมืองโคโทกิ$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_BrineyLivesInSeasideCottage", "th": "กระท่อมริมทะเลนั้นเป็นบ้านของลุงฮางิ\\p เขาเคยเป็นกะลาสีผู้เก่งกาจที่ไม่เคยกลัวทะเล ต่อให้พายุโหมแค่ไหนก็ตาม$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_WhatsItLikeAtBottomOfSea", "th": "ทะเลเหรอ?\\p ไม่รู้ว่าก้นทะเลเป็นยังไงนะ?$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_ThrowBallAtWeakenedPokemon", "th": "ถ้าจะขว้าง POKé BALL ให้ทำโปเกมอนป่าอ่อนแรงลงก่อน\\p ถ้ามันติดพิษ แผลไหม้ หรือหลับอยู่ ก็จะจับง่ายขึ้น$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_OnlyThrowBallAtWildPokemon", "th": "ถ้าพยายามขโมยโปเกมอนของคนอื่น ก็คือหัวขโมยนะ\\p ควรขว้าง POKé BALL ใส่โปเกมอนป่าเท่านั้น$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_ImNotATrainer", "th": "อ๊ะ ไม่ใช่ ฉันไม่ใช่เทรนเนอร์หรอก\\p แต่ก็จริงนะ ถ้าเทรนเนอร์สบตากัน ก็คือการท้าสู้\\p ถ้าไม่อยากสู้ ก็อย่าให้พวกเขาเห็นล่ะ$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_LikeFillingMouthWithSeedsTakeThis", "th": "ผมชอบอมเมล็ดไว้เต็มปาก แล้วพ่นออกมารัว ๆ!\\p เอานี่ไป ลองดูเองสิ!\\p ใช้กับโปเกมอน แล้วมันจะเรียนท่ายิงเมล็ดรัว ๆ ได้$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_TMsAreOneTimeUse", "th": "ขอแนะนำหน่อย!\\pTM หรือเครื่องสอนท่า ใช้ได้แค่ครั้งเดียวเท่านั้น\\p ใช้แล้วก็หมดไปเลย คิดให้ดีก่อนใช้นะ!$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_DontNeedThisTakeIt", "th": "ร้านดอกไม้นี้เพิ่งเริ่มขายต้นกล้าไม่นานมานี้\\p ฉันดีใจมากจนเผลอช็อปเกินตัวไปหน่อย\\p ฉันไม่ต้องใช้ WHITE HERB นี่แล้ว รับไปได้ไหมจ๊ะ?$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_FlowerShopSellingSaplings", "th": "ร้านดอกไม้นี้เพิ่งเริ่มขายต้นกล้าไม่นานมานี้\\p ฉันดีใจมากจนเผลอช็อปเกินตัวไปหน่อย จะเอาไปวางไว้ไหนดีล่ะเนี่ย?$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_MrBrineysCottage", "th": "กระท่อมของลุงฮางิ$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_RouteSignPetalburg", "th": "เส้นทาง 104 {RIGHT_ARROW} เมืองโทกะ$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_RouteSignRustboro", "th": "เส้นทาง 104 {UP_ARROW} เมืองคานาซุมิ$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_PrettyPetalFlowShop", "th": "ร้านดอกไม้ซันโทกะ$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_TrainerTipsDoubleBattles", "th": "เคล็ดลับเทรนเนอร์\\p ในภูมิภาคโฮเอ็นมีเทรนเนอร์ที่มากันเป็นคู่\\pพวกเขาจะท้าสู้แบบ 2 ต่อ 2 เรียกว่าดับเบิลแบทเทิล\\p ในดับเบิลแบทเทิล เทรนเนอร์ต้องส่งโปเกมอนออกไปสองตัว\\pคือตัวซ้ายสุดของรายชื่อและตัวบนสุด ดูลำดับโปเกมอนให้ดี$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_MayWeShouldRegister", "th": "ฮารุกะ: อ้าว หวัดดี {PLAYER}{KUN}!\\p เดวอนอัปเกรดโปเกนาวีของเธอให้มีระบบแมตช์คอลแล้วใช่ไหม?\\p เราลงทะเบียนกันไว้เถอะ จะได้ติดต่อกันได้ตลอด$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_RegisteredMay", "th": "{PLAYER} ลงทะเบียนฮารุกะในโปเกนาวีแล้ว$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_MayHowsYourPokedex", "th": "ฮารุกะ: อ้อ จริงสิ {PLAYER}{KUN} โปเกเด็กซ์ของเธอไปถึงไหนแล้ว?$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_MayMinesDecentLetsBattle", "th": "ของฉันก็ไปได้สวยทีเดียว งั้น… มาสู้กันหน่อยไหม?$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_MayHaventRaisedPokemon", "th": "ฮารุกะ: อ้าว เป็นอะไรไปล่ะ?\\p ยังไม่ค่อยได้จับหรือเลี้ยงโปเกมอนเลยเหรอ?\\p แบบนั้นไม่ดีสำหรับเทรนเนอร์เลยนะ!$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_MayLetsBattle", "th": "ฮารุกะ: ว่าไงล่ะ? มาสู้กันตรงนี้หน่อยไหม?$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_MayIntro", "th": "ฮารุกะ: {PLAYER}{KUN} เพิ่งเป็นเทรนเนอร์เองนะ ฉันไม่แพ้หรอก!$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_MayDefeat", "th": "อุ๊ย! เก่งกว่าที่คิดไว้อีกนะเนี่ย!$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_MayPostBattle", "th": "ฮารุกะ: ดูจากวิธีที่เธอดูแลโปเกมอน ฉันว่าเธอเก่งขึ้นเยอะเลยนะ\\p แต่แทนที่จะให้พวกมันสู้อย่างเดียว เธอควรเป็นแบบลุงฮางิบ้าง\\p การเป็นเพื่อนกับโปเกมอนก็สำคัญเหมือนกันนะ$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_BrendanWeShouldRegister", "th": "ยูกิ: อ้าว เฮ้ {PLAYER}!\\p เจ๋ง ให้เดวอนติดตั้งระบบแมตช์คอลในโปเกนาวีแล้วนี่!\\p มาลงทะเบียนกันในโปเกนาวีของเราเถอะ จะได้ติดต่อกันได้$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_RegisteredBrendan", "th": "{PLAYER} ลงทะเบียนยูกิในโปเกนาวีแล้ว$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_BrendanHowsYourPokedex", "th": "ยูกิ: {PLAYER} โปเกเด็กซ์เป็นไงบ้าง? บันทึกไปได้กี่หน้าแล้ว?$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_BrendanDoingGreatLetsBattle", "th": "ส่วนผมน่ะ ไปได้สวยเลย!\\p อยากลองดูไหมว่าผมเก่งแค่ไหน ด้วยการสู้กันสักตา?$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_BrendanNoConfidence", "th": "ยูกิ: เป็นอะไรไป? ไม่มั่นใจในโปเกมอนของตัวเองเหรอ?$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_BrendanLetsBattle", "th": "ยูกิ: ว่าไง? อยากสู้กับผมไหม?$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_BrendanIntro", "th": "ยูกิ: รู้หรอกว่าเธอเพิ่งเป็นเทรนเนอร์ แต่ผมไม่ออมมือให้หรอกนะ!$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_BrendanDefeat", "th": "อืม… เธอเก่งใช้ได้เลยนะ$"}
-{"id": "data/maps/Route104/scripts.inc#Route104_Text_BrendanPostBattle", "th": "ยูกิ: เธอดูแลโปเกมอนได้ดีขึ้นเยอะเลย\\p แต่รู้ไหม เธอไม่ควรให้โปเกมอนสู้อย่างเดียวนะ\\p เหมือนลุงฮางิไง การเป็นเพื่อนกับโปเกมอนก็สำคัญ$"}
-{"id": "data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_WaitUpPeeko", "th": "ลุงฮางิ: เดี๋ยวก่อน สาวน้อย! รอด้วย ปีโกะ!$"}
-{"id": "data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_ItsYouLetsSailToDewford", "th": "หืม? เจ้าคือ {PLAYER}{KUN} นี่!\\p เจ้าช่วยปีโกะที่รักของข้าไว้! ข้าติดหนี้บุญคุณเจ้ามากเลย!\\p ว่าไงนะ? เจ้าอยากล่องเรือไปกับข้าหรือ?\\p ฮึม ฮึม…\\p เจ้ามี LETTER ที่ต้องไปส่งที่มุโระ กับพัสดุที่ต้องไปส่งที่ไคนะ งั้นสินะ?\\p ชีวิตยุ่งไม่เบาเลยนะเนี่ย!\\p แต่แน่นอน เรื่องที่เจ้าขอไม่ใช่ปัญหาเลยสักนิด\\p มาหาถูกคนแล้ว! เราจะออกเรือไปมุโระกัน!$"}
-{"id": "data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_SetSailForDewford", "th": "ลุงฮางิ: ไปมุโระสินะ ได้เลย!\\p ถอนสมอ! ปีโกะ เราออกเรือกันแล้วนะ ที่รัก!$"}
-{"id": "data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_DeclineDeliverySail", "th": "ลุงฮางิ: งั้นหรือ? ของที่ต้องไปส่งรอได้งั้นหรือ?\\p อยากออกเรือเมื่อไหร่ ก็บอกข้าได้ทุกเมื่อเลย!$"}
-{"id": "data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_NeedToMakeDeliveriesSailToDewford", "th": "ลุงฮางิ: อะฮอย! ข้ารู้ดีว่าเจ้าอยากจะพูดอะไร!\\p เจ้าต้องไปส่ง LETTER ที่มุโระ และส่งพัสดุที่ไคนะ\\p เรื่องที่เจ้าต้องการให้ข้าทำ ไม่ใช่ปัญหาเลย เรื่องนี้ต้องยกให้ข้า!\\p ก่อนอื่น เราจะออกเรือไปมุโระกัน$"}
-{"id": "data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_NeedToDeliverPackageSailToDewford", "th": "ลุงฮางิ: อะฮอย! ข้ารู้ดีว่าเจ้าอยากจะพูดอะไร!\\p เจ้าต้องไปส่งพัสดุให้กัปตันคุสึโนกิที่ไคนะ\\p เรื่องที่เจ้าต้องการให้ข้าทำ ไม่ใช่ปัญหาเลย เรื่องนี้ต้องยกให้ข้า!\\p ก่อนอื่น เราจะออกเรือไปมุโระกัน$"}
-{"id": "data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_WhereAreWeBound", "th": "ลุงฮางิ: อะฮอย! เพื่อเจ้า ข้าออกทะเลได้ทุกเมื่อ!\\p เอาล่ะ สหาย เราจะมุ่งหน้าไปไหนกันดี?$"}
-{"id": "data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_TellMeWheneverYouWantToSail", "th": "ลุงฮางิ: งั้นหรือ? อืม ปีโกะติดหนี้ชีวิตเจ้าอยู่\\p อยากออกเรือเมื่อไหร่ ก็บอกข้าได้ทุกเมื่อเลย!$"}
-{"id": "data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_Peeko", "th": "ปีโกะ: ปี๊ ปี๊ฮโยโระ!$"}
-{"id": "data/maps/Route105/scripts.inc#Route104_Text_DadPokenavCall", "th": "… … … … … … … … … … … ติ๊ด!\\p พ่อ: อ้อ {PLAYER} หรือ?\\p… … … … … … อยู่ที่ไหนแล้วล่ะ? ได้ยินเสียงลมแรงเชียว\\p พ่อเพิ่งได้ยินเรื่องโปเกนาวีของลูกจากประธานสึวาบุกิแห่งเดวอน เลยลองโทรหาดู\\p ฟังดูลูกสบายดี แค่นั้นพ่อก็พอใจแล้ว\\p ดูแลตัวเองด้วยนะ\\p… … … … … … … … … … … กริ๊ก!$"}
-{"id": "data/maps/Route105/scripts.inc#Route104_Text_RegisteredDadInPokenav", "th": "ลงทะเบียน พ่อ เซ็นริ ในโปเกนาวีแล้ว$"}
-{"id": "data/maps/Route106/scripts.inc#Route106_Text_TrainerTips", "th": "เคล็ดลับเทรนเนอร์\\p วิธีจับโปเกมอนด้วยคันเบ็ด: ถ้ามีปลาฮุบเหยื่อ ให้กดปุ่ม A$"}
-{"id": "data/maps/Route109/scripts.inc#DewfordTown_Text_BrineyLandedInSlateportDeliverGoods", "th": "ลุงฮางิ: อะฮอย! เรามาถึงไคนะแล้ว!\\p เจ้าคงจะไปหากัปตันคุสึโนกิ แล้วส่ง DEVON GOODS สินะ?$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_BrineySailToDewfordQuestion", "th": "ลุงฮางิ: ข้านึกว่าเจ้าต้องไปส่ง DEVON GOODS เสียอีก\\p งั้นจะล่องเรือกลับมุโระไหมล่ะ?$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_BrineyDewfordItIs", "th": "ลุงฮางิ: ไปมุโระสินะ ได้เลย!\\p ถอนสมอ! ปีโกะ เราออกเรือกันแล้วนะ ที่รัก!$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_BrineyDeliverDevonGoods", "th": "ลุงฮางิ: งั้นเจ้าก็ไปส่ง DEVON GOODS เถอะ ข้าจะรออยู่ตรงนี้$"}
-{"id": "data/maps/Route109/scripts.inc#DewfordTown_Text_BrineyLandedInSlateport", "th": "ลุงฮางิ: อะฮอย! เรามาถึงไคนะแล้ว!\\p อยากออกเรืออีกเมื่อไหร่ ก็บอกข้าได้ทุกเมื่อเลย!$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_BrineyWhereAreWeBound", "th": "ลุงฮางิ: อะฮอย! เพื่อเจ้า ข้าออกทะเลได้ทุกเมื่อ!\\p เอาล่ะ สหาย เราจะมุ่งหน้าไปไหนกันดี?$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_BrineyTellMeWhenYouNeedToSail", "th": "ลุงฮางิ: อยากออกเรืออีกเมื่อไหร่ ก็บอกข้าได้เลย!$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_ChillAtMyPapasSpot", "th": "โย่ เทรนเนอร์! ใครใจร้อน ใครใจเย็น แวะมาเล่นมาชิลที่ร้านป๊ะป๋าหนูสิ!$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_LittleKidsDartAround", "th": "เด็ก ๆ วิ่งซนไปมาเร็วมากเลยนะ…\\p ละสายตาแค่แวบเดียวก็ไม่ได้ เหนื่อยจริง ๆ\\p ลูกฉันอยู่กับโปเกมอนของฉัน คงไม่เป็นไรหรอก แต่ว่า…$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_SandCastleTakingLongTime", "th": "ปราสาททรายของเราสร้างนานมากเลย$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_YouCanHaveThis", "th": "ให้อันนี้นะ!$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_WereGoingToMakeBigCastle", "th": "เราจะเอาทรายทั้งหมดบนชายหาดมาสร้างปราสาทใหญ่ ๆ!\\p แล้วเราจะเป็นพระราชากับพระราชินี\\p เดี๋ยวให้เธอเป็นคนรับใช้นะ$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_ZigzagoonPicksUpLitter", "th": "น้ำแถวนี้สะอาดดี\\p แต่บางทีข้าก็ให้จิกุซากุมะของข้าเก็บขยะตามชายฝั่ง\\p น้ำสกปรกกลายเป็นฝน แล้วไหลรวมเป็นแม่น้ำที่เราดื่มกิน…\\p ถ้าเราทำให้ทะเลสกปรก สุดท้ายมันก็ย้อนกลับมาทำร้ายเราเอง$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_ZigzagoonCry", "th": "จิกุซากุมะ: กุกู?$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_SeashoreHouseSign", "th": "บ้านริมหาด\\p“ให้การต่อสู้อันร้อนแรงลุกโชนบนผืนทรายร้อน! สถานที่สำหรับเทรนเนอร์ใจร้อนแรง!”$"}
-{"id": "data/maps/Route109/scripts.inc#Route109_Text_TrainerTipsSign", "th": "เคล็ดลับเทรนเนอร์\\p โปเกมอนเลเวลเดียวกันอาจมีค่าสถานะไม่เท่ากันเสมอไป\\p ว่ากันว่าโปเกมอนที่เทรนเนอร์เลี้ยง จะแข็งแกร่งกว่าโปเกมอนป่า$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_SeashoreHouseIntro", "th": "ผมเป็นเจ้าของบ้านริมหาด เรียกผมว่าคุณทะเลก็ได้!\\p สิ่งที่ผมรักที่สุดคือการได้ดูการต่อสู้โปเกมอนสุดร้อนแรง\\p ให้ผมเห็นหน่อยว่าหัวใจเธอลุกโชน!\\p ถ้าเธอชนะเทรนเนอร์ทุกคนที่นี่ได้ ผมจะให้รางวัลตอบแทน$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_ShowMeSomeHotMatches", "th": "ขอดูแมตช์ร้อนแรงหน่อย!\\p ผมเปิดบ้านริมหาดนี้ก็เพื่อการนี้อย่างเดียวเลย!$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles", "th": "ร้อนแรงสุด ๆ! การต่อสู้ลุกเป็นไฟเลย! ผมพอใจเกินคาด!\\p เพื่อขอบคุณที่โชว์ความร้อนแรง ผมอยากให้เธอรับนี่ไป\\pSODA POP ครึ่งโหล หกขวด!$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_BagFull", "th": "อ้าว แต่กระเป๋าเธอเต็มแน่นเลย ผมเก็บไว้ให้ก่อนนะ$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_WantToBuySodaPop", "th": "อยากซื้อ SODA POP ไหม? โปเกมอนชอบมากเลยนะ!\\p ขวดละ ¥300 เท่านั้น! ซื้อหน่อยสิ!$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_HereYouGo", "th": "ได้เลย!$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_NotEnoughMoney", "th": "เงินไม่พอนะ$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_ThatsTooBad", "th": "ไม่เอาเหรอ? น่าเสียดายจัง$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_DwayneIntro", "th": "ถ้ามาหาคู่ต่อสู้ในบ้านริมหาด ไม่มีเทรนเนอร์คนไหนร้อนแรงไปกว่าข้าแล้ว สหาย!$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_DwayneDefeated", "th": "สู้กันร้อนแรงดีจริง! แพ้แบบนี้ข้ายอมรับได้ สหาย!$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_DwaynePostBattle", "th": "ทุกครั้งที่มาไคนะ ข้าจะสนุกกับการต่อสู้สุดร้อนแรงและ SODA POP เย็นเจี๊ยบ!$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_JohannaIntro", "th": "การต่อสู้น่าเบื่อไม่คุ้มค่าเหนื่อยหรอกค่ะ\\p การต่อสู้ร้อนแรงดั่งไฟเท่านั้นที่ขัดเกลาเทรนเนอร์และโปเกมอนให้แกร่งขึ้น!$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_JohannaDefeated", "th": "ร้อนแรงสุด ๆ!$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_JohannaPostBattle", "th": "เฮ้อ คอแห้งไปหมดแล้ว ดื่ม SODA POP สักขวดดีกว่า$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_SimonIntro", "th": "ผมจะโชว์ให้ดูว่าโปเกมอนผมเจ๋งแค่ไหน แต่ห้ามร้องไห้นะ!$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_SimonDefeated", "th": "…ผมแพ้ แต่ผมไม่ร้องไห้หรอก…$"}
-{"id": "data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_SimonPostBattle", "th": "ถ้าโปเกมอนของผมรู้ท่าที่แบกผมข้ามน้ำได้ ผมก็ไม่ต้องใช้ห่วงยางนี่แล้ว$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_WeCantTalkAboutAquaActivities", "th": "กิจกรรมของแก๊งอควาน่ะเหรอ… ตอนนี้ยังบอกไม่ได้หรอก$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_KickUpARuckus", "th": "อยากรีบไปไคนะ แล้วก่อเรื่องวุ่นวายซะแล้ว!$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_MyFirstJobInAqua", "th": "นี่เป็นงานแรกหลังจากเข้าแก๊งอควา น่ากลัวนิดหน่อยแฮะ$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_AquaActionsBringSmiles", "th": "การกระทำของแก๊งอควาต้องทำให้ผู้คนยิ้มได้!$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_MayLetsBattle", "th": "ฮารุกะ: หวัดดี {PLAYER}{KUN} ไม่เจอกันนานเลย!\\p ระหว่างที่ฉันตามหาโปเกมอนตัวอื่น ๆ โปเกมอนของฉันก็แข็งแกร่งขึ้น\\p งั้น… มาสู้กันหน่อยไหม?$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_MayDefeated", "th": "อุ๊ย! เก่งกว่าที่คิดไว้อีกนะเนี่ย!$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_MayTakeThis", "th": "ฮารุกะ: {PLAYER}{KUN} ก็ฝึกหนักมาเหมือนกันใช่ไหมล่ะ?\\p ฉันว่าเธอสมควรได้รางวัลนะ! นี่ของจากฉันเอง!$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_MayExplainItemfinder", "th": "ฮารุกะ: นั่นคือ ITEMFINDER\\p ลองใช้ดูสิ ถ้ามีไอเท็มที่มองไม่เห็นอยู่ มันจะส่งเสียงออกมา\\p โอเค {PLAYER}{KUN} ไว้เจอกันใหม่นะ!\\p อาจฟังดูแปลกที่ฉันพูดเองนะ แต่ฉันว่าเธอควรฝึกให้หนักกว่านี้อีกสำหรับครั้งหน้า$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_BrendanLetsBattle", "th": "ยูกิ: เฮ้ {PLAYER} อยู่นี่เองเหรอ เป็นไงบ้าง?\\p เลี้ยงโปเกมอนมาดีหรือเปล่า? เดี๋ยวผมเช็กให้$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_BrendanDefeated", "th": "อืม… เธอเก่งใช้ได้เลยนะ$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_BrendanTakeThis", "th": "ยูกิ: {PLAYER} ฝึกฝนมาโดยที่ผมไม่ทันสังเกตเลยนะ…\\p ใช้ได้! เอ้า รับนี่ไป$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_BrendanExplainItemfinder", "th": "ยูกิ: นั่นคือ ITEMFINDER\\p ใช้คุ้ยหาไอเท็มที่มองไม่เห็น\\p ถ้ามันจับอะไรได้ มันจะส่งเสียงออกมา\\p เอาล่ะ ผมไปหาโปเกมอนตัวใหม่ก่อนนะ$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_RideBikeAtFullSpeed", "th": "ได้ปั่นจักรยานเต็มสปีดบนถนนจักรยาน คงเจ๋งน่าดูเลยว่าไหม?$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_HairStreamsBehindMe", "th": "ผมยาวดำขลับของฉันที่ปลิวไสวไปข้างหลัง เป็นไงบ้าง?\\p ฉันไว้ผมยาวก็เพื่อสิ่งนี้เลยล่ะ$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_YouGotBikeFromRydel", "th": "โอ้ เฮ้ เธอได้จักรยานคันนั้นมาจากคาเซโนะใช่ไหม!\\p โอ้ ดูออกชัดแจ๋วเลย บนจักรยานเขียนไว้ว่า…\\p คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ\\p คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ\\p คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ\\p คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ\\p คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ… ชื่อนั้นอยู่เต็มไปหมดเลย\\p ปั่นไปทั่ว ๆ เลยสิ โฆษณาดีนะ!$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_TwoRoads", "th": "ถนนสองสาย สายหนึ่งอยู่บน อีกสายอยู่ล่าง…\\p สายหนึ่งสำหรับคน อีกสายสำหรับโปเกมอน บางทีนั่นอาจถูกต้องและยุติธรรมแล้ว$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_WalkOnTheLowRoad", "th": "ยายไม่มีจักรยาน เลยจะเดินเล่นสบาย ๆ ไปตามทางล่างจ้ะ$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_BikeTechniques", "th": "ถ้าฝึกเทคนิคไว้ การปั่นจักรยานจะสนุกขึ้นอีกเยอะเลย\\p บางที่ก็ไปถึงได้ด้วยเทคนิคจักรยานเท่านั้นนะ$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_WhichShouldIChoose", "th": "จะเลือกทางไหนดีนะ?\\p บึ่งตรงไปคินเซ็ตสึทางถนนจักรยาน หรือเดินทางล่างแล้วหาโปเกมอนไปด้วย?$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_CyclingChallengeResultSummary", "th": "จำนวนครั้งที่ชน: … … {STR_VAR_1}!\\p เวลารวม: … … {STR_VAR_2}!$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_ChallengeReactionBest", "th": "ยอดเยี่ยม! ผลงานงดงามมาก!\\p ความรักในการปั่นจักรยานของคุณมาจากก้นบึ้งหัวใจ ผมซาบซึ้งถึงจิตวิญญาณเลยครับ!$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_ChallengeReactionGood", "th": "เทคนิคของคุณน่าทึ่งมาก\\p ผมแนะนำให้เร่งความเร็วขึ้นอีกหน่อย โดยยังหลบการชนไว้ครับ$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_ChallengeReactionOk", "th": "ผมถือว่าคุณยังอยู่ระหว่างการพัฒนา\\p ถึงอย่างนั้น ก็หวังว่าคุณจะไม่ลืมความสุขล้วน ๆ ของการปั่นจักรยานนะครับ$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_ChallengeReactionBad", "th": "ตายจริง… ฝีมือการปั่นของคุณเฉียดคำว่าน่าสะพรึงเลย\\p แน่นอนว่าคุณต้องฝึกปั่นให้มากกว่านี้อีกเยอะครับ$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_ChallengeReactionWorst", "th": "…ผมตกตะลึง…\\p คุณอาจไม่เหมาะกับเรื่องปั่นจักรยานอันน่าเศร้านี้\\p คุณควรคิดให้ดี ๆ เรื่องเอาจักรยานไปคืนคาเซโนะนะครับ$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_RatedForNumberOfCollisions", "th": "ที่นี่คือถนนจักรยาน\\p ถ้าปั่น MACH BIKE จากคินเซ็ตสึไปไคนะ\\pจะมีการจัดอันดับตามจำนวนครั้งที่ชนและเวลารวม$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_AlwaysAimHigher", "th": "ไม่ว่าผลจะเป็นยังไง ผมหวังว่าจะได้เห็นเธอมาท้าทายอีก ตั้งเป้าให้สูงขึ้นเสมอนะ!$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_AcroBikesDoNotQualify", "th": "บนถนนจักรยานนี้ คนที่ปั่น MACH BIKE จะถูกจัดอันดับตามจำนวนครั้งที่ชนและเวลารวม\\pACRO BIKE ไม่นับในการจัดอันดับ เพราะเลี้ยวง่าย มันไม่ยุติธรรม$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_SlateportCitySign", "th": "เส้นทาง 110 {DOWN_ARROW} เมืองไคนะ$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_CyclingRoadSign", "th": "ถนนจักรยานริมทะเล$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_AquaWasHere", "th": "“แก๊งอความาเยือนแล้ว!”\\p มีคนเขียนข้อความนั้นไว้บนป้าย แต่ก็มีอีกคนมาทาสีทับ\\p ตอนนี้มันเขียนว่า “แก๊งแม็กม่าจงเจริญ!”$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_Route103Sign", "th": "เส้นทาง 110 {LEFT_ARROW} เส้นทาง 103$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_SeasideParkingSign", "th": "ลานจอดรถริมทะเล$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_MauvilleCitySign", "th": "เส้นทาง 110 {UP_ARROW} เมืองคินเซ็ตสึ$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_TrainerTipsPrlzSleep", "th": "เคล็ดลับเทรนเนอร์\\p ทำให้ศัตรูหมดทางสู้ได้ ด้วยการทำให้อัมพาตหรือหลับ\\p เป็นเทคนิคสำคัญในการต่อสู้โปเกมอน$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_TrainerTipsRegisterItems", "th": "เคล็ดลับเทรนเนอร์\\p จัดเรียงไอเท็มในกระเป๋าได้ด้วยการกดปุ่ม SELECT$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_TrickHouseSign", "th": "“เดินขวา {RIGHT_ARROW} สามก้าว และขึ้น {UP_ARROW} สองก้าว เพื่อไปยังบ้านกลไกแสนมหัศจรรย์”$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_BestRecord", "th": "สถิติดีที่สุดจนถึงปัจจุบัน…\\p จำนวนครั้งที่ชน: {STR_VAR_1}\\p เวลาที่ใช้: {STR_VAR_2}$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_ThereIsNoRecord", "th": "สถิติดีที่สุดจนถึงปัจจุบัน…\\p ดูเหมือนยังไม่มีใครมาท้าทาย ยังไม่มีสถิติ…$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_ImagineSeeingYouHere", "th": "ศาสตราจารย์โอดามากิ: อ้าว {PLAYER}{KUN}! ไม่นึกเลยว่าจะมาเจอเธอที่นี่!\\p แล้ว {RIVAL} ของฉันไปอยู่ไหนล่ะ?$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_HeardYouInstallMatchCall", "th": "อ้อ เข้าใจแล้ว สองคนแยกกันเดินทางสินะ ก็ดีเหมือนกัน\\p จริงสิ ได้ยินว่าโปเกนาวีของเธอติดตั้งระบบแมตช์คอลแล้ว\\p งั้นฉันขอลงทะเบียนเธอไว้ในโปเกนาวีของฉันด้วยนะ\\p แบบนี้ ถึงจะอยู่ห่างกัน ฉันก็ประเมินโปเกเด็กซ์ของเธอได้ทุกเมื่อ\\p… … … … … …$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_RegisteredBirchInPokenav", "th": "ลงทะเบียนศาสตราจารย์โอดามากิในโปเกนาวีแล้ว$"}
-{"id": "data/maps/Route110/scripts.inc#Route110_Text_KeepAnEyeOutForRival", "th": "ศาสตราจารย์โอดามากิ: {PLAYER}{KUN}…\\p ช่วยคอยดู {RIVAL} ของฉันด้วยนะ … … … … … …\\p เอาล่ะ ฉันต้องไปแล้ว ไว้เจอกันใหม่นะ {PLAYER}{KUN}!$"}
-{"id": "data/maps/Route110_SeasideCyclingRoadNorthEntrance/scripts.inc#Route110_SeasideCyclingRoadNorthEntrance_Text_GoAllOutOnCyclingRoad", "th": "บนถนนจักรยาน คุณปั่นเต็มที่เร็วแค่ไหนก็ได้ตามใจชอบ\\p ปั่นเร็ว ๆ แบบนั้นรู้สึกดีมาก แต่ระวังอย่าไปชนใครเข้านะครับ!$"}
-{"id": "data/maps/Route110_SeasideCyclingRoadNorthEntrance/scripts.inc#Route110_SeasideCyclingRoadNorthEntrance_Text_TooDangerousToWalk", "th": "ขออภัยครับ ห้ามเดินเท้าบนถนนจักรยาน เพราะอันตรายเกินไป\\p กรุณากลับมาพร้อมจักรยานนะครับ$"}
-{"id": "data/maps/Route110_SeasideCyclingRoadSouthEntrance/scripts.inc#Route110_SeasideCyclingRoadSouthEntrance_Text_GoAllOutOnCyclingRoad", "th": "บนถนนจักรยาน คุณปั่นเต็มที่เร็วแค่ไหนก็ได้ตามใจชอบ\\p ปั่นเร็ว ๆ แบบนั้นรู้สึกดีมาก แต่ระวังอย่าไปชนใครเข้านะครับ!$"}
-{"id": "data/maps/Route110_SeasideCyclingRoadSouthEntrance/scripts.inc#Route110_SeasideCyclingRoadSouthEntrance_Text_TooDangerousToWalk", "th": "ขออภัยครับ ห้ามเดินเท้าบนถนนจักรยาน เพราะอันตรายเกินไป\\p กรุณากลับมาพร้อมจักรยานนะครับ$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_YouveMadeItToMe", "th": "อ๊าก! มาถึงตัวข้าได้แล้วหรือ? อืมมม… หัวไวนี่!$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightToPlantTrees", "th": "ข้าใช้เวลาทั้งคืนปลูกต้นไม้พวกนั้น…\\p เจ้าเกือบจะยิ่งใหญ่เทียบเท่าข้า ขาดไปอีกแค่หนึ่ง สอง สาม สี่ ห้า หก ขั้น!$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightToMakeMaze", "th": "ข้าใช้เวลาทั้งคืนสร้างเขาวงกต…\\p เจ้าเกือบจะยิ่งใหญ่เทียบเท่าข้า ขาดไปอีกแค่หนึ่ง สอง สาม สี่ ห้า ขั้น!$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightToPreparePanels", "th": "ข้าใช้เวลาทั้งคืนเตรียมแผงกำแพง…\\p เจ้าเกือบจะยิ่งใหญ่เทียบเท่าข้า ขาดไปอีกแค่หนึ่ง สอง สาม สี่ ขั้น!$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightToShoveBoulders", "th": "ข้าใช้เวลาทั้งคืนดันก้อนหินพวกนั้นเข้ามา…\\p เจ้าเกือบจะยิ่งใหญ่เทียบเท่าข้า ขาดไปอีกแค่หนึ่ง สอง สาม ขั้น!$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightToMakeMechadolls", "th": "ข้าใช้เวลาทั้งคืนสร้างตุ๊กตากล และอีกคืนคิดคำถาม…\\p เจ้าเกือบจะยิ่งใหญ่เทียบเท่าข้า ขาดไปอีกแค่หนึ่ง สอง ขั้น!$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightToInstallDoors", "th": "ข้าใช้เวลาทั้งคืนติดตั้งประตู…\\p เจ้าเกือบจะยิ่งใหญ่เทียบเท่าข้าแล้ว!$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightSettingUpArrows", "th": "ข้าใช้เวลาทั้งคืนติดตั้งลูกศร…\\p เจ้ายิ่งใหญ่เทียบเท่าข้าแล้ว!$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightPolishingFloors", "th": "ข้าใช้เวลาทั้งคืนขัดพื้น…\\p เจ้ายิ่งใหญ่เหนือกว่าข้าแล้ว! มั้งนะ…$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_FountainOfIdeasRunDry", "th": "จ-จะทำยังไงดี? น้ำพุแห่งไอเดียกลไกของข้าเหือดแห้งแล้ว…\\p บางทีคงถึงเวลาที่ข้าต้องออกท่องไปทั่วแดน เพื่อคิดค้นกลไกใหม่ ๆ…$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent", "th": "ข้าเกลียดการยอมรับความพ่ายแพ้ แต่เจ้าเอาชนะข้าได้!\\p ถึงอย่างนั้น เจ้าต้องถูกเสน่ห์ของข้าดึงดูดแน่ ๆ\\pถึงได้แวะมาหาข้าครั้งแล้วครั้งเล่า ใช่ ต้องใช่แน่!\\p แต่นั่นไม่เกี่ยวกับที่ข้าแพ้หรอกนะ!\\p เพื่อเป็นเกียรติแก่มิตรภาพระหว่างเจ้าผู้มุ่งมั่น กับอัจฉริยะอย่างข้า\\pข้าขอสั่งให้เจ้ารับของที่ระลึกนี้ไป!\\p ที่จริงมีสองชิ้น เต็นท์แดงกับเต็นท์น้ำเงิน เจ้าชอบอันไหน?$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_NoRoomInPC", "th": "อะไรนะ? PC ของเจ้าไม่มีที่ว่าง? ข้าจะคิดยังไงกับเรื่องนี้ดี?\\p ก็อยากพูดแบบนั้นหรอกนะ แต่ข้าใจดีและเอาใจใส่เกินไป งั้นไว้กลับมาใหม่ทีหลัง!$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_LeavingOnJourney", "th": "… … … … … …\\p ข้าจะออกเดินทางเพื่อค้นหา ภารกิจตามหากลไกใหม่ ๆ\\p ข้าหวังว่าสักวันเจ้าจะกลับมาเยือน และทำให้ข้าสนุกอีกครั้ง\\p และบัดนี้ ลาก่อน!$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_YouHaveEarnedThisReward", "th": "ก็ได้! เจ้าสมควรได้รับรางวัลนี้!$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_NoRoomForThis", "th": "อะไรนะ? ไม่มีที่ใส่ของนี่งั้นหรือ? เจ้าพกของอะไรมาเยอะแยะนักหนา?\\p แต่ก็ได้ ในเมื่อเจ้ามาถึงตัวข้าแล้ว รางวัลของเจ้าจะอยู่กับข้าไปก่อน$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_MakeNewTricksToStumpYou", "th": "ลบรอยยิ้มเยาะนั่นออกจากหน้าไปซะ! ยังเร็วเกินไปที่จะคิดว่าชนะแล้ว!\\p ข้าจะสร้างกลไกใหม่ให้เจ้างงเป็นไก่ตาแตก\\pจะหัวเราะเยาะข้าได้ก็ต่อเมื่อผ่านหมดแล้วเท่านั้น\\p กลับมาพบกับตอนต่อไปอันแสนตื่นเต้นได้เลย!$"}
-{"id": "data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_YoureIgnoringMe", "th": "นี่ ๆ! เมินข้าอย่างนั้นหรือ? แบบนี้ข้าช้ำใจนะ!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_YoureBeingWatched", "th": "มีคนกำลังจ้องมองอยู่…$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedBeneathDesk", "th": "หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่ใต้โต๊ะตัวนี้? หัวไวนี่!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedBehindTree", "th": "หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่หลังต้นไม้ต้นนี้? หัวไวนี่!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedInDresser", "th": "หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่ในตู้เสื้อผ้านี้? หัวไวนี่!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConealedBeyondWindow", "th": "หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่นอกหน้าต่างบานนี้? หัวไวนี่!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedInPlanter", "th": "หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่ในกระถางต้นไม้นี้? หัวไวนี่!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedInCupboard", "th": "หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่ในตู้เก็บของนี้? หัวไวนี่!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedBehindWindow", "th": "หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่หลังหน้าต่างบานนี้? หัวไวนี่!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedBeneathCushion", "th": "หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่ใต้เบาะนี้? หัวไวนี่!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster", "th": "จงดู!\\p เพราะข้าคือบุรุษปริศนาที่ยิ่งใหญ่ที่สุดในโฮเอ็นที่ยังมีชีวิตอยู่! พวกเขาเรียกข้าว่า…\\p จอมกลไก! วาฮ่าฮ่าฮ่า! ยินดีที่ได้รู้จัก!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse", "th": "เจ้า เจ้ามาท้าทายบ้านกลไกของข้าใช่ไหม?\\p นั่นแหละคือเหตุผลที่เจ้ามาที่นี่ ใช่ไหม? ใช่แล้ว!\\p ข้ารับคำท้าของเจ้า!\\p เข้าไปทางม้วนภาพนั่น แล้วเริ่มการท้าทายของเจ้าได้เลย!\\p ข้าจะรออยู่ด้านใน!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ItsAScroll", "th": "เป็นม้วนภาพแขวน$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_GoInHoleBehindScroll", "th": "มีรูขนาดใหญ่อยู่หลังม้วนภาพ!\\p จะเข้าไปไหม?$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_LeavingOnJourneyNote", "th": "มีโน้ตแปะอยู่ที่ม้วนภาพ…\\p“ข้าจะออกเดินทาง อย่าตามหาข้า จอมกลไก”$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_NextTimeUseThisTrick", "th": "ครั้งหน้า ข้าจะใช้กลนี้ กับแผนนั้น และลูกเล่นพวกนั้น…\\p มุฟุฟุฟุ… ขอบอกเลยว่ามันยากล้ำเลิศ ขนาดข้ายังว่ายาก!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_InMidstOfDevisingNewChallenges", "th": "หา? อะไรนะ?! อ้อ เจ้านี่เอง!\\p ข้ากำลังคิดค้นการท้าทายสุดพิสดารแบบใหม่อยู่!\\p ขอเวลาให้ข้าคิดอีกสักหน่อยคงไม่มากเกินไปใช่ไหม?\\pเจ้าคงไม่หวงเวลาแค่นั้นหรอกนะ? อีกสักพักค่อยกลับมา!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_YoureHereToAcceptReward", "th": "อ้า เจ้านี่เอง! มารับรางวัลจากคราวก่อนใช่ไหม? ใช่แล้ว ข้าพูดถูก!\\p นี่! ข้าจะให้เจ้าเดี๋ยวนี้แหละ!$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_DidYouNotComeToClaimReward", "th": "หา? เจ้าไม่ได้มารับรางวัลหรอกหรือ?$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_MechadollWhichTent", "th": "ตุ๊กตากล 5 คือข้าพเจ้า! ถ้ารางวัลไม่ถูกรับไปโดยท่าน จอมกลไกท่านตามไปไม่ได้\\p เต็นท์แดงหรือเต็นท์น้ำเงิน ท่านชอบอันไหน?$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ThenFarewell", "th": "ถ้าเช่นนั้น ลาก่อน$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_PCFullAgain", "th": "สถานะ PC ของท่าน: เต็มอีกแล้ว ใจร้ายจริง ท่านนี่$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHousePuzzle_Text_FoundAScroll", "th": "{PLAYER} พบม้วนกระดาษ$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHousePuzzle_Text_MemorizedSecretCode", "th": "{PLAYER} จดจำรหัสลับที่เขียนไว้ในม้วนกระดาษ$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHousePuzzle_Text_SecretCodeWrittenOnIt", "th": "มีรหัสลับเขียนอยู่$"}
-{"id": "data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_DoorLockedWriteSecretCodeHere", "th": "ประตูล็อกอยู่\\p…พอดูใกล้ ๆ ก็เห็นว่ามีข้อความเขียนไว้ว่า “เขียนรหัสลับที่นี่”$"}
-{"id": "data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_WroteSecretCodeLockOpened", "th": "{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกสุดยอดที่สุด” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_SallyIntro", "th": "ฉันจะฟันฝ่าไปสู่ชัยชนะด้วยท่า CUT ที่เพิ่งเรียนมา!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_SallyDefeat", "th": "ทำไมเธอจริงจังขนาดนั้นล่ะ?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_SallyPostBattle", "th": "ฟันไปฟันมานี่ ไม่เคยเบื่อเลย!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_EddieIntro", "th": "ผมหลงเข้ามาในบ้านประหลาดนี่โดยบังเอิญ…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_EddieDefeat", "th": "แล้วตอนนี้ก็แพ้อีก…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_EddiePostBattle", "th": "หลงทาง แพ้การต่อสู้ แล้วตอนนี้ยิ่งหลงหนักกว่าเดิม… ออกไปไม่ได้แล้ว…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_RobinIntro", "th": "ตกลงจอมกลไกเป็นใครกันแน่นะ?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_RobinDefeat", "th": "มัวแต่หลงอยู่ในความคิด เลยแพ้ซะแล้ว!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_RobinPostBattle", "th": "เธอเก่งจัง! ตกลงเธอเป็นใครกันแน่?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened", "th": "{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกฉลาดล้ำ” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_TedIntro", "th": "สวิตช์ไหนปิดรูไหนนะ?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_TedDefeat", "th": "สู้เสร็จแล้วยิ่งงงหนักกว่าเดิมอีก!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_TedPostBattle", "th": "ช่วยกดปุ่มทั้งหมดแทนผมได้ไหม?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_PaulIntro", "th": "โอ้! นี่เป็นการท้าทายบ้านกลไกครั้งที่สองของเธอสินะ!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_PaulDefeat", "th": "เธอเก่งเรื่องต่อสู้ด้วยเหรอเนี่ย?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_PaulPostBattle", "th": "จอมกลไกติดตั้งกลไกทั้งหมดในบ้านนี้ด้วยตัวคนเดียวเลยนะ$"}
-{"id": "data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_GeorgiaIntro", "th": "สักวันฉันอยากสร้างยิมของตัวเอง เลยกำลังศึกษาวิธีวางกับดักอยู่$"}
-{"id": "data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_GeorgiaDefeat", "th": "ฉันศึกษาเรื่องต่อสู้ไม่มากพอ!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle", "th": "เธอเก่งนะเนี่ย อาจเก่งพอจะเป็นหัวหน้ายิมเลยก็ได้!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_WroteSecretCodeLockOpened", "th": "{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกเป็นที่หมายปอง” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_JustinIntro", "th": "ผมวนกลับมาที่เดิมตลอดเลย!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_JustinDefeat", "th": "แค่นี้ก็ลำบากจะแย่แล้ว ยังมาแพ้อีก? ไม่ยุติธรรมเลย!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_JustinPostBattle", "th": "ที่นี่มีแต่ประตู! แคบแล้วก็มืดไปหมด! ช่วยด้วย!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_MarthaIntro", "th": "ไม่รู้ว่าที่นี่มันเกิดอะไรขึ้น เริ่มรู้สึกเศร้าแล้ว…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_MarthaDefeat", "th": "เธอ… เธอใจร้าย!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_MarthaPostBattle", "th": "รู้หรอกน่าว่าฉันอ่อนแอ! แถมยังหลงทิศอีกต่างหาก!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_AlanIntro", "th": "ไม่เข้าใจเลยแฮะ ใครจะอยากได้บ้านประหลาดขนาดนี้กันนะ?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_AlanDefeat", "th": "ไม่เข้าใจเลย แพ้ได้ยังไง?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_AlanPostBattle", "th": "ไม่เข้าใจเลย บ้านนี้มีกับดักอยู่กี่อันกันแน่?\\p เธออาจเป็นคนที่ไขปริศนานั้นได้นะ$"}
-{"id": "data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_WroteSecretCodeLockOpened", "th": "{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกเท่สุด ๆ” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_CoraIntro", "th": "คิดแก้ปริศนานี่มันยุ่งยากเกินไป ฉันแค่อยากสู้เท่านั้นเอง!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_CoraDefeat", "th": "ถึงจะแพ้ แต่ฉันก็ยังชอบการต่อสู้ที่สุดอยู่ดี!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_CoraPostBattle", "th": "เธอก็เห็นด้วยใช่ไหม? ที่ไหนมีเทรนเนอร์ ต่อให้ไกลแค่ไหนก็ไปใช่ไหมล่ะ$"}
-{"id": "data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_YujiIntro", "th": "เฮอะ! ก้อนหินแบบนี้ ใช้นิ้วเดียวก็ปัดทิ้งได้!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_YujiDefeat", "th": "ดันก้อนหินได้ แต่แก้ปริศนาไม่ได้…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_YujiPostBattle", "th": "มีแต่แรงอย่างเดียวไม่พอ… ต้องใช้หัวด้วย ต้องมีสมอง!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_PaulaIntro", "th": "บ้านกลไกยิ่งมายิ่งซับซ้อนขึ้นเรื่อย ๆ ว่าไหม?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_PaulaDefeat", "th": "อ๊ากก!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_PaulaPostBattle", "th": "มีใครไปถึงปลายทางได้แล้วบ้างไหมนะ?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_WroteSecretCodeLockOpened", "th": "{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกคืออัจฉริยะ” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll1Intro", "th": "กริ๊ก-กร๊าก… ตุ๊กตากล 1 คือข้าพเจ้า!\\p ถ้าท่านตอบคำถามถูกต้อง ท่านจะได้ไปหาตุ๊กตากล 5 แล้วท่านจะได้รหัสลับ$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz1", "th": "คำถามตุ๊กตากล 1\\p โปเกมอนตัวหนึ่งในนี้ไม่พบในเส้นทาง 110 คือตัวไหน?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz2", "th": "คำถามตุ๊กตากล 1\\p โปเกมอนตัวหนึ่งในนี้ไม่ใช่ประเภท WATER คือตัวไหน?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz3", "th": "คำถามตุ๊กตากล 1\\p โปเกมอนตัวหนึ่งในนี้ไม่ใช้ท่า LEECH LIFE คือตัวไหน?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_CorrectGoThrough", "th": "ขอแสดงความยินดี ถูกต้องแล้ว ท่าน เชิญผ่าน ได้โปรด$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_DisappointmentError", "th": "บซซซ! น่าผิดหวัง ข้อผิดพลาด$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Wahahahaha", "th": "วาฮ่าฮ่าฮ่าฮ่า! วาฮ่าฮ่าฮ่าฮ่า! กริ๊ก-กร๊าก!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_WaitForNextChallenge", "th": "การท้าทายครั้งต่อไปของท่าน พวกเรารอคอย$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll2Intro", "th": "กริ๊ก-กร๊าก… ตุ๊กตากล 2 คือข้าพเจ้า!\\p ระดับความยากคำถามของตุ๊กตากล 1 ตั้งไว้ต่ำเกินไป$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz1", "th": "คำถามตุ๊กตากล 2\\p มิตสึรุยืมโปเกมอนตัวไหนจากพ่อของท่าน?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz2", "th": "คำถามตุ๊กตากล 2\\p โปเกมอนตัวไหนไล่ตามศาสตราจารย์โอดามากิ?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz3", "th": "คำถามตุ๊กตากล 2\\p แก๊งอควาใช้โปเกมอนตัวไหนในป่าโทกะ?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll3Intro", "th": "กริ๊ก-กร๊าก… ตุ๊กตากล 3 คือข้าพเจ้า!\\p เรื่องเงินทองคือสิ่งเดียวที่ข้าพเจ้าสนใจ$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1", "th": "คำถามตุ๊กตากล 3\\p อะไรแพงกว่ากัน? HARBOR MAIL สามฉบับ หรือ BURN HEAL หนึ่งขวด?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2", "th": "คำถามตุ๊กตากล 3\\p ขาย GREAT BALL หนึ่งลูก แล้วซื้อ POTION หนึ่งขวด เหลือเงินเท่าไหร่?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3", "th": "คำถามตุ๊กตากล 3\\pREPEL หนึ่งขวดกับ SODA POP แพงกว่า SUPER POTION หนึ่งขวดหรือไม่?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll4Intro", "th": "กริ๊ก-กร๊าก… ตุ๊กตากล 4 นั่นคือข้าพเจ้า!\\p คำถามของข้าพเจ้าคือสิ่งแห่งความงาม$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz1", "th": "คำถามตุ๊กตากล 4\\p ในบ้านริมหาด มีผู้ชายหรือผู้หญิงมากกว่ากัน?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz2", "th": "คำถามตุ๊กตากล 4\\p ในเมืองฟุเอ็น มีคุณตาหรือคุณยายมากกว่ากัน?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3", "th": "คำถามตุ๊กตากล 4\\p ในโรงเรียนเทรนเนอร์ มีนักเรียนหญิงกี่คน?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll5Intro", "th": "กริ๊ก-กร๊าก… ตุ๊กตากล 5 คือข้าพเจ้า!\\p ผลงานชิ้นเยี่ยมที่นายท่านภาคภูมิใจที่สุด คือข้าพเจ้า$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz1", "th": "คำถามตุ๊กตากล 5\\p ในแฟนคลับโปเกมอนที่ไคนะ มีโปเกมอนกี่ตัว?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz2", "th": "คำถามตุ๊กตากล 5\\p ในเมืองฮิวามากิ มีบ้านต้นไม้กี่หลัง?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz3", "th": "คำถามตุ๊กตากล 5\\p บนถนนจักรยาน มีนักไตรกีฬากี่คน?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened", "th": "{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกคือชีวิตของฉัน” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_SophiaIntro", "th": "พอได้ยินว่ามีบ้านประหลาด ฉันก็ต้องมาดูให้ได้$"}
-{"id": "data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_SophiaDefeat", "th": "ฉันค้นพบเทรนเนอร์ฝีมือดีเข้าแล้ว!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_SophiaPostBattle", "th": "สำรวจที่นี่สนุกจริง ๆ\\p เป็นการท้าทายที่คุ้มค่าจะกลับมาอีกเลยล่ะ!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_BennyIntro", "th": "บางทีผมอาจให้โปเกมอนนกบินข้ามกำแพงไปได้…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_BennyDefeat", "th": "ก๊ากก! พลาดซะแล้ว!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_BennyPostBattle", "th": "เอะเฮะเฮะ… คงแพ้เพราะคิดจะโกงล่ะมั้ง$"}
-{"id": "data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_SebastianIntro", "th": "ประตูหมุนพวกนี้ทำผมเวียนหัวไปหมดแล้ว…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_SebastianDefeat", "th": "ทุกอย่างหมุนติ้วไปหมด ทนไม่ไหวแล้ว…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_SebastianPostBattle", "th": "ดูเธอไม่เป็นอะไรเลยนะ หรือแค่ทำหน้าตายอยู่?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened", "th": "{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกน่ากอด” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_JoshuaIntro", "th": "จอมกลไกหายตัวไปเหมือนควันทุกที เขาทำได้ยังไงนะ?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_JoshuaDefeat", "th": "ว้ายยย! เธอเก่งเกินไปแล้ว! ทำได้ยังไงน่ะ?$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_JoshuaPostBattle", "th": "อยากปรากฏตัวและหายตัวไปเหมือนควันได้บ้างจัง$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_PatriciaIntro", "th": "เดินวนอยู่ที่เดิม… มันนำมาซึ่งเคราะห์ร้าย…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_PatriciaDefeat", "th": "พ่ายแพ้! ลางร้ายชัด ๆ…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_PatriciaPostBattle", "th": "ฉันเดินวนที่เดิมมาเกินสิบรอบแล้ว… เคราะห์ร้ายจริง ๆ…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_AlexisIntro", "th": "ใครชนะจะได้ผ่านไปก่อน ฉันรู้สึกอย่างนั้น$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_AlexisDefeat", "th": "โอ้! งั้นก็เชิญไปก่อนเลย!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_AlexisPostBattle", "th": "เธอกำลังไขปริศนาทั้งหมดในบ้านกลไก ฉันรู้สึกอย่างนั้น$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_MarielaIntro", "th": "นุฟุฟุฟุ ในที่สุดก็มาถึง! มาเริ่มกันเลย!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_MarielaDefeat", "th": "ชนะแบบสบาย ๆ เลยนะเธอ!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_MarielaPostBattle", "th": "ฮึ่ม! ฉันไม่ได้หงุดหงิดสักหน่อย! ไม่เลย!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_AlvaroIntro", "th": "ผมเฝ้าดูเธอเดินมาอย่างใกล้ชิดสุด ๆ เลย!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_AlvaroDefeat", "th": "ผลลัพธ์นี้ผมมองไม่เห็นล่วงหน้าเลย…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_AlvaroPostBattle", "th": "ยังไงก็เถอะ เราสองคนเลือกที่แปลก ๆ มาทำความรู้จักกันนะ\\p ในฐานะคนแปลกด้วยกัน มาพยายามให้เต็มที่กันเถอะ!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_EverettIntro", "th": "ที่นี่คับแคบเหลือเกินนะครับ…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_EverettDefeat", "th": "โอ้ แหม เก่งจริงนะครับ คุณ$"}
-{"id": "data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_EverettPostBattle", "th": "ผมหวังว่าถ้าชนะคุณได้ จะได้สลับที่กับคุณ แต่ว่า…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened", "th": "{PLAYER} เขียนรหัสลับลงบนประตู\\p“รักจอมกลไกที่สุด” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_VincentIntro", "th": "มีเทรนเนอร์ไม่กี่คนที่มาได้ไกลขนาดนี้$"}
-{"id": "data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_VincentDefeat", "th": "แสดงว่าเธอก็เก่งเหมือนกันสินะ…$"}
-{"id": "data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_VincentPostBattle", "th": "เธอเคยชนะแชมเปี้ยนโปเกมอนลีกมาแล้ว? เกินไปแล้ว!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_KeiraIntro", "th": "ถือว่าโชคดีนะที่ได้สู้กับฉัน!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_KeiraDefeat", "th": "ไม่จริงน่า! ฉันแพ้ไม่ได้!$"}
-{"id": "data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_KeiraPostBattle", "th": "ที่เธอชนะฉันได้ถือเป็นปาฏิหาริย์ เอาไปคุยโม้ได้เลย$"}
-{"id": "data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_LeroyIntro", "th": "เธอเองก็ลุยผ่านการท้าทายบ้านกลไกมาเหมือนกันสินะ$"}
-{"id": "data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_LeroyDefeat", "th": "อย่างนี้นี่เอง… เธอมีสไตล์ที่ไม่ธรรมดาเลย$"}
-{"id": "data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_LeroyPostBattle", "th": "ได้เห็นคนแบบเธอ จอมกลไกคงพอใจแน่$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_BattleOurFamily", "th": "สวัสดี! ดูท่าคุณคงเป็นนักเดินทางสินะ\\p เป็นไง? สนใจสู้กับครอบครัวสี่คนของเราแบบต่อเนื่องไหม?$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_IsThatSo", "th": "งั้นเหรอ? ถ้าเปลี่ยนใจก็แวะมานะ!$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_VictorIntro", "th": "ต้องอย่างนี้สิ! ชอบใจแล้ว!$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_VictorDefeat", "th": "โอ้โห! เก่งกว่าที่คิดไว้เยอะเลย!$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_VictorPostBattle", "th": "นี่ ทุกคน! ผมเจอเทรนเนอร์ที่เก่งมากเข้าแล้ว!$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_VictoriaIntro", "th": "โอ้ ตายจริง! ยังเด็กอยู่เลยนี่นา?\\p แต่ชนะสามีฉันได้ ต้องเป็นเทรนเนอร์ฝีมือดีแน่ ๆ\\p ตาฉันสู้บ้างแล้ว!$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_VictoriaDefeat", "th": "โอ้ ตายแล้ว! ไม่อยากเชื่อเลยว่าเธอจะเก่งขนาดนี้!$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_VictoriaPostBattle", "th": "มีเทรนเนอร์เก่ง ๆ อยู่ตรงนี้! คนนี้เก่งจริง ๆ นะ!$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_ViviIntro", "th": "เก่งกว่าแม่อีกเหรอ? ว้าว!\\p แต่หนูก็เก่งนะ! จริง ๆ! สาบานเลย!$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_ViviDefeat", "th": "เอ๊ะ? หนูเพิ่งแพ้ไปเหรอ?$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_ViviPostBattle", "th": "ไม่ยุติธรรมเลย…\\p…ฮึก… คุณยายขา!$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_VickyIntro", "th": "กล้าดียังไงมาทำให้หลานสาวยายร้องไห้!\\p เพราะงั้น ยายจะตีให้ก้นลาย! เตรียมตัวแพ้ได้เลย!$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_VickyDefeat", "th": "ว้าก! เก่งจริง ๆ… หลานยายพูดถูก…$"}
-{"id": "data/maps/Route111/scripts.inc#Route111_Text_VickyPostBattle", "th": "ถ้าไม่รีบร้อนอะไร ก็อยู่คุยกับพวกเราสักพักสิ$"}
+{"id":"data/maps/OldaleTown/scripts.inc#OldaleTown_Text_ThisIsAPokemonMart","th":"ที่นี่คือโปเกมาร์ทครับ สังเกตหลังคาสีฟ้าได้เลย\\p ร้านเรามีสินค้าหลากหลาย รวมถึง POKé BALL สำหรับจับโปเกมอนด้วยครับ\\p นี่ครับ ขอมอบชิ้นนี้ให้เป็นของแถมโปรโมชั่นครับ$"}
+{"id":"data/maps/OldaleTown/scripts.inc#OldaleTown_Text_PotionExplanation","th":"POTION ใช้ได้ทุกเมื่อเลยครับ\\p ในบางสถานการณ์ มันจึงมีประโยชน์ยิ่งกว่าโปเกมอนเซ็นเตอร์เสียอีก$"}
+{"id":"data/maps/OldaleTown/scripts.inc#OldaleTown_Text_WaitDontComeInHere","th":"อ๊ากกก! เดี๋ยวก่อน! อย่าเพิ่งเข้ามานะ\\p ผมเพิ่งเจอรอยเท้าของโปเกมอนหายาก!\\p รอให้ผมวาดรอยเท้าเสร็จก่อนนะ โอเค?$"}
+{"id":"data/maps/OldaleTown/scripts.inc#OldaleTown_Text_DiscoveredFootprints","th":"ผมเพิ่งเจอรอยเท้าของโปเกมอนหายาก!\\p รอให้ผมวาดรอยเท้าเสร็จก่อนนะ โอเค?$"}
+{"id":"data/maps/OldaleTown/scripts.inc#OldaleTown_Text_FinishedSketchingFootprints","th":"ผมวาดรอยเท้าของโปเกมอนหายากเสร็จแล้ว\\p แต่กลายเป็นว่ามันคือรอยเท้าของผมเอง…$"}
+{"id":"data/maps/OldaleTown/scripts.inc#OldaleTown_Text_MayLetsGoBack","th":"ฮารุกะ: {PLAYER}{KUN}! ทางนี้! รีบกลับบ้านกันเถอะ!$"}
+{"id":"data/maps/OldaleTown/scripts.inc#OldaleTown_Text_BrendanLetsGoBack","th":"ยูกิ: ผมจะกลับไปแล็บของพ่อแล้วนะ {PLAYER} รีบกลับไปด้วยล่ะ$"}
+{"id":"data/maps/OldaleTown/scripts.inc#OldaleTown_Text_TownSign","th":"เมืองโคโทกิ “จุดเริ่มต้นจากความเรียบง่าย”$"}
+{"id":"data/maps/OldaleTown_House1/scripts.inc#OldaleTown_House1_Text_LeftPokemonGoesOutFirst","th":"พอเริ่มการต่อสู้ โปเกมอนตัวที่อยู่ซ้ายสุดของรายชื่อจะออกไปก่อน\\p เพราะฉะนั้นถ้ามีโปเกมอนในทีมมากขึ้น ลองสลับลำดับโปเกมอนดูนะ\\p อาจทำให้ได้เปรียบก็ได้$"}
+{"id":"data/maps/OldaleTown_House2/scripts.inc#OldaleTown_House2_Text_PokemonLevelUp","th":"เมื่อโปเกมอนต่อสู้ไปเรื่อย ๆ ก็จะเลเวลอัปและแข็งแกร่งขึ้นจ้ะ$"}
+{"id":"data/maps/OldaleTown_House2/scripts.inc#OldaleTown_House2_Text_YoullGoFurtherWithStrongPokemon","th":"ถ้าโปเกมอนของเราแข็งแกร่งขึ้น ก็จะเดินทางไปได้ไกลกว่านี้นะ$"}
+{"id":"data/maps/OldaleTown_Mart/scripts.inc#OldaleTown_Mart_Text_PokeBallsAreSoldOut","th":"พนักงานบอกว่าของหมดเกลี้ยงเลย ซื้อ POKé BALL ไม่ได้สักลูก$"}
+{"id":"data/maps/OldaleTown_Mart/scripts.inc#OldaleTown_Mart_Text_ImGoingToBuyPokeBalls","th":"ฉันจะซื้อ POKé BALL เยอะ ๆ แล้วจับโปเกมอนให้เพียบเลย!$"}
+{"id":"data/maps/OldaleTown_Mart/scripts.inc#OldaleTown_Mart_Text_RestoreHPWithPotion","th":"ถ้าโปเกมอนบาดเจ็บจน HP หมดและหมดสภาพ มันจะต่อสู้ไม่ได้\\p ถ้าไม่อยากให้โปเกมอนหมดสภาพ ก็ใช้ POTION ฟื้น HP ให้มันสิ$"}
+{"id":"data/maps/OldaleTown_PokemonCenter_1F/scripts.inc#OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC","th":"PC ตรงมุมนั้น เทรนเนอร์โปเกมอนทุกคนใช้ได้\\p แน่นอนว่าคุณเองก็ใช้ได้เช่นกันครับ$"}
+{"id":"data/maps/OldaleTown_PokemonCenter_1F/scripts.inc#OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat","th":"โปเกมอนเซ็นเตอร์นี่สุดยอดไปเลย!\\p ใช้บริการได้ตามใจชอบ แถมฟรีทั้งหมดด้วย ไม่ต้องห่วงอะไรเลย!$"}
+{"id":"data/maps/OldaleTown_PokemonCenter_1F/scripts.inc#OldaleTown_PokemonCenter_1F_Text_WirelessClubNotAvailable","th":"คลับไร้สายโปเกมอนที่ชั้นสองเพิ่งสร้างเสร็จไม่นานนี้\\p แต่ได้ยินว่ายังปรับปรุงระบบกันอยู่เลยล่ะ$"}
+{"id":"data/maps/OldaleTown_PokemonCenter_1F/scripts.inc#OldaleTown_PokemonCenter_1F_Text_TradedInWirelessClub","th":"คลับไร้สายโปเกมอนที่ชั้นสองเพิ่งสร้างเสร็จไม่นานนี้\\p ฉันแลกเปลี่ยนโปเกมอนทันทีเลยล่ะ$"}
+{"id":"data/maps/PacifidlogTown/scripts.inc#PacifidlogTown_Text_FastRunningCurrent","th":"ทะเลระหว่างคินางิกับไคนะมีกระแสน้ำไหลเชี่ยวมาก\\p ถ้าคิดจะใช้ SURF ล่ะก็ อาจโดนพัดไปที่ไหนก็ไม่รู้นะ$"}
+{"id":"data/maps/PacifidlogTown/scripts.inc#PacifidlogTown_Text_NeatHousesOnWater","th":"นี่ เจ๋งใช่ไหมล่ะ? บ้านพวกนี้ลอยอยู่บนน้ำ!\\p ผมเกิดที่นี่แหละ!$"}
+{"id":"data/maps/PacifidlogTown/scripts.inc#PacifidlogTown_Text_SkyPillarTooScary","th":"เสาแห่งท้องฟ้าเหรอ?\\p…อ๋อ คงหมายถึงหอคอยสูงลิบที่อยู่ห่างออกไปหน่อยนั่นสินะ\\p ถ้าถามลุงนะ ลุงไม่ปีนหรอก ขึ้นไปสูงขนาดนั้นน่ากลัวจะตาย\\p ใช้ชีวิตระดับน้ำทะเลที่คินางิ แค่นี้ลุงก็พอใจแล้ว$"}
+{"id":"data/maps/PacifidlogTown/scripts.inc#PacifidlogTown_Text_TownSign","th":"เมืองคินางิ\\p“เมืองที่แสงอรุณยิ้มให้ผืนน้ำ”$"}
+{"id":"data/maps/PacifidlogTown_House1/scripts.inc#PacifidlogTown_House1_Text_RegiStory","th":"ว่ากันว่าในภูมิภาคโฮเอ็น มีโปเกมอนสามตัวที่เป็นตัวแทนพลังของหิน น้ำแข็ง และเหล็ก\\p แต่ละตัวซ่อนตัวอยู่ลึกเข้าไปในถ้ำ\\p เป็นเรื่องที่ผมได้ฟังมาตั้งแต่ยังเด็ก ๆ น่ะ$"}
+{"id":"data/maps/PacifidlogTown_House1/scripts.inc#PacifidlogTown_House1_Text_SixDotsOpenThreeDoors","th":"“จุดหกจุดเปิดประตูสามบาน”\\p คุณปู่ชอบพูดแบบนั้น แต่ฉันก็ไม่รู้ว่าหมายความว่าอะไร$"}
+{"id":"data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_ChairmansYoungerBrotherOnVacation","th":"เอะแฮ่ม!\\p กระผมคือบุคคลสำคัญที่สุดของแฟนคลับโปเกมอน… น้องชายของท่านประธานนั่นเอง\\p กระผมมาพักร้อนกับโปเกมอนที่นี่ ใช่แล้ว แน่นอน$"}
+{"id":"data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_AhYourPokemon","th":"อ๊ะ! โปเกมอนของคุณ…$"}
+{"id":"data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_AdoringPokemonTakeThis","th":"ดูออกเลยว่ามันรักคุณมาก\\p โปเกมอนที่ทั้งรักเจ้านายและน่ารักขนาดนี้ สมควรได้ TM แบบนี้ ว่าไหมครับ?$"}
+{"id":"data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_PutInSomeMoreEffort","th":"อืม… ไม่แย่ แต่ก็ไม่ดีเหมือนกัน\\p คุณในฐานะเทรนเนอร์ต้องพยายามให้มากกว่านี้อีกหน่อยนะครับ$"}
+{"id":"data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_ViciousPokemonTakeThis","th":"หน้าตามันดุร้ายน่าดู\\p โปเกมอนน่ากลัวแบบนั้น สมควรได้ TM แบบนี้ครับ$"}
+{"id":"data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_ExplainReturnFrustration","th":"ถ้าโปเกมอนรักคุณมาก ท่า RETURN จะมีพลังแรงขึ้น\\p ถ้ามันไม่ชอบคุณ ท่า FRUSTRATION จะแรงขึ้นแทนครับ$"}
+{"id":"data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_GetGoodTMInXDays","th":"อ้อ ใช่ ๆ อีกราว ๆ {STR_VAR_1} วัน กระผมน่าจะได้ TM ดี ๆ มาสักแผ่นสองแผ่น\\p ถึงตอนนั้นแวะมาหากระผมนะครับ จะให้ TM ที่เหมาะกับโปเกมอนของคุณ$"}
+{"id":"data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_Rurii","th":"รูริริ: รูรี่$"}
+{"id":"data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_VeryFriendlyWithTrainer","th":"ดูเหมือนมันจะสนิทกับเทรนเนอร์มาก$"}
+{"id":"data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_Rururi","th":"รูริริ: รูรูริ!$"}
+{"id":"data/maps/PacifidlogTown_House2/scripts.inc#PacifidlogTown_House2_Text_DoesntLikeTrainerVeryMuch","th":"ดูเหมือนมันจะไม่ค่อยชอบเทรนเนอร์เท่าไหร่$"}
+{"id":"data/maps/PacifidlogTown_House3/scripts.inc#PacifidlogTown_House3_Text_WillingToTradeIt","th":"ดู {STR_VAR_2} ตัวนี้สิ!\\p นี่คือ {STR_VAR_2} ที่ผมจับได้เมื่อวาน ฉลองวันเกิดตัวเองเลยนะ!\\p อ้าว เห็นเลยว่าอยากได้ล่ะสิ! ก็แน่ล่ะ มันประเมินค่าไม่ได้นี่!\\p งั้นเอาอย่างนี้ ผมอาจจะยอมแลกกับ {STR_VAR_1} ก็ได้นะ$"}
+{"id":"data/maps/PacifidlogTown_House3/scripts.inc#PacifidlogTown_House3_Text_ItsSubtlyDifferentThankYou","th":"โอ้ นี่คือ {STR_VAR_1} เหรอ?\\p คล้าย ๆ {STR_VAR_2} อยู่นะ แต่ก็ต่างกันนิดหน่อย\\p ขอบคุณมาก!$"}
+{"id":"data/maps/PacifidlogTown_House3/scripts.inc#PacifidlogTown_House3_Text_WontAcceptAnyLessThanRealMon","th":"ไม่ ไม่ ไม่! ถ้าไม่ใช่ {STR_VAR_1} ของแท้ ผมไม่รับหรอก!$"}
+{"id":"data/maps/PacifidlogTown_House3/scripts.inc#PacifidlogTown_House3_Text_NotDesperateOrAnything","th":"อ้าว ไม่แลกแล้วเหรอ?\\p ไม่เป็นไร ผมก็ไม่ได้อยากแลกขนาดนั้นหรอก$"}
+{"id":"data/maps/PacifidlogTown_House3/scripts.inc#PacifidlogTown_House3_Text_ReallyWantedToGetBagon","th":"ผมรู้ว่าจะออกไปหาเองก็ได้ แต่ว่า…\\p ผมอยากได้ทัตสึเบย์ที่เทรนเนอร์คนอื่นจับมาจริง ๆ นี่นา…$"}
+{"id":"data/maps/PacifidlogTown_House3/scripts.inc#PacifidlogTown_House3_Text_IsThatAPokedex","th":"นั่นโปเกเด็กซ์เหรอ?\\p ได้เจอโปเกมอนหลาย ๆ แบบเลยใช่ไหม?\\p อยากเป็นแบบเธอบ้างจัง$"}
+{"id":"data/maps/PacifidlogTown_House4/scripts.inc#PacifidlogTown_House4_Text_PeopleSawHighFlyingPokemon","th":"มีคนบอกว่าเห็นโปเกมอนตัวหนึ่งบินอยู่สูงเหนือโฮเอ็น\\p มันบินอยู่ตลอดเวลาเลยเหรอ? ไม่ต้องพักที่ไหนบ้างเลยหรือไง?$"}
+{"id":"data/maps/PacifidlogTown_House4/scripts.inc#PacifidlogTown_House4_Text_SkyPokemon","th":"โปเกมอนท้องฟ้า! โปเกมอนท้องฟ้า!$"}
+{"id":"data/maps/PacifidlogTown_House4/scripts.inc#PacifidlogTown_House4_Text_WhereDidYouComeFrom","th":"เธอมาจากไหนเหรอ?$"}
+{"id":"data/maps/PacifidlogTown_House4/scripts.inc#PacifidlogTown_House4_Text_YesTown","th":"ใช่? เมืองใช่เหรอ?\\p ไม่เคยได้ยินชื่อที่แบบนั้นเลยนะ$"}
+{"id":"data/maps/PacifidlogTown_House4/scripts.inc#PacifidlogTown_House4_Text_YouHaveToComeFromSomewhere","th":"ไม่ใช่? ไม่เห็นเข้าใจเลย ยังไงก็ต้องมาจากที่ไหนสักแห่งสิ\\p อ๊ะ! เดี๋ยวนะ! อย่าบอกนะว่าเกิดที่ก้นทะเลน่ะ?$"}
+{"id":"data/maps/PacifidlogTown_House5/scripts.inc#PacifidlogTown_House5_Text_CantSeeMirageIslandToday","th":"วันนี้มองไม่เห็นเกาะมายาเลย…$"}
+{"id":"data/maps/PacifidlogTown_House5/scripts.inc#PacifidlogTown_House5_Text_CanSeeMirageIslandToday","th":"โอ้! โอ้โห! วันนี้มองเห็นเกาะมายาด้วย!$"}
+{"id":"data/maps/PacifidlogTown_House5/scripts.inc#PacifidlogTown_House5_Text_MirageIslandAppearDependingOnWeather","th":"เกาะมายา…\\p มันคงปรากฏและหายไปตามสภาพอากาศที่ทำให้เกิดภาพลวงตา\\p หรือว่ามันปรากฏและหายไปจริง ๆ กันนะ?$"}
+{"id":"data/maps/PacifidlogTown_PokemonCenter_1F/scripts.inc#PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard","th":"บัตรเทรนเนอร์ของเธอสีอะไรเหรอ? ของฉันสีทองแดงล่ะ!$"}
+{"id":"data/maps/PacifidlogTown_PokemonCenter_1F/scripts.inc#PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola","th":"เมืองคินางิลอยอยู่บนฝูงซันนีโกะนะ\\p ถ้าฉันบอกแบบนี้ เธอจะเชื่อไหม?$"}
+{"id":"data/maps/PacifidlogTown_PokemonCenter_1F/scripts.inc#PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats","th":"ว่ากันว่าบรรพบุรุษของชาวคินางิเกิดบนเรือ ใช้ชีวิตและตายบนเรือ\\p ข้าเข้าใจว่าที่พวกเขาใช้ชีวิตแบบนั้น ก็เพราะกำลังตามหาอะไรบางอย่างอยู่$"}
+{"id":"data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_WhereIsWally","th":"มิตสึรุของเราหายไปไหนนะ?\\p เราต้องออกเดินทางไปเมืองชิดาเกะในอีกไม่ช้านี้แล้ว…$"}
+{"id":"data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_AreYouRookieTrainer","th":"หวัดดี! นี่เธอเป็น… เทรนเนอร์มือใหม่รึเปล่า?\\p รู้ไหมว่าเทรนเนอร์โปเกมอนทำอะไรก่อน เวลามาถึงเมืองใหม่?\\p อย่างแรก พวกเขาจะไปดูว่าในเมืองมียิมแบบไหน$"}
+{"id":"data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_ThisIsPetalburgGym","th":"เห็นไหม? นี่แหละยิมของเมืองโทกะ$"}
+{"id":"data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_ThisIsGymSign","th":"นี่คือป้ายของยิม เวลาหายิมก็มองหาป้ายนี้นะ$"}
+{"id":"data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_WaterReflection","th":"ใบหน้าผมสะท้อนอยู่ในน้ำ\\p เป็นรอยยิ้มสดใสเปี่ยมด้วยความหวัง…\\p หรืออาจเป็นสีหน้าเงียบขรึมที่กำลังต่อสู้กับความกลัว…\\p เธอเห็นอะไรสะท้อนอยู่บนใบหน้าตัวเองบ้าง?$"}
+{"id":"data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_FullPartyExplanation","th":"สมมติว่าคุณมีโปเกมอนหกตัว แล้วจับได้อีกตัว…\\p มันจะถูกส่งไปยังกล่องเก็บผ่านการเชื่อมต่อ PC โดยอัตโนมัติครับ$"}
+{"id":"data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_GymSign","th":"ยิมโปเกมอนเมืองโทกะ หัวหน้ายิม: เซ็นริ “ชายผู้ไล่ตามความแข็งแกร่ง!”$"}
+{"id":"data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_CitySign","th":"เมืองโทกะ “เมืองที่ผู้คนอยู่ร่วมกับธรรมชาติ”$"}
+{"id":"data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_WallyHouseSign","th":"บ้านของมิตสึรุ$"}
+{"id":"data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_AreYouATrainer","th":"ขอโทษนะครับ!\\p ขอเดาจากการแต่งตัว คุณเป็นเทรนเนอร์โปเกมอนใช่ไหมครับ?$"}
+{"id":"data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_WellMaybeNot","th":"… … … … … …\\p อืม บางทีอาจจะไม่ใช่ เสื้อผ้ายังไม่ค่อยเลอะเท่าไหร่เลย\\p คุณอาจเป็นเทรนเนอร์มือใหม่ หรือไม่ก็เด็กธรรมดาทั่วไปนะ$"}
+{"id":"data/maps/PetalburgCity/scripts.inc#PetalburgCity_Text_ImLookingForTalentedTrainers","th":"ผมกำลังท่องไปทั่วเพื่อตามหาเทรนเนอร์ที่มีพรสวรรค์\\p ขอโทษที่รบกวนเวลานะครับ$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadYoureHereWithYourPokemon","th":"พ่อ: หืม?\\p นั่น {PLAYER} นี่นา! ย้ายบ้านเสร็จเรียบร้อยแล้วเหรอ?\\p พ่อแปลกใจนะที่ลูกมาถึงที่นี่ได้คนเดียว\\p อ้อ เข้าใจแล้ว ลูกมากับโปเกมอนนี่เอง\\p หืม… งั้นลูกคงจะเป็นเทรนเนอร์เหมือนพ่อสินะ {PLAYER}\\p ข่าวดีจริง ๆ! พ่อจะรอดูนะ!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_WallyIdLikeAPokemon","th":"เอ่อ… ผม… ผมอยากได้โปเกมอนสักตัวครับ…$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadOhYoureWallyRight","th":"พ่อ: หืม? เธอคือ… เอ่อ… อ้อ ใช่ เธอคือมิตสึรุใช่ไหม?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_WallyIveNeverCaughtAPokemon","th":"มิตสึรุ: ผมจะไปอยู่กับญาติที่เมืองชิดาเกะครับ\\p ผมคิดว่าอยู่คนเดียวคงเหงา เลยอยากพาโปเกมอนไปด้วยสักตัว\\p แต่ผมไม่เคยจับโปเกมอนมาก่อนเลย ไม่รู้ว่าต้องทำยังไง…$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadHmISee","th":"พ่อ: อืม เข้าใจแล้ว$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadPlayerGoWithWally","th":"พ่อ: {PLAYER} ได้ยินแล้วใช่ไหม?\\p ไปกับมิตสึรุ ดูแลให้เขาจับโปเกมอนได้อย่างปลอดภัยนะ$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_IllLoanYouMyZigzagoon","th":"มิตสึรุ เอ้า ผมจะให้ยืมโปเกมอนของผม\\p มิตสึรุได้รับจิกุซากุมะ!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_WallyThankYouAndDadGivesPokeBall","th":"มิตสึรุ: ว้าว! โปเกมอน!\\p พ่อ: อืม ผมจะให้ POKé BALL ด้วย สู้เขานะ!\\p มิตสึรุได้รับ POKé BALL!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_WallyOhWowThankYou","th":"มิตสึรุ: ว้าว! ขอบคุณครับ!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_WouldYouReallyComeWithMe","th":"{PLAYER}… จะไปกับผมจริง ๆ เหรอครับ?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadSoDidItWorkOut","th":"พ่อ: เป็นยังไงบ้าง ได้ผลไหม?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_WallyThankYouBye","th":"มิตสึรุ: ได้ครับ ขอบคุณมากครับ นี่ครับ คืนโปเกมอนให้\\p{PLAYER} ขอบคุณที่ไปเป็นเพื่อนผมนะครับ\\p เพราะมีทั้งสองคน ผมถึงจับโปเกมอนได้\\p ผมสัญญาว่าจะดูแลมันอย่างดีเลยครับ\\p อ๊ะ! แม่รอผมอยู่ ผมต้องไปแล้วครับ!\\p ลาก่อนนะครับ {PLAYER}!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadGoCollectBadges","th":"พ่อ: เอาล่ะ…\\p{PLAYER} ถ้าลูกอยากเป็นเทรนเนอร์ที่แข็งแกร่ง พ่อมีคำแนะนำ\\p มุ่งหน้าไปเมืองคานาซุมิที่อยู่ถัดจากเมืองนี้ไป\\p ที่นั่น ลูกควรท้าสู้หัวหน้ายิม สึสึจิ\\p จากนั้นก็ไปยิมโปเกมอนอื่น ๆ แล้วเอาชนะหัวหน้ายิมเหล่านั้น\\p สะสมเข็มกลัดจากพวกเขา เข้าใจไหม?\\p แน่นอน พ่อเองก็เป็นหัวหน้ายิม สักวันเราจะได้สู้กัน {PLAYER}\\p แต่นั่นต้องหลังจากที่ลูกแข็งแกร่งขึ้นแล้วนะ$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanGoToRustboro","th":"พ่อ: หืม? ลูกไม่ไปยิมโปเกมอนที่เมืองคานาซุมิหรือ?\\p สู้กับเทรนเนอร์มือใหม่ไม่ได้ท้าทายอะไรพ่อเลย\\p{PLAYER} พ่ออยากให้ลูกมาท้าพ่อตอนที่แข็งแกร่งขึ้นอีกมาก\\p พ่อจะสู้กับลูก {PLAYER} เมื่อลูกมีเข็มกลัดยิมสี่อันมาให้พ่อดู ตกลงไหม?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanGoToDewford","th":"พ่อ: อย่างนี้นี่เอง… ลูกชนะหัวหน้ายิมที่เมืองคานาซุมิแล้วสินะ\\p แต่ยังมีเทรนเนอร์อีกมากที่แข็งแกร่งกว่าลูก {PLAYER}\\p ข้ามทะเลไปที่เมืองมุโระ มีหัวหน้ายิมชื่อโทคิอยู่\\p ลูกควรไปท้าสู้เขาดู$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_YouHaveGottenStronger","th":"พ่อ: หืม… {PLAYER} ลูกแข็งแกร่งขึ้นแล้ว\\p ดูได้จากจำนวนเข็มกลัดที่ลูกได้มา$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanIntro","th":"พ่อ: หืม… ลูกได้เข็มกลัดยิมครบสี่อันจริง ๆ สินะ\\p ดี ตามที่สัญญาไว้ เราจะสู้กันด้วยโปเกมอน\\p{PLAYER}…\\p พ่อดีใจมากที่ได้สู้จริงจังกับลูกของตัวเอง\\p แต่การต่อสู้ก็คือการต่อสู้!\\p พ่อจะทุ่มสุดตัวในฐานะหัวหน้ายิมเพื่อเอาชนะ\\p{PLAYER} ลูกเองก็ทุ่มให้สุดฝีมือด้วยล่ะ!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanDefeat","th":"…\\p พ่อ… พ่อ…\\p ไม่อยากเชื่อเลย {PLAYER}…\\p พ่อแพ้ {PLAYER} งั้นหรือ?\\p แต่กฎก็คือกฎ! เอ้า รับไปสิ$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ReceivedBalanceBadge","th":"{PLAYER} ได้รับเข็มกลัดบาลานซ์จากพ่อ!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ExplainBalanceBadgeTakeThis","th":"พ่อ: เข็มกลัดนั้นจะทำให้พลังป้องกันของโปเกมอนทุกตัวเพิ่มขึ้น\\p และโปเกมอนที่รู้ท่า HM อย่าง SURF จะเดินทางบนผิวน้ำได้\\p นี่คือของขวัญจากพ่อ {PLAYER} พ่อเชื่อว่าลูกจะใช้มันได้อย่างถูกต้อง$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ExplainFacade","th":"พ่อ: TM42 คือท่า FACADE\\p ถ้าโปเกมอนติดพิษ อัมพาต หรือแผลไหม้ พลังของท่าจะเพิ่มเป็นสองเท่า\\p มันอาจพลิกสถานการณ์ร้ายให้กลายเป็นความได้เปรียบได้$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadHappyAndSad","th":"พ่อ: ในฐานะหัวหน้ายิม พ่อเจ็บใจจนพูดไม่ออก…\\p แต่ในฐานะพ่อ พ่อทั้งดีใจและใจหายนิด ๆ แปลกดีนะ…$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_PleaseComeWithMe","th":"อ้อ อยู่นี่เอง {PLAYER}{KUN}!\\p ช่วยมากับฉันหน่อยนะ ฉันมีของที่อยากให้$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_LetMeBorrowPlayer","th":"เซ็นริ ไม่ว่าอะไรใช่ไหมครับ?\\p ขอยืมตัว {PLAYER}{KUN} ของคุณสักครู่นะครับ$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadGoingToKeepTraining","th":"พ่อ: {PLAYER} หมั่นไปเยี่ยมแม่บ้างนะ\\p พ่อจะอยู่ที่นี่ แล้วฝึกฝนให้หนักกว่าเดิมเป็นเท่าตัว\\p ในฐานะเทรนเนอร์ ถ้าไม่ได้แก้มือที่แพ้ลูก พ่อคงนอนไม่หลับ {PLAYER}!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DadNoAmountOfTrainingIsEnough","th":"พ่อ: {PLAYER} เป็นยังไงบ้าง?\\p โลกของโปเกมอนนั้นลึกซึ้งนัก\\p พ่อคิดจริง ๆ ว่าต่อให้ฝึกเท่าไหร่ก็ไม่มีวันพอ$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GymGuideAdvice","th":"เฮ้ เป็นไงบ้าง {PLAYER} ว่าที่แชมเปี้ยน!\\p ประตูในยิมนี้จะเปิดเมื่อชนะเทรนเนอร์ที่รออยู่\\p อุ๊ย! ประตูห้องนี้เปิดอยู่แล้ว เพราะงั้นอย่ามาโจมตีผมนะ!\\p เทรนเนอร์ของยิมโทกะใช้ไอเท็มสารพัดแบบ\\p ประตูทางซ้ายไปห้องความเร็ว\\p ประตูทางขวาไปห้องความแม่นยำ\\p ชื่อห้องจะเขียนไว้ที่ประตู เลือกให้ดีล่ะ\\p พอเลือกประตูได้แล้ว… เอาเลย สู้ ๆ นะ!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GymGuidePostVictory","th":"{PLAYER}! โห! ชนะได้แม้แต่พ่อตัวเองเลยเหรอ!\\p โอ้โห! เหตุการณ์พลิกล็อกสุด ๆ!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_RandallIntro","th":"ความสามารถในการโจมตีก่อนคู่ต่อสู้…\\p แค่นั้นก็ทำให้ผมได้เปรียบมหาศาลแล้ว ว่าไหม?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_RandallDefeat","th":"เป็นการต่อสู้ที่ยอดเยี่ยมมาก!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_RandallPostBattle","th":"ไปห้องถัดไปเถอะ มีการท้าทายใหม่รออยู่\\p ทางซ้ายคือห้องสับสน\\p ประตูทางขวาไปห้องป้องกัน$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_RandallPostBadge","th":"ไม่ว่าจะชนะใคร หรืออาจแพ้ใคร ก็ไม่เคยละทิ้งการฝึกฝนตัวเองและโปเกมอน\\p ผมคิดว่านั่นแหละคือหัวใจของการเป็นหัวหน้ายิม$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ParkerIntro","th":"ที่นี่คือห้องสับสน\\p ขอดูหน่อยว่าเธอผูกพันกับโปเกมอนแค่ไหน!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ParkerDefeat","th":"ทำให้ทีมเธอสับสนไม่พอ… พวกเธอผูกพันกันแน่นแฟ้นจริง ๆ$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ParkerPostBattle","th":"ห้องถัดไปคือห้องพลัง ทนแรงปะทะดิบ ๆ ไหวไหมล่ะ?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_ParkerPostBadge","th":"หลังจากเธอชนะหัวหน้าของเรา การฝึกก็โหดขึ้นอีกเยอะเลย$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GeorgeIntro","th":"ตอนที่คิดว่ากำลังจะชนะ คู่ต่อสู้ก็ฟื้น HP ซะงั้น…\\p นึกออกไหมว่ามันรู้สึกแย่แค่ไหน?\\p ผมจะให้เธอรู้เองว่ามันแย่ขนาดไหน!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GeorgeDefeat","th":"ฟื้น HP ไม่ทัน… พลังโจมตีอะไรขนาดนี้…$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GeorgePostBattle","th":"น่าจะรู้อยู่แล้วว่าลูกของหัวหน้าเราต้องไม่ธรรมดา\\p ไม่สิ! ฝีมือของเทรนเนอร์ได้มาจากความพยายามเท่านั้น\\p ผมแพ้เพราะความพยายามของผมยังไม่พอ\\p ไปต่อเถอะ! ห้องถัดไปคือห้องน็อกในทีเดียว$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GeorgePostBadge","th":"ผมจะฝึกฝนที่ยิมต่อไป สักวันผมจะเป็นหัวหน้ายิมให้ได้$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_BerkeIntro","th":"ถึงจะเป็นลูกของหัวหน้าเรา ผมก็ไม่ออมมือหรอก\\p จะให้ดูว่าโปเกมอนโดนคริติคอลมันน่ากลัวแค่ไหน!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_BerkeDefeat","th":"พลังของเธอ… ของจริงเลยนี่$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_BerkePostBattle","th":"พ่อของเธอแข็งแกร่งจริง ๆ เป็นเทรนเนอร์ที่ผมนับถือ\\p และผมก็รู้สึกได้ถึงประกายแบบเดียวกับพ่อเธอจากตัวเธอ\\p หวังว่าเธอจะได้สู้กับพ่ออย่างสุดมันนะ!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_BerkePostBadge","th":"ตั้งแต่พ่อของเธอมาเป็นหัวหน้ายิม เทรนเนอร์ในเมืองโทกะก็เก่งขึ้นเยอะเลย$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_MaryIntro","th":"คิกคิก… ที่นี่คือห้องความแม่นยำ\\p เวลาทุกการโจมตีเข้าเป้าไม่มีพลาด มันร้ายกาจน่าดูเลยนะ$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_MaryDefeat","th":"เธอเหนือกว่าฉันขั้นหนึ่งจริง ๆ…$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_MaryPostBattle","th":"ยังมีเทรนเนอร์ที่แข็งแกร่งกว่านี้รอเธออยู่อีกนะ\\p ซ้ายคือห้องป้องกัน ขวาคือห้องฟื้นฟู\\p ไม่ว่าทางไหน พลังโจมตีของโปเกมอนเธอจะถูกทดสอบแน่นอน$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_MaryPostBadge","th":"รู้ไหมว่าพวกเราในฐานะเทรนเนอร์พยายามไปให้ถึงอะไร?\\p เราพยายามจะเป็นคู่ใจที่รู้ใจกันกับโปเกมอนของเรายังไงล่ะ$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_AlexiaIntro","th":"ยิ่งพลังป้องกันสูง ฉันก็ยิ่งบุกได้บ้าระห่ำขึ้น$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_AlexiaDefeat","th":"การป้องกันของเรายังไม่พอ…$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_AlexiaPostBattle","th":"เธอสอนบทเรียนล้ำค่าให้ฉันเลยนะ\\p ไปต่อเถอะ! ประตูซ้ายไปห้องพลัง\\p ประตูขวาเปิดสู่ห้องน็อกในทีเดียว\\p ทั้งสองห้องมีเทรนเนอร์ที่ถนัดการบุก$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_AlexiaPostBadge","th":"หวัดดี! ลองใช้ท่า SURF ดูหรือยัง?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_JodyIntro","th":"หัวหน้ายิมของเราสั่งให้ทุ่มสุดตัวเพื่อชนะเธอ\\p ถึงเธอจะเป็นลูกของหัวหน้าก็ตาม!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_JodyDefeat","th":"แต่… ฉันทุ่มสุดตัวแล้วนะ!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_JodyPostBattle","th":"วิธีที่เธอใช้โปเกมอน… เหมือนสไตล์ของพ่อเธอเลย\\p ผ่านไปได้! หัวหน้ายิม พ่อของเธอกำลังรออยู่!$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_JodyPostBadge","th":"การทำให้โปเกมอนแข็งแกร่งขึ้นก็เป็นเรื่องดีนะ\\p แต่อะไรที่ตัดสินผู้ชนะล่ะ?\\p ก็ความรู้สึกที่เทรนเนอร์มีต่อโปเกมอนของตัวเองยังไงล่ะ$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DoorAppearsLocked","th":"ดูเหมือนตอนนี้ประตูนี้จะล็อกอยู่…$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterSpeedRoom","th":"ป้ายเขียนว่า “ห้องความเร็ว”\\p จะเข้าไปหรือไม่?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_DoorAppearsLocked2","th":"ดูเหมือนตอนนี้ประตูนี้จะล็อกอยู่…$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterAccuracyRoom","th":"ป้ายเขียนว่า “ห้องความแม่นยำ”\\p จะเข้าไปหรือไม่?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterConfusionRoom","th":"ป้ายเขียนว่า “ห้องสับสน”\\p จะเข้าไปหรือไม่?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterDefenseRoom","th":"ป้ายเขียนว่า “ห้องป้องกัน”\\p จะเข้าไปหรือไม่?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterRecoveryRoom","th":"ป้ายเขียนว่า “ห้องฟื้นฟู”\\p จะเข้าไปหรือไม่?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterStrengthRoom","th":"ป้ายเขียนว่า “ห้องพลัง”\\p จะเข้าไปหรือไม่?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterOHKORoom","th":"ป้ายเขียนว่า “ห้องน็อกในทีเดียว”\\p จะเข้าไปหรือไม่?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_EnterGymLeadersRoom","th":"ป้ายเขียนว่า “ห้องหัวหน้ายิม”\\p“มาดูด้วยตาตัวเองว่ามีโปเกมอนแบบไหนรออยู่!”\\p จะเข้าไปหรือไม่?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GymStatue","th":"ยิมโปเกมอนเมืองโทกะ$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_GymStatueCertified","th":"ยิมโปเกมอนเมืองโทกะ\\p เทรนเนอร์ที่เซ็นริรับรอง: {PLAYER}$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanPreRematch","th":"พ่อ: {PLAYER}… พ่อรู้สึกอยู่แล้วว่าลูกจะมา\\p พ่อไม่มีวันปฏิเสธคำท้าจากลูกหรอก\\p ลูกเข้าใจใช่ไหม?\\p ในยิม ไม่สำคัญหรอกว่าเราเป็นพ่อลูกกัน\\p…ไม่สิ เพราะเราเป็นพ่อลูกกัน เราจึงต้องสู้กันให้เต็มที่ ใช่ไหม {PLAYER}?$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanRematchDefeat","th":"เอ่อ… ฮ่า ๆ… สงสัยพ่อจะทุ่มเกินตัวไปหน่อย…$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanPostRematch","th":"พ่อ: {PLAYER}… ความฝันของลูกคืออะไร?\\p ความฝันของพ่อน่ะหรือ… ฮ่ะฮ่ะฮ่ะ… ที่จริงมันเป็นจริงไปแล้วล่ะ$"}
+{"id":"data/maps/PetalburgCity_Gym/scripts.inc#PetalburgCity_Gym_Text_NormanRematchNeedTwoMons","th":"พ่อ: {PLAYER}… พ่อรู้สึกอยู่แล้วว่าลูกจะมา\\p พ่อไม่มีวันปฏิเสธคำท้าจากลูกหรอก\\p ลูกเข้าใจใช่ไหม?\\p ในยิม ไม่สำคัญหรอกว่าเราเป็นพ่อลูกกัน\\p หืม? เดี๋ยวก่อน {PLAYER}\\p ลูกมีโปเกมอนที่สู้ได้แค่ตัวเดียวหรือ?\\p ขอโทษนะ แต่ลูกต้องกลับมาพร้อมโปเกมอนอย่างน้อยสองตัว$"}
+{"id":"data/maps/PetalburgCity_House1/scripts.inc#PetalburgCity_House1_Text_TravelingIsWonderful","th":"การเดินทางนี่วิเศษจริง ๆ!\\p ตอนหนุ่ม ๆ ข้าท่องไปทั้งทะเลและภูเขาเลยนะ!$"}
+{"id":"data/maps/PetalburgCity_House1/scripts.inc#PetalburgCity_House1_Text_GoOnAdventure","th":"เฮ้อ…\\p อยากออกผจญภัยกับโปเกมอนบ้างจัง…\\p คลานผ่านพงหญ้าชื้น ๆ… ปีนภูเขาหินขรุขระ…\\p ข้ามทะเลคลั่ง… เดินเตร่ในถ้ำมืด ๆ…\\p แล้วบางทีก็คิดถึงบ้านนิด ๆ…\\p การเดินทางคงสนุกสุดยอดไปเลย!$"}
+{"id":"data/maps/PetalburgCity_House2/scripts.inc#PetalburgCity_House2_Text_NormanBecameGymLeader","th":"เซ็นริได้เป็นหัวหน้ายิมคนใหม่ของเมืองเรา\\p ได้ยินว่าเขาย้ายครอบครัวมาจากที่ไกล ๆ ด้วยนะ$"}
+{"id":"data/maps/PetalburgCity_House2/scripts.inc#PetalburgCity_House2_Text_BattledNormanOnce","th":"ผมเคยสู้กับเซ็นริครั้งหนึ่ง แต่โห เขาเก่งเกินไปมาก\\p จะพูดยังไงดีล่ะ?\\p รู้สึกว่าเขาใช้ชีวิตเพื่อโปเกมอนจริง ๆ$"}
+{"id":"data/maps/PetalburgCity_Mart/scripts.inc#PetalburgCity_Mart_Text_WeakWillGrowStronger","th":"ถึงตอนนี้โปเกมอนจะยังอ่อนแอ มันก็จะแข็งแกร่งขึ้นได้\\p สิ่งสำคัญที่สุดคือความรัก! ความรักที่มีต่อโปเกมอน!$"}
+{"id":"data/maps/PetalburgCity_Mart/scripts.inc#PetalburgCity_Mart_Text_RepelIsUseful","th":"ใช้ REPEL ไหม? มันกันโปเกมอนไม่ให้เข้าใกล้ เวลารีบ ๆ ใช้แล้วสะดวกดีนะ$"}
+{"id":"data/maps/PetalburgCity_Mart/scripts.inc#PetalburgCity_Mart_Text_TakeSomeAntidotesWithYou","th":"พก ANTIDOTE ติดตัวบ้างหรือเปล่า?\\p ถ้าเดินไปพร้อมโปเกมอนที่ติดพิษ HP มันจะลดลงเรื่อย ๆ จนหมดสภาพ\\pพก ANTIDOTE ไว้บ้างนะ$"}
+{"id":"data/maps/PetalburgCity_PokemonCenter_1F/scripts.inc#PetalburgCity_PokemonCenter_1F_Text_PCStorageSystem","th":"ระบบเก็บโปเกมอนผ่าน PC นั่นน่ะ…\\p ใครก็ตามที่สร้างมันขึ้นมา ต้องเป็นพ่อมดวิทยาศาสตร์แน่ ๆ!$"}
+{"id":"data/maps/PetalburgCity_PokemonCenter_1F/scripts.inc#PetalburgCity_PokemonCenter_1F_Text_OranBerryRegainedHP","th":"ตอนโปเกมอนของผมกิน ORAN BERRY HP ก็ฟื้นขึ้นมาเลย!$"}
+{"id":"data/maps/PetalburgCity_PokemonCenter_1F/scripts.inc#PetalburgCity_PokemonCenter_1F_Text_ManyTypesOfPokemon","th":"โปเกมอนมีหลายประเภท\\p ทุกประเภทต่างมีจุดแข็งและจุดอ่อนต่อประเภทอื่น\\p ขึ้นอยู่กับประเภทของโปเกมอน การต่อสู้อาจง่ายหรือยากก็ได้$"}
+{"id":"data/maps/PetalburgCity_PokemonCenter_1F/scripts.inc#PetalburgCity_PokemonCenter_1F_Text_TreeckoIsGrassType","th":"อย่างคิโมริของเธอเป็นประเภท GRASS\\p มันได้เปรียบประเภท WATER และประเภท GROUND\\p แต่เสียเปรียบโปเกมอนประเภท FIRE$"}
+{"id":"data/maps/PetalburgCity_PokemonCenter_1F/scripts.inc#PetalburgCity_PokemonCenter_1F_Text_TorchicIsFireType","th":"อย่างอาชาโมของเธอเป็นประเภท FIRE\\p มันได้เปรียบประเภท GRASS และประเภท BUG\\p แต่เสียเปรียบโปเกมอนประเภท WATER$"}
+{"id":"data/maps/PetalburgCity_PokemonCenter_1F/scripts.inc#PetalburgCity_PokemonCenter_1F_Text_MudkipIsWaterType","th":"อย่างมิซึโกโรของเธอเป็นประเภท WATER\\p มันได้เปรียบประเภท FIRE\\p แต่เสียเปรียบโปเกมอนประเภท GRASS และประเภท ELECTRIC$"}
+{"id":"data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_ThanksForPlayingWithWally","th":"เธอคือ… อ้อ เธอคงเป็น {PLAYER}{KUN} ใช่ไหม?\\p ขอบใจนะที่เล่นกับมิตสึรุเมื่อสักครู่\\p เขาร่างกายอ่อนแอ ป่วยบ่อยมาตั้งแต่เป็นทารก\\p เราเลยส่งเขาไปอยู่กับญาติของฉันที่เมืองชิดาเกะสักพัก\\p อากาศที่นั่นบริสุทธิ์กว่าที่นี่มาก\\p ว่าไงนะ? มิตสึรุอยู่ไหนเหรอ? มิตสึรุของเราออกเดินทางไปแล้วล่ะ\\p ไม่รู้ว่าป่านนี้ไปถึงไหนแล้วนะ?$"}
+{"id":"data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_WonderHowWallyIsDoing","th":"ไม่รู้ว่ามิตสึรุของเราเป็นยังไงบ้างนะ$"}
+{"id":"data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_PleaseExcuseUs","th":"{PLAYER}{KUN}! ขอโทษนะที่พาเธอมาที่นี่แบบนี้\\p แต่ตั้งแต่มิตสึรุไปเมืองชิดาเกะ เขาก็แข็งแรงขึ้นมากเลย\\p ทั้งหมดนี้เป็นเพราะเธอ!\\p ตอนมิตสึรุออกจากเมือง เธอช่วยเขาจับโปเกมอนใช่ไหม?\\p ฉันว่านั่นทำให้มิตสึรุดีใจมาก\\p ที่จริงไม่ใช่แค่มิตสึรุหรอก ฉันในฐานะพ่อก็ดีใจด้วย\\p ดีใจที่เขาได้เพื่อนดี ๆ อย่างเธอ\\p นี่ไม่ใช่สินบนหรืออะไรนะ แต่ฉันอยากให้เธอรับของสิ่งนี้ไว้จริง ๆ$"}
+{"id":"data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_SurfGoAllSortsOfPlaces","th":"ถ้าโปเกมอนของเธอใช้ท่า SURF ได้ ก็จะไปได้สารพัดที่เลยนะ$"}
+{"id":"data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_WallyIsComingHomeSoon","th":"มิตสึรุใกล้จะกลับบ้านแล้ว ฉันรอวันนั้นอยู่เลย$"}
+{"id":"data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_YouMetWallyInEverGrandeCity","th":"หือ? เธอเจอมิตสึรุที่เมืองไซยูเหรอ?\\p โธ่ {PLAYER}{KUN} อย่าพูดเล่นน่า\\p ถึงเขาจะแข็งแรงขึ้นแล้ว แต่คงไปที่ไกลขนาดนั้นคนเดียวไม่ได้หรอก$"}
+{"id":"data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_WallyWasReallyHappy","th":"ตอนมิตสึรุบอกเราว่าจับโปเกมอนได้ เขาดีใจมากเลย\\p ไม่ได้เห็นเขายิ้มแบบนั้นมานานมากแล้ว$"}
+{"id":"data/maps/PetalburgCity_WallysHouse/scripts.inc#PetalburgCity_WallysHouse_Text_WallyLeftWithoutTelling","th":"อยากให้เก็บเรื่องนี้เป็นความลับจากสามีฉันนะ…\\p แต่มิตสึรุของเราออกจากเมืองชิดาเกะไปโดยไม่บอกใครเลย\\p รู้ไหม ถึงมิตสึรุจะร่างกายอ่อนแอ แต่ใจเขาเด็ดเดี่ยวเกินคาดเลยล่ะ\\p ฉันมั่นใจว่าสักวันเขาจะกลับมาอย่างปลอดภัย!$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_NotAOneToBeFound","th":"อืมมม… ไม่เจอสักตัวเลย…$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_HaveYouSeenShroomish","th":"สวัสดีครับ เห็นโปเกมอนชื่อคิโนโคโคะแถวนี้บ้างไหมครับ?\\p ผมชอบโปเกมอนตัวนั้นมากเลย$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_IWasGoingToAmbushYou","th":"ว่าจะดักซุ่มโจมตีแก แต่แกดันมัวอืดอาดอยู่ในป่าโทกะไม่ยอมออกมาสักที\\p รอจนเบื่อแล้ว เลยมาหาเองนี่ไง!$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_HandOverThosePapers","th":"แก! นักวิจัยเดวอน!\\p ส่งเอกสารนั่นมาซะ!$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_YouHaveToHelpMe","th":"ว้ายยย!\\p คุณเป็นเทรนเนอร์โปเกมอนใช่ไหมครับ? ช่วยผมด้วยเถอะครับ!$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_NoOneCrossesTeamAqua","th":"หา? คิดจะทำอะไรน่ะ? จะปกป้องหมอนั่นงั้นเหรอ?\\p ใครที่ขวางแก๊งอควาไม่มีวันได้รับความปรานี ต่อให้เป็นเด็กก็เถอะ!\\p มาสู้กันเลย!$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_YoureKiddingMe","th":"ล้อเล่นน่า! เก่งชะมัด!$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_YouveGotSomeNerve","th":"กรรร… กล้าดียังไงมายุ่งกับแก๊งอควา! มาสู้กันอีกรอบ!\\p ก็อยากพูดแบบนั้นหรอกนะ แต่โปเกมอนฉันหมดแล้ว…\\p แล้วอีกอย่าง พวกเราแก๊งอควาก็กำลังหมายตาของบางอย่างที่คานาซุมิเหมือนกัน\\p วันนี้ปล่อยไปก่อนก็แล้วกัน!$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_ThatWasAwfullyClose","th":"เฮ้อ… รอดหวุดหวิดเลย!\\p เพราะคุณแท้ ๆ เขาเลยไม่ได้ขโมยเอกสารสำคัญพวกนี้ไป\\p งั้นผมขอมอบ GREAT BALL เป็นการขอบคุณนะครับ!$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_TeamAquaAfterSomethingInRustboro","th":"เจ้าแก๊งอควานั่นบอกว่ากำลังหมายตาของบางอย่างที่คานาซุมิด้วยใช่ไหม?$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_ICantBeWastingTime","th":"แย่แล้ว! เรื่องด่วน! มัวเสียเวลาไม่ได้แล้ว!$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_YoureLoadedWithItems","th":"ของเต็มตัวเลยนะครับ ผมให้ GREAT BALL ไม่ได้แล้ว$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_GoBugPokemonTeam","th":"ผมจับโปเกมอนมาได้เพียบเลย!\\p ไปเลย ไปเลย ไปเลย! ทีมโปเกมอนประเภท BUG ของผม!$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_ICouldntWin","th":"มีโปเกมอนตั้งเยอะ แต่ก็ยังชนะไม่ได้…$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_ImOutOfPokeBalls","th":"ผมจับโปเกมอนมาเยอะมาก จนตอนนี้ POKé BALL หมดแล้ว$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_InstantlyPopularWithBugPokemon","th":"ถ้าเอาโปเกมอนประเภท BUG ไปโรงเรียน จะดังขึ้นมาทันทีเลยนะ!$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_CantBePopularIfILose","th":"ถ้าแพ้ก็ดังไม่ได้น่ะสิ$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_PeopleRespectYou","th":"ถ้ามีโปเกมอนประเภท BUG ตัวใหญ่ ๆ คนอื่นจะนับถือเลยล่ะ$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_IWantRematch1","th":"พอโปเกมอนประเภท BUG ของผมโตแล้วขอแก้มือนะ!\\p ผมจะลงทะเบียนเธอไว้ในโปเกนาวีล่ะ!$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_IWantRematch2","th":"พอโปเกมอนประเภท BUG ของผมโตแล้วขอแก้มือนะ!\\p ผมจะลงทะเบียนเธอไว้ในโปเกนาวีล่ะ!$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_MyPokemonHaveGrown","th":"โปเกมอนประเภท BUG ของผมโตแล้ว ผมจะได้ดังอีกครั้ง$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_CantBePopularIfLose","th":"ถ้าแพ้ก็ดังไม่ได้น่ะสิ$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_IveBeenTrainingHard","th":"มีโปเกมอนเก่ง ๆ แล้วจะดังใช่ไหมล่ะ? ผมเลยฝึกหนักมาตลอดเลย$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_StayOutOfTallGrass","th":"ไง! โปเกมอนของเธอสบายดีไหม?\\p ถ้าโปเกมอนยังอ่อนแอและอยากเลี่ยงการต่อสู้ ก็อย่าเข้าไปในพงหญ้าสูงนะ$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_HiddenItemsExplanation","th":"บางทีก็มีของตกอยู่บนพื้น ถึงจะมองไม่เห็นก็ตาม\\p ผมเลยคอยตรวจดูตรงที่เดินอยู่เสมอ$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_TryUsingThisItem","th":"โห เจ๋ง! นั่นเข็มกลัดของยิมคานาซุมินี่!\\p เธอต้องเป็นเทรนเนอร์แน่ ๆ ลองใช้ไอเท็มนี้ดูสิ$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_MiracleSeedExplanation","th":"นั่นคือ MIRACLE SEED ถ้าโปเกมอนถือไว้ ท่าประเภท GRASS จะแรงขึ้น\\p นอกจาก MIRACLE SEED แล้ว ฉันว่ายังมีไอเท็มสะดวก ๆ อื่นให้โปเกมอนถืออีกนะ$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_TrainerTipsExperience","th":"เคล็ดลับเทรนเนอร์\\p โปเกมอนที่ออกสู้แม้เพียงครั้งเดียวจะได้รับค่าประสบการณ์\\p ถ้าจะเลี้ยงโปเกมอนที่ยังอ่อน ให้วางไว้ซ้ายสุดของรายชื่อทีม\\p พอเริ่มการต่อสู้ก็สลับออกทันที มันจะได้ค่าประสบการณ์โดยไม่ต้องเจ็บตัว$"}
+{"id":"data/maps/PetalburgWoods/scripts.inc#PetalburgWoods_Text_TrainerTipsPP","th":"เคล็ดลับเทรนเนอร์\\p นอกจากค่าพลังชีวิต (HP) แล้ว โปเกมอนยังมีค่าพลังท่า (PP)\\pPP ใช้ในการออกท่าระหว่างต่อสู้\\p ถ้า PP ของโปเกมอนหมด ต้องพาไปโปเกมอนเซ็นเตอร์$"}
+{"id":"data/maps/Route101/scripts.inc#Route101_Text_HelpMe","th":"ช-ช่วยด้วย!$"}
+{"id":"data/maps/Route101/scripts.inc#Route101_Text_PleaseHelp","th":"นี่! เธอตรงนั้นน่ะ! ได้โปรด! ช่วยด้วย!\\p ในกระเป๋าของฉัน! มี POKé BALL อยู่!$"}
+{"id":"data/maps/Route101/scripts.inc#Route101_Text_DontLeaveMe","th":"จ-จะไปไหนน่ะ?! อย่าทิ้งฉันไว้แบบนี้สิ!$"}
+{"id":"data/maps/Route101/scripts.inc#Route101_Text_YouSavedMe","th":"ศาสตราจารย์โอดามากิ: เฮ้อ…\\p ฉันกำลังศึกษาโปเกมอนป่าในพงหญ้าสูงอยู่ แล้วก็โดนจู่โจมเข้า\\p เธอช่วยชีวิตฉันไว้ ขอบใจมากเลย!\\p อ้าว?\\p เธอคือ {PLAYER}{KUN} นี่นา!\\p ตรงนี้ไม่ใช่ที่คุยกัน ไว้แวะมาที่แล็บโปเกมอนของฉันทีหลังนะ$"}
+{"id":"data/maps/Route101/scripts.inc#Route101_Text_TakeTiredPokemonToPokeCenter","th":"ถ้าโปเกมอนเหนื่อย ก็พาไปโปเกมอนเซ็นเตอร์นะ\\p ที่เมืองโคโทกิใกล้ ๆ นี้ก็มีโปเกมอนเซ็นเตอร์อยู่$"}
+{"id":"data/maps/Route101/scripts.inc#Route101_Text_WildPokemonInTallGrass","th":"ในพงหญ้าสูง โปเกมอนป่าจะกระโดดออกมา\\p ถ้าอยากจับโปเกมอน ต้องเข้าไปหาในพงหญ้าสูงนะ$"}
+{"id":"data/maps/Route101/scripts.inc#Route101_Text_RouteSign","th":"เส้นทาง 101 {UP_ARROW} เมืองโคโทกิ$"}
+{"id":"data/maps/Route102/scripts.inc#Route102_Text_WatchMeCatchPokemon","th":"มิตสึรุ: {PLAYER}… โปเกมอนชอบซ่อนตัวอยู่ในพงหญ้าสูงแบบนี้ใช่ไหมครับ?\\p ช่วยดูหน่อยนะครับว่าผมจะจับได้ดีไหม\\p…ว้าว!$"}
+{"id":"data/maps/Route102/scripts.inc#Route102_Text_WallyIDidIt","th":"มิตสึรุ: ผมทำได้แล้ว… นี่คือ… โปเกมอนของผม!$"}
+{"id":"data/maps/Route102/scripts.inc#Route102_Text_LetsGoBack","th":"{PLAYER} ขอบคุณครับ! กลับไปที่ยิมกันเถอะครับ!$"}
+{"id":"data/maps/Route102/scripts.inc#Route102_Text_ImNotVeryTall","th":"ผม… ตัวไม่ค่อยสูง เลยจมหายไปในพงหญ้าสูงเลย\\p หญ้าเข้าจมูก แล้วก็… ฟะ ฟะ ฟะ ฟะ…\\p ฟ้าดชิ้ว!$"}
+{"id":"data/maps/Route102/scripts.inc#Route102_Text_CatchWholeBunchOfPokemon","th":"ผมจะจับโปเกมอนให้ได้เพียบเลย!$"}
+{"id":"data/maps/Route102/scripts.inc#Route102_Text_RouteSignOldale","th":"เส้นทาง 102 {RIGHT_ARROW} เมืองโคโทกิ$"}
+{"id":"data/maps/Route102/scripts.inc#Route102_Text_RouteSignPetalburg","th":"เส้นทาง 102 {LEFT_ARROW} เมืองโทกะ$"}
+{"id":"data/maps/Route103/scripts.inc#Route103_Text_MayRoute103Pokemon","th":"ฮารุกะ: ไหนดูซิ… โปเกมอนที่พบในเส้นทาง 103 ก็มี…$"}
+{"id":"data/maps/Route103/scripts.inc#Route103_Text_MayLetsBattle","th":"อ้าว หวัดดี {PLAYER}{KUN}!\\p…อ้อ เข้าใจแล้ว พ่อฉันให้โปเกมอนเธอเป็นของขวัญสินะ\\p ไหน ๆ ก็มาเจอกันแล้ว มาสู้กันสักตาเถอะ!\\p ฉันจะให้เธอได้ลิ้มรสว่าการเป็นเทรนเนอร์เป็นยังไง$"}
+{"id":"data/maps/Route103/scripts.inc#Route103_Text_MayDefeated","th":"ว้าว! สุดยอดเลย! {PLAYER}{KUN} เก่งใช้ได้เลยนะ!$"}
+{"id":"data/maps/Route103/scripts.inc#Route103_Text_MayTimeToHeadBack","th":"ฮารุกะ: ฉันว่าฉันรู้แล้วล่ะว่าทำไมพ่อถึงจับตาดูเธอ\\p คือ เธอเพิ่งได้โปเกมอนตัวนั้นมา แต่มันก็ชอบเธอแล้ว\\p เธออาจเป็นเพื่อนกับโปเกมอนได้ทุกแบบง่าย ๆ เลยก็ได้นะ\\p เอาล่ะ ได้เวลากลับแล็บแล้ว$"}
+{"id":"data/maps/Route103/scripts.inc#Route103_Text_BrendanRoute103Pokemon","th":"ยูกิ: โอเค งั้นที่อยู่ในเส้นทาง 103 ก็มีตัวนี้กับตัวนั้น…$"}
+{"id":"data/maps/Route103/scripts.inc#Route103_Text_BrendanLetsBattle","th":"เฮ้ นั่น {PLAYER} นี่!\\p…อ้อ ใช่ พ่อให้โปเกมอนเธอไปแล้วนี่นา\\p ไหน ๆ ก็มาเจอกันแล้ว สู้กันสักตาไหมล่ะ?\\p ผมจะสอนให้เองว่าการเป็นเทรนเนอร์มันเป็นยังไง!$"}
+{"id":"data/maps/Route103/scripts.inc#Route103_Text_BrendanDefeated","th":"หือ {PLAYER} ฝีมือไม่เลวนี่นา$"}
+{"id":"data/maps/Route103/scripts.inc#Route103_Text_BrendanTimeToHeadBack","th":"ยูกิ: ผมเข้าใจแล้วล่ะ ผมรู้แล้วว่าทำไมพ่อถึงจับตาดูเธอ\\p ดูสิ โปเกมอนของเธอชอบเธอแล้ว ทั้งที่เพิ่งได้มาแท้ ๆ\\p{PLAYER} ผมรู้สึกว่าเธอเป็นเพื่อนกับโปเกมอนตัวไหนก็ได้ง่าย ๆ เลย\\p เรากลับแล็บกันเถอะ$"}
+{"id":"data/maps/Route103/scripts.inc#Route103_Text_ShouldHaveBroughtPotion","th":"โปเกมอนของผมเหนื่อยจนเดินโซเซแล้ว… น่าจะพก POTION มาด้วย…$"}
+{"id":"data/maps/Route103/scripts.inc#Route103_Text_ShortcutToOldale","th":"ถ้าข้ามทะเลจากตรงนี้ จะเป็นทางลัดไปเมืองโคโทกิ\\p ฟุฟุฟุ สะดวกดีใช่ไหมล่ะ?$"}
+{"id":"data/maps/Route103/scripts.inc#Route103_Text_RouteSign","th":"เส้นทาง 103 {DOWN_ARROW} เมืองโคโทกิ$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_BrineyLivesInSeasideCottage","th":"กระท่อมริมทะเลนั้นเป็นบ้านของลุงฮางิ\\p เขาเคยเป็นกะลาสีผู้เก่งกาจที่ไม่เคยกลัวทะเล ต่อให้พายุโหมแค่ไหนก็ตาม$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_WhatsItLikeAtBottomOfSea","th":"ทะเลเหรอ?\\p ไม่รู้ว่าก้นทะเลเป็นยังไงนะ?$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_ThrowBallAtWeakenedPokemon","th":"ถ้าจะขว้าง POKé BALL ให้ทำโปเกมอนป่าอ่อนแรงลงก่อน\\p ถ้ามันติดพิษ แผลไหม้ หรือหลับอยู่ ก็จะจับง่ายขึ้น$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_OnlyThrowBallAtWildPokemon","th":"ถ้าพยายามขโมยโปเกมอนของคนอื่น ก็คือหัวขโมยนะ\\p ควรขว้าง POKé BALL ใส่โปเกมอนป่าเท่านั้น$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_ImNotATrainer","th":"อ๊ะ ไม่ใช่ ฉันไม่ใช่เทรนเนอร์หรอก\\p แต่ก็จริงนะ ถ้าเทรนเนอร์สบตากัน ก็คือการท้าสู้\\p ถ้าไม่อยากสู้ ก็อย่าให้พวกเขาเห็นล่ะ$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_LikeFillingMouthWithSeedsTakeThis","th":"ผมชอบอมเมล็ดไว้เต็มปาก แล้วพ่นออกมารัว ๆ!\\p เอานี่ไป ลองดูเองสิ!\\p ใช้กับโปเกมอน แล้วมันจะเรียนท่ายิงเมล็ดรัว ๆ ได้$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_TMsAreOneTimeUse","th":"ขอแนะนำหน่อย!\\pTM หรือเครื่องสอนท่า ใช้ได้แค่ครั้งเดียวเท่านั้น\\p ใช้แล้วก็หมดไปเลย คิดให้ดีก่อนใช้นะ!$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_DontNeedThisTakeIt","th":"ร้านดอกไม้นี้เพิ่งเริ่มขายต้นกล้าไม่นานมานี้\\p ฉันดีใจมากจนเผลอช็อปเกินตัวไปหน่อย\\p ฉันไม่ต้องใช้ WHITE HERB นี่แล้ว รับไปได้ไหมจ๊ะ?$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_FlowerShopSellingSaplings","th":"ร้านดอกไม้นี้เพิ่งเริ่มขายต้นกล้าไม่นานมานี้\\p ฉันดีใจมากจนเผลอช็อปเกินตัวไปหน่อย จะเอาไปวางไว้ไหนดีล่ะเนี่ย?$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_MrBrineysCottage","th":"กระท่อมของลุงฮางิ$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_RouteSignPetalburg","th":"เส้นทาง 104 {RIGHT_ARROW} เมืองโทกะ$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_RouteSignRustboro","th":"เส้นทาง 104 {UP_ARROW} เมืองคานาซุมิ$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_PrettyPetalFlowShop","th":"ร้านดอกไม้ซันโทกะ$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_TrainerTipsDoubleBattles","th":"เคล็ดลับเทรนเนอร์\\p ในภูมิภาคโฮเอ็นมีเทรนเนอร์ที่มากันเป็นคู่\\pพวกเขาจะท้าสู้แบบ 2 ต่อ 2 เรียกว่าดับเบิลแบทเทิล\\p ในดับเบิลแบทเทิล เทรนเนอร์ต้องส่งโปเกมอนออกไปสองตัว\\pคือตัวซ้ายสุดของรายชื่อและตัวบนสุด ดูลำดับโปเกมอนให้ดี$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_MayWeShouldRegister","th":"ฮารุกะ: อ้าว หวัดดี {PLAYER}{KUN}!\\p เดวอนอัปเกรดโปเกนาวีของเธอให้มีระบบแมตช์คอลแล้วใช่ไหม?\\p เราลงทะเบียนกันไว้เถอะ จะได้ติดต่อกันได้ตลอด$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_RegisteredMay","th":"{PLAYER} ลงทะเบียนฮารุกะในโปเกนาวีแล้ว$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_MayHowsYourPokedex","th":"ฮารุกะ: อ้อ จริงสิ {PLAYER}{KUN} โปเกเด็กซ์ของเธอไปถึงไหนแล้ว?$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_MayMinesDecentLetsBattle","th":"ของฉันก็ไปได้สวยทีเดียว งั้น… มาสู้กันหน่อยไหม?$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_MayHaventRaisedPokemon","th":"ฮารุกะ: อ้าว เป็นอะไรไปล่ะ?\\p ยังไม่ค่อยได้จับหรือเลี้ยงโปเกมอนเลยเหรอ?\\p แบบนั้นไม่ดีสำหรับเทรนเนอร์เลยนะ!$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_MayLetsBattle","th":"ฮารุกะ: ว่าไงล่ะ? มาสู้กันตรงนี้หน่อยไหม?$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_MayIntro","th":"ฮารุกะ: {PLAYER}{KUN} เพิ่งเป็นเทรนเนอร์เองนะ ฉันไม่แพ้หรอก!$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_MayDefeat","th":"อุ๊ย! เก่งกว่าที่คิดไว้อีกนะเนี่ย!$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_MayPostBattle","th":"ฮารุกะ: ดูจากวิธีที่เธอดูแลโปเกมอน ฉันว่าเธอเก่งขึ้นเยอะเลยนะ\\p แต่แทนที่จะให้พวกมันสู้อย่างเดียว เธอควรเป็นแบบลุงฮางิบ้าง\\p การเป็นเพื่อนกับโปเกมอนก็สำคัญเหมือนกันนะ$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_BrendanWeShouldRegister","th":"ยูกิ: อ้าว เฮ้ {PLAYER}!\\p เจ๋ง ให้เดวอนติดตั้งระบบแมตช์คอลในโปเกนาวีแล้วนี่!\\p มาลงทะเบียนกันในโปเกนาวีของเราเถอะ จะได้ติดต่อกันได้$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_RegisteredBrendan","th":"{PLAYER} ลงทะเบียนยูกิในโปเกนาวีแล้ว$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_BrendanHowsYourPokedex","th":"ยูกิ: {PLAYER} โปเกเด็กซ์เป็นไงบ้าง? บันทึกไปได้กี่หน้าแล้ว?$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_BrendanDoingGreatLetsBattle","th":"ส่วนผมน่ะ ไปได้สวยเลย!\\p อยากลองดูไหมว่าผมเก่งแค่ไหน ด้วยการสู้กันสักตา?$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_BrendanNoConfidence","th":"ยูกิ: เป็นอะไรไป? ไม่มั่นใจในโปเกมอนของตัวเองเหรอ?$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_BrendanLetsBattle","th":"ยูกิ: ว่าไง? อยากสู้กับผมไหม?$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_BrendanIntro","th":"ยูกิ: รู้หรอกว่าเธอเพิ่งเป็นเทรนเนอร์ แต่ผมไม่ออมมือให้หรอกนะ!$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_BrendanDefeat","th":"อืม… เธอเก่งใช้ได้เลยนะ$"}
+{"id":"data/maps/Route104/scripts.inc#Route104_Text_BrendanPostBattle","th":"ยูกิ: เธอดูแลโปเกมอนได้ดีขึ้นเยอะเลย\\p แต่รู้ไหม เธอไม่ควรให้โปเกมอนสู้อย่างเดียวนะ\\p เหมือนลุงฮางิไง การเป็นเพื่อนกับโปเกมอนก็สำคัญ$"}
+{"id":"data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_WaitUpPeeko","th":"ลุงฮางิ: เดี๋ยวก่อน สาวน้อย! รอด้วย ปีโกะ!$"}
+{"id":"data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_ItsYouLetsSailToDewford","th":"หืม? เจ้าคือ {PLAYER}{KUN} นี่!\\p เจ้าช่วยปีโกะที่รักของข้าไว้! ข้าติดหนี้บุญคุณเจ้ามากเลย!\\p ว่าไงนะ? เจ้าอยากล่องเรือไปกับข้าหรือ?\\p ฮึม ฮึม…\\p เจ้ามี LETTER ที่ต้องไปส่งที่มุโระ กับพัสดุที่ต้องไปส่งที่ไคนะ งั้นสินะ?\\p ชีวิตยุ่งไม่เบาเลยนะเนี่ย!\\p แต่แน่นอน เรื่องที่เจ้าขอไม่ใช่ปัญหาเลยสักนิด\\p มาหาถูกคนแล้ว! เราจะออกเรือไปมุโระกัน!$"}
+{"id":"data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_SetSailForDewford","th":"ลุงฮางิ: ไปมุโระสินะ ได้เลย!\\p ถอนสมอ! ปีโกะ เราออกเรือกันแล้วนะ ที่รัก!$"}
+{"id":"data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_DeclineDeliverySail","th":"ลุงฮางิ: งั้นหรือ? ของที่ต้องไปส่งรอได้งั้นหรือ?\\p อยากออกเรือเมื่อไหร่ ก็บอกข้าได้ทุกเมื่อเลย!$"}
+{"id":"data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_NeedToMakeDeliveriesSailToDewford","th":"ลุงฮางิ: อะฮอย! ข้ารู้ดีว่าเจ้าอยากจะพูดอะไร!\\p เจ้าต้องไปส่ง LETTER ที่มุโระ และส่งพัสดุที่ไคนะ\\p เรื่องที่เจ้าต้องการให้ข้าทำ ไม่ใช่ปัญหาเลย เรื่องนี้ต้องยกให้ข้า!\\p ก่อนอื่น เราจะออกเรือไปมุโระกัน$"}
+{"id":"data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_NeedToDeliverPackageSailToDewford","th":"ลุงฮางิ: อะฮอย! ข้ารู้ดีว่าเจ้าอยากจะพูดอะไร!\\p เจ้าต้องไปส่งพัสดุให้กัปตันคุสึโนกิที่ไคนะ\\p เรื่องที่เจ้าต้องการให้ข้าทำ ไม่ใช่ปัญหาเลย เรื่องนี้ต้องยกให้ข้า!\\p ก่อนอื่น เราจะออกเรือไปมุโระกัน$"}
+{"id":"data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_WhereAreWeBound","th":"ลุงฮางิ: อะฮอย! เพื่อเจ้า ข้าออกทะเลได้ทุกเมื่อ!\\p เอาล่ะ สหาย เราจะมุ่งหน้าไปไหนกันดี?$"}
+{"id":"data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_TellMeWheneverYouWantToSail","th":"ลุงฮางิ: งั้นหรือ? อืม ปีโกะติดหนี้ชีวิตเจ้าอยู่\\p อยากออกเรือเมื่อไหร่ ก็บอกข้าได้ทุกเมื่อเลย!$"}
+{"id":"data/maps/Route104_MrBrineysHouse/scripts.inc#Route104_MrBrineysHouse_Text_Peeko","th":"ปีโกะ: ปี๊ ปี๊ฮโยโระ!$"}
+{"id":"data/maps/Route105/scripts.inc#Route104_Text_DadPokenavCall","th":"… … … … … … … … … … … ติ๊ด!\\p พ่อ: อ้อ {PLAYER} หรือ?\\p… … … … … … อยู่ที่ไหนแล้วล่ะ? ได้ยินเสียงลมแรงเชียว\\p พ่อเพิ่งได้ยินเรื่องโปเกนาวีของลูกจากประธานสึวาบุกิแห่งเดวอน เลยลองโทรหาดู\\p ฟังดูลูกสบายดี แค่นั้นพ่อก็พอใจแล้ว\\p ดูแลตัวเองด้วยนะ\\p… … … … … … … … … … … กริ๊ก!$"}
+{"id":"data/maps/Route105/scripts.inc#Route104_Text_RegisteredDadInPokenav","th":"ลงทะเบียน พ่อ เซ็นริ ในโปเกนาวีแล้ว$"}
+{"id":"data/maps/Route106/scripts.inc#Route106_Text_TrainerTips","th":"เคล็ดลับเทรนเนอร์\\p วิธีจับโปเกมอนด้วยคันเบ็ด: ถ้ามีปลาฮุบเหยื่อ ให้กดปุ่ม A$"}
+{"id":"data/maps/Route109/scripts.inc#DewfordTown_Text_BrineyLandedInSlateportDeliverGoods","th":"ลุงฮางิ: อะฮอย! เรามาถึงไคนะแล้ว!\\p เจ้าคงจะไปหากัปตันคุสึโนกิ แล้วส่ง DEVON GOODS สินะ?$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_BrineySailToDewfordQuestion","th":"ลุงฮางิ: ข้านึกว่าเจ้าต้องไปส่ง DEVON GOODS เสียอีก\\p งั้นจะล่องเรือกลับมุโระไหมล่ะ?$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_BrineyDewfordItIs","th":"ลุงฮางิ: ไปมุโระสินะ ได้เลย!\\p ถอนสมอ! ปีโกะ เราออกเรือกันแล้วนะ ที่รัก!$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_BrineyDeliverDevonGoods","th":"ลุงฮางิ: งั้นเจ้าก็ไปส่ง DEVON GOODS เถอะ ข้าจะรออยู่ตรงนี้$"}
+{"id":"data/maps/Route109/scripts.inc#DewfordTown_Text_BrineyLandedInSlateport","th":"ลุงฮางิ: อะฮอย! เรามาถึงไคนะแล้ว!\\p อยากออกเรืออีกเมื่อไหร่ ก็บอกข้าได้ทุกเมื่อเลย!$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_BrineyWhereAreWeBound","th":"ลุงฮางิ: อะฮอย! เพื่อเจ้า ข้าออกทะเลได้ทุกเมื่อ!\\p เอาล่ะ สหาย เราจะมุ่งหน้าไปไหนกันดี?$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_BrineyTellMeWhenYouNeedToSail","th":"ลุงฮางิ: อยากออกเรืออีกเมื่อไหร่ ก็บอกข้าได้เลย!$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_ChillAtMyPapasSpot","th":"โย่ เทรนเนอร์! ใครใจร้อน ใครใจเย็น แวะมาเล่นมาชิลที่ร้านป๊ะป๋าหนูสิ!$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_LittleKidsDartAround","th":"เด็ก ๆ วิ่งซนไปมาเร็วมากเลยนะ…\\p ละสายตาแค่แวบเดียวก็ไม่ได้ เหนื่อยจริง ๆ\\p ลูกฉันอยู่กับโปเกมอนของฉัน คงไม่เป็นไรหรอก แต่ว่า…$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_SandCastleTakingLongTime","th":"ปราสาททรายของเราสร้างนานมากเลย$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_YouCanHaveThis","th":"ให้อันนี้นะ!$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_WereGoingToMakeBigCastle","th":"เราจะเอาทรายทั้งหมดบนชายหาดมาสร้างปราสาทใหญ่ ๆ!\\p แล้วเราจะเป็นพระราชากับพระราชินี\\p เดี๋ยวให้เธอเป็นคนรับใช้นะ$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_ZigzagoonPicksUpLitter","th":"น้ำแถวนี้สะอาดดี\\p แต่บางทีข้าก็ให้จิกุซากุมะของข้าเก็บขยะตามชายฝั่ง\\p น้ำสกปรกกลายเป็นฝน แล้วไหลรวมเป็นแม่น้ำที่เราดื่มกิน…\\p ถ้าเราทำให้ทะเลสกปรก สุดท้ายมันก็ย้อนกลับมาทำร้ายเราเอง$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_ZigzagoonCry","th":"จิกุซากุมะ: กุกู?$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_SeashoreHouseSign","th":"บ้านริมหาด\\p“ให้การต่อสู้อันร้อนแรงลุกโชนบนผืนทรายร้อน! สถานที่สำหรับเทรนเนอร์ใจร้อนแรง!”$"}
+{"id":"data/maps/Route109/scripts.inc#Route109_Text_TrainerTipsSign","th":"เคล็ดลับเทรนเนอร์\\p โปเกมอนเลเวลเดียวกันอาจมีค่าสถานะไม่เท่ากันเสมอไป\\p ว่ากันว่าโปเกมอนที่เทรนเนอร์เลี้ยง จะแข็งแกร่งกว่าโปเกมอนป่า$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_SeashoreHouseIntro","th":"ผมเป็นเจ้าของบ้านริมหาด เรียกผมว่าคุณทะเลก็ได้!\\p สิ่งที่ผมรักที่สุดคือการได้ดูการต่อสู้โปเกมอนสุดร้อนแรง\\p ให้ผมเห็นหน่อยว่าหัวใจเธอลุกโชน!\\p ถ้าเธอชนะเทรนเนอร์ทุกคนที่นี่ได้ ผมจะให้รางวัลตอบแทน$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_ShowMeSomeHotMatches","th":"ขอดูแมตช์ร้อนแรงหน่อย!\\p ผมเปิดบ้านริมหาดนี้ก็เพื่อการนี้อย่างเดียวเลย!$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles","th":"ร้อนแรงสุด ๆ! การต่อสู้ลุกเป็นไฟเลย! ผมพอใจเกินคาด!\\p เพื่อขอบคุณที่โชว์ความร้อนแรง ผมอยากให้เธอรับนี่ไป\\pSODA POP ครึ่งโหล หกขวด!$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_BagFull","th":"อ้าว แต่กระเป๋าเธอเต็มแน่นเลย ผมเก็บไว้ให้ก่อนนะ$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_WantToBuySodaPop","th":"อยากซื้อ SODA POP ไหม? โปเกมอนชอบมากเลยนะ!\\p ขวดละ ¥300 เท่านั้น! ซื้อหน่อยสิ!$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_HereYouGo","th":"ได้เลย!$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_NotEnoughMoney","th":"เงินไม่พอนะ$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_ThatsTooBad","th":"ไม่เอาเหรอ? น่าเสียดายจัง$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_DwayneIntro","th":"ถ้ามาหาคู่ต่อสู้ในบ้านริมหาด ไม่มีเทรนเนอร์คนไหนร้อนแรงไปกว่าข้าแล้ว สหาย!$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_DwayneDefeated","th":"สู้กันร้อนแรงดีจริง! แพ้แบบนี้ข้ายอมรับได้ สหาย!$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_DwaynePostBattle","th":"ทุกครั้งที่มาไคนะ ข้าจะสนุกกับการต่อสู้สุดร้อนแรงและ SODA POP เย็นเจี๊ยบ!$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_JohannaIntro","th":"การต่อสู้น่าเบื่อไม่คุ้มค่าเหนื่อยหรอกค่ะ\\p การต่อสู้ร้อนแรงดั่งไฟเท่านั้นที่ขัดเกลาเทรนเนอร์และโปเกมอนให้แกร่งขึ้น!$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_JohannaDefeated","th":"ร้อนแรงสุด ๆ!$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_JohannaPostBattle","th":"เฮ้อ คอแห้งไปหมดแล้ว ดื่ม SODA POP สักขวดดีกว่า$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_SimonIntro","th":"ผมจะโชว์ให้ดูว่าโปเกมอนผมเจ๋งแค่ไหน แต่ห้ามร้องไห้นะ!$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_SimonDefeated","th":"…ผมแพ้ แต่ผมไม่ร้องไห้หรอก…$"}
+{"id":"data/maps/Route109_SeashoreHouse/scripts.inc#Route109_SeashoreHouse_Text_SimonPostBattle","th":"ถ้าโปเกมอนของผมรู้ท่าที่แบกผมข้ามน้ำได้ ผมก็ไม่ต้องใช้ห่วงยางนี่แล้ว$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_WeCantTalkAboutAquaActivities","th":"กิจกรรมของแก๊งอควาน่ะเหรอ… ตอนนี้ยังบอกไม่ได้หรอก$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_KickUpARuckus","th":"อยากรีบไปไคนะ แล้วก่อเรื่องวุ่นวายซะแล้ว!$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_MyFirstJobInAqua","th":"นี่เป็นงานแรกหลังจากเข้าแก๊งอควา น่ากลัวนิดหน่อยแฮะ$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_AquaActionsBringSmiles","th":"การกระทำของแก๊งอควาต้องทำให้ผู้คนยิ้มได้!$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_MayLetsBattle","th":"ฮารุกะ: หวัดดี {PLAYER}{KUN} ไม่เจอกันนานเลย!\\p ระหว่างที่ฉันตามหาโปเกมอนตัวอื่น ๆ โปเกมอนของฉันก็แข็งแกร่งขึ้น\\p งั้น… มาสู้กันหน่อยไหม?$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_MayDefeated","th":"อุ๊ย! เก่งกว่าที่คิดไว้อีกนะเนี่ย!$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_MayTakeThis","th":"ฮารุกะ: {PLAYER}{KUN} ก็ฝึกหนักมาเหมือนกันใช่ไหมล่ะ?\\p ฉันว่าเธอสมควรได้รางวัลนะ! นี่ของจากฉันเอง!$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_MayExplainItemfinder","th":"ฮารุกะ: นั่นคือ ITEMFINDER\\p ลองใช้ดูสิ ถ้ามีไอเท็มที่มองไม่เห็นอยู่ มันจะส่งเสียงออกมา\\p โอเค {PLAYER}{KUN} ไว้เจอกันใหม่นะ!\\p อาจฟังดูแปลกที่ฉันพูดเองนะ แต่ฉันว่าเธอควรฝึกให้หนักกว่านี้อีกสำหรับครั้งหน้า$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_BrendanLetsBattle","th":"ยูกิ: เฮ้ {PLAYER} อยู่นี่เองเหรอ เป็นไงบ้าง?\\p เลี้ยงโปเกมอนมาดีหรือเปล่า? เดี๋ยวผมเช็กให้$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_BrendanDefeated","th":"อืม… เธอเก่งใช้ได้เลยนะ$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_BrendanTakeThis","th":"ยูกิ: {PLAYER} ฝึกฝนมาโดยที่ผมไม่ทันสังเกตเลยนะ…\\p ใช้ได้! เอ้า รับนี่ไป$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_BrendanExplainItemfinder","th":"ยูกิ: นั่นคือ ITEMFINDER\\p ใช้คุ้ยหาไอเท็มที่มองไม่เห็น\\p ถ้ามันจับอะไรได้ มันจะส่งเสียงออกมา\\p เอาล่ะ ผมไปหาโปเกมอนตัวใหม่ก่อนนะ$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_RideBikeAtFullSpeed","th":"ได้ปั่นจักรยานเต็มสปีดบนไซเคิลโรด คงเจ๋งน่าดูเลยว่าไหม?$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_HairStreamsBehindMe","th":"ผมยาวดำขลับของฉันที่ปลิวไสวไปข้างหลัง เป็นไงบ้าง?\\p ฉันไว้ผมยาวก็เพื่อสิ่งนี้เลยล่ะ$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_YouGotBikeFromRydel","th":"โอ้ เฮ้ เธอได้จักรยานคันนั้นมาจากคาเซโนะใช่ไหม!\\p โอ้ ดูออกชัดแจ๋วเลย บนจักรยานเขียนไว้ว่า…\\p คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ\\p คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ\\p คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ\\p คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ\\p คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ คาเซโนะ… ชื่อนั้นอยู่เต็มไปหมดเลย\\p ปั่นไปทั่ว ๆ เลยสิ โฆษณาดีนะ!$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_TwoRoads","th":"ถนนสองสาย สายหนึ่งอยู่บน อีกสายอยู่ล่าง…\\p สายหนึ่งสำหรับคน อีกสายสำหรับโปเกมอน บางทีนั่นอาจถูกต้องและยุติธรรมแล้ว$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_WalkOnTheLowRoad","th":"ยายไม่มีจักรยาน เลยจะเดินเล่นสบาย ๆ ไปตามทางล่างจ้ะ$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_BikeTechniques","th":"ถ้าฝึกเทคนิคไว้ การปั่นจักรยานจะสนุกขึ้นอีกเยอะเลย\\p บางที่ก็ไปถึงได้ด้วยเทคนิคจักรยานเท่านั้นนะ$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_WhichShouldIChoose","th":"จะเลือกทางไหนดีนะ?\\p บึ่งตรงไปคินเซ็ตสึทางไซเคิลโรด หรือเดินทางล่างแล้วหาโปเกมอนไปด้วย?$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_CyclingChallengeResultSummary","th":"จำนวนครั้งที่ชน: … … {STR_VAR_1}!\\p เวลารวม: … … {STR_VAR_2}!$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_ChallengeReactionBest","th":"ยอดเยี่ยม! ผลงานงดงามมาก!\\p ความรักในการปั่นจักรยานของคุณมาจากก้นบึ้งหัวใจ ผมซาบซึ้งถึงจิตวิญญาณเลยครับ!$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_ChallengeReactionGood","th":"เทคนิคของคุณน่าทึ่งมาก\\p ผมแนะนำให้เร่งความเร็วขึ้นอีกหน่อย โดยยังหลบการชนไว้ครับ$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_ChallengeReactionOk","th":"ผมถือว่าคุณยังอยู่ระหว่างการพัฒนา\\p ถึงอย่างนั้น ก็หวังว่าคุณจะไม่ลืมความสุขล้วน ๆ ของการปั่นจักรยานนะครับ$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_ChallengeReactionBad","th":"ตายจริง… ฝีมือการปั่นของคุณเฉียดคำว่าน่าสะพรึงเลย\\p แน่นอนว่าคุณต้องฝึกปั่นให้มากกว่านี้อีกเยอะครับ$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_ChallengeReactionWorst","th":"…ผมตกตะลึง…\\p คุณอาจไม่เหมาะกับเรื่องปั่นจักรยานอันน่าเศร้านี้\\p คุณควรคิดให้ดี ๆ เรื่องเอาจักรยานไปคืนคาเซโนะนะครับ$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_RatedForNumberOfCollisions","th":"ที่นี่คือไซเคิลโรด\\p ถ้าปั่น MACH BIKE จากคินเซ็ตสึไปไคนะ\\pจะมีการจัดอันดับตามจำนวนครั้งที่ชนและเวลารวม$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_AlwaysAimHigher","th":"ไม่ว่าผลจะเป็นยังไง ผมหวังว่าจะได้เห็นเธอมาท้าทายอีก ตั้งเป้าให้สูงขึ้นเสมอนะ!$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_AcroBikesDoNotQualify","th":"บนไซเคิลโรดนี้ คนที่ปั่น MACH BIKE จะถูกจัดอันดับตามจำนวนครั้งที่ชนและเวลารวม\\pACRO BIKE ไม่นับในการจัดอันดับ เพราะเลี้ยวง่าย มันไม่ยุติธรรม$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_SlateportCitySign","th":"เส้นทาง 110 {DOWN_ARROW} เมืองไคนะ$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_CyclingRoadSign","th":"ไซเคิลโรดริมทะเล$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_AquaWasHere","th":"“แก๊งอความาเยือนแล้ว!”\\p มีคนเขียนข้อความนั้นไว้บนป้าย แต่ก็มีอีกคนมาทาสีทับ\\p ตอนนี้มันเขียนว่า “แก๊งแม็กม่าจงเจริญ!”$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_Route103Sign","th":"เส้นทาง 110 {LEFT_ARROW} เส้นทาง 103$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_SeasideParkingSign","th":"ลานจอดรถริมทะเล$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_MauvilleCitySign","th":"เส้นทาง 110 {UP_ARROW} เมืองคินเซ็ตสึ$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_TrainerTipsPrlzSleep","th":"เคล็ดลับเทรนเนอร์\\p ทำให้ศัตรูหมดทางสู้ได้ ด้วยการทำให้อัมพาตหรือหลับ\\p เป็นเทคนิคสำคัญในการต่อสู้โปเกมอน$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_TrainerTipsRegisterItems","th":"เคล็ดลับเทรนเนอร์\\p จัดเรียงไอเท็มในกระเป๋าได้ด้วยการกดปุ่ม SELECT$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_TrickHouseSign","th":"“เดินขวา {RIGHT_ARROW} สามก้าว และขึ้น {UP_ARROW} สองก้าว เพื่อไปยังบ้านกลไกแสนมหัศจรรย์”$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_BestRecord","th":"สถิติดีที่สุดจนถึงปัจจุบัน…\\p จำนวนครั้งที่ชน: {STR_VAR_1}\\p เวลาที่ใช้: {STR_VAR_2}$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_ThereIsNoRecord","th":"สถิติดีที่สุดจนถึงปัจจุบัน…\\p ดูเหมือนยังไม่มีใครมาท้าทาย ยังไม่มีสถิติ…$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_ImagineSeeingYouHere","th":"ศาสตราจารย์โอดามากิ: อ้าว {PLAYER}{KUN}! ไม่นึกเลยว่าจะมาเจอเธอที่นี่!\\p แล้ว {RIVAL} ของฉันไปอยู่ไหนล่ะ?$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_HeardYouInstallMatchCall","th":"อ้อ เข้าใจแล้ว สองคนแยกกันเดินทางสินะ ก็ดีเหมือนกัน\\p จริงสิ ได้ยินว่าโปเกนาวีของเธอติดตั้งระบบแมตช์คอลแล้ว\\p งั้นฉันขอลงทะเบียนเธอไว้ในโปเกนาวีของฉันด้วยนะ\\p แบบนี้ ถึงจะอยู่ห่างกัน ฉันก็ประเมินโปเกเด็กซ์ของเธอได้ทุกเมื่อ\\p… … … … … …$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_RegisteredBirchInPokenav","th":"ลงทะเบียนศาสตราจารย์โอดามากิในโปเกนาวีแล้ว$"}
+{"id":"data/maps/Route110/scripts.inc#Route110_Text_KeepAnEyeOutForRival","th":"ศาสตราจารย์โอดามากิ: {PLAYER}{KUN}…\\p ช่วยคอยดู {RIVAL} ของฉันด้วยนะ … … … … … …\\p เอาล่ะ ฉันต้องไปแล้ว ไว้เจอกันใหม่นะ {PLAYER}{KUN}!$"}
+{"id":"data/maps/Route110_SeasideCyclingRoadNorthEntrance/scripts.inc#Route110_SeasideCyclingRoadNorthEntrance_Text_GoAllOutOnCyclingRoad","th":"บนไซเคิลโรด คุณปั่นเต็มที่เร็วแค่ไหนก็ได้ตามใจชอบ\\p ปั่นเร็ว ๆ แบบนั้นรู้สึกดีมาก แต่ระวังอย่าไปชนใครเข้านะครับ!$"}
+{"id":"data/maps/Route110_SeasideCyclingRoadNorthEntrance/scripts.inc#Route110_SeasideCyclingRoadNorthEntrance_Text_TooDangerousToWalk","th":"ขออภัยครับ ห้ามเดินเท้าบนไซเคิลโรด เพราะอันตรายเกินไป\\p กรุณากลับมาพร้อมจักรยานนะครับ$"}
+{"id":"data/maps/Route110_SeasideCyclingRoadSouthEntrance/scripts.inc#Route110_SeasideCyclingRoadSouthEntrance_Text_GoAllOutOnCyclingRoad","th":"บนไซเคิลโรด คุณปั่นเต็มที่เร็วแค่ไหนก็ได้ตามใจชอบ\\p ปั่นเร็ว ๆ แบบนั้นรู้สึกดีมาก แต่ระวังอย่าไปชนใครเข้านะครับ!$"}
+{"id":"data/maps/Route110_SeasideCyclingRoadSouthEntrance/scripts.inc#Route110_SeasideCyclingRoadSouthEntrance_Text_TooDangerousToWalk","th":"ขออภัยครับ ห้ามเดินเท้าบนไซเคิลโรด เพราะอันตรายเกินไป\\p กรุณากลับมาพร้อมจักรยานนะครับ$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_YouveMadeItToMe","th":"อ๊าก! มาถึงตัวข้าได้แล้วหรือ? อืมมม… หัวไวนี่!$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightToPlantTrees","th":"ข้าใช้เวลาทั้งคืนปลูกต้นไม้พวกนั้น…\\p เจ้าเกือบจะยิ่งใหญ่เทียบเท่าข้า ขาดไปอีกแค่หนึ่ง สอง สาม สี่ ห้า หก ขั้น!$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightToMakeMaze","th":"ข้าใช้เวลาทั้งคืนสร้างเขาวงกต…\\p เจ้าเกือบจะยิ่งใหญ่เทียบเท่าข้า ขาดไปอีกแค่หนึ่ง สอง สาม สี่ ห้า ขั้น!$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightToPreparePanels","th":"ข้าใช้เวลาทั้งคืนเตรียมแผงกำแพง…\\p เจ้าเกือบจะยิ่งใหญ่เทียบเท่าข้า ขาดไปอีกแค่หนึ่ง สอง สาม สี่ ขั้น!$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightToShoveBoulders","th":"ข้าใช้เวลาทั้งคืนดันก้อนหินพวกนั้นเข้ามา…\\p เจ้าเกือบจะยิ่งใหญ่เทียบเท่าข้า ขาดไปอีกแค่หนึ่ง สอง สาม ขั้น!$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightToMakeMechadolls","th":"ข้าใช้เวลาทั้งคืนสร้างตุ๊กตากล และอีกคืนคิดคำถาม…\\p เจ้าเกือบจะยิ่งใหญ่เทียบเท่าข้า ขาดไปอีกแค่หนึ่ง สอง ขั้น!$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightToInstallDoors","th":"ข้าใช้เวลาทั้งคืนติดตั้งประตู…\\p เจ้าเกือบจะยิ่งใหญ่เทียบเท่าข้าแล้ว!$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightSettingUpArrows","th":"ข้าใช้เวลาทั้งคืนติดตั้งลูกศร…\\p เจ้ายิ่งใหญ่เทียบเท่าข้าแล้ว!$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_AllNightPolishingFloors","th":"ข้าใช้เวลาทั้งคืนขัดพื้น…\\p เจ้ายิ่งใหญ่เหนือกว่าข้าแล้ว! มั้งนะ…$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_FountainOfIdeasRunDry","th":"จ-จะทำยังไงดี? น้ำพุแห่งไอเดียกลไกของข้าเหือดแห้งแล้ว…\\p บางทีคงถึงเวลาที่ข้าต้องออกท่องไปทั่วแดน เพื่อคิดค้นกลไกใหม่ ๆ…$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent","th":"ข้าเกลียดการยอมรับความพ่ายแพ้ แต่เจ้าเอาชนะข้าได้!\\p ถึงอย่างนั้น เจ้าต้องถูกเสน่ห์ของข้าดึงดูดแน่ ๆ\\pถึงได้แวะมาหาข้าครั้งแล้วครั้งเล่า ใช่ ต้องใช่แน่!\\p แต่นั่นไม่เกี่ยวกับที่ข้าแพ้หรอกนะ!\\p เพื่อเป็นเกียรติแก่มิตรภาพระหว่างเจ้าผู้มุ่งมั่น กับอัจฉริยะอย่างข้า\\pข้าขอสั่งให้เจ้ารับของที่ระลึกนี้ไป!\\p ที่จริงมีสองชิ้น เต็นท์แดงกับเต็นท์น้ำเงิน เจ้าชอบอันไหน?$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_NoRoomInPC","th":"อะไรนะ? PC ของเจ้าไม่มีที่ว่าง? ข้าจะคิดยังไงกับเรื่องนี้ดี?\\p ก็อยากพูดแบบนั้นหรอกนะ แต่ข้าใจดีและเอาใจใส่เกินไป งั้นไว้กลับมาใหม่ทีหลัง!$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_LeavingOnJourney","th":"… … … … … …\\p ข้าจะออกเดินทางเพื่อค้นหา ภารกิจตามหากลไกใหม่ ๆ\\p ข้าหวังว่าสักวันเจ้าจะกลับมาเยือน และทำให้ข้าสนุกอีกครั้ง\\p และบัดนี้ ลาก่อน!$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_YouHaveEarnedThisReward","th":"ก็ได้! เจ้าสมควรได้รับรางวัลนี้!$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_NoRoomForThis","th":"อะไรนะ? ไม่มีที่ใส่ของนี่งั้นหรือ? เจ้าพกของอะไรมาเยอะแยะนักหนา?\\p แต่ก็ได้ ในเมื่อเจ้ามาถึงตัวข้าแล้ว รางวัลของเจ้าจะอยู่กับข้าไปก่อน$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_MakeNewTricksToStumpYou","th":"ลบรอยยิ้มเยาะนั่นออกจากหน้าไปซะ! ยังเร็วเกินไปที่จะคิดว่าชนะแล้ว!\\p ข้าจะสร้างกลไกใหม่ให้เจ้างงเป็นไก่ตาแตก\\pจะหัวเราะเยาะข้าได้ก็ต่อเมื่อผ่านหมดแล้วเท่านั้น\\p กลับมาพบกับตอนต่อไปอันแสนตื่นเต้นได้เลย!$"}
+{"id":"data/maps/Route110_TrickHouseEnd/scripts.inc#Route110_TrickHouseEnd_Text_YoureIgnoringMe","th":"นี่ ๆ! เมินข้าอย่างนั้นหรือ? แบบนี้ข้าช้ำใจนะ!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_YoureBeingWatched","th":"มีคนกำลังจ้องมองอยู่…$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedBeneathDesk","th":"หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่ใต้โต๊ะตัวนี้? หัวไวนี่!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedBehindTree","th":"หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่หลังต้นไม้ต้นนี้? หัวไวนี่!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedInDresser","th":"หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่ในตู้เสื้อผ้านี้? หัวไวนี่!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConealedBeyondWindow","th":"หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่นอกหน้าต่างบานนี้? หัวไวนี่!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedInPlanter","th":"หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่ในกระถางต้นไม้นี้? หัวไวนี่!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedInCupboard","th":"หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่ในตู้เก็บของนี้? หัวไวนี่!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedBehindWindow","th":"หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่หลังหน้าต่างบานนี้? หัวไวนี่!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ConcealedBeneathCushion","th":"หา? กรรร…\\p รู้ได้ยังไงว่าข้าซ่อนตัวอยู่ใต้เบาะนี้? หัวไวนี่!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster","th":"จงดู!\\p เพราะข้าคือบุรุษปริศนาที่ยิ่งใหญ่ที่สุดในโฮเอ็นที่ยังมีชีวิตอยู่! พวกเขาเรียกข้าว่า…\\p จอมกลไก! วาฮ่าฮ่าฮ่า! ยินดีที่ได้รู้จัก!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse","th":"เจ้า เจ้ามาท้าทายบ้านกลไกของข้าใช่ไหม?\\p นั่นแหละคือเหตุผลที่เจ้ามาที่นี่ ใช่ไหม? ใช่แล้ว!\\p ข้ารับคำท้าของเจ้า!\\p เข้าไปทางม้วนภาพนั่น แล้วเริ่มการท้าทายของเจ้าได้เลย!\\p ข้าจะรออยู่ด้านใน!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ItsAScroll","th":"เป็นม้วนภาพแขวน$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_GoInHoleBehindScroll","th":"มีรูขนาดใหญ่อยู่หลังม้วนภาพ!\\p จะเข้าไปไหม?$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_LeavingOnJourneyNote","th":"มีโน้ตแปะอยู่ที่ม้วนภาพ…\\p“ข้าจะออกเดินทาง อย่าตามหาข้า จอมกลไก”$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_NextTimeUseThisTrick","th":"ครั้งหน้า ข้าจะใช้กลนี้ กับแผนนั้น และลูกเล่นพวกนั้น…\\p มุฟุฟุฟุ… ขอบอกเลยว่ามันยากล้ำเลิศ ขนาดข้ายังว่ายาก!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_InMidstOfDevisingNewChallenges","th":"หา? อะไรนะ?! อ้อ เจ้านี่เอง!\\p ข้ากำลังคิดค้นการท้าทายสุดพิสดารแบบใหม่อยู่!\\p ขอเวลาให้ข้าคิดอีกสักหน่อยคงไม่มากเกินไปใช่ไหม?\\pเจ้าคงไม่หวงเวลาแค่นั้นหรอกนะ? อีกสักพักค่อยกลับมา!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_YoureHereToAcceptReward","th":"อ้า เจ้านี่เอง! มารับรางวัลจากคราวก่อนใช่ไหม? ใช่แล้ว ข้าพูดถูก!\\p นี่! ข้าจะให้เจ้าเดี๋ยวนี้แหละ!$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_DidYouNotComeToClaimReward","th":"หา? เจ้าไม่ได้มารับรางวัลหรอกหรือ?$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_MechadollWhichTent","th":"ตุ๊กตากล 5 คือข้าพเจ้า! ถ้ารางวัลไม่ถูกรับไปโดยท่าน จอมกลไกท่านตามไปไม่ได้\\p เต็นท์แดงหรือเต็นท์น้ำเงิน ท่านชอบอันไหน?$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_ThenFarewell","th":"ถ้าเช่นนั้น ลาก่อน$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_PCFullAgain","th":"สถานะ PC ของท่าน: เต็มอีกแล้ว ใจร้ายจริง ท่านนี่$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHousePuzzle_Text_FoundAScroll","th":"{PLAYER} พบม้วนกระดาษ$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHousePuzzle_Text_MemorizedSecretCode","th":"{PLAYER} จดจำรหัสลับที่เขียนไว้ในม้วนกระดาษ$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHousePuzzle_Text_SecretCodeWrittenOnIt","th":"มีรหัสลับเขียนอยู่$"}
+{"id":"data/maps/Route110_TrickHouseEntrance/scripts.inc#Route110_TrickHouseEntrance_Text_DoorLockedWriteSecretCodeHere","th":"ประตูล็อกอยู่\\p…พอดูใกล้ ๆ ก็เห็นว่ามีข้อความเขียนไว้ว่า “เขียนรหัสลับที่นี่”$"}
+{"id":"data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_WroteSecretCodeLockOpened","th":"{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกสุดยอดที่สุด” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_SallyIntro","th":"ฉันจะฟันฝ่าไปสู่ชัยชนะด้วยท่า CUT ที่เพิ่งเรียนมา!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_SallyDefeat","th":"ทำไมเธอจริงจังขนาดนั้นล่ะ?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_SallyPostBattle","th":"ฟันไปฟันมานี่ ไม่เคยเบื่อเลย!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_EddieIntro","th":"ผมหลงเข้ามาในบ้านประหลาดนี่โดยบังเอิญ…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_EddieDefeat","th":"แล้วตอนนี้ก็แพ้อีก…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_EddiePostBattle","th":"หลงทาง แพ้การต่อสู้ แล้วตอนนี้ยิ่งหลงหนักกว่าเดิม… ออกไปไม่ได้แล้ว…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_RobinIntro","th":"ตกลงจอมกลไกเป็นใครกันแน่นะ?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_RobinDefeat","th":"มัวแต่หลงอยู่ในความคิด เลยแพ้ซะแล้ว!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle1/scripts.inc#Route110_TrickHousePuzzle1_Text_RobinPostBattle","th":"เธอเก่งจัง! ตกลงเธอเป็นใครกันแน่?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened","th":"{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกฉลาดล้ำ” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_TedIntro","th":"สวิตช์ไหนปิดรูไหนนะ?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_TedDefeat","th":"สู้เสร็จแล้วยิ่งงงหนักกว่าเดิมอีก!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_TedPostBattle","th":"ช่วยกดปุ่มทั้งหมดแทนผมได้ไหม?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_PaulIntro","th":"โอ้! นี่เป็นการท้าทายบ้านกลไกครั้งที่สองของเธอสินะ!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_PaulDefeat","th":"เธอเก่งเรื่องต่อสู้ด้วยเหรอเนี่ย?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_PaulPostBattle","th":"จอมกลไกติดตั้งกลไกทั้งหมดในบ้านนี้ด้วยตัวคนเดียวเลยนะ$"}
+{"id":"data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_GeorgiaIntro","th":"สักวันฉันอยากสร้างยิมของตัวเอง เลยกำลังศึกษาวิธีวางกับดักอยู่$"}
+{"id":"data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_GeorgiaDefeat","th":"ฉันศึกษาเรื่องต่อสู้ไม่มากพอ!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle2/scripts.inc#Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle","th":"เธอเก่งนะเนี่ย อาจเก่งพอจะเป็นหัวหน้ายิมเลยก็ได้!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_WroteSecretCodeLockOpened","th":"{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกเป็นที่หมายปอง” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_JustinIntro","th":"ผมวนกลับมาที่เดิมตลอดเลย!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_JustinDefeat","th":"แค่นี้ก็ลำบากจะแย่แล้ว ยังมาแพ้อีก? ไม่ยุติธรรมเลย!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_JustinPostBattle","th":"ที่นี่มีแต่ประตู! แคบแล้วก็มืดไปหมด! ช่วยด้วย!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_MarthaIntro","th":"ไม่รู้ว่าที่นี่มันเกิดอะไรขึ้น เริ่มรู้สึกเศร้าแล้ว…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_MarthaDefeat","th":"เธอ… เธอใจร้าย!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_MarthaPostBattle","th":"รู้หรอกน่าว่าฉันอ่อนแอ! แถมยังหลงทิศอีกต่างหาก!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_AlanIntro","th":"ไม่เข้าใจเลยแฮะ ใครจะอยากได้บ้านประหลาดขนาดนี้กันนะ?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_AlanDefeat","th":"ไม่เข้าใจเลย แพ้ได้ยังไง?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle3/scripts.inc#Route110_TrickHousePuzzle3_Text_AlanPostBattle","th":"ไม่เข้าใจเลย บ้านนี้มีกับดักอยู่กี่อันกันแน่?\\p เธออาจเป็นคนที่ไขปริศนานั้นได้นะ$"}
+{"id":"data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_WroteSecretCodeLockOpened","th":"{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกเท่สุด ๆ” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_CoraIntro","th":"คิดแก้ปริศนานี่มันยุ่งยากเกินไป ฉันแค่อยากสู้เท่านั้นเอง!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_CoraDefeat","th":"ถึงจะแพ้ แต่ฉันก็ยังชอบการต่อสู้ที่สุดอยู่ดี!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_CoraPostBattle","th":"เธอก็เห็นด้วยใช่ไหม? ที่ไหนมีเทรนเนอร์ ต่อให้ไกลแค่ไหนก็ไปใช่ไหมล่ะ$"}
+{"id":"data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_YujiIntro","th":"เฮอะ! ก้อนหินแบบนี้ ใช้นิ้วเดียวก็ปัดทิ้งได้!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_YujiDefeat","th":"ดันก้อนหินได้ แต่แก้ปริศนาไม่ได้…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_YujiPostBattle","th":"มีแต่แรงอย่างเดียวไม่พอ… ต้องใช้หัวด้วย ต้องมีสมอง!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_PaulaIntro","th":"บ้านกลไกยิ่งมายิ่งซับซ้อนขึ้นเรื่อย ๆ ว่าไหม?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_PaulaDefeat","th":"อ๊ากก!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle4/scripts.inc#Route110_TrickHousePuzzle4_Text_PaulaPostBattle","th":"มีใครไปถึงปลายทางได้แล้วบ้างไหมนะ?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_WroteSecretCodeLockOpened","th":"{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกคืออัจฉริยะ” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll1Intro","th":"กริ๊ก-กร๊าก… ตุ๊กตากล 1 คือข้าพเจ้า!\\p ถ้าท่านตอบคำถามถูกต้อง ท่านจะได้ไปหาตุ๊กตากล 5 แล้วท่านจะได้รหัสลับ$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz1","th":"คำถามตุ๊กตากล 1\\p โปเกมอนตัวหนึ่งในนี้ไม่พบในเส้นทาง 110 คือตัวไหน?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz2","th":"คำถามตุ๊กตากล 1\\p โปเกมอนตัวหนึ่งในนี้ไม่ใช่ประเภท WATER คือตัวไหน?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz3","th":"คำถามตุ๊กตากล 1\\p โปเกมอนตัวหนึ่งในนี้ไม่ใช้ท่า LEECH LIFE คือตัวไหน?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_CorrectGoThrough","th":"ขอแสดงความยินดี ถูกต้องแล้ว ท่าน เชิญผ่าน ได้โปรด$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_DisappointmentError","th":"บซซซ! น่าผิดหวัง ข้อผิดพลาด$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Wahahahaha","th":"วาฮ่าฮ่าฮ่าฮ่า! วาฮ่าฮ่าฮ่าฮ่า! กริ๊ก-กร๊าก!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_WaitForNextChallenge","th":"การท้าทายครั้งต่อไปของท่าน พวกเรารอคอย$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll2Intro","th":"กริ๊ก-กร๊าก… ตุ๊กตากล 2 คือข้าพเจ้า!\\p ระดับความยากคำถามของตุ๊กตากล 1 ตั้งไว้ต่ำเกินไป$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz1","th":"คำถามตุ๊กตากล 2\\p มิตสึรุยืมโปเกมอนตัวไหนจากพ่อของท่าน?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz2","th":"คำถามตุ๊กตากล 2\\p โปเกมอนตัวไหนไล่ตามศาสตราจารย์โอดามากิ?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz3","th":"คำถามตุ๊กตากล 2\\p แก๊งอควาใช้โปเกมอนตัวไหนในป่าโทกะ?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll3Intro","th":"กริ๊ก-กร๊าก… ตุ๊กตากล 3 คือข้าพเจ้า!\\p เรื่องเงินทองคือสิ่งเดียวที่ข้าพเจ้าสนใจ$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1","th":"คำถามตุ๊กตากล 3\\p อะไรแพงกว่ากัน? HARBOR MAIL สามฉบับ หรือ BURN HEAL หนึ่งขวด?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2","th":"คำถามตุ๊กตากล 3\\p ขาย GREAT BALL หนึ่งลูก แล้วซื้อ POTION หนึ่งขวด เหลือเงินเท่าไหร่?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3","th":"คำถามตุ๊กตากล 3\\pREPEL หนึ่งขวดกับ SODA POP แพงกว่า SUPER POTION หนึ่งขวดหรือไม่?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll4Intro","th":"กริ๊ก-กร๊าก… ตุ๊กตากล 4 นั่นคือข้าพเจ้า!\\p คำถามของข้าพเจ้าคือสิ่งแห่งความงาม$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz1","th":"คำถามตุ๊กตากล 4\\p ในบ้านริมหาด มีผู้ชายหรือผู้หญิงมากกว่ากัน?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz2","th":"คำถามตุ๊กตากล 4\\p ในเมืองฟุเอ็น มีคุณตาหรือคุณยายมากกว่ากัน?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3","th":"คำถามตุ๊กตากล 4\\p ในโรงเรียนเทรนเนอร์ มีนักเรียนหญิงกี่คน?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll5Intro","th":"กริ๊ก-กร๊าก… ตุ๊กตากล 5 คือข้าพเจ้า!\\p ผลงานชิ้นเยี่ยมที่นายท่านภาคภูมิใจที่สุด คือข้าพเจ้า$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz1","th":"คำถามตุ๊กตากล 5\\p ในแฟนคลับโปเกมอนที่ไคนะ มีโปเกมอนกี่ตัว?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz2","th":"คำถามตุ๊กตากล 5\\p ในเมืองฮิวามากิ มีบ้านต้นไม้กี่หลัง?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle5/scripts.inc#Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz3","th":"คำถามตุ๊กตากล 5\\p บนไซเคิลโรด มีนักไตรกีฬากี่คน?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened","th":"{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกคือชีวิตของฉัน” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_SophiaIntro","th":"พอได้ยินว่ามีบ้านประหลาด ฉันก็ต้องมาดูให้ได้$"}
+{"id":"data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_SophiaDefeat","th":"ฉันค้นพบเทรนเนอร์ฝีมือดีเข้าแล้ว!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_SophiaPostBattle","th":"สำรวจที่นี่สนุกจริง ๆ\\p เป็นการท้าทายที่คุ้มค่าจะกลับมาอีกเลยล่ะ!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_BennyIntro","th":"บางทีผมอาจให้โปเกมอนนกบินข้ามกำแพงไปได้…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_BennyDefeat","th":"ก๊ากก! พลาดซะแล้ว!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_BennyPostBattle","th":"เอะเฮะเฮะ… คงแพ้เพราะคิดจะโกงล่ะมั้ง$"}
+{"id":"data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_SebastianIntro","th":"ประตูหมุนพวกนี้ทำผมเวียนหัวไปหมดแล้ว…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_SebastianDefeat","th":"ทุกอย่างหมุนติ้วไปหมด ทนไม่ไหวแล้ว…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle6/scripts.inc#Route110_TrickHousePuzzle6_Text_SebastianPostBattle","th":"ดูเธอไม่เป็นอะไรเลยนะ หรือแค่ทำหน้าตายอยู่?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened","th":"{PLAYER} เขียนรหัสลับลงบนประตู\\p“จอมกลไกน่ากอด” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_JoshuaIntro","th":"จอมกลไกหายตัวไปเหมือนควันทุกที เขาทำได้ยังไงนะ?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_JoshuaDefeat","th":"ว้ายยย! เธอเก่งเกินไปแล้ว! ทำได้ยังไงน่ะ?$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_JoshuaPostBattle","th":"อยากปรากฏตัวและหายตัวไปเหมือนควันได้บ้างจัง$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_PatriciaIntro","th":"เดินวนอยู่ที่เดิม… มันนำมาซึ่งเคราะห์ร้าย…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_PatriciaDefeat","th":"พ่ายแพ้! ลางร้ายชัด ๆ…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_PatriciaPostBattle","th":"ฉันเดินวนที่เดิมมาเกินสิบรอบแล้ว… เคราะห์ร้ายจริง ๆ…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_AlexisIntro","th":"ใครชนะจะได้ผ่านไปก่อน ฉันรู้สึกอย่างนั้น$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_AlexisDefeat","th":"โอ้! งั้นก็เชิญไปก่อนเลย!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_AlexisPostBattle","th":"เธอกำลังไขปริศนาทั้งหมดในบ้านกลไก ฉันรู้สึกอย่างนั้น$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_MarielaIntro","th":"นุฟุฟุฟุ ในที่สุดก็มาถึง! มาเริ่มกันเลย!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_MarielaDefeat","th":"ชนะแบบสบาย ๆ เลยนะเธอ!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_MarielaPostBattle","th":"ฮึ่ม! ฉันไม่ได้หงุดหงิดสักหน่อย! ไม่เลย!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_AlvaroIntro","th":"ผมเฝ้าดูเธอเดินมาอย่างใกล้ชิดสุด ๆ เลย!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_AlvaroDefeat","th":"ผลลัพธ์นี้ผมมองไม่เห็นล่วงหน้าเลย…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_AlvaroPostBattle","th":"ยังไงก็เถอะ เราสองคนเลือกที่แปลก ๆ มาทำความรู้จักกันนะ\\p ในฐานะคนแปลกด้วยกัน มาพยายามให้เต็มที่กันเถอะ!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_EverettIntro","th":"ที่นี่คับแคบเหลือเกินนะครับ…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_EverettDefeat","th":"โอ้ แหม เก่งจริงนะครับ คุณ$"}
+{"id":"data/maps/Route110_TrickHousePuzzle7/scripts.inc#Route110_TrickHousePuzzle7_Text_EverettPostBattle","th":"ผมหวังว่าถ้าชนะคุณได้ จะได้สลับที่กับคุณ แต่ว่า…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened","th":"{PLAYER} เขียนรหัสลับลงบนประตู\\p“รักจอมกลไกที่สุด” … … … … … … … …\\p กุญแจดังกริ๊กแล้วเปิดออก!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_VincentIntro","th":"มีเทรนเนอร์ไม่กี่คนที่มาได้ไกลขนาดนี้$"}
+{"id":"data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_VincentDefeat","th":"แสดงว่าเธอก็เก่งเหมือนกันสินะ…$"}
+{"id":"data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_VincentPostBattle","th":"เธอเคยชนะแชมเปี้ยนโปเกมอนลีกมาแล้ว? เกินไปแล้ว!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_KeiraIntro","th":"ถือว่าโชคดีนะที่ได้สู้กับฉัน!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_KeiraDefeat","th":"ไม่จริงน่า! ฉันแพ้ไม่ได้!$"}
+{"id":"data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_KeiraPostBattle","th":"ที่เธอชนะฉันได้ถือเป็นปาฏิหาริย์ เอาไปคุยโม้ได้เลย$"}
+{"id":"data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_LeroyIntro","th":"เธอเองก็ลุยผ่านการท้าทายบ้านกลไกมาเหมือนกันสินะ$"}
+{"id":"data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_LeroyDefeat","th":"อย่างนี้นี่เอง… เธอมีสไตล์ที่ไม่ธรรมดาเลย$"}
+{"id":"data/maps/Route110_TrickHousePuzzle8/scripts.inc#Route110_TrickHousePuzzle8_Text_LeroyPostBattle","th":"ได้เห็นคนแบบเธอ จอมกลไกคงพอใจแน่$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_BattleOurFamily","th":"สวัสดี! ดูท่าคุณคงเป็นนักเดินทางสินะ\\p เป็นไง? สนใจสู้กับครอบครัวสี่คนของเราแบบต่อเนื่องไหม?$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_IsThatSo","th":"งั้นเหรอ? ถ้าเปลี่ยนใจก็แวะมานะ!$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_VictorIntro","th":"ต้องอย่างนี้สิ! ชอบใจแล้ว!$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_VictorDefeat","th":"โอ้โห! เก่งกว่าที่คิดไว้เยอะเลย!$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_VictorPostBattle","th":"นี่ ทุกคน! ผมเจอเทรนเนอร์ที่เก่งมากเข้าแล้ว!$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_VictoriaIntro","th":"โอ้ ตายจริง! ยังเด็กอยู่เลยนี่นา?\\p แต่ชนะสามีฉันได้ ต้องเป็นเทรนเนอร์ฝีมือดีแน่ ๆ\\p ตาฉันสู้บ้างแล้ว!$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_VictoriaDefeat","th":"โอ้ ตายแล้ว! ไม่อยากเชื่อเลยว่าเธอจะเก่งขนาดนี้!$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_VictoriaPostBattle","th":"มีเทรนเนอร์เก่ง ๆ อยู่ตรงนี้! คนนี้เก่งจริง ๆ นะ!$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_ViviIntro","th":"เก่งกว่าแม่อีกเหรอ? ว้าว!\\p แต่หนูก็เก่งนะ! จริง ๆ! สาบานเลย!$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_ViviDefeat","th":"เอ๊ะ? หนูเพิ่งแพ้ไปเหรอ?$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_ViviPostBattle","th":"ไม่ยุติธรรมเลย…\\p…ฮึก… คุณยายขา!$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_VickyIntro","th":"กล้าดียังไงมาทำให้หลานสาวยายร้องไห้!\\p เพราะงั้น ยายจะตีให้ก้นลาย! เตรียมตัวแพ้ได้เลย!$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_VickyDefeat","th":"ว้าก! เก่งจริง ๆ… หลานยายพูดถูก…$"}
+{"id":"data/maps/Route111/scripts.inc#Route111_Text_VickyPostBattle","th":"ถ้าไม่รีบร้อนอะไร ก็อยู่คุยกับพวกเราสักพักสิ$"}

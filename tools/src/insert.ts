@@ -38,13 +38,21 @@ function proseLimits(sources: Map<string, SourceEntry>, charmap: Charmap): Map<s
   return limits;
 }
 
+// Battle text keeps the translator's line breaks (menus like Yes/No rely on them) unless a box overflows.
+function fitsMessageBox(text: string, charmap: Charmap): boolean {
+  return text.replace(/\$$/, '').split('\\p').every((box) => {
+    const lines = box.split(/\\[nl]/);
+    return lines.length <= 2 && lines.every((line) => textWidth(line, charmap) <= MESSAGE_WIDTH);
+  });
+}
+
 function layoutTranslation(th: string, source: SourceEntry, limits: Map<string, ProseLimit>, charmap: Charmap, warn: (message: string) => void): string {
   if (LAYOUT_TOKEN.test(source.en)) return th;
 
   if (source.kind === 'dialog') return reflowMessage(th, { maxWidth: MESSAGE_WIDTH, continuation: 'scroll' }, charmap);
   if (source.kind === 'match_call') return reflowMessage(th, { maxWidth: POKENAV_WIDTH, continuation: 'scroll' }, charmap);
-  if (source.kind === 'battle' && (/\\[np]/.test(source.en) || textWidth(th, charmap) > MESSAGE_WIDTH)) {
-    return reflowMessage(th, { maxWidth: MESSAGE_WIDTH, continuation: 'paragraph' }, charmap);
+  if (source.kind === 'battle') {
+    return fitsMessageBox(th, charmap) ? th : reflowMessage(th, { maxWidth: MESSAGE_WIDTH, continuation: 'paragraph' }, charmap);
   }
 
   const limit = limits.get(source.kind);

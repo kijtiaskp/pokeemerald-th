@@ -964,7 +964,7 @@
 {"id":"src/strings.c#gText_CyndaquilDoll80BP","th":"ตุ๊กตาฮิโนอาราชิ{CLEAR_TO 94}80BP"}
 {"id":"src/strings.c#gText_ChikoritaDoll80BP","th":"ตุ๊กตาชิโครีตา{CLEAR_TO 94}80BP"}
 {"id":"src/strings.c#gText_TotodileDoll80BP","th":"ตุ๊กตาวานิโนโกะ{CLEAR_TO 94}80BP"}
-{"id":"src/strings.c#gText_LaprasDoll128BP","th":"ตุ๊กตาลาปลาซ{CLEAR_TO 88}128BP"}
+{"id":"src/strings.c#gText_LaprasDoll128BP","th":"ตุ๊กตาลาพลาซ{CLEAR_TO 88}128BP"}
 {"id":"src/strings.c#gText_SnorlaxDoll128BP","th":"ตุ๊กตาคาบิกอน{CLEAR_TO 88}128BP"}
 {"id":"src/strings.c#gText_VenusaurDoll256BP","th":"ตุ๊กตาฟุชิกิบานะ{CLEAR_TO 88}256BP"}
 {"id":"src/strings.c#gText_CharizardDoll256BP","th":"ตุ๊กตาลิซาร์ดอน{CLEAR_TO 88}256BP"}
@@ -1031,7 +1031,7 @@
 {"id":"src/strings.c#gText_BattlePalace","th":"แบทเทิลพาเลซ"}
 {"id":"src/strings.c#gText_BattleFactory","th":"แบทเทิลแฟกทอรี"}
 {"id":"src/strings.c#gText_BattleArena","th":"แบทเทิลอารีนา"}
-{"id":"src/strings.c#gText_BattlePike","th":"แบทเทิลไพค์"}
+{"id":"src/strings.c#gText_BattlePike","th":"แบทเทิลทิวบ์"}
 {"id":"src/strings.c#gText_BattlePyramid","th":"แบทเทิลพีระมิด"}
 {"id":"src/strings.c#gText_FacilitySingle","th":"{STR_VAR_1} ซิงเกิล"}
 {"id":"src/strings.c#gText_FacilityDouble","th":"{STR_VAR_1} ดับเบิล"}
@@ -1129,7 +1129,7 @@
 {"id":"src/strings.c#gText_BattlePalaceSpiritsSymbol","th":"แบทเทิลพาเลซ - สัญลักษณ์จิตวิญญาณ"}
 {"id":"src/strings.c#gText_BattleArenaGutsSymbol","th":"แบทเทิลอารีนา - สัญลักษณ์ใจสู้"}
 {"id":"src/strings.c#gText_BattleFactoryKnowledgeSymbol","th":"แบทเทิลแฟกทอรี - สัญลักษณ์ความรู้"}
-{"id":"src/strings.c#gText_BattlePikeLuckSymbol","th":"แบทเทิลไพค์ - สัญลักษณ์โชค"}
+{"id":"src/strings.c#gText_BattlePikeLuckSymbol","th":"แบทเทิลทิวบ์ - สัญลักษณ์โชค"}
 {"id":"src/strings.c#gText_BattlePyramidBraveSymbol","th":"แบทเทิลพีระมิด - สัญลักษณ์กล้าหาญ"}
 {"id":"src/strings.c#gText_ThereIsNoBattleRecord","th":"ไม่มีวิดีโอการต่อสู้ที่บันทึกไว้"}
 {"id":"src/strings.c#gText_BattleTower3","th":"แบทเทิลทาวเวอร์"}
@@ -1137,7 +1137,7 @@
 {"id":"src/strings.c#gText_BattlePalace2","th":"แบทเทิลพาเลซ"}
 {"id":"src/strings.c#gText_BattleArena2","th":"แบทเทิลอารีนา"}
 {"id":"src/strings.c#gText_BattleFactory2","th":"แบทเทิลแฟกทอรี"}
-{"id":"src/strings.c#gText_BattlePike2","th":"แบทเทิลไพค์"}
+{"id":"src/strings.c#gText_BattlePike2","th":"แบทเทิลทิวบ์"}
 {"id":"src/strings.c#gText_BattlePyramid2","th":"แบทเทิลพีระมิด"}
 {"id":"src/strings.c#gText_BattleTowerDesc","th":"น็อกคู่ต่อสู้แล้วมุ่งสู่จุดสูงสุด!\\nทดสอบความสามารถของคุณ"}
 {"id":"src/strings.c#gText_BattleDomeDesc","th":"ชนะในทัวร์นาเมนต์ต่อไปเรื่อย ๆ!\\nทดสอบกลยุทธ์ของคุณ"}
@@ -1194,10 +1194,10 @@
 {"id":"src/strings.c#gText_DoubleBattleTourneyResults","th":"ผลทัวร์นาเมนต์ดับเบิลแบทเทิลของ {PLAYER}"}
 {"id":"src/strings.c#gText_SingleBattleHallResults","th":"ผลฮอลล์ซิงเกิลแบทเทิลของ {PLAYER}"}
 {"id":"src/strings.c#gText_DoubleBattleHallResults","th":"ผลฮอลล์ดับเบิลแบทเทิลของ {PLAYER}"}
-{"id":"src/strings.c#gText_BattleChoiceResults","th":"ผลแบทเทิลชอยส์ของ {PLAYER}"}
+{"id":"src/strings.c#gText_BattleChoiceResults","th":"ผลแบทเทิลช้อยส์ของ {PLAYER}"}
 {"id":"src/strings.c#gText_SetKOTourneyResults","th":"ผลทัวร์นาเมนต์เซ็ตเคโอของ {PLAYER}"}
-{"id":"src/strings.c#gText_BattleSwapSingleResults","th":"ผลแบทเทิลสวอปซิงเกิลของ {PLAYER}"}
-{"id":"src/strings.c#gText_BattleSwapDoubleResults","th":"ผลแบทเทิลสวอปดับเบิลของ {PLAYER}"}
+{"id":"src/strings.c#gText_BattleSwapSingleResults","th":"ผลแบทเทิลสว็อปซิงเกิลของ {PLAYER}"}
+{"id":"src/strings.c#gText_BattleSwapDoubleResults","th":"ผลแบทเทิลสว็อปดับเบิลของ {PLAYER}"}
 {"id":"src/strings.c#gText_BattleQuestResults","th":"ผลแบทเทิลเควสต์ของ {PLAYER}"}
 {"id":"src/strings.c#gText_Lv502","th":"Lv. 50"}
 {"id":"src/strings.c#gText_OpenLv","th":"โอเพนเลเวล"}

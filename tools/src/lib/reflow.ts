@@ -16,6 +16,7 @@ function segmentWords(text: string): string[] {
   const parts = protectedPattern ? text.split(protectedPattern) : [text];
   return parts.flatMap((part, i) => (i % 2 === 1 ? [part] : [...segmenter.segment(part)].map(({ segment }) => segment)));
 }
+const SPACE_BREAK_MIN_FILL = 0.4;
 const NO_BREAK_BEFORE = /^([!?.,…”’)\]:;ๆฯ%]|\\")/;
 const NO_BREAK_AFTER = /([“‘(\[]|\\")$/;
 
@@ -58,8 +59,16 @@ export function wrapParagraph(paragraph: string, maxWidth: number, charmap: Char
     }
     const candidate = line + atom;
     if (line && textWidth(candidate.trimEnd(), charmap) > maxWidth) {
-      lines.push(line.trimEnd());
-      line = atom;
+      // Thai readers expect breaks at spaces; fall back to a word boundary only when the space is too early.
+      const space = line.trimEnd().lastIndexOf(' ');
+      const head = space > 0 ? line.slice(0, space) : '';
+      if (head && textWidth(head, charmap) >= maxWidth * SPACE_BREAK_MIN_FILL && textWidth(line.slice(space + 1) + atom, charmap) <= maxWidth) {
+        lines.push(head);
+        line = line.slice(space + 1) + atom;
+      } else {
+        lines.push(line.trimEnd());
+        line = atom;
+      }
     } else {
       line = candidate;
     }

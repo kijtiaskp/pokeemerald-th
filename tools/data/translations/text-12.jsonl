@@ -268,11 +268,11 @@
 {"id":"data/text/berries.inc#Route120_Text_YesYouUnderstand","th":"ใช่ ใช่ คุณเข้าใจที่ฉันหมายถึง\\pรับนี่ไปนะคะ$"}
 {"id":"data/text/berries.inc#Route120_Text_MakeYourOwnImpressions","th":"อ้อ… แต่การมีความรู้สึกเป็นของตัวเองก็สำคัญเหมือนกันนะคะ…\\pรับนี่ไปเถอะค่ะ$"}
 {"id":"data/text/berries.inc#Route120_Text_BerryIsRareRaiseItWithCare","th":"ฉันว่าเบอร์รี่ลูกนั้นหายากนะคะ หวังว่าคุณจะปลูกเลี้ยงมันด้วยความรักนะคะ$"}
-{"id":"data/text/berries.inc#Route120_Text_IllGetMoreBerriesFromBerryMaster","th":"ฉันจะไปขอเบอร์รี่เพิ่มจากปรมาจารย์เบอร์รี่ค่ะ$"}
+{"id":"data/text/berries.inc#Route120_Text_IllGetMoreBerriesFromBerryMaster","th":"ฉันจะไปขอเบอร์รี่เพิ่มจากเซียนเบอร์รี่ค่ะ$"}
 {"id":"data/text/berries.inc#LilycoveCity_Text_BerrySuitsYou","th":"ว่ากันตามจริงแล้ว…\\pเหมือนสูทที่เข้ากับผมพอดิบพอดี\\pและสายลมสดชื่นที่เข้ากับท้องทะเล\\pเบอร์รี่ก็เข้ากับคุณอย่างไร้ที่ติ…\\pเพราะอะไรกันหรือ?$"}
 {"id":"data/text/berries.inc#LilycoveCity_Text_BecauseYoureTrainer","th":"ว่ากันตามจริงแล้ว…\\pก็เพราะคุณเป็นเทรนเนอร์ยังไงล่ะครับ!$"}
 {"id":"data/text/berries.inc#LilycoveCity_Text_PokeblocksSuitPokemon","th":"ว่ากันตามจริงแล้ว…\\pความเรียบง่ายอย่างสง่างามเข้ากับผมฉันใด\\p{POKEBLOCK} ก็เข้ากับโปเกมอนฉันนั้น$"}
-{"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_YoureDeservingOfBerry","th":"เรียกข้าว่าปรมาจารย์เบอร์รี่ก็ได้\\pข้าฝันอยากให้โลกเต็มไปด้วยดอกไม้สวย ๆ\\pก็เลยปลูกเบอร์รี่ แจกจ่ายให้ทุกคน\\pหนูก็คู่ควรได้รับสักลูก!$"}
+{"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_YoureDeservingOfBerry","th":"เรียกข้าว่าเซียนเบอร์รี่ก็ได้\\pข้าฝันอยากให้โลกเต็มไปด้วยดอกไม้สวย ๆ\\pก็เลยปลูกเบอร์รี่ แจกจ่ายให้ทุกคน\\pหนูก็คู่ควรได้รับสักลูก!$"}
 {"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_WhyBeStingyTakeAnother","th":"จะงกไปทำไม? เอาไปอีกลูกสิ!$"}
 {"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_VisitPrettyPetalFlowerShop","th":"อย่าลืมแวะไปร้านดอกไม้พริตตี้เพทัล ใกล้เมืองคานาซุมิล่ะ\\pขอให้ดอกไม้เบ่งบานทั่วโลก!$"}
 {"id":"data/text/berries.inc#Route123_BerryMastersHouse_Text_DoneForToday","th":"วันนี้พอแค่นี้ก่อน ไว้มาใหม่วันหลังนะ\\pขอให้ดอกไม้เบ่งบานทั่วโลก!$"}
@@ -305,21 +305,21 @@
 {"id":"data/text/birch_speech.inc#gText_Birch_SoItsPlayer","th":"ชื่อ {PLAYER}{KUN} ใช่ไหม?$"}
 {"id":"data/text/birch_speech.inc#gText_Birch_YourePlayer","th":"อ๋อ เข้าใจแล้ว!\\pเธอคือ {PLAYER}{KUN} ที่กำลังจะย้ายมาอยู่\\pเมืองมิชิโระ บ้านเกิดของฉันนี่เอง นึกออกแล้ว!\\p$"}
 {"id":"data/text/birch_speech.inc#gText_Birch_AreYouReady","th":"เอาล่ะ พร้อมหรือยัง?\\pการผจญภัยของเธอเองกำลังจะเริ่มต้นขึ้นแล้ว\\pรวบรวมความกล้า แล้วกระโจนเข้าสู่โลกของโปเกมอน\\pที่ซึ่งความฝัน การผจญภัย และมิตรภาพรอเธออยู่!\\pเอาล่ะ ไว้เจอกันทีหลังนะ มาหาฉันที่แล็บโปเกมอนล่ะ\\p$"}
-{"id":"data/text/blend_master.inc#BerryBlender_Text_BlendWithTheBlendMaster","th":"ปรมาจารย์เบลนด์: ใช่แล้ว! ข้านี่แหละคือปรมาจารย์เบลนด์!\\pมาเบลนด์กับข้าสิ แล้วเจ้าจะได้เห็นฝีมือขั้นเทพในการเบลนด์ของข้า!$"}
-{"id":"data/text/blend_master.inc#BerryBlender_Text_SeeMyMasteryInAction","th":"ปรมาจารย์เบลนด์: ฮืมมม! อยากเห็นฝีมือของข้าสินะ?$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_BlendWithTheBlendMaster","th":"เซียนเบลนด์: ใช่แล้ว! ข้านี่แหละคือเซียนเบลนด์!\\pมาเบลนด์กับข้าสิ แล้วเจ้าจะได้เห็นฝีมือขั้นเทพในการเบลนด์ของข้า!$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_SeeMyMasteryInAction","th":"เซียนเบลนด์: ฮืมมม! อยากเห็นฝีมือของข้าสินะ?$"}
 {"id":"data/text/blend_master.inc#BerryBlender_Text_TooBusyNowIsee","th":"ฮืมมม!\\pงั้นตอนนี้เจ้ายุ่งอยู่สินะ!\\pแต่ไม่ต้องห่วง! ข้าจะอยู่ที่นี่ทั้งวัน! ทำธุระเสร็จแล้วรีบกลับมาล่ะ!$"}
 {"id":"data/text/blend_master.inc#BerryBlender_Text_BlendMasterNoBerries","th":"ฮืมมม!\\pเจ้าไม่มีเบอร์รี่สักลูกเลย!\\pข้าจะอยู่ที่นี่ทั้งวัน! รีบไปหาเบอร์รี่มาล่ะ!$"}
 {"id":"data/text/blend_master.inc#BerryBlender_Text_BlendMasterKnowHowToMakePokeblocks","th":"แน่นอน! แน่นอน!\\pว่าแต่… เจ้ารู้วิธีเบลนด์{POKEBLOCK}จากเบอร์รี่ใช่ไหม?$"}
 {"id":"data/text/blend_master.inc#BerryBlender_Text_BlendMasterExplainBerryBlending","th":"ฮืมมม!\\pอา แต่มันเป็นขั้นตอนง่าย ๆ!\\pเมื่อลูกศรของเบลนเดอร์มาถึงเครื่องหมายของเจ้า ก็กดปุ่ม A ทันที\\pแค่นั้นแหละที่ต้องทำ\\pเมื่อเห็นว่าข้ากดปุ่ม A ได้แม่นยำแค่ไหน เจ้าจะเข้าใจเอง$"}
-{"id":"data/text/blend_master.inc#BerryBlender_Text_BlendMasterLetsBerryBlender","th":"ดี!\\pงั้นมาเริ่มกันเลย!\\pทุกคนพร้อมกับปรมาจารย์เบลนด์ มาเบอร์รี่เบลนเดอร์กันเถอะ!$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_BlendMasterLetsBerryBlender","th":"ดี!\\pงั้นมาเริ่มกันเลย!\\pทุกคนพร้อมกับเซียนเบลนด์ มาเบอร์รี่เบลนเดอร์กันเถอะ!$"}
 {"id":"data/text/blend_master.inc#BerryBlender_Text_BlendMasterNoPokeblockCase","th":"ฮืมมม!\\pดูเหมือนเจ้ายังไม่มี {POKEBLOCK} CASE!\\pข้าจะอยู่ที่นี่ทั้งวัน! ไปหา {POKEBLOCK} CASE มาแล้วรีบกลับมาล่ะ!$"}
 {"id":"data/text/blend_master.inc#BerryBlender_Text_BlendMasterPokeblockCaseFull","th":"ฮืมมม!\\p{POKEBLOCK} CASE ของเจ้าดูจะเต็มแล้ว!\\pข้าจะอยู่ที่นี่ทั้งวัน! ใช้{POKEBLOCK}ไปบ้างแล้วรีบกลับมาล่ะ!$"}
 {"id":"data/text/blend_master.inc#BerryBlender_Text_WhoaAwesome","th":"โห! สุดยอด!$"}
 {"id":"data/text/blend_master.inc#BerryBlender_Text_WickedlyFast","th":"เร็วสุด ๆ ไปเลย!$"}
 {"id":"data/text/blend_master.inc#BerryBlender_Text_WhatAnExpert","th":"เก่งสุดยอดไปเลย!$"}
 {"id":"data/text/blend_master.inc#BerryBlender_Text_MadeAmazingPokeblocksWithMaster","th":"ตอนหนูเบลนด์กับปรมาจารย์ เราทำ{POKEBLOCK}ออกมาได้สุดยอดเลย!$"}
-{"id":"data/text/blend_master.inc#BerryBlender_Text_QualitiesOfBlendMaster","th":"ดวงตาที่จับลูกศรได้แม่นยำราวกับเครื่องจักร…\\pมือที่กดปุ่ม A ได้เที่ยงตรงราวกับกลไกนาฬิกา…\\pสิ่งเหล่านี้แหละ ที่ทำให้ปรมาจารย์เบลนด์ยิ่งใหญ่อย่างแท้จริง$"}
-{"id":"data/text/blend_master.inc#BerryBlender_Text_MasterWorksOnSkillsInMountains","th":"ว่ากันว่าปรมาจารย์เบลนด์ ฝึกฝีมืออยู่ลึกเข้าไปในภูเขา\\pบางครั้งเขาก็มาที่เมืองมินาโมะ เพื่อเบลนด์เบอร์รี่ทั้งวันเลยค่ะ$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_QualitiesOfBlendMaster","th":"ดวงตาที่จับลูกศรได้แม่นยำราวกับเครื่องจักร…\\pมือที่กดปุ่ม A ได้เที่ยงตรงราวกับกลไกนาฬิกา…\\pสิ่งเหล่านี้แหละ ที่ทำให้เซียนเบลนด์ยิ่งใหญ่อย่างแท้จริง$"}
+{"id":"data/text/blend_master.inc#BerryBlender_Text_MasterWorksOnSkillsInMountains","th":"ว่ากันว่าเซียนเบลนด์ ฝึกฝีมืออยู่ลึกเข้าไปในภูเขา\\pบางครั้งเขาก็มาที่เมืองมินาโมะ เพื่อเบลนด์เบอร์รี่ทั้งวันเลยค่ะ$"}
 {"id":"data/text/cable_club.inc#CableClub_Text_WelcomeWhichCableClubService","th":"ยินดีต้อนรับสู่โปเกมอนเคเบิลคลับค่ะ\\pต้องการใช้บริการใดคะ?$"}
 {"id":"data/text/cable_club.inc#CableClub_Text_WhichService","th":"ต้องการใช้บริการใดคะ?$"}
 {"id":"data/text/cable_club.inc#CableClub_Text_TradeUsingLinkCable","th":"แลกเปลี่ยนโปเกมอนกับผู้เล่นอื่น ผ่านสาย GBA Game Link$"}

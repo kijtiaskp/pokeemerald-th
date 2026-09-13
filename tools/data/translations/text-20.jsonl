@@ -1125,7 +1125,7 @@
 {"id":"src/landmark.c#LandmarkName_AbandonedShip","th":"เรือร้าง"}
 {"id":"src/landmark.c#LandmarkName_SeashoreHouse","th":"บ้านริมทะเล"}
 {"id":"src/landmark.c#LandmarkName_SlateportBeach","th":"ชายหาดไคนะ"}
-{"id":"src/landmark.c#LandmarkName_CyclingRoad","th":"ถนนจักรยาน"}
+{"id":"src/landmark.c#LandmarkName_CyclingRoad","th":"ไซเคิลโรด"}
 {"id":"src/landmark.c#LandmarkName_NewMauville","th":"นิวคินเซ็ตสึ"}
 {"id":"src/landmark.c#LandmarkName_TrickHouse","th":"บ้านกลไก"}
 {"id":"src/landmark.c#LandmarkName_OldLadysRestShop","th":"จุดพักของคุณยาย"}
@@ -1137,7 +1137,7 @@
 {"id":"src/landmark.c#LandmarkName_MeteorFalls","th":"น้ำตกดาวตก"}
 {"id":"src/landmark.c#LandmarkName_TunnelersRestHouse","th":"บ้านพักคนขุดอุโมงค์"}
 {"id":"src/landmark.c#LandmarkName_RusturfTunnel","th":"อุโมงค์คานาชิดะ"}
-{"id":"src/landmark.c#LandmarkName_PokemonDayCare","th":"ศูนย์รับเลี้ยงโปเกมอน"}
+{"id":"src/landmark.c#LandmarkName_PokemonDayCare","th":"สถานรับเลี้ยง"}
 {"id":"src/landmark.c#LandmarkName_SafariZoneEntrance","th":"ทางเข้าซาฟารีโซน"}
 {"id":"src/landmark.c#LandmarkName_MtPyre","th":"ภูเขาส่งวิญญาณ"}
 {"id":"src/landmark.c#LandmarkName_ShoalCave","th":"ถ้ำหาดตื้น"}
