@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,11 +89,108 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
+BATTLE TOWER	แบทเทิลทาวเวอร์	frontier	
+BATTLE DOME	แบทเทิลโดม	frontier	
+BATTLE PALACE	แบทเทิลพาเลซ	frontier	
+BATTLE ARENA	แบทเทิลอารีนา	frontier	
+BATTLE FACTORY	แบทเทิลแฟกทอรี	frontier	
+BATTLE PIKE	แบทเทิลไพค์	frontier	
+BATTLE PYRAMID	แบทเทิลพีระมิด	frontier	
+BATTLE POINTS	แบทเทิลพอยต์	frontier	
+BP	BP	frontier	
+SINGLE BATTLE	ซิงเกิลแบทเทิล	frontier	
+DOUBLE BATTLE	ดับเบิลแบทเทิล	frontier	
+MULTI BATTLE	มัลติแบทเทิล	frontier	
+OPEN LEVEL	โอเพนเลเวล	frontier	
+NORMAL	NORMAL	type	คงภาษาอังกฤษตามต้นฉบับ
+ROCK	ROCK	type	คงภาษาอังกฤษตามต้นฉบับ
+STEEL	STEEL	type	คงภาษาอังกฤษตามต้นฉบับ
+???	???	type	คงภาษาอังกฤษตามต้นฉบับ
+FIRE	FIRE	type	คงภาษาอังกฤษตามต้นฉบับ
+WATER	WATER	type	คงภาษาอังกฤษตามต้นฉบับ
+ICE	ICE	type	คงภาษาอังกฤษตามต้นฉบับ
+DARK	DARK	type	คงภาษาอังกฤษตามต้นฉบับ
+PREMIER BALL	PREMIER BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+FRESH WATER	FRESH WATER	item	คงภาษาอังกฤษตามต้นฉบับ
+SODA POP	SODA POP	item	คงภาษาอังกฤษตามต้นฉบับ
+LEMONADE	LEMONADE	item	คงภาษาอังกฤษตามต้นฉบับ
+ENERGYPOWDER	ENERGYPOWDER	item	คงภาษาอังกฤษตามต้นฉบับ
+ENERGY ROOT	ENERGY ROOT	item	คงภาษาอังกฤษตามต้นฉบับ
+HEAL POWDER	HEAL POWDER	item	คงภาษาอังกฤษตามต้นฉบับ
+REVIVAL HERB	REVIVAL HERB	item	คงภาษาอังกฤษตามต้นฉบับ
+BLUE FLUTE	BLUE FLUTE	item	คงภาษาอังกฤษตามต้นฉบับ
+YELLOW FLUTE	YELLOW FLUTE	item	คงภาษาอังกฤษตามต้นฉบับ
+RED FLUTE	RED FLUTE	item	คงภาษาอังกฤษตามต้นฉบับ
+BLACK FLUTE	BLACK FLUTE	item	คงภาษาอังกฤษตามต้นฉบับ
+WHITE FLUTE	WHITE FLUTE	item	คงภาษาอังกฤษตามต้นฉบับ
+RED SHARD	RED SHARD	item	คงภาษาอังกฤษตามต้นฉบับ
+BLUE SHARD	BLUE SHARD	item	คงภาษาอังกฤษตามต้นฉบับ
+YELLOW SHARD	YELLOW SHARD	item	คงภาษาอังกฤษตามต้นฉบับ
+GREEN SHARD	GREEN SHARD	item	คงภาษาอังกฤษตามต้นฉบับ
+HP UP	HP UP	item	คงภาษาอังกฤษตามต้นฉบับ
+PROTEIN	PROTEIN	item	คงภาษาอังกฤษตามต้นฉบับ
+IRON	IRON	item	คงภาษาอังกฤษตามต้นฉบับ
+CARBOS	CARBOS	item	คงภาษาอังกฤษตามต้นฉบับ
+CALCIUM	CALCIUM	item	คงภาษาอังกฤษตามต้นฉบับ
+PP UP	PP UP	item	คงภาษาอังกฤษตามต้นฉบับ
+ZINC	ZINC	item	คงภาษาอังกฤษตามต้นฉบับ
+REPEL	REPEL	item	คงภาษาอังกฤษตามต้นฉบับ
+BRIGHTPOWDER	BRIGHTPOWDER	item	คงภาษาอังกฤษตามต้นฉบับ
+WHITE HERB	WHITE HERB	item	คงภาษาอังกฤษตามต้นฉบับ
+QUICK CLAW	QUICK CLAW	item	คงภาษาอังกฤษตามต้นฉบับ
+MENTAL HERB	MENTAL HERB	item	คงภาษาอังกฤษตามต้นฉบับ
+CHOICE BAND	CHOICE BAND	item	คงภาษาอังกฤษตามต้นฉบับ
+KING'S ROCK	KING'S ROCK	item	คงภาษาอังกฤษตามต้นฉบับ
+DEEPSEATOOTH	DEEPSEATOOTH	item	คงภาษาอังกฤษตามต้นฉบับ
+DEEPSEASCALE	DEEPSEASCALE	item	คงภาษาอังกฤษตามต้นฉบับ
+FOCUS BAND	FOCUS BAND	item	คงภาษาอังกฤษตามต้นฉบับ
+SCOPE LENS	SCOPE LENS	item	คงภาษาอังกฤษตามต้นฉบับ
+LEFTOVERS	LEFTOVERS	item	คงภาษาอังกฤษตามต้นฉบับ
+ITEMFINDER	ITEMFINDER	item	คงภาษาอังกฤษตามต้นฉบับ
+ROOT FOSSIL	ROOT FOSSIL	item	คงภาษาอังกฤษตามต้นฉบับ
+CLAW FOSSIL	CLAW FOSSIL	item	คงภาษาอังกฤษตามต้นฉบับ
+TM13	TM13	item	คงภาษาอังกฤษตามต้นฉบับ
+TM24	TM24	item	คงภาษาอังกฤษตามต้นฉบับ
+TM29	TM29	item	คงภาษาอังกฤษตามต้นฉบับ
+TM32	TM32	item	คงภาษาอังกฤษตามต้นฉบับ
+TM35	TM35	item	คงภาษาอังกฤษตามต้นฉบับ
+-	-	move	คงภาษาอังกฤษตามต้นฉบับ
+MEGA PUNCH	MEGA PUNCH	move	คงภาษาอังกฤษตามต้นฉบับ
+FIRE PUNCH	FIRE PUNCH	move	คงภาษาอังกฤษตามต้นฉบับ
+ICE PUNCH	ICE PUNCH	move	คงภาษาอังกฤษตามต้นฉบับ
+THUNDERPUNCH	THUNDERPUNCH	move	คงภาษาอังกฤษตามต้นฉบับ
+SWORDS DANCE	SWORDS DANCE	move	คงภาษาอังกฤษตามต้นฉบับ
+CUT	CUT	move	คงภาษาอังกฤษตามต้นฉบับ
+FLY	FLY	move	คงภาษาอังกฤษตามต้นฉบับ
+SLAM	SLAM	move	คงภาษาอังกฤษตามต้นฉบับ
+MEGA KICK	MEGA KICK	move	คงภาษาอังกฤษตามต้นฉบับ
+BODY SLAM	BODY SLAM	move	คงภาษาอังกฤษตามต้นฉบับ
+SURF	SURF	move	คงภาษาอังกฤษตามต้นฉบับ
+COUNTER	COUNTER	move	คงภาษาอังกฤษตามต้นฉบับ
+SEISMIC TOSS	SEISMIC TOSS	move	คงภาษาอังกฤษตามต้นฉบับ
+THUNDER WAVE	THUNDER WAVE	move	คงภาษาอังกฤษตามต้นฉบับ
+THUNDER	THUNDER	move	คงภาษาอังกฤษตามต้นฉบับ
+TOXIC	TOXIC	move	คงภาษาอังกฤษตามต้นฉบับ
+WITHDRAW	WITHDRAW	move	คงภาษาอังกฤษตามต้นฉบับ
+DEFENSE CURL	DEFENSE CURL	move	คงภาษาอังกฤษตามต้นฉบับ
+SWIFT	SWIFT	move	คงภาษาอังกฤษตามต้นฉบับ
+SOFTBOILED	SOFTBOILED	move	คงภาษาอังกฤษตามต้นฉบับ
+DREAM EATER	DREAM EATER	move	คงภาษาอังกฤษตามต้นฉบับ
+REST	REST	move	คงภาษาอังกฤษตามต้นฉบับ
+ROCK SLIDE	ROCK SLIDE	move	คงภาษาอังกฤษตามต้นฉบับ
+SNORE	SNORE	move	คงภาษาอังกฤษตามต้นฉบับ
+MUD-SLAP	MUD-SLAP	move	คงภาษาอังกฤษตามต้นฉบับ
+ICY WIND	ICY WIND	move	คงภาษาอังกฤษตามต้นฉบับ
+SANDSTORM	SANDSTORM	move	คงภาษาอังกฤษตามต้นฉบับ
+ENDURE	ENDURE	move	คงภาษาอังกฤษตามต้นฉบับ
+CHARM	CHARM	move	คงภาษาอังกฤษตามต้นฉบับ
+PSYCH UP	PSYCH UP	move	คงภาษาอังกฤษตามต้นฉบับ
+BOUNCE	BOUNCE	move	คงภาษาอังกฤษตามต้นฉบับ
 PRETTY DESK	โต๊ะสวย	decoration	
 PRETTY CHAIR	เก้าอี้สวย	decoration	
 RED TENT	เต็นท์แดง	decoration	
@@ -117,50 +214,6 @@ LAPRAS DOLL	ตุ๊กตาลาปลาซ	decoration
 VENUSAUR DOLL	ตุ๊กตาฟุชิกิบานะ	decoration	
 CHARIZARD DOLL	ตุ๊กตาลิซาร์ดอน	decoration	
 BLASTOISE DOLL	ตุ๊กตาคาเม็กซ์	decoration	
-PREMIER BALL	พรีเมียร์บอล	item	
-FRESH WATER	น้ำดื่มอร่อย	item	
-SODA POP	ไซโคโซดา	item	
-LEMONADE	มิกซ์โอเล	item	
-ENERGYPOWDER	ผงพลัง	item	
-ENERGY ROOT	รากพลัง	item	
-HEAL POWDER	ผงอเนกประสงค์	item	
-REVIVAL HERB	หญ้าคืนชีพ	item	
-BLUE FLUTE	ขลุ่ยน้ำเงิน	item	
-YELLOW FLUTE	ขลุ่ยเหลือง	item	
-RED FLUTE	ขลุ่ยแดง	item	
-BLACK FLUTE	ขลุ่ยดำ	item	
-WHITE FLUTE	ขลุ่ยขาว	item	
-RED SHARD	เศษสีแดง	item	
-BLUE SHARD	เศษสีน้ำเงิน	item	
-YELLOW SHARD	เศษสีเหลือง	item	
-GREEN SHARD	เศษสีเขียว	item	
-HP UP	แม็กซ์อัพ	item	
-PROTEIN	ทอรีน	item	
-IRON	โบรมเฮกซีน	item	
-CARBOS	อินโดเมทาซิน	item	
-CALCIUM	ลิโซเทียม	item	
-PP UP	พอยต์อัพ	item	
-ZINC	ไคโตซาน	item	
-REPEL	สเปรย์ไล่แมลง	item	
-BRIGHTPOWDER	ผงเรืองแสง	item	
-WHITE HERB	สมุนไพรขาว	item	
-QUICK CLAW	เล็บชิงจังหวะ	item	
-MENTAL HERB	สมุนไพรจิตใจ	item	
-CHOICE BAND	ผ้าคาดยึดมั่น	item	
-KING'S ROCK	ตราแห่งราชา	item	
-DEEPSEATOOTH	เขี้ยวทะเลลึก	item	
-DEEPSEASCALE	เกล็ดทะเลลึก	item	
-FOCUS BAND	ผ้าคาดฮึดสู้	item	
-SCOPE LENS	เลนส์โฟกัส	item	
-LEFTOVERS	อาหารเหลือ	item	
-ITEMFINDER	เครื่องหาของ	item	
-ROOT FOSSIL	ฟอสซิลราก	item	
-CLAW FOSSIL	ฟอสซิลกรงเล็บ	item	
-TM13	TM13	item	
-TM24	TM24	item	
-TM29	TM29	item	
-TM32	TM32	item	
-TM35	TM35	item	
 SLATEPORT CITY	เมืองไคนะ	location	
 LILYCOVE CITY	เมืองมินาโมะ	location	
 BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	location	
@@ -175,44 +228,6 @@ BIRTH ISLAND	เกาะกำเนิด	location
 BIRTH ISLAND	เกาะกำเนิด	location	
 FARAWAY ISLAND	เกาะสุดขอบฟ้า	location	
 NAVEL ROCK	หินสะดือ	location	
-NORMAL	ปกติ	type	
-ROCK	หิน	type	
-STEEL	เหล็ก	type	
-FIRE	ไฟ	type	
-WATER	น้ำ	type	
-ICE	น้ำแข็ง	type	
-DARK	ความมืด	type	
-MEGA PUNCH	หมัดเมกะตัน	move	
-FIRE PUNCH	หมัดเพลิง	move	
-ICE PUNCH	หมัดน้ำแข็ง	move	
-THUNDERPUNCH	หมัดสายฟ้า	move	
-SWORDS DANCE	ระบำดาบ	move	
-CUT	ชักดาบฟัน	move	
-FLY	บินขึ้นฟ้า	move	
-SLAM	ฟาดกระแทก	move	
-MEGA KICK	เตะเมกะตัน	move	
-BODY SLAM	ทิ้งตัวทับ	move	
-SURF	โต้คลื่น	move	
-COUNTER	เคาน์เตอร์	move	
-SEISMIC TOSS	ทุ่มพสุธา	move	
-THUNDER WAVE	คลื่นไฟฟ้า	move	
-THUNDER	ฟ้าผ่า	move	
-TOXIC	พิษร้าย	move	
-WITHDRAW	หดในกระดอง	move	
-DEFENSE CURL	ขดตัวกลม	move	
-SWIFT	สปีดสตาร์	move	
-SOFTBOILED	ออกไข่	move	
-DREAM EATER	กินฝัน	move	
-REST	นอนหลับ	move	
-ROCK SLIDE	หินถล่ม	move	
-SNORE	กรน	move	
-MUD-SLAP	สาดโคลน	move	
-ICY WIND	ลมเยือกแข็ง	move	
-SANDSTORM	พายุทราย	move	
-ENDURE	อดกลั้น	move	
-CHARM	ออดอ้อน	move	
-PSYCH UP	สะกดตัวเอง	move	
-BOUNCE	กระโดดเด้ง	move	
 CALM	สงบนิ่ง	nature	
 EXPERT	ผู้เชี่ยวชาญ	trainer_class	
 BEAUTY	สาวสวย	trainer_class	

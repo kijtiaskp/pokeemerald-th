@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,29 +89,39 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
+BATTLE TENT	แบทเทิลเต็นท์	frontier	
+BUG	BUG	type	คงภาษาอังกฤษตามต้นฉบับ
+WATER	WATER	type	คงภาษาอังกฤษตามต้นฉบับ
+GREAT BALL	GREAT BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+POKé BALL	POKé BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+PROTEIN	PROTEIN	item	คงภาษาอังกฤษตามต้นฉบับ
+DEEPSEATOOTH	DEEPSEATOOTH	item	คงภาษาอังกฤษตามต้นฉบับ
+DEEPSEASCALE	DEEPSEASCALE	item	คงภาษาอังกฤษตามต้นฉบับ
+FOCUS BAND	FOCUS BAND	item	คงภาษาอังกฤษตามต้นฉบับ
+RED SCARF	RED SCARF	item	คงภาษาอังกฤษตามต้นฉบับ
+BLUE SCARF	BLUE SCARF	item	คงภาษาอังกฤษตามต้นฉบับ
+PINK SCARF	PINK SCARF	item	คงภาษาอังกฤษตามต้นฉบับ
+GREEN SCARF	GREEN SCARF	item	คงภาษาอังกฤษตามต้นฉบับ
+YELLOW SCARF	YELLOW SCARF	item	คงภาษาอังกฤษตามต้นฉบับ
+CONTEST PASS	CONTEST PASS	item	คงภาษาอังกฤษตามต้นฉบับ
+DEVON GOODS	DEVON GOODS	item	คงภาษาอังกฤษตามต้นฉบับ
+RED ORB	RED ORB	item	คงภาษาอังกฤษตามต้นฉบับ
+SCANNER	SCANNER	item	คงภาษาอังกฤษตามต้นฉบับ
+TM31	TM31	item	คงภาษาอังกฤษตามต้นฉบับ
+TM41	TM41	item	คงภาษาอังกฤษตามต้นฉบับ
+STRENGTH	STRENGTH	move	คงภาษาอังกฤษตามต้นฉบับ
+WATERFALL	WATERFALL	move	คงภาษาอังกฤษตามต้นฉบับ
+TORMENT	TORMENT	move	คงภาษาอังกฤษตามต้นฉบับ
+BRICK BREAK	BRICK BREAK	move	คงภาษาอังกฤษตามต้นฉบับ
+SNATCH	SNATCH	move	คงภาษาอังกฤษตามต้นฉบับ
+DIVE	DIVE	move	คงภาษาอังกฤษตามต้นฉบับ
+WATER PULSE	WATER PULSE	move	คงภาษาอังกฤษตามต้นฉบับ
 TV	ทีวี	decoration	
-GREAT BALL	ซูเปอร์บอล	item	
-POKé BALL	มอนสเตอร์บอล	item	
-PROTEIN	ทอรีน	item	
-DEEPSEATOOTH	เขี้ยวทะเลลึก	item	
-DEEPSEASCALE	เกล็ดทะเลลึก	item	
-FOCUS BAND	ผ้าคาดฮึดสู้	item	
-RED SCARF	บันดานาแดง	item	
-BLUE SCARF	บันดานาฟ้า	item	
-PINK SCARF	บันดานาชมพู	item	
-GREEN SCARF	บันดานาเขียว	item	
-YELLOW SCARF	บันดานาเหลือง	item	
-CONTEST PASS	บัตรคอนเทสต์	item	
-DEVON GOODS	พัสดุเดวอน	item	
-RED ORB	ลูกแก้วแดง	item	
-SCANNER	เครื่องสแกน	item	
-TM31	TM31	item	
-TM41	TM41	item	
 LITTLEROOT TOWN	เมืองมิชิโระ	location	
 DEWFORD TOWN	เมืองมุโระ	location	
 SLATEPORT CITY	เมืองไคนะ	location	
@@ -126,15 +136,6 @@ CAVE OF ORIGIN	ถ้ำแห่งการตื่น	location
 SKY PILLAR	เสาแห่งท้องฟ้า	location	
 S.S. ANNE	เรือแซงต์แอนน์	location	
 POKéMON LEAGUE	โปเกมอนลีก	location	
-BUG	แมลง	type	
-WATER	น้ำ	type	
-STRENGTH	พลังช้างสาร	move	
-WATERFALL	ปีนน้ำตก	move	
-TORMENT	หาเรื่อง	move	
-BRICK BREAK	ผ่ากระเบื้อง	move	
-SNATCH	ฉกฉวย	move	
-DIVE	ดำน้ำ	move	
-WATER PULSE	คลื่นน้ำ	move	
 HASTY	ใจร้อน	nature	
 TEAM AQUA	แก๊งอควา	trainer_class	
 TEAM MAGMA	แก๊งแม็กม่า	trainer_class	

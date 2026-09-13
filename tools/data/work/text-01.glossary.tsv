@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,42 +89,51 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
-MASTER BALL	มาสเตอร์บอล	item	
-SCANNER	เครื่องสแกน	item	
+BATTLE DOME	แบทเทิลโดม	frontier	
+BATTLE PALACE	แบทเทิลพาเลซ	frontier	
+BATTLE ARENA	แบทเทิลอารีนา	frontier	
+BATTLE FACTORY	แบทเทิลแฟกทอรี	frontier	
+BATTLE PIKE	แบทเทิลไพค์	frontier	
+SINGLE BATTLE	ซิงเกิลแบทเทิล	frontier	
+DOUBLE BATTLE	ดับเบิลแบทเทิล	frontier	
+NORMAL	NORMAL	type	คงภาษาอังกฤษตามต้นฉบับ
+FLYING	FLYING	type	คงภาษาอังกฤษตามต้นฉบับ
+POISON	POISON	type	คงภาษาอังกฤษตามต้นฉบับ
+GROUND	GROUND	type	คงภาษาอังกฤษตามต้นฉบับ
+ROCK	ROCK	type	คงภาษาอังกฤษตามต้นฉบับ
+BUG	BUG	type	คงภาษาอังกฤษตามต้นฉบับ
+GHOST	GHOST	type	คงภาษาอังกฤษตามต้นฉบับ
+STEEL	STEEL	type	คงภาษาอังกฤษตามต้นฉบับ
+???	???	type	คงภาษาอังกฤษตามต้นฉบับ
+FIRE	FIRE	type	คงภาษาอังกฤษตามต้นฉบับ
+WATER	WATER	type	คงภาษาอังกฤษตามต้นฉบับ
+GRASS	GRASS	type	คงภาษาอังกฤษตามต้นฉบับ
+ICE	ICE	type	คงภาษาอังกฤษตามต้นฉบับ
+DRAGON	DRAGON	type	คงภาษาอังกฤษตามต้นฉบับ
+DARK	DARK	type	คงภาษาอังกฤษตามต้นฉบับ
+MASTER BALL	MASTER BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+SCANNER	SCANNER	item	คงภาษาอังกฤษตามต้นฉบับ
+-	-	move	คงภาษาอังกฤษตามต้นฉบับ
+ICE BEAM	ICE BEAM	move	คงภาษาอังกฤษตามต้นฉบับ
+THUNDER WAVE	THUNDER WAVE	move	คงภาษาอังกฤษตามต้นฉบับ
+THUNDER	THUNDER	move	คงภาษาอังกฤษตามต้นฉบับ
+TOXIC	TOXIC	move	คงภาษาอังกฤษตามต้นฉบับ
+PSYCHIC	PSYCHIC	move	คงภาษาอังกฤษตามต้นฉบับ
+HYPNOSIS	HYPNOSIS	move	คงภาษาอังกฤษตามต้นฉบับ
+PROTECT	PROTECT	move	คงภาษาอังกฤษตามต้นฉบับ
+DETECT	DETECT	move	คงภาษาอังกฤษตามต้นฉบับ
+WILL-O-WISP	WILL-O-WISP	move	คงภาษาอังกฤษตามต้นฉบับ
 SLATEPORT CITY	เมืองไคนะ	location	
 ROUTE 122	เส้นทาง 122	location	
 MT. CHIMNEY	ภูเขาปล่องไฟ	location	
 BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	location	
 ROUTE 1	เส้นทาง 1	location	
 ROUTE 12	เส้นทาง 12	location	
-NORMAL	ปกติ	type	
-FLYING	บิน	type	
-POISON	พิษ	type	
-GROUND	ดิน	type	
-ROCK	หิน	type	
-BUG	แมลง	type	
-GHOST	ผี	type	
-STEEL	เหล็ก	type	
-FIRE	ไฟ	type	
-WATER	น้ำ	type	
-GRASS	หญ้า	type	
-ICE	น้ำแข็ง	type	
-DRAGON	มังกร	type	
-DARK	ความมืด	type	
-ICE BEAM	บีมน้ำแข็ง	move	
-THUNDER WAVE	คลื่นไฟฟ้า	move	
-THUNDER	ฟ้าผ่า	move	
-TOXIC	พิษร้าย	move	
-PSYCHIC	ไซโคคิเนซิส	move	
-HYPNOSIS	สะกดจิต	move	
-PROTECT	ป้องกัน	move	
-DETECT	อ่านทาง	move	
-WILL-O-WISP	ไฟปีศาจ	move	
 LAX	ไม่แยแส	nature	
 TIMID	ขี้ขลาด	nature	
 TEAM AQUA	แก๊งอควา	trainer_class	

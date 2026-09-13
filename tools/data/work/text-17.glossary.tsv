@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,11 +89,47 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
+BATTLE TOWER	แบทเทิลทาวเวอร์	frontier	
+BATTLE DOME	แบทเทิลโดม	frontier	
+BATTLE PALACE	แบทเทิลพาเลซ	frontier	
+BATTLE ARENA	แบทเทิลอารีนา	frontier	
+BATTLE FACTORY	แบทเทิลแฟกทอรี	frontier	
+BATTLE PIKE	แบทเทิลไพค์	frontier	
+BATTLE PYRAMID	แบทเทิลพีระมิด	frontier	
+SINGLE BATTLE	ซิงเกิลแบทเทิล	frontier	
+DOUBLE BATTLE	ดับเบิลแบทเทิล	frontier	
+MULTI BATTLE	มัลติแบทเทิล	frontier	
+LINK MULTI BATTLE	ลิงก์มัลติแบทเทิล	frontier	
+GROUND	GROUND	type	คงภาษาอังกฤษตามต้นฉบับ
+FIRE	FIRE	type	คงภาษาอังกฤษตามต้นฉบับ
+POKé BALL	POKé BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+-	-	move	คงภาษาอังกฤษตามต้นฉบับ
+BIND	BIND	move	คงภาษาอังกฤษตามต้นฉบับ
+MIST	MIST	move	คงภาษาอังกฤษตามต้นฉบับ
+LEECH SEED	LEECH SEED	move	คงภาษาอังกฤษตามต้นฉบับ
+RAGE	RAGE	move	คงภาษาอังกฤษตามต้นฉบับ
+FLASH	FLASH	move	คงภาษาอังกฤษตามต้นฉบับ
+SUBSTITUTE	SUBSTITUTE	move	คงภาษาอังกฤษตามต้นฉบับ
+NIGHTMARE	NIGHTMARE	move	คงภาษาอังกฤษตามต้นฉบับ
+CURSE	CURSE	move	คงภาษาอังกฤษตามต้นฉบับ
+SPIKES	SPIKES	move	คงภาษาอังกฤษตามต้นฉบับ
+SAFEGUARD	SAFEGUARD	move	คงภาษาอังกฤษตามต้นฉบับ
+MAGNITUDE	MAGNITUDE	move	คงภาษาอังกฤษตามต้นฉบับ
+ENCORE	ENCORE	move	คงภาษาอังกฤษตามต้นฉบับ
+UPROAR	UPROAR	move	คงภาษาอังกฤษตามต้นฉบับ
+HAIL	HAIL	move	คงภาษาอังกฤษตามต้นฉบับ
+TORMENT	TORMENT	move	คงภาษาอังกฤษตามต้นฉบับ
+NATURE POWER	NATURE POWER	move	คงภาษาอังกฤษตามต้นฉบับ
+TAUNT	TAUNT	move	คงภาษาอังกฤษตามต้นฉบับ
+WISH	WISH	move	คงภาษาอังกฤษตามต้นฉบับ
+MAGIC COAT	MAGIC COAT	move	คงภาษาอังกฤษตามต้นฉบับ
+GRUDGE	GRUDGE	move	คงภาษาอังกฤษตามต้นฉบับ
+SAND TOMB	SAND TOMB	move	คงภาษาอังกฤษตามต้นฉบับ
 SOLID BOARD	แผ่นไม้แข็ง	decoration	
 SLIDE	สไลเดอร์	decoration	
 TIRE	ยางรถ	decoration	
@@ -108,32 +144,8 @@ TV	ทีวี	decoration
 GLITTER MAT	พรมระยิบระยับ	decoration	
 JUMP MAT	พรมกระโดด	decoration	
 SPIN MAT	พรมหมุน	decoration	
-POKé BALL	มอนสเตอร์บอล	item	
 BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	location	
 SECRET BASE	ฐานลับ	location	
-GROUND	ดิน	type	
-FIRE	ไฟ	type	
-BIND	รัดแน่น	move	
-MIST	หมอกขาว	move	
-LEECH SEED	เมล็ดกาฝาก	move	
-RAGE	เดือดดาล	move	
-FLASH	แฟลช	move	
-SUBSTITUTE	ตัวตายตัวแทน	move	
-NIGHTMARE	ฝันร้าย	move	
-CURSE	คำสาป	move	
-SPIKES	โปรยหนาม	move	
-SAFEGUARD	พรคุ้มครอง	move	
-MAGNITUDE	แมกนิจูด	move	
-ENCORE	อังกอร์	move	
-UPROAR	โวยวาย	move	
-HAIL	ลูกเห็บ	move	
-TORMENT	หาเรื่อง	move	
-NATURE POWER	พลังธรรมชาติ	move	
-TAUNT	ยั่วยุ	move	
-WISH	คำอธิษฐาน	move	
-MAGIC COAT	เมจิกโค้ท	move	
-GRUDGE	แค้นฝังใจ	move	
-SAND TOMB	นรกทราย	move	
 BEAUTY	สาวสวย	trainer_class	
 CHAMPION	แชมเปี้ยน	trainer_class	
 SPINDA	พัทชีล	frontier_trainer	

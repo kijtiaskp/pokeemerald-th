@@ -1,0 +1,214 @@
+{"id": "data/maps/RusturfTunnel/scripts.inc#RusturfTunnel_Text_YouShatteredBoulderTakeHM", "th": "ว้าว! คุณทุบหินก้อนใหญ่ที่ขวางทางอยู่จนแตกเลยนะครับ\\pเพื่อเป็นการขอบคุณ ผมอยากมอบ HM นี้ให้คุณครับ$"}
+{"id": "data/maps/RusturfTunnel/scripts.inc#RusturfTunnel_Text_ExplainStrength", "th": "HM นั้นบรรจุท่าพลังช้างสารไว้ครับ\\pถ้าให้โปเกมอนที่มีกล้ามแข็งแรงเรียนรู้ มันจะผลักได้แม้แต่ก้อนหินขนาดใหญ่เลยครับ$"}
+{"id": "data/maps/RusturfTunnel/scripts.inc#RusturfTunnel_Text_WandaReunion", "th": "วันดา! ต่อไปนี้ผมจะมาหาเธอได้ทุกเมื่อแล้ว!\\pวันดา: นี่มัน…วิเศษที่สุดเลยค่ะ\\pเชิญแวะพักที่บ้านฉันก่อนนะคะ$"}
+{"id": "data/maps/RusturfTunnel/scripts.inc#RusturfTunnel_Text_BoyfriendOnOtherSideOfRock", "th": "อีกฟากหนึ่งของหินก้อนนี้… แฟนของฉันอยู่ที่นั่นค่ะ\\pเขา… เขาไม่ได้ขุดอุโมงค์แค่เพื่อจะมาหาฉันหรอกนะคะ\\pเขาทำงานหนักจนมือแตกหยาบกร้าน ก็เพื่อประโยชน์ของทุกคนค่ะ$"}
+{"id": "data/maps/RusturfTunnel/scripts.inc#RusturfTunnel_Text_MikeIntro", "th": "คนที่ใช้ชีวิตอยู่บนภูเขา เขาเรียกกันว่าชาวเขา ใช่ไหมล่ะ?\\pแล้วทำไมโปเกมอนที่อยู่บนภูเขา ถึงไม่เรียกว่าโปเกมอนชาวเขาบ้างล่ะ?$"}
+{"id": "data/maps/RusturfTunnel/scripts.inc#RusturfTunnel_Text_MikeDefeat", "th": "โปเกมอนของข้า… หมดแรงซะแล้ว…$"}
+{"id": "data/maps/RusturfTunnel/scripts.inc#RusturfTunnel_Text_MikePostBattle", "th": "เขาหยุดขุดอุโมงค์ตรงนี้ไว้เพื่อปกป้องโปเกมอน ใช่ไหมล่ะ? ฟังแล้วอบอุ่นหัวใจจริงเชียว!$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidalCorridor_Text_ScottBattleFrontierInvite", "th": "เอนิชิดะ: ว่าไง ว่าไง! {PLAYER}{KUN} {PLAYER}{KUN}!\\pพอดีมีธุระเข้ามา เลยต้องลงเรือก่อน แต่ดีใจจริงๆ ที่ได้เจอเธอ!\\pยินดีด้วยนะ แชมเปี้ยนลีก!\\pผมมีสถานที่แห่งหนึ่ง ที่อยากชวนคนเก่งๆ อย่างเธอไปครับ\\pที่นั่นก็คือ… แบทเทิลฟรอนเทียร์!\\pที่นั่นเป็นยังไงน่ะเหรอ? ไปเห็นเองแล้วจะเข้าใจ!\\pผมคุยกับกัปตันเรือเรื่องนี้ไว้แล้ว\\pครั้งหน้าที่เธอขึ้นเรือเฟอร์รี่ ก็จะล่องไปแบทเทิลฟรอนเทียร์ได้แล้วล่ะ\\pโอเค {PLAYER}{KUN} ผมจะรอเธออยู่ที่แบทเทิลฟรอนเทียร์นะ!$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidal_Text_FastCurrentsHopeYouEnjoyVoyage", "th": "เรือเฟอร์รี่ลำนี้สร้างขึ้นเพื่อฝ่ากระแสน้ำที่ไหลเชี่ยวกราก\\pขอให้ทุกท่านเพลิดเพลินกับการเดินทาง และเชิญสำรวจภายในเรือได้ตามสบาย$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidal_Text_HopeYouEnjoyVoyage", "th": "ขอให้ทุกท่านเพลิดเพลินกับการเดินทางบนเรือเฟอร์รี่ของเรา$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidal_Text_MadeLandInSlateport", "th": "เรือได้เทียบท่าที่เมืองไคนะแล้ว ขอบคุณที่ใช้บริการ$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidal_Text_MadeLandInLilycove", "th": "เรือได้เทียบท่าที่เมืองมินาโมะแล้ว ขอบคุณที่ใช้บริการ$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidalCorridor_Text_CanRestInCabin2", "th": "อีกพักใหญ่กว่าเรือจะถึงฝั่งล่ะครับ\\pถ้าอยากพักผ่อน ก็เข้าไปพักในห้องได้เลย ห้องของคุณคือห้องหมายเลข 2 ครับ\\pเตียงในห้องนั้นนุ่มฟูสุดๆ ผมรับประกันเลยว่าสบายแน่นอน!$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidalCorridor_Text_WeveArrived", "th": "ถึงแล้วครับ!$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidalCorridor_Text_VisitOtherCabins", "th": "ลองแวะไปห้องอื่นดูสิครับ เทรนเนอร์ที่เบื่อการนั่งเรือคงคันไม้คันมืออยากแบทเทิลกันแน่ๆ$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidalCorridor_Text_EnjoyYourCruise", "th": "ขอให้สนุกกับการล่องเรือนะครับ!$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidalCorridor_Text_HorizonSpreadsBeyondPorthole", "th": "ขอบฟ้าทอดยาวอยู่นอกหน้าต่างเรือ$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidalCorridor_Text_BrineyWelcomeAboard", "th": "ลุงฮางิ: ยินดีต้อนรับขึ้นเรือ {PLAYER}{KUN}!\\pเขาแต่งตั้งข้าเป็นกัปตันกิตติมศักดิ์ของเรือไทดัลเชียวนะ!\\pต่อไปนี้เรียกข้าว่ากัปตันฮางิได้เลย!\\pรู้ไหม ข้าเคยเกษียณไปแล้วครั้งหนึ่ง แต่พอได้เห็นเรืออันสง่างามลำนี้…\\pบอกได้คำเดียวว่า มันปลุกจิตวิญญาณกะลาสีที่หลับใหลของข้าให้ลุกโชนขึ้นมาอีกครั้ง!$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidalCorridor_Text_Peeko", "th": "ปีโกะ: ปิเฮียว ปิเฮียวเฮียว…$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidalCorridor_Text_Cabin1", "th": "ห้อง 1$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidalCorridor_Text_Cabin2", "th": "ห้อง 2$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidalCorridor_Text_Cabin3", "th": "ห้อง 3$"}
+{"id": "data/maps/SSTidalCorridor/scripts.inc#SSTidalCorridor_Text_Cabin4", "th": "ห้อง 4$"}
+{"id": "data/maps/SSTidalLowerDeck/scripts.inc#SSTidalLowerDeck_Text_PhillipIntro", "th": "อ๊ากกก! เบื่อจะแย่แล้วโว้ย ขัดพื้นที่กว้างขนาดนี้จนเหนื่อยแทบขาดใจ!\\pมาแบทเทิลกันแป๊บนึงเถอะ!$"}
+{"id": "data/maps/SSTidalLowerDeck/scripts.inc#SSTidalLowerDeck_Text_PhillipDefeat", "th": "น้องชาย พี่แพ้แล้ว!$"}
+{"id": "data/maps/SSTidalLowerDeck/scripts.inc#SSTidalLowerDeck_Text_PhillipPostBattle", "th": "พวกเราคือสองพี่น้องนักขัดเรือ!\\pพี่ชายเป็นคนเทผงซักฟอก ส่วนน้องชายเป็นคนขัด!$"}
+{"id": "data/maps/SSTidalLowerDeck/scripts.inc#SSTidalLowerDeck_Text_LeonardIntro", "th": "ตรงนี้คือก้นท้องเรือ พื้นที่กว้างขวางเหลือเฟือ แบทเทิลโปเกมอนได้สบายเลย$"}
+{"id": "data/maps/SSTidalLowerDeck/scripts.inc#SSTidalLowerDeck_Text_LeonardDefeat", "th": "พี่ชาย ผมแพ้แล้ว!$"}
+{"id": "data/maps/SSTidalLowerDeck/scripts.inc#SSTidalLowerDeck_Text_LeonardPostBattle", "th": "พวกเราคือสองพี่น้องนักขัดเรือ!\\pพี่ชายเป็นคนเทผงซักฟอก ส่วนน้องชายเป็นคนขัด!$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_TakeRestOnBed", "th": "มีเตียงอยู่… พักผ่อนสักหน่อยดีกว่า$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_ColtonIntro", "th": "ผมล่องเรือไปเมืองมินาโมะบ่อยครับ\\pเพราะผมชอบไปดูคอนเทสต์น่ะครับ$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_ColtonDefeat", "th": "เป็นแมตช์ที่สนุกมากครับ!$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_ColtonPostBattle", "th": "แค่นึกภาพว่าคอนเทสต์ครั้งหน้าจะได้เห็นโปเกมอนแบบไหนบ้าง ผมก็ตื่นเต้นจนใจเต้นตึกตักแล้วครับ!$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_MicahIntro", "th": "เพื่อนๆ ของคุณแข็งแกร่งไหมครับ?$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_MicahDefeat", "th": "เพื่อนๆ ของคุณแข็งแกร่งจริงดังว่าครับ$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_MicahPostBattle", "th": "เพื่อนไม่จำเป็นต้องเป็นมนุษย์เสมอไป สำหรับผม โปเกมอนคือเพื่อนที่มีค่าที่สุดครับ!$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_ThomasIntro", "th": "หนูเอ๋ย… เคาะประตูก่อนเข้ามาหรือเปล่า?$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_ThomasDefeat", "th": "ความพ่ายแพ้ต้องยอมรับอย่างสงบ ไม่รีบร้อน และไม่ตื่นตระหนก$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_ThomasPostBattle", "th": "ไม่ว่าเจอสถานการณ์ใดก็ไม่หวั่นไหว นั่นคือหลักปฏิบัติของสุภาพบุรุษครับ$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_JedIntro", "th": "เจด: ออกจะเขินๆ อยู่นะ แต่ว่า… เราจะโชว์พลังรักหวานแหววของเราให้ดู!$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_JedDefeat", "th": "เจด: เฮ้อ…$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_JedPostBattle", "th": "เจด: นี่เป็นครั้งแรกเลยที่พลังรักหวานแหววของเราเอาชนะไม่ได้! เธอต้องเป็นเทรนเนอร์ที่สุดยอดแน่ๆ!$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_JedNotEnoughMons", "th": "เจด: มีโปเกมอนตัวเดียวเองเหรอ? ไม่เหงาไปหน่อยเหรอ?$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_LeaIntro", "th": "ลีอา: รู้สึกเด๋อๆ ยังไงก็ไม่รู้ แต่ว่า… เราจะโชว์พลังรักหวานแหววของเราให้ดู!$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_LeaDefeat", "th": "ลีอา: อุ๊ย แย่จัง!$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_LeaPostBattle", "th": "ลีอา: ไม่อยากเชื่อเลย! พลังรักหวานแหววของเราพ่ายแพ้ซะแล้ว… เธอต้องเป็นเทรนเนอร์ที่สุดยอดแน่ๆ!$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_LeaNotEnoughMons", "th": "ลีอา: อยากแบทเทิลอยู่หรอกนะ… แต่เธอมีโปเกมอนไม่ถึงสองตัวเลย…$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_GarretIntro", "th": "อา มาได้จังหวะพอดี\\pผมกำลังเบื่ออยู่น่ะ อนุญาตให้คุณมาทำให้ผมหายเบื่อก็ได้$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_GarretDefeat", "th": "…เท่านี้ก็พอแล้ว$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_GarretPostBattle", "th": "บางทีผมควรให้ท่านพ่อซื้อเรือยอชต์ให้สักลำ เรือยอชต์สำหรับผมกับโปเกมอน!$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_NaomiIntro", "th": "โอ๊ะ เป็นเทรนเนอร์ที่น่าเอ็นดูจังเลยค่ะ มาดื่มชาด้วยกันไหมคะ? หรือว่าอยากแบทเทิลมากกว่าคะ?$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_NaomiDefeat", "th": "เข้าใจแล้วค่ะ เป็นคนประเภทชอบลงมือทำสินะคะ$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_NaomiPostBattle", "th": "การล่องเรือสำราญหรูรอบโลกก็มีเสน่ห์ของมันอยู่หรอกค่ะ…\\pแต่ต้องยอมรับว่า การเที่ยวโฮเอ็นด้วยเรือเฟอร์รี่ก็มีเสน่ห์ไม่แพ้กันเลยค่ะ$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_NotSuspiciousTakeThis", "th": "เอ่อ… สวัสดีครับ! ผะ… ผมไม่ได้ทำตัวน่าสงสัยนะ! เอ่อ… เอานี่ไปเลย! ให้ฟรี!\\pมะ… ไม่ได้ไปฉกฉวยมาจากใครจริงๆ นะครับ! ผมไม่มีวันทำอะไรแบบนั้นหรอก! ของสะอาดบริสุทธิ์! ใช้ได้เลยครับ!$"}
+{"id": "data/maps/SSTidalRooms/scripts.inc#SSTidalRooms_Text_ExplainSnatch", "th": "ฉกฉวยเป็นท่าที่ขโมยผลดีของท่าบางท่าไปก่อน ที่ศัตรูหรือพวกเดียวกันจะได้ใช้ครับ$"}
+{"id": "data/maps/SeafloorCavern_Entrance/scripts.inc#SeafloorCavern_Entrance_Text_HearMagmaNearMossdeep", "th": "เฮ้ย! ฉันจำหน้าแกได้!\\pถ้าแกมาถึงที่นี่ ก็แปลว่ากำลังจะมาป่วนพวกเราอีกแล้วสินะ!\\pเด็กเหลือขออย่างแก คิดว่าจะสู้แก๊งอควาได้จริงๆ เหรอ?\\pอีกล้านล้านปีก็ยังเร็วไปสำหรับแกเว้ย!\\pแกน่ะเหมาะจะไปอยู่กับพวกแก๊งแม็กม่ามากกว่า!\\pพูดถึงแก๊งแม็กม่า ได้ข่าวว่ามีคนเห็นพวกมันแถวเมืองโทคุซาเนะ\\pพวกอันธพาลกลุ่มนั้นน่ะ อยู่ใกล้ทะเลแล้วไม่เข้ากันเลยสักนิด!$"}
+{"id": "data/maps/SeafloorCavern_Entrance/scripts.inc#SeafloorCavern_Entrance_Text_HearMagmaNearMossdeepShort", "th": "เด็กเหลือขออย่างแก คิดว่าจะสู้แก๊งอควาได้จริงๆ เหรอ?\\pอีกล้านล้านปีก็ยังเร็วไปสำหรับแกเว้ย!\\pแกน่ะเหมาะจะไปอยู่กับพวกแก๊งแม็กม่ามากกว่า!\\pพูดถึงแก๊งแม็กม่า ได้ข่าวว่ามีคนเห็นพวกมันแถวเมืองโทคุซาเนะ\\pพวกอันธพาลกลุ่มนั้นน่ะ อยู่ใกล้ทะเลแล้วไม่เข้ากันเลยสักนิด!$"}
+{"id": "data/maps/SeafloorCavern_Room1/scripts.inc#SeafloorCavern_Room1_Text_Grunt1Intro", "th": "ที่นี่ไม่ต้องการเด็กเว้ย! กลับบ้านไปซะ!$"}
+{"id": "data/maps/SeafloorCavern_Room1/scripts.inc#SeafloorCavern_Room1_Text_Grunt1Defeat", "th": "อยากกลับบ้าน…$"}
+{"id": "data/maps/SeafloorCavern_Room1/scripts.inc#SeafloorCavern_Room1_Text_Grunt1PostBattle", "th": "อยากได้เลื่อนขั้นจัง จะได้สั่งพวกลูกกระจ๊อกได้บ้าง…$"}
+{"id": "data/maps/SeafloorCavern_Room1/scripts.inc#SeafloorCavern_Room1_Text_Grunt2Intro", "th": "เรือดำน้ำนั่น… ข้างในแคบชะมัด ปวดเมื่อยไปทั้งตัวแล้วเนี่ย!$"}
+{"id": "data/maps/SeafloorCavern_Room1/scripts.inc#SeafloorCavern_Room1_Text_Grunt2Defeat", "th": "แพ้แล้วยิ่งปวดใจเข้าไปใหญ่!$"}
+{"id": "data/maps/SeafloorCavern_Room1/scripts.inc#SeafloorCavern_Room1_Text_Grunt2PostBattle", "th": "เรือดำน้ำที่พวกเราปล้นมาน่ะ นั่งแล้วทรมานสุดๆ ข้างในมันแคบเกินไปแล้วเว้ย!$"}
+{"id": "data/maps/SeafloorCavern_Room3/scripts.inc#SeafloorCavern_Room3_Text_ShellyIntro", "th": "อะฮ่าฮ่าฮ่าฮ่า!\\pมาถึงที่นี่ได้ยังไงกัน ทั้งที่ไม่มีเรือดำน้ำ? เป็นเด็กที่น่าทึ่งจริงๆ!\\pแต่ว่า… จะปล่อยให้มาเที่ยวยุ่มย่ามแถวนี้ไม่ได้หรอกนะ\\pแล้วฉันก็อยากเอาคืนเรื่องที่สถาบันพยากรณ์อากาศด้วย…\\pฉันจะให้เธอได้ลิ้มรสความเจ็บปวดสักหน่อย! ทำใจไว้ได้เลย!$"}
+{"id": "data/maps/SeafloorCavern_Room3/scripts.inc#SeafloorCavern_Room3_Text_ShellyDefeat", "th": "อะฮ่าฮ่าฮ่าฮ่า!\\pโอ๊ย!$"}
+{"id": "data/maps/SeafloorCavern_Room3/scripts.inc#SeafloorCavern_Room3_Text_ShellyPostBattle", "th": "อะฮ่าฮ่าฮ่าฮ่า! เธอนี่แข็งแกร่งเหลือเกินนะ\\pน่าเสียดายสุดๆ ที่เธอไม่ใช่สมาชิกแก๊งอควา\\pไม่อย่างนั้น เธอคงได้ใช้ชีวิตในโลกอันแสนวิเศษที่บอสสัญญาไว้ ในฐานะพวกเดียวกับเรา…$"}
+{"id": "data/maps/SeafloorCavern_Room3/scripts.inc#SeafloorCavern_Room3_Text_Grunt5Intro", "th": "ความฝันของพวกเราจะเป็นจริงได้ ต้องใช้พลังของโปเกมอน\\pแต่พวกจุ้นจ้านอย่างแก ดันใช้พลังของโปเกมอนมาขัดขวางพวกเรา แม้แต่ในที่แบบนี้!\\pชีวิตมันไม่เคยเป็นไปอย่างที่พวกเราต้องการเลยเว้ย!$"}
+{"id": "data/maps/SeafloorCavern_Room3/scripts.inc#SeafloorCavern_Room3_Text_Grunt5Defeat", "th": "อ๊าก!$"}
+{"id": "data/maps/SeafloorCavern_Room3/scripts.inc#SeafloorCavern_Room3_Text_Grunt5PostBattle", "th": "รู้ไหม พวกเราไม่กล้าตั้งคำถามกับจุดประสงค์ของหัวหน้าหรอก\\pแต่แกซึ่งเป็นแค่เด็กเหลือขอ กลับกล้าไปต่อกรกับบอสของพวกเรา\\pบางที… แกอาจจะไม่ธรรมดาก็ได้…$"}
+{"id": "data/maps/SeafloorCavern_Room4/scripts.inc#SeafloorCavern_Room4_Text_Grunt3Intro", "th": "แกเป็นใคร? เข้ามาจากทางไหน?$"}
+{"id": "data/maps/SeafloorCavern_Room4/scripts.inc#SeafloorCavern_Room4_Text_Grunt3Defeat", "th": "แพ้ซะแล้ว…$"}
+{"id": "data/maps/SeafloorCavern_Room4/scripts.inc#SeafloorCavern_Room4_Text_Grunt3PostBattle", "th": "หาทางออกไม่เจอ!\\pฉันไม่ได้กลัวนะเว้ย อย่าเข้าใจผิด!$"}
+{"id": "data/maps/SeafloorCavern_Room4/scripts.inc#SeafloorCavern_Room4_Text_Grunt4Intro", "th": "เธอเป็นใคร? คิดจะไปไหนยะ?$"}
+{"id": "data/maps/SeafloorCavern_Room4/scripts.inc#SeafloorCavern_Room4_Text_Grunt4Defeat", "th": "ชนะไม่ได้ซะแล้ว!$"}
+{"id": "data/maps/SeafloorCavern_Room4/scripts.inc#SeafloorCavern_Room4_Text_Grunt4PostBattle", "th": "คู่หูของฉันลืมแผนที่ไว้ในเรือดำน้ำ!\\pไร้ประโยชน์สิ้นดีเลยว่าไหม?$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_ArchieHoldItRightThere", "th": "อาโอกิริ: หยุดอยู่ตรงนั้นแหละ$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_ArchieSoItWasYou", "th": "อาโอกิริ: ฟุฟุฟุ… ว่าแล้วเชียว ต้องเป็นเจ้าจริงๆ ด้วย$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_ArchieBeholdKyogre", "th": "อาโอกิริ: ดูสิ!\\pดูความงดงามของร่างที่กำลังหลับใหลของไคออกา โปเกมอนโบราณตัวนี้สิ!\\pข้ารอคอยวันนี้มานานเหลือเกิน…$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_ArchieYouMustDisappear", "th": "อาโอกิริ: น่าแปลกใจนะ ที่เจ้าตามข้ามาได้ถึงที่นี่\\pแต่ทุกอย่างจบแล้ว\\pเพื่อให้ความฝันของข้าเป็นจริง เจ้าต้องหายไปซะ!$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_ArchieDefeat", "th": "อะไรนะ?! ข้าแพ้เด็กกระจอกอย่างเจ้างั้นเหรอ?!$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_ArchieWithThisRedOrb", "th": "อาโอกิริ: ฟุฟุฟุ…\\pข้านับถือเจ้า ต้องยอมรับว่าเจ้ามีพรสวรรค์จริงๆ\\pแต่ว่า! ข้ามีสิ่งนี้อยู่ในมือ!\\pด้วยลูกแก้วแดงนี้ ข้าจะทำให้ไคออกา…$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_RedOrbShinesByItself", "th": "จู่ๆ ลูกแก้วแดงก็เปล่งแสงขึ้นมาเอง!$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_ArchieWhereDidKyogreGo", "th": "อาโอกิริ: อะไรกัน?!\\pข้ายังไม่ได้ทำอะไรเลย ทำไมลูกแก้วแดงถึง…\\pไคออกาหายไปไหน?$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_ArchieAMessageFromOutside", "th": "อาโอกิริ: หืม? ข้อความจากลูกน้องที่อยู่ข้างนอกงั้นเหรอ…$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard", "th": "อาโอกิริ: ว่าไง มีอะไร?\\pหืม… ฝนตกหนักงั้นเหรอ?\\pดี… มันก็ควรจะเป็นอย่างนั้นแหละ นั่นคือเหตุผลที่เราปลุกไคออกา เพื่อทำให้อุดมการณ์ขยายทะเลของแก๊งอควาเป็นจริง\\pอะไรนะ?!\\pฝนตกหนักกว่าที่เราคาดไว้มากงั้นเหรอ? พวกแกกำลังตกอยู่ในอันตรายงั้นเหรอ?\\pเป็นไปไม่ได้… มันเป็นไปไม่ได้เด็ดขาด…\\pอยู่ประจำที่ไว้ แล้วคอยเฝ้าดูสถานการณ์!$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_ArchieWhyDidKyogreDisappear", "th": "อาโอกิริ: มีบางอย่างผิดปกติ…\\pลูกแก้วแดงควรจะปลุกและควบคุมไคออกาได้สิ…\\pแต่… ทำไม? ทำไมไคออกาถึงหายไป?\\pทำไมกัน?!$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought", "th": "มัตสึบุสะ: แกทำอะไรลงไป?\\pอาโอกิริ… ในที่สุดแกก็ปลุกไคออกาขึ้นมาจนได้ ใช่ไหม?\\pถ้าฝนห่าใหญ่นี้ตกต่อไปชั่วนิรันดร์ โลกจะเป็นอย่างไร?\\pแผ่นดินทั้งหมดของโลกจะจมอยู่ใต้ทะเลที่ลึกขึ้นเรื่อยๆ…$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_ArchieDontGetAllHighAndMighty", "th": "อาโอกิริ: อ-อะไรนะ?! อย่ามาทำเป็นวางมาดสูงส่งใส่ข้าหน่อยเลย!\\pไม่ใช่พวกแก แก๊งแม็กม่าหรอกเหรอ ที่ทำให้กราดอนคลุ้มคลั่ง?\\pตราบใดที่ข้ามีลูกแก้วแดงนี้ ข้าก็น่าจะควบคุมไคออกาได้…\\pข้าต้องควบคุมมันได้สิ…$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_MaxieWeDontHaveTimeToArgue", "th": "มัตสึบุสะ: เราไม่มีเวลามาเถียงกันตรงนี้!\\pออกไปดูข้างนอกด้วยตาตัวเอง!\\pดูซะว่าสิ่งที่แกก่อขึ้น คือโลกที่พวกเราปรารถนาหรือเปล่า!$"}
+{"id": "data/maps/SeafloorCavern_Room9/scripts.inc#SeafloorCavern_Room9_Text_MaxieComeOnPlayer", "th": "มัตสึบุสะ: {PLAYER} เร็วเข้า เธอก็ต้องออกไปจากที่นี่เหมือนกัน!$"}
+{"id": "data/maps/ShoalCave_LowTideLowerRoom/scripts.inc#ShoalCave_LowTideLowerRoom_Text_CanOvercomeColdWithFocus", "th": "ความหนาวเหน็บทะลุกระดูกแถวนี้เป็นอุปสรรคต่อการฝึกฝน\\pแต่ถ้ามีสมาธิ ย่อมเอาชนะได้!\\pรับผ้าคาดฮึดสู้นี้ไป แล้วตั้งสติอดทนต่อความหนาวซะ!$"}
+{"id": "data/maps/ShoalCave_LowTideLowerRoom/scripts.inc#ShoalCave_LowTideLowerRoom_Text_EverythingStartsWithFocus", "th": "ทุกสิ่งเริ่มต้นจากสมาธิ!$"}
+{"id": "data/maps/SkyPillar_Outside/scripts.inc#SkyPillar_Outside_Text_DoorIsClosed", "th": "ประตูปิดอยู่$"}
+{"id": "data/maps/SkyPillar_Outside/scripts.inc#SkyPillar_Outside_Text_OpenedDoorToSkyPillar", "th": "มิคุริ: โอ้ ขอโทษจริงๆ ครับ!\\pผมรีบร้อนจนไม่ทันสังเกตว่าทิ้งคุณไว้ข้างหลัง!\\pผมเปิดประตูที่ถูกล็อกของเสาแห่งท้องฟ้าไว้แล้วครับ\\p{PLAYER}{KUN} ไปกันเถอะครับ!$"}
+{"id": "data/maps/SkyPillar_Outside/scripts.inc#SkyPillar_Outside_Text_EarthquakeNotMomentToWaste", "th": "มิคุริ: แผ่นดินไหว!\\pไม่มีเวลาให้เสียแล้ว เราต้องรีบไปครับ!$"}
+{"id": "data/maps/SkyPillar_Outside/scripts.inc#SkyPillar_Outside_Text_SituationGettingWorse", "th": "มิคุริ: อืม… สถานการณ์เลวร้ายลงเรื่อยๆ…$"}
+{"id": "data/maps/SkyPillar_Outside/scripts.inc#SkyPillar_Outside_Text_GotToGoBackForSootopolis", "th": "มิคุริ: ไม่ดีเลย…\\pความแปรปรวนของสภาพอากาศลามมาถึงที่นี่แล้ว…\\p{PLAYER}{KUN}\\pเร็คคูซาน่าจะอยู่สูงขึ้นไปจากตรงนี้\\pผมเป็นห่วงเมืองรุเนะ ผมต้องกลับไปครับ\\pตอนนี้ทุกอย่างขึ้นอยู่กับคุณแล้ว อย่าทำให้เราผิดหวังนะครับ!$"}
+{"id": "data/maps/SkyPillar_Top/scripts.inc#SkyPillar_Top_Text_RayquazaFlewOff", "th": "เร็คคูซาที่ตื่นขึ้นมาบินจากไปแล้ว…$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_EnergyGuruSellWhatYouNeed", "th": "ผมคือเซียนพลังงาน! จะทุ่มสุดตัว ขายของที่คุณต้องการให้เลย!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_OhYourPokemon", "th": "อ้าว? {STR_VAR_1} ของเธอ…$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_PleaseGiveItThisEffortRibbon", "th": "พยายามได้ยอดเยี่ยมมาก!\\pเป็นรางวัล ช่วยมอบริบบิ้นความพยายามนี้ให้มันด้วยนะ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_ReceivedEffortRibbon", "th": "{PLAYER} ได้รับริบบิ้นความพยายาม$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_PutEffortRibbonOnMon", "th": "{PLAYER} ติดริบบิ้นความพยายามให้ {STR_VAR_1}$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_GoForItLittleHarder", "th": "ต้องพยายามอีกสักนิดนะ\\pถ้าทำได้ ฉันจะให้ของดีๆ กับโปเกมอนของเธอ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_EffortRibbonLooksGoodOnIt", "th": "โอ้! {STR_VAR_1} ของเธอติดริบบิ้นความพยายามแล้วดูดีเชียว!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_WonderIfLighthouseStartlesPokemon", "th": "แสงจากประภาคารส่องไปไกลหลายสิบกิโลเมตรเลยนะ\\pสงสัยจังว่ามันทำให้โปเกมอนในทะเลตกใจบ้างหรือเปล่า$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_SeaweedFullOfLife", "th": "โอ้โฮ ดูนี่สิ!\\pสาหร่ายที่หาได้แถวนี้ สดใหม่และเปี่ยมไปด้วยชีวิตชีวา\\pดูสิ ราวกับว่ามันจะลุกขึ้นมาจู่โจมได้เลยทีเดียว!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_HowTownIsBornAndGrows", "th": "ที่ใดน้ำใส ที่นั่นพืชผลอันอุดมสมบูรณ์ย่อมมารวมกัน\\pและที่ใดผู้คนมารวมกัน ไม่นานก็จะเกิดตลาดขึ้น\\pเมืองก็ถือกำเนิดและเติบโตขึ้นมาอย่างนี้แหละหนู$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_SlateportWonderfulPlace", "th": "ได้ช็อปปิ้งไปพลาง สูดกลิ่นทะเลไปพลาง…\\pเมืองไคนะเป็นที่ที่วิเศษจริงๆ เลย!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_BuyBricksSoDecorWontGetDirty", "th": "ถ้าวางตุ๊กตาหรือเบาะไว้บนพื้น มันจะเลอะเปื้อน\\pหนูเลยจะซื้ออิฐมาปู ตุ๊กตากับเบาะของหนูจะได้ไม่เปื้อนเวลาวางทิ้งไว้$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_GoingToCompeteInBattleTent", "th": "โฮ้ววว! ผมจะไปลงแข่งที่แบทเทิลเทนต์ด้วย!\\pแต่ก่อนอื่น ต้องไปจับโปเกมอนมาก่อน!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_BushedHikingFromMauville", "th": "เฮ้อ… เหนื่อยจะตายอยู่แล้ว…\\pผมเดินเท้ามาจากเมืองคินเซ็ตสึ แต่ให้ตายสิ เมืองนี้กว้างจริงๆ\\pรู้อย่างนี้ขี่จักรยานมาดีกว่า$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_EveryoneCallsHimCaptStern", "th": "คุสึโนกิ ผู้สร้างพิพิธภัณฑ์แห่งนี้ ยังเป็นหัวหน้าทีมสำรวจใต้ท้องทะเลด้วย\\pทุกคนก็เลยเรียกเขาว่ากัปตันคุสึโนกิ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_WhatsLongLineOverThere", "th": "นั่นอะไรน่ะ? แถวยาวเหยียดนั่น…$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_VisitedMuseumOften", "th": "ตอนเด็กๆ ฉันมาพิพิธภัณฑ์นี้บ่อยมาก\\pพอได้ดูสิ่งที่จัดแสดง ฉันก็มักจะฝันถึงความลึกลับของท้องทะเลค่ะ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_QuitPushing", "th": "เฮ้ นี่! เลิกเบียดได้แล้ว! นี่มันแถว มองไม่เห็นหรือไง?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_AquaHasPolicy", "th": "แก๊งอความีนโยบายรวมตัวและแยกย้ายกันที่จุดปฏิบัติการ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_BossIsBrilliant", "th": "บอสของพวกเราน่ะฉลาดเป็นกรด\\pแต่ตอนนี้จะต้องการอะไรกับพิพิธภัณฑ์กันนะ?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_WhatsNewSchemeIWonder", "th": "แผนใหม่คืออะไรกันนะ?\\pบอสเวลาโกรธน่ะน่ากลัวสุดๆ ฉันอย่าทำพลาดดีกว่า…$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_ShouldTakeItAll", "th": "ถ้าในพิพิธภัณฑ์มีของที่พวกเราต้องการ ก็ขนไปให้หมดเลยสิ!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_DontButtIn", "th": "เฮ้ย แกน่ะ! อย่ามาแซงคิว!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_RemindsMeOfLongLineForGames", "th": "แถวยาวเหยียดงั้นเหรอ?\\pทำให้นึกถึงตอนไปต่อแถวซื้อเกมฮิตเลยแฮะ…$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_WhyAreWeLiningUp", "th": "ทำไมพวกเราต้องมาต่อแถวแล้วจ่ายเงินด้วยล่ะ? บุกเข้าไปเลยสิ!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_WhatDoYouWant", "th": "อะไร? ต้องการอะไร?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_IllReadSignForYou", "th": "อยากอ่านป้ายนี่เหรอ? เดี๋ยวฉันอ่านให้ฟังเอง!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_SaysSomethingLikeSeaIsEndless", "th": "ไหนดูซิ…\\pเอ่อ… น่าจะเขียนประมาณว่า “ชีวิตในทะเลนั้นไม่มีที่สิ้นสุด”\\pอืม ฉันค่อนข้างมั่นใจว่าเขียนแบบนั้นแหละ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_ShouldveBroughtMyGameBoy", "th": "งึมงำ…\\pน่าจะพก Game Boy Advance มาด้วย จะได้ไม่เบื่อตอนต่อแถว…\\pงึมงำ…$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_HotSpringsAfterOperation", "th": "พอปฏิบัติการนี้จบ ข้าจะพาพวกเจ้าไปแช่บ่อน้ำพุร้อน!\\pหัวหน้าพูดไว้แบบนั้นแหละ รอไม่ไหวแล้ว!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_SeaIsSoWet", "th": "ทะเลช่างกว้างใหญ่เหลือเกิน…\\pหรือว่าทะเลเกิดจากน้ำตาที่โปเกมอนหลั่งออกมากันนะ?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_SinkOldBoats", "th": "รู้ไหมว่าเรือเก่าที่ผุพังจนแล่นไม่ไหวแล้ว เขาเอาไปทำอะไร?\\pเขาจะจมมันลงทะเล ให้กลายเป็นที่อยู่อาศัยของโปเกมอนน่ะ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_BuyTooMuch", "th": "ทุกครั้งที่มาที่นี่ ฉันเผลอใจซื้อของมากเกินไปทุกทีเลยค่ะ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_GetNameRaterToHelpYou", "th": "ถ้าอยากเปลี่ยนชื่อเล่นโปเกมอน ต้องไปขอให้นักประเมินชื่อช่วยนะครับ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_CantChangeTradeMonName", "th": "โปเกมอนที่ได้มาจากการแลกเปลี่ยน จะเปลี่ยนชื่อเล่นไม่ได้นะ\\pเพราะในชื่อเล่นนั้น มีความรักที่เทรนเนอร์คนแรกมีต่อโปเกมอนตัวนั้นอยู่$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_BattleTentBuiltRecently", "th": "เมื่อไม่นานมานี้ มีการสร้างแบทเทิลเทนต์ขึ้นที่เมืองไคนะ\\pยิมก็สนุกดีนะ แต่แบทเทิลเทนต์ก็สุดยอดไปอีกแบบ\\pลองไปหาโปเกมอนเก่งๆ มาสู้ที่แบทเทิลเทนต์ดูสิ!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_CaptSternBeingInterviewed", "th": "ยายนึกว่าเป็นดาราดัง จะได้ขอลายเซ็นซะหน่อย\\pแต่คนที่ให้สัมภาษณ์อยู่นั่นใครกันนะ? นั่นกัปตันคุสึโนกิไม่ใช่เหรอ?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_InterviewerSoCool", "th": "พี่นักข่าวผู้หญิงคนนั้นเท่และสวยมากเลย\\pโตขึ้นหนูจะเป็นนักข่าวระดับโลกให้ได้!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_SternSaysDiscoveredSomething", "th": "กัปตันคุสึโนกิบอกว่าค้นพบอะไรบางอย่างที่ก้นทะเล\\pอะไรกันนะ? จะเป็นอะไรได้บ้างนะ?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_CaptainComeBackWithBigFish", "th": "เกิดอะไรขึ้นที่นี่เนี่ย?\\pท่านกัปตันได้ปลาตัวเบ้อเริ่มกลับมาจากก้นทะเลเหรอ?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_AmIOnTV", "th": "เฮ้! ดูอยู่หรือเปล่า? ผมออกทีวีหรือยัง?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_CaptainsACelebrity", "th": "สัมภาษณ์ออกทีวี! ที่นี่เลย! กัปตันกลายเป็นคนดังไปแล้ว!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_BigSmileForCamera", "th": "ได: โอเค กัปตันคุสึโนกิ ยิ้มกว้างๆ ให้กล้องหน่อยครับ!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_MostInvaluableExperience", "th": "มาริ: อย่างนี้นี่เอง ช่างเป็นประสบการณ์ที่มีค่ายิ่งนักเลยนะคะ…$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_SternMoveAheadWithExploration", "th": "กัปตันคุสึโนกิ: ใช่แล้วครับ เราตั้งใจจะเดินหน้าสำรวจต่อไปครับ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_GabbyWonderfulThanksForInterview", "th": "มาริ: ยอดเยี่ยมมากค่ะ กัปตันคุสึโนกิ! ขอบคุณที่สละเวลาอันมีค่ามาพูดคุยกับเรานะคะ\\pหวังว่าจะได้สัมภาษณ์อีกครั้ง พร้อมข่าวการค้นพบใหม่ๆ นะคะ!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_SternWhewFirstInterview", "th": "กัปตันคุสึโนกิ: เฮ้อ…\\pนี่เป็นครั้งแรกที่ผมถูกถ่ายออกทีวี ประหม่าชะมัดเลยครับ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_OhPlayerWeMadeDiscovery", "th": "โอ้! {PLAYER}{KUN}! ดูสบายดีนะครับ!\\pการสำรวจก้นทะเลครั้งล่าสุด พวกเราค้นพบสิ่งที่ยิ่งใหญ่มากครับ\\pเราพบถ้ำใต้น้ำที่เส้นทาง 128\\pเราคิดว่าที่นั่นเป็นถิ่นที่อยู่ของโปเกมอนที่เล่ากันว่าสูญพันธุ์ไปนานแล้วครับ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_AquaWillAssumeControlOfSubmarine", "th": "ฟุฟุฟุ… ท่านคือกัปตันคุสึโนกิสินะ\\pพวกเราแก๊งอควาจะขอยึดเรือดำน้ำของท่าน!\\pคัดค้านไปก็ไร้ความหมาย! พวกเราหวังว่าท่านจะให้ความร่วมมือเต็มที่!\\pฟุฟุฟุ… คอยดูให้ดีว่าแก๊งอควาวางแผนอะไรไว้!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_SternWhatWasAllThat", "th": "กัปตันคุสึโนกิ: เมื่อกี้มันอะไรกัน?\\pฟังเหมือนมีคนพูดผ่านโทรโข่ง…\\pเสียงมาจากทางไหนกันนะ?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_FromHarborTryingToTakeSub", "th": "มาจากท่าเรือ!\\pเรือดำน้ำ! พวกนั้นจะยึดมันไป!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_PleaseComeWithMe", "th": "{PLAYER}{KUN}! ได้โปรด ไปกับผมที!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_BattleTentSign", "th": "แบทเทิลเทนต์ สาขาไคนะ “ค้นหาให้เจอ! สุดยอดโปเกมอน!”$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_SternsShipyardWantedSign", "th": "อู่ต่อเรือคุสึโนกิ\\p“รับสมัคร: กะลาสีที่แล่นเรือฝ่าได้ทุกกระแสน้ำ”$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_SternsShipyardNearsCompletion", "th": "อู่ต่อเรือคุสึโนกิ\\p“เรือเฟอร์รี่ไทดัล ซึ่งจะให้บริการระหว่างท่าเรือเมืองไคนะและเมืองมินาโมะ ใกล้จะสร้างเสร็จแล้ว”$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_SternsShipyardFerryComplete", "th": "อู่ต่อเรือคุสึโนกิ\\p“ขึ้นเรือเฟอร์รี่ไทดัล สายไคนะ-มินาโมะ ได้ที่ท่าเรือ”$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_PokemonFanClubSign", "th": "แฟนคลับโปเกมอน “ขอเชิญแฟนๆ โปเกมอนทุกท่าน!”$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_OceanicMuseumSign", "th": "“ทะเลอันไร้ขอบเขตหล่อเลี้ยงทุกชีวิต”\\pพิพิธภัณฑ์สมุทรศาสตร์$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_CitySign", "th": "เมืองไคนะ\\p“เมืองท่าที่ผู้คนและโปเกมอนมาพบกัน”$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_MarketSign", "th": "ตลาดไคนะ “ของแปลกที่หาจากที่ไหนไม่ได้!”$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_HarborFerryUnderConstruction", "th": "ท่าเรือไคนะ\\p“เรือเฟอร์รี่ไทดัลอยู่ระหว่างการสร้างที่อู่ต่อเรือ\\p“จะเปิดให้บริการในเร็วๆ นี้”$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_HarborSign", "th": "ท่าเรือไคนะ\\p“เพลิดเพลินกับการล่องเรือแสนสำราญบนเรือเฟอร์รี่ไทดัล”$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_NameRatersHouseSign", "th": "บ้านนักประเมินชื่อ “รับประเมินชื่อเล่นโปเกมอน”$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_ExplainBerries", "th": "เวลาโปเกมอนป่าบาดเจ็บ มันจะเคี้ยวเบอร์รี่เพื่อรักษาตัวเองล่ะ\\pรู้หรือเปล่าจ๊ะ?\\pมีคนเห็นเข้า เลยเกิดไอเดียเอาเบอร์รี่มาทำยา\\pรู้หรือเปล่าจ๊ะ?\\pจะเอาเบอร์รี่มาทำยาได้ ต้องบดให้เป็นผงก่อน\\pรู้หรือเปล่าจ๊ะ?\\pดูท่าเธอจะสนใจเบอร์รี่นะ!\\pฉันมีของดีสำหรับคนแบบเธอด้วยล่ะ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_ExplainBerryPowder", "th": "ไม่นานมานี้ ฉันให้เขาติดตั้งเครื่องบดเบอร์รี่ไว้ที่โปเกมอนเซ็นเตอร์\\pเครื่องเบอร์รี่ครัชอยู่ที่ไดเร็กต์คอร์เนอร์ชั้นบน\\pรู้หรือเปล่าจ๊ะ?\\pช่วยใช้เครื่องพวกนั้นทำผงเบอร์รี่ให้ฉันหน่อยได้ไหม?\\pถ้าเอาผงเบอร์รี่มาให้เยอะๆ ฉันจะทำยาสารพัดอย่างให้เลยจ้ะ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_BroughtMeSomeBerryPowder", "th": "เอาผงเบอร์รี่มาให้ฉันหรือยังจ๊ะ?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_ExchangeWhatWithIt", "th": "อยากแลกเป็นอะไรดีจ๊ะ?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_ExchangeBerryPowderForItem", "th": "โอเค จะเอาผงเบอร์รี่มาแลกกับ {STR_VAR_1} หนึ่งชิ้นใช่ไหมจ๊ะ?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_DontHaveEnoughBerryPowder", "th": "อุ๊ย ตายจริง ผงเบอร์รี่ของเธอไม่พอนะจ๊ะ$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_FineBerryPowderTradeSomethingElse", "th": "ผงเบอร์รี่คุณภาพดีจัง ต้องทำเป็นยาชั้นเลิศได้แน่\\pอยากเอาผงเบอร์รี่มาแลกของอย่างอื่นอีกไหมจ๊ะ?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_WhenYouGetMoreBringItToMe", "th": "โอเค! ถ้ามีผงเบอร์รี่เพิ่มเมื่อไหร่ เอามาให้ฉันนะจ๊ะ!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_ComeBackToTradeBerryPowder", "th": "ถ้าอยากเอาผงเบอร์รี่มาแลกเป็นยา ก็แวะมาใหม่นะ\\pฉันเปิดร้านอยู่ตรงนี้ตลอดแหละ\\pรู้หรือเปล่าจ๊ะ?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_YouDroveTeamAquaAway", "th": "เอนิชิดะ: หืม? ผมว่าเราเคยเจอกันที่ไหนมาก่อนแน่ๆ\\pผมเคยแนะนำตัวกับเธอหรือยังนะ? ถ้ายัง ผมชื่อเอนิชิดะครับ\\pเมื่อกี้ผมเห็นแก๊งอควาวิ่งหนีออกไปจากที่นี่อย่างกับโดนผึ้งต่อย\\pขอเดานะ เธอเป็นคนไล่พวกนั้นไปใช่ไหม?$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_MaybeThisTrainer", "th": "เอนิชิดะ: อืม… บางที เป็นไปได้ว่าเทรนเนอร์คนนี้…$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_LetsRegisterEachOther", "th": "เอนิชิดะ: เอาล่ะ! ผมว่าเราคงเป็นเพื่อนที่ดีต่อกันได้\\pงั้นมาลงทะเบียนกันและกันในโปเกนาวีกันเถอะ\\p… … … … … …$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_RegisteredScott", "th": "ลงทะเบียนคนชื่อเอนิชิดะในโปเกนาวีแล้ว$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou", "th": "เอนิชิดะ: จริงๆ ก็อยากจะติดตามเธอไปนะ แต่ผมก็อยากจับตาดูพรสวรรค์ของคนอื่นๆ ด้วย\\pผมเลยจะไปตระเวนเมืองอื่นอีกสักหน่อย\\pแล้วเจอกันนะ {PLAYER}{KUN}!$"}
+{"id": "data/maps/SlateportCity/scripts.inc#SlateportCity_Text_TakingBattleTentChallenge", "th": "เอนิชิดะ: อ้าว เฮ้! นั่นมัน {PLAYER}{KUN} นี่นา!\\p{PLAYER}{KUN} ขอเดานะ จะไปท้าชิงแบทเทิลเทนต์ใช่ไหม?\\pใช่เลย! เป็นความคิดที่ดี! ความคิดที่ยอดเยี่ยมจริงๆ!\\pยังไงซะ เทรนเนอร์ที่แข็งแกร่งก็เหมาะกับแบทเทิลเทนต์ที่สุดอยู่แล้ว!\\pทำให้เต็มที่นะ!$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_AdviceForContests", "th": "อยากได้คำแนะนำเล็กๆ แต่เด็ดๆ เรื่องคอนเทสต์ไหม?\\pการใช้ท่าบางท่าต่อจากท่าบางประเภท บางครั้งจะเรียกความสนใจได้มากขึ้น\\pถ้ารู้ว่าตัวเองกำลังทำอะไรอยู่ ก็กวาดคะแนนการแสดงได้เพียบ\\pแต่แน่นอนว่าคู่แข่งก็อาจพยายามก่อกวนการแสดงของโปเกมอนเธอเหมือนกัน$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_MyPapaIsContestJudge", "th": "ป๊าของหนูเป็นกรรมการคอนเทสต์\\pโตขึ้นหนูควรเป็นอะไรดีนะ กรรมการหรือหัวหน้ายิมดี?$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed", "th": "เฮ้ย พวก ฉันแบบว่าหัวร้อนสุดๆ เลยอ่ะ รู้ป่ะ แบบว่า ฉันก็แค่อยากรู้ว่าทำไมโปเกมอนของฉันไม่เคยชนะเลย แบบ เฮ้ย?\\pก็เลย แบบว่า ไปติกรรมการนิดหน่อย รู้ป่ะ ติฟรีไม่คิดตังค์\\pแล้วเขาก็ไม่ยอมฟังเลย แบบ เฮ้ย! แบบว่า ซวยสุดๆ อ่ะพวก!\\pเฮ้ แบบ เธอน่ะ! เงียบไปเลย รู้ป่ะ? แค่ แบบว่า เอานี่ไป!$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_ExplainTorment", "th": "นั่นน่ะ แบบว่า TM41 รู้ป่ะ? เฮ้ มันคือท่าหาเรื่อง ฟังอยู่ป่ะ?\\pแบบว่า มันจะทำให้อีกฝ่ายใช้ท่าเดิมติดกันสองครั้งไม่ได้ เข้าใจป่ะ?\\pเฮ้ ฟังนะ แบบว่า ฉันไม่ได้มาหาเรื่องเธอนะเว้ย!$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_MCStepUpTakePartInContest", "th": "พิธีกร: โอ้โห โอ้โห! นั่นมันโปเกมอนเท่สุดๆ เลยไม่ใช่เหรอครับ?\\pเชิญเลยครับ! เชิญมาร่วมคอนเทสต์สุดอลังการของเราได้เลย!\\pคุณต้องทำได้ดีแน่! ผมมั่นใจ! สายตาผมไม่เคยพลาดครับ!$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest", "th": "กรรมการ: สวัสดีครับ! เห็นแล้วว่าคุณเป็นเทรนเนอร์!\\pถ้าอย่างนั้น จะพลาดโปเกมอนคอนเทสต์ไปได้ยังไงกันล่ะครับ!\\pไปรับบัตรคอนเทสต์ที่เมืองชิดาเกะ แล้วมาลงแข่งได้ทุกเมื่อเลยครับ!$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_ItsAppealTime", "th": "ถึงเวลาแสดงแล้ว! จะเปิดตัวด้วยท่าไหนดีนะ?$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_DidntPayAttentionToAppeal", "th": "ไม่มีใครสนใจการแสดงของโปเกมอนฉันเท่าไหร่เลย…\\pหึ่ย กรรมการคนนั้นน่ะ ไม่รู้จักของดีเอาซะเลย$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_RewardWithSageAdvice", "th": "อ้าว หวัดดี! ต้องเป็นแฟนตัวจริงแน่ๆ ถึงได้เข้ามาดูใกล้ขนาดนี้\\pเพื่อเป็นรางวัลให้ความกระตือรือร้น ขอให้คำแนะนำชั้นครูหน่อยนะ\\pถ้าท่าไหนแสดงออกมาได้ดีมาก ผู้ชมจะตื่นเต้นกันใหญ่\\pโปเกมอนที่แสดงตอนที่ทุกคนกำลังตื่นเต้นกันอยู่พอดี…\\pก็น่าจะเกิดเรื่องดีๆ ขึ้นใช่ไหมล่ะ!$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_MoreFreakedOutThanMon", "th": "ไม่ไหวแล้ว! ฉันตื่นเต้นยิ่งกว่าโปเกมอนของตัวเองอีก\\pตัวสั่นไปหมด หัวใจก็เต้นตึกตักเลย!$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_BattleAndContestAlike", "th": "แบทเทิลกับคอนเทสต์ไม่เหมือนกัน แต่ก็คล้ายกันอยู่นะ\\pต้องทุ่มเท และเชื่อมั่นในโปเกมอนที่เลี้ยงมากับมือ$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_MonLooksOnTopOfGame", "th": "โปเกมอนตัวนั้นดูฟอร์มดีสุดๆ เลยนะ?\\pโปเกมอนที่ทำได้ดีในการตัดสินรอบสอง ดูจะผ่อนคลายขึ้นเวลาแสดง$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_MyMonBetterThanThatLot", "th": "ดูสภาพน่าสมเพชนั่นสิ\\pเฮอะ โปเกมอนของฉันเหนือกว่าพวกนั้นแน่นอนอยู่แล้ว!$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_GetUrgeToMoveWithMon", "th": "เวลาโปเกมอนแสดงอย่างมีพลัง ไม่รู้สึกอยากขยับตัวตามบ้างเหรอ?$"}
+{"id": "data/maps/SlateportCity_BattleTentCorridor/scripts.inc#SlateportCity_ContestHall_Text_HyperRankStage", "th": "โปเกมอนคอนเทสต์ เวทีระดับไฮเปอร์!$"}
+{"id": "data/maps/SlateportCity_BattleTentLobby/scripts.inc#SlateportCity_BattleTentLobby_Text_CouldntFindMonForMe", "th": "แบบว่า ฉันหาโปเกมอนที่ แบบ เหมาะกับตัวเองไม่ได้เลยอ่ะ\\pก็เลยคิดว่า แบบ เฮ้ย ไปร้องเรียนกับคนตรงนั้นดีกว่า?\\pแล้วเขาก็ไม่ยอมฟังเลย แบบ เฮ้ย! แบบว่า ซวยสุดๆ อ่ะพวก!\\pเฮ้ แบบ เธอน่ะ! เงียบไปเลย รู้ป่ะ? แค่ แบบว่า เอานี่ไป!$"}
+{"id": "data/maps/SlateportCity_BattleTentLobby/scripts.inc#SlateportCity_BattleTentLobby_Text_ExplainTorment", "th": "นั่นน่ะ แบบว่า TM41 รู้ป่ะ? เฮ้ มันคือท่าหาเรื่อง ฟังอยู่ป่ะ?\\pแบบว่า มันจะทำให้อีกฝ่ายใช้ท่าเดิมติดกันสองครั้งไม่ได้ เข้าใจป่ะ?\\pเฮ้ ฟังนะ แบบว่า ฉันไม่ได้มาหาเรื่องเธอนะเว้ย!$"}
+{"id": "data/maps/SlateportCity_BattleTentLobby/scripts.inc#SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons", "th": "ผมไม่ค่อยชอบโปเกมอนประเภทแมลงเท่าไหร่ แต่คงลองใช้ดูสักหน่อยเพื่อเปลี่ยนบรรยากาศ\\pใครจะรู้ อาจจะชอบขึ้นมาก็ได้!$"}
+{"id": "data/maps/SlateportCity_BattleTentLobby/scripts.inc#SlateportCity_BattleTentLobby_Text_BattleEvenWithoutToughMons", "th": "ที่นี่แบทเทิลได้เต็มที่ ถึงจะไม่มีโปเกมอนเก่งๆ ก็ตาม$"}
+{"id": "data/maps/SlateportCity_BattleTentLobby/scripts.inc#SlateportCity_BattleTentLobby_Text_NiceIfMoreSelection", "th": "ถ้ามีให้เลือกมากกว่านี้ก็คงดีนะคะ$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_FerryServiceUnavailable", "th": "คะ? กำลังหาเรืออยู่หรือคะ?\\pต้องขออภัยค่ะ ตอนนี้ยังไม่มีบริการเรือเฟอร์รี่ค่ะ…$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_MayISeeYourTicket", "th": "สวัสดีค่ะ มาขึ้นเรือเฟอร์รี่หรือคะ? ขอดูตั๋วเรือด้วยค่ะ$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_YouMustHaveTicket", "th": "{PLAYER} ไม่มีตั๋วเรือ…\\pต้องขออภัยจริงๆ ค่ะ\\pต้องมีตั๋วเรือถึงจะขึ้นเรือเฟอร์รี่ได้ค่ะ$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_FlashedTicketWhereTo", "th": "{PLAYER} ยื่นตั๋วเรือให้ดู\\pเรียบร้อยค่ะ! เท่านี้ก็ขึ้นเรือได้แล้ว!\\pไม่ทราบว่าจะเดินทางไปที่ไหนคะ?$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_SailAnotherTime", "th": "โอกาสหน้าเชิญใช้บริการใหม่นะคะ!$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_LilycoveItIs", "th": "เมืองมินาโมะนะคะ!$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_BattleFrontierItIs", "th": "แบทเทิลฟรอนเทียร์นะคะ!$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_PleaseBoardFerry", "th": "เชิญขึ้นเรือแล้วรอออกเดินทางได้เลยค่ะ$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_WhereWouldYouLikeToGo", "th": "ถ้าอย่างนั้น จะเดินทางไปที่ไหนคะ?$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_LoveToGoDeepUnderwaterSomeday", "th": "การเดินทางลงไปถึงก้นทะเล… จะเป็นยังไงนะ?\\pสักวันผมอยากลงไปใต้ทะเลลึกแบบนั้นบ้างจัง$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_AbnormalWeather", "th": "เรือจะแล่นได้อย่างปลอดภัย เราต้องรู้เรื่องสภาพอากาศ!\\pพูดถึงสภาพอากาศ ผมได้ยินมาจากคนที่สถาบันพยากรณ์อากาศ\\pเขาบอกว่ามีรายงานสภาพอากาศผิดปกติจากทั่วทุกสารทิศเลย!\\pลองไปที่สถาบันพยากรณ์อากาศแล้วถามดูสิ!$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_SubTooSmallForMe", "th": "ผมอยากไปสำรวจก้นทะเลกับกัปตันคุสึโนกิ\\pแต่เรือดำน้ำเล็กเกินไปสำหรับผม\\pถ้าผมเบียดเข้าไป ก็คงไม่เหลือที่ให้กัปตันนั่งแน่…$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_SameThugsTriedToRobAtMuseum", "th": "กัปตันคุสึโนกิ: พวกอันธพาลนั่น…\\pเป็นพวกเดียวกับที่พยายามชิงพัสดุเดวอนที่พิพิธภัณฑ์นี่ครับ$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_ArchieYouAgainHideoutInLilycove", "th": "อาโอกิริ: หืม? เจ้าอีกแล้วเหรอ…\\pตามพวกข้ามาถึงที่นี่ได้ ข้ายอมรับในความตื๊อของเจ้าก็แล้วกัน\\pแต่ตอนนี้… ไม่มีใครหยุดพวกเราได้อีกแล้ว! ไม่มีใครทั้งนั้น!\\pหรือว่าเจ้าจะตามพวกเราไปถึงที่ซ่อนในเมืองมินาโมะล่ะ?\\pฟวาฮ่าฮ่าฮ่าฮ่า…$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_CaptSternWhyStealMySubmarine", "th": "กัปตันคุสึโนกิ: ทำไม…\\pทำไมแก๊งอควาถึงขโมยเรือดำน้ำสำรวจ 1 ของผมไป?\\pพวกนั้นคงไม่ได้ตามหาโปเกมอนที่หลับใหลอยู่ใต้ก้นทะเลหรอกนะ…\\pแต่ถึงผมจะไล่ตามไป ก็ไม่มีทางสู้พวกนั้นได้…$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_TeamAquaLeftNeedDive", "th": "กัปตันคุสึโนกิ: โอ้ {PLAYER}{KUN}…\\pงั้นเหรอ… แก๊งอควาไปก่อนที่คุณจะหยุดพวกเขาได้สินะ\\pไม่ครับ อย่าโทษตัวเองเลย นี่ไม่ใช่ความผิดของคุณหรอก\\pการไล่ตามเรือดำน้ำ… เป็นไปไม่ได้สำหรับคนส่วนใหญ่\\pคุณต้องมีโปเกมอนที่ใช้ท่าดำน้ำได้…\\pถ้าลองไปที่เมืองโทคุซาเนะ…\\pที่นั่นมีนักดำน้ำอาศัยอยู่เยอะ อาจมีใครสอนคุณได้นะครับ…$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_NeedDiveToCatchSub", "th": "กัปตันคุสึโนกิ: การไล่ตามเรือดำน้ำ… เป็นไปไม่ได้หรอกครับ\\pคุณต้องมีโปเกมอนที่ใช้ท่าดำน้ำได้…\\pถ้าลองไปที่เมืองโทคุซาเนะ…\\pที่นั่นมีนักดำน้ำอาศัยอยู่เยอะ อาจมีใครสอนคุณได้นะครับ…$"}
+{"id": "data/maps/SlateportCity_Harbor/scripts.inc#SlateportCity_Harbor_Text_WontBeLongBeforeWeFinishFerry", "th": "กัปตันคุสึโนกิ: อ้อ ใช่แล้ว ลุงฮางิมาที่อู่ต่อเรือของเราด้วยนะครับ\\pอีกไม่นานเราก็จะสร้างเรือเฟอร์รี่เสร็จแล้วครับ!$"}

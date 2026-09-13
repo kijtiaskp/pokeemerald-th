@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,12 +89,29 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
-OLD SEA MAP	แผนที่เก่า	item	
+SAFARI ZONE	ซาฟารีโซน	frontier	
+BUG	BUG	type	คงภาษาอังกฤษตามต้นฉบับ
+DRAGON	DRAGON	type	คงภาษาอังกฤษตามต้นฉบับ
+OLD SEA MAP	OLD SEA MAP	item	คงภาษาอังกฤษตามต้นฉบับ
+-	-	move	คงภาษาอังกฤษตามต้นฉบับ
+VICEGRIP	VICEGRIP	move	คงภาษาอังกฤษตามต้นฉบับ
+SWORDS DANCE	SWORDS DANCE	move	คงภาษาอังกฤษตามต้นฉบับ
+HORN ATTACK	HORN ATTACK	move	คงภาษาอังกฤษตามต้นฉบับ
+HYPNOSIS	HYPNOSIS	move	คงภาษาอังกฤษตามต้นฉบับ
+RAGE	RAGE	move	คงภาษาอังกฤษตามต้นฉบับ
+DEFENSE CURL	DEFENSE CURL	move	คงภาษาอังกฤษตามต้นฉบับ
+FOCUS ENERGY	FOCUS ENERGY	move	คงภาษาอังกฤษตามต้นฉบับ
+SOFTBOILED	SOFTBOILED	move	คงภาษาอังกฤษตามต้นฉบับ
+REST	REST	move	คงภาษาอังกฤษตามต้นฉบับ
+CONVERSION	CONVERSION	move	คงภาษาอังกฤษตามต้นฉบับ
+LOCK-ON	LOCK-ON	move	คงภาษาอังกฤษตามต้นฉบับ
+RAIN DANCE	RAIN DANCE	move	คงภาษาอังกฤษตามต้นฉบับ
+SUNNY DAY	SUNNY DAY	move	คงภาษาอังกฤษตามต้นฉบับ
 ROUTE 108	เส้นทาง 108	location	
 MT. CHIMNEY	ภูเขาปล่องไฟ	location	
 SAFARI ZONE	ซาฟารีโซน	location	
@@ -104,21 +121,6 @@ ROUTE 10	เส้นทาง 10	location
 ROUTE 1	เส้นทาง 1	location	
 ROUTE 10	เส้นทาง 10	location	
 SAFARI ZONE	ซาฟารีโซน	location	
-BUG	แมลง	type	
-DRAGON	มังกร	type	
-VICEGRIP	หนีบ	move	
-SWORDS DANCE	ระบำดาบ	move	
-HORN ATTACK	แทงเขา	move	
-HYPNOSIS	สะกดจิต	move	
-RAGE	เดือดดาล	move	
-DEFENSE CURL	ขดตัวกลม	move	
-FOCUS ENERGY	ปลุกใจสู้	move	
-SOFTBOILED	ออกไข่	move	
-REST	นอนหลับ	move	
-CONVERSION	เท็กซ์เจอร์	move	
-LOCK-ON	ล็อกออน	move	
-RAIN DANCE	ระบำขอฝน	move	
-SUNNY DAY	แดดจ้า	move	
 COOLTRAINER	ยอดเทรนเนอร์	trainer_class	
 EXPERT	ผู้เชี่ยวชาญ	trainer_class	
 BEAUTY	สาวสวย	trainer_class	

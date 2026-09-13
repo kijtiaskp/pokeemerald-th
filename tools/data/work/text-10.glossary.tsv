@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,21 +89,34 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
+BATTLE TOWER	แบทเทิลทาวเวอร์	frontier	
+BATTLE TENT	แบทเทิลเต็นท์	frontier	
+TRAINER HILL	เทรนเนอร์ฮิลล์	frontier	
+SAFARI ZONE	ซาฟารีโซน	frontier	
+NORMAL	NORMAL	type	คงภาษาอังกฤษตามต้นฉบับ
+ROCK	ROCK	type	คงภาษาอังกฤษตามต้นฉบับ
+NEST BALL	NEST BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+POTION	POTION	item	คงภาษาอังกฤษตามต้นฉบับ
+FULL RESTORE	FULL RESTORE	item	คงภาษาอังกฤษตามต้นฉบับ
+PP UP	PP UP	item	คงภาษาอังกฤษตามต้นฉบับ
+X SPECIAL	X SPECIAL	item	คงภาษาอังกฤษตามต้นฉบับ
+ITEMFINDER	ITEMFINDER	item	คงภาษาอังกฤษตามต้นฉบับ
+{POKEBLOCK} CASE	{POKEBLOCK} CASE	item	คงภาษาอังกฤษตามต้นฉบับ
+OLD SEA MAP	OLD SEA MAP	item	คงภาษาอังกฤษตามต้นฉบับ
+CUT	CUT	move	คงภาษาอังกฤษตามต้นฉบับ
+STRENGTH	STRENGTH	move	คงภาษาอังกฤษตามต้นฉบับ
+WATERFALL	WATERFALL	move	คงภาษาอังกฤษตามต้นฉบับ
+SPLASH	SPLASH	move	คงภาษาอังกฤษตามต้นฉบับ
+STRUGGLE	STRUGGLE	move	คงภาษาอังกฤษตามต้นฉบับ
+ROCK SMASH	ROCK SMASH	move	คงภาษาอังกฤษตามต้นฉบับ
+DIVE	DIVE	move	คงภาษาอังกฤษตามต้นฉบับ
 TV	ทีวี	decoration	
 WAILMER DOLL	ตุ๊กตาโฮเอลโกะ	decoration	
-NEST BALL	เนสต์บอล	item	
-POTION	ยาทาแผล	item	
-FULL RESTORE	ยาฟื้นฟู	item	
-PP UP	พอยต์อัพ	item	
-X SPECIAL	สเปเชียลอัพ	item	
-ITEMFINDER	เครื่องหาของ	item	
-{POKEBLOCK} CASE	กล่อง{POKEBLOCK}	item	
-OLD SEA MAP	แผนที่เก่า	item	
 VERDANTURF TOWN	เมืองชิดาเกะ	location	
 PETALBURG CITY	เมืองโทกะ	location	
 SOOTOPOLIS CITY	เมืองรุเนะ	location	
@@ -123,15 +136,6 @@ POKéMON LEAGUE	โปเกมอนลีก	location
 ALTERING CAVE	ถ้ำแปรเปลี่ยน	location	
 ALTERING CAVE	ถ้ำแปรเปลี่ยน	location	
 TRAINER HILL	เทรนเนอร์ฮิล	location	
-NORMAL	ปกติ	type	
-ROCK	หิน	type	
-CUT	ชักดาบฟัน	move	
-STRENGTH	พลังช้างสาร	move	
-WATERFALL	ปีนน้ำตก	move	
-SPLASH	ดีดตัว	move	
-STRUGGLE	ดิ้นรน	move	
-ROCK SMASH	ทุบหิน	move	
-DIVE	ดำน้ำ	move	
 GENTLE	เรียบร้อย	nature	
 TEAM AQUA	แก๊งอควา	trainer_class	
 LADY	คุณหนู	trainer_class	

@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,28 +89,50 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
-RAZZ	ซุริ	berry_name	
-BLUK	บูรี	berry_name	
-NANAB	นานา	berry_name	
-WEPEAR	เซชินะ	berry_name	
-PINAP	ไพรุ	berry_name	
-CORNN	โมโคชิ	berry_name	
-MAGOST	โกสุ	berry_name	
-RABUTA	ราบุตะ	berry_name	
-NOMEL	โนเมรุ	berry_name	
-SPELON	โนวากิ	berry_name	
-PAMTRE	ชียะ	berry_name	
-WATMEL	ไคสุ	berry_name	
-DURIN	โดริ	berry_name	
-BELUE	เบริบุ	berry_name	
+BATTLE TOWER	แบทเทิลทาวเวอร์	frontier	
+SINGLE BATTLE	ซิงเกิลแบทเทิล	frontier	
+DOUBLE BATTLE	ดับเบิลแบทเทิล	frontier	
+MULTI BATTLE	มัลติแบทเทิล	frontier	
+LEVEL 50	เลเวล 50	frontier	
+OPEN LEVEL	โอเพนเลเวล	frontier	
+TRAINER HILL	เทรนเนอร์ฮิลล์	frontier	
+SAFARI ZONE	ซาฟารีโซน	frontier	
+NORMAL	NORMAL	type	คงภาษาอังกฤษตามต้นฉบับ
+ROCK	ROCK	type	คงภาษาอังกฤษตามต้นฉบับ
+BUG	BUG	type	คงภาษาอังกฤษตามต้นฉบับ
+STEEL	STEEL	type	คงภาษาอังกฤษตามต้นฉบับ
+FIRE	FIRE	type	คงภาษาอังกฤษตามต้นฉบับ
+WATER	WATER	type	คงภาษาอังกฤษตามต้นฉบับ
+GRASS	GRASS	type	คงภาษาอังกฤษตามต้นฉบับ
+ICE	ICE	type	คงภาษาอังกฤษตามต้นฉบับ
+DRAGON	DRAGON	type	คงภาษาอังกฤษตามต้นฉบับ
+DARK	DARK	type	คงภาษาอังกฤษตามต้นฉบับ
+RAZZ	RAZZ	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+BLUK	BLUK	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+NANAB	NANAB	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+WEPEAR	WEPEAR	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+PINAP	PINAP	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+CORNN	CORNN	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+MAGOST	MAGOST	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+RABUTA	RABUTA	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+NOMEL	NOMEL	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+SPELON	SPELON	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+PAMTRE	PAMTRE	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+WATMEL	WATMEL	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+DURIN	DURIN	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+BELUE	BELUE	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+RUBY	RUBY	item	คงภาษาอังกฤษตามต้นฉบับ
+SAPPHIRE	SAPPHIRE	item	คงภาษาอังกฤษตามต้นฉบับ
+PSYCHIC	PSYCHIC	move	คงภาษาอังกฤษตามต้นฉบับ
+LIGHT SCREEN	LIGHT SCREEN	move	คงภาษาอังกฤษตามต้นฉบับ
+REST	REST	move	คงภาษาอังกฤษตามต้นฉบับ
+TRICK	TRICK	move	คงภาษาอังกฤษตามต้นฉบับ
 TV	ทีวี	decoration	
-RUBY	ทับทิม	item	
-SAPPHIRE	ไพลิน	item	
 GRANITE CAVE	ถ้ำหิน	location	
 SAFARI ZONE	ซาฟารีโซน	location	
 PETALBURG WOODS	ป่าโทกะ	location	
@@ -145,20 +167,6 @@ DESERT UNDERPASS	อุโมงค์ใต้ทะเลทราย	location
 ALTERING CAVE	ถ้ำแปรเปลี่ยน	location	
 NAVEL ROCK	หินสะดือ	location	
 TRAINER HILL	เทรนเนอร์ฮิล	location	
-NORMAL	ปกติ	type	
-ROCK	หิน	type	
-BUG	แมลง	type	
-STEEL	เหล็ก	type	
-FIRE	ไฟ	type	
-WATER	น้ำ	type	
-GRASS	หญ้า	type	
-ICE	น้ำแข็ง	type	
-DRAGON	มังกร	type	
-DARK	ความมืด	type	
-PSYCHIC	ไซโคคิเนซิส	move	
-LIGHT SCREEN	กำแพงแสง	move	
-REST	นอนหลับ	move	
-TRICK	ทริก	move	
 LADY	คุณหนู	trainer_class	
 BEAUTY	สาวสวย	trainer_class	
 PSYCHIC	ผู้มีพลังจิต	trainer_class	

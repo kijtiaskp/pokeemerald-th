@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,27 +89,35 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
-BLACK BELT	สายดำ	item	
-NORMAL	ปกติ	type	
-GROUND	ดิน	type	
-ROCK	หิน	type	
-BUG	แมลง	type	
-GHOST	ผี	type	
-STEEL	เหล็ก	type	
-WATER	น้ำ	type	
-ICE	น้ำแข็ง	type	
-DARK	ความมืด	type	
-PSYCHIC	ไซโคคิเนซิส	move	
-REST	นอนหลับ	move	
-STRUGGLE	ดิ้นรน	move	
-RAIN DANCE	ระบำขอฝน	move	
-SUNNY DAY	แดดจ้า	move	
-HAIL	ลูกเห็บ	move	
+BATTLE TOWER	แบทเทิลทาวเวอร์	frontier	
+BATTLE PYRAMID	แบทเทิลพีระมิด	frontier	
+SINGLE BATTLE	ซิงเกิลแบทเทิล	frontier	
+DOUBLE BATTLE	ดับเบิลแบทเทิล	frontier	
+MULTI BATTLE	มัลติแบทเทิล	frontier	
+LINK MULTI BATTLE	ลิงก์มัลติแบทเทิล	frontier	
+POKéMON BREEDER	นักเพาะพันธุ์โปเกมอน	frontier	
+NORMAL	NORMAL	type	คงภาษาอังกฤษตามต้นฉบับ
+GROUND	GROUND	type	คงภาษาอังกฤษตามต้นฉบับ
+ROCK	ROCK	type	คงภาษาอังกฤษตามต้นฉบับ
+BUG	BUG	type	คงภาษาอังกฤษตามต้นฉบับ
+GHOST	GHOST	type	คงภาษาอังกฤษตามต้นฉบับ
+STEEL	STEEL	type	คงภาษาอังกฤษตามต้นฉบับ
+WATER	WATER	type	คงภาษาอังกฤษตามต้นฉบับ
+ICE	ICE	type	คงภาษาอังกฤษตามต้นฉบับ
+DARK	DARK	type	คงภาษาอังกฤษตามต้นฉบับ
+BLACK BELT	BLACK BELT	item	คงภาษาอังกฤษตามต้นฉบับ
+-	-	move	คงภาษาอังกฤษตามต้นฉบับ
+PSYCHIC	PSYCHIC	move	คงภาษาอังกฤษตามต้นฉบับ
+REST	REST	move	คงภาษาอังกฤษตามต้นฉบับ
+STRUGGLE	STRUGGLE	move	คงภาษาอังกฤษตามต้นฉบับ
+RAIN DANCE	RAIN DANCE	move	คงภาษาอังกฤษตามต้นฉบับ
+SUNNY DAY	SUNNY DAY	move	คงภาษาอังกฤษตามต้นฉบับ
+HAIL	HAIL	move	คงภาษาอังกฤษตามต้นฉบับ
 HIKER	นักปีนเขา	trainer_class	
 BLACK BELT	ราชาคาราเต้	trainer_class	
 HEX MANIAC	นักไสยศาสตร์	trainer_class	

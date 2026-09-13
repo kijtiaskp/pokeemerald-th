@@ -1,0 +1,407 @@
+{"id": "src/battle_message.c#sText_PkmnsXMadeYIneffective", "th": "{B_DEF_ABILITY}ของ {B_DEF_NAME_WITH_PREFIX} ทำให้ {B_CURRENT_MOVE} ไม่ได้ผล!"}
+{"id": "src/battle_message.c#sText_PkmnsXCuredYProblem", "th": "{B_SCR_ACTIVE_ABILITY}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} รักษาอาการ{B_BUFF1}จนหาย!"}
+{"id": "src/battle_message.c#sText_ItSuckedLiquidOoze", "th": "มันดูดเอา เมือกพิษ เข้าไป!"}
+{"id": "src/battle_message.c#sText_PkmnTransformed", "th": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} แปลงร่างแล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnsXTookAttack", "th": "{B_DEF_ABILITY}ของ {B_DEF_NAME_WITH_PREFIX} ดึงการโจมตีมารับไว้!"}
+{"id": "src/battle_message.c#gText_PkmnsXPreventsSwitching", "th": "{B_LAST_ABILITY}ของ {B_BUFF1} ทำให้สลับตัวไม่ได้!\\p"}
+{"id": "src/battle_message.c#sText_PreventedFromWorking", "th": "{B_DEF_ABILITY}ของ {B_DEF_NAME_WITH_PREFIX} ทำให้ {B_BUFF1}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ไม่ได้ผล!"}
+{"id": "src/battle_message.c#sText_PkmnsXMadeItIneffective", "th": "{B_SCR_ACTIVE_ABILITY}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ทำให้ไม่ได้ผล!"}
+{"id": "src/battle_message.c#sText_PkmnsXPreventsFlinching", "th": "{B_EFF_ABILITY}ของ {B_EFF_NAME_WITH_PREFIX} ทำให้ไม่ชะงัก!"}
+{"id": "src/battle_message.c#sText_PkmnsXPreventsYsZ", "th": "{B_ATK_ABILITY}ของ {B_ATK_NAME_WITH_PREFIX} ทำให้ {B_DEF_ABILITY}ของ {B_DEF_NAME_WITH_PREFIX} ไม่ได้ผล!"}
+{"id": "src/battle_message.c#sText_PkmnsXCuredItsYProblem", "th": "{B_SCR_ACTIVE_ABILITY}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} รักษาอาการ{B_BUFF1}จนหาย!"}
+{"id": "src/battle_message.c#sText_PkmnsXHadNoEffectOnY", "th": "{B_SCR_ACTIVE_ABILITY}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ไม่มีผลกับ {B_EFF_NAME_WITH_PREFIX}!"}
+{"id": "src/battle_message.c#sText_StatSharply", "th": "พุ่ง"}
+{"id": "src/battle_message.c#gText_StatRose", "th": "สูงขึ้น!"}
+{"id": "src/battle_message.c#sText_StatHarshly", "th": "ดิ่ง"}
+{"id": "src/battle_message.c#sText_StatFell", "th": "ต่ำลง!"}
+{"id": "src/battle_message.c#sText_UsingItemTheStatOfPkmnRose", "th": "ใช้ {B_LAST_ITEM} แล้ว {B_BUFF1}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_BUFF2}"}
+{"id": "src/battle_message.c#sText_StatsWontIncrease2", "th": "ค่าสถานะของ {B_ATK_NAME_WITH_PREFIX} สูงกว่านี้ไม่ได้แล้ว!"}
+{"id": "src/battle_message.c#sText_StatsWontDecrease2", "th": "ค่าสถานะของ {B_DEF_NAME_WITH_PREFIX} ต่ำกว่านี้ไม่ได้แล้ว!"}
+{"id": "src/battle_message.c#sText_CriticalHit", "th": "โดนจุดสำคัญ!"}
+{"id": "src/battle_message.c#sText_OneHitKO", "th": "น็อกในครั้งเดียว!"}
+{"id": "src/battle_message.c#sText_123Poof", "th": "{PAUSE 32}1, {PAUSE 15}2 แล้วก็{PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}ปุ้ง!\\p"}
+{"id": "src/battle_message.c#sText_AndEllipsis", "th": "แล้วก็…\\p"}
+{"id": "src/battle_message.c#sText_HMMovesCantBeForgotten", "th": "ตอนนี้ยังลืมท่า HM ไม่ได้\\p"}
+{"id": "src/battle_message.c#sText_NotVeryEffective", "th": "ดูเหมือนจะไม่ค่อยได้ผล…"}
+{"id": "src/battle_message.c#sText_SuperEffective", "th": "ได้ผลดีมาก!"}
+{"id": "src/battle_message.c#sText_GotAwaySafely", "th": "{PLAY_SE SE_FLEE}หนีมาได้อย่างปลอดภัย!\\p"}
+{"id": "src/battle_message.c#sText_PkmnFledUsingIts", "th": "{PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} ใช้ {B_LAST_ITEM} หนีไปแล้ว!\\p"}
+{"id": "src/battle_message.c#sText_PkmnFledUsing", "th": "{PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} ใช้ {B_ATK_ABILITY} หนีไปแล้ว!\\p"}
+{"id": "src/battle_message.c#sText_WildPkmnFled", "th": "{PLAY_SE SE_FLEE}{B_BUFF1}ป่า หนีไปแล้ว!"}
+{"id": "src/battle_message.c#sText_PlayerDefeatedLinkTrainer", "th": "ผู้เล่นชนะ {B_LINK_OPPONENT1_NAME}!"}
+{"id": "src/battle_message.c#sText_TwoLinkTrainersDefeated", "th": "ผู้เล่นชนะ {B_LINK_OPPONENT1_NAME} และ {B_LINK_OPPONENT2_NAME}!"}
+{"id": "src/battle_message.c#sText_PlayerLostAgainstLinkTrainer", "th": "ผู้เล่นแพ้ {B_LINK_OPPONENT1_NAME}!"}
+{"id": "src/battle_message.c#sText_PlayerLostToTwo", "th": "ผู้เล่นแพ้ {B_LINK_OPPONENT1_NAME} และ {B_LINK_OPPONENT2_NAME}!"}
+{"id": "src/battle_message.c#sText_PlayerBattledToDrawLinkTrainer", "th": "ผู้เล่นเสมอกับ {B_LINK_OPPONENT1_NAME}!"}
+{"id": "src/battle_message.c#sText_PlayerBattledToDrawVsTwo", "th": "ผู้เล่นเสมอกับ {B_LINK_OPPONENT1_NAME} และ {B_LINK_OPPONENT2_NAME}!"}
+{"id": "src/battle_message.c#sText_WildFled", "th": "{PLAY_SE SE_FLEE}{B_LINK_OPPONENT1_NAME} หนีไปแล้ว!"}
+{"id": "src/battle_message.c#sText_TwoWildFled", "th": "{PLAY_SE SE_FLEE}{B_LINK_OPPONENT1_NAME} และ {B_LINK_OPPONENT2_NAME} หนีไปแล้ว!"}
+{"id": "src/battle_message.c#sText_NoRunningFromTrainers", "th": "ไม่ได้! จะหนีจากการต่อสู้กับเทรนเนอร์ไม่ได้!\\p"}
+{"id": "src/battle_message.c#sText_CantEscape", "th": "หนีไม่พ้น!\\p"}
+{"id": "src/battle_message.c#sText_DontLeaveBirch", "th": "ศาสตราจารย์โอดามากิ: อย่าทิ้งฉันไว้แบบนี้สิ!\\p"}
+{"id": "src/battle_message.c#sText_ButNothingHappened", "th": "แต่ไม่มีอะไรเกิดขึ้น!"}
+{"id": "src/battle_message.c#sText_ButItFailed", "th": "แต่ใช้ไม่สำเร็จ!"}
+{"id": "src/battle_message.c#sText_ItHurtConfusion", "th": "มันสับสนจนโจมตีตัวเอง!"}
+{"id": "src/battle_message.c#sText_MirrorMoveFailed", "th": "สะท้อนท่า ใช้ไม่สำเร็จ!"}
+{"id": "src/battle_message.c#sText_StartedToRain", "th": "ฝนเริ่มตกแล้ว!"}
+{"id": "src/battle_message.c#sText_DownpourStarted", "th": "ฝนเริ่มตกหนัก!"}
+{"id": "src/battle_message.c#sText_RainContinues", "th": "ฝนยังคงตกอยู่"}
+{"id": "src/battle_message.c#sText_DownpourContinues", "th": "ฝนยังคงตกหนักอยู่"}
+{"id": "src/battle_message.c#sText_RainStopped", "th": "ฝนหยุดตกแล้ว"}
+{"id": "src/battle_message.c#sText_SandstormBrewed", "th": "พายุทรายก่อตัวขึ้น!"}
+{"id": "src/battle_message.c#sText_SandstormRages", "th": "พายุทรายยังคงโหมกระหน่ำ"}
+{"id": "src/battle_message.c#sText_SandstormSubsided", "th": "พายุทรายสงบลงแล้ว"}
+{"id": "src/battle_message.c#sText_SunlightGotBright", "th": "แสงแดดแรงขึ้น!"}
+{"id": "src/battle_message.c#sText_SunlightStrong", "th": "แสงแดดยังคงแรงจัด"}
+{"id": "src/battle_message.c#sText_SunlightFaded", "th": "แสงแดดอ่อนลงแล้ว"}
+{"id": "src/battle_message.c#sText_StartedHail", "th": "ลูกเห็บเริ่มตก!"}
+{"id": "src/battle_message.c#sText_HailContinues", "th": "ลูกเห็บยังคงตกอยู่"}
+{"id": "src/battle_message.c#sText_HailStopped", "th": "ลูกเห็บหยุดตกแล้ว"}
+{"id": "src/battle_message.c#sText_FailedToSpitUp", "th": "แต่ใช้ คายพลัง แล้วไม่มีอะไรออกมาเลย!"}
+{"id": "src/battle_message.c#sText_FailedToSwallow", "th": "แต่ใช้ กลืนพลัง แล้วไม่มีอะไรให้กลืนเลย!"}
+{"id": "src/battle_message.c#sText_WindBecameHeatWave", "th": "สายลมกลายเป็น ลมร้อน!"}
+{"id": "src/battle_message.c#sText_StatChangesGone", "th": "การเปลี่ยนแปลงค่าสถานะทั้งหมดถูกลบล้างแล้ว!"}
+{"id": "src/battle_message.c#sText_CoinsScattered", "th": "เหรียญกระจายเต็มไปหมด!"}
+{"id": "src/battle_message.c#sText_TooWeakForSubstitute", "th": "อ่อนแรงเกินกว่าจะสร้าง ตัวตายตัวแทน ได้!"}
+{"id": "src/battle_message.c#sText_SharedPain", "th": "ทั้งสองฝ่ายแบ่งความเจ็บปวดกัน!"}
+{"id": "src/battle_message.c#sText_BellChimed", "th": "เสียงระฆังดังกังวาน!"}
+{"id": "src/battle_message.c#sText_FaintInThree", "th": "โปเกมอนที่โดนผลทั้งหมด จะหมดสภาพในอีก 3 เทิร์น!"}
+{"id": "src/battle_message.c#sText_NoPPLeft", "th": "ท่านี้ไม่เหลือ PP แล้ว!\\p"}
+{"id": "src/battle_message.c#sText_ButNoPPLeft", "th": "แต่ท่านี้ไม่เหลือ PP แล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnIgnoresAsleep", "th": "{B_ATK_NAME_WITH_PREFIX} ไม่ฟังคำสั่งเพราะหลับอยู่!"}
+{"id": "src/battle_message.c#sText_PkmnIgnoredOrders", "th": "{B_ATK_NAME_WITH_PREFIX} ไม่ฟังคำสั่ง!"}
+{"id": "src/battle_message.c#sText_PkmnBeganToNap", "th": "{B_ATK_NAME_WITH_PREFIX} เริ่มงีบหลับ!"}
+{"id": "src/battle_message.c#sText_PkmnLoafing", "th": "{B_ATK_NAME_WITH_PREFIX} มัวแต่อู้งานอยู่!"}
+{"id": "src/battle_message.c#sText_PkmnWontObey", "th": "{B_ATK_NAME_WITH_PREFIX} ไม่ยอมเชื่อฟัง!"}
+{"id": "src/battle_message.c#sText_PkmnTurnedAway", "th": "{B_ATK_NAME_WITH_PREFIX} หันหน้าหนี!"}
+{"id": "src/battle_message.c#sText_PkmnPretendNotNotice", "th": "{B_ATK_NAME_WITH_PREFIX} ทำเป็นไม่สนใจ!"}
+{"id": "src/battle_message.c#sText_EnemyAboutToSwitchPkmn", "th": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} กำลังจะส่ง {B_BUFF2} ออกมา\\p{B_PLAYER_NAME} จะเปลี่ยนโปเกมอนไหม?"}
+{"id": "src/battle_message.c#sText_PkmnLearnedMove2", "th": "{B_ATK_NAME_WITH_PREFIX} จำท่า {B_BUFF1} ได้แล้ว!"}
+{"id": "src/battle_message.c#sText_PlayerDefeatedLinkTrainerTrainer1", "th": "ผู้เล่นชนะ {B_TRAINER1_CLASS} {B_TRAINER1_NAME}!\\p"}
+{"id": "src/battle_message.c#sText_CreptCloser", "th": "{B_PLAYER_NAME} ค่อย ๆ ย่องเข้าไปใกล้ {B_OPPONENT_MON1_NAME}!"}
+{"id": "src/battle_message.c#sText_CantGetCloser", "th": "{B_PLAYER_NAME} เข้าใกล้กว่านี้ไม่ได้แล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnWatchingCarefully", "th": "{B_OPPONENT_MON1_NAME} กำลังจับตามองอย่างระวัง!"}
+{"id": "src/battle_message.c#sText_PkmnCuriousAboutX", "th": "{B_OPPONENT_MON1_NAME} สนใจ {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_PkmnEnthralledByX", "th": "{B_OPPONENT_MON1_NAME} หลงใหล {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_PkmnIgnoredX", "th": "{B_OPPONENT_MON1_NAME} ไม่สนใจ {B_BUFF1} เลยสักนิด!"}
+{"id": "src/battle_message.c#sText_ThrewPokeblockAtPkmn", "th": "{B_PLAYER_NAME} โยน{POKEBLOCK} ใส่ {B_OPPONENT_MON1_NAME}!"}
+{"id": "src/battle_message.c#sText_OutOfSafariBalls", "th": "{PLAY_SE SE_DING_DONG}ผู้ประกาศ: ซาฟารีบอลหมดแล้ว! จบเกม!\\p"}
+{"id": "src/battle_message.c#sText_OpponentMon1Appeared", "th": "{B_OPPONENT_MON1_NAME} ปรากฏตัวออกมา!\\p"}
+{"id": "src/battle_message.c#sText_WildPkmnAppeared", "th": "{B_OPPONENT_MON1_NAME}ป่า ปรากฏตัวออกมา!\\p"}
+{"id": "src/battle_message.c#sText_LegendaryPkmnAppeared", "th": "{B_OPPONENT_MON1_NAME}ป่า ปรากฏตัวออกมา!\\p"}
+{"id": "src/battle_message.c#sText_WildPkmnAppearedPause", "th": "{B_OPPONENT_MON1_NAME}ป่า ปรากฏตัวออกมา!{PAUSE 127}"}
+{"id": "src/battle_message.c#sText_TwoWildPkmnAppeared", "th": "{B_OPPONENT_MON1_NAME}ป่า และ {B_OPPONENT_MON2_NAME}ป่า ปรากฏตัวออกมา!\\p"}
+{"id": "src/battle_message.c#sText_Trainer1WantsToBattle", "th": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} ต้องการต่อสู้!\\p"}
+{"id": "src/battle_message.c#sText_LinkTrainerWantsToBattle", "th": "{B_LINK_OPPONENT1_NAME} ต้องการต่อสู้!"}
+{"id": "src/battle_message.c#sText_TwoLinkTrainersWantToBattle", "th": "{B_LINK_OPPONENT1_NAME} และ {B_LINK_OPPONENT2_NAME} ต้องการต่อสู้!"}
+{"id": "src/battle_message.c#sText_Trainer1SentOutPkmn", "th": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} ส่ง {B_OPPONENT_MON1_NAME} ออกมา!"}
+{"id": "src/battle_message.c#sText_Trainer1SentOutTwoPkmn", "th": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} ส่ง {B_OPPONENT_MON1_NAME} และ {B_OPPONENT_MON2_NAME} ออกมา!"}
+{"id": "src/battle_message.c#sText_Trainer1SentOutPkmn2", "th": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} ส่ง {B_BUFF1} ออกมา!"}
+{"id": "src/battle_message.c#sText_LinkTrainerSentOutPkmn", "th": "{B_LINK_OPPONENT1_NAME} ส่ง {B_OPPONENT_MON1_NAME} ออกมา!"}
+{"id": "src/battle_message.c#sText_LinkTrainerSentOutTwoPkmn", "th": "{B_LINK_OPPONENT1_NAME} ส่ง {B_OPPONENT_MON1_NAME} และ {B_OPPONENT_MON2_NAME} ออกมา!"}
+{"id": "src/battle_message.c#sText_TwoLinkTrainersSentOutPkmn", "th": "{B_LINK_OPPONENT1_NAME} ส่ง {B_LINK_OPPONENT_MON1_NAME} ออกมา! {B_LINK_OPPONENT2_NAME} ส่ง {B_LINK_OPPONENT_MON2_NAME} ออกมา!"}
+{"id": "src/battle_message.c#sText_LinkTrainerSentOutPkmn2", "th": "{B_LINK_OPPONENT1_NAME} ส่ง {B_BUFF1} ออกมา!"}
+{"id": "src/battle_message.c#sText_LinkTrainerMultiSentOutPkmn", "th": "{B_LINK_SCR_TRAINER_NAME} ส่ง {B_BUFF1} ออกมา!"}
+{"id": "src/battle_message.c#sText_GoPkmn", "th": "ไปเลย! {B_PLAYER_MON1_NAME}!"}
+{"id": "src/battle_message.c#sText_GoTwoPkmn", "th": "ไปเลย! {B_PLAYER_MON1_NAME} และ {B_PLAYER_MON2_NAME}!"}
+{"id": "src/battle_message.c#sText_GoPkmn2", "th": "ไปเลย! {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_DoItPkmn", "th": "จัดการเลย! {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_GoForItPkmn", "th": "ลุยเลย {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_YourFoesWeakGetEmPkmn", "th": "คู่ต่อสู้อ่อนแรงแล้ว! จัดการเลย {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_LinkPartnerSentOutPkmnGoPkmn", "th": "{B_LINK_PARTNER_NAME} ส่ง {B_LINK_PLAYER_MON2_NAME} ออกมา! ไปเลย! {B_LINK_PLAYER_MON1_NAME}!"}
+{"id": "src/battle_message.c#sText_PkmnThatsEnough", "th": "{B_BUFF1} พอแล้ว! กลับมาเถอะ!"}
+{"id": "src/battle_message.c#sText_PkmnComeBack", "th": "{B_BUFF1} กลับมา!"}
+{"id": "src/battle_message.c#sText_PkmnOkComeBack", "th": "{B_BUFF1} โอเค! กลับมาได้แล้ว!"}
+{"id": "src/battle_message.c#sText_PkmnGoodComeBack", "th": "{B_BUFF1} เยี่ยมมาก! กลับมาได้แล้ว!"}
+{"id": "src/battle_message.c#sText_Trainer1WithdrewPkmn", "th": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} เรียก {B_BUFF1} กลับ!"}
+{"id": "src/battle_message.c#sText_LinkTrainer1WithdrewPkmn", "th": "{B_LINK_OPPONENT1_NAME} เรียก {B_BUFF1} กลับ!"}
+{"id": "src/battle_message.c#sText_LinkTrainer2WithdrewPkmn", "th": "{B_LINK_SCR_TRAINER_NAME} เรียก {B_BUFF1} กลับ!"}
+{"id": "src/battle_message.c#sText_WildPkmnPrefix", "th": "โปเกมอนป่า "}
+{"id": "src/battle_message.c#sText_FoePkmnPrefix", "th": "ศัตรู "}
+{"id": "src/battle_message.c#sText_FoePkmnPrefix2", "th": "ฝ่ายศัตรู"}
+{"id": "src/battle_message.c#sText_AllyPkmnPrefix", "th": "ฝ่ายเรา"}
+{"id": "src/battle_message.c#sText_FoePkmnPrefix3", "th": "ฝ่ายศัตรู"}
+{"id": "src/battle_message.c#sText_AllyPkmnPrefix2", "th": "ฝ่ายเรา"}
+{"id": "src/battle_message.c#sText_FoePkmnPrefix4", "th": "ฝ่ายศัตรู"}
+{"id": "src/battle_message.c#sText_AllyPkmnPrefix3", "th": "ฝ่ายเรา"}
+{"id": "src/battle_message.c#sText_AttackerUsedX", "th": "{B_ATK_NAME_WITH_PREFIX} ใช้ {B_BUFF2}"}
+{"id": "src/battle_message.c#sText_HP2", "th": "HP"}
+{"id": "src/battle_message.c#sText_Attack2", "th": "พลังโจมตี"}
+{"id": "src/battle_message.c#sText_Defense2", "th": "พลังป้องกัน"}
+{"id": "src/battle_message.c#sText_Speed", "th": "ความเร็ว"}
+{"id": "src/battle_message.c#sText_SpAtk2", "th": "พลังโจมตีพิเศษ"}
+{"id": "src/battle_message.c#sText_SpDef2", "th": "พลังป้องกันพิเศษ"}
+{"id": "src/battle_message.c#sText_Accuracy", "th": "ความแม่นยำ"}
+{"id": "src/battle_message.c#sText_Evasiveness", "th": "การหลบหลีก"}
+{"id": "src/battle_message.c#sText_PokeblockWasTooSpicy", "th": "เผ็ดเกินไป!"}
+{"id": "src/battle_message.c#sText_PokeblockWasTooDry", "th": "ฝาดเกินไป!"}
+{"id": "src/battle_message.c#sText_PokeblockWasTooSweet", "th": "หวานเกินไป!"}
+{"id": "src/battle_message.c#sText_PokeblockWasTooBitter", "th": "ขมเกินไป!"}
+{"id": "src/battle_message.c#sText_PokeblockWasTooSour", "th": "เปรี้ยวเกินไป!"}
+{"id": "src/battle_message.c#sText_PlayerUsedItem", "th": "{B_PLAYER_NAME} ใช้ {B_LAST_ITEM}!"}
+{"id": "src/battle_message.c#sText_WallyUsedItem", "th": "มิตสึรุ ใช้ {B_LAST_ITEM}!"}
+{"id": "src/battle_message.c#sText_Trainer1UsedItem", "th": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} ใช้ {B_LAST_ITEM}!"}
+{"id": "src/battle_message.c#sText_TrainerBlockedBall", "th": "เทรนเนอร์ปัดบอลกระเด็น!"}
+{"id": "src/battle_message.c#sText_DontBeAThief", "th": "อย่าเป็นขโมยสิ!"}
+{"id": "src/battle_message.c#sText_ItDodgedBall", "th": "มันหลบบอลที่ขว้างไป! จับโปเกมอนตัวนี้ไม่ได้!"}
+{"id": "src/battle_message.c#sText_YouMissedPkmn", "th": "ขว้างไม่โดนโปเกมอน!"}
+{"id": "src/battle_message.c#sText_PkmnBrokeFree", "th": "แย่แล้ว! โปเกมอนหลุดออกมา!"}
+{"id": "src/battle_message.c#sText_ItAppearedCaught", "th": "อ๊ะ! นึกว่าจับได้แล้วเชียว!"}
+{"id": "src/battle_message.c#sText_AarghAlmostHadIt", "th": "อ๊าก! เกือบได้แล้วแท้ ๆ!"}
+{"id": "src/battle_message.c#sText_ShootSoClose", "th": "แย่จัง! อีกนิดเดียวเอง!"}
+{"id": "src/battle_message.c#sText_GotchaPkmnCaughtPlayer", "th": "เย้! จับ {B_OPPONENT_MON1_NAME} ได้แล้ว!{WAIT_SE}{PLAY_BGM MUS_CAUGHT}\\p"}
+{"id": "src/battle_message.c#sText_GotchaPkmnCaughtWally", "th": "เย้! จับ {B_OPPONENT_MON1_NAME} ได้แล้ว!{WAIT_SE}{PLAY_BGM MUS_CAUGHT}{PAUSE 127}"}
+{"id": "src/battle_message.c#sText_GiveNicknameCaptured", "th": "จะตั้งชื่อเล่นให้ {B_OPPONENT_MON1_NAME} ที่จับได้ไหม?"}
+{"id": "src/battle_message.c#sText_PkmnSentToPC", "th": "{B_OPPONENT_MON1_NAME} ถูกส่งไปที่ PC ของ{B_PC_CREATOR_NAME}"}
+{"id": "src/battle_message.c#sText_Someones", "th": "ใครบางคน"}
+{"id": "src/battle_message.c#sText_Lanettes", "th": "มายุมิ"}
+{"id": "src/battle_message.c#sText_PkmnDataAddedToDex", "th": "ข้อมูลของ {B_OPPONENT_MON1_NAME} ถูกบันทึกลงในโปเกเด็กซ์แล้ว\\p"}
+{"id": "src/battle_message.c#sText_ItIsRaining", "th": "ฝนกำลังตก"}
+{"id": "src/battle_message.c#sText_SandstormIsRaging", "th": "พายุทรายกำลังโหมกระหน่ำ"}
+{"id": "src/battle_message.c#sText_BoxIsFull", "th": "กล่องเต็มแล้ว! จับเพิ่มไม่ได้อีก!\\p"}
+{"id": "src/battle_message.c#sText_EnigmaBerry", "th": "ผลนาโซะ"}
+{"id": "src/battle_message.c#sText_BerrySuffix", "th": "เบอร์รี"}
+{"id": "src/battle_message.c#sText_PkmnsItemCuredParalysis", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} รักษาอาการอัมพาตจนหาย!"}
+{"id": "src/battle_message.c#sText_PkmnsItemCuredPoison", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} รักษาพิษจนหาย!"}
+{"id": "src/battle_message.c#sText_PkmnsItemHealedBurn", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} รักษาแผลไฟไหม้จนหาย!"}
+{"id": "src/battle_message.c#sText_PkmnsItemDefrostedIt", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ละลายน้ำแข็งจนหาย!"}
+{"id": "src/battle_message.c#sText_PkmnsItemWokeIt", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ปลุกให้ตื่นจากการหลับ!"}
+{"id": "src/battle_message.c#sText_PkmnsItemSnappedOut", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ทำให้หายสับสน!"}
+{"id": "src/battle_message.c#sText_PkmnsItemCuredProblem", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} รักษาอาการ{B_BUFF1}จนหาย!"}
+{"id": "src/battle_message.c#sText_PkmnsItemNormalizedStatus", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ทำให้สถานะกลับเป็นปกติ!"}
+{"id": "src/battle_message.c#sText_PkmnsItemRestoredHealth", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ฟื้นฟูพลังกลับมา!"}
+{"id": "src/battle_message.c#sText_PkmnsItemRestoredPP", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ฟื้นฟู PP ของ {B_BUFF1}!"}
+{"id": "src/battle_message.c#sText_PkmnsItemRestoredStatus", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ฟื้นฟูสถานะกลับมา!"}
+{"id": "src/battle_message.c#sText_PkmnsItemRestoredHPALittle", "th": "{B_LAST_ITEM}ของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} ฟื้นฟู HP กลับมาเล็กน้อย!"}
+{"id": "src/battle_message.c#sText_ItemAllowsOnlyYMove", "th": "{B_LAST_ITEM} ทำให้ใช้ได้แค่ท่า {B_CURRENT_MOVE}!\\p"}
+{"id": "src/battle_message.c#sText_PkmnHungOnWithX", "th": "{B_DEF_NAME_WITH_PREFIX} ใช้ {B_LAST_ITEM} ฝืนทนไว้ได้!"}
+{"id": "src/battle_message.c#sText_YouThrowABallNowRight", "th": "ต้องขว้างบอลตอนนี้ใช่ไหมครับ? ผ… ผมจะพยายามครับ!"}
+{"id": "src/battle_message.c#gText_PkmnIsEvolving", "th": "อะไรนะ? {STR_VAR_1} กำลังวิวัฒนาการ!"}
+{"id": "src/battle_message.c#gText_CongratsPkmnEvolved", "th": "ยินดีด้วย! {STR_VAR_1} ของคุณ วิวัฒนาการเป็น {STR_VAR_2} แล้ว!{WAIT_SE}\\p"}
+{"id": "src/battle_message.c#gText_PkmnStoppedEvolving", "th": "เอ๊ะ? {STR_VAR_1} หยุดวิวัฒนาการ!\\p"}
+{"id": "src/battle_message.c#gText_WhatWillPkmnDo", "th": "{B_ACTIVE_NAME_WITH_PREFIX} จะทำอะไร?"}
+{"id": "src/battle_message.c#gText_WhatWillPkmnDo2", "th": "{B_PLAYER_NAME} จะทำอะไร?"}
+{"id": "src/battle_message.c#gText_WhatWillWallyDo", "th": "มิตสึรุ จะทำอะไร?"}
+{"id": "src/battle_message.c#gText_LinkStandby", "th": "{PAUSE 16}รอการเชื่อมต่อ…"}
+{"id": "src/battle_message.c#gText_BattleMenu", "th": "สู้{CLEAR_TO 56}กระเป๋า\\nโปเกมอน{CLEAR_TO 56}หนี"}
+{"id": "src/battle_message.c#gText_SafariZoneMenu", "th": "บอล{CLEAR_TO 56}{POKEBLOCK}\\nเข้าใกล้{CLEAR_TO 56}หนี"}
+{"id": "src/battle_message.c#gText_MoveInterfacePP", "th": "PP "}
+{"id": "src/battle_message.c#gText_MoveInterfaceType", "th": "ประเภท/"}
+{"id": "src/battle_message.c#gText_MoveInterfacePPType", "th": "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}PP\\nประเภท/"}
+{"id": "src/battle_message.c#gText_WhichMoveToForget4", "th": "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}จะลืมท่าไหนดี?"}
+{"id": "src/battle_message.c#gText_BattleYesNoChoice", "th": "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}ใช่\\nไม่"}
+{"id": "src/battle_message.c#gText_BattleSwitchWhich", "th": "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}สลับ\\nตัวไหน?"}
+{"id": "src/battle_message.c#sText_HP", "th": "HP"}
+{"id": "src/battle_message.c#sText_Attack", "th": "พลังโจมตี"}
+{"id": "src/battle_message.c#sText_Defense", "th": "พลังป้องกัน"}
+{"id": "src/battle_message.c#sText_SpAtk", "th": "พลังโจมตีพิเศษ"}
+{"id": "src/battle_message.c#sText_SpDef", "th": "พลังป้องกันพิเศษ"}
+{"id": "src/battle_message.c#gText_SafariBalls", "th": "{HIGHLIGHT DARK_GRAY}ซาฟารีบอล"}
+{"id": "src/battle_message.c#gText_SafariBallLeft", "th": "{HIGHLIGHT DARK_GRAY}เหลือ: {HIGHLIGHT DARK_GRAY}"}
+{"id": "src/battle_message.c#gText_Sleep", "th": "หลับ"}
+{"id": "src/battle_message.c#gText_Poison", "th": "พิษ"}
+{"id": "src/battle_message.c#gText_Burn", "th": "ไฟไหม้"}
+{"id": "src/battle_message.c#gText_Paralysis", "th": "อัมพาต"}
+{"id": "src/battle_message.c#gText_Ice", "th": "แช่แข็ง"}
+{"id": "src/battle_message.c#gText_Confusion", "th": "สับสน"}
+{"id": "src/battle_message.c#gText_Love", "th": "หลงเสน่ห์"}
+{"id": "src/battle_message.c#gText_SpaceAndSpace", "th": " และ "}
+{"id": "src/battle_message.c#gText_Are", "th": "ถือว่า"}
+{"id": "src/battle_message.c#gText_Are2", "th": "ถือว่า"}
+{"id": "src/battle_message.c#gText_BadEgg", "th": "ไข่เสีย"}
+{"id": "src/battle_message.c#gText_BattleWallyName", "th": "มิตสึรุ"}
+{"id": "src/battle_message.c#gText_Win", "th": "{HIGHLIGHT TRANSPARENT}ชนะ"}
+{"id": "src/battle_message.c#gText_Loss", "th": "{HIGHLIGHT TRANSPARENT}แพ้"}
+{"id": "src/battle_message.c#gText_Draw", "th": "{HIGHLIGHT TRANSPARENT}เสมอ"}
+{"id": "src/battle_message.c#sText_SpaceIs", "th": " คือ"}
+{"id": "src/battle_message.c#TYPE_NORMAL", "th": "ท่าชนิดปกติ"}
+{"id": "src/battle_message.c#TYPE_FIGHTING", "th": "ท่าชนิดต่อสู้"}
+{"id": "src/battle_message.c#TYPE_FLYING", "th": "ท่าชนิดบิน"}
+{"id": "src/battle_message.c#TYPE_POISON", "th": "ท่าชนิดพิษ"}
+{"id": "src/battle_message.c#TYPE_GROUND", "th": "ท่าชนิดดิน"}
+{"id": "src/battle_message.c#TYPE_ROCK", "th": "ท่าชนิดหิน"}
+{"id": "src/battle_message.c#TYPE_BUG", "th": "ท่าชนิดแมลง"}
+{"id": "src/battle_message.c#TYPE_GHOST", "th": "ท่าชนิดผี"}
+{"id": "src/battle_message.c#TYPE_STEEL", "th": "ท่าชนิดเหล็ก"}
+{"id": "src/battle_message.c#TYPE_MYSTERY", "th": "ท่าชนิด ???"}
+{"id": "src/battle_message.c#TYPE_FIRE", "th": "ท่าชนิดไฟ"}
+{"id": "src/battle_message.c#TYPE_WATER", "th": "ท่าชนิดน้ำ"}
+{"id": "src/battle_message.c#TYPE_GRASS", "th": "ท่าชนิดหญ้า"}
+{"id": "src/battle_message.c#TYPE_ELECTRIC", "th": "ท่าชนิดไฟฟ้า"}
+{"id": "src/battle_message.c#TYPE_PSYCHIC", "th": "ท่าชนิดพลังจิต"}
+{"id": "src/battle_message.c#TYPE_ICE", "th": "ท่าชนิดน้ำแข็ง"}
+{"id": "src/battle_message.c#TYPE_DRAGON", "th": "ท่าชนิดมังกร"}
+{"id": "src/battle_message.c#TYPE_DARK", "th": "ท่าชนิดความมืด"}
+{"id": "src/battle_message.c#gText_BattleTourney", "th": "ทัวร์นาเมนต์"}
+{"id": "src/battle_message.c#sText_Round1", "th": "รอบที่ 1"}
+{"id": "src/battle_message.c#sText_Round2", "th": "รอบที่ 2"}
+{"id": "src/battle_message.c#sText_Semifinal", "th": "รอบรอง"}
+{"id": "src/battle_message.c#sText_Final", "th": "รอบชิง"}
+{"id": "src/battle_message.c#gText_TheGreatNewHope", "th": "ดาวรุ่งดวงใหม่!\\p"}
+{"id": "src/battle_message.c#gText_WillChampionshipDreamComeTrue", "th": "ความฝันสู่แชมป์จะเป็นจริงไหม?!\\p"}
+{"id": "src/battle_message.c#gText_AFormerChampion", "th": "อดีตแชมเปี้ยน!\\p"}
+{"id": "src/battle_message.c#gText_ThePreviousChampion", "th": "แชมเปี้ยนคนก่อน!\\p"}
+{"id": "src/battle_message.c#gText_TheUnbeatenChampion", "th": "แชมเปี้ยนไร้พ่าย!\\p"}
+{"id": "src/battle_message.c#gText_Vs", "th": "VS"}
+{"id": "src/battle_message.c#gText_Mind", "th": "จิตใจ"}
+{"id": "src/battle_message.c#gText_Skill", "th": "ฝีมือ"}
+{"id": "src/battle_message.c#gText_Body", "th": "ร่างกาย"}
+{"id": "src/battle_message.c#gText_Judgment", "th": "{B_BUFF1}{CLEAR 13}คำตัดสิน{CLEAR 13}{B_BUFF2}"}
+{"id": "src/battle_message.c#sText_TwoTrainersSentPkmn", "th": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} ส่ง {B_OPPONENT_MON1_NAME} ออกมา!\\p{B_TRAINER2_CLASS} {B_TRAINER2_NAME} ส่ง {B_OPPONENT_MON2_NAME} ออกมา!"}
+{"id": "src/battle_message.c#sText_Trainer2SentOutPkmn", "th": "{B_TRAINER2_CLASS} {B_TRAINER2_NAME} ส่ง {B_BUFF1} ออกมา!"}
+{"id": "src/battle_message.c#sText_TwoTrainersWantToBattle", "th": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} และ {B_TRAINER2_CLASS} {B_TRAINER2_NAME} ต้องการต่อสู้!\\p"}
+{"id": "src/battle_message.c#sText_InGamePartnerSentOutZGoN", "th": "{B_PARTNER_CLASS} {B_PARTNER_NAME} ส่ง {B_PLAYER_MON2_NAME} ออกมา! ไปเลย {B_PLAYER_MON1_NAME}!"}
+{"id": "src/battle_message.c#sText_TwoInGameTrainersDefeated", "th": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} และ {B_TRAINER2_CLASS} {B_TRAINER2_NAME} พ่ายแพ้แล้ว!\\p"}
+{"id": "src/battle_message.c#sText_PkmnIncapableOfPower", "th": "{B_ATK_NAME_WITH_PREFIX} ดูเหมือนจะใช้พลังไม่ได้!"}
+{"id": "src/battle_message.c#sText_GlintAppearsInEye", "th": "ดวงตาของ {B_SCR_ACTIVE_NAME_WITH_PREFIX} เป็นประกายวาบ!"}
+{"id": "src/battle_message.c#sText_PkmnGettingIntoPosition", "th": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} กำลังตั้งท่า!"}
+{"id": "src/battle_message.c#sText_PkmnBeganGrowlingDeeply", "th": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} เริ่มคำรามเสียงต่ำ!"}
+{"id": "src/battle_message.c#sText_PkmnEagerForMore", "th": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} ยังอยากสู้ต่ออีก!"}
+{"id": "src/battle_message.c#sText_RefIfNothingIsDecided", "th": "กรรมการ: ถ้ายังไม่รู้ผลภายใน 3 เทิร์น จะเข้าสู่การตัดสิน!"}
+{"id": "src/battle_message.c#sText_RefThatsIt", "th": "กรรมการ: หมดเวลา! จะเข้าสู่การตัดสินเพื่อหาผู้ชนะ!"}
+{"id": "src/battle_message.c#sText_RefJudgeMind", "th": "กรรมการ: เกณฑ์ที่ 1 จิตใจ! โปเกมอนที่แสดงความใจสู้มากที่สุด!\\p"}
+{"id": "src/battle_message.c#sText_RefJudgeSkill", "th": "กรรมการ: เกณฑ์ที่ 2 ฝีมือ! โปเกมอนที่ใช้ท่าได้ดีที่สุด!\\p"}
+{"id": "src/battle_message.c#sText_RefJudgeBody", "th": "กรรมการ: เกณฑ์ที่ 3 ร่างกาย! โปเกมอนที่มีพลังชีวิตมากที่สุด!\\p"}
+{"id": "src/battle_message.c#sText_RefPlayerWon", "th": "กรรมการ: ผลตัดสิน {B_BUFF1} ต่อ {B_BUFF2}! ผู้ชนะคือ {B_PLAYER_MON1_NAME} ของ {B_PLAYER_NAME}!\\p"}
+{"id": "src/battle_message.c#sText_RefOpponentWon", "th": "กรรมการ: ผลตัดสิน {B_BUFF1} ต่อ {B_BUFF2}! ผู้ชนะคือ {B_OPPONENT_MON1_NAME} ของ {B_TRAINER1_NAME}!\\p"}
+{"id": "src/battle_message.c#sText_RefDraw", "th": "กรรมการ: ผลตัดสิน 3 ต่อ 3! เสมอกัน!\\p"}
+{"id": "src/battle_message.c#sText_DefeatedOpponentByReferee", "th": "{B_PLAYER_MON1_NAME} ชนะ {B_OPPONENT_MON1_NAME} ด้วยคำตัดสินของกรรมการ!"}
+{"id": "src/battle_message.c#sText_LostToOpponentByReferee", "th": "{B_PLAYER_MON1_NAME} แพ้ {B_OPPONENT_MON1_NAME} ด้วยคำตัดสินของกรรมการ!"}
+{"id": "src/battle_message.c#sText_TiedOpponentByReferee", "th": "{B_PLAYER_MON1_NAME} เสมอกับ {B_OPPONENT_MON1_NAME} ด้วยคำตัดสินของกรรมการ!"}
+{"id": "src/battle_message.c#sText_RefCommenceBattle", "th": "กรรมการ: {B_PLAYER_MON1_NAME} VS {B_OPPONENT_MON1_NAME}! เริ่มการต่อสู้ได้!"}
+{"id": "src/battle_message.c#sText_QuestionForfeitMatch", "th": "จะยอมแพ้และออกจากการแข่งขันตอนนี้ไหม?"}
+{"id": "src/battle_message.c#sText_ForfeitedMatch", "th": "{B_PLAYER_NAME} ยอมแพ้การแข่งขัน!"}
+{"id": "src/battle_message.c#sText_Trainer1Fled", "th": "{PLAY_SE SE_FLEE}{B_TRAINER1_CLASS} {B_TRAINER1_NAME} หนีไปแล้ว!"}
+{"id": "src/battle_message.c#sText_PlayerLostAgainstTrainer1", "th": "ผู้เล่นแพ้ {B_TRAINER1_CLASS} {B_TRAINER1_NAME}!"}
+{"id": "src/battle_message.c#sText_PlayerBattledToDrawTrainer1", "th": "ผู้เล่นเสมอกับ {B_TRAINER1_CLASS} {B_TRAINER1_NAME}!"}
+{"id": "src/battle_message.c#gText_RecordBattleToPass", "th": "จะบันทึกการต่อสู้ลงใน ฟรอนเทียร์พาส ไหม?"}
+{"id": "src/battle_message.c#gText_BattleRecordedOnPass", "th": "ผลการต่อสู้ของ {B_PLAYER_NAME} ถูกบันทึกลงใน ฟรอนเทียร์พาส แล้ว"}
+{"id": "src/battle_message.c#sText_LinkTrainerWantsToBattlePause", "th": "{B_LINK_OPPONENT1_NAME} ต้องการต่อสู้!{PAUSE 49}"}
+{"id": "src/battle_message.c#sText_TwoLinkTrainersWantToBattlePause", "th": "{B_LINK_OPPONENT1_NAME} และ {B_LINK_OPPONENT2_NAME} ต้องการต่อสู้!{PAUSE 49}"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Cheri", "th": "ออกดอกสวยงามบอบบาง"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Cheri", "th": "เบอร์รี่สีแดงสดนี้มีรสเผ็ดมาก"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Chesto", "th": "เปลือกหนาและเนื้อของเบอร์รี่นี้"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Chesto", "th": "แข็งมาก มีรสฝาดไปทั้งลูก"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Pecha", "th": "หวานและอร่อยมาก"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Pecha", "th": "เนื้อนุ่มมาก ต้องถืออย่างระวัง"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Rawst", "th": "ถ้าใบงอกยาวและม้วนงอ"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Rawst", "th": "เบอร์รี่มักจะมีรสขมขึ้นมาก"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Aspear", "th": "เบอร์รี่เนื้อแข็ง อัดแน่นด้วยน้ำ"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Aspear", "th": "รสเข้มข้น ค่อนข้างเปรี้ยว"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Leppa", "th": "โตช้ากว่าคุราโบและผลอื่น ๆ"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Leppa", "th": "ยิ่งลูกเล็ก ยิ่งอร่อย"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Oran", "th": "เบอร์รี่แปลก ๆ ที่มีหลายรสผสมกัน"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Oran", "th": "โตเต็มที่ภายในครึ่งวัน"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Persim", "th": "ชอบแสงแดด สีของเบอร์รี่"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Persim", "th": "จะสดใสขึ้นเมื่อโดนแดด"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Lum", "th": "โตช้า ถ้าดูแลด้วยความรัก"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Lum", "th": "อาจออกผลได้ถึงสองลูก"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Sitrus", "th": "ใกล้ชิดกับโอเรน เบอร์รี่ลูกใหญ่นี้"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Sitrus", "th": "มีรสชาติกลมกล่อม"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Figy", "th": "เบอร์รี่ที่ดูเหมือนถูกเคี้ยวมาแล้ว"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Figy", "th": "อัดแน่นไปด้วยสารรสเผ็ด"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Wiki", "th": "ว่ากันว่าผิวเบอร์รี่ขรุขระ"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Wiki", "th": "เพื่อให้โปเกมอนจับถือได้ง่าย"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Mago", "th": "เบอร์รี่จะโค้งงอขึ้นเมื่อโต"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Mago", "th": "ยิ่งโค้ง ยิ่งหวานอร่อย"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Aguav", "th": "ดอกเล็กบอบบาง หายากตรงที่"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Aguav", "th": "เติบโตได้แม้ไม่มีแสง"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Iapapa", "th": "เบอร์รี่ลูกใหญ่มาก รสเปรี้ยว"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Iapapa", "th": "ใช้เวลาโตอย่างน้อยหนึ่งวัน"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Razz", "th": "เบอร์รี่สีแดง รสเผ็ดเล็กน้อย"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Razz", "th": "โตเร็วภายในแค่สี่ชั่วโมง"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Bluk", "th": "ผิวนอกของเบอร์รี่เป็นสีฟ้า แต่"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Bluk", "th": "กินแล้วปากจะกลายเป็นสีดำ"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Nanab", "th": "เบอร์รี่นี้ถูกค้นพบเป็นชนิดที่เจ็ด"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Nanab", "th": "ของโลก มีรสหวาน"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Wepear", "th": "ดอกเล็กสีขาว มีรสขม"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Wepear", "th": "และรสเปรี้ยวที่สมดุลกันอย่างดี"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Pinap", "th": "ไม่ทนลมและความหนาว"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Pinap", "th": "เนื้อรสเผ็ด ส่วนเปลือกรสเปรี้ยว"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Pomeg", "th": "ไม่ว่าจะรดน้ำมากแค่ไหน"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Pomeg", "th": "ก็ออกผลได้มากสุดแค่หกลูก"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Kelpsy", "th": "พันธุ์หายาก รูปร่างเหมือนราก"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Kelpsy", "th": "ออกดอกขนาดใหญ่มาก"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Qualot", "th": "ชอบน้ำ เติบโตแข็งแรงได้แม้ใน"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Qualot", "th": "พื้นที่ที่ฝนตกตลอดเวลา"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Hondew", "th": "เบอร์รี่ที่มีค่ามากและหาดู"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Hondew", "th": "ได้ยาก รสชาติอร่อยมาก"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Grepa", "th": "แม้เนื้อจะนุ่มและรูปร่างกลม"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Grepa", "th": "แต่เบอร์รี่นี้เปรี้ยวจนคาดไม่ถึง"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Tamato", "th": "เบอร์รี่นี้เผ็ดจนปากบิด"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Tamato", "th": "ต้องใช้เวลาในการเติบโต"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Cornn", "th": "เบอร์รี่จากยุคโบราณ อาจไม่"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Cornn", "th": "เติบโตหากไม่ปลูกไว้จำนวนมาก"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Magost", "th": "เบอร์รี่ที่ขึ้นชื่อกันว่า"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Magost", "th": "มีรสชาติสมดุลอย่างดีเยี่ยม"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Rabuta", "th": "พันธุ์หายากที่มีขนขึ้น"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Rabuta", "th": "เต็มลูก รสค่อนข้างขม"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Nomel", "th": "เปรี้ยวมาก กัดแค่คำเดียวก็ทำให้"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Nomel", "th": "ลิ้นไม่รับรสไปถึงสามวัน"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Spelon", "th": "เบอร์รี่สีแดงสดนี้เผ็ดมาก"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Spelon", "th": "ปุ่มบนผิวหลั่งสารรสเผ็ดออกมา"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Pamtre", "th": "ลอยตามทะเลมาจากที่ไหนสักแห่ง"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Pamtre", "th": "เชื่อกันว่าเติบโตอยู่ที่อื่น"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Watmel", "th": "เบอร์รี่ขนาดยักษ์ เคยพบลูกที่ใหญ่"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Watmel", "th": "กว่า 50 ซม. รสหวานจัดเป็นพิเศษ"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Durin", "th": "แค่มองก็รู้สึกขมแล้ว ขมจน"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Durin", "th": "ไม่เคยมีใครกินสด ๆ ได้เลย"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Belue", "th": "ผิวมันวาวดูน่าอร่อย แต่"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Belue", "th": "เปรี้ยวจัด ใช้เวลานานกว่าจะโต"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Liechi", "th": "เบอร์รี่ลึกลับ มีข่าวลือว่า"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Liechi", "th": "มีพลังของท้องทะเลอยู่ภายใน"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Ganlon", "th": "เบอร์รี่ลึกลับ มีข่าวลือว่า"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Ganlon", "th": "มีพลังของผืนดินอยู่ภายใน"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Salac", "th": "เบอร์รี่ลึกลับ มีข่าวลือว่า"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Salac", "th": "มีพลังของท้องฟ้าอยู่ภายใน"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Petaya", "th": "เบอร์รี่ลึกลับ มีข่าวลือว่า"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Petaya", "th": "มีพลังของสรรพชีวิตอยู่ภายใน"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Apicot", "th": "เบอร์รี่ลึกลับยิ่งนัก ไม่มีใครรู้"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Apicot", "th": "ว่าจะเกิดอะไรขึ้น หรือใช้อย่างไร"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Lansat", "th": "ว่ากันว่าเป็นเบอร์รี่ในตำนาน"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Lansat", "th": "เชื่อกันว่าถือไว้แล้วจะมีความสุข"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Starf", "th": "แรงเกินไปจนถูกทิ้งไว้ที่"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Starf", "th": "สุดขอบโลก ถือเป็นแค่ภาพลวงตา"}
+{"id": "src/berry.c#sBerryDescriptionPart1_Enigma", "th": "เบอร์รี่ที่ลึกลับอย่างสิ้นเชิง"}
+{"id": "src/berry.c#sBerryDescriptionPart2_Enigma", "th": "ดูเหมือนจะมีพลังของดวงดาว"}
+{"id": "src/berry_blender.c#sUnusedText_YesNo", "th": "ใช่\\nไม่"}
+{"id": "src/berry_blender.c#sUnusedText_Terminating", "th": "กำลังยุติ"}
+{"id": "src/berry_blender.c#sUnusedText_LinkPartnerNotFound", "th": "ไม่พบคู่เชื่อมต่อ\\nโปรดลองอีกครั้ง\\p"}
+{"id": "src/berry_blender.c#sText_BerryBlenderStart", "th": "กำลังเริ่มเครื่องปั่นเบอร์รี่\\pโปรดเลือกเบอร์รี่จากกระเป๋า\\nเพื่อใส่ลงในเครื่องปั่นเบอร์รี่\\p"}
+{"id": "src/berry_blender.c#sText_WasMade", "th": " ปั่นเสร็จแล้ว!"}
+{"id": "src/berry_blender.c#sText_Mister", "th": "คุณลุง"}
+{"id": "src/berry_blender.c#sText_Laddie", "th": "เด็กชาย"}
+{"id": "src/berry_blender.c#sText_Lassie", "th": "สาวน้อย"}
+{"id": "src/berry_blender.c#sText_Master", "th": "อาจารย์"}
+{"id": "src/berry_blender.c#sText_Dude", "th": "พี่ชาย"}
+{"id": "src/berry_blender.c#sText_Miss", "th": "คุณหนู"}
+{"id": "src/berry_blender.c#sText_PressAToStart", "th": "กดปุ่ม A เพื่อเริ่ม"}
+{"id": "src/berry_blender.c#sText_PleaseWaitAWhile", "th": "โปรดรอสักครู่"}
+{"id": "src/berry_blender.c#sText_CommunicationStandby", "th": "กำลังรอการสื่อสาร…"}
+{"id": "src/berry_blender.c#sText_WouldLikeToBlendAnotherBerry", "th": "จะปั่นเบอร์รี่อีกไหม?"}
+{"id": "src/berry_blender.c#sText_RunOutOfBerriesForBlending", "th": "เบอร์รี่ที่จะใช้ปั่นใน\\nเครื่องปั่นเบอร์รี่หมดแล้ว\\p"}
+{"id": "src/berry_blender.c#sText_YourPokeblockCaseIsFull", "th": "กล่อง{POKEBLOCK}ของคุณเต็มแล้ว\\p"}
+{"id": "src/berry_blender.c#sText_HasNoBerriesToPut", "th": " ไม่มีเบอร์รี่ที่จะใส่ใน\\nเครื่องปั่นเบอร์รี่"}
+{"id": "src/berry_blender.c#sText_ApostropheSPokeblockCaseIsFull", "th": " กล่อง{POKEBLOCK}เต็มแล้ว\\p"}
+{"id": "src/berry_blender.c#sText_BlendingResults", "th": "ผลการปั่น"}
+{"id": "src/berry_blender.c#sText_BerryUsed", "th": "เบอร์รี่ที่ใช้"}
+{"id": "src/berry_blender.c#sText_SpaceBerry", "th": " เบอร์รี่"}
+{"id": "src/berry_blender.c#sText_Time", "th": "เวลา:"}
+{"id": "src/berry_blender.c#sText_Min", "th": " นาที "}
+{"id": "src/berry_blender.c#sText_Sec", "th": " วินาที"}
+{"id": "src/berry_blender.c#sText_MaximumSpeed", "th": "ความเร็วสูงสุด"}
+{"id": "src/berry_blender.c#sText_RPM", "th": " RPM"}
+{"id": "src/berry_blender.c#sText_Ranking", "th": "อันดับ"}
+{"id": "src/berry_blender.c#sText_TheLevelIs", "th": "ระดับ "}
+{"id": "src/berry_blender.c#sText_TheFeelIs", "th": " และความเนียน "}
+{"id": "src/berry_blender.c#sJPText_GoodTvReady", "th": "\\nได้รายการทีวีดี ๆ แล้ว "}
+{"id": "src/berry_blender.c#sJPText_BadTvReady", "th": "\\nได้รายการทีวีแย่ ๆ แล้ว "}
+{"id": "src/berry_fix_program.c#sText_BerryProgramUpdate", "th": "อัปเดตโปรแกรมเบอร์รี่"}
+{"id": "src/berry_fix_program.c#sText_RubySapphire", "th": "รูบี้/แซฟไฟร์"}
+{"id": "src/berry_fix_program.c#sText_Emerald", "th": "เอเมอรัลด์"}
+{"id": "src/berry_fix_program.c#sText_BerryProgramWillBeUpdatedPressA", "th": "โปรแกรมเบอร์รี่ในตลับเกมโปเกมอน\\nรูบี้/แซฟไฟร์ ของคุณจะได้รับการอัปเดต\\n{COLOR RED}{SHADOW LIGHT_RED}กดปุ่ม A"}
+{"id": "src/berry_fix_program.c#sText_EnsureGBAConnectionMatches", "th": "โปรดตรวจสอบว่าการเชื่อมต่อเครื่อง\\nGame Boy Advance ตรงกับภาพนี้\\n{COLOR RED}{SHADOW LIGHT_RED}ใช่: กดปุ่ม A\\nไม่: ปิดเครื่องแล้วลองใหม่อีกครั้ง"}
+{"id": "src/berry_fix_program.c#sText_TurnOffPowerHoldingStartSelect", "th": "โปรดเปิดเครื่องโปเกมอน รูบี้/แซฟไฟร์\\nขณะกดปุ่ม START และ SELECT\\nค้างไว้พร้อมกัน จากนั้นตรวจสอบ\\nว่าภาพด้านบนปรากฏขึ้น"}
+{"id": "src/berry_fix_program.c#sText_TransmittingPleaseWait", "th": "กำลังส่งข้อมูล โปรดรอสักครู่\\n{COLOR RED}{SHADOW LIGHT_RED}โปรดอย่าปิดเครื่องหรือถอดสาย\\nGame Boy Advance Game\\nLink Cable"}
+{"id": "src/berry_fix_program.c#sText_PleaseFollowInstructionsOnScreen", "th": "โปรดทำตามคำแนะนำบนหน้าจอ\\nโปเกมอน รูบี้/แซฟไฟร์"}
+{"id": "src/berry_fix_program.c#sText_TransmissionFailureTryAgain", "th": "การส่งข้อมูลล้มเหลว\\n{COLOR RED}{SHADOW LIGHT_RED}โปรดลองอีกครั้ง"}

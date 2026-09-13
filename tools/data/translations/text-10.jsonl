@@ -1,0 +1,559 @@
+{"id": "data/maps/SootopolisCity_House4/scripts.inc#SootopolisCity_House4_Text_AncientTreasuresWaitingInSea", "th": "ฟังนะ จะบอกเรื่องดี ๆ ให้\\pว่ากันว่าในทะเลแถวนี้ มีซากโบราณสถานอยู่\\pข้างล่างนั่นอาจมีสมบัติ รอให้คนไปค้นพบอยู่ก็ได้$"}
+{"id": "data/maps/SootopolisCity_House4/scripts.inc#SootopolisCity_House4_Text_StrollUnderwaterWithPokemon", "th": "สมบัติโบราณ…\\pถ้ามีจริงก็ดีสินะ แต่ต่อให้ไม่มี การได้ไปเดินเล่นใต้น้ำ กับโปเกมอนของฉัน ก็คงสวยงามมากแน่ ๆ$"}
+{"id": "data/maps/SootopolisCity_House4/scripts.inc#SootopolisCity_House4_Text_Azumarill", "th": "มาริลลิ: มารูรี่$"}
+{"id": "data/maps/SootopolisCity_House5/scripts.inc#SootopolisCity_House5_Text_SootopolisMtPyreConnection", "th": "ดูเหมือนว่าเมืองรุเนะ กับภูเขาส่งวิญญาณ จะมีความเชื่อมโยงกันอยู่\\pผมกับเพื่อน ๆ เคยค้นคว้าเรื่องนี้ ที่แล็บที่ผมเคยทำงานอยู่ครับ$"}
+{"id": "data/maps/SootopolisCity_House5/scripts.inc#SootopolisCity_House5_Text_BrotherUsedToStudySea", "th": "พี่ชายฉันเคยศึกษาเรื่องทะเลน่ะ$"}
+{"id": "data/maps/SootopolisCity_House6/scripts.inc#SootopolisCity_House6_Text_FirstGuestInWhileTakeDoll", "th": "สวัสดีจ้ะ! เธอเป็นแขกคนแรก ในรอบนานเลยนะ\\pเธอทำให้วันนี้ของฉันสดใสขึ้น ฉันจะให้ตุ๊กตาโฮเอลโกะตัวใหญ่ เป็นของขวัญนะ$"}
+{"id": "data/maps/SootopolisCity_House6/scripts.inc#SootopolisCity_House6_Text_TakeGoodCareOfIt", "th": "ดูแลมันดี ๆ นะจ๊ะ!$"}
+{"id": "data/maps/SootopolisCity_House6/scripts.inc#SootopolisCity_House6_Text_IllHoldItForYou", "th": "อ้าว อยากได้ แต่ยังไม่เอาตอนนี้เหรอ? ได้จ้ะ งั้นฉันเก็บไว้ให้ก่อนนะ$"}
+{"id": "data/maps/SootopolisCity_House6/scripts.inc#SootopolisCity_House6_Text_DontWantThisDoll", "th": "แน่ใจเหรอ? ไม่อยากได้ตุ๊กตาตัวนี้ จริง ๆ เหรอจ๊ะ?$"}
+{"id": "data/maps/SootopolisCity_House6/scripts.inc#SootopolisCity_House6_Text_LovePlushDolls", "th": "ฉันชอบตุ๊กตาผ้านุ่ม ๆ ที่สุดเลย!$"}
+{"id": "data/maps/SootopolisCity_House7/scripts.inc#SootopolisCity_House7_Text_CityFromEruptedVolcano", "th": "ภูเขาไฟใต้ทะเลปะทุ แล้วดันตัวเองขึ้นมา จากก้นทะเลลึก\\pปากปล่องโผล่พ้นน้ำ แล้วน้ำฝนก็ไหลมาขังจนเต็ม\\pเมืองรุเนะถือกำเนิดขึ้น ด้วยเหตุนี้แหละ$"}
+{"id": "data/maps/SootopolisCity_House7/scripts.inc#SootopolisCity_House7_Text_CaveMadeToKeepSomething", "th": "ถ้ำที่เชื่อมเมืองรุเนะ กับโลกภายนอก…\\pดูราวกับว่าถ้ำนั้น ถูกสร้างขึ้นมาเพื่อกักบางสิ่ง ไม่ให้หลุดออกไป\\pหรือว่าฉันคิดไปเองนะ?$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigSeedot", "th": "รู้จักโปเกมอนชื่อทาเนโบไหม? ที่เมืองรุเนะแทบไม่มีให้เห็นเลย\\pยังไงก็เถอะ ผมชอบทาเนโบตัวใหญ่ ยิ่งใหญ่ยิ่งดี\\pแต่น้องชายผมดันบอกว่า ฮาซึโบตัวใหญ่กว่า\\pไร้สาระชะมัด! ทาเนโบต้องตัวใหญ่กว่าอยู่แล้ว!\\pหือ? เธอมีทาเนโบอยู่ด้วยเหรอ? ข-ข-ขอดูหน่อยเถอะ!$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_GoshMightBeBiggerThanLotad", "th": "{STR_VAR_2} นิ้ว! โอ้โห ตัวนี้ใหญ่จริง ๆ!\\pอาจจะชนะฮาซึโบตัวใหญ่ ที่น้องชายผมเคยเห็นเลยก็ได้!\\pขอบใจที่ให้ดูนะ นี่ของขอบคุณ!$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion1", "th": "{PLAYER} ได้รับ POTION$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull1", "th": "หือ? กระเป๋าของเธอเต็มแน่นเลยนะ$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerSeedot", "th": "{STR_VAR_2} นิ้วเหรอ?\\pอืม… ผมเคยเห็นทาเนโบ ที่ตัวใหญ่กว่านี้นะ$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotSeedot", "th": "โอ้ ตัวนี้ก็ไม่เบาเลยนะ… แต่นี่ไม่ใช่ทาเนโบนี่!$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigSeedot", "th": "ไม่มีทาเนโบตัวใหญ่เหรอ? น่าเสียดายจัง…\\pถ้าได้ทาเนโบตัวใหญ่มาเมื่อไหร่ มาให้ผมดูด้วยนะ$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_BiggestSeedotInHistory", "th": "ทาเนโบตัวใหญ่ที่สุดในประวัติศาสตร์! ยักษ์ใหญ่ขนาด {STR_VAR_3} นิ้วของ {STR_VAR_2}!\\pทาเนโบที่ใหญ่กว่าฮาซึโบ อย่างที่ใฝ่ฝันมาตลอด!$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigLotad", "th": "รู้จักโปเกมอนชื่อฮาซึโบไหม? ที่เมืองรุเนะหาดูยากมากเลยนะ\\pผมชอบ ย้ำว่าชอบมาก ๆ ฮาซึโบตัวใหญ่!\\pพี่ชายผมบอกว่า ทาเนโบตัวใหญ่กว่า\\pแต่มันผิด! ใคร ๆ ก็รู้ว่า ฮาซึโบตัวใหญ่กว่าเยอะ\\pหือ? เธอมีฮาซึโบเหรอ? ข-ข-ขอดูหน่อยนะ!$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_WowMightBeBiggerThanSeedot", "th": "{STR_VAR_2} นิ้ว! ว้าว ใหญ่จริง ๆ!\\pอาจจะใหญ่กว่าทาเนโบตัวเบ้อเริ่ม ที่พี่ชายผมเคยเห็นอีกนะ\\pขอบใจที่ให้ดู! นี่ของขอบคุณ!$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion2", "th": "{PLAYER} ได้รับ POTION$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2", "th": "หือ? กระเป๋าของเธอเต็มแน่นเลยนะ$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad", "th": "{STR_VAR_2} นิ้วเหรอ?\\pอืม… ผมเคยเห็นฮาซึโบ ที่ตัวใหญ่กว่าตัวนี้นะ$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotLotad", "th": "โห ตัวนี้ก็เจ๋งอยู่นะ! แต่ไม่ใช่ฮาซึโบนี่!$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigLotad", "th": "ไม่มีฮาซึโบตัวใหญ่เหรอ? น่าผิดหวังจัง…\\pถ้าได้ฮาซึโบตัวใหญ่มา มาให้ผมดูด้วยนะ!$"}
+{"id": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc#SootopolisCity_LotadAndSeedotHouse_Text_BiggestLotadInHistory", "th": "ฮาซึโบตัวใหญ่ที่สุดในประวัติศาสตร์! ยักษ์มหึมาขนาด {STR_VAR_3} นิ้วของ {STR_VAR_2}!\\pฮาซึโบที่ใหญ่กว่าทาเนโบ อย่างที่ใฝ่ฝันมาตลอด!$"}
+{"id": "data/maps/SootopolisCity_Mart/scripts.inc#SootopolisCity_Mart_Text_PPUpIsGreat", "th": "PP UP สุดยอดไปเลย!\\pมันเพิ่มค่าพาวเวอร์พอยต์ หรือ PP ของท่าโปเกมอนได้ล่ะ$"}
+{"id": "data/maps/SootopolisCity_Mart/scripts.inc#SootopolisCity_Mart_Text_TooScaryOutside", "th": "อะไร… เกิดอะไรขึ้นเนี่ย?\\pอยากรู้ใจจะขาด แต่ออกไปข้างนอก มันน่ากลัวเกินไป$"}
+{"id": "data/maps/SootopolisCity_Mart/scripts.inc#SootopolisCity_Mart_Text_FullRestoreItemOfDreams", "th": "รู้จัก FULL RESTORE ไหมครับ?\\pฟื้นฟู HP จนเต็ม! ขจัดสถานะผิดปกติทุกชนิด!\\pเป็นไอเท็มในฝันโดยแท้เลยครับ!$"}
+{"id": "data/maps/SootopolisCity_Mart/scripts.inc#SootopolisCity_Mart_Text_DidSomethingAwaken", "th": "อากาศแบบนี้… มีอะไรตื่นขึ้นมา หรือเปล่านะ?$"}
+{"id": "data/maps/SootopolisCity_MysteryEventsHouse_1F/scripts.inc#SootopolisCity_MysteryEventsHouse_1F_Text_OnlyAmusementWatchingBattles", "th": "ตอนหนุ่ม ๆ ข้าท่องไปทั่วโลก ในฐานะเทรนเนอร์โปเกมอน\\pพอกลายเป็นตาแก่แล้ว ความสนุกเดียวที่เหลือ ก็คือการได้ดูเทรนเนอร์หนุ่มสาว ต่อสู้กัน$"}
+{"id": "data/maps/SootopolisCity_MysteryEventsHouse_1F/scripts.inc#SootopolisCity_MysteryEventsHouse_1F_Text_DoorAppearsToBeLocked", "th": "ประตูดูเหมือนจะล็อกอยู่$"}
+{"id": "data/maps/SootopolisCity_MysteryEventsHouse_1F/scripts.inc#SootopolisCity_MysteryEventsHouse_1F_Text_ChallengeVisitingTrainer", "th": "เทรนเนอร์ชื่อ {STR_VAR_1} กำลังมาเยี่ยมบ้านข้า\\pอยากลองท้าสู้กับ {STR_VAR_1} ไหม?$"}
+{"id": "data/maps/SootopolisCity_MysteryEventsHouse_1F/scripts.inc#SootopolisCity_MysteryEventsHouse_1F_Text_YouWontBattle", "th": "ไม่สู้เหรอ? น่าผิดหวังนะ ที่ไม่ได้ดูหนูสู้…$"}
+{"id": "data/maps/SootopolisCity_MysteryEventsHouse_1F/scripts.inc#SootopolisCity_MysteryEventsHouse_1F_Text_KeepItTo3On3", "th": "โอ้ ดี ดี!\\pแต่บ้านข้ามันไม่ค่อยแข็งแรงเท่าไหร่\\pขอให้สู้กันแค่ 3 ต่อ 3 ได้ไหม?$"}
+{"id": "data/maps/SootopolisCity_MysteryEventsHouse_1F/scripts.inc#SootopolisCity_MysteryEventsHouse_1F_Text_SaveProgressBeforeBattle", "th": "ก่อนที่พวกหนูจะสู้กัน ควรบันทึกเกมไว้ก่อนนะ$"}
+{"id": "data/maps/SootopolisCity_MysteryEventsHouse_1F/scripts.inc#SootopolisCity_MysteryEventsHouse_1F_Text_HopeToSeeGoodMatch", "th": "หวังว่าจะได้ดูการต่อสู้ดี ๆ นะ!$"}
+{"id": "data/maps/SootopolisCity_MysteryEventsHouse_1F/scripts.inc#SootopolisCity_MysteryEventsHouse_B1F_Text_MatchEndedUpDraw", "th": "การต่อสู้จบลงด้วยผลเสมอ$"}
+{"id": "data/maps/SootopolisCity_MysteryEventsHouse_1F/scripts.inc#SootopolisCity_MysteryEventsHouse_1F_Text_BrilliantStandoff", "th": "สรุปว่าสูสีกันนี่เอง\\pเป็นการต่อสู้ที่ยอดเยี่ยม ไม่มีฝ่ายไหนยอมถอย แม้แต่ก้าวเดียว!$"}
+{"id": "data/maps/SootopolisCity_MysteryEventsHouse_1F/scripts.inc#SootopolisCity_MysteryEventsHouse_1F_Text_ThatWasSuperlative", "th": "ยอดเยี่ยมที่สุด!\\pเหมือนได้เห็นตัวข้าเอง สมัยหนุ่ม ๆ อีกครั้งเลย!$"}
+{"id": "data/maps/SootopolisCity_MysteryEventsHouse_1F/scripts.inc#SootopolisCity_MysteryEventsHouse_1F_Text_TooBadForYou", "th": "อา น่าเสียดายจริง ๆ!\\pแต่ก็เป็นการต่อสู้ที่ดี หวังว่าคราวหน้าหนูจะชนะนะ$"}
+{"id": "data/maps/SootopolisCity_PokemonCenter_1F/scripts.inc#SootopolisCity_PokemonCenter_1F_Text_WallaceToughestInHoenn", "th": "ลือกันว่ามิคุริ เป็นเทรนเนอร์ที่แข็งแกร่งที่สุด ในภูมิภาคโฮเอ็น\\pหัวหน้ายิมของเมืองนี้ คือเทรนเนอร์ที่เคยสอนมิคุริ\\pแต่จตุรเทพ… ว่ากันว่าเก่งกว่า อาจารย์ของมิคุริเสียอีก\\pจะแข็งแกร่งขนาดไหนกันนะครับ?$"}
+{"id": "data/maps/SootopolisCity_PokemonCenter_1F/scripts.inc#SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge", "th": "คนในเมืองต่างหลบภัย ไม่ยอมออกจากบ้านกันเลย\\pแม้แต่ผมเอง ก็ไม่อยากออกไปข้างนอกเหมือนกันครับ$"}
+{"id": "data/maps/SootopolisCity_PokemonCenter_1F/scripts.inc#SootopolisCity_PokemonCenter_1F_Text_AlwaysBeFriendsWithPokemon", "th": "ไม่ว่าเมื่อไหร่ ที่ไหน หรือเกิดอะไรขึ้น ฉันจะเป็นเพื่อนกับโปเกมอนตลอดไป\\pเพราะการได้อยู่กับโปเกมอน มันสนุกนี่นา!$"}
+{"id": "data/maps/SootopolisCity_PokemonCenter_1F/scripts.inc#SootopolisCity_PokemonCenter_1F_Text_ArentPokemonOurFriends", "th": "โปเกมอนเป็นเพื่อนของเรา ไม่ใช่เหรอ?\\pแล้วทำไมถึงคลุ้มคลั่ง แบบนี้ล่ะ?$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_StillGettingReady", "th": "ที่นี่คือเทรนเนอร์ฮิล สถานที่ที่คุณจะสนุกกับ แท็กแบทเทิลร่วมกับเทรนเนอร์มากมาย\\pขออภัยค่ะ ตอนนี้เรายังเตรียมการไม่เสร็จ กรุณากลับมาใหม่ภายหลังนะคะ!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_WelcomeToTrainerHill", "th": "ยินดีต้อนรับค่ะ!\\pที่นี่คือเทรนเนอร์ฮิล สถานที่ที่คุณจะสนุกกับ แท็กแบทเทิลร่วมกับเทรนเนอร์มากมายค่ะ!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_SaveGameBeforeEnter", "th": "มาที่นี่เป็นครั้งแรก หรือเปล่าคะ?\\pก่อนเข้าไป กรุณาบันทึกเกมก่อนนะคะ$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_TrainersUpToFloorX", "th": "ขอดูก่อนนะคะ… เทรนเนอร์ที่อยู่ที่นี่ตอนนี้…\\pมีถึงชั้นที่ {STR_VAR_1} ค่ะ$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_TrainersInEveryRoom", "th": "ขอดูก่อนนะคะ… เทรนเนอร์ที่อยู่ที่นี่ตอนนี้…\\pดูเหมือนจะมีเทรนเนอร์ รวมตัวกันอยู่ทุกห้องเลยค่ะ$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_LikeToChallengeTrainers", "th": "ต้องการท้าสู้กับเทรนเนอร์ ที่รออยู่ไหมคะ?$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_TimeProgessGetSetGo", "th": "ดิฉันจะจับเวลาให้นะคะ ขอให้โชคดีค่ะ!\\pเข้าที่…\\pเตรียม…\\pไป!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_PleaseVisitUsAgain", "th": "แล้วแวะมาใหม่นะคะ!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_TooBadTremendousEffort", "th": "น่าเสียดายจังค่ะ\\pดิฉันคิดว่าคุณทุ่มเทสุดตัว ในการต่อสู้แล้วค่ะ\\pกลับมาลองใหม่นะคะ!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_HopeYouGiveItYourBest", "th": "ขอให้ทำให้เต็มที่นะคะ$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_MovedReceptionHereForSwitch", "th": "เวลาเทรนเนอร์สลับตำแหน่งกัน จะวุ่นวายมากค่ะ\\pเพื่อเลี่ยงการเบียดเสียด เราจึงย้ายเคาน์เตอร์ต้อนรับ มาไว้ที่นี่\\pขออภัยในความไม่สะดวกค่ะ$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_ThankYouForPlaying", "th": "ขอบคุณที่มาร่วมสนุกค่ะ!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_ExplainTrainerHill", "th": "ที่เทรนเนอร์ฮิลแห่งนี้ เราจัดกิจกรรมที่เรียกว่า ไทม์แอทแทค\\pเป็นการแข่งจับเวลาว่า คุณใช้เวลานานแค่ไหน ในการไปพบเจ้าของของเรา บนดาดฟ้า จากเคาน์เตอร์นี้\\pสถิติที่เร็วที่สุด จะติดประกาศไว้บนกระดานเวลา ลองแข่งกับเพื่อน ๆ ดูสิคะ\\pการต่อสู้กับเทรนเนอร์ระหว่างทาง จะไม่ได้รับทั้งค่าประสบการณ์ และเงินรางวัลค่ะ$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_NeedAtLeastTwoPokemon", "th": "ขออภัยค่ะ ดูเหมือนคุณจะมีโปเกมอน อยู่ด้วยเพียงตัวเดียว\\pต้องมีโปเกมอนอย่างน้อยสองตัว จึงจะเข้าร่วมกิจกรรมนี้ได้ค่ะ$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Roof_Text_YouFinallyCameBravo", "th": "ฮึม! ฮึม!\\pในที่สุดก็มาจนได้! ใช่แล้ว มาถึงแล้ว!\\pเดี๋ยว! ไม่ต้องพูด! ผมรู้ว่าทำไมคุณ ถึงดั้นด้นมาถึงนี่คนเดียว!\\pคุณอยากพบผม เจ้าของเทรนเนอร์ฮิล เพราะว่า…\\pคุณอยากจับคู่แท็กทีมกับผม นั่นเอง! วู้ฮู้!\\p…อ้าว? ไม่ใช่เหรอ?\\pช่างเถอะ ผมเฝ้าดูคุณตลอดทางขึ้นมา สู้ได้ยอดเยี่ยมมาก! บราโว่ จริง ๆ!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Roof_Text_HaveTheMostMarvelousGift", "th": "สำหรับคนยอดเยี่ยมอย่างคุณ ผมมีของขวัญที่ยอดเยี่ยมที่สุดให้!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Roof_Text_FullUpBeBackLaterForThis", "th": "โอ๊ะ แย่แล้ว ของเต็มเลย! ไว้ค่อยกลับมารับทีหลังนะ!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Roof_Text_GotHereMarvelouslyQuickly", "th": "โอ๊ะ เดี๋ยวก่อน! หรือว่าคุณ มาถึงที่นี่เร็วอย่างยอดเยี่ยม?\\pวิเศษมาก! ไม่ต้องรีบร้อนมาหาผม ขนาดนั้นก็ได้!\\pน่ายินดีจริง ๆ! ผมจะให้ที่เคาน์เตอร์ต้อนรับ อัปเดตกระดานเวลาให้เลย!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Roof_Text_YouWerentVeryQuick", "th": "แต่ว่า โอ้… คุณมาถึงที่นี่ ไม่ค่อยเร็วเท่าไหร่นะ$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Roof_Text_ArriveZippierNextTime", "th": "คราวหน้าถ้ามาถึงให้ไวกว่านี้ ผมคงดีใจยิ่งกว่านี้\\pแล้วผมจะยินดีจับคู่แท็กทีม กับคุณเลย!\\pแล้วพบกันใหม่ อามีโก้!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Roof_Text_BuiltTrainerHillToFindPartner", "th": "ผมสร้างเทรนเนอร์ฮิลขึ้นมา ด้วยเหตุผลเดียวเท่านั้น!\\pนั่นคือการตามหาคู่หูที่เหมาะสมที่สุด เพื่อจับคู่แท็กทีมกับผม!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_ChallengeTime", "th": "{STR_VAR_1} นาที {STR_VAR_2}.{STR_VAR_3} วินาที$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_WhatSortOfTrainersAreAhead", "th": "ใครจะรู้ว่าข้างหน้า มีเทรนเนอร์ กับโปเกมอนแบบไหนรออยู่?\\pรู้แค่ว่าใครขวางทาง ผมจะกวาดทิ้งให้หมด!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_CantWaitToTestTheWaters", "th": "ได้ยินว่าเทรนเนอร์เก่ง ๆ จากทั่วสารทิศ มาที่เทรนเนอร์ฮิลแห่งนี้\\pอยากลองของใจจะขาดแล้ว!\\pใครขวางทาง ผมจะกวาดทิ้งให้หมด!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_FriendsTryingToReachTimeBoardTop", "th": "เห็นกระดานเวลาตรงนั้นไหม?\\pฉันกับเพื่อน ๆ กำลังแข่งกันว่า ใครจะขึ้นไปถึงยอดได้เร็วที่สุด$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Entrance_Text_DoYouKnowWhenTheyOpen", "th": "รู้ไหมว่าที่นี่ จะเปิดเมื่อไหร่?\\pฉันรออยู่ตรงนี้ เพื่อจะเป็นผู้ท้าชิงคนแรกเลยนะ!$"}
+{"id": "data/maps/TrainerHill_Entrance/scripts.inc#TrainerHill_Elevator_Text_ReturnToReception", "th": "ต้องการกลับไปที่ เคาน์เตอร์ต้อนรับหรือไม่?$"}
+{"id": "data/maps/Underwater_SeafloorCavern/scripts.inc#Underwater_SeafloorCavern_Text_SubExplorer1", "th": "บนตัวเรือมีตัวอักษรเขียนไว้ว่า “เรือดำน้ำสำรวจ 1”\\pนี่คือเรือดำน้ำ ที่แก๊งอควาขโมยไปจากเมืองไคนะ!\\pแก๊งอควาต้องขึ้นฝั่ง ที่นี่แน่ ๆ$"}
+{"id": "data/maps/VerdanturfTown/scripts.inc#VerdanturfTown_Text_ManTryingToDigTunnel", "th": "ปะป๊าบอกหนูล่ะ\\pปะป๊าบอกว่าในอุโมงค์นี้ มีโปเกมอนขี้ตกใจอยู่เต็มเลย\\pพอได้ยินเสียงดัง ๆ พวกมันก็ตกใจ แล้วโวยวายกันใหญ่\\pเขาเลยต้องหยุดโครงการ ขุดอุโมงค์ใหญ่ไป\\pแต่มีพี่ผู้ชายคนหนึ่ง พยายามขุดอุโมงค์ อยู่คนเดียวล่ะ!$"}
+{"id": "data/maps/VerdanturfTown/scripts.inc#VerdanturfTown_Text_ManDugTunnelForLove", "th": "มีพี่ผู้ชายคนหนึ่ง ขุดอุโมงค์เพื่อผู้หญิงที่เขารัก\\pหนูไม่ค่อยเข้าใจหรอก แต่ก็เอาเถอะ!$"}
+{"id": "data/maps/VerdanturfTown/scripts.inc#VerdanturfTown_Text_AirCleanHere", "th": "ด้วยทิศทางลม เถ้าภูเขาไฟ ไม่เคยถูกพัดมาทางนี้เลย\\pอากาศที่นี่บริสุทธิ์ หายใจแล้วชื่นใจ แม้แต่คนที่ร่างกายอ่อนแอ ขี้โรค ถ้าได้มาอยู่ที่นี่ ก็น่าจะแข็งแรงขึ้นมาก$"}
+{"id": "data/maps/VerdanturfTown/scripts.inc#VerdanturfTown_Text_MakeBattleTentDebut", "th": "ผมกับโปเกมอนของผม กำลังชนะรวดแบบร้อนแรงเลย\\pเลยตัดสินใจมาเปิดตัว ที่แบทเทิลเทนต์ของเมืองนี้!$"}
+{"id": "data/maps/VerdanturfTown/scripts.inc#VerdanturfTown_Text_GuyTryingToBustThroughCave", "th": "เห็นถ้ำข้าง ๆ โปเกมาร์ท หรือเปล่า?\\pมีพี่คนหนึ่งอยู่ในนั้น พยายามทุบหินก้อนใหญ่ เพื่อเจาะทะลุไปอีกฝั่ง\\pถ้าเดินผ่านไปได้ ก็คงดีเลยนะ… จะได้ไปเมืองคานาซุมิ ได้ง่าย ๆ$"}
+{"id": "data/maps/VerdanturfTown/scripts.inc#VerdanturfTown_Text_EasyToGetToRustboroNow", "th": "ถ้ำข้าง ๆ โปเกมาร์ท ตอนนี้กลายเป็นอุโมงค์ ทะลุไปอีกฝั่งแล้ว\\pเยี่ยมไปเลย ตอนนี้ไปซื้อสินค้าใหม่ ของเดวอนที่เมืองคานาซุมิ ได้ง่าย ๆ แล้ว$"}
+{"id": "data/maps/VerdanturfTown/scripts.inc#VerdanturfTown_Text_TownSign", "th": "เมืองชิดาเกะ\\p“ที่ราบสูงลมโชย อบอวลด้วยกลิ่นหอมหวานของหญ้า”$"}
+{"id": "data/maps/VerdanturfTown/scripts.inc#VerdanturfTown_Text_WandasHouse", "th": "บ้านของวันด้า$"}
+{"id": "data/maps/VerdanturfTown/scripts.inc#VerdanturfTown_Text_BattleTentSign", "th": "แบทเทิลเทนต์ สาขาชิดาเกะ “เปิดตาชมการต่อสู้สุดมันส์!”$"}
+{"id": "data/maps/VerdanturfTown/scripts.inc#VerdanturfTown_Text_RusturfTunnelSign", "th": "อุโมงค์คานาชิดะ “เชื่อมเมืองคานาซุมิ และเมืองชิดาเกะ”\\p“โครงการขุดอุโมงค์ ถูกยกเลิกแล้ว”$"}
+{"id": "data/maps/VerdanturfTown_BattleTentCorridor/scripts.inc#VerdanturfTown_ContestHall_Text_WhichContestYouEntering", "th": "จะลงคอนเทสต์ประเภทไหนล่ะ? อยากได้คำแนะนำไหม?\\pไม่ว่าคอนเทสต์ไหน อย่างคอนเทสต์ความน่ารัก ฉันว่ารอบแรกเขาไม่ได้ตัดสิน จากความน่ารักอย่างเดียวหรอกนะ\\pต้องหาวิธีเลี้ยงโปเกมอน ให้ดียิ่งขึ้นด้วย$"}
+{"id": "data/maps/VerdanturfTown_BattleTentCorridor/scripts.inc#VerdanturfTown_ContestHall_Text_RaisedMonToBeCute", "th": "ฉันเลี้ยงโปเกมอนให้น่ารัก\\pแล้วก็เพิ่งรู้ว่า ส่งโปเกมอนเข้าคอนเทสต์ ความน่ารักได้ด้วย!\\pดีใจจังที่เลี้ยงโปเกมอน ด้วยความรักมาตลอด…$"}
+{"id": "data/maps/VerdanturfTown_BattleTentCorridor/scripts.inc#VerdanturfTown_ContestHall_Text_MyMonRules", "th": "โปเกมอนของฉันสุดยอดที่สุด!\\pทั้งเท่ แกร่ง สวย น่ารัก และฉลาด ครบเครื่องสุด ๆ!\\pลงแข่งให้ชนะทุกคอนเทสต์ ไปเลยดีกว่า$"}
+{"id": "data/maps/VerdanturfTown_BattleTentCorridor/scripts.inc#VerdanturfTown_ContestHall_Text_NormalRankStage", "th": "โปเกมอนคอนเทสต์ เวทีระดับนอร์มอล!$"}
+{"id": "data/maps/VerdanturfTown_BattleTentLobby/scripts.inc#VerdanturfTown_BattleTentLobby_Text_MonsReluctantToUseDislikedMoves", "th": "ถ้าไม่ชอบท่าไหน โปเกมอนก็จะไม่ค่อยอยากใช้ท่านั้น\\pไม่ว่าท่านั้นจะแรงแค่ไหนก็ตาม\\pอย่างเช่น โปเกมอนนิสัยเรียบร้อย คงไม่สนุกกับการ ทำร้ายคู่ต่อสู้เท่าไหร่\\pถ้ามันดูไม่ได้แสดงศักยภาพเต็มที่ ก็อาจเป็นเพราะ มันถูกบังคับให้ใช้ท่าที่ไม่ชอบอยู่$"}
+{"id": "data/maps/VerdanturfTown_BattleTentLobby/scripts.inc#VerdanturfTown_BattleTentLobby_Text_GentleMonsScaryIfAngry", "th": "ปกติพี่สาวผมเรียบร้อยนะฮะ แต่เวลาโกรธนี่ น่ากลัวสุด ๆ เลย!\\pผมว่าโปเกมอนนิสัยเรียบร้อย ถ้าโกรธขึ้นมา ก็คงน่ากลัวแน่ ๆ ฮะ!$"}
+{"id": "data/maps/VerdanturfTown_BattleTentLobby/scripts.inc#VerdanturfTown_BattleTentLobby_Text_AttractionRunsDeep", "th": "ความรู้สึกที่ฉันมีต่อโปเกมอน… ความหลงใหลนี้ช่างลึกซึ้ง…\\pอุ๊ย หวัดดี ไม่ได้เห็นเมื่อกี้ใช่ไหม? ช่างเถอะ ไม่เป็นไรหรอก\\pเอา TM นี้ไปให้โปเกมอน ของเธอไหม?$"}
+{"id": "data/maps/VerdanturfTown_BattleTentLobby/scripts.inc#VerdanturfTown_BattleTentLobby_Text_AttractionMutual", "th": "ความรู้สึกที่ฉันมีต่อโปเกมอน… ฉันมั่นใจว่าเราหลงใหล กันและกันแน่ ๆ!\\pพวกมันสู้ได้ตรงตามที่ฉันต้องการ เป๊ะเลย!$"}
+{"id": "data/maps/VerdanturfTown_BattleTentLobby/scripts.inc#VerdanturfTown_BattleTentLobby_Text_TaughtWhatKindsOfMoves", "th": "สอนท่าแบบไหน ให้โปเกมอนไว้บ้าง?\\pผมว่าถ้าพวกมันรู้วิธี ฟื้นฟูหรือป้องกันตัวเอง จะได้เปรียบนะ$"}
+{"id": "data/maps/VerdanturfTown_BattleTentLobby/scripts.inc#VerdanturfTown_BattleTentLobby_Text_ScottCanMeetToughTrainers", "th": "เอนิชิดะ: ไง {PLAYER}{KUN}! นึกแล้วว่าต้องเจอที่นี่\\pแบทเทิลเทนต์ เป็นที่ที่คุณจะได้เจอ เทรนเนอร์เก่ง ๆ\\pไม่ว่ากติกาจะเป็นยังไง หรือจะสู้กันแบบไหนก็ตาม\\p{PLAYER}{KUN} ผมหวังว่าคุณ จะทำให้ดีที่สุดนะ!$"}
+{"id": "data/maps/VerdanturfTown_BattleTentLobby/scripts.inc#VerdanturfTown_BattleTentLobby_Text_ScottVisitRegularly", "th": "เอนิชิดะ: ผมแวะมาที่นี่เป็นประจำ เผื่อจะได้เห็นเทรนเนอร์เก่ง ๆ ประลองฝีมือ ในทุกสถานการณ์ครับ$"}
+{"id": "data/maps/VerdanturfTown_FriendshipRatersHouse/scripts.inc#VerdanturfTown_FriendshipRatersHouse_Text_SeeHowMuchPokemonLikesYou", "th": "ขอดูโปเกมอนของเธอหน่อยนะ ฉันจะดูว่ามันชอบเธอ มากแค่ไหน\\pอ๋อ… โปเกมอนของเธอ…$"}
+{"id": "data/maps/VerdanturfTown_FriendshipRatersHouse/scripts.inc#VerdanturfTown_FriendshipRatersHouse_Text_AdoresYou", "th": "มันรักเธอสุดหัวใจ รักมากกว่านี้ไม่ได้อีกแล้ว ขนาดฉันเห็นยังพลอยมีความสุข ไปด้วยเลย$"}
+{"id": "data/maps/VerdanturfTown_FriendshipRatersHouse/scripts.inc#VerdanturfTown_FriendshipRatersHouse_Text_VeryHappy", "th": "ดูมีความสุขมากเลย เห็นได้ชัดว่ามันชอบเธอ มาก ๆ$"}
+{"id": "data/maps/VerdanturfTown_FriendshipRatersHouse/scripts.inc#VerdanturfTown_FriendshipRatersHouse_Text_LikesYouQuiteALot", "th": "มันชอบเธอมากทีเดียว ดูเหมือนอยากให้เธอเอาใจ อีกสักหน่อยนะ$"}
+{"id": "data/maps/VerdanturfTown_FriendshipRatersHouse/scripts.inc#VerdanturfTown_FriendshipRatersHouse_Text_GettingUsedToYou", "th": "มันเริ่มคุ้นเคยกับเธอแล้ว ดูเหมือนจะเชื่อใจเธอนะ$"}
+{"id": "data/maps/VerdanturfTown_FriendshipRatersHouse/scripts.inc#VerdanturfTown_FriendshipRatersHouse_Text_NotUsedToYou", "th": "มันยังไม่ค่อยคุ้นกับเธอเท่าไหร่ ไม่ได้รัก แต่ก็ไม่ได้เกลียดนะ$"}
+{"id": "data/maps/VerdanturfTown_FriendshipRatersHouse/scripts.inc#VerdanturfTown_FriendshipRatersHouse_Text_VeryWary", "th": "มันระแวงมาก สายตาดูดุร้ายน่ากลัว ไม่ชอบเธอเลยสักนิด$"}
+{"id": "data/maps/VerdanturfTown_FriendshipRatersHouse/scripts.inc#VerdanturfTown_FriendshipRatersHouse_Text_DetestsYou", "th": "พูดแล้วก็ลำบากใจอยู่นะ…\\pโปเกมอนของเธอเกลียดเธอเข้าไส้เลย ไม่รู้สึกอึดอัดใจบ้างเหรอ?$"}
+{"id": "data/maps/VerdanturfTown_FriendshipRatersHouse/scripts.inc#VerdanturfTown_FriendshipRatersHouse_Text_Pikachu", "th": "ปิกาจู: ปิกา ปิกา!$"}
+{"id": "data/maps/VerdanturfTown_House/scripts.inc#VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague", "th": "ไกลออกไป ลึกเข้าไปในเมืองไซยู คือที่ตั้งของโปเกมอนลีก\\pเทรนเนอร์ที่มารวมตัวกันที่นั่น ล้วนมีฝีมือเก่งกาจ จนน่ากลัว$"}
+{"id": "data/maps/VerdanturfTown_House/scripts.inc#VerdanturfTown_House_Text_DefeatEliteFourInARow", "th": "ฉันคิดว่ากติกาของโปเกมอนลีก คือต้องสู้กับจตุรเทพ ทั้งหมดติดต่อกัน\\pถ้าแพ้ใครคนใดคนหนึ่ง ต้องเริ่มท้าชิงใหม่ ตั้งแต่คนแรกเลย$"}
+{"id": "data/maps/VerdanturfTown_Mart/scripts.inc#VerdanturfTown_Mart_Text_XSpecialIsCrucial", "th": "ในการต่อสู้โปเกมอนทุกครั้ง X SPECIAL สำคัญสุด ๆ\\pมันเพิ่มพลังของบางท่าได้แรงเลย ถึงจะแค่ในการต่อสู้ ครั้งเดียวก็เถอะ$"}
+{"id": "data/maps/VerdanturfTown_Mart/scripts.inc#VerdanturfTown_Mart_Text_NoStrategyGuidesForBattleTent", "th": "ดูเหมือนจะไม่มีขาย คู่มือกลยุทธ์พิชิตแบทเทิลเทนต์เลยนะ…\\pสุดท้ายแล้ว ก็คงต้องพึ่งไหวพริบ ของตัวเองสินะ…$"}
+{"id": "data/maps/VerdanturfTown_Mart/scripts.inc#VerdanturfTown_Mart_Text_NestBallOnWeakenedPokemon", "th": "NEST BALL ได้ผลดีกว่า กับโปเกมอนที่อ่อนแอ\\pเมืองชิดาเกะเป็นที่เดียว ที่ซื้อได้นะ$"}
+{"id": "data/maps/VerdanturfTown_PokemonCenter_1F/scripts.inc#VerdanturfTown_PokemonCenter_1F_Text_FaithInYourPokemon", "th": "ถ้าไม่เชื่อมั่นในโปเกมอน ของตัวเอง ก็เรียกตัวเองว่าเทรนเนอร์ตัวจริง ไม่ได้หรอกครับ\\pมีแต่คนที่เชื่อมั่น ในโปเกมอนที่ร่วมสู้ด้วยเท่านั้น ที่จะชนะไปได้จนถึงที่สุด$"}
+{"id": "data/maps/VerdanturfTown_PokemonCenter_1F/scripts.inc#VerdanturfTown_PokemonCenter_1F_Text_VisitForBattleTent", "th": "เหตุผลที่ใคร ๆ มาเยือนเมืองชิดาเกะ…\\pก็แบทเทิลเทนต์น่ะสิ ไม่ต้องพูดก็รู้\\pหรือว่าที่นี่ มีใครที่หนูตั้งใจมาหาล่ะ?$"}
+{"id": "data/maps/VerdanturfTown_WandasHouse/scripts.inc#VerdanturfTown_WandasHouse_Text_StrongerSpeech", "th": "มิตสึรุ: ผมแพ้ {PLAYER} แต่ผมไม่ท้อแล้วครับ\\pเพราะผมมีเป้าหมายใหม่ในชีวิต ผมจะไปท้าสู้ยิมโปเกมอน กับรัลทอสของผม แล้วเป็นเทรนเนอร์ ที่ยอดเยี่ยมให้ได้\\pคอยดูผมนะครับ {PLAYER} ผมจะแข็งแกร่งกว่าคุณให้ได้\\pแล้วเมื่อถึงวันนั้น ผมจะมาขอท้าสู้กับคุณ อีกครั้งครับ$"}
+{"id": "data/maps/VerdanturfTown_WandasHouse/scripts.inc#VerdanturfTown_WandasHouse_Text_StrongerSpeechShort", "th": "มิตสึรุ: คอยดูผมนะครับ {PLAYER} ผมจะแข็งแกร่งกว่าคุณให้ได้\\pแล้วเมื่อถึงวันนั้น ผมจะมาขอท้าสู้กับคุณ อีกครั้งครับ$"}
+{"id": "data/maps/VerdanturfTown_WandasHouse/scripts.inc#VerdanturfTown_WandasHouse_Text_WallysNextDoor", "th": "ลุง: โอ้! {PLAYER}{KUN}! มิตสึรุอยู่บ้านข้าง ๆ นะ\\pแต่ว่านะ ลุงมีเรื่องอยากบอกหนูหน่อย\\pธรรมชาติที่นี่ ช่วยให้สุขภาพของมิตสึรุ ดีขึ้นมากเลย\\pแต่อาจไม่ใช่เพราะธรรมชาติอย่างเดียว อาจเป็นเพราะโปเกมอน ที่มอบความหวังให้เจ้าหนูนั่นด้วย$"}
+{"id": "data/maps/VerdanturfTown_WandasHouse/scripts.inc#VerdanturfTown_WandasHouse_Text_WallySlippedOff", "th": "มิตสึรุหายไปแล้ว… แอบออกไปคนเดียว…$"}
+{"id": "data/maps/VerdanturfTown_WandasHouse/scripts.inc#VerdanturfTown_WandasHouse_Text_WallyGoneThatFar", "th": "ลุง: จริงเหรอ? มิตสึรุไปไกลขนาดนั้น ด้วยตัวคนเดียว…\\pก็นะ ต้องยอมรับในตัวเจ้าหนูนั่น สมแล้วที่เป็นลูกของน้องชายลุง$"}
+{"id": "data/maps/VerdanturfTown_WandasHouse/scripts.inc#VerdanturfTown_WandasHouse_Text_MeetWanda", "th": "วันด้า: เธอคือ? อ๋อ ใช่แล้ว เข้าใจแล้ว!\\pเธอคือ {PLAYER} ที่มิตสึรุเล่าให้ฟังนี่เอง\\pฉันเป็นลูกพี่ลูกน้องของมิตสึรุ ยินดีที่ได้รู้จักนะ!\\pฉันว่ามิตสึรุร่าเริง และแข็งแรงขึ้นเยอะเลย ตั้งแต่มาอยู่ที่นี่$"}
+{"id": "data/maps/VerdanturfTown_WandasHouse/scripts.inc#VerdanturfTown_WandasHouse_Text_DontWorryAboutWally", "th": "วันด้า: ไม่ต้องห่วงมิตสึรุหรอก เขาไม่เป็นไรแน่นอน\\pฉันรู้จักน้องดี แถมเขาก็มีโปเกมอน อยู่ด้วยนะ$"}
+{"id": "data/maps/VerdanturfTown_WandasHouse/scripts.inc#VerdanturfTown_WandasHouse_Text_CanSeeGirlfriendEveryDay", "th": "ขอบใจเธอนะ ผมเลยได้เจอแฟนทุกวัน มีความสุขไหมเหรอ? สุด ๆ ไปเลยล่ะ!$"}
+{"id": "data/maps/VerdanturfTown_WandasHouse/scripts.inc#VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendDriven", "th": "แฟนของลูกสาวฉัน เป็นคนมุ่งมั่น และเร่าร้อนมากเลยล่ะ\\pเขาขุดอุโมงค์ไม่หยุดเลย เพื่อจะได้มาเจอลูกสาวฉัน\\pลูกสาวฉันก็เป็นห่วงนิดหน่อย เลยออกไปที่อุโมงค์บ่อย ๆ$"}
+{"id": "data/maps/VerdanturfTown_WandasHouse/scripts.inc#VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendWasDigging", "th": "สุดยอดไปเลย แฟนลูกสาวฉัน ขุดอุโมงค์ด้วยมือเปล่า!\\pเหลือเชื่อจริง ๆ!$"}
+{"id": "data/maps/VerdanturfTown_WandasHouse/scripts.inc#VerdanturfTown_WandasHouse_Text_IfAnythingHappenedToWally", "th": "ถ้ามิตสึรุเป็นอะไรไปละก็ ฉันคงไม่กล้าสู้หน้าพ่อแม่ของเขา ที่เมืองโทกะแน่ ๆ…$"}
+{"id": "data/maps/VerdanturfTown_WandasHouse/scripts.inc#VerdanturfTown_WandasHouse_Text_WallyWasInEverGrande", "th": "มิตสึรุไปอยู่ที่เมืองไซยูเหรอ?\\pพ่อแม่ของเขาที่เมืองโทกะ ได้ยินคงตกใจแย่เลย!$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_WallyNotGoingToLoseAnymore", "th": "มิตสึรุ: หวัดดีครับ! {PLAYER}!\\pแปลกใจใช่ไหมครับ ที่เจอผมที่นี่!\\pผมมาถึงที่นี่ได้ ก็เพราะคุณเลยครับ!\\p{PLAYER} การที่ผมแพ้คุณครั้งนั้น ทำให้ผมแข็งแกร่งขึ้น!\\pแต่ผมจะไม่แพ้อีกแล้วครับ!\\pผมจะชนะ! เพื่อโปเกมอน ที่มอบความกล้าและพลังให้ผม!\\pเอาล่ะ… ผมไปละนะครับ!$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_WallyEntranceDefeat", "th": "ว้าว! {PLAYER} คุณเก่งจริง ๆ ด้วยครับ!$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_WallyPostEntranceBattle", "th": "มิตสึรุ: วันนี้ผมเอาชนะคุณไม่ได้ {PLAYER} แต่สักวัน ผมจะไล่ตามคุณให้ทันครับ!$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_WallyIntro", "th": "มิตสึรุ: หวัดดีครับ! {PLAYER}!\\pผมแข็งแกร่งขึ้นกว่าครั้งก่อนแล้ว! อยากให้คุณได้เห็นครับ {PLAYER}!\\pเอาล่ะ… ผมไปละนะครับ!$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_WallyDefeat", "th": "ว้าว! {PLAYER} คุณเก่งจริง ๆ ด้วยครับ!$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_WallyPostBattle", "th": "มิตสึรุ: ครั้งนี้ผมก็ยังเอาชนะคุณไม่ได้… แต่สักวันหนึ่ง {PLAYER} ผมจะไล่ตามคุณให้ทัน…\\pแล้วไปท้าชิงโปเกมอนลีกครับ!$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_EdgarIntro", "th": "ผมมาถึงตรงนี้ได้สองสามครั้งแล้ว แต่ช่วงสุดท้ายนี่ มันยาวเหลือเกิน…$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_EdgarDefeat", "th": "ความฝันของผม จบลงที่นี่อีกแล้ว…$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_EdgarPostBattle", "th": "เธอมาได้ไกลขนาดนี้แล้ว รักษาแรงส่งนี้ไว้ แล้วไปเป็นแชมเปี้ยนให้ได้! ถ้ามีใครทำได้ ก็ต้องเป็นเธอนี่แหละ!$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_AlbertIntro", "th": "ผมไม่ได้ดั้นด้นมาถึงนี่ เพื่อมาแพ้หรอกนะ ความเป็นไปได้นั้น ไม่มีอยู่จริง!$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_AlbertDefeat", "th": "เป็นไปไม่ได้… ผมแพ้เหรอ?$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_AlbertPostBattle", "th": "ผมแพ้ที่นี่…\\pแปลว่าผมยังไม่คู่ควรพอ จะเป็นแชมเปี้ยน…$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_HopeIntro", "th": "เส้นทางที่ดูไม่มีที่สิ้นสุด และแสนโหดร้ายนี้ สมกับชื่อถนนแชมเปี้ยน จริง ๆ ค่ะ$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_HopeDefeat", "th": "สไตล์การต่อสู้ของคุณ ยอดเยี่ยมมากค่ะ…$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_HopePostBattle", "th": "ดูเหมือนคุณจะมีแวว ที่จะได้เป็นแชมเปี้ยนนะคะ$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_QuincyIntro", "th": "ถนนแชมเปี้ยนคืออะไร? ถ้าชนะผมได้ จะบอกให้!$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_QuincyDefeat", "th": "โอเค! ทำได้ดีมาก!$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_QuincyPostBattle", "th": "การผ่านที่นี่ไปได้อย่างปลอดภัย คือบททดสอบสุดท้าย ของเทรนเนอร์ทุกคน ที่มุ่งหวังจะเป็นแชมเปี้ยนโปเกมอน\\pที่นี่ถึงได้ชื่อว่า ถนนแชมเปี้ยนยังไงล่ะ$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_KatelynnIntro", "th": "ฉันไม่มีอะไรจะพูด กับคนที่มาได้ไกลขนาดนี้หรอก เข้ามาเลย!$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_KatelynnDefeat", "th": "น่าอับอายชะมัด…$"}
+{"id": "data/maps/VictoryRoad_1F/scripts.inc#VictoryRoad_1F_Text_KatelynnPostBattle", "th": "หึ เชิญผ่านไปเลย ฉันไม่สนหรอก$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_SamuelIntro", "th": "พอคิดว่าใกล้จะถึงโปเกมอนลีกแล้ว…\\pผมก็เริ่มประหม่าขึ้นมาเลย…$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_SamuelDefeat", "th": "ผมทำอะไรไม่ได้เลย…$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_SamuelPostBattle", "th": "โปเกมอนลีก ห่างไกลออกไปอีกแล้ว… ผิดหวังชะมัด…$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_ShannonIntro", "th": "จะฝ่าโปเกมอนลีกไปได้ ต้องได้รับความไว้ใจ จากโปเกมอนของตัวเองนะคะ$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_ShannonDefeat", "th": "ความสัมพันธ์ของพวกคุณ ตั้งอยู่บนความไว้ใจที่มั่นคงค่ะ$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_ShannonPostBattle", "th": "การได้อยู่ด้วยกันตลอดเวลา ทำให้ความไว้ใจระหว่างโปเกมอน กับเทรนเนอร์เติบโตขึ้นค่ะ$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_MichelleIntro", "th": "ที่นี่ไม่ใช่เส้นชัยหรอกนะ เป็นแค่จุดหนึ่ง บนเส้นทางสู่โปเกมอนลีกเท่านั้น$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_MichelleDefeat", "th": "ต้องอย่างนี้สิ!$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_MichellePostBattle", "th": "เธอทำได้แน่นอน! โปเกมอนของเธอ ต่างก็ใจจดใจจ่อ อยากลุยกันทั้งนั้น!$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_MitchellIntro", "th": "โปเกมอนของผม น่าเกรงขามระดับจักรวาลเลยล่ะ!$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_MitchellDefeat", "th": "ผมไม่เคยเจอใครแบบคุณ มาก่อนเลย$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_MitchellPostBattle", "th": "ต่อให้ไม่ได้ต่อสู้ ผมก็สัมผัสได้ถึงพลังมหาศาล ที่แผ่ออกมาจากคุณ และโปเกมอนของคุณ$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_HalleIntro", "th": "โอเค ไม่ต้องตึงเครียดขนาดนั้น! ผ่อนคลาย สบาย ๆ กันเถอะ!$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_HalleDefeat", "th": "โห! ยอดเยี่ยม!$"}
+{"id": "data/maps/VictoryRoad_B1F/scripts.inc#VictoryRoad_B1F_Text_HallePostBattle", "th": "ใช่ ที่นี่คือถนนแชมเปี้ยน\\pแต่มันก็ไม่ได้ต่างจาก เส้นทางที่เธอเดินผ่านมา เท่าไหร่หรอก\\pพยายามสนุกกับทางที่เหลือนะ!$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_VitoIntro", "th": "ผมฝึกฝนมากับครอบครัว ทุกคนเลย! ผมจะไม่แพ้ใครทั้งนั้น!$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_VitoDefeat", "th": "เก่งกว่าครอบครัวผมเหรอ?! เป็นไปได้ด้วยเหรอ?!$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_VitoPostBattle", "th": "ผมเก่งที่สุดในครอบครัว ไม่เคยแพ้มาก่อนเลย…\\pผมหมดความมั่นใจแล้ว… กลับบ้านดีกว่า…$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_OwenIntro", "th": "ได้ยินมาว่ามีเด็กตัวเล็ก ๆ ฝีมือเก่งอยู่แถวนี้ หมายถึงเธอหรือเปล่า?$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_OwenDefeat", "th": "เจ้าตัวเล็กนี่เก่งจริง!$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_OwenPostBattle", "th": "ตามข่าวลือที่ได้ยินมา เด็กตัวเล็กฝีมือเก่งคนนั้น มาจากเมืองโทกะ$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_CarolineIntro", "th": "เธอคงเริ่มเหนื่อยแล้วสินะ$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_CarolineDefeat", "th": "ไม่มีวี่แววว่าจะเหนื่อยเลย!$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_CarolinePostBattle", "th": "ถนนแชมเปี้ยนและโปเกมอนลีก เป็นการท้าชิงที่ยาวนาน และทรหด ระวังความเหนื่อยล้าด้วยล่ะ!$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_JulieIntro", "th": "อย่าเพิ่งได้ใจ แค่เพราะมีเข็มกลัดยิมเยอะนะ\\pยังไงก็ต้องมีคนที่เก่งกว่าเธอ อยู่เสมอ!$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_JulieDefeat", "th": "เธอเก่งกว่าฉัน!$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_JuliePostBattle", "th": "มองดูเข็มกลัดที่สะสมมา แล้วระลึกถึงเทรนเนอร์ ที่เธอเคยประชันมาสิ$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_FelixIntro", "th": "มาได้ไกลขนาดนี้แล้ว แต่ความตึงเครียด ทำให้ปวดท้องสุด ๆ เลย…$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_FelixDefeat", "th": "โอ๊ย… ปวด…$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_FelixPostBattle", "th": "พอรู้ว่าใกล้จะถึงโปเกมอนลีกแล้ว ผมก็อดเกร็งไม่ได้เลย\\pแค่แกล้งทำเป็นใจเย็น ก็สุดความสามารถแล้ว$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_DianneIntro", "th": "สุดยอดแห่งยอดฝีมือ ต่างมารวมตัวกัน ในถ้ำแห่งนี้\\pเธอรู้สึกยังไงบ้างล่ะ?$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_DianneDefeat", "th": "ไม่หวั่นไหวเลยสักนิด!$"}
+{"id": "data/maps/VictoryRoad_B2F/scripts.inc#VictoryRoad_B2F_Text_DiannePostBattle", "th": "เธอใจกล้าจริง ๆ! ฉันชอบนะ! สู้ต่อไปล่ะ!$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_WantToMakePokeblocks", "th": "หืม? อยากทำ {POKEBLOCK} กับตาแก่คนนี้เหรอ?$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_Excellent", "th": "เยี่ยมเลย!$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_MadeOldTimerSad", "th": "โธ่… ทำให้ตาแก่คนนี้ เสียใจซะแล้ว…$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_KnowHowToMakePokeblocks", "th": "รู้วิธีทำ {POKEBLOCK} ไหม?$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_LetsBerryBlender", "th": "งั้นเริ่มกันเลย!\\pมาปั่นเบอร์รี่กันเถอะ!$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_ExplainBerryBlending", "th": "งั้นอธิบายสักหน่อย ก็แล้วกัน\\pไม่ต้องห่วงหรอก ง่ายนิดเดียว\\pพอลูกศรของเครื่องปั่น หมุนมาถึงเครื่องหมายของหนู ก็กดปุ่ม A\\pแค่นั้นเอง ลองทำดูแล้วจะรู้ว่า มันง่ายแค่ไหน$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_DontHaveAnyBerries", "th": "หืม? ไม่มีเบอร์รี่เลยเหรอ?\\pถ้าไม่มีเบอร์รี่ ก็ทำ {POKEBLOCK} ไม่ได้นะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_CanHaveOneOfMyBerries", "th": "แบบนี้ไม่ได้การแล้วสิ\\pถ้าไม่รังเกียจของเหลือ ตาให้เบอร์รี่ของตา ไปลูกหนึ่งก็ได้\\pแล้วเราจะได้ใช้เครื่องปั่นเบอร์รี่ ทำ {POKEBLOCK} ด้วยกันไง$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_DontHaveAnyBerriesToSpare", "th": "ถ้าตามีเบอร์รี่เหลือ ก็ยินดีจะให้หนูสักลูก หรอกนะ…\\pแต่วันนี้ไม่มีเหลือเลย ไว้คราวหน้าค่อยทำกันนะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_PokeblockCaseIsFull", "th": "แต่ {POKEBLOCK} CASE ของหนูเต็มแล้วนะ\\pใช้ {POKEBLOCK} ไปบ้างก่อน แล้วค่อยมาหาตาใหม่นะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_DontHavePokeblockCase", "th": "แต่หนูยังไม่มี {POKEBLOCK} CASE นี่นา\\pไปหา {POKEBLOCK} CASE มาก่อน แล้วค่อยมาหาตานะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_LetsGetBlendingAlready", "th": "รีบปั่นกันได้แล้ว!$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_WhatKindOfPokeblockWillIGet", "th": "จะได้ {POKEBLOCK} แบบไหนกันนะ? ตื่นเต้นจังเลย!$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_WantToBlendPokeblocksWithUs", "th": "หวัดดี! อยากมาปั่น {POKEBLOCK} กับพวกเราไหม?$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_Okay", "th": "โอเค!$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_ThatsTooBad", "th": "น่าเสียดายจัง…\\pแต่พวกเราอยู่ที่นี่ตลอด ถ้าอยากปั่นเมื่อไหร่ ก็มาได้เลยนะ!$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_KnowHowToMakePokeblocks2", "th": "เธอรู้วิธีปั่น {POKEBLOCK} อยู่แล้ว ใช่ไหม?$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_LetsBerryBlender2", "th": "งั้นเริ่มกันเลย!\\pมาปั่นเบอร์รี่กันเถอะ!$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_ExplainBerryBlending2", "th": "โอเค! เดี๋ยวอธิบายให้ฟังนะ!\\pพอลูกศรของเครื่องปั่นที่หมุนอยู่ มาถึงเครื่องหมายของเธอ ก็กดปุ่ม A\\pแค่นั้นเอง ง่ายใช่ไหมล่ะ?$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_DontHaveAnyBerries2", "th": "อ้าว เดี๋ยวก่อนนะ… เธอไม่มีเบอร์รี่นี่นา\\pไม่มีเบอร์รี่ ก็ทำ {POKEBLOCK} ไม่ได้…\\pพวกเราอยู่ที่นี่ตลอด ได้เบอร์รี่มาปั่นเมื่อไหร่ ก็มาได้เลยนะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_PokeblockCaseIsFull2", "th": "อ้าว เดี๋ยวก่อนนะ… {POKEBLOCK} CASE ของเธอเต็มแล้ว\\pใช้ {POKEBLOCK} ไปบ้าง แล้วค่อยกลับมานะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_DontHavePokeblockCase2", "th": "อ้าว เดี๋ยวก่อนนะ… เธอไม่มี {POKEBLOCK} CASE นี่นา\\pไปหา {POKEBLOCK} CASE มาก่อน แล้วค่อยกลับมานะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_MakePokeblocksWithOurGroup", "th": "อุ๊ย สวัสดีจ้ะ! อยากมาทำ {POKEBLOCK} กับกลุ่มเล็ก ๆ ของพวกเราไหมจ๊ะ?$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_OhDear", "th": "อุ๊ยตาย!$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_LeftUsInShock", "th": "อุ๊ยตาย ตายแล้ว…\\pทำเอาพวกเราตกใจหมดเลยจ้ะ!$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_KnowHowToMakePokeblocks3", "th": "แน่นอนว่าหนู รู้วิธีทำ {POKEBLOCK} อยู่แล้ว ใช่ไหมจ๊ะ?$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_LetsBerryBlender3", "th": "โอเคจ้ะ! เริ่มกันเลย!\\pมาปั่นเบอร์รี่กันเถอะ!$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_ExplainBerryBlending3", "th": "อุ๊ยตาย!\\pงั้นเดี๋ยวอธิบายให้ฟัง ดี ๆ นะจ๊ะ\\pพอลูกศรของเครื่องปั่น หมุนมาถึงเครื่องหมายของหนู ก็กดปุ่ม A\\pแค่นั้นเอง ง่ายใช่ไหมล่ะจ๊ะ?$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_DontHaveAnyBerries3", "th": "หนูไม่มีเบอร์รี่ ใช่ไหมจ๊ะ?\\pถ้าไม่มีเบอร์รี่ ก็ทำ {POKEBLOCK} ไม่ได้\\pพวกเราทำ {POKEBLOCK} กันอยู่ที่นี่ตลอด ได้เบอร์รี่มาสักลูกสองลูกเมื่อไหร่ มาทำด้วยกันนะจ๊ะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_PokeblockCaseIsFull3", "th": "ดูเหมือน {POKEBLOCK} CASE ของหนู จะเต็มแล้วนะจ๊ะ\\pใช้ {POKEBLOCK} ไปบ้าง แล้วค่อยกลับมานะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_DontHavePokeblockCase3", "th": "ดูเหมือนหนูยังไม่มี {POKEBLOCK} CASE นะจ๊ะ\\pต้องมี {POKEBLOCK} CASE ก่อน แล้วค่อยกลับมานะจ๊ะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_SetNewBlenderRecord", "th": "เอาล่ะ! วันนี้แหละ ผมจะทำสถิติความเร็ว ปั่นเบอร์รี่ใหม่ให้ได้!$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_LookGoodAtBlendingJoinUs", "th": "อุ๊ยตาย! ท่าทางหนูจะปั่นเก่งนะจ๊ะ มาร่วมกับพวกเราไหม?$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_MakeDeliciousPokeblocks", "th": "หนูจะทำ {POKEBLOCK} อร่อย ๆ ให้โปเกมอนของหนู น่ารักขึ้นล่ะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_SaveGameBeforeBerryBlenderLink", "th": "จะนำเบอร์รี่มาทำเป็น {POKEBLOCK} ร่วมกับเพื่อน ๆ ด้วยเครื่องปั่นเบอร์รี่\\pบันทึกเกมก่อนเชื่อมต่อ กับเพื่อน ๆ ได้หรือไม่?$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_SearchingForFriends", "th": "กำลังค้นหาเพื่อน… … ปุ่ม B: ยกเลิก$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_Player1Arrived", "th": "{STR_VAR_1} มาถึงแล้ว$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_Player1And2Arrived", "th": "{STR_VAR_1} และ {STR_VAR_2} มาถึงแล้ว$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_AllPlayersArrived", "th": "{STR_VAR_1}, {STR_VAR_2} และ {STR_VAR_3} มาถึงแล้ว$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_NoBerriesLink", "th": "ไม่มีเบอร์รี่ ไม่สามารถใช้เครื่องปั่นเบอร์รี่ได้$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_PokeblockCaseIsFullLink", "th": "{POKEBLOCK} CASE เต็ม ไม่สามารถใช้เครื่องปั่นเบอร์รี่ได้$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_DontHavePokeblockCaseLink", "th": "ไม่มี {POKEBLOCK} CASE ไม่สามารถใช้เครื่องปั่นเบอร์รี่ได้$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_LoveMakingPokeblocks", "th": "ลุงชอบทำ {POKEBLOCK} มาก\\pลุงพกเบอร์รี่ติดตัวไว้ ตลอดเลยล่ะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_MakePokeblocksUsingBerryBlender", "th": "ถ้าหนูอยาก เรามาใช้เครื่องปั่นเบอร์รี่ ทำ {POKEBLOCK} ด้วยกันก็ได้นะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_DontHaveAnyBerriesHaveOne", "th": "หืม? ไม่มีเบอร์รี่เลยเหรอ?\\pแบบนี้ไม่ได้การแล้วสิ\\pถ้าไม่รังเกียจของเหลือ ลุงให้เบอร์รี่ของลุง ไปลูกหนึ่งก็ได้$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_UseItToMakePokeblocksTogether", "th": "เราจะเอามันมาทำ {POKEBLOCK} ด้วยกัน ด้วยเครื่องปั่นเบอร์รี่นะ$"}
+{"id": "data/scripts/berry_blender.inc#BerryBlender_Text_DontHaveAnyBerriesNoneToSpare", "th": "หืม? ไม่มีเบอร์รี่เลยเหรอ?\\pถ้าลุงมีเหลือ ก็ยินดีจะให้สักลูก หรอกนะ…\\pแต่วันนี้ไม่มีเหลือเลย ขอโทษด้วยนะ$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_ItsSoftLoamySoil", "th": "ดินร่วนซุยนุ่มมือ$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_WantToPlant", "th": "ดินร่วนซุยนุ่มมือ ต้องการปลูกเบอร์รี่ไหม?$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_PlantedOneBerry", "th": "{PLAYER} ปลูก {STR_VAR_1} หนึ่งลูก ลงในดินร่วนซุยนุ่มมือ$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_BerryGrowthStage1", "th": "มี {STR_VAR_1} ปลูกไว้ที่นี่หนึ่งลูก$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_BerryGrowthStage2", "th": "{STR_VAR_1} แตกหน่อแล้ว$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_BerryGrowthStage3", "th": "ต้น {STR_VAR_1} กำลังโตสูงขึ้น$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_BerryGrowthStage4", "th": "ดอกของ {STR_VAR_1} กำลังบาน {STR_VAR_2}$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_CareAdverbGreat", "th": "อย่างงดงามมาก$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_CareAdverbPoor", "th": "อย่างน่ารัก$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_CareAdverbGood", "th": "อย่างสวยงาม$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_WantToPick", "th": "พบ {STR_VAR_1} {STR_VAR_2} ลูก!\\pต้องการเก็บ {STR_VAR_1} ไหม?$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_PickedTheBerry", "th": "{PLAYER} เก็บ {STR_VAR_1} {STR_VAR_2} ลูก$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_PutAwayBerry", "th": "{PLAYER} เก็บ {STR_VAR_1} ไว้ในช่องเบอร์รี่ ของกระเป๋า\\pดินกลับมาร่วนซุย นุ่มมือเหมือนเดิม$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_BerryPocketFull", "th": "ช่องเบอร์รี่ในกระเป๋า เต็มแล้ว\\pไม่สามารถเก็บ {STR_VAR_1} ได้$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_BerryLeftUnpicked", "th": "{PLAYER} ไม่ได้เก็บ {STR_VAR_1}$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_WantToWater", "th": "ต้องการรดน้ำ {STR_VAR_1} ด้วย WAILMER PAIL ไหม?$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_WateredTheBerry", "th": "{PLAYER} รดน้ำ {STR_VAR_1}$"}
+{"id": "data/scripts/berry_tree.inc#BerryTree_Text_PlantIsDelighted", "th": "ต้นไม้ดูมีความสุขมาก$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ReceptionDontHavePokeblockCase", "th": "สวัสดีค่ะ!\\pที่นี่คือเคาน์เตอร์รับสมัคร โปเกมอนคอนเทสต์ค่ะ\\pอ๊ะ? ดูเหมือนคุณยังไม่มี {POKEBLOCK} CASE นะคะ\\pถ้าอย่างนั้น เราขอมอบสิ่งนี้ ให้คุณค่ะ!$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_NowThatWeveClearedThatUp", "th": "เอาล่ะค่ะ เมื่อเรียบร้อยแล้ว…\\pสวัสดีค่ะ!\\pที่นี่คือเคาน์เตอร์รับสมัคร โปเกมอนคอนเทสต์ค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ContestReception", "th": "สวัสดีค่ะ!\\pที่นี่คือเคาน์เตอร์รับสมัคร โปเกมอนคอนเทสต์ค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_CounterOnlyFor4PlayerContests", "th": "สวัสดีค่ะ!\\pเคาน์เตอร์รับสมัครนี้ สำหรับโปเกมอนคอนเทสต์ แบบผู้เล่น 4 คนเท่านั้นค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_EnterContest1", "th": "ต้องการส่งโปเกมอนของคุณ เข้าร่วมคอนเทสต์ไหมคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_WhichTopic1", "th": "ต้องการฟังเรื่องไหนคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ExplainContests", "th": "โปเกมอนคอนเทสต์ คือการแข่งขันที่เทรนเนอร์สี่คน ส่งโปเกมอนเข้าแข่งคนละหนึ่งตัว เพื่อให้กรรมการตัดสิน\\pการตัดสินในคอนเทสต์มีสองรอบ คือรอบแรกและรอบสอง\\pรอบแรกเป็นการโหวตความนิยม จากผู้ชม\\pรอบสองเป็นการแสดงของโปเกมอน ด้วยท่าต่าง ๆ\\pวางแผนการแสดงให้ดี เพื่อดึงความสนใจจากกรรมการ และสร้างความตื่นเต้นให้ผู้ชม พยายามโดดเด่นให้มากที่สุดนะคะ\\pคะแนนรอบแรกและรอบสอง จะนำมารวมกันตอนท้าย\\pโปเกมอนที่ได้คะแนนสูงสุด จะเป็นผู้ชนะค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ExplainContestTypes", "th": "คอนเทสต์มีห้าประเภทค่ะ\\pได้แก่ ความเท่ ความสวย ความน่ารัก ความฉลาด และความแกร่ง\\pเลือกคอนเทสต์ที่เหมาะกับ โปเกมอนที่คุณจะส่งเข้าแข่งนะคะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ExplainContestRanks", "th": "โปเกมอนคอนเทสต์ มีสี่ระดับค่ะ\\pได้แก่ นอร์มอล ซูเปอร์ ไฮเปอร์ และมาสเตอร์\\pระดับนอร์มอล โปเกมอนตัวไหน ก็เข้าร่วมได้ค่ะ\\pโปเกมอนที่ชนะคอนเทสต์ระดับนอร์มอล จะเลื่อนขึ้นไปแข่งระดับซูเปอร์ ในประเภทเดียวกันได้\\pในทำนองเดียวกัน ผู้ชนะระดับซูเปอร์ เลื่อนขึ้นระดับไฮเปอร์ได้ และผู้ชนะระดับไฮเปอร์ ก็เลื่อนขึ้นระดับมาสเตอร์ ในประเภทเดียวกันได้ค่ะ\\pโปเกมอนที่ชนะในระดับมาสเตอร์แล้ว สามารถแข่งในระดับมาสเตอร์ได้ บ่อยเท่าที่เทรนเนอร์ต้องการค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_EnterWhichRank", "th": "ต้องการเข้าแข่งระดับไหนคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_EnterWhichContest1", "th": "ต้องการเข้าแข่งคอนเทสต์ไหนคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_EnterWhichPokemon1", "th": "ต้องการส่งโปเกมอนตัวไหนคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_MonNotQualifiedForRank", "th": "ต้องขออภัยเป็นอย่างยิ่งค่ะ โปเกมอนของคุณ ยังไม่มีสิทธิ์แข่งขันในระดับนี้…$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_EggCannotTakePart", "th": "ขออภัยค่ะ ไข่ไม่สามารถเข้าร่วม โปเกมอนคอนเทสต์ได้$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_MonInNoConditionForContest", "th": "ดูเหมือนโปเกมอนของคุณ ไม่อยู่ในสภาพที่จะเข้าร่วม คอนเทสต์ได้นะคะ…$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_AlreadyWonEnterAnyway", "th": "อ๊ะ แต่ริบบิ้นนั่น…\\pโปเกมอนของคุณ เคยชนะคอนเทสต์นี้แล้ว ใช่ไหมคะ?\\pยังต้องการส่งเข้าคอนเทสต์นี้ อยู่หรือเปล่าคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ConfirmContestMon", "th": "โปเกมอนตัวนี้ ใช่โปเกมอนที่จะเข้าแข่ง คอนเทสต์ไหมคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_YourMonIsEntryNum4", "th": "เรียบร้อยค่ะ โปเกมอนของคุณ จะได้เข้าร่วมคอนเทสต์นี้\\pโปเกมอนของคุณคือผู้เข้าแข่งขัน หมายเลข 4 คอนเทสต์จะเริ่มในอีกไม่ช้าค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ComeThroughHere", "th": "เชิญทางนี้ค่ะ ขอให้โชคดีนะคะ!$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_PokemonWonWeHavePrize", "th": "ขอแสดงความยินดีด้วยค่ะ! โปเกมอนของคุณ เป็นผู้ชนะคอนเทสต์!\\pเราเตรียมรางวัลไว้ให้แล้ว เชิญทางนี้เลยค่ะ!$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ComeBackForPrizeLater", "th": "กรุณากลับมารับรางวัล ภายหลังนะคะ$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_GettingStartedParticipantsAsFollows", "th": "พิธีกร: สวัสดีครับ! ขอเริ่ม {STR_VAR_2} โปเกมอน ระดับ {STR_VAR_3} กันเลยครับ!\\pเทรนเนอร์ที่เข้าร่วม และโปเกมอนของพวกเขา มีดังนี้ครับ$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_GettingStartedParticipantsAsFollowsLink", "th": "พิธีกร: สวัสดีครับ! ขอเริ่ม {STR_VAR_2} โปเกมอน แบบเชื่อมต่อผู้เล่น 4 คน กันเลยครับ!\\pเทรนเนอร์ที่เข้าร่วม และโปเกมอนของพวกเขา มีดังนี้ครับ$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_EntryXTrainersMon", "th": "พิธีกร: ผู้เข้าแข่งขันหมายเลข {STR_VAR_2}! {STR_VAR_3} ของ {STR_VAR_1}!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_SeenContestantsAudienceWillVote", "th": "พิธีกร: เราได้ชมโปเกมอนผู้เข้าแข่งขัน ทั้งสี่ตัวไปแล้วครับ\\pถึงเวลาของการตัดสินรอบแรก!\\pผู้ชมจะโหวตให้โปเกมอน ผู้เข้าแข่งขันที่ชื่นชอบครับ\\pไม่ต้องรอช้า เริ่มการโหวตได้เลยครับ!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_VotingUnderWay", "th": "กำลังโหวต…$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_VotingCompleteLetsAppeal", "th": "การโหวตเสร็จสิ้นแล้วครับ!\\pระหว่างที่นับคะแนน เรามาเข้าสู่ การตัดสินรอบสองกันเลย!\\pการตัดสินรอบสอง คือช่วงเวลาการแสดง ที่ทุกคนรอคอย!\\pขอให้ผู้เข้าแข่งขัน ทำให้เราตะลึงด้วยการแสดงท่า สุดตระการตา!\\pขอดูความมุ่งมั่นกันหน่อยครับ! มาเริ่มการแสดงกันเลย!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_ThatsItForJudging", "th": "พิธีกร: การตัดสินจบลงแล้วครับ!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_ThankYouForAppeals", "th": "ขอบคุณทุกท่าน สำหรับการแสดงคุณภาพ อันยอดเยี่ยม!\\pการตัดสินทั้งหมดเสร็จสิ้นแล้ว! ขอบคุณสำหรับความพยายามครับ!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_JudgeLooksReady", "th": "ตอนนี้ เหลือเพียงการประกาศผู้ชนะ ที่ชวนให้ใจเต้นระทึก\\pท่าทางกรรมการ พร้อมจะประกาศผลแล้วครับ!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_WeWillNowDeclareWinner", "th": "กรรมการ: ขอประกาศผู้ชนะ ณ บัดนี้!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_CongratsTrainerXandMon", "th": "พิธีกร: ผู้เข้าแข่งขันหมายเลข {STR_VAR_2}!\\p{STR_VAR_3} และ {STR_VAR_1} ขอแสดงความยินดีด้วยครับ!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_CongratsPleaseCompeteAgain", "th": "พิธีกร: ขอแสดงความยินดีด้วยครับ! แล้วมาร่วมแข่งอีกนะครับ!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_AcceptYourPrize", "th": "พิธีกร: นี่ครับ! เชิญรับรางวัลได้เลยครับ!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_ConferRibbonAsPrize", "th": "เราขอมอบริบบิ้นนี้ เป็นรางวัลแก่คุณครับ!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_ReceivedRibbon", "th": "{PLAYER} ได้รับริบบิ้น$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_PutRibbonOnMon", "th": "{PLAYER} ติดริบบิ้นให้ {STR_VAR_1}$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_PickUpPrizeAtCounterLater", "th": "กรุณามารับรางวัล ที่เคาน์เตอร์รับสมัครภายหลัง แล้วมาร่วมแข่งอีกนะครับ!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_OnlyRegister4Players", "th": "ดิฉันรับสมัครผู้เล่นสี่คน สำหรับโปเกมอนคอนเทสต์เท่านั้นค่ะ\\pถ้ามีผู้เล่นอีกสามคนเชื่อมต่อ ทั้งสี่คนก็จะเข้าแข่ง คอนเทสต์เดียวกันได้\\pต้องการเข้าร่วมไหมคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ProgressWillBeSaved", "th": "ก่อนเข้าร่วมคอนเทสต์ ระบบจะบันทึกเกมของคุณค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ParticipateAnotherTime", "th": "หวังว่าคุณจะมาร่วมแข่ง ในโอกาสหน้านะคะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_EnterContest2", "th": "ต้องการเข้าร่วมคอนเทสต์ไหมคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_Explain4PlayerContest", "th": "เมื่อผู้เล่นทั้งสี่คนพร้อมแล้ว เชื่อมต่อผ่านสาย Game Link แล้วมาลงทะเบียน กับดิฉันนะคะ\\pกรุณาเลือกคอนเทสต์เดียวกัน กับผู้เข้าแข่งขันคนอื่น\\pคอนเทสต์จะเริ่มทันที ที่ผู้เล่นทุกคนลงทะเบียนเสร็จ\\pหลังจากนั้น จะใช้กติกาคอนเทสต์ ตามปกติค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_EnterWhichContest2", "th": "ต้องการเข้าแข่งคอนเทสต์ไหนคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_EnterWhichPokemon2", "th": "ต้องการส่งโปเกมอนตัวไหนคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_Transmitting", "th": "กำลังส่งข้อมูล…$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_TransmissionError", "th": "การส่งข้อมูลผิดพลาด…$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_PlayersChoseDifferentContest", "th": "คุณอาจเลือกคอนเทสต์ ต่างจากผู้เล่นคนอื่น$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_PlayersMadeDifferentChoice", "th": "คุณอาจเลือกตัวเลือก ต่างจากผู้เล่นคนอื่น$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_PleaseWaitBButtonCancel", "th": "กรุณารอสักครู่ … … ปุ่ม B: ยกเลิก$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ParticipateAnotherTime2", "th": "หวังว่าคุณจะมาร่วมแข่ง ในโอกาสหน้านะคะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_TransmissionErrorTryAgain", "th": "การส่งข้อมูลผิดพลาด กรุณาลองใหม่อีกครั้ง$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_YourMonIsEntryNumX", "th": "โปเกมอนของคุณ จะได้เข้าร่วมคอนเทสต์\\pโปเกมอนของคุณคือผู้เข้าแข่งขัน หมายเลข {STR_VAR_2}$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ContestBeginShortly", "th": "คอนเทสต์จะเริ่มในอีกไม่ช้า$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_LinkContestReception", "th": "ยินดีต้อนรับค่ะ! ที่นี่คือเคาน์เตอร์รับสมัคร โปเกมอนคอนเทสต์แบบเชื่อมต่อค่ะ\\pคุณสามารถเข้าร่วมคอนเทสต์ ร่วมกับเพื่อนหนึ่งคน หรือมากกว่านั้นได้ค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_WhichTopic2", "th": "ต้องการฟังเรื่องไหนคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_EnterContest3", "th": "ต้องการเข้าร่วมคอนเทสต์ไหมคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_EnterWhichContest3", "th": "ต้องการเข้าแข่งคอนเทสต์ไหนคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_MonInNoCondition2", "th": "ดูเหมือนโปเกมอนของคุณ ไม่อยู่ในสภาพที่จะเข้าร่วม คอนเทสต์ได้นะคะ…$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_EggCannotTakePart2", "th": "ขออภัยค่ะ ไข่ไม่สามารถเข้าร่วม โปเกมอนคอนเทสต์ได้$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_EnterWhichPokemon3", "th": "ต้องการส่งโปเกมอนตัวไหนคะ?$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_PleaseDecideLinkLeader", "th": "กรุณาตัดสินใจว่า ใครจะเป็นหัวหน้ากลุ่ม\\pจากนั้นผู้เล่นคนอื่น ต้องเลือก “เข้าร่วมกลุ่ม”$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_PlayerAt4PCounterUseGMode", "th": "มีผู้เล่นอย่างน้อยหนึ่งคน ลงทะเบียนผ่านเคาน์เตอร์รับสมัคร แบบผู้เล่น 4 คน\\pต้องมีผู้เล่นสี่คน เชื่อมต่อกันด้วยสาย GBA Game Link\\pเมื่อผู้เล่นทั้งสี่คนพร้อมแล้ว กรุณาเลือก G-MODE (โหมดโกลบอล) แล้วลงทะเบียนใหม่ อีกครั้งค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ExplainLinkContest", "th": "นี่คือคอนเทสต์สำหรับผู้เล่น สองถึงสี่คน ที่เชื่อมต่อกันด้วย Wireless Adapter หรือสาย GBA Game Link\\pผู้เข้าร่วมจะต้องเลือกโหมด ที่ต้องการเข้าร่วมก่อน\\pมีโหมดให้เลือกสองแบบค่ะ\\pE-MODE (โหมดเอเมอรัลด์) สำหรับผู้เล่นสองถึงสี่คน ที่แต่ละคนมีตลับเกม โปเกมอน เอเมอรัลด์\\pG-MODE (โหมดโกลบอล) สำหรับผู้เล่นสี่คนเท่านั้น ที่แต่ละคนมีตลับเกม โปเกมอน เอเมอรัลด์ รูบี้ หรือแซฟไฟร์\\pผู้เล่นควรปรึกษากันว่า ต้องการโหมดไหน แล้วเลือกโหมดเดียวกัน\\pเมื่อผู้เล่นทุกคนเลือกคอนเทสต์เดียวกัน ในโหมดเดียวกันแล้ว การลงทะเบียนก็จะเสร็จสมบูรณ์\\pหลังจากนั้น คอนเทสต์จะเริ่ม ตามปกติค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ExplainEMode", "th": "ใน E-MODE (โหมดเอเมอรัลด์) สามารถจัดคอนเทสต์แบบเชื่อมต่อ ได้ด้วยผู้เล่นสองถึงสี่คน ผู้เล่นแต่ละคน ต้องมีตลับเกมโปเกมอน เอเมอรัลด์\\pผู้เล่นต้องเชื่อมต่อกันด้วย Wireless Adapter หรือสาย GBA Game Link\\pถ้ามีผู้เล่นไม่ถึงสี่คน เทรนเนอร์ในฮอลล์ จะเข้าร่วมให้ครบ ผู้เข้าแข่งขันสี่คน\\pโปรดทราบว่า E-MODE ไม่มีในโปเกมอน รูบี้ หรือแซฟไฟร์ค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_ExplainGMode", "th": "G-MODE (โหมดโกลบอล) มีไว้สำหรับผู้เล่นสี่คน ที่เชื่อมต่อกันด้วยสาย GBA Game Link โดยเฉพาะ\\pผู้เล่นแต่ละคน ต้องมีตลับเกมโปเกมอน เอเมอรัลด์ รูบี้ หรือแซฟไฟร์\\pคอนเทสต์จะเริ่ม หลังจากผู้เล่นทุกคนเลือก G-MODE (โปเกมอน เอเมอรัลด์) หรือเข้าทางเคาน์เตอร์รับสมัคร แบบผู้เล่น 4 คน (โปเกมอน รูบี้ หรือแซฟไฟร์) ค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_NoWirelessAdapterInGMode", "th": "ต้องขออภัยเป็นอย่างยิ่งค่ะ\\pG-MODE ใช้งานกับ Wireless Adapter ไม่ได้\\pกรุณาเลือก E-MODE หรือลองใหม่ ด้วยสาย GBA Game Link ค่ะ$"}
+{"id": "data/scripts/contest_hall.inc#LilycoveCity_ContestLobby_Text_WhichContestMode", "th": "ต้องการเข้าแข่ง ในโหมดคอนเทสต์แบบไหนคะ?$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_GettingStartedWireless", "th": "พิธีกร: สวัสดีครับ! ขอเริ่ม {STR_VAR_2} โปเกมอน แบบเชื่อมต่อผู้เล่น 4 คน กันเลยครับ!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_ParticipantsAsFollows", "th": "เทรนเนอร์ที่เข้าร่วม และโปเกมอนของพวกเขา มีดังนี้ครับ$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_WeveSeenContestants", "th": "พิธีกร: เราได้ชมโปเกมอนผู้เข้าแข่งขัน ทั้งสี่ตัวไปแล้วครับ\\pถึงเวลาของการตัดสินรอบแรก!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_AudienceWillVote", "th": "ผู้ชมจะโหวตให้โปเกมอน ผู้เข้าแข่งขันที่ชื่นชอบครับ$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_LetVotingBegin", "th": "ไม่ต้องรอช้า เริ่มการโหวตได้เลยครับ!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_VotingComplete", "th": "การโหวตเสร็จสิ้นแล้วครับ!\\pระหว่างที่นับคะแนน เรามาเข้าสู่ การตัดสินรอบสองกันเลย!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_SecondStageOfJudging", "th": "การตัดสินรอบสอง คือช่วงเวลาการแสดง ที่ทุกคนรอคอย!\\pขอให้ผู้เข้าแข่งขัน ทำให้เราตะลึงด้วยการแสดงท่า สุดตระการตา!$"}
+{"id": "data/scripts/contest_hall.inc#ContestHall_Text_LetsAppeal", "th": "ขอดูความมุ่งมั่นกันหน่อยครับ! มาเริ่มการแสดงกันเลย!$"}
+{"id": "data/scripts/day_care.inc#Route117_Text_SeeWifeIfYoudLikeMeToRaiseMon", "th": "ตาคือคุณตา แห่งสถานรับเลี้ยงโปเกมอน\\pตาช่วยดูแลโปเกมอนแสนรัก ของเหล่าเทรนเนอร์\\pถ้าอยากให้ตาเลี้ยงโปเกมอนให้ ไปคุยกับภรรยาของตาได้เลยนะ$"}
+{"id": "data/scripts/day_care.inc#Route117_Text_DoYouWantEgg", "th": "อ้าว หนูนั่นเอง!\\pเราเลี้ยงโปเกมอนของหนูอยู่ แล้วโอ้โห ตกใจกันแทบแย่!\\pโปเกมอนของหนูมีไข่ด้วย!\\pเราไม่รู้ว่ามันมาจากไหน แต่โปเกมอนของหนู มีมันอยู่\\pหนูอยากได้ใช่ไหม?$"}
+{"id": "data/scripts/day_care.inc#Route117_Text_YourMonIsDoingFine", "th": "อ้าว หนูนั่นเอง! ดีใจที่ได้เจอนะ {STR_VAR_1} ของหนูสบายดี$"}
+{"id": "data/scripts/day_care.inc#Route117_Text_IllKeepIt", "th": "ถ้าอย่างนั้น ตาเก็บไว้เองนะ ขอบใจนะ!$"}
+{"id": "data/scripts/day_care.inc#Route117_Text_YouHaveNoRoomForIt", "th": "หนูไม่มีที่ว่างให้มันเลย… ทำที่ว่างแล้ว ค่อยกลับมานะ$"}
+{"id": "data/scripts/day_care.inc#Route117_Text_ReceivedEgg", "th": "{PLAYER} ได้รับไข่ จากคุณตาแห่งสถานรับเลี้ยงโปเกมอน$"}
+{"id": "data/scripts/day_care.inc#Route117_Text_TakeGoodCareOfIt", "th": "ดูแลมันดี ๆ นะ$"}
+{"id": "data/scripts/day_care.inc#Route117_Text_FriendlyWithOtherTrainersMon", "th": "ว่าแต่ {STR_VAR_1} ของหนูน่ะ ดูสนิทสนมกับ {STR_VAR_3} ของ {STR_VAR_2} อยู่นะ\\pตาอาจจะเห็นมัน รับจดหมายมาฉบับหนึ่งด้วยล่ะ$"}
+{"id": "data/scripts/day_care.inc#Route117_Text_SeeWifeIfYouWantToPickUpMon", "th": "ถ้าอยากมารับโปเกมอนคืน ไปคุยกับภรรยาของตานะ$"}
+{"id": "data/scripts/day_care.inc#Route117_Text_YourMonsAreDoingFine", "th": "อ้าว หนูนั่นเอง! {STR_VAR_1} กับ {STR_VAR_2} ของหนูสบายดี$"}
+{"id": "data/scripts/day_care.inc#Route117_Text_IWillKeepDoYouWantIt", "th": "ตาเก็บไว้จริง ๆ นะ หนูอยากได้ใช่ไหม?$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_WouldYouLikeUsToRaiseAMon", "th": "ยายคือคุณยาย แห่งสถานรับเลี้ยงโปเกมอน\\pเรารับเลี้ยงโปเกมอนให้ได้นะ\\pอยากให้เราเลี้ยงสักตัวไหม?$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_WhichMonShouldWeRaise", "th": "จะให้เราเลี้ยง โปเกมอนตัวไหนดี?$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_WellRaiseYourMon", "th": "ได้เลย เราจะเลี้ยง {STR_VAR_1} ของหนูไว้สักพัก\\pแล้วค่อยกลับมารับนะ$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_WeCanRaiseOneMore", "th": "เราเลี้ยงโปเกมอนของหนูได้สองตัว อยากให้เลี้ยงเพิ่มอีกตัวไหม?$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_HusbandWasLookingForYou", "th": "คุณตากำลังตามหาหนูอยู่นะ$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_FineThenComeAgain", "th": "อ้อ ได้จ้ะ แล้วมาใหม่นะ$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_NotEnoughMoney", "th": "หนูมีเงินไม่พอนะ…$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_TakeOtherOneBackToo", "th": "จะรับอีกตัวคืนไปด้วยไหม?$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_ComeAgain", "th": "ได้จ้ะ แล้วมาใหม่นะ$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_GoodToSeeYou", "th": "อ้าว หนูนั่นเอง! ดีใจที่ได้เจอนะ โปเกมอนของหนู ต้องสบายดีแน่นอน!$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_YourMonHasGrownXLevels", "th": "{STR_VAR_1} ของหนู โตขึ้นมา {STR_VAR_2} เลเวลแล้วนะ$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_YourTeamIsFull", "th": "ทีมโปเกมอนของหนูเต็มแล้ว ทำที่ว่างก่อน แล้วค่อยมาหายายนะ$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_TakeBackWhichMon", "th": "จะรับโปเกมอนตัวไหนคืน?$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_ItWillCostX", "th": "ถ้าอยากรับ {STR_VAR_1} คืน ค่าเลี้ยงดู ¥{STR_VAR_2} นะ$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_HeresYourMon", "th": "เรียบร้อย! นี่โปเกมอนของหนูจ้ะ$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_TookBackMon", "th": "{PLAYER} รับ {STR_VAR_1} คืน จากคุณยายแห่งสถานรับเลี้ยงโปเกมอน$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_YouHaveJustOneMon", "th": "อ้าว? แต่หนูมีโปเกมอน อยู่แค่ตัวเดียวนี่นา\\pไว้มาใหม่คราวหน้านะ$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_TakeYourMonBack", "th": "จะรับโปเกมอนของหนูคืนไหม?$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_WhatWillYouBattleWith", "th": "ถ้าฝากโปเกมอนตัวนั้นไว้กับยาย แล้วหนูจะเอาอะไรสู้ล่ะ?\\pไว้มาใหม่คราวหน้านะ$"}
+{"id": "data/scripts/day_care.inc#Text_EggHatchHuh", "th": "หือ?$"}
+{"id": "data/scripts/day_care.inc#Route117_PokemonDayCare_Text_YoullBeLeftWithJustOne", "th": "หือ? เดี๋ยว ๆ\\pถ้าฝากโปเกมอนตัวนั้นไว้กับยาย หนูจะเหลือโปเกมอน แค่ตัวเดียวนะ\\pยายว่าไปจับมาเพิ่มอีกสักหน่อย จะดีกว่านะ$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_WantToCut", "th": "ต้นไม้นี้ดูเหมือนจะ ตัดได้ด้วย CUT!\\pต้องการใช้ CUT ไหม?$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_MonUsedFieldMove", "th": "{STR_VAR_1} ใช้ {STR_VAR_2}!$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_CantCut", "th": "ต้นไม้นี้ดูเหมือนจะ ตัดได้ด้วย CUT!$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_WantToSmash", "th": "หินก้อนนี้ดูเหมือนจะทุบได้ ต้องการใช้ ROCK SMASH ไหม?$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_CantSmash", "th": "เป็นหินขรุขระ แต่โปเกมอน อาจทุบให้แตกได้$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_WantToStrength", "th": "เป็นหินก้อนใหญ่ แต่โปเกมอน อาจผลักให้พ้นทางได้\\pต้องการใช้ STRENGTH ไหม?$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_MonUsedStrength", "th": "{STR_VAR_1} ใช้ STRENGTH!\\pSTRENGTH ของ {STR_VAR_1} ทำให้ผลักหินก้อนใหญ่ได้แล้ว!$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_CantStrength", "th": "เป็นหินก้อนใหญ่ แต่โปเกมอน อาจผลักให้พ้นทางได้$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_StrengthActivated", "th": "STRENGTH ทำให้ผลักหินก้อนใหญ่ได้แล้ว$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_CantWaterfall", "th": "กำแพงน้ำ กำลังถาโถมลงมา พร้อมเสียงคำรามกึกก้อง$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_WantToWaterfall", "th": "เป็นน้ำตกขนาดใหญ่ ต้องการใช้ WATERFALL ไหม?$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_MonUsedWaterfall", "th": "{STR_VAR_1} ใช้ WATERFALL$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_CantDive", "th": "ทะเลตรงนี้ลึกมาก โปเกมอน อาจดำลงไปใต้น้ำได้$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_WantToDive", "th": "ทะเลตรงนี้ลึกมาก ต้องการใช้ DIVE ไหม?$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_MonUsedDive", "th": "{STR_VAR_1} ใช้ DIVE$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_CantSurface", "th": "มีแสงส่องลงมาจากด้านบน โปเกมอน อาจขึ้นสู่ผิวน้ำได้$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_WantToSurface", "th": "มีแสงส่องลงมาจากด้านบน ต้องการใช้ DIVE ไหม?$"}
+{"id": "data/scripts/field_move_scripts.inc#Text_FailSweetScent", "th": "ดูเหมือนตรงนี้จะไม่มีอะไรเลย…$"}
+{"id": "data/scripts/gift_altering_cave.inc#sText_MysteryGiftAlteringCave", "th": "ขอบคุณที่ใช้บริการ ระบบของขวัญปริศนา\\pมีข่าวลือเกี่ยวกับ การพบเห็นโปเกมอนหายาก\\pว่ากันว่าพบเห็นได้ที่ ถ้ำแปรเปลี่ยน บนเส้นทาง 103\\pลองไปสืบข่าวลือนี้ดู อาจคุ้มค่าก็ได้$"}
+{"id": "data/scripts/gift_aurora_ticket.inc#sText_AuroraTicketForYou", "th": "ขอบคุณที่ใช้บริการ ระบบของขวัญปริศนาครับ\\pคุณคือ {PLAYER} ใช่ไหมครับ มีตั๋วสำหรับคุณอยู่ที่นี่$"}
+{"id": "data/scripts/gift_aurora_ticket.inc#sText_AuroraTicketUseAtPort", "th": "ดูเหมือนจะใช้ที่ท่าเรือ เมืองมินาโมะ\\pลองไปดูสิครับ ว่ามันคืออะไร$"}
+{"id": "data/scripts/gift_aurora_ticket.inc#sText_AuroraTicketThankYou", "th": "ขอบคุณที่ใช้บริการ ระบบของขวัญปริศนาครับ$"}
+{"id": "data/scripts/gift_aurora_ticket.inc#sText_AuroraTicketBagFull", "th": "ขออภัยครับ {PLAYER} ช่องไอเท็มสำคัญ ในกระเป๋าเต็มแล้ว\\pกรุณาเก็บของบางอย่างไว้ใน PC แล้วค่อยกลับมารับนะครับ$"}
+{"id": "data/scripts/gift_battle_card.inc#sText_MysteryGiftBattleCountCard", "th": "ขอบคุณที่ใช้บริการ ระบบของขวัญปริศนาครับ\\pการ์ดนับการต่อสู้ จะบันทึกสถิติการต่อสู้ของคุณ กับเทรนเนอร์ที่มีการ์ดแบบเดียวกัน\\pตามหาและต่อสู้กับเทรนเนอร์ ที่มีการ์ดแบบเดียวกับคุณ\\pคุณสามารถดูอันดับรวมได้ จากการอ่านข่าว\\pลองดูนะครับ!$"}
+{"id": "data/scripts/gift_battle_card.inc#sText_MysteryGiftBattleCountCard_WonPrize", "th": "ขอบคุณที่ใช้บริการ ระบบของขวัญปริศนาครับ\\pขอแสดงความยินดีด้วย!\\pคุณได้รับรางวัล จากการชนะการต่อสู้สามครั้ง!\\pหวังว่าคุณจะมีแรงบันดาลใจ ในการต่อสู้ต่อไปนะครับ$"}
+{"id": "data/scripts/gift_mystic_ticket.inc#sText_MysticTicketForYou", "th": "ขอบคุณที่ใช้บริการ ระบบของขวัญปริศนาครับ\\pคุณคือ {PLAYER} ใช่ไหมครับ มีตั๋วสำหรับคุณอยู่ที่นี่$"}
+{"id": "data/scripts/gift_mystic_ticket.inc#sText_MysticTicketUseAtPort", "th": "ดูเหมือนจะใช้ที่ท่าเรือ เมืองมินาโมะ\\pลองไปดูสิครับ ว่ามันคืออะไร$"}
+{"id": "data/scripts/gift_mystic_ticket.inc#sText_MysticTicketThankYou", "th": "ขอบคุณที่ใช้บริการ ระบบของขวัญปริศนาครับ$"}
+{"id": "data/scripts/gift_mystic_ticket.inc#sText_MysticTicketBagFull", "th": "ขออภัยครับ {PLAYER} ช่องไอเท็มสำคัญ ในกระเป๋าเต็มแล้ว\\pกรุณาเก็บของบางอย่างไว้ใน PC แล้วค่อยกลับมารับนะครับ$"}
+{"id": "data/scripts/gift_old_sea_map.inc#sText_MysteryGiftOldSeaMapForYou", "th": "ขอบคุณที่ใช้บริการ ระบบของขวัญปริศนาครับ\\pขอยืนยันก่อน คุณคือ {PLAYER} ใช่ไหมครับ?\\pเราได้รับ OLD SEA MAP นี้ ซึ่งส่งถึงคุณครับ$"}
+{"id": "data/scripts/gift_old_sea_map.inc#sText_MysteryGiftOldSeaMapUseAtPort", "th": "ดูเหมือนจะใช้ที่ท่าเรือ เมืองมินาโมะ\\pลองไปดูสิครับ ว่ามันคืออะไร$"}
+{"id": "data/scripts/gift_old_sea_map.inc#sText_MysteryGiftOldSeaMapThankYou", "th": "ขอบคุณที่ใช้บริการ ระบบของขวัญปริศนาครับ$"}
+{"id": "data/scripts/gift_old_sea_map.inc#sText_MysteryGiftOldSeaMapBagFull", "th": "ขออภัยครับ {PLAYER} ช่องไอเท็มสำคัญ ในกระเป๋าเต็มแล้ว\\pกรุณาเก็บของบางอย่างไว้ใน PC แล้วค่อยกลับมารับนะครับ$"}
+{"id": "data/scripts/gift_pichu.inc#sText_MysteryGiftEgg", "th": "ขอบคุณที่ใช้บริการ ระบบของขวัญปริศนาครับ\\pเรามีของขวัญจากโปเกมอนเซ็นเตอร์ นั่นคือไข่โปเกมอน!\\pกรุณาเลี้ยงดูด้วยความรัก และความใส่ใจนะครับ$"}
+{"id": "data/scripts/gift_pichu.inc#sText_FullParty", "th": "อ้าว ดูเหมือนทีมของคุณ จะเต็มแล้ว\\pกรุณาฝากโปเกมอนไว้ใน PC แล้วค่อยมาหาผมนะครับ$"}
+{"id": "data/scripts/gift_stamp_card.inc#sText_MysteryGiftStampCard", "th": "ขอบคุณที่ใช้บริการ ระบบการ์ดสะสมแต้มครับ\\pสะสมอีก {STR_VAR_1} ดวง การ์ดสะสมแต้มของคุณ ก็จะเต็มครับ$"}
+{"id": "data/scripts/gift_trainer.inc#sText_MysteryGiftVisitingTrainerInstructions", "th": "ขอบคุณที่ใช้บริการ ระบบของขวัญปริศนาครับ\\pเมื่อถือวันเดอร์การ์ดใบนี้ คุณสามารถร่วมตอบแบบสอบถาม ที่โปเกมาร์ทได้\\pใช้แบบสอบถามนี้ เชิญเทรนเนอร์มาที่เมืองรุเนะ\\p…ผมจะบอกรหัสลับ สำหรับแบบสอบถามให้\\p“GIVE ME AWESOME TRAINER”\\pเขียนรหัสนั้นลงในแบบสอบถาม แล้วส่งไปที่ ระบบสื่อสารไร้สาย$"}
+{"id": "data/scripts/gift_trainer.inc#sText_MysteryGiftVisitingTrainerArrived", "th": "ขอบคุณที่ใช้บริการ ระบบของขวัญปริศนาครับ\\pมีเทรนเนอร์คนหนึ่ง มาถึงเมืองรุเนะ เพื่อตามหาคุณ\\pหวังว่าคุณจะสนุก กับการต่อสู้กับเทรนเนอร์ผู้มาเยือนนะครับ\\pคุณสามารถเชิญเทรนเนอร์คนอื่น ได้ด้วยการใส่รหัสอื่น\\pลองหารหัสอื่น ๆ ที่อาจใช้ได้ดูนะครับ$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_ImTheFavorLady", "th": "ฉันคือสาวขอของขวัญ…$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_ObsessedWithThing", "th": "ช่วงนี้ฉันหลงใหลของที่ {STR_VAR_1} มากเลยค่ะ…$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_ThankYouForLastTime", "th": "อ๊ะ… ขอบคุณสำหรับคราวก่อนนะคะ…$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_PlayerGaveMeBadThing", "th": "ก่อนหน้านี้ ฉันว่าเป็น {STR_VAR_3} นะคะ…\\p{STR_VAR_3} ให้ {STR_VAR_2} มาหนึ่งชิ้น บอกว่ามัน {STR_VAR_1}\\pแต่มันไม่ {STR_VAR_1} เลย ไม่แม้แต่นิดเดียว$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_PlayerGaveMeGreatThing", "th": "ก่อนหน้านี้ {STR_VAR_3} ให้ {STR_VAR_2} ที่ {STR_VAR_1} มาก ๆ กับฉัน\\pตอนนี้ฉันทะนุถนอมมัน อย่างดีเลยค่ะ$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_WillYouShareThing", "th": "นี่… ถ้าคุณมีอะไรที่ {STR_VAR_1} จะแบ่งให้ฉันได้ไหมคะ?$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_WhatWillYouGiveMe", "th": "…จริงเหรอคะ? จะให้อะไรฉันเหรอ?$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_IsThatSoGoodbye", "th": "อย่างนั้นเหรอคะ… งั้นก็ลาก่อนนะคะ…$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_NotWillingToShare", "th": "อ้อ… ไม่อยากแบ่งให้เหรอคะ?$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_IllTryToCherishIt", "th": "อ้าว? {STR_VAR_2} นั่น {STR_VAR_1} เหรอคะ?\\p…อ๋อ อย่างนั้นเหรอคะ\\pยังไงก็ขอบคุณนะคะ ฉันจะพยายามทะนุถนอมมันค่ะ…$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_IWillCherishThis", "th": "อ๊ะ…\\pเป็น {STR_VAR_2} ที่ {STR_VAR_1} ทีเดียว…\\pดีจังเลยนะคะ ราวกับอยู่ในความฝัน…\\pขอบคุณค่ะ… ฉันจะทะนุถนอมมันอย่างดี…$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_IWillTreasureThis", "th": "…โอ้ โอ้ โอ้…\\pสุดยอดไปเลย! {STR_VAR_1} จริง ๆ ด้วย!\\pไม่เคยรู้เลยว่า {STR_VAR_2} ชิ้นเดียว จะ {STR_VAR_1} ได้ขนาดนี้!\\pขอบคุณค่ะ!\\pฉันจะเก็บรักษามัน ไปตลอดชีวิตเลยค่ะ!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_IllGiveYouThisInReturn", "th": "ฉันจะให้ไอเท็มแสนวิเศษนี้ เป็นการตอบแทนของขวัญสุดเลิศ ของคุณค่ะ\\pหวังว่าคุณจะทะนุถนอมมันนะคะ…$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_YouDontHaveSpaceForIt", "th": "อ๊ะ ถ้าไม่มีที่ว่าง ก็รับไม่ได้นะคะ\\pจัดกระเป๋าให้เรียบร้อยแล้ว ค่อยมาหาฉันนะคะ…$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_ImTheQuizLady", "th": "ฉันคือสาวนักตั้งควิซ! ฉันชอบควิซที่สุด!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_WaitingToTakeYourQuiz", "th": "อ้าว?\\pฉันกำลังรอผู้ท้าชิง มาตอบควิซที่เธอตั้งไว้อยู่เลย\\pไว้ค่อยคุยกันใหม่นะ โอเคไหม?$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_WaitingForChallenger", "th": "ฉันกำลังรอใครสักคน มาท้าตอบควิซ ที่ {STR_VAR_1} คิดขึ้นมา!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_TakeQuizChallenge", "th": "ถ้าตอบถูก จะได้รับรางวัลสุดเจ๋งนะ!\\pอยากลองท้าตอบควิซไหม?$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_HowBoringBye", "th": "อ้าว น่าเบื่อจัง! บ๊ายบาย!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_YoureGoingToQuit", "th": "โธ่! จะเลิกแล้วเหรอ?$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_TakeTheQuizAnotherTime", "th": "ไว้มาท้าตอบควิซ คราวหน้านะ!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_YouGotItRight", "th": "สุดยอด! ตอบถูกด้วย! หัวไวสุด ๆ ไปเลย!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_YouGotItRightYouveWonPersonsPrize", "th": "ยินดีด้วย! ตอบควิซถูกต้อง!\\pเธอได้รับรางวัล ที่ {STR_VAR_1} มอบให้!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_XReceivedOneY", "th": "{STR_VAR_1} ได้รับ {STR_VAR_2} หนึ่งชิ้น!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_YourBagIsFilledUp", "th": "อ้าว? กระเป๋าของเธอเต็มแล้ว! มีที่ว่างเมื่อไหร่ ค่อยมาหาฉันนะ$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_WrongTheCorrectAnswerIs", "th": "อืม… ผิด! คำตอบที่ถูกคือ “{STR_VAR_3}”!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_IGetToKeepPrize", "th": "น่าเสียดาย!\\pงั้นรางวัล {STR_VAR_1} ของควิซนี้ ตกเป็นของฉันแล้ว!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_MakeYourOwnQuiz", "th": "นี่ ๆ! อยากลองตั้งควิซเองไหม?$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_MaybeNextTime", "th": "อ๋อ เข้าใจแล้ว… งั้นไว้คราวหน้านะ!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_PickYourPrize", "th": "โอเค อย่างแรกที่ต้องทำ คือเลือกรางวัล ให้คนที่ตอบควิซของเธอถูก\\pแต่ระวังนะ ถ้าคนที่มาตอบควิซ ตอบไม่ถูก ฉันจะเก็บรางวัลไว้เอง!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_QuitChoosingPrize", "th": "ถ้าไม่เลือกรางวัล ก็ตั้งควิซไม่ได้นะ\\pจะเลิกตั้งควิซหรือเปล่า?$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_WriteYourQuiz", "th": "โอ้ ดีจัง! รางวัลเยี่ยมมากเลย!\\pต่อไป ต้องเขียนคำถามควิซ และคำตอบของมัน$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_QuitWritingQuizQuestion", "th": "จะเลิกเขียนคำถามควิซ เหรอ?$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_QuitWritingQuizAnswer", "th": "จะเลิกเลือกคำตอบควิซ เหรอ?$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_IllLookForAChallenger", "th": "ขอบคุณนะ! ควิซของเธอเจ๋งมากเลย\\pฉันจะรีบไปหาคน มาท้าตอบควิซของเธอ เดี๋ยวนี้เลย$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_ImTheContestLady", "th": "ฉันคือสาวคอนเทสต์! ฉันรักคอนเทสต์สุด ๆ เลย!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_ThankForPokeblock", "th": "ขอบคุณสำหรับ {POKEBLOCK} คราวก่อนนะ!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_MyFriendDisplaysQuality", "th": "นี่คือเพื่อนของฉัน {STR_VAR_1}! มันคือสุดยอดแห่ง {STR_VAR_2}!\\pแต่ฉันคิดว่ามันจะแสดง {STR_VAR_2} ออกมาได้มากกว่านี้อีก!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_DontHaveAPokeblockCase", "th": "เพราะงั้น ฉันต้องการความช่วยเหลือจากเธอ!\\pขอ {POKEBLOCK} สักชิ้นได้ไหม? ขอแค่ชิ้นเดียวเอง!\\p…อ้าว แต่… เธอไม่มี {POKEBLOCK} CASE เหรอ? แย่จัง งั้นไว้คราวหน้านะ!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_AskingForOnePokeblock", "th": "เพราะงั้น ฉันต้องการความช่วยเหลือจากเธอ!\\pขอ {POKEBLOCK} สักชิ้นได้ไหม? ขอแค่ชิ้นเดียวเอง!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_ICantHaveOnePokeblock", "th": "โธ่! ขอ {POKEBLOCK} ชิ้นเดียว ก็ไม่ได้เหรอ?!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_WhatACheapskate", "th": "ชิส์! ขี้งกชะมัด!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_IllUseYourPokeblock", "th": "เย้! ขอบคุณนะ!\\pจะเอา {POKEBLOCK} ของเธอ ไปให้โปเกมอนของฉันกิน เดี๋ยวนี้เลย$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_NoChangeThanks", "th": "…ดูเหมือนจะไม่เปลี่ยนไป เลยสักนิด…\\pอืม…\\pเอาเถอะ! ขอบคุณมากนะ!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_ReallyImprovedThanks", "th": "เย้! มันดีใจสุด ๆ เลย!\\pฉันว่ามันช่วยเพิ่ม {STR_VAR_2} ของ {STR_VAR_1} ได้จริง ๆ ด้วย\\pขอบคุณมาก ๆ เลยนะ!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_ReadyToEnterContests", "th": "อืม…\\pฉันว่าเราอาจพร้อม ลงคอนเทสต์แล้วล่ะ\\pถ้าเห็นเราอยู่ในคอนเทสต์ไหน ช่วยเชียร์เราด้วยนะ$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_Zigzagoon", "th": "{STR_VAR_1}: กุกุ้ว!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_Kecleon", "th": "{STR_VAR_1}: อิกิกิกี้!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_Poochyena", "th": "{STR_VAR_1}: บ๊าอารุน…$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_Pikachu", "th": "{STR_VAR_1}: ปิ๊กก้า!$"}
+{"id": "data/scripts/lilycove_lady.inc#LilycoveCity_PokemonCenter_1F_Text_Skitty", "th": "{STR_VAR_1}: อุเมี้ยววว!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WantToTradeDecor", "th": "สวัสดี ผมเป็นนักแลกเปลี่ยน อยากแลกของตกแต่งกับผมไหม?$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TraderFeelingTheBlues", "th": "โธ่… ทำให้ผมเศร้าซะแล้ว…$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WeveAlreadyTraded", "th": "แต่เราเคยแลกของตกแต่งกันไปแล้วนะ คุณกับผม$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_PickADecorItem", "th": "ถ้าเห็นของตกแต่งชิ้นไหนของผม ที่อยากได้ ก็บอกมาได้เลย$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_YouDontWantAnything", "th": "ไม่อยากได้อะไรเลยเหรอ? รู้สึกเหมือนถูกเมินเลย…$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_OnceBelongedToPlayerDoYouWantIt", "th": "ของตกแต่งชิ้นนั้น เคยเป็นของ {STR_VAR_1}\\pอยากได้ไหม?$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_YouDontHaveAnyDecor", "th": "เอ่อ… เดี๋ยวนะ คุณไม่มีของตกแต่ง สักชิ้นเลยนี่!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_PickTheDecorToTrade", "th": "โอเค เลือกของตกแต่ง ที่จะแลกกับผมมาเลย$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_YouDontWantToTrade", "th": "ไม่แลกกับผมเหรอ? รู้สึกเหมือนถูกเมินเลย…$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_YouveNoRoomForThis", "th": "คุณมี {STR_VAR_2} เต็มจำนวนที่เก็บได้แล้ว ไม่มีที่ว่างสำหรับชิ้นนี้หรอก$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_SoWellTradeTheseDecor", "th": "โอเค งั้นเราจะแลก {STR_VAR_3} ของผม กับ {STR_VAR_2} ของคุณนะ?$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_ThatDecorIsInUse", "th": "ของตกแต่งชิ้นนั้น กำลังใช้งานอยู่ แลกไม่ได้หรอก$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_SendDecorToYourPC", "th": "งั้นแลกกันเลย! ผมจะส่งของตกแต่งของผม ไปที่ PC ของคุณ$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_CantTradeThatOne", "th": "อุ๊ย! ขอโทษ! ชิ้นนั้นเป็นของตกแต่ง ที่หายากมาก ผมแลกให้ไม่ได้หรอก!\\pสนใจชิ้นอื่นไหม?$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WillYouHearMyTale", "th": "ข้าคือนักเล่านิทาน ข้าจะเล่าตำนาน ของเหล่าเทรนเนอร์ในตำนานให้ฟัง\\pจะฟังเรื่องเล่าของข้าไหม?$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_StorytellerFeelingTheBlues", "th": "โธ่… ทำให้ข้าเศร้าซะแล้ว…$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WhichTaleToTell", "th": "ข้ารู้จักตำนานเหล่านี้ อยากให้ข้าเล่าเรื่องไหนล่ะ?$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_IKnowNoTales", "th": "แต่ข้าไม่รู้จัก เทรนเนอร์ในตำนานเลยสักคน จึงไม่มีเรื่องจะเล่า\\pจะไปหาเทรนเนอร์ ที่คู่ควรกับตำนานได้ที่ไหนกันนะ?$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_YouDidStatXTimes", "th": "อะไรนะ?! เธอ… เธอ…\\p{STR_VAR_2} {STR_VAR_1} ครั้งเลยเหรอ?!\\pช่างยิ่งใหญ่นัก! นี่คือการถือกำเนิด ของตำนานบทใหม่!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_CouldThereBeOtherLegends", "th": "ทำให้ข้าคิดขึ้นมาว่า อาจยังมีเทรนเนอร์คนอื่น ที่มีตำนานน่าทึ่งกว่านี้ รอให้ค้นพบอยู่ก็ได้$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_HaveYouAnyLegendaryTales", "th": "เธอเป็นเทรนเนอร์หรือเปล่า?\\pถ้าอย่างนั้นบอกข้าที มีเรื่องราวที่พอจะเรียกว่า ตำนานได้บ้างไหม?$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_HearAnotherLegendaryTale", "th": "ว่าแต่… อยากฟังตำนาน เรื่องอื่นอีกไหม?$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_NotWorthyOfLegend", "th": "อืม… ข้ายังไม่พอใจ…\\pอยากให้เธอนำเรื่องที่คู่ควร กับการเรียกว่าตำนาน มาให้ข้าบ้าง$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_IWishMorePeopleWereInterested", "th": "อยากให้มีคนสนใจฟัง มหากาพย์ของเทรนเนอร์ในตำนาน ของข้ามากกว่านี้จัง$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_SavedGameTitle", "th": "เทรนเนอร์ผู้รักการเซฟ$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_SavedGameAction", "th": "เซฟเกม$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_SavedGameStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ เซฟเกมไป {STR_VAR_1} ครั้ง!\\pไม่มีเทรนเนอร์คนไหน รอบคอบไปกว่า {STR_VAR_3} อีกแล้ว!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TrendsStartedTitle", "th": "เทรนเนอร์ผู้นำเทรนด์$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TrendsStartedAction", "th": "เริ่มเทรนด์ใหม่$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TrendsStartedStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ เริ่มเทรนด์ใหม่ {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คือผู้นำเทรนด์ ของทั่วทั้งภูมิภาคโฮเอ็น!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedTitle", "th": "เทรนเนอร์นักปลูกเบอร์รี่$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedAction", "th": "ปลูกเบอร์รี่$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ปลูกเบอร์รี่ {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คือผู้หลงรักเบอร์รี่ ในตำนาน!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_BikeTradesTitle", "th": "เทรนเนอร์ผู้รักจักรยาน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_BikeTradesAction", "th": "แลกจักรยาน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_BikeTradesStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ สลับจักรยาน {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงรักจักรยาน อย่างลึกซึ้งและหลงใหลแน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_InterviewsTitle", "th": "เทรนเนอร์ขวัญใจสื่อ$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_InterviewsAction", "th": "ถูกสัมภาษณ์$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_InterviewsStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ถูกสัมภาษณ์ {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นเทรนเนอร์ ที่เป็นที่จับตามองมากแน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TrainerBattlesTitle", "th": "เทรนเนอร์ผู้รักการต่อสู้$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TrainerBattlesAction", "th": "ต่อสู้$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TrainerBattlesStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ต่อสู้ {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นเทรนเนอร์ ที่ไม่เคยปฏิเสธโอกาสต่อสู้เลยแน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_PokemonCaughtTitle", "th": "เทรนเนอร์นักจับโปเกมอน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_PokemonCaughtAction", "th": "จับโปเกมอน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_PokemonCaughtStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ จับโปเกมอนได้ {STR_VAR_1} ตัว!\\p{STR_VAR_3} คือนักจับโปเกมอนป่า ในตำนาน!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_FishingPokemonCaughtTitle", "th": "เทรนเนอร์นักตกปลา$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_FishingPokemonCaughtAction", "th": "จับโปเกมอนด้วยคันเบ็ด$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_FishingPokemonCaughtStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ จับโปเกมอนได้ {STR_VAR_1} ตัว ระหว่างตกปลา!\\p{STR_VAR_3} คือยอดนักตกปลา ในตำนาน!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_EggsHatchedTitle", "th": "เทรนเนอร์ผู้กกไข่$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_EggsHatchedAction", "th": "ฟักไข่$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_EggsHatchedStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ฟักโปเกมอนออกจากไข่ {STR_VAR_1} ตัว!\\p{STR_VAR_3} คือผู้กกไข่ ในตำนาน!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_PokemonEvolvedTitle", "th": "เทรนเนอร์นักวิวัฒนาการ$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_PokemonEvolvedAction", "th": "ทำให้โปเกมอนวิวัฒนาการ$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_PokemonEvolvedStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ทำให้โปเกมอนวิวัฒนาการ {STR_VAR_1} ตัว!\\p{STR_VAR_3} คือสุดยอดผู้ทำให้โปเกมอน วิวัฒนาการ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedPokemonCenterTitle", "th": "เทรนเนอร์ผู้รักโปเกมอนเซ็นเตอร์$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedPokemonCenterAction", "th": "ใช้โปเกมอนเซ็นเตอร์$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedPokemonCenterStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ รักษาโปเกมอนที่โปเกมอนเซ็นเตอร์ {STR_VAR_1} ครั้ง!\\pไม่มีใครรักโปเกมอนเซ็นเตอร์ ไปกว่า {STR_VAR_3} อีกแล้ว!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_RestedAtHomeTitle", "th": "เทรนเนอร์ติดบ้าน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_RestedAtHomeAction", "th": "พักฟื้นโปเกมอนที่บ้าน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_RestedAtHomeStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ รักษาโปเกมอนที่บ้าน {STR_VAR_1} ครั้ง!\\pไม่มีใครติดบ้าน ไปกว่า {STR_VAR_3} อีกแล้ว!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_SafariGamesTitle", "th": "เทรนเนอร์ผู้รักซาฟารี$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_SafariGamesAction", "th": "เข้าซาฟารีโซน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_SafariGamesStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ เข้าซาฟารีโซน {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นเทรนเนอร์ ที่ด้านป่าเถื่อนจะโผล่ออกมา ทุกครั้งที่อยู่ในซาฟารีโซนแน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedCutTitle", "th": "เทรนเนอร์คลั่ง CUT$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedCutAction", "th": "ใช้ CUT$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedCutStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ใช้ CUT {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นเทรนเนอร์ ที่ชอบใช้ CUT สุด ๆ แน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashTitle", "th": "เทรนเนอร์นักทุบหิน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashAction", "th": "ทุบหิน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ใช้ ROCK SMASH {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นเทรนเนอร์ ที่เห็นหินแล้วต้องทุบให้หมดแน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_MovedBasesTitle", "th": "เทรนเนอร์ผู้รักการย้ายบ้าน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_MovedBasesAction", "th": "ย้ายฐานลับ$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_MovedBasesStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ย้ายฐานลับ {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คือเทรนเนอร์ ที่ชอบย้ายบ้านบ่อย ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedSplashTitle", "th": "เทรนเนอร์ผู้รัก SPLASH$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedSplashAction", "th": "ใช้ SPLASH$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedSplashStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ใช้ SPLASH {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นเทรนเนอร์ ที่ชอบดีดตัวไปมาสุด ๆ แน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedStruggleTitle", "th": "เทรนเนอร์ผู้ไม่ยอมแพ้$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedStruggleAction", "th": "ต้องพึ่งท่า STRUGGLE$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedStruggleStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ต้องพึ่งท่า STRUGGLE {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คือเทรนเนอร์ผู้ไม่ย่อท้อ ที่ไม่เคยยอมแพ้ต่ออุปสรรค!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_SlotJackpotsTitle", "th": "แชมป์สล็อต$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_SlotJackpotsAction", "th": "ได้แจ็กพอตสล็อต$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_SlotJackpotsStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ได้แจ็กพอตสล็อต {STR_VAR_1} ครั้ง\\p{STR_VAR_3} คือเทรนเนอร์ ที่โชคดีกับสล็อต!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_RouletteWinsTitle", "th": "แชมป์รูเล็ต$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_RouletteWinsAction", "th": "ชนะรูเล็ตติดต่อกัน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_RouletteWinsStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ชนะรูเล็ต {STR_VAR_1} ครั้งติดต่อกัน\\p{STR_VAR_3} โชคดีเวลาลูกบอล เด้งไปมาในรูเล็ต!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_BattleTowerChallengesTitle", "th": "ผู้ท้าชิงแบทเทิลทาวเวอร์$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_BattleTowerChallengesAction", "th": "ท้าชิงแบทเทิลทาวเวอร์$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_BattleTowerChallengesStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ท้าชิงแบทเทิลทาวเวอร์ {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คือเทรนเนอร์ ที่มุ่งสู่ความเป็นเลิศ ในแบทเทิลทาวเวอร์!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksTitle", "th": "เทรนเนอร์ผู้รักการปั่น$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksAction", "th": "ทำ {POKEBLOCK}$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ทำ {POKEBLOCK} {STR_VAR_1} ครั้ง!\\pไม่มีใครใช้เครื่องปั่นเบอร์รี่ ได้เก่งไปกว่า {STR_VAR_3} อีกแล้ว!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_EnteredContestsTitle", "th": "เทรนเนอร์ผู้รักคอนเทสต์$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_EnteredContestsAction", "th": "เข้าร่วมคอนเทสต์$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_EnteredContestsStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ เข้าร่วมคอนเทสต์ {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงชอบอวดโปเกมอน ให้คนอื่นดูแน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WonContestsTitle", "th": "ปรมาจารย์คอนเทสต์$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WonContestsAction", "th": "ชนะคอนเทสต์$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_WonContestsStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ชนะคอนเทสต์ {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นปรมาจารย์คอนเทสต์ ที่เหลือเชื่อแน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TimesShoppedTitle", "th": "นักช็อปผู้มีความสุข$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TimesShoppedAction", "th": "ช็อปปิ้ง$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TimesShoppedStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ซื้อของที่ร้าน {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นคนประเภท ที่เกิดมาเพื่อช็อปปิ้งแน่ ๆ$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedItemFinderTitle", "th": "เทรนเนอร์นักหาของ$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedItemFinderAction", "th": "ใช้ ITEMFINDER$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_UsedItemFinderStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ใช้ ITEMFINDER {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงสนุกกับการค้นหา ไอเท็มที่ซ่อนอยู่บนพื้นแน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TimesRainedTitle", "th": "เทรนเนอร์ผู้ชุ่มฝน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TimesRainedAction", "th": "โดนฝน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TimesRainedStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ โดนฝนจนเปียก {STR_VAR_1} ครั้ง!\\pเสน่ห์ของ {STR_VAR_3} คงดึงดูด แม้กระทั่งฝนแน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_CheckedPokedexTitle", "th": "นักอ่านโปเกเด็กซ์ตัวยง$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_CheckedPokedexAction", "th": "ดูโปเกเด็กซ์$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_CheckedPokedexStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ดูโปเกเด็กซ์ {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงชอบศึกษาโปเกมอน ในโปเกเด็กซ์แน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_ReceivedRibbonsTitle", "th": "นักสะสมริบบิ้น$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_ReceivedRibbonsAction", "th": "ได้รับริบบิ้น$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_ReceivedRibbonsStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ได้รับริบบิ้น {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงเป็นเทรนเนอร์ ที่ชอบสะสมริบบิ้นแน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_LedgesJumpedTitle", "th": "เทรนเนอร์นักกระโดดขอบผา$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_LedgesJumpedAction", "th": "กระโดดลงขอบผา$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_LedgesJumpedStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ กระโดดลงขอบผา {STR_VAR_1} ครั้ง!\\pถ้ามีขอบผาให้กระโดด {STR_VAR_3} ก็อดใจไม่ไหว!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TVWatchedTitle", "th": "นักดูทีวีในตำนาน$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TVWatchedAction", "th": "ดูทีวี$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_TVWatchedStory", "th": "นี่คือเรื่องราวของเทรนเนอร์ ชื่อ {STR_VAR_3}\\pเทรนเนอร์ผู้นี้ ดูทีวี {STR_VAR_1} ครั้ง!\\p{STR_VAR_3} คงชอบดูทีวีแน่ ๆ!$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_CheckedClockTitle", "th": "เทรนเนอร์ผู้ตรงต่อเวลา$"}
+{"id": "data/scripts/mauville_man.inc#MauvilleCity_PokemonCenter_1F_Text_CheckedClockAction", "th": "ดูเวลา$"}

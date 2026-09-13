@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,21 +89,32 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
+BATTLE TENT	แบทเทิลเต็นท์	frontier	
+FIRE	FIRE	type	คงภาษาอังกฤษตามต้นฉบับ
+WATER	WATER	type	คงภาษาอังกฤษตามต้นฉบับ
+GRASS	GRASS	type	คงภาษาอังกฤษตามต้นฉบับ
+DRAGON	DRAGON	type	คงภาษาอังกฤษตามต้นฉบับ
+POKé BALL	POKé BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+IRON	IRON	item	คงภาษาอังกฤษตามต้นฉบับ
+CARBOS	CARBOS	item	คงภาษาอังกฤษตามต้นฉบับ
+CALCIUM	CALCIUM	item	คงภาษาอังกฤษตามต้นฉบับ
+ZINC	ZINC	item	คงภาษาอังกฤษตามต้นฉบับ
+POKé DOLL	POKé DOLL	item	คงภาษาอังกฤษตามต้นฉบับ
+BLUE ORB	BLUE ORB	item	คงภาษาอังกฤษตามต้นฉบับ
+METEORITE	METEORITE	item	คงภาษาอังกฤษตามต้นฉบับ
+MAGMA EMBLEM	MAGMA EMBLEM	item	คงภาษาอังกฤษตามต้นฉบับ
+SURF	SURF	move	คงภาษาอังกฤษตามต้นฉบับ
+AURORA BEAM	AURORA BEAM	move	คงภาษาอังกฤษตามต้นฉบับ
+COUNTER	COUNTER	move	คงภาษาอังกฤษตามต้นฉบับ
+PETAL DANCE	PETAL DANCE	move	คงภาษาอังกฤษตามต้นฉบับ
+LEECH LIFE	LEECH LIFE	move	คงภาษาอังกฤษตามต้นฉบับ
+WATER SPORT	WATER SPORT	move	คงภาษาอังกฤษตามต้นฉบับ
 TV	ทีวี	decoration	
-POKé BALL	มอนสเตอร์บอล	item	
-IRON	โบรมเฮกซีน	item	
-CARBOS	อินโดเมทาซิน	item	
-CALCIUM	ลิโซเทียม	item	
-ZINC	ไคโตซาน	item	
-POKé DOLL	ตุ๊กตาปิปปี	item	
-BLUE ORB	ลูกแก้วคราม	item	
-METEORITE	อุกกาบาต	item	
-MAGMA EMBLEM	ตราแม็กม่า	item	
 LITTLEROOT TOWN	เมืองมิชิโระ	location	
 SLATEPORT CITY	เมืองไคนะ	location	
 LILYCOVE CITY	เมืองมินาโมะ	location	
@@ -116,16 +127,6 @@ ROUTE 1	เส้นทาง 1	location
 ROUTE 10	เส้นทาง 10	location	
 ROUTE 13	เส้นทาง 13	location	
 AQUA HIDEOUT	ฐานแก๊งอควา	location	
-FIRE	ไฟ	type	
-WATER	น้ำ	type	
-GRASS	หญ้า	type	
-DRAGON	มังกร	type	
-SURF	โต้คลื่น	move	
-AURORA BEAM	ออโรร่าบีม	move	
-COUNTER	เคาน์เตอร์	move	
-PETAL DANCE	ระบำกลีบดอก	move	
-LEECH LIFE	ดูดเลือด	move	
-WATER SPORT	เล่นน้ำ	move	
 TEAM AQUA	แก๊งอควา	trainer_class	
 TEAM MAGMA	แก๊งแม็กม่า	trainer_class	
 INTERVIEWER	ผู้สัมภาษณ์	trainer_class	

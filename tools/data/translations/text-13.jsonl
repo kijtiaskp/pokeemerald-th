@@ -1,0 +1,400 @@
+{"id": "data/text/contest_strings.inc#gText_BadlyStartleSmartAppeals", "th": "ทำให้โปเกมอนที่แสดงประเภทฉลาด ตกใจอย่างแรง$"}
+{"id": "data/text/contest_strings.inc#gText_BadlyStartleToughAppeals", "th": "ทำให้โปเกมอนที่แสดงประเภทแข็งแกร่ง ตกใจอย่างแรง$"}
+{"id": "data/text/contest_strings.inc#gText_MakeMonAfterUserNervous", "th": "ทำให้โปเกมอน 1 ตัวที่แสดงหลังผู้ใช้ ประหม่า$"}
+{"id": "data/text/contest_strings.inc#gText_MakeAllMonsAfterUserNervous", "th": "ทำให้โปเกมอนทุกตัวที่แสดงหลังผู้ใช้ ประหม่า$"}
+{"id": "data/text/contest_strings.inc#gText_WorsenConditionOfThoseMadeAppeals", "th": "ทำให้สภาพของตัวที่แสดงไปแล้ว แย่ลง$"}
+{"id": "data/text/contest_strings.inc#gText_BadlyStartleMonsGoodCondition", "th": "ทำให้โปเกมอนที่สภาพดี ตกใจอย่างแรง$"}
+{"id": "data/text/contest_strings.inc#gText_AppealGreatIfPerformedFirst", "th": "ได้ผลดีมากถ้าแสดงเป็นลำดับแรก$"}
+{"id": "data/text/contest_strings.inc#gText_AppealGreatIfPerformedLast", "th": "ได้ผลดีมากถ้าแสดงเป็นลำดับสุดท้าย$"}
+{"id": "data/text/contest_strings.inc#gText_AppealAsGoodAsThoseBeforeIt", "th": "ทำให้การแสดงดีพอ ๆ กับ ทุกตัวที่แสดงก่อนหน้า$"}
+{"id": "data/text/contest_strings.inc#gText_AppealAsGoodAsOneBeforeIt", "th": "ทำให้การแสดงดีพอ ๆ กับ ตัวที่แสดงก่อนหน้า$"}
+{"id": "data/text/contest_strings.inc#gText_AppealBetterLaterItsPerformed", "th": "ยิ่งแสดงช้า ยิ่งได้ผลดี$"}
+{"id": "data/text/contest_strings.inc#gText_AppealVariesDependingOnTiming", "th": "คุณภาพการแสดง ขึ้นอยู่กับจังหวะเวลา$"}
+{"id": "data/text/contest_strings.inc#gText_WorksWellIfSameTypeAsBefore", "th": "ได้ผลดีถ้าเป็นประเภทเดียวกับ ท่าที่แสดงก่อนหน้า$"}
+{"id": "data/text/contest_strings.inc#gText_WorksWellIfDifferentTypeAsBefore", "th": "ได้ผลดีถ้าต่างประเภทกับ ท่าที่แสดงก่อนหน้า$"}
+{"id": "data/text/contest_strings.inc#gText_AffectedByAppealInFront", "th": "ได้รับผลจากการแสดง ของตัวที่แสดงก่อนหน้า$"}
+{"id": "data/text/contest_strings.inc#gText_UpsConditionHelpsPreventNervousness", "th": "เพิ่มสภาพของผู้ใช้ ช่วยป้องกันการประหม่า$"}
+{"id": "data/text/contest_strings.inc#gText_AppealWorksWellIfConditionGood", "th": "ได้ผลดีถ้าผู้ใช้ อยู่ในสภาพดี$"}
+{"id": "data/text/contest_strings.inc#gText_NextAppealMadeEarlier", "th": "เทิร์นหน้าจะได้แสดงเร็วขึ้น$"}
+{"id": "data/text/contest_strings.inc#gText_NextAppealMadeLater", "th": "เทิร์นหน้าจะได้แสดงช้าลง$"}
+{"id": "data/text/contest_strings.inc#gText_TurnOrderMoreEasilyScrambled", "th": "ทำให้ลำดับในเทิร์นหน้า สลับได้ง่ายขึ้น$"}
+{"id": "data/text/contest_strings.inc#gText_ScrambleOrderOfNextAppeals", "th": "สลับลำดับการแสดง ในเทิร์นหน้า$"}
+{"id": "data/text/contest_strings.inc#gText_AppealExcitesAudienceInAnyContest", "th": "ทำให้ผู้ชมคึกคักได้ ในคอนเทสต์ทุกประเภท$"}
+{"id": "data/text/contest_strings.inc#gText_BadlyStartlesMonsGoodAppeals", "th": "ทำให้โปเกมอนทุกตัวที่แสดงได้ดี ตกใจอย่างแรง$"}
+{"id": "data/text/contest_strings.inc#gText_AppealBestMoreCrowdExcited", "th": "ยิ่งผู้ชมคึกคัก ยิ่งได้ผลดี$"}
+{"id": "data/text/contest_strings.inc#gText_TemporarilyStopCrowdExcited", "th": "หยุดความคึกคักของผู้ชม ไว้ชั่วคราว$"}
+{"id": "data/text/contest_strings.inc#gText_RainDance", "th": "RAIN DANCE$"}
+{"id": "data/text/contest_strings.inc#gText_Rage", "th": "RAGE$"}
+{"id": "data/text/contest_strings.inc#gText_FocusEnergy", "th": "FOCUS ENERGY$"}
+{"id": "data/text/contest_strings.inc#gText_Hypnosis", "th": "HYPNOSIS$"}
+{"id": "data/text/contest_strings.inc#gText_Softboiled", "th": "SOFTBOILED$"}
+{"id": "data/text/contest_strings.inc#gText_HornAttack", "th": "HORN ATTACK$"}
+{"id": "data/text/contest_strings.inc#gText_SwordsDance", "th": "SWORDS DANCE$"}
+{"id": "data/text/contest_strings.inc#gText_Conversion", "th": "CONVERSION$"}
+{"id": "data/text/contest_strings.inc#gText_SunnyDay", "th": "SUNNY DAY$"}
+{"id": "data/text/contest_strings.inc#gText_Rest2", "th": "REST$"}
+{"id": "data/text/contest_strings.inc#gText_Vicegrip", "th": "VICEGRIP$"}
+{"id": "data/text/contest_strings.inc#gText_DefenseCurl", "th": "DEFENSE CURL$"}
+{"id": "data/text/contest_strings.inc#gText_LockOn", "th": "LOCK-ON$"}
+{"id": "data/text/contest_strings.inc#gContestMoveTypeCoolText", "th": "เท่$"}
+{"id": "data/text/contest_strings.inc#gContestMoveTypeBeautyText", "th": "สวยงาม$"}
+{"id": "data/text/contest_strings.inc#gContestMoveTypeCuteText", "th": "น่ารัก$"}
+{"id": "data/text/contest_strings.inc#gContestMoveTypeSmartText", "th": "ฉลาด$"}
+{"id": "data/text/contest_strings.inc#gContestMoveTypeToughText", "th": "แข็งแกร่ง$"}
+{"id": "data/text/contest_strings.inc#gText_AppealNumWhichMoveWillBePlayed", "th": "การแสดงรอบที่ {STR_VAR_1}! จะใช้ท่าไหนดี?$"}
+{"id": "data/text/contest_strings.inc#gText_AppealNumButItCantParticipate", "th": "การแสดงรอบที่ {STR_VAR_1}! แต่ร่วมแสดงไม่ได้!$"}
+{"id": "data/text/contest_strings.inc#gText_MonAppealedWithMove", "th": "{STR_VAR_1} แสดงท่า {STR_VAR_2}!$"}
+{"id": "data/text/contest_strings.inc#gText_MonWasWatchingOthers", "th": "{STR_VAR_1} กำลังดูตัวอื่นแสดง{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_AllOutOfAppealTime", "th": "หมดเวลาการแสดงแล้ว!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_ButAppealWasJammed", "th": "แต่การแสดงถูกรบกวน$"}
+{"id": "data/text/contest_strings.inc#gText_FollowedAnotherMonsLead", "th": "แสดงตามโปเกมอนตัวอื่น$"}
+{"id": "data/text/contest_strings.inc#gText_ButItMessedUp", "th": "แต่พลาดท่า$"}
+{"id": "data/text/contest_strings.inc#gText_WentBetterThanUsual", "th": "ทำได้ดีกว่าปกติ$"}
+{"id": "data/text/contest_strings.inc#gText_JudgeLookedAwayForSomeReason", "th": "กรรมการเบือนหน้าหนี ด้วยเหตุผลบางอย่าง$"}
+{"id": "data/text/contest_strings.inc#gText_WorkedHardToBuildOnPastMistakes", "th": "พยายามเต็มที่ เพื่อแก้ตัวจากความผิดพลาดที่ผ่านมา$"}
+{"id": "data/text/contest_strings.inc#gText_CantMakeAnyMoreMoves", "th": "ใช้ท่าต่อไม่ได้อีกแล้ว$"}
+{"id": "data/text/contest_strings.inc#gText_WorkedFrighteninglyWell", "th": "ได้ผลดีอย่างน่าตกใจ$"}
+{"id": "data/text/contest_strings.inc#gText_WorkedHardAsStandoutMon", "th": "พยายามเต็มที่ พอ ๆ กับโปเกมอนที่โดดเด่น$"}
+{"id": "data/text/contest_strings.inc#gText_JudgedLookedOnExpectantly", "th": "กรรมการมองอย่างคาดหวัง$"}
+{"id": "data/text/contest_strings.inc#gText_WorkedRatherWell", "th": "ได้ผลค่อนข้างดี$"}
+{"id": "data/text/contest_strings.inc#gText_WorkedLittleBetterThanUsual", "th": "ได้ผลดีกว่าปกติเล็กน้อย$"}
+{"id": "data/text/contest_strings.inc#gText_MonFailedToStandOutAtAll", "th": "{STR_VAR_1} ไม่โดดเด่นเลยสักนิด…{PAUSE_UNTIL_PRESS}$"}
+{"id": "data/text/contest_strings.inc#gText_MonDidntStandOutVeryMuch", "th": "{STR_VAR_1} ไม่ค่อยโดดเด่นเท่าไร…{PAUSE_UNTIL_PRESS}$"}
+{"id": "data/text/contest_strings.inc#gText_MonCaughtALittleAttention", "th": "{STR_VAR_1} เรียกความสนใจได้เล็กน้อย{PAUSE_UNTIL_PRESS}$"}
+{"id": "data/text/contest_strings.inc#gText_MonAttractedALotOfAttention", "th": "{STR_VAR_1} เรียกความสนใจได้มาก{PAUSE_UNTIL_PRESS}$"}
+{"id": "data/text/contest_strings.inc#gText_MonCommandedTotalAttention", "th": "{STR_VAR_1} ดึงความสนใจไปได้ทั้งหมด{PAUSE_UNTIL_PRESS}$"}
+{"id": "data/text/contest_strings.inc#gText_MonHasntMadeItsAppeal", "th": "{STR_VAR_1} ยังไม่ได้แสดง{PAUSE_UNTIL_PRESS}$"}
+{"id": "data/text/contest_strings.inc#gText_AnticipationSwelledForMonsAppealNext2", "th": "ทุกคนตั้งตารอการแสดงต่อไป ของ {STR_VAR_1}$"}
+{"id": "data/text/contest_strings.inc#gText_JudgesViewsOnMonHeldFirm", "th": "ความเห็นของกรรมการที่มีต่อ {STR_VAR_1} ยังคงเดิม$"}
+{"id": "data/text/contest_strings.inc#gText_MonsXChangedPerceptions", "th": "{STR_VAR_3} ของ {STR_VAR_1} เปลี่ยนมุมมองของผู้ชม$"}
+{"id": "data/text/contest_strings.inc#gText_MonsAppealEffectWoreOff", "th": "ผลการแสดงของ {STR_VAR_1} หมดไปแล้ว$"}
+{"id": "data/text/contest_strings.inc#gText_SpecialAppealsEffectWoreOff", "th": "ผลของการแสดงพิเศษ หมดไปแล้ว$"}
+{"id": "data/text/contest_strings.inc#gText_EveryonesAppealsMadeToLookSame", "th": "การแสดงของทุกตัว ดูเหมือนกันหมด$"}
+{"id": "data/text/contest_strings.inc#gText_CheapenedMonsAppeal", "th": "ทำให้การแสดงของ {STR_VAR_2} ด้อยค่าลง$"}
+{"id": "data/text/contest_strings.inc#gText_CheapenedAppealOfThoseAhead", "th": "ทำให้การแสดงของตัวที่แสดงก่อนหน้า ด้อยค่าลง$"}
+{"id": "data/text/contest_strings.inc#gText_StoleAttentionAwayFromMon", "th": "แย่งความสนใจไปจาก {STR_VAR_2}$"}
+{"id": "data/text/contest_strings.inc#gText_CheapenedMonsAppeal2", "th": "ทำให้การแสดงของ {STR_VAR_2} ด้อยค่าลง$"}
+{"id": "data/text/contest_strings.inc#gText_SeverelyCheapenedOtherAppeals", "th": "ทำให้การแสดงของตัวอื่น ด้อยค่าลงอย่างมาก$"}
+{"id": "data/text/contest_strings.inc#gText_AnticipationSwelledForMonsAppealNext", "th": "ทุกคนตั้งตารอการแสดงต่อไป ของ {STR_VAR_1}$"}
+{"id": "data/text/contest_strings.inc#gText_CheapenedAppealOfThoseAhead2", "th": "ทำให้การแสดงของตัวที่แสดงก่อนหน้า ด้อยค่าลง$"}
+{"id": "data/text/contest_strings.inc#gText_CheapenedJudgesFavoriteAppeal", "th": "ทำให้การแสดงที่กรรมการชอบ ด้อยค่าลง$"}
+{"id": "data/text/contest_strings.inc#gText_AppealsOfOthersCheapenedByHalf", "th": "การแสดงของตัวอื่น ด้อยค่าลงครึ่งหนึ่ง$"}
+{"id": "data/text/contest_strings.inc#gText_StoodOutToMakeUpForBeingJammed", "th": "โดดเด่นขึ้นมา ชดเชยที่ถูกรบกวน$"}
+{"id": "data/text/contest_strings.inc#gText_CantParticipateInAppealsAnyMore", "th": "ร่วมการแสดงต่อไม่ได้อีกแล้ว$"}
+{"id": "data/text/contest_strings.inc#gText_TouchedJudgeForFantasticAppeal", "th": "การแสดงสุดยอด จนกรรมการประทับใจ$"}
+{"id": "data/text/contest_strings.inc#gText_AnticipationRoseForUpcomingAppeals", "th": "ทุกคนตั้งตารอการแสดงที่จะตามมา$"}
+{"id": "data/text/contest_strings.inc#gText_StoodOutAsMuchAsSpecialAppeals", "th": "โดดเด่นพอ ๆ กับการแสดงพิเศษ$"}
+{"id": "data/text/contest_strings.inc#gText_StoodOutAsMuchAsMon", "th": "โดดเด่นพอ ๆ กับ {STR_VAR_1}$"}
+{"id": "data/text/contest_strings.inc#gText_JammedAppealsMadeEvenLessNoticeable", "th": "การแสดงที่ถูกรบกวน ยิ่งไม่เป็นที่สังเกต$"}
+{"id": "data/text/contest_strings.inc#gText_EveryonesAppealsMadeSame", "th": "การแสดงของทุกตัว กลายเป็นเหมือนกันหมด$"}
+{"id": "data/text/contest_strings.inc#gText_BecameMoreConsciousOfOtherMons", "th": "ระวังโปเกมอนตัวอื่นมากขึ้น{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonCantMakeAnAppealAfterThis", "th": "{STR_VAR_1} แสดงต่อจากนี้ไม่ได้แล้ว{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_SettledDownJustLittleBit", "th": "สงบลงได้นิดหน่อย{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_BecameObliviousToOtherMons", "th": "ไม่สนใจโปเกมอนตัวอื่นเลย{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_BecameLessAwareOfOtherMons", "th": "สนใจโปเกมอนตัวอื่นน้อยลง{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_StoppedCaringAboutOtherMons", "th": "เลิกใส่ใจโปเกมอนตัวอื่นแล้ว{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_TriedToStartleOtherMons", "th": "พยายามทำให้โปเกมอนตัวอื่นตกใจ{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_TriedToDazzleOthers", "th": "พยายามทำให้ตัวอื่นตาพร่า{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_JudgeLookedAwayFromMon", "th": "กรรมการเบือนหน้าหนีจาก {STR_VAR_1}{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_TriedToUnnerveNextMon", "th": "พยายามทำให้โปเกมอนตัวถัดไปประหม่า{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonBecameNervous", "th": "{STR_VAR_1} ประหม่าขึ้นมา{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_AppealTriedToUnnerveWaitingMons", "th": "การแสดงพยายามทำให้โปเกมอน ที่รอคิวอยู่ประหม่า{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_TauntedMonsDoingWell", "th": "ยั่วยุโปเกมอนที่ทำได้ดี{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonRegainedItsForm", "th": "{STR_VAR_1} กลับมาอยู่ในฟอร์มเดิม{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_TriedToJamMonDoingWell", "th": "พยายามรบกวนโปเกมอนที่ทำได้ดี{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_StandoutMonHustledEvenMore", "th": "{STR_VAR_1} ที่โดดเด่น ยิ่งฮึกเหิมขึ้นอีก{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_LargelyUnnoticedMonWorkedHard", "th": "{STR_VAR_1} ที่แทบไม่มีใครสนใจ พยายามเต็มที่{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_WorkedAsMuchAsMonBefore", "th": "ทำได้ดีพอ ๆ กับโปเกมอนที่แสดงก่อนหน้า{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsAppealDidNotGoWell", "th": "การแสดงของ {STR_VAR_1} ไม่ค่อยดีนัก{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_WorkedAsMuchAsPrecedingMon", "th": "ทำได้ดีพอ ๆ กับโปเกมอนตัวก่อนหน้า{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsAppealDidNotGoWell2", "th": "การแสดงของ {STR_VAR_1} ไม่ค่อยดีนัก{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsAppealDidNotGoWell3", "th": "การแสดงของ {STR_VAR_1} ไม่ค่อยดีนัก{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsAppealWentSlightlyWell", "th": "การแสดงของ {STR_VAR_1} ออกมาดีเล็กน้อย{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsAppealWentPrettyWell", "th": "การแสดงของ {STR_VAR_1} ออกมาค่อนข้างดี{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsAppealWentExcellently", "th": "การแสดงของ {STR_VAR_1} ออกมายอดเยี่ยม{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsAppealWasDud", "th": "การแสดงของ {STR_VAR_1} ล้มเหลว{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsAppealDidNotWorkVeryWell", "th": "การแสดงของ {STR_VAR_1} ได้ผลไม่ค่อยดี{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsAppealWentSlightlyWell2", "th": "การแสดงของ {STR_VAR_1} ออกมาดีเล็กน้อย{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsAppealWentPrettyWell2", "th": "การแสดงของ {STR_VAR_1} ออกมาค่อนข้างดี{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsAppealWentVeryWell", "th": "การแสดงของ {STR_VAR_1} ออกมาดีมาก{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsAppealWentExcellently2", "th": "การแสดงของ {STR_VAR_1} ออกมายอดเยี่ยม{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_SameTypeAsOneBeforeGood", "th": "เป็นประเภทเดียวกับโปเกมอนตัวก่อน ดีมาก!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_NotSameTypeAsOneBeforeGood", "th": "ไม่ใช่ประเภทเดียวกับตัวก่อน ดีมาก!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_StoodOutMuchMoreThanMonBefore", "th": "โดดเด่นกว่าโปเกมอนตัวก่อนมาก{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_DidntDoAsWellAsMonBefore", "th": "ทำได้ไม่ดีเท่าโปเกมอนตัวก่อน{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsConditionRoseAboveUsual", "th": "สภาพของ {STR_VAR_1} ดีกว่าปกติ{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsHotStatusMadeGreatAppeal", "th": "สภาพที่กำลังร้อนแรงของ {STR_VAR_1} ทำให้การแสดงยอดเยี่ยม!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MovedUpInLineForNextAppeal", "th": "ได้เลื่อนลำดับขึ้น ในการแสดงครั้งต่อไป{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MovedBackInLineForNextAppeal", "th": "ถูกเลื่อนลำดับลง 1 ขั้น ในการแสดงครั้งต่อไป{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_ScrambledUpOrderForNextTurn", "th": "สลับลำดับในเทิร์นถัดไป{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_JudgeLookedAtMonExpectantly", "th": "กรรมการมอง {STR_VAR_1} อย่างคาดหวัง{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_AppealComboWentOverWell", "th": "คอมโบการแสดงได้ผลดี{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_AppealComboWentOverVeryWell", "th": "คอมโบการแสดงได้ผลดีมาก{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_AppealComboWentOverExcellently", "th": "คอมโบการแสดงได้ผลยอดเยี่ยม{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonManagedToAvertGaze", "th": "{STR_VAR_1} หลบสายตาได้ทัน{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonManagedToAvoidSeeingIt", "th": "{STR_VAR_1} เลี่ยงไม่มองได้ทัน{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonIsntFazedByThatSortOfThing", "th": "{STR_VAR_1} ไม่หวั่นกับเรื่องแค่นี้{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonBecameALittleDistracted", "th": "{STR_VAR_1} เสียสมาธิไปเล็กน้อย{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_TriedToStartleOtherPokemon", "th": "พยายามทำให้โปเกมอนตัวอื่นตกใจ{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonLookedDownOutOfDistraction", "th": "{STR_VAR_1} เสียสมาธิจนก้มหน้าลง{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonTurnedBackOutOfDistraction", "th": "{STR_VAR_1} เสียสมาธิจนหันหลังกลับ{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonCouldntHelpUtteringCry", "th": "{STR_VAR_1} อดร้องออกมาไม่ได้{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonCouldntHelpLeapingUp", "th": "{STR_VAR_1} อดกระโดดขึ้นไม่ได้{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonTrippedOutOfDistraction", "th": "{STR_VAR_1} เสียสมาธิจนสะดุดล้ม{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonWasTooNervousToMove", "th": "{STR_VAR_1} ประหม่าจนขยับไม่ได้{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_ButItMessedUp2", "th": "แต่พลาดท่า{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_ButItFailedToMakeTargetNervous", "th": "แต่ทำให้เป้าหมายประหม่าไม่สำเร็จ{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_ButItFailedToMakeAnyoneNervous", "th": "แต่ไม่ทำให้ใครประหม่าเลย{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_ButItWasIgnored", "th": "แต่ถูกเมินเฉย…{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_CouldntImproveItsCondition", "th": "แต่สภาพไม่ดีขึ้นเลย…{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_BadConditionResultedInWeakAppeal", "th": "สภาพที่ย่ำแย่ ทำให้การแสดงอ่อนลง{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonWasUnaffected", "th": "{STR_VAR_1} ไม่ได้รับผลกระทบ{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_RepeatedAppeal", "th": "{STR_VAR_1} ทำให้ผิดหวัง เพราะแสดงซ้ำท่าเดิม{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsXWentOverGreat", "th": "{STR_VAR_3} ของ {STR_VAR_1} ได้ผลดีมาก{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsXDidntGoOverWell", "th": "{STR_VAR_3} ของ {STR_VAR_1} ไม่ค่อยได้ผลในที่นี้…{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsXGotTheCrowdGoing", "th": "{STR_VAR_3} ของ {STR_VAR_1} ทำให้ผู้ชมคึกคัก{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonCantAppealNextTurn", "th": "{STR_VAR_1} แสดงในเทิร์นหน้าไม่ได้…{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_AttractedCrowdsAttention", "th": "ดึงดูดความสนใจของผู้ชม{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_CrowdContinuesToWatchMon", "th": "ผู้ชมยังคงจับตามอง {STR_VAR_3}{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_MonsMoveIsIgnored", "th": "{STR_VAR_2} ของ {STR_VAR_1} ถูกเมินเฉย{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/contest_strings.inc#gText_Contest_Shyness", "th": "ความขี้อาย$"}
+{"id": "data/text/contest_strings.inc#gText_Contest_Anxiety", "th": "ความกังวล$"}
+{"id": "data/text/contest_strings.inc#gText_Contest_Laziness", "th": "ความขี้เกียจ$"}
+{"id": "data/text/contest_strings.inc#gText_Contest_Hesitancy", "th": "ความลังเล$"}
+{"id": "data/text/contest_strings.inc#gText_Contest_Fear", "th": "ความกลัว$"}
+{"id": "data/text/contest_strings.inc#gText_Contest_Coolness", "th": "ความเท่$"}
+{"id": "data/text/contest_strings.inc#gText_Contest_Beauty", "th": "ความสวยงาม$"}
+{"id": "data/text/contest_strings.inc#gText_Contest_Cuteness", "th": "ความน่ารัก$"}
+{"id": "data/text/contest_strings.inc#gText_Contest_Smartness", "th": "ความฉลาด$"}
+{"id": "data/text/contest_strings.inc#gText_Contest_Toughness", "th": "ความแข็งแกร่ง$"}
+{"id": "data/text/contest_strings.inc#gText_Tension", "th": "ความคึกคัก$"}
+{"id": "data/text/contest_strings.inc#gText_CoolMove", "th": "ท่าประเภทเท่$"}
+{"id": "data/text/contest_strings.inc#gText_BeautyMove", "th": "ท่าประเภทสวยงาม$"}
+{"id": "data/text/contest_strings.inc#gText_CuteMove", "th": "ท่าประเภทน่ารัก$"}
+{"id": "data/text/contest_strings.inc#gText_SmartMove", "th": "ท่าประเภทฉลาด$"}
+{"id": "data/text/contest_strings.inc#gText_ToughMove", "th": "ท่าประเภทแข็งแกร่ง$"}
+{"id": "data/text/event_ticket_1.inc#EventTicket_Text_ShowOldSeaMap", "th": "เรือเฟอร์รี่ไปเมืองไคนะ…\\pขอโทษนะคะ? จะล่องเรือไปสถานที่ ในแผนที่นี้หรือคะ?\\pดิฉันรู้จักคนที่ช่วยคุณได้ดีกว่านี้ค่ะ กรุณารอสักครู่นะคะ$"}
+{"id": "data/text/event_ticket_1.inc#EventTicket_Text_ThatPass", "th": "เรือเฟอร์รี่ไปเมืองไคนะ…\\pเอ๊ะ? บัตรผ่านนั่น…$"}
+{"id": "data/text/event_ticket_1.inc#EventTicket_Text_ShowEonTicket", "th": "เฮ้ สหาย เจ้าใช่ไหมที่เอาบัตรผ่าน แปลกประหลาดนั่นมา?\\pบอกไว้เลยนะ เจ้ากำลังจะไปเกาะเล็กจิ๋ว ที่อยู่ไกลลิบทางใต้\\pไปถึงแล้วจะเจออะไรบ้าง ไม่มีใครรู้หรอก\\pแค่คิดก็ขนลุกซู่ไปทั้งตัวแล้ว!\\pทุกคนขึ้นเรือ!$"}
+{"id": "data/text/event_ticket_1.inc#EventTicket_Text_SouthernIslandSailBack", "th": "เฮ้ สหาย เกาะที่ไม่มีใครจำนี่ ไม่มีอะไรให้ดูให้ทำเลย\\pล่องเรือกลับเมืองมินาโมะกันดีไหม?$"}
+{"id": "data/text/event_ticket_1.inc#EventTicket_Text_SailHome", "th": "ได้เลย! ล่องเรือกลับบ้านกัน!$"}
+{"id": "data/text/event_ticket_1.inc#EventTicket_Text_AsYouLike", "th": "ได้เลย ตามใจแล้วกัน$"}
+{"id": "data/text/event_ticket_1.inc#SouthernIsland_Interior_Text_Sign", "th": "“ความฝันทั้งปวง คือความจริงอีกด้านหนึ่ง อย่าได้ลืมเลือน…”$"}
+{"id": "data/text/event_ticket_1.inc#SouthernIsland_Exterior_Text_Sign", "th": "“ผู้ที่ความทรงจำเลือนราง ย่อมแสวงหาหนทางจารึกไว้ในใจ…”$"}
+{"id": "data/text/event_ticket_2.inc#EventTicket_Text_OldSeaMapTooFar", "th": "มีอะไรหรือ เจ้าหนู?\\pอะไรนะ เจ้าเองหรือที่มีแผนที่เก่า ขาดวิ่นนั่น?\\pขอดูหน่อยซิ … … … … … …\\pโห ที่นี่ไกลน่าดูเลย เกรงว่าข้าคงช่วยไม่ได้หรอก…$"}
+{"id": "data/text/event_ticket_2.inc#EventTicket_Text_BrineyHoldOnASecond", "th": "ลุงฮางิ: เดี๋ยวก่อน!\\pจะปฏิเสธคนที่ข้าติดหนี้บุญคุณ มากมายขนาดนี้ได้ยังไง?$"}
+{"id": "data/text/event_ticket_2.inc#EventTicket_Text_BrineyLetsSail", "th": "{PLAYER}{KUN} ข้าขอโทษจริง ๆ นะ\\pอุตส่าห์มาขอความช่วยเหลือ แต่พวกเราเกือบไล่กลับไปซะแล้ว\\pเอาล่ะ ให้ข้าแก้ตัวหน่อย\\pออกเรือกันเดี๋ยวนี้เลย แน่นอนอยู่แล้ว!\\pไปตามหาเกาะใน OLD SEA MAP นี้กันเถอะ!$"}
+{"id": "data/text/event_ticket_2.inc#EventTicket_Text_OddTicketGetOnBoard", "th": "เจ้าเองหรือที่เอาตั๋วประหลาดนั่นมา?\\pที่ที่เจ้าจะไป เป็นเกาะที่อยู่ไกลแสนไกล\\pไม่มีใครรู้ว่ามีอะไรรออยู่ที่นั่น…\\pแค่คิด เลือดนักเดินเรือในตัวข้า ก็เดือดพล่านแล้ว!\\pขึ้นเรือเลย เจ้าหนู!$"}
+{"id": "data/text/event_ticket_2.inc#FarawayIsland_Entrance_Text_SailorReturn", "th": "กัปตันฮางิน่ะ เอาแน่เอานอนไม่ได้ จนน่าปวดหัวจริง ๆ…\\pจะกลับเมืองมินาโมะไหม?$"}
+{"id": "data/text/event_ticket_2.inc#BirthIsland_Harbor_Text_SailorReturn", "th": "เกาะรูปร่างประหลาดดีนะ ว่าไหม? จะกลับเมืองมินาโมะไหม?$"}
+{"id": "data/text/event_ticket_2.inc#EventTicket_Text_OddTicketsWhereTo", "th": "เจ้าเองหรือที่เอาตั๋วประหลาดพวกนั้นมา?\\p… … …อืม\\pตั๋วพวกนี้พาเจ้าไปยังเกาะ ที่อยู่ไกลแสนไกลได้\\pไม่มีใครรู้ว่ามีอะไรรออยู่ หรือจะเกิดอะไรขึ้นที่นั่น\\pแค่คิด เลือดนักเดินเรือในตัวข้า ก็เดือดพล่านแล้ว!\\pขึ้นเรือเลย เจ้าหนู! จะไปที่ไหนก่อนดี?$"}
+{"id": "data/text/event_ticket_2.inc#NavelRock_Harbor_Text_SailorReturn", "th": "ได้… ได้ยินนั่นไหม? เสียงคำรามต่ำ ๆ จากข้างในลึกโน่น\\pแน่ใจนะว่าปลอดภัย? เรากลับกันดีไหม?$"}
+{"id": "data/text/event_ticket_2.inc#FarawayIsland_Entrance_Text_Sign", "th": "ตัวอักษรเลือนราง ราวกับถูกเขียนไว้นานมากแล้ว…\\p“…เดือน…วันที่ 6 หากมีมนุษย์คนใด…ย่างเท้ามาที่นี่…\\pอีกครั้ง…ขอให้เป็นผู้มีจิตใจดีงา… …ด้วยความหวังนั้น ข้าจึงจากไ…”$"}
+{"id": "data/text/event_ticket_2.inc#FarawayIsland_Interior_Text_Mew", "th": "มิว…$"}
+{"id": "data/text/frontier_brain.inc#gText_AnabelWonSilver", "th": "น่าผิดหวังมากค่ะ…$"}
+{"id": "data/text/frontier_brain.inc#gText_AnabelDefeatSilver", "th": "เข้าใจแล้วค่ะ…$"}
+{"id": "data/text/frontier_brain.inc#gText_AnabelWonGold", "th": "ขอโทษจริง ๆ ค่ะ…$"}
+{"id": "data/text/frontier_brain.inc#gText_AnabelDefeatGold", "th": "ขอบคุณค่ะ…$"}
+{"id": "data/text/frontier_brain.inc#gText_TuckerWonSilver", "th": "อะฮ่าฮ่าฮ่า! ไม่อายบ้างเหรอ? ทุกคนดูอยู่นะ!$"}
+{"id": "data/text/frontier_brain.inc#gText_TuckerDefeatSilver", "th": "ฮึ่ม… อะไรกันเนี่ย…$"}
+{"id": "data/text/frontier_brain.inc#gText_TuckerWonGold", "th": "ตำแหน่งซูเปอร์สตาร์ของผม ไม่ได้มีไว้โชว์เฉย ๆ นะ!$"}
+{"id": "data/text/frontier_brain.inc#gText_TuckerDefeatGold", "th": "อะฮ่าฮ่าฮ่า! เธอนี่สร้างแรงบันดาลใจจริง ๆ!$"}
+{"id": "data/text/frontier_brain.inc#gText_NolandWonSilver", "th": "เป็นไงล่ะ! ได้บทเรียนดี ๆ ไปใช่ไหม?$"}
+{"id": "data/text/frontier_brain.inc#gText_NolandDefeatSilver", "th": "เยี่ยมมาก! รู้งานจริง ๆ นะเนี่ย!$"}
+{"id": "data/text/frontier_brain.inc#gText_NolandWonGold", "th": "เฮ้ เฮ้ เฮ้! จบแล้วเหรอเนี่ย?$"}
+{"id": "data/text/frontier_brain.inc#gText_NolandDefeatGold", "th": "เกิดอะไรขึ้นเนี่ย?$"}
+{"id": "data/text/frontier_brain.inc#gText_LucyWonSilver", "th": "หึ…$"}
+{"id": "data/text/frontier_brain.inc#gText_LucyDefeatSilver", "th": "อึก…$"}
+{"id": "data/text/frontier_brain.inc#gText_LucyWonGold", "th": "ฮะ!$"}
+{"id": "data/text/frontier_brain.inc#gText_LucyDefeatGold", "th": "ให้ตายสิ!$"}
+{"id": "data/text/frontier_brain.inc#gText_GretaWonSilver", "th": "โธ่ ไม่เอาน่า! ต้องพยายามมากกว่านี้สิ!$"}
+{"id": "data/text/frontier_brain.inc#gText_GretaDefeatSilver", "th": "ไม่จริงน่า! เก่งมาก!$"}
+{"id": "data/text/frontier_brain.inc#gText_GretaWonGold", "th": "เฮะเฮะ! คิดว่าจะเป็นยังไงล่ะ?$"}
+{"id": "data/text/frontier_brain.inc#gText_GretaDefeatGold", "th": "หา? เอาจริงเหรอเนี่ย?!$"}
+{"id": "data/text/frontier_brain.inc#gText_SpenserWonSilver", "th": "โปเกมอนของเจ้าอ่อนแอ เพราะตัวเจ้าอ่อนแอในฐานะเทรนเนอร์!$"}
+{"id": "data/text/frontier_brain.inc#gText_SpenserDefeatSilver", "th": "อา… แบบนี้มันไม่ธรรมดาแล้ว…$"}
+{"id": "data/text/frontier_brain.inc#gText_SpenserWonGold", "th": "กวาฮ่าฮ่าฮ่า! พี่น้องทั้งหลาย พวกเราไม่มีอะไรต้องกลัว!$"}
+{"id": "data/text/frontier_brain.inc#gText_SpenserDefeatGold", "th": "กวาห์! ฮ่าฮ่าฮ่าฮ่า!$"}
+{"id": "data/text/frontier_brain.inc#gText_BrandonWonSilver", "th": "เฮ้! เป็นอะไรไป! แสดงความพยายามให้ข้าดูหน่อย! ลุกขึ้น!$"}
+{"id": "data/text/frontier_brain.inc#gText_BrandonDefeatSilver", "th": "นั่นแหละ! ทำได้ดีมาก! เจ้าพยายามมาหนักเพื่อสิ่งนี้!$"}
+{"id": "data/text/frontier_brain.inc#gText_BrandonWonGold", "th": "เฮ้! อย่าเพิ่งยอมแพ้! ลุกขึ้น! อย่าหมดศรัทธาในตัวเอง!$"}
+{"id": "data/text/frontier_brain.inc#gText_BrandonDefeatGold", "th": "นั่นแหละ! เจ้าทำได้แล้ว! เจ้าไม่หยุดพยายามเพื่อสิ่งนี้!$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_LotteryCornerDrawTicket", "th": "ที่นี่คือมุมลอตเตอรี่โปเกมอนค่ะ\\pลูกค้าทุกท่านของห้างสรรพสินค้าเรา สามารถจับสลากโปเกมอนโลโตได้ค่ะ\\pหากหมายเลขบนสลากโลโต ตรงกับหมายเลข ID ของโปเกมอนตัวใดของคุณ\\pคุณจะได้รับของรางวัลสุดพิเศษค่ะ\\pต้องการจับสลากโปเกมอนโลโตไหมคะ?$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_ComeBackTomorrow", "th": "เชิญใหม่พรุ่งนี้นะคะ$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain", "th": "แล้วแวะมาอีกนะคะ$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_PleasePickTicket", "th": "เชิญหยิบสลากโลโตค่ะ …{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}…{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}…{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_TicketNumberIsXPleaseWait", "th": "หมายเลขสลากโลโตคือ {STR_VAR_1} ค่ะ\\pขอตรวจสอบว่าหมายเลขนี้ ตรงกับหมายเลข ID ของโปเกมอนของคุณหรือไม่\\pกรุณารอสักครู่ค่ะ$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPartyMon", "th": "ยินดีด้วยค่ะ!\\pหมายเลข ID ของ {STR_VAR_1} ในทีมของคุณ ตรงกับหมายเลขสลากโลโตค่ะ!$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPCMon", "th": "ยินดีด้วยค่ะ!\\pหมายเลข ID ของ {STR_VAR_1} ในกล่อง PC ของคุณ ตรงกับหมายเลขสลากโลโตค่ะ!$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_NoNumbersMatched", "th": "ขออภัยค่ะ ไม่มีหมายเลขใดตรงกันเลยค่ะ$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_TwoDigitsMatched", "th": "ตรงกัน 2 หลัก ได้รางวัลที่ 3 ค่ะ!\\pคุณได้รับ {STR_VAR_1} ค่ะ!$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_ThreeDigitsMatched", "th": "ตรงกัน 3 หลัก ได้รางวัลที่ 2 ค่ะ!\\pคุณได้รับ {STR_VAR_1} ค่ะ!$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_FourDigitsMatched", "th": "ตรงกัน 4 หลัก ได้รางวัลที่ 1 ค่ะ!\\pคุณได้รับ {STR_VAR_1} ค่ะ!$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_AllFiveDigitsMatched", "th": "ตายจริง ตรงกันครบทั้ง 5 หลักเลยค่ะ!\\pคุณได้รางวัลแจ็กพอตค่ะ! คุณได้รับ {STR_VAR_1} ค่ะ!$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_NoRoomForThis", "th": "เอ๊ะ? ดูเหมือนจะไม่มีที่ใส่แล้วนะคะ\\pกรุณาจัดที่ในกระเป๋า แล้วแจ้งดิฉันนะคะ$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_PrizeWeveBeenHolding", "th": "{PLAYER} ใช่ไหมคะ? ดิฉันรออยู่เลยค่ะ\\pนี่คือของรางวัลที่เราเก็บไว้ให้คุณค่ะ$"}
+{"id": "data/text/lottery_corner.inc#LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain2", "th": "แล้วแวะมาอีกนะคะ$"}
+{"id": "data/text/mart_clerk.inc#gText_HowMayIServeYou", "th": "ยินดีต้อนรับ!\\pให้ช่วยอะไรดี?$"}
+{"id": "data/text/mart_clerk.inc#gText_PleaseComeAgain", "th": "โอกาสหน้าเชิญใหม่!$"}
+{"id": "data/text/mart_clerk.inc#gText_PlayerWhatCanIDoForYou", "th": "{PLAYER}{KUN} ยินดีต้อนรับจ้ะ!\\pให้ช่วยอะไรดีจ๊ะ?$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText1", "th": "สวัสดี! {PLAYER}{KUN} ฮัลโหล! นี่ {STR_VAR_1} เองนะ\\pเมื่อกี้เจอ {STR_VAR_2} แต่จับไม่ได้\\pเกือบได้แล้วเชียว! ไว้เจอกันใหม่นะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText2", "th": "ฮัลโหล {PLAYER}{KUN} นี่ {STR_VAR_1} นะ\\pเมื่อกี้พยายามจับ {STR_VAR_2} ตัวเจ๋ง ๆ\\pแต่มันหนีไปได้ ผิดหวังสุด ๆ เลย!\\pโอเค บาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText3", "th": "ไง {PLAYER}! นี่ {STR_VAR_1} เอง\\pเพิ่งลองจับ {STR_VAR_2} แต่มันหนีไปซะแล้ว\\pเกือบได้แล้วแท้ ๆ!\\pเสียอารมณ์ทั้งวันเลย… เอาล่ะ ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText4", "th": "เฮ้ {PLAYER}{KUN} {STR_VAR_1} เองนะ\\pรู้จักโปเกมอน {STR_VAR_2} ไหม? เกือบจับได้ตัวนึงแล้วล่ะ\\pเพิ่งเมื่อกี้เอง นึกว่าได้แล้วแต่มันหนีไป\\pแต่ถ้าเจออีก รับรองจับได้แน่\\pโอเค ไว้คุยกันใหม่$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText5", "th": "หวัดดี {PLAYER}{KUN}! นี่ {STR_VAR_1} นะ\\pช่วงนี้จับโปเกมอนได้บ้างไหม?\\pเมื่อกี้เกือบจับได้ตัวนึง แต่มันหลุดไปซะได้\\pเอาล่ะ ดูแลตัวเองด้วยนะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText6", "th": "เฮ้ {PLAYER}{KUN} {STR_VAR_1} เองนะ\\pช่วงนี้จับโปเกมอนได้บ้างไหม?\\pวันก่อนเกือบจับได้ตัวนึง แต่มันหลบไปได้ ไม่รู้ยังไง\\pดูแลตัวเองด้วยล่ะ$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText7", "th": "…เอ่อ {PLAYER}{KUN}? นี่ {STR_VAR_1} เองนะ\\pอ๊ะ เดี๋ยว! เดี๋ยวก่อน! {STR_VAR_2} ตัวนี้จับได้แน่…\\pอ๊ากกก! หลุดไปแล้ว! เฉียดฉิวสุด ๆ!$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText8", "th": "อ้อ {PLAYER}{KUN} สบายดีไหม? {STR_VAR_1} พูดสายอยู่\\pช่วงนี้จับโปเกมอนได้บ้างไหม?\\pเมื่อกี้เกือบจับได้แล้ว แต่เป้าหมายหลุดไปซะได้\\pต้องพยายามให้มากกว่านี้! ไว้พบกันใหม่!$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText9", "th": "โอ้ {PLAYER}{KUN} หวัดดี! นี่ {STR_VAR_1} นะ!\\pเป็นไงบ้าง? รวบรวมโปเกมอนได้เพิ่มหรือยัง?\\pฉันนี่แย่สุด ๆ เลย! หนีไปหมดทุกตัว!\\pไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText10", "th": "อ้อ {PLAYER}{KUN} สวัสดี… นี่ {STR_VAR_1} นะ\\pฟังนะ เมื่อกี้เกือบจับ {STR_VAR_2} ได้แล้วเชียว…\\pแต่มันหลบหนีไปได้…\\pต้องพยายามมากกว่านี้ ไว้เจอกันนะ$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText11", "th": "อา {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pเป็นอย่างไรบ้าง?\\pเมื่อครู่ลองจับ {STR_VAR_2} ป่า แต่มันหนีไปได้\\pรู้สึกพ่ายแพ้จริง ๆ…$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText12", "th": "สวัสดี {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pยังจับโปเกมอนอยู่หรือเปล่า?\\pฉันเองก็พยายามจับอยู่ แต่มันไม่ง่ายเลย\\pวิถีแห่งโปเกมอนนี่ช่างลึกซึ้ง!$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText13", "th": "อ้า สวัสดี {PLAYER}{KUN}! นี่ {STR_VAR_1} เอง!\\pช่วงนี้จับโปเกมอนบ้างไหม?\\pฉันก็ลองจับอยู่ แต่ไม่ค่อยสำเร็จเท่าไร\\pวิถีแห่งโปเกมอนนี่ช่างลึกซึ้ง!$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText14", "th": "อ้อ หวัดดี {PLAYER}{KUN} สบายดีไหม? นี่ {STR_VAR_1} นะ\\pเมื่อกี้ลองจับ {STR_VAR_2} น่ารัก ๆ\\pแต่มันหนีไปซะได้! ผิดหวังสุด ๆ เลยล่ะ!\\pบ๊ายบาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_WildBattleText15", "th": "เฮ้ {PLAYER}! นี่ {STR_VAR_1} เอง!\\pกำลังคิดว่าจะลองจับโปเกมอนสักหน่อย\\pแต่หาไม่เจอสักตัว งงสุด ๆ ไปเลย!\\pหมดปัญญาแล้วจริง ๆ! ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText1", "th": "สวัสดี! {PLAYER}{KUN} ฮัลโหล! นี่ {STR_VAR_1} เองนะ\\pลองสู้กับเทรนเนอร์คนอื่นมา แต่แพ้ซะแล้ว\\pผิดหวังจริง ๆ เอาล่ะ ไว้เจอกันใหม่นะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText2", "th": "ฮัลโหล {PLAYER}{KUN} นี่ {STR_VAR_1} นะ\\pหลังจากสู้กับเธอ ก็ไปท้าคนอื่นต่อ\\pเกือบชนะแล้ว แต่สุดท้ายก็แพ้ ช่างมันเถอะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText3", "th": "ไง {PLAYER}! นี่ {STR_VAR_1} เอง\\pเพิ่งโดนถล่มยับในการต่อสู้มา\\pสงสัยต้องฝึกทีมให้มากกว่านี้แล้ว!$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText4", "th": "เฮ้ {PLAYER} {STR_VAR_1} เองนะ\\pเมื่อวานลองสู้อีกรอบ แต่คว้าชัยไม่ได้\\pทีมยังต้องฝึกอีกเยอะ โอเค ไว้คุยกันใหม่$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText5", "th": "หวัดดี {PLAYER}! นี่ {STR_VAR_1} นะ\\pเป็นไงบ้าง?\\pฉันสู้มาเรื่อย ๆ แต่ไม่ค่อยชนะเลย\\pตั้งหลักไม่ได้สักที เอาล่ะ ดูแลตัวเองนะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText6", "th": "เฮ้ {PLAYER} {STR_VAR_1} เองนะ\\pเป็นไงบ้าง?\\pช่วงนี้สู้หนักมาก แต่ไม่ค่อยได้ผล\\pยังจับจังหวะไม่ได้เลย ดูแลตัวเองด้วยล่ะ$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText7", "th": "{STR_VAR_1} เองนะ ช่วงนี้เป็นไงบ้าง?\\pเมื่อวานแพ้การต่อสู้มา เลยคิดวนอยู่แต่เรื่องนั้น\\pต้องคิดแผนใหม่แล้ว… ไว้เจอกัน$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText8", "th": "อ้อ {PLAYER}{KUN} สบายดีไหม? {STR_VAR_1} พูดสายอยู่\\pโปเกมอนของเธอเป็นไงบ้าง? วันก่อนฉันแพ้การแข่งมา\\pต้องพยายามให้มากกว่านี้! ไว้พบกันใหม่!$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText9", "th": "โอ้ {PLAYER}{KUN} หวัดดี! นี่ {STR_VAR_1} นะ!\\pฟังนะ ฟังนะ ต้องฟังเรื่องนี้ให้ได้!\\pเมื่อกี้ฉันสู้โปเกมอนมา แต่แพ้ในวินาทีสุดท้าย\\pโอ๊ย แค้นใจชะมัด!$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText10", "th": "อ้อ {PLAYER}{KUN} สวัสดี… นี่ {STR_VAR_1} นะ\\pเมื่อกี้ไปต่อสู้มา แต่ก็แพ้\\pต้องฝึกโปเกมอนให้มากกว่านี้ ไว้เจอกันนะ$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText11", "th": "อา {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pโปเกมอนของเธอเป็นอย่างไรบ้าง?\\pฉันเพิ่งแพ้การต่อสู้มาอีกแล้ว\\pเอาล่ะ ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText12", "th": "สวัสดี {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pยังต่อสู้อย่างหนักอยู่หรือเปล่า?\\pส่วนฉัน เพิ่งแพ้มา เลยฝึกทีมใหม่หมดเลย\\pไว้พบกันใหม่นะ$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText13", "th": "อ้า สวัสดี {PLAYER}{KUN}! นี่ {STR_VAR_1} เอง!\\pหวังว่าจะสบายดีนะ\\pก่อนโทรมานี่ ฉันเพิ่งไปต่อสู้มาเอง\\p{PLAYER}{KUN} ก็กระฉับกระเฉงเหมือนฉันบ้างนะ ไว้พบกันใหม่!$"}
+{"id": "data/text/match_call.inc#MatchCall_NegativeBattleText14", "th": "อ้อ หวัดดี {PLAYER}{KUN} นี่ {STR_VAR_1} นะ\\pสบายดีไหม?\\pแต่ก็หมั่นกลับบ้านบ้างนะ\\pบ๊ายบาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText1", "th": "สวัสดี! {PLAYER}{KUN} ฮัลโหล! นี่ {STR_VAR_1} เองนะ!\\pเมื่อกี้สู้กับเทรนเนอร์คนอื่นมา ชนะด้วย! ชนะแล้ว!\\p{STR_VAR_2} ของฉันสู้สุดใจเลย ดีใจสุด ๆ!$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText2", "th": "ฮัลโหล {PLAYER}{KUN}! นี่ {STR_VAR_1} นะ!\\pเมื่อวานไปต่อสู้มา แล้วก็ชนะด้วย! สุดยอดไปเลย!$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText3", "th": "ไง {PLAYER}! นี่ {STR_VAR_1} เอง!\\pการต่อสู้เป็นไงบ้าง? ฉันเพิ่งสู้ไปเมื่อวันก่อน\\p{STR_VAR_2} ของฉันโชว์ฟอร์มสุดยอดเลย!\\pคราวหน้าที่สู้กัน {PLAYER} คนแพ้ไม่ใช่ฉันแน่!$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText4", "th": "เฮ้ {PLAYER} {STR_VAR_1} เองนะ\\pเมื่อกี้แข่งมา ชนะได้แต่ก็เฉียดฉิว\\p{STR_VAR_2} ของฉันโชว์ฟอร์มได้น่าทึ่งมาก$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText5", "th": "หวัดดี {PLAYER}{KUN}! นี่ {STR_VAR_1} นะ\\pเป็นไงบ้าง? ต่อสู้บ่อยไหม?\\pฉันเพิ่งชนะมาเมื่อกี้! {STR_VAR_2} ของฉันเจ๋งสุด ๆ!\\pรอดูเถอะ คราวหน้าฉันจะชนะเธอให้ได้! ดูแลตัวเองนะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText6", "th": "เฮ้ {PLAYER}{KUN} {STR_VAR_1} เองนะ\\pเป็นไงบ้าง?\\pช่วงนี้ฉันกำลังมือขึ้น เพิ่งชนะมาอีกรอบ\\pคราวหน้าที่เราสู้กัน ฉันไม่แพ้แน่นอน!$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText7", "th": "{PLAYER}{KUN}? {STR_VAR_1} เองนะ\\p{STR_VAR_2} ของฉันแกร่งสุด ๆ! เพิ่งพาฉันชนะมาอีกรอบ!\\pอยากรีแมตช์กับเธอจะแย่แล้ว$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText8", "th": "อ้อ {PLAYER}{KUN} สบายดีไหม? {STR_VAR_1} พูดสายอยู่\\pหวังว่าจะสบายดีนะ อยากบอกว่าเพิ่งชนะมาล่ะ\\p{STR_VAR_2} ของฉันพยายามเป็นพิเศษ จนคว้าชัยมาได้\\pไว้พบกันใหม่!$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText9", "th": "โอ้ {PLAYER}{KUN} หวัดดี! นี่ {STR_VAR_1} นะ!\\pโปเกมอนของเธอเป็นไงบ้าง? ของฉันเพิ่งชนะมา!\\p{STR_VAR_2} ของฉันยอดเยี่ยมมาก ต้องบอกเลย!\\pอยากให้เธอได้เห็นจัง! ไว้เจอกันใหม่!$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText10", "th": "อ้อ {PLAYER}{KUN} สวัสดี… นี่ {STR_VAR_1} นะ\\pช่วงนี้ชีวิตเป็นไงบ้าง?\\pโปเกมอนของฉันดูเหมือนพลังเต็มเปี่ยม\\pเพิ่งชนะการต่อสู้มาด้วยกัน ไว้เจอกันนะ$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText11", "th": "อา {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pช่วงนี้ได้ต่อสู้บ้างไหม? วันนี้ฉันชนะมาอีกแล้ว!\\pกำลังมือขึ้นเลย! กะฮ่าฮ่าฮ่า! เอาล่ะ ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText12", "th": "สวัสดี {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pคงสบายดีนะ? ฉันยังพลังเหลือล้นเลย!\\pเมื่อกี้ก็เพิ่งชนะมาอีกรอบ\\pยังไม่ยอมหลีกทางให้คนหนุ่มสาว อย่างพวกเธอง่าย ๆ หรอก!$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText13", "th": "อ้า สวัสดี {PLAYER}{KUN}! นี่ {STR_VAR_1} เอง!\\pหวังว่าจะสบายดีนะ ฉันยังกระฉับกระเฉงอยู่เลย!\\pเมื่อกี้ก็เพิ่งชนะมาอีกแล้ว\\pยังไม่แพ้พวกคนหนุ่มสาวง่าย ๆ หรอก!\\pไว้พบกันใหม่!$"}
+{"id": "data/text/match_call.inc#MatchCall_PositiveBattleText14", "th": "อ้อ หวัดดี {PLAYER}{KUN} นี่ {STR_VAR_1} นะ\\pเมื่อเร็ว ๆ นี้ได้ต่อสู้ แล้ว {STR_VAR_2} ของฉันเก่งเป็นพิเศษเลย!\\pอยากให้ {PLAYER}{KUN} ได้เห็นจัง บ๊ายบาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText1", "th": "สวัสดี! {PLAYER} ฮัลโหล! นี่ {STR_VAR_1} เองนะ\\pหา? เดี๋ยวนะ เธออยู่แถว {STR_VAR_2} เหรอ?\\pว้าว งั้นต้องสู้กันแล้ว! จะรออยู่นะ! ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText2", "th": "ฮัลโหล {PLAYER}! นี่ {STR_VAR_1} นะ\\pอ้าว? ตอนนี้เธออยู่แถว {STR_VAR_2} พอดีเหรอ?\\pอยากสู้กันตอนนี้ไหม? จะรอนะ! ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText3", "th": "ไง {PLAYER}! นี่ {STR_VAR_1} เอง\\pอ้าว เฮ้ ตอนนี้อยู่แถว {STR_VAR_2} เหรอ?\\pมาสู้กับฉันตอนนี้เลยดีไหม?\\pคราวนี้ไม่แพ้แล้ว! จะรออยู่! เจอกันเร็ว ๆ นี้!$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText4", "th": "เฮ้ {PLAYER}{KUN} {STR_VAR_1} เองนะ\\pตอนนี้อยู่แถวไหน? หา? {STR_VAR_2} เหรอ?\\pอยากสู้ตอนนี้ไหม? จะรอนะ ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText5", "th": "หวัดดี {PLAYER}{KUN}! นี่ {STR_VAR_1} นะ\\pเป็นไงบ้าง?\\pตอนนี้อยู่ไหนนะ? {STR_VAR_2} เหรอ?\\pงั้นมารีแมตช์กันเร็ว ๆ เลยดีไหม?\\pจะคอยมองหาเธอนะ ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText6", "th": "เฮ้ {PLAYER}{KUN} {STR_VAR_1} เองนะ\\pโปเกมอนสบายดีไหม?\\pอ้อ จริงเหรอ? อยู่แถว {STR_VAR_2} เหรอ?\\pงั้นเรามารีแมตช์กันดีกว่า\\pรอได้อยู่แล้ว ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText7", "th": "…เอ่อ {PLAYER}{KUN}? {STR_VAR_1} เองนะ…\\pอ้าว อยู่แถว {STR_VAR_2} พอดีเหรอ?\\pงั้นสู้กันเถอะ หมายถึงเดี๋ยวนี้เลยนะ\\pจะให้ดูโปเกมอนของฉัน จะรออยู่นะ$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText8", "th": "อ้อ {PLAYER}{KUN} สบายดีไหม? {STR_VAR_1} พูดสายอยู่\\pหวังว่าจะสบายดีนะ อ้อ อยู่ใกล้ {STR_VAR_2} นี่นา\\pงั้นมาต่อสู้กับฉันไหม?\\pจะรออยู่นะ ไว้พบกันเร็ว ๆ นี้!$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText9", "th": "โอ้ {PLAYER}{KUN} หวัดดี! นี่ {STR_VAR_1} นะ!\\pเป็นไงบ้าง? อ้าว อยู่ใกล้ {STR_VAR_2} เหรอ?\\pงั้นเราน่าจะสู้กันนะ ว่าไหม?\\pอย่าให้รอนานนักล่ะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText10", "th": "อ้อ {PLAYER}{KUN} สวัสดี… นี่ {STR_VAR_1} นะ\\pเป็นไงบ้าง? อ้อ อยู่ใกล้ {STR_VAR_2} นี่เอง\\pงั้นเราน่าจะสู้กันตอนนี้เลย\\pฉันพร้อมแล้ว รออยู่นะ มาเร็ว ๆ ล่ะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText11", "th": "อา {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pอา ตอนนี้อยู่ที่ {STR_VAR_2} งั้นเหรอ?\\pถ้างั้นก็ต้องสู้กันสักตั้งแล้ว ว่าไหม?\\pจะรออยู่แถวนี้นะ! เจอกันเร็ว ๆ!$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText12", "th": "สวัสดี {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pตอนนี้อยู่ที่ไหนล่ะ?\\p{STR_VAR_2} เหรอ? ใกล้นิดเดียวเอง!\\pมาสู้กันตอนนี้เลยดีไหม?\\pฉันรอได้ ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText13", "th": "อ้า สวัสดี {PLAYER}{KUN}! นี่ {STR_VAR_1} เอง!\\pหวังว่าจะสบายดีนะ อ้อ อยู่ใกล้ {STR_VAR_2} เหรอ?\\pไม่ไกลเท่าไรนี่ มาหาฉันแล้วสู้กันเถอะ\\pจะรออยู่นะ แล้วพบกันใหม่$"}
+{"id": "data/text/match_call.inc#MatchCall_SameRouteBattleRequestText14", "th": "อ้อ หวัดดี {PLAYER}{KUN} นี่ {STR_VAR_1} นะ\\pอยู่ไหนนะ? …{STR_VAR_2} เหรอ? ใกล้มากเลย\\pเราน่าจะสู้กันนะ ว่าไหม?\\pจะคอยมองหานะ! บ๊ายบาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText1", "th": "สวัสดี! {PLAYER} ฮัลโหล! นี่ {STR_VAR_1} เองนะ\\pอยากสู้กับฉันไหม?\\pจะรออยู่แถว {STR_VAR_2} นะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText2", "th": "ฮัลโหล {PLAYER}! นี่ {STR_VAR_1} นะ\\pอยากสู้กับฉันอีกสักรอบไหม?\\pมาหาฉันได้แถว {STR_VAR_2} นะ จะรออยู่!$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText3", "th": "ไง {PLAYER}! นี่ {STR_VAR_1} เอง\\pโปเกมอนของฉันแกร่งขึ้นเยอะเลย ตั้งแต่ครั้งก่อน\\pอยากรู้ว่าเก่งขึ้นแค่ไหน เมื่อเจอโปเกมอนของ {PLAYER}\\pงั้นมาสู้กันเถอะ!\\pจะรออยู่แถว {STR_VAR_2} นะ$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText4", "th": "เฮ้ {PLAYER}{KUN} {STR_VAR_1} เองนะ เป็นไงบ้าง?\\pช่วงนี้โปเกมอนของฉันแกร่งขึ้นมากเลย\\pเฮ้ มาสู้กับฉันอีกสักรอบไหม?\\pไปเจอกันแถว {STR_VAR_2} นะ โอเคไหม?$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText5", "th": "หวัดดี {PLAYER}{KUN}! นี่ {STR_VAR_1} นะ\\pโปเกมอนของฉันเติบโตขึ้นเยอะเลย\\pอยากสู้กับเธออีกสักรอบจริง ๆ\\pจะคอยมองหาเธอแถว {STR_VAR_2} นะ ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText6", "th": "เฮ้ {PLAYER}{KUN} {STR_VAR_1} เองนะ\\pหวังว่าทุกอย่างจะเรียบร้อยดีนะ\\pคิดว่าอยากสู้กับเธออีกสักรอบ ว่าไง?\\pถ้าอยากสู้ มาที่ {STR_VAR_2} นะ\\pไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText7", "th": "…เอ่อ {PLAYER}{KUN}? {STR_VAR_1} เองนะ…\\pแล้ว? โปเกมอนของเธอโตขึ้นไหม?\\pของฉันแกร่งขึ้นแน่นอน อยากให้เธอดู\\pจะอยู่แถว {STR_VAR_2} มาแข่งกันนะ\\pไว้เจอกัน$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText8", "th": "อ้อ {PLAYER}{KUN} สบายดีไหม? {STR_VAR_1} พูดสายอยู่\\pหวังว่าจะสบายดีนะ โปเกมอนของฉันคึกคักมากเลย\\pถ้าผ่านมาแถวนี้ ช่วยมารีแมตช์กับฉันหน่อยนะ\\pฉันจะอยู่แถว {STR_VAR_2} แล้วพบกันใหม่!$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText9", "th": "โอ้ {PLAYER}{KUN} หวัดดี! นี่ {STR_VAR_1} นะ!\\pโปเกมอนของเธอเป็นไงบ้าง?\\pโปเกมอนของฉันเก่งขึ้นเรื่อย ๆ อยากให้ {PLAYER}{KUN} ได้ดู\\pตอนนี้ฉันอยู่แถว {STR_VAR_2} ถ้าอยู่ใกล้ ๆ ก็มาสู้กันนะ\\pหวังว่าจะได้เจอเร็ว ๆ นี้!$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText10", "th": "อ้อ {PLAYER}{KUN} สวัสดี… นี่ {STR_VAR_1} นะ\\pแล้วเป็นไงบ้าง?\\pโปเกมอนของฉันแกร่งขึ้นกว่าเดิมมาก\\pอยากสู้กับ {PLAYER}{KUN} อีกสักรอบจัง\\pจะอยู่แถว {STR_VAR_2} ถ้าอยู่ใกล้ ๆ ก็มาหานะ$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText11", "th": "อา {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pตอนนี้อยู่ที่ไหนล่ะ?\\pโปเกมอนของฉันพลังเต็มเปี่ยม\\pดูเหมือนจะตั้งตารอเจอโปเกมอนของ {PLAYER}{KUN}\\pตอนนี้ฉันอยู่แถว {STR_VAR_2} หวังว่าจะมาตามหาพวกเรานะ$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText12", "th": "สวัสดี {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pต้องบอกหน่อยว่า ช่วงนี้โปเกมอนของฉันแข็งแรงขึ้นมาก\\pอยากเห็นพวกมันต่อสู้กับ {PLAYER}{KUN}\\pพวกเราจะอยู่แถว {STR_VAR_2} มาหาได้ทุกเมื่อนะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText13", "th": "อ้า สวัสดี {PLAYER}{KUN}! นี่ {STR_VAR_1} เอง!\\pโปเกมอนสบายดีไหม?\\pโปเกมอนของฉันแข็งแรงมาก ดูไม่มีทางแพ้เลย!\\pอยากสู้กับเธออีกสักรอบจริง ๆ\\pถ้าอยู่ใกล้ {STR_VAR_2} ก็แวะมาหาพวกเรานะ$"}
+{"id": "data/text/match_call.inc#MatchCall_DifferentRouteBattleRequestText14", "th": "อ้อ หวัดดี {PLAYER}{KUN} นี่ {STR_VAR_1} นะ\\pหวังว่าจะสบายดี\\pอ้อ ใช่! โปเกมอนของฉันแกร่งขึ้นกว่าเดิมมาก\\pเราน่าจะสู้กันนะ {PLAYER}{KUN} ว่าไหม?\\pพวกเราจะรออยู่แถว {STR_VAR_2}\\pมาหาได้ทุกเมื่อ โอเคไหม?$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText1", "th": "นี่ {STR_VAR_1} ผู้รักภูเขาเองนะ!\\pตั้งแต่เจอกัน ชอบภูเขามากขึ้นบ้างหรือยัง?\\pไม่ค่อยเห็นเธอบนภูเขาเลย…\\pคราวหน้า มาเจอกันแถว {STR_VAR_2} นะ$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText2", "th": "นี่ {STR_VAR_1} เอง สวัสดี\\pเพิ่งเล่าเรื่องเธอให้เทรนเนอร์มือใหม่ฟังมา\\pเล่าถึงเทรนเนอร์ผู้แข็งแกร่ง ที่เลี้ยงดูโปเกมอนอย่างใส่ใจ\\pหวังว่าเธอจะเป็นเทรนเนอร์ ที่ทุกคนชื่นชมนะ\\pหวังว่าจะได้เจอกันอีก!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText3", "th": "สวัสดี! {STR_VAR_1} เองนะ\\pชอบที่ที่อยู่ตอนนี้จัง หอมหวานน่าสบายสุด ๆ!\\pคงมีคนปลูกเบอร์รี่ไว้ แล้วมันก็ออกดอกบานสะพรั่ง\\pไว้เจอกันใหม่นะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText4", "th": "สวัสดี! {STR_VAR_1} นักสำรวจผู้คร่ำหวอดมา 30 ปี ยินดีรับใช้!\\pดูเหมือนเธอจะเดินทางไปทั่ว อย่างกระตือรือร้นเลยนะ\\pเจอซากโบราณใหม่ ๆ บ้างไหม? ถ้าเจอบอกด้วยนะ!\\pเอาล่ะ ขอตัวก่อน มีซากโบราณให้สำรวจอยู่$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText5", "th": "{STR_VAR_1} เองนะ!\\pรู้ไหมวันนี้ทำอะไร? นั่งดูคลื่นจากชายหาดอยู่!\\pเฮ้อ… คลื่นระยิบระยับไปหมด ทะเลสวยที่สุดเมื่อมองจากตรงนี้\\pเริ่มหิวแล้ว บ๊ายบาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText6", "th": "หง่ำ ๆ… อ้อ หวัดดี {STR_VAR_1} เองนะ\\pชอบกินข้าวบนชายหาดจัง\\pฉันกับโปเกมอนสบายดีมาก อิ่มท้องพลังเต็มเปี่ยม!\\pจะไปว่ายน้ำแล้ว บาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText7", "th": "สวัสดี นี่ {STR_VAR_1} เอง…\\pเริ่มเบื่อ ๆ กับการเป็นยอดเทรนเนอร์ นิดหน่อยแล้ว…\\pทุกคนคิดว่าฉันเป็นเทรนเนอร์ที่สมบูรณ์แบบ\\pเลยต้องพยายามทำตัว ให้สมกับความคาดหวังนั้น\\pแต่ก็คงเป็นเรื่องที่มากับ การเป็นยอดเทรนเนอร์นั่นแหละ\\pคงต้องตั้งใจให้หนักขึ้น… แล้วก็กัดฟันยิ้มสู้ต่อไป\\pเธอเป็นคนเดียวที่ฉันกล้าระบาย แบบนี้ได้\\pแต่ครั้งหน้าที่เจอกัน ไม่ต้องห่วง ฉันจะไม่บ่นแล้ว!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText8", "th": "ย้าฮู้ {STR_VAR_1} เองนะ! สบายดีไหม?\\pฉันฝึกโปเกมอนโดยมีเธอเป็นเป้าหมายเลย\\pคราวหน้าที่สู้กัน ไม่คิดจะแพ้แน่\\pมีเพื่อนเป็นเทรนเนอร์นี่ดีจังเลยนะ? แล้วเจอกันใหม่!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText9", "th": "{STR_VAR_1} เองนะ…\\pตอนนี้ ข้างหลังเธอ… มีอะไรอยู่หรือเปล่า…?\\pพลังของโปเกมอน ที่หลับใหลอยู่ที่ภูเขาส่งวิญญาณ…\\pมันกำลังบอกเรื่องของเธอ…\\pรีบเดินจากไปซะ แล้วอย่าได้หันกลับมามองแม้แต่ครั้งเดียว…\\pคิกคิก… ลาก่อน…$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText10", "th": "นี่ {STR_VAR_1} ค่ะ สบายดีไหมคะ?\\pสะดวกดีนะคะ ที่คุยกันไกล ๆ แบบนี้ได้\\pเมื่อก่อนถ้าอยากคุยกับใคร ต้องให้คุณพ่อขับรถไปส่ง…\\pดิฉันต้องไปแล้วค่ะ ดีใจที่ได้คุยกันนะคะ$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText11", "th": "{STR_VAR_1} เองนะ! ฟังหน่อยสิ!\\pชอบซาฟารีโซนมากเลย แต่ไปทีไรหลงทางทุกที!\\pหญ้าสูงเต็มไปหมด! แถมกว้างเกินไปอีก!\\pได้ระบายแล้วโล่งอกเลย!\\pจะไปซาฟารีโซนอีกแล้ว! ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText12", "th": "สวัสดี {STR_VAR_1} พูดสายอยู่\\pใช่ ถูกต้อง ผมรวย ใช่แล้ว\\pบอกไว้ก่อน ตั้งแต่เจอกันครั้งก่อน ผมรวยขึ้นอีกแล้ว\\pไม่ใช่แค่นั้น โปเกมอนของผมก็แข็งแกร่งขึ้นด้วย\\pอดรู้สึกไม่ได้ว่า โลกนี้มีไว้เพื่อผม!\\pอ้อ ไม่ต้องพูดอะไรหรอก! ใคร ๆ ก็รู้ว่าเป็นเรื่องจริง!\\pอ้อ ขอตัวก่อน มีงานเลี้ยงอาหารค่ำที่ต้องไปร่วม$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText13", "th": "อุฟุฟุฟุฟุ… {STR_VAR_1} เองนะ…\\pทายซิ ว่ากำลังเห็นอะไรอยู่? {STR_VAR_2} สองตัว กำลังต่อสู้กัน\\pบางทีจะลองจับตัวที่ชนะดู… อุฟุฟุฟุฟุฟุ…\\pฉ… ฉันกำลังยุ่งนิดหน่อย ต้องไปแล้ว$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText14", "th": "อ้อ {STR_VAR_1} เองนะ!\\pเพิ่งคิดอยู่เลยว่า เริ่มเบื่อเรือร้างแล้ว\\pแต่ในเมื่อมาอยู่ที่นี่แล้ว และอยากชนะเธอสักครั้ง\\pก็จะอยู่ต่ออีกสักพัก ถ้าอยากมาก็มาหาฉันสิ\\pคิดว่าวันนี้แหละ จะได้ท้าลุงห้องข้าง ๆ แข่งสักที\\pไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText15", "th": "ฉันคือ {STR_VAR_1}! ลูกผู้ชายแห่งท้องทะเล!\\pรู้ไหมฉันคิดยังไง?\\pเทรนเนอร์กลางทะเลน่ะ แกร่งที่สุดในบรรดาคนแกร่ง!\\pเธอควรเรียนรู้จากฉัน แล้วมาฝึกในทะเล…\\pอุ๊ย คลื่นยักษ์มาแล้ว!\\pโอกาสฝึกชั้นดีเลย! ขอโทษนะ ต้องไปแล้ว!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText16", "th": "{STR_VAR_1} เองนะ!\\pฟังนะ ฉันสอนคาราเต้ให้โปเกมอนมาตลอด\\pแต่ตอนนี้พวกมันเก่งกว่าฉันแล้ว! แพ้พวกมันไม่เป็นท่าเลย!\\pแต่ถึงจะแพ้โปเกมอน ก็ไม่มีวันแพ้เทรนเนอร์คนอื่นเด็ดขาด!\\pเราต้องสู้กันอีก! อุกวาาา!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText17", "th": "{STR_VAR_1} เองนะ การเดินทางเป็นไงบ้าง?\\p…โห จริงเหรอ? ฟังดูเร้าใจสุด ๆ!\\pคิดว่าแต่งเพลงจากเรื่องของเธอ ได้สักตอนเลยล่ะ\\p…อ้อ เฮ้ มาแล้ว ได้ยินริฟฟ์ดังอยู่ในหัว\\pต้องรีบเขียนเพลงนี้ให้เสร็จ ขอตัวก่อนนะ! แล้วเจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText18", "th": "นี่ {STR_VAR_1} เอง… ฟังเพลงใหม่ของฉันนะ\\pลาลาลา {STR_VAR_2} {STR_VAR_2}! ทำไมเธอถึงเป็น {STR_VAR_2} แบบนั้น?\\pทำไมฉันเป็นเธอไม่ได้ {STR_VAR_2}?\\pลาลา {STR_VAR_2} กับ {STR_VAR_1} {STR_VAR_1} กับ {STR_VAR_2}…\\pร้องท่อนฮุกซ้ำ แล้วค่อย ๆ เฟดเสียง…$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText19", "th": "ฉัน {STR_VAR_1} ไง ผู้เชี่ยวชาญการตั้งแคมป์!\\pตอนที่สู้กัน ฉันก็อดแพ้เธอไม่ได้\\pก็นะ ความเชี่ยวชาญของฉันคือ การตั้งแคมป์นี่นา\\pแต่จะแพ้หรือชนะ ฉันก็ชอบต่อสู้ ตอนตั้งแคมป์\\pมาสู้กับพวกเราอีกนะ! อ้อ แล้วไปตั้งแคมป์ด้วยกันด้วยนะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText20", "th": "ฉันเอง ฉันเอง {STR_VAR_1}!\\pบอกตามตรงนะ อยากไปปีนเขาลูกอื่น นอกจากลูกนี้บ้าง\\pแต่ไม่แน่ใจว่าจะมีสาว ๆ เหมือนที่ภูเขาปล่องไฟหรือเปล่า\\pถ้ารู้จักภูเขาไหนที่มีสาว ๆ อยู่ บอกด้วยนะ!\\pเอะเฮะเฮะ ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText21", "th": "… … … … … … … … … … … …\\p{STR_VAR_1} เอง…\\p… … … … … … … … … … … …\\pวันนี้มีแค่นี้…$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText22", "th": "นี่ {STR_VAR_1} เอง วันนี้รู้สึกว่าจะได้คุยกับเธอ\\pความอยากเอาชนะเธอ พอกพูนขึ้นทุกวันทุกคืน\\pเธอมีคู่แข่งแบบนั้นใช่ไหม? อยากให้เป็นฉันจัง…\\pดีใจที่เธอฟังจนจบ ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText23", "th": "{STR_VAR_1} เองนะ\\pถ้ามีเทรนเนอร์เก่ง ๆ อยู่ใกล้ ๆ บางทีฉันก็สัมผัสได้ ยังไงก็ไม่รู้\\p{PLAYER}{KUN} ผ่านมาใกล้ ๆ หรือเปล่า? อาจเป็นเธอก็ได้\\pจะรอให้มาเยี่ยมนะ บาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText24", "th": "สวัสดี นี่ {STR_VAR_1} ฟังดูสบายดีนะ {PLAYER}{KUN}\\pฉันเดินทางมาทั่วโลกแล้ว แต่ต้องบอกว่าติดใจภูมิภาคนี้มาก\\pตั้งใจว่าจะอยู่ที่นี่สักพัก บางทีเราอาจได้เจอกันอีก?\\pยังไม่ลืมฝีมืออันเจิดจ้าของเธอเลย\\pหวังว่าจะได้รีแมตช์นะ$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText25", "th": "ฮึก… นี่… {STR_VAR_1}… …สะอื้น…\\pวันนี้โดนครูสึสึจิดุในห้องเรียน\\pแต่ไม่ได้เกลียดครูหรอกนะ\\pครูสึสึจิบอกชัดเจนว่าทำอะไรผิด จะได้เรียนรู้จากมัน\\pพรุ่งนี้ไปโรงเรียนเทรนเนอร์แน่นอน!\\pไว้เจอกันนะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText26", "th": "{STR_VAR_1} เองนะ!\\pเมื่อวานครูสึสึจิยอมให้สู้ด้วย\\pผลน่ะเหรอ… แย่สุด ๆ ไม่ต้องถามก็รู้\\pแต่ดีใจมากที่ครูสึสึจิ ยอมให้ท้าสู้ด้วย!\\pไม่อยากจะเชื่อเลยว่า ยิ่งชื่นชมครูมากขึ้นแค่ไหน!\\pจะตั้งใจฝึกให้เต็มที่! ต้องไปแล้ว!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText27", "th": "หวัดดี แอนนาเองนะ! วันนี้ก็อยู่กับเม็ก รุ่นน้องคู่หูอีกแล้ว\\pชอบดูแลเม็กกับโปเกมอนมากเลย น่ารักกันทั้งนั้น!\\pอยากดูแลพวกเขา เหมือนเป็นน้อง ๆ ของตัวเองจัง!\\pอ้าว หวัดดี เม็ก! ได้ขนมปังมาไหม?\\pหา? ไม่ใช่นะ ไม่ได้ใช้เธอเป็นทาสส่วนตัวซะหน่อย!\\pก็เธอแพ้การแข่ง เลยต้องไปซื้อขนมปังเป็นการลงโทษไง!\\pไม่ใช้เธอเป็นทาสหรอก เม็ก! เธอสำคัญกับฉันเกินไปนะ!\\pต้องไปแล้ว ถึงเวลากินขนมแล้วล่ะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText28", "th": "ฉันรักโปเกมอน! {STR_VAR_1} จากแฟนคลับเองนะ!\\pต้องฟังเรื่องนี้! โปเกมอนสุดที่รักของฉัน…\\pฟุด! ว้าฮ่าฮ่า! พูดมากกว่านี้ไม่ได้! เป็นความลับ!\\pน่ารักเกินกว่าจะบรรยายเลย!\\pอ้า {STR_VAR_2} สุดที่รักของฉัน กำลังอ้อนขอโปเกบล็อก!\\pน่ารักที่สุดในโลกเลย!\\pขอโทษนะ ตอนนี้คุยไม่ได้! ไว้เล่าต่อคราวหน้า!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText29", "th": "โอโฮะโฮะ!\\pนี่ {STR_VAR_1} เอง!\\pอยากเล่าเรื่องโปเกมอนสุดที่รักให้ฟังจะแย่แล้ว!\\pได้โปรด ฟังหน่อยนะ เป็นเรื่องของ {STR_VAR_2} สุดที่รักของฉัน\\pเวลาใครอุ้มขึ้นมา มันจะกระโดดเข้ามาในอ้อมแขนฉันทันที!\\pโอ้… โอ้… จะมีอะไรสุขใจไปกว่านี้อีกไหม?\\pโอ้ รู้สึกเหมือนอยู่บนสวรรค์เลย!\\pดีใจที่ได้แบ่งปันความสุขให้เธอบ้าง\\pเอาล่ะ ต้องไปแล้ว บ๊ายบาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText30", "th": "ข้าคือ… {STR_VAR_1} ผู้คนเรียกข้าว่า ผู้เชี่ยวชาญ\\pแต่มีสิ่งหนึ่งที่ข้ารู้\\pข้าไม่อาจเป็นผู้เชี่ยวชาญได้ ด้วยพลังของตัวเองเพียงลำพัง\\pเทรนเนอร์จะเป็นผู้เชี่ยวชาญได้ ก็ด้วยความช่วยเหลือของโปเกมอนเท่านั้น\\pหึ! ดูเหมือนข้าจะพูดอะไรที่ลึกซึ้งออกไปเสียแล้ว!\\pข้าขอตัวไปอย่างอารมณ์ดีล่ะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText31", "th": "{STR_VAR_1} เองจ้ะ ดีใจที่ได้คุยกับหนูนะ\\pแช่บ่อน้ำพุร้อนแบบนี้ รู้สึกสดชื่นกระปรี้กระเปร่าจริง ๆ\\pตั้งแต่เจอกัน ฉันก็สู้กับเทรนเนอร์หนุ่มสาวมาหลายคน\\pแต่หนูยังเก่งที่สุดอยู่ดี\\pพอแก่ตัวไป หนูคงเป็นผู้เชี่ยวชาญแน่ ๆ! โอโฮะโฮะ…$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText32", "th": "เย้! {STR_VAR_1} เองนะ! เป็นไงบ้าง?\\pอาจจะคิดไปเองนะ แต่เวลาชนะ\\pกางเกงขาสั้นของฉัน รู้สึกแบบว่า ดีขึ้น ในแง่เนื้อผ้าน่ะ\\pหมายความว่ายังไงน่ะเหรอ? อธิบายยากนิดหน่อย แต่…\\pจะพูดยังไงดีล่ะ… กางเกงขาสั้นมันลื่นนุ่มขึ้นน่ะ!\\pแล้วตอนที่สู้กับ {PLAYER}{KUN} กางเกงขาสั้นของฉัน รู้สึกเหนอะหนะ หยาบกระด้าง\\p… … … … … … ไม่ได้เชื่อจริง ๆ ใช่ไหม?\\pเอะเฮะเฮะ แค่นี้แหละ! บาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText33", "th": "อะฮอย! {STR_VAR_1} เอง!\\pเหมือนเคย ตกปลาอย่างบ้าระห่ำอยู่!\\pนอกจากทะเลกับแม่น้ำ มีที่อื่นให้ตกปลาอีกไหมนะ?\\pอยากตกปลามันทุกที่เลย!\\pโอ๊ย ให้ตายสิ! สายเบ็ดพันกันหมดแล้ว!\\pต้องไปแล้ว! ช่วยหาที่ตกปลาใหม่ ๆ ให้ด้วยนะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText34", "th": "เฮ้ {STR_VAR_1} เองนะ ชิล ๆ อยู่หรือเปล่า?\\pตั้งแต่เด็ก ฉันก็เป็นคนใจเย็นมาตลอดแหละ\\pไม่เคยเครียด ไม่เคยรีบร้อนอะไร\\pแต่เชื่อไหม ตอนนี้ฉันเป็นนักไตรกีฬาซะแล้ว\\pชีวิตจะพาไปทางไหน ไม่มีใครรู้หรอก เข้าใจที่พูดใช่ไหม\\pตอนนี้เธอเป็นเทรนเนอร์ แต่อนาคตจะเป็นยังไง ใครจะรู้ ใช่ไหมล่ะ?\\pลองนึกภาพตัวเองเป็นครู หรือศิลปินดูสิ เท่ดีนะ?\\pแต่ก็นะ ใจเย็น ๆ ชิล ๆ ไว้ ไว้เจอกัน$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText35", "th": "{STR_VAR_1} เองนะ! ตอนนี้กำลังปั่นจักรยานอยู่\\pชอบว่ายน้ำกับวิ่งนะ แต่ปั่นจักรยานคือรักแรกของฉัน!\\pมันทำให้รู้สึกเหมือนร่างกาย เป็นหนึ่งเดียวกับสายลม\\pตื่นเต้นเหมือนกำลังโบยบินเลย!\\pเอาล่ะ! วันนี้จะทำสถิติใหม่ ที่ไซเคิลโรดให้ได้!\\pเธอก็ลองมาท้าทายดูบ้างสิ! ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText36", "th": "โย่ {STR_VAR_1} เองนะ! กำลังแข่งไตรกีฬาอยู่กลางทางเลย!\\pแต่เฮ้ มีเวลาคุยเล่นเสมอแหละ!\\pออกกำลังกายกับโปเกมอนนี่ รู้สึกดีสุด ๆ!\\pไม่ต้องพูดอะไรกันเลย ก็ใจตรงกัน เหมือนมีหัวใจดวงเดียวกัน\\pสร้างแรงบันดาลใจสุด ๆ!\\pแฮ่ก… คุยไปวิ่งไป… เริ่มหมดแรงแล้ว…\\pแฮ่ก… ต้อง…ไป…แล้ว…$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText37", "th": "หวัดดี {STR_VAR_1} เองนะ\\pถ้าอยากเพิ่มความอึด ต้องฝึกบนที่สูงเลย!\\pลองวิ่งบนยอดเขาดูสิ ไม่นานก็หอบแฮ่กแล้ว!\\pฉันเองก็เริ่มขาดออกซิเจนแล้วเหมือนกัน! ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText38", "th": "อ้อ {STR_VAR_1} เองนะ หวัดดี\\pว่ายน้ำมาเยอะแล้ว แต่ก็ยังไปไม่ถึงเมืองไซยูสักที\\pหรือว่าฉันว่ายวนไปวนมาอยู่ที่เดิม\\pไม่หรอก ไม่ ๆ เป็นไปไม่ได้หรอก ว้าฮ่าฮ่าฮ่า ดูแลตัวเองด้วยนะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText39", "th": "เฮ้ {STR_VAR_1} เองนะ… อุ๊ย!\\pตู้ม!\\pบลุก บลุก บลุก บลุก…\\pจ๋อม!\\pฟู่ ฟู่! ฟู่ ฟู่!\\pเฮ้! ขอโทษทีนะ! เพิ่งทาน้ำมันอาบแดดไป\\pโปเกนาวีเลยลื่นหลุดมือ ตกลงน้ำไปเลย!\\pแต่โห โปเกนาวีของเดวอนนี่ทนจริง ๆ ตกน้ำก็ยังรอด!\\pยังไงก็ตาม ตอนนี้กำลังยุ่งกับการอาบแดด ไว้คุยกันใหม่นะ$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText40", "th": "สวัสดี นี่ {STR_VAR_1} เอง\\pในไตรกีฬาสามประเภท ชอบว่ายน้ำที่สุด\\pแต่ถ้าแช่ทะเลนานเกินไป ผิวจะเหี่ยวย่นเป็นลูกพรุนไหมนะ?\\pโอ๊ย ไตรกีฬานี่เป็นการทดสอบ ความอึดของมนุษย์ที่โหดจริง ๆ! บาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText41", "th": "สวัสดี {PLAYER}{KUN} {STR_VAR_1} เองนะ\\pโปเกมอนของเธอเป็นไงบ้าง?\\pโปเกมอนประเภท DRAGON ของฉัน ดูเหมือนจะอยู่ในฟอร์มสุดยอด ไว้คุยกันใหม่$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText42", "th": "{STR_VAR_1} เองนะ\\p{STR_VAR_2} ของฉันแกร่งขึ้นกว่าคราวก่อนอีก\\pคราวนี้จะไม่แพ้เธออีกแล้ว รอดูคราวหน้าได้เลย!\\pไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText43", "th": "นี่คือ {STR_VAR_1}\\pข้ายังคงศึกษาวิชาการซ่อนตัวต่อไป\\pแต่ข้าเก่งเกินไป ไม่มีใครหาข้าเจอเลย\\pความสำเร็จทำให้ข้าเหงา…\\pหายตัวไปดั่งควัน! ลาก่อน!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText44", "th": "นี่ {STR_VAR_1} เอง ฝึกต่อมาตลอดตั้งแต่เจอกัน\\p{STR_VAR_2} ของฉันแกร่งขึ้นมากแล้ว\\pฝึกบนชายหาดได้ผลจริง ๆ อย่างที่คิดไว้เลย บาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText45", "th": "สวัสดีค่ะ นี่ {STR_VAR_1} ค่ะ\\pเถ้าภูเขาไฟน่ารำคาญนี่ จะหยุดตกเมื่อไหร่นะคะ?\\pถ้าหนาเกินไป คงกลบลวดลายบนร่มกันแดดของดิฉันหมด…\\pสัญญากันนะคะ ว่าจะได้เจอกันอีก!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText46", "th": "หวัดดี {STR_VAR_1} เองนะ\\pรู้ไหมว่า ลอยตัวในทะเลง่ายกว่าในสระ?\\pแค่นอนนิ่ง ๆ ตัวก็จะลอยขึ้นมาเอง\\pแต่ถ้าลอยนานเกินไป ระวังจะโดนพัดออกไปไกลนะ\\p…ว่าแต่ นี่ฉันอยู่ที่ไหนเนี่ย? ต้องไปแล้ว!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText47", "th": "อ้อ {PLAYER}{KUN} หวัดดี! {STR_VAR_1} เองนะ\\pตอนนี้อยู่บนภูเขา\\pแต่พื้นขรุขระเกินไป กางเต็นท์ตรงนี้ไม่ได้…\\pอ๊ะ คิดออกแล้ว!\\pให้โปเกมอนช่วยกระทืบพื้นให้เรียบ ก็ได้นี่!\\pจะลองดูแล้ว! บ๊ายบาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText48", "th": "อ้อ หวัดดี หวัดดี {STR_VAR_1} เองนะ!\\pกำลังเลี้ยงโปเกมอนกับลิฟ! พยายามกันสุด ๆ เลย!\\pถ้าพยายามมากขึ้น จะได้เป็นที่หนึ่งไหมนะ? บ๊ายบาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText49", "th": "{STR_VAR_1} เองนะ!\\pฉันเป็นกะลาสี แต่ตอนนี้ไม่ได้อยู่บนเรือ\\pเลยสงสัยว่า กะลาสีที่อยู่บนบก ควรจะเรียกว่าอะไรดี?\\pนั่นแหละที่นั่งคิดอยู่ ขณะมองออกไปที่ทะเล\\pเอาล่ะ ไว้คราวหน้า!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText50", "th": "{STR_VAR_1} เองนะ แล้ว? ได้โปเกมอนเพิ่มหรือยัง?\\pถ้าจับโปเกมอนตัวใหม่ได้ ต้องมาอวดกันนะ\\pไม่ได้จะงอแงขอหรอก จริง ๆ นะ จะรอนะ ไว้เจอกัน$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText51", "th": "นี่ {STR_VAR_1} เอง\\pเลี้ยงโปเกมอนด้วยวิธีที่ดีที่สุด อยู่หรือเปล่า?\\pที่ที่ฉันอยู่อากาศบริสุทธิ์ เหมาะกับการเลี้ยงโปเกมอนสุด ๆ\\pถ้าจะตั้งใจเลี้ยงโปเกมอน ก็มาที่ {STR_VAR_2} สิ ดูแลตัวเองด้วยนะ$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText52", "th": "หวัดดี นี่ {STR_VAR_1} เอง\\pให้โปเกบล็อกกับ {STR_VAR_2} ของฉัน ดูเหมือนมันจะชอบมากเลย\\pดูเหมือนโปเกมอนก็มีชอบ มีไม่ชอบโปเกบล็อก ต่างกันไป\\pน่าสนใจมากทีเดียว ดูแลตัวเองด้วยนะ$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText53", "th": "{STR_VAR_1} เองนะ\\pถ้าร่วมมือกับโปเกมอน ก็อยู่ในป่าได้สบาย ๆ\\pทุกคนควรเข้าใจข้อนี้ แล้วร่วมมือกับโปเกมอนให้มากขึ้น\\pแบบนั้นแหละคือสิ่งที่ดีที่สุด คิดอย่างนั้นจริง ๆ\\pคิดว่าเธอมาถูกทางแล้วล่ะ! ไว้คุยกันใหม่!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText54", "th": "หวัดดี {STR_VAR_1} เองนะ\\pก็เทรนเนอร์ที่เตรียมพร้อมเสมอไง!\\p{PLAYER}{KUN} มีไอเท็มพอไหม? โปเกมอนพร้อมลุยหรือเปล่า?\\pการจัดทุกอย่างรอบตัวให้พร้อมตลอดเวลา\\pคือเคล็ดลับของการเดินทางที่ไม่สะดุด\\pต้องไปเช็กของของตัวเองแล้ว! อย่าประมาทล่ะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText55", "th": "{STR_VAR_1} เองนะ! {STR_VAR_1} เองนะ!\\p{STR_VAR_2} เป็นเส้นทางที่คนสัญจรเยอะมาก\\pเลยโดนเทรนเนอร์ทุกแบบท้าสู้ทุกวัน\\pวันนี้ชนะ 5 ครั้ง แพ้แค่ 3 ครั้งเอง!\\pแล้วเธอล่ะ วันนี้เป็นไงบ้าง? คราวหน้าเล่าให้ฟังนะ โอเคไหม?$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText56", "th": "{STR_VAR_1} เองนะ\\pฉันเป็นที่นิยมเพราะมีโปเกมอนประเภท BUG เยอะ ใช่ไหมล่ะ?\\pวันนี้เลยพาแมลงตัวโปรดหลายตัว ไปโรงเรียนด้วย\\pแล้วเด็กผู้หญิงที่ฉันชอบก็ร้องไห้! จะหัวเราะก็เชิญเลย\\pต้องลองสอนเธอว่า โปเกมอนประเภท BUG มีเสน่ห์ตรงไหน\\pฮึก… ไว้เจอกันนะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText57", "th": "แฮ่ก! แฮ่ก! แฮ่ก! แฮ่ก!\\pหวัดดี! {STR_VAR_1} เองนะ! แฮ่ก! แฮ่ก!\\pคุยไปด้วย… ปีนเขาไปด้วย… นี่มันออกกำลังกายสุดโหด… แฮ่ก! แฮ่ก!\\pอึก! โอ๊ย… ชันขึ้นอีกแล้ว… ไว้คุย…กันใหม่… แฮ่ก! แฮ่ก! แฮ่ก!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText58", "th": "อ้อ หวัดดี!\\pยังตามหาสมบัติกับคิราอยู่เลย!\\pบางทีที่นี่อาจไม่มีสมบัติเลยก็ได้…\\pแต่ที่สำคัญคือ ได้ตามหาไปพร้อมกับคิรา\\pอ้าว คิรา! ท…ทำไมโกรธล่ะ?\\pไม่ได้เมินเธอนะ ที่รัก! เธอคือคนเดียวของฉัน!\\p…{PLAYER} ต้องไปแล้ว บาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText59", "th": "นี่ {STR_VAR_1} เองนะ!\\pไปฝึกที่ยิมเมืองมุโระมาอีกแล้ว\\pโทคิ หัวหน้ายิม ดูแกร่งขึ้นกว่าเดิม\\pเห็นว่าเพราะถูกคลื่นทะเลขัดเกลามา…\\pแต่ก็ยังเท่เหมือนเดิม สาว ๆ หลงกันใหญ่!\\pบอกตรง ๆ ว่าอิจฉา\\pสงสัยจัง… ชิบะ เพื่อนของเขา จะเป็นแบบโทคิหรือเปล่า?\\pแบบว่า เหงื่อท่วม ตัวเหม็น แล้วชอบเรียกคนอื่นว่า “คลื่นยักษ์”\\pอะไรแบบนั้นน่ะ\\pแต่เฮ้ ความอิจฉาแบบนี้ ไม่ค่อยงามเท่าไรนะ ว่าไหม?\\pลืมเรื่องที่คุยกันไปซะ ได้ไหม? ไปละ!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText60", "th": "ยินดีที่ได้คุยกับเทรนเนอร์รุ่นใหม่ อย่างเธอนะ\\pคิดว่าเธอคงสนุกกับโปเกมอนต่อไป ไม่ว่าจะอายุเท่าไร\\pคงดีนะ ถ้าเธอได้มีคู่หูอย่างพวกเรา\\pแน่นอน {PLAYER}{KUN} ตอนนี้เธอก็ได้รับ\\pความไว้ใจและมิตรภาพจากโปเกมอนอยู่แล้ว\\pเธอมีแววจะสร้างสายสัมพันธ์ ที่ยืนยาวได้แล้ว!\\pฮ่าฮ่าฮ่า! อย่าได้ท้อใจล่ะ!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText61", "th": "หวัดดี นี่ {STR_VAR_1} เองนะ! เราเพิ่งชนะการต่อสู้มา!\\pเราไม่ค่อยชนะหรอก แต่คู่แข่งคราวนี้ เป็นนักว่ายน้ำหนุ่มสุดเท่\\pพี่สาวผมโกรธใหญ่เลย!\\pเธออยากแกล้งทำเป็นอ่อนแอ จะได้ดูน่าประทับใจ!\\pไม่ว่าชนะหรือแพ้ ผมก็โดนดุตลอดเลย!\\p{PLAYER}{KUN} คราวหน้าช่วยพูดอะไรกับเธอหน่อยได้ไหม?\\pโอเค ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText62", "th": "{STR_VAR_1} เอง ใช่ เมื่อวานออกทะเลไป\\pหวังว่าจะเจอซากโบราณใหม่ ๆ ให้สำรวจ\\pแต่กระแสน้ำพาฉันกลับมาที่เดิม ยังไงก็ไม่รู้\\pฝีมือต่อสู้ก็ยังอ่อนอยู่… จะหัวเราะเยาะก็เชิญ…\\pแต่ฉันไม่ยอมแพ้หรอก\\pวันของฉันจะมาถึง เมื่อค้นพบซากโบราณแห่งใหม่!\\pพูดแค่นี้แหละ! ลาก่อน!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText63", "th": "อะฮอย! {STR_VAR_1} เองนะ!\\pตอนนี้อยู่ที่เส้นทาง 108! พูดง่าย ๆ ก็ที่ประจำนั่นแหละ!\\pวันนี้ มีนักว่ายน้ำสาวสวยว่ายผ่านมา!\\pฉันเลยตะโกนแกล้งให้ตกใจ!\\pแล้วเธอก็ถลึงตาใส่ฉันซะน่ากลัวเลย!\\pรายงานจากเส้นทาง 108 มีเท่านี้! นำเสนอโดย {STR_VAR_1}!$"}
+{"id": "data/text/match_call.inc#MatchCall_PersonalizedText64", "th": "{STR_VAR_1} เองนะ!\\pกำลังยุ่งนิดหน่อย แต่คิดว่าควรบอกไว้\\pว่าวันนี้ชนะเทรนเนอร์ไปอีก 5 คนแล้ว\\pถ้ารักษาฟอร์มนี้ไว้ได้ คราวหน้าคงชนะเธอได้แน่\\pคิดว่าเราสองคนคงเป็นคู่แข่งที่ดีกันได้ แล้วเจอกันใหม่!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText1", "th": "สวัสดี! นี่ {STR_VAR_1} เองนะ ได้ยินข่าวแล้ว!\\pเขาว่าเธอทำผลงานยอดเยี่ยมที่ {STR_VAR_2}\\pชนะรวด {STR_VAR_3} ครั้ง สุดยอดไปเลย! ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText2", "th": "ฮัลโหล {STR_VAR_1} เองนะ! ได้ยินเรื่องเธอแล้ว!\\pเขาว่าเธอชนะรวด {STR_VAR_3} ครั้ง ที่ {STR_VAR_2}\\pสุดยอดเลย! ฉันก็ต้องพยายามมากขึ้นแล้ว! ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText3", "th": "ไง {PLAYER}! นี่ {STR_VAR_1} เอง\\pได้ยินว่าเธอบุกตะลุยที่ {STR_VAR_2} มา!\\pชนะรวดตั้ง {STR_VAR_3} ครั้ง… เป็นสถิติที่สุดยอดเลยใช่ไหม?\\pฉันก็ต้องตั้งหลักให้ดีเหมือนกัน! เจอกันเร็ว ๆ นี้!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText4", "th": "เฮ้ {PLAYER}{KUN} {STR_VAR_1} เองนะ เป็นไงบ้าง?\\pมีข่าวลือว่าเธอชนะรวด {STR_VAR_3} ครั้ง ที่ {STR_VAR_2}\\pฉันก็ต้องเร่งเครื่องบ้างแล้ว ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText5", "th": "หวัดดี {PLAYER}{KUN}! นี่ {STR_VAR_1} นะ\\pเธอไปที่ {STR_VAR_2} แล้วชนะรวด {STR_VAR_3} ครั้งเหรอ? เจ๋งไปเลย!\\pฉันต้องฝึกโปเกมอนให้มากกว่านี้แล้ว ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText6", "th": "เฮ้ {PLAYER}{KUN} {STR_VAR_1} เองนะ สบายดีไหม?\\pว่าแต่ ได้ยินว่าเธอทำผลงาน ชนะรวด {STR_VAR_3} ครั้งที่ {STR_VAR_2}\\pทำให้ฉันมีแรงใจ ตั้งใจฝึกทีมมากขึ้นเลย$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText7", "th": "…เอ่อ {PLAYER}{KUN}? {STR_VAR_1} เองนะ…\\pอ้อ ใช่ เธอไปที่ {STR_VAR_2} มาใช่ไหม?\\pแล้วก็ชนะรวด {STR_VAR_3} ครั้ง\\pอ๊ะ โปเกมอนหายากผ่านไปแล้ว! ต้องไปแล้ว!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText8", "th": "อ้อ {PLAYER}{KUN} สบายดีไหม? {STR_VAR_1} พูดสายอยู่\\pหวังว่าจะสบายดีนะ อ้อ แต่สบายดีอยู่แล้วนี่\\pได้ยินว่าเธอชนะรวด {STR_VAR_3} ครั้ง ที่ {STR_VAR_2}\\pน่าประทับใจมาก! ขอให้ประสบความสำเร็จต่อไปนะ$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText9", "th": "โอ้ {PLAYER}{KUN} หวัดดี! นี่ {STR_VAR_1} นะ!\\pได้ยินแล้ว! ชนะรวด {STR_VAR_3} ครั้ง ที่ {STR_VAR_2}!\\pเท่สุด ๆ! ฉันก็ต้องพยายามมากขึ้นแล้ว!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText10", "th": "อ้อ {PLAYER}{KUN} สวัสดี… นี่ {STR_VAR_1} นะ\\pเธอชนะรวด {STR_VAR_3} ครั้ง ที่ {STR_VAR_2} เหรอ?\\pเป็นความสำเร็จที่ไม่ธรรมดาเลย ฉันต้องพยายามให้มากกว่านี้$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText11", "th": "อา {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pได้ยินว่าเธอเป็นตัวแสบแห่ง {STR_VAR_2}?\\pชนะรวดกี่ครั้งนะ {STR_VAR_3} ครั้งเหรอ?\\pเก่งจริง ๆ เลยนะเธอ ฉันจะชนะได้สักกี่ครั้งกันนะ?$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText12", "th": "สวัสดี {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pสบายดีหรือเปล่า?\\pมีคนเล่าเรื่องเธอให้ฟัง ว่าเธอชนะรวด {STR_VAR_3} ครั้ง\\pที่สถานที่ชื่อ {STR_VAR_2}?\\pเรื่องเล่าที่น่าทึ่งทีเดียว ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText13", "th": "อ้า สวัสดี {PLAYER}{KUN}! นี่ {STR_VAR_1} เอง!\\pหวังว่าจะสบายดีนะ\\pเขาว่าเธอชนะรวด {STR_VAR_3} ครั้ง ที่ {STR_VAR_2}\\pชื่นชมพลังของเธอจริง ๆ! แล้วพบกันใหม่$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierStreakText14", "th": "อ้อ หวัดดี {PLAYER}{KUN} นี่ {STR_VAR_1} นะ\\pได้ยินเรื่องเธอแล้ว!\\pเพิ่งชนะรวด {STR_VAR_3} ครั้ง ที่ {STR_VAR_2} ใช่ไหม?\\pเธอเป็นแรงบันดาลใจเลย! บ๊ายบาย!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierRecordStreakText1", "th": "สวัสดี! นี่ {STR_VAR_1} เองนะ ได้ยินข่าวแล้ว!\\pเขาว่าเธอทำผลงานยอดเยี่ยมที่ {STR_VAR_2}\\pชนะรวด {STR_VAR_3} ครั้ง สุดยอดไปเลย! ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierRecordStreakText2", "th": "ฮัลโหล {STR_VAR_1} เองนะ! ได้ยินเรื่องเธอแล้ว!\\pเขาว่าเธอชนะรวด {STR_VAR_3} ครั้ง ที่ {STR_VAR_2}\\pสุดยอดเลย! ฉันก็ต้องพยายามมากขึ้นแล้ว! ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierRecordStreakText3", "th": "ไง {PLAYER}! นี่ {STR_VAR_1} เอง\\pได้ยินว่าเธอบุกตะลุยที่ {STR_VAR_2} มา!\\pชนะรวดตั้ง {STR_VAR_3} ครั้ง… เป็นสถิติที่สุดยอดเลยใช่ไหม?\\pฉันก็ต้องตั้งหลักให้ดีเหมือนกัน! เจอกันเร็ว ๆ นี้!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierRecordStreakText4", "th": "เฮ้ {PLAYER}{KUN} {STR_VAR_1} เองนะ เป็นไงบ้าง?\\pมีข่าวลือว่าเธอชนะรวด {STR_VAR_3} ครั้ง ที่ {STR_VAR_2}\\pฉันก็ต้องเร่งเครื่องบ้างแล้ว ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierRecordStreakText5", "th": "หวัดดี {PLAYER}{KUN}! นี่ {STR_VAR_1} นะ\\pเธอไปที่ {STR_VAR_2} แล้วชนะรวด {STR_VAR_3} ครั้งเหรอ? เจ๋งไปเลย!\\pฉันเหรอ? ก็ว่าพัฒนาขึ้นเรื่อย ๆ นะ ไว้เจอกัน!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierRecordStreakText6", "th": "เฮ้ {PLAYER}{KUN} {STR_VAR_1} เองนะ สบายดีไหม?\\pว่าแต่ ได้ยินว่าเธอทำผลงาน ชนะรวด {STR_VAR_3} ครั้งที่ {STR_VAR_2}\\pฉันเองก็ต้องพยายามมากขึ้นแล้ว! เจอกันเร็ว ๆ นี้!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierRecordStreakText7", "th": "…เอ่อ {PLAYER}{KUN}? {STR_VAR_1} เองนะ…\\pอ้อ ใช่ เธอไปที่ {STR_VAR_2} มาใช่ไหม?\\pแล้วก็ชนะรวด {STR_VAR_3} ครั้ง\\pอ๊ะ โปเกมอนหายากผ่านไปแล้ว! ต้องไปแล้ว!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierRecordStreakText8", "th": "อ้อ {PLAYER}{KUN} สบายดีไหม? {STR_VAR_1} พูดสายอยู่\\pหวังว่าจะสบายดีนะ อ้อ แต่สบายดีอยู่แล้วนี่\\pได้ยินว่าเธอชนะรวด {STR_VAR_3} ครั้ง ที่ {STR_VAR_2}\\pน่าประทับใจมาก! ฉันต้องฝึกโปเกมอนให้มากขึ้นบ้างแล้ว!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierRecordStreakText9", "th": "โอ้ {PLAYER}{KUN} หวัดดี! นี่ {STR_VAR_1} นะ!\\pได้ยินแล้ว! ชนะรวด {STR_VAR_3} ครั้ง ที่ {STR_VAR_2}!\\pเท่สุด ๆ! ฉันก็ต้องพยายามมากขึ้นแล้ว!$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierRecordStreakText10", "th": "อ้อ {PLAYER}{KUN} สวัสดี… นี่ {STR_VAR_1} นะ\\pเธอชนะรวด {STR_VAR_3} ครั้ง ที่ {STR_VAR_2} เหรอ?\\pเป็นความสำเร็จที่ไม่ธรรมดาเลย ฉันต้องพยายามให้มากกว่านี้$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierRecordStreakText11", "th": "อา {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pได้ยินว่าเธอเป็นตัวแสบแห่ง {STR_VAR_2}?\\pชนะรวดกี่ครั้งนะ {STR_VAR_3} ครั้งเหรอ?\\pเก่งจริง ๆ เลยนะเธอ ฉันจะชนะได้สักกี่ครั้งกันนะ?$"}
+{"id": "data/text/match_call.inc#MatchCall_BattleFrontierRecordStreakText12", "th": "สวัสดี {PLAYER}{KUN} นี่ {STR_VAR_1} เอง\\pสบายดีหรือเปล่า?\\pมีคนเล่าเรื่องเธอให้ฟัง ว่าเธอชนะรวด {STR_VAR_3} ครั้ง\\pที่สถานที่ชื่อ {STR_VAR_2}?\\pเรื่องเล่าที่น่าทึ่งทีเดียว ไว้เจอกัน!$"}

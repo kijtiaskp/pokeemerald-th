@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,17 +89,21 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
+BATTLE TENT	แบทเทิลเต็นท์	frontier	
+SINGLE BATTLE	ซิงเกิลแบทเทิล	frontier	
+DOUBLE BATTLE	ดับเบิลแบทเทิล	frontier	
+NORMAL	NORMAL	type	คงภาษาอังกฤษตามต้นฉบับ
+WAILMER PAIL	WAILMER PAIL	item	คงภาษาอังกฤษตามต้นฉบับ
+{POKEBLOCK} CASE	{POKEBLOCK} CASE	item	คงภาษาอังกฤษตามต้นฉบับ
+-	-	move	คงภาษาอังกฤษตามต้นฉบับ
+VINE WHIP	VINE WHIP	move	คงภาษาอังกฤษตามต้นฉบับ
 TV	ทีวี	decoration	
-WAILMER PAIL	บัวรดน้ำ	item	
-{POKEBLOCK} CASE	กล่อง{POKEBLOCK}	item	
-NORMAL	ปกติ	type	
 PLUS	พลัส	ability	
-VINE WHIP	แส้เถาวัลย์	move	
 BEAUTY	สาวสวย	trainer_class	
 LEADER	หัวหน้ายิม	trainer_class	
 SAILOR	กะลาสี	trainer_class	

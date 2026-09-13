@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,39 +89,59 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
-CHERI	คุราโบ	berry_name	
-ORAN	โอเรน	berry_name	
-ENIGMA	นาโซะ	berry_name	
+BATTLE TOWER	แบทเทิลทาวเวอร์	frontier	
+NORMAL	NORMAL	type	คงภาษาอังกฤษตามต้นฉบับ
+FIGHT	FIGHT	type	คงภาษาอังกฤษตามต้นฉบับ
+FLYING	FLYING	type	คงภาษาอังกฤษตามต้นฉบับ
+POISON	POISON	type	คงภาษาอังกฤษตามต้นฉบับ
+GROUND	GROUND	type	คงภาษาอังกฤษตามต้นฉบับ
+ROCK	ROCK	type	คงภาษาอังกฤษตามต้นฉบับ
+BUG	BUG	type	คงภาษาอังกฤษตามต้นฉบับ
+GHOST	GHOST	type	คงภาษาอังกฤษตามต้นฉบับ
+STEEL	STEEL	type	คงภาษาอังกฤษตามต้นฉบับ
+???	???	type	คงภาษาอังกฤษตามต้นฉบับ
+FIRE	FIRE	type	คงภาษาอังกฤษตามต้นฉบับ
+WATER	WATER	type	คงภาษาอังกฤษตามต้นฉบับ
+GRASS	GRASS	type	คงภาษาอังกฤษตามต้นฉบับ
+ICE	ICE	type	คงภาษาอังกฤษตามต้นฉบับ
+DRAGON	DRAGON	type	คงภาษาอังกฤษตามต้นฉบับ
+DARK	DARK	type	คงภาษาอังกฤษตามต้นฉบับ
+CHERI	CHERI	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+ORAN	ORAN	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+ENIGMA	ENIGMA	berry_name	คงภาษาอังกฤษตามต้นฉบับ
+POKé BALL	POKé BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+ENIGMA BERRY	ENIGMA BERRY	item	คงภาษาอังกฤษตามต้นฉบับ
+MAGNET	MAGNET	item	คงภาษาอังกฤษตามต้นฉบับ
+{POKEBLOCK} CASE	{POKEBLOCK} CASE	item	คงภาษาอังกฤษตามต้นฉบับ
+LETTER	LETTER	item	คงภาษาอังกฤษตามต้นฉบับ
+RUBY	RUBY	item	คงภาษาอังกฤษตามต้นฉบับ
+SAPPHIRE	SAPPHIRE	item	คงภาษาอังกฤษตามต้นฉบับ
+-	-	move	คงภาษาอังกฤษตามต้นฉบับ
+SURF	SURF	move	คงภาษาอังกฤษตามต้นฉบับ
+ABSORB	ABSORB	move	คงภาษาอังกฤษตามต้นฉบับ
+THUNDER	THUNDER	move	คงภาษาอังกฤษตามต้นฉบับ
+FISSURE	FISSURE	move	คงภาษาอังกฤษตามต้นฉบับ
+PSYCHIC	PSYCHIC	move	คงภาษาอังกฤษตามต้นฉบับ
+MIRROR MOVE	MIRROR MOVE	move	คงภาษาอังกฤษตามต้นฉบับ
+FIRE BLAST	FIRE BLAST	move	คงภาษาอังกฤษตามต้นฉบับ
+SWIFT	SWIFT	move	คงภาษาอังกฤษตามต้นฉบับ
+SPORE	SPORE	move	คงภาษาอังกฤษตามต้นฉบับ
+FLASH	FLASH	move	คงภาษาอังกฤษตามต้นฉบับ
+SUBSTITUTE	SUBSTITUTE	move	คงภาษาอังกฤษตามต้นฉบับ
+SPIKES	SPIKES	move	คงภาษาอังกฤษตามต้นฉบับ
+CHARM	CHARM	move	คงภาษาอังกฤษตามต้นฉบับ
+ATTRACT	ATTRACT	move	คงภาษาอังกฤษตามต้นฉบับ
+SPIT UP	SPIT UP	move	คงภาษาอังกฤษตามต้นฉบับ
+SWALLOW	SWALLOW	move	คงภาษาอังกฤษตามต้นฉบับ
+BOUNCE	BOUNCE	move	คงภาษาอังกฤษตามต้นฉบับ
 SLIDE	สไลเดอร์	decoration	
 TV	ทีวี	decoration	
-POKé BALL	มอนสเตอร์บอล	item	
-ENIGMA BERRY	ผลนาโซะ	item	
-MAGNET	แม่เหล็ก	item	
-{POKEBLOCK} CASE	กล่อง{POKEBLOCK}	item	
-LETTER	จดหมาย	item	
-RUBY	ทับทิม	item	
-SAPPHIRE	ไพลิน	item	
 SECRET BASE	ฐานลับ	location	
-NORMAL	ปกติ	type	
-FIGHT	ต่อสู้	type	
-FLYING	บิน	type	
-POISON	พิษ	type	
-GROUND	ดิน	type	
-ROCK	หิน	type	
-BUG	แมลง	type	
-GHOST	ผี	type	
-STEEL	เหล็ก	type	
-FIRE	ไฟ	type	
-WATER	น้ำ	type	
-GRASS	หญ้า	type	
-ICE	น้ำแข็ง	type	
-DRAGON	มังกร	type	
-DARK	ความมืด	type	
 STENCH	กลิ่นเหม็น	ability	
 DRIZZLE	เรียกฝน	ability	
 SPEED BOOST	เร่งความเร็ว	ability	
@@ -198,23 +218,6 @@ WHITE SMOKE	ควันขาว	ability
 PURE POWER	พลังโยคะ	ability	
 SHELL ARMOR	เกราะเปลือก	ability	
 AIR LOCK	แอร์ล็อก	ability	
-SURF	โต้คลื่น	move	
-ABSORB	ดูดซับ	move	
-THUNDER	ฟ้าผ่า	move	
-FISSURE	แผ่นดินแยก	move	
-PSYCHIC	ไซโคคิเนซิส	move	
-MIRROR MOVE	สะท้อนท่า	move	
-FIRE BLAST	ไดมอนจิ	move	
-SWIFT	สปีดสตาร์	move	
-SPORE	สปอร์เห็ด	move	
-FLASH	แฟลช	move	
-SUBSTITUTE	ตัวตายตัวแทน	move	
-SPIKES	โปรยหนาม	move	
-CHARM	ออดอ้อน	move	
-ATTRACT	หลงเสน่ห์	move	
-SPIT UP	คายพลัง	move	
-SWALLOW	กลืนพลัง	move	
-BOUNCE	กระโดดเด้ง	move	
 DOCILE	เชื่อฟัง	nature	
 SERIOUS	จริงจัง	nature	
 LADY	คุณหนู	trainer_class	

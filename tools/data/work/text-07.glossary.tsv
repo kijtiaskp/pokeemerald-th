@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,27 +89,41 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
+DOUBLE BATTLE	ดับเบิลแบทเทิล	frontier	
+BUG	BUG	type	คงภาษาอังกฤษตามต้นฉบับ
+FIRE	FIRE	type	คงภาษาอังกฤษตามต้นฉบับ
+WATER	WATER	type	คงภาษาอังกฤษตามต้นฉบับ
+GRASS	GRASS	type	คงภาษาอังกฤษตามต้นฉบับ
+GREAT BALL	GREAT BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+POKé BALL	POKé BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+POTION	POTION	item	คงภาษาอังกฤษตามต้นฉบับ
+BURN HEAL	BURN HEAL	item	คงภาษาอังกฤษตามต้นฉบับ
+SUPER POTION	SUPER POTION	item	คงภาษาอังกฤษตามต้นฉบับ
+SODA POP	SODA POP	item	คงภาษาอังกฤษตามต้นฉบับ
+REPEL	REPEL	item	คงภาษาอังกฤษตามต้นฉบับ
+WHITE HERB	WHITE HERB	item	คงภาษาอังกฤษตามต้นฉบับ
+MIRACLE SEED	MIRACLE SEED	item	คงภาษาอังกฤษตามต้นฉบับ
+MACH BIKE	MACH BIKE	item	คงภาษาอังกฤษตามต้นฉบับ
+ITEMFINDER	ITEMFINDER	item	คงภาษาอังกฤษตามต้นฉบับ
+DEVON GOODS	DEVON GOODS	item	คงภาษาอังกฤษตามต้นฉบับ
+LETTER	LETTER	item	คงภาษาอังกฤษตามต้นฉบับ
+TM42	TM42	item	คงภาษาอังกฤษตามต้นฉบับ
+-	-	move	คงภาษาอังกฤษตามต้นฉบับ
+CUT	CUT	move	คงภาษาอังกฤษตามต้นฉบับ
+SURF	SURF	move	คงภาษาอังกฤษตามต้นฉบับ
+STRENGTH	STRENGTH	move	คงภาษาอังกฤษตามต้นฉบับ
+CONFUSION	CONFUSION	move	คงภาษาอังกฤษตามต้นฉบับ
+RETURN	RETURN	move	คงภาษาอังกฤษตามต้นฉบับ
+FRUSTRATION	FRUSTRATION	move	คงภาษาอังกฤษตามต้นฉบับ
+FACADE	FACADE	move	คงภาษาอังกฤษตามต้นฉบับ
+TRICK	TRICK	move	คงภาษาอังกฤษตามต้นฉบับ
 RED TENT	เต็นท์แดง	decoration	
 BLUE TENT	เต็นท์น้ำเงิน	decoration	
-GREAT BALL	ซูเปอร์บอล	item	
-POKé BALL	มอนสเตอร์บอล	item	
-POTION	ยาทาแผล	item	
-BURN HEAL	ยาแก้แผลไหม้	item	
-SUPER POTION	ยาทาแผลดี	item	
-SODA POP	ไซโคโซดา	item	
-REPEL	สเปรย์ไล่แมลง	item	
-WHITE HERB	สมุนไพรขาว	item	
-MIRACLE SEED	เมล็ดวิเศษ	item	
-MACH BIKE	จักรยานมัค	item	
-ITEMFINDER	เครื่องหาของ	item	
-DEVON GOODS	พัสดุเดวอน	item	
-LETTER	จดหมาย	item	
-TM42	TM42	item	
 OLDALE TOWN	เมืองโคโทกิ	location	
 DEWFORD TOWN	เมืองมุโระ	location	
 LAVARIDGE TOWN	เมืองฟุเอ็น	location	
@@ -132,18 +146,6 @@ ROUTE 1	เส้นทาง 1	location
 ROUTE 10	เส้นทาง 10	location	
 ROUTE 11	เส้นทาง 11	location	
 POKéMON LEAGUE	โปเกมอนลีก	location	
-BUG	แมลง	type	
-FIRE	ไฟ	type	
-WATER	น้ำ	type	
-GRASS	หญ้า	type	
-CUT	ชักดาบฟัน	move	
-SURF	โต้คลื่น	move	
-STRENGTH	พลังช้างสาร	move	
-CONFUSION	แรงจิต	move	
-RETURN	ตอบแทนบุญคุณ	move	
-FRUSTRATION	ระบายอารมณ์	move	
-FACADE	แข็งใจสู้	move	
-TRICK	ทริก	move	
 TEAM AQUA	แก๊งอควา	trainer_class	
 TEAM MAGMA	แก๊งแม็กม่า	trainer_class	
 BEAUTY	สาวสวย	trainer_class	

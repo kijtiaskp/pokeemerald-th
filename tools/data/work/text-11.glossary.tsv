@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,24 +89,26 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
+BATTLE TOWER	แบทเทิลทาวเวอร์	frontier	
+SAFARI ZONE	ซาฟารีโซน	frontier	
+WATER	WATER	type	คงภาษาอังกฤษตามต้นฉบับ
+SAFARI BALL	SAFARI BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+REPEL	REPEL	item	คงภาษาอังกฤษตามต้นฉบับ
+COIN CASE	COIN CASE	item	คงภาษาอังกฤษตามต้นฉบับ
+{POKEBLOCK} CASE	{POKEBLOCK} CASE	item	คงภาษาอังกฤษตามต้นฉบับ
+SECRET POWER	SECRET POWER	move	คงภาษาอังกฤษตามต้นฉบับ
+FAKE TEARS	FAKE TEARS	move	คงภาษาอังกฤษตามต้นฉบับ
 TV	ทีวี	decoration	
-SAFARI BALL	ซาฟารีบอล	item	
-REPEL	สเปรย์ไล่แมลง	item	
-COIN CASE	กล่องเหรียญ	item	
-{POKEBLOCK} CASE	กล่อง{POKEBLOCK}	item	
 SAFARI ZONE	ซาฟารีโซน	location	
 BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	location	
 SECRET BASE	ฐานลับ	location	
 SAFARI ZONE	ซาฟารีโซน	location	
 POKéMON LEAGUE	โปเกมอนลีก	location	
-WATER	น้ำ	type	
-SECRET POWER	พลังลับ	move	
-FAKE TEARS	บีบน้ำตา	move	
 CHAMPION	แชมเปี้ยน	trainer_class	
 TRIATHLETE	นักไตรกีฬา	trainer_class	
 SAILOR	กะลาสี	trainer_class	

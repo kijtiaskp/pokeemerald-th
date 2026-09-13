@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,11 +89,56 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
+BATTLE TOWER	แบทเทิลทาวเวอร์	frontier	
+BATTLE DOME	แบทเทิลโดม	frontier	
+BATTLE PALACE	แบทเทิลพาเลซ	frontier	
+BATTLE ARENA	แบทเทิลอารีนา	frontier	
+BATTLE FACTORY	แบทเทิลแฟกทอรี	frontier	
+BATTLE PIKE	แบทเทิลไพค์	frontier	
+BATTLE PYRAMID	แบทเทิลพีระมิด	frontier	
+SINGLE BATTLE	ซิงเกิลแบทเทิล	frontier	
+DOUBLE BATTLE	ดับเบิลแบทเทิล	frontier	
+MULTI BATTLE	มัลติแบทเทิล	frontier	
+POKéMON BREEDER	นักเพาะพันธุ์โปเกมอน	frontier	
+NORMAL	NORMAL	type	คงภาษาอังกฤษตามต้นฉบับ
+FLYING	FLYING	type	คงภาษาอังกฤษตามต้นฉบับ
+POISON	POISON	type	คงภาษาอังกฤษตามต้นฉบับ
+GROUND	GROUND	type	คงภาษาอังกฤษตามต้นฉบับ
+ROCK	ROCK	type	คงภาษาอังกฤษตามต้นฉบับ
+BUG	BUG	type	คงภาษาอังกฤษตามต้นฉบับ
+GHOST	GHOST	type	คงภาษาอังกฤษตามต้นฉบับ
+STEEL	STEEL	type	คงภาษาอังกฤษตามต้นฉบับ
+???	???	type	คงภาษาอังกฤษตามต้นฉบับ
+FIRE	FIRE	type	คงภาษาอังกฤษตามต้นฉบับ
+WATER	WATER	type	คงภาษาอังกฤษตามต้นฉบับ
+GRASS	GRASS	type	คงภาษาอังกฤษตามต้นฉบับ
+ICE	ICE	type	คงภาษาอังกฤษตามต้นฉบับ
+DRAGON	DRAGON	type	คงภาษาอังกฤษตามต้นฉบับ
+DARK	DARK	type	คงภาษาอังกฤษตามต้นฉบับ
+HP UP	HP UP	item	คงภาษาอังกฤษตามต้นฉบับ
+PROTEIN	PROTEIN	item	คงภาษาอังกฤษตามต้นฉบับ
+IRON	IRON	item	คงภาษาอังกฤษตามต้นฉบับ
+CARBOS	CARBOS	item	คงภาษาอังกฤษตามต้นฉบับ
+CALCIUM	CALCIUM	item	คงภาษาอังกฤษตามต้นฉบับ
+ZINC	ZINC	item	คงภาษาอังกฤษตามต้นฉบับ
+BRIGHTPOWDER	BRIGHTPOWDER	item	คงภาษาอังกฤษตามต้นฉบับ
+WHITE HERB	WHITE HERB	item	คงภาษาอังกฤษตามต้นฉบับ
+QUICK CLAW	QUICK CLAW	item	คงภาษาอังกฤษตามต้นฉบับ
+MENTAL HERB	MENTAL HERB	item	คงภาษาอังกฤษตามต้นฉบับ
+CHOICE BAND	CHOICE BAND	item	คงภาษาอังกฤษตามต้นฉบับ
+KING'S ROCK	KING'S ROCK	item	คงภาษาอังกฤษตามต้นฉบับ
+FOCUS BAND	FOCUS BAND	item	คงภาษาอังกฤษตามต้นฉบับ
+SCOPE LENS	SCOPE LENS	item	คงภาษาอังกฤษตามต้นฉบับ
+LEFTOVERS	LEFTOVERS	item	คงภาษาอังกฤษตามต้นฉบับ
+-	-	move	คงภาษาอังกฤษตามต้นฉบับ
+THUNDER	THUNDER	move	คงภาษาอังกฤษตามต้นฉบับ
+PSYCHIC	PSYCHIC	move	คงภาษาอังกฤษตามต้นฉบับ
+MOONLIGHT	MOONLIGHT	move	คงภาษาอังกฤษตามต้นฉบับ
 KISS POSTER	โปสเตอร์จุ๊บ	decoration	
 TOGEPI DOLL	ตุ๊กตาโทเกปี	decoration	
 CYNDAQUIL DOLL	ตุ๊กตาฮิโนอาราชิ	decoration	
@@ -109,41 +154,9 @@ LAPRAS DOLL	ตุ๊กตาลาปลาซ	decoration
 VENUSAUR DOLL	ตุ๊กตาฟุชิกิบานะ	decoration	
 CHARIZARD DOLL	ตุ๊กตาลิซาร์ดอน	decoration	
 BLASTOISE DOLL	ตุ๊กตาคาเม็กซ์	decoration	
-HP UP	แม็กซ์อัพ	item	
-PROTEIN	ทอรีน	item	
-IRON	โบรมเฮกซีน	item	
-CARBOS	อินโดเมทาซิน	item	
-CALCIUM	ลิโซเทียม	item	
-ZINC	ไคโตซาน	item	
-BRIGHTPOWDER	ผงเรืองแสง	item	
-WHITE HERB	สมุนไพรขาว	item	
-QUICK CLAW	เล็บชิงจังหวะ	item	
-MENTAL HERB	สมุนไพรจิตใจ	item	
-CHOICE BAND	ผ้าคาดยึดมั่น	item	
-KING'S ROCK	ตราแห่งราชา	item	
-FOCUS BAND	ผ้าคาดฮึดสู้	item	
-SCOPE LENS	เลนส์โฟกัส	item	
-LEFTOVERS	อาหารเหลือ	item	
 SLATEPORT CITY	เมืองไคนะ	location	
 LILYCOVE CITY	เมืองมินาโมะ	location	
 BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	location	
-NORMAL	ปกติ	type	
-FLYING	บิน	type	
-POISON	พิษ	type	
-GROUND	ดิน	type	
-ROCK	หิน	type	
-BUG	แมลง	type	
-GHOST	ผี	type	
-STEEL	เหล็ก	type	
-FIRE	ไฟ	type	
-WATER	น้ำ	type	
-GRASS	หญ้า	type	
-ICE	น้ำแข็ง	type	
-DRAGON	มังกร	type	
-DARK	ความมืด	type	
-THUNDER	ฟ้าผ่า	move	
-PSYCHIC	ไซโคคิเนซิส	move	
-MOONLIGHT	แสงจันทร์	move	
 COOLTRAINER	ยอดเทรนเนอร์	trainer_class	
 BIRD KEEPER	คนเลี้ยงนก	trainer_class	
 COLLECTOR	นักสะสม	trainer_class	

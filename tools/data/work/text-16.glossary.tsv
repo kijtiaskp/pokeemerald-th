@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,16 +89,23 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
+BATTLE TOWER	แบทเทิลทาวเวอร์	frontier	
+BUG	BUG	type	คงภาษาอังกฤษตามต้นฉบับ
+MASTER BALL	MASTER BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+BURN HEAL	BURN HEAL	item	คงภาษาอังกฤษตามต้นฉบับ
+HARBOR MAIL	HARBOR MAIL	item	คงภาษาอังกฤษตามต้นฉบับ
+BLACK BELT	BLACK BELT	item	คงภาษาอังกฤษตามต้นฉบับ
+-	-	move	คงภาษาอังกฤษตามต้นฉบับ
+SURF	SURF	move	คงภาษาอังกฤษตามต้นฉบับ
+WATERFALL	WATERFALL	move	คงภาษาอังกฤษตามต้นฉบับ
+TRICK	TRICK	move	คงภาษาอังกฤษตามต้นฉบับ
+DIVE	DIVE	move	คงภาษาอังกฤษตามต้นฉบับ
 TV	ทีวี	decoration	
-MASTER BALL	มาสเตอร์บอล	item	
-BURN HEAL	ยาแก้แผลไหม้	item	
-HARBOR MAIL	จดหมายท่าเรือ	item	
-BLACK BELT	สายดำ	item	
 MOSSDEEP CITY	เมืองโทคุซาเนะ	location	
 SOOTOPOLIS CITY	เมืองรุเนะ	location	
 EVER GRANDE CITY	เมืองไซยู	location	
@@ -109,11 +116,6 @@ VICTORY ROAD	ถนนแชมเปี้ยน	location
 SECRET BASE	ฐานลับ	location	
 VICTORY ROAD	ถนนแชมเปี้ยน	location	
 POKéMON LEAGUE	โปเกมอนลีก	location	
-BUG	แมลง	type	
-SURF	โต้คลื่น	move	
-WATERFALL	ปีนน้ำตก	move	
-TRICK	ทริก	move	
-DIVE	ดำน้ำ	move	
 BLACK BELT	ราชาคาราเต้	trainer_class	
 INTERVIEWER	ผู้สัมภาษณ์	trainer_class	
 CHAMPION	แชมเปี้ยน	trainer_class	

@@ -1,0 +1,191 @@
+{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks9","th":"อะฮะ {STR_VAR_1} ตัวนึงใช่มะ! โอเค โอเคสุด ๆ!\\pเดี๋ยวจับใส่มอนสเตอร์บอลแบบ ปึ้ก! เลย!\\pเอาล่ะ ขอบใจเหมือนเคยนะ! อาดิโอส!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon10","th":"{PLAYER}{KUN} ฟังนะ! ข่าวใหญ่!\\pฉันจับโปเกมอนภาพลวงตาได้แล้ว!\\pโกหกน่ะสิ! วะฮ่าฮ่าฮ่า!\\pแต่เรื่องนี้ไม่โกหกนะ ฉันจับโปเกมอนไม่ค่อยเก่งเลย\\pงั้นอาจารย์ช่วยเลือกให้หน่อยสิ ว่าควรจับโปเกมอนแบบไหนดี\\pตัวไหนดีกว่ากัน? {STR_VAR_1} หรือ {STR_VAR_2}?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks10","th":"เลือก {STR_VAR_1} งั้นเหรอ? งั้นฉันไปจับอีกแบบแทนละกัน!\\pล้อเล่นน่า! จะทำตามคำสอนของอาจารย์เลย!\\pขอบคุณนะอาจารย์! สอนฉันต่อไปอีกนะ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon11","th":"อ-ะ-ฮ-อ-ย! สะกดรวมได้ อะฮอย!\\pกะลาสีสายแร็ปคือตัวข้า! จำกันได้ใช่มั้ย ใครกันหนา?\\pวันนี้มีคำถามเรื่องโปเกมอน อยากขอคำแนะนำจากเธอก่อน!\\pมี {STR_VAR_1} กับ {STR_VAR_2} ให้เลือกนะเออ ตัวไหนควรจับมาเป็นของข้าล่ะเธอ?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks11","th":"{STR_VAR_1} งั้นเหรอ เฮ้ เฮ้! ข้าจะรีบไปจับมาไม่รอเลย เอ้!\\pถ้าวันไหนข้าต้องการคำชี้แนะ คำพูด {PLAYER} ข้าจะฟังไม่แปรแน่!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon12","th":"โอ้ ว้าว นั่นมัน {PLAYER} นี่นา!\\pจะทำไงดี? ขอคำแนะนำดีมั้ย? ทำไมจะไม่ล่ะ? ก็คุยกันอยู่แล้วนี่!\\pไม่เจอกันตั้งนาน ขอเปิดประเด็นเลยละกัน ฉันก็กำลังหาคำแนะนำอยู่นะ!\\pได้ยินฉันมั้ย? ได้ยินแน่นอน!\\pโปเกมอนของฉัน ควรใช้ตัวไหนดี? {STR_VAR_1} หรือ {STR_VAR_2} เธอเลือกตัวไหน?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks12","th":"ถ้า {STR_VAR_1} ดีที่สุดละก็ ฉันจะทำตามที่เธอบอกเลยล่ะ!\\pเอาล่ะ {PLAYER} ฉันต้องออกท่องไปอย่างอิสระ แต่อย่าลืมฉันล่ะ\\pไว้เจอกันใหม่นะ เพื่อนหัวไว!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon13","th":"อ้อ หวัดดี {PLAYER}{KUN}… ฉันปวดหัวจะแย่เลย…\\pคงเพราะคิดมากเกินไป ว่าควรเลี้ยงโปเกมอนแบบไหนดี\\pเพราะงั้น ฉันอยากให้เธอช่วยตัดสินใจแทนหน่อย\\p{PLAYER}{KUN} ถ้าต้องเลือกระหว่าง {STR_VAR_1} กับ {STR_VAR_2} ควรเป็นตัวไหนดี?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks13","th":"อืม {STR_VAR_1} สินะ ได้เลย หายป่วยเมื่อไหร่จะไปหามาสักตัว\\pหวังว่าจะมาขอให้ช่วยแบบนี้ได้อีกนะ$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon14","th":"เอ่อ… อืม… {PLAYER}{KUN}…?\\pได้โปรด อย่ามองกันแบบนั้นสิ ฉันเขินไปหมดแล้ว…\\pฉะ… ฉันอยากขอคำแนะนำหน่อย\\pฉะ… ฉันอายมากเลย แต่ตัดสินใจไม่ได้ว่าจะใช้โปเกมอนตัวไหน\\pถ้าให้เลือกระหว่าง {STR_VAR_1} กับ {STR_VAR_2} ตัวไหนดีกว่ากัน?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks14","th":"อ๊ะ… โอเค! ฉันจะพยายามกับ {STR_VAR_1} ให้เต็มที่\\pหวังว่าจะทำได้ดี โดยไม่เขินไปซะก่อนนะ\\pขอบคุณนะ {PLAYER}{KUN} ถ้าได้เจอกันอีก ช่วยฉันแบบนี้อีกนะ$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMon15","th":"หืม? ดูเหมือนจะเป็น {PLAYER}{KUN}… แต่ตัวจริงแน่หรือ?\\pไม่ ๆ ถ้าเป็นตัวจริงก็ดีแล้ว ว่าแต่ ฉันอยากขอคำแนะนำจากคุณหน่อย\\pเป็นเรื่องโปเกมอนที่ฉันจะใช้\\pถ้าตัวเลือกคือ {STR_VAR_1} กับ {STR_VAR_2} ตัวไหนคู่ควรกับฉันมากกว่ากัน?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMonThanks15","th":"{STR_VAR_1} หรือ? แน่ใจแล้วใช่ไหม?\\pเข้าใจละ ถ้าเช่นนั้นก็ได้ ขอบคุณที่สละเวลาให้\\pหวังว่าจะเป็นตัวที่แม้แต่ฉันก็รับมือได้อย่างสง่างาม\\pแล้วพบกันใหม่!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove0","th":"แง้! อ๊ะ {PLAYER}! ซู้ด… ฮึก…\\pฉันมีเรื่องกลุ้มใจ! เลือกท่าให้ {STR_VAR_1} ของฉันไม่ได้เลย…\\pได้โปรดเถอะ {PLAYER} ช่วยเลือกให้หน่อยได้มั้ย?\\pสำหรับ {STR_VAR_1} ของฉัน ท่าไหนดีกว่ากัน ระหว่าง {STR_VAR_2} กับ {STR_VAR_3}?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks0","th":"{STR_VAR_1} เหรอ? แง้ แง้!\\pอ๊ะ! ขอโทษนะ {PLAYER}! ดีใจมากที่ช่วยเลือกท่าให้ จนน้ำตาไหลเลย…\\pซู้ด… ขอบคุณมาก ๆ นะ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove1","th":"เย่! หวัดดี {PLAYER}! ขอคำแนะนำอีกแล้วล่ะ!\\pอยากสอนท่าเท่ ๆ ให้ {STR_VAR_1} ของฉัน\\pชอบทั้ง {STR_VAR_2} แล้วก็ {STR_VAR_3} เลย เธอแนะนำท่าไหนดี?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks1","th":"{STR_VAR_1} ดีกว่าเหรอ? ก็จริงนะ! โอเค เอาท่านั้นแหละ!\\pถ้าเจอกันที่นี่อีก สอนอย่างอื่นให้อีกนะ อาจารย์!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove2","th":"{PLAYER} หวัดดี! เรื่อง {STR_VAR_1} ของฉันน่ะ ฉันกังวลเรื่องท่าของมันอยู่\\pคือมีท่า {STR_VAR_2} กับ {STR_VAR_3}\\pท่าไหนแรงกว่า และเหมาะกับ {STR_VAR_1} ของฉันมากกว่า?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks2","th":"เลือก {STR_VAR_1} สินะ? โอเค เข้าใจแล้ว!\\pจะรีบไปสอน {STR_VAR_1} ให้โปเกมอนของฉันเดี๋ยวนี้เลย!\\pไว้เจอกันใหม่นะ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove3","th":"โธ่ {PLAYER}… ฉันมันไม่ได้เรื่องจริง ๆ นะ!\\pตัดสินใจเลี้ยงโปเกมอนไปแล้ว\\pแต่ตอนนี้กลับเลือกไม่ได้ด้วยซ้ำ ว่าจะให้มันเรียนท่าอะไร…\\pรู้หรอกว่าเรื่องนี้ไม่ได้สำคัญอะไรกับเธอเลย {PLAYER}\\pแต่มันสำคัญกับฉันมาก…\\pได้โปรด {PLAYER} ช่วยเลือกท่าให้ {STR_VAR_1} ของฉันหน่อยได้มั้ย?\\pแค่เลือกระหว่าง {STR_VAR_2} กับ {STR_VAR_3} ก็ได้…$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks3","th":"เข้าใจแล้ว!\\pแต่มันจะยอมเรียน {STR_VAR_1} ให้ฉันรึเปล่านะ… ไม่สิ! ฉันจะพยายาม!\\pขอบคุณนะ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove4","th":"อ้าว {PLAYER}{KUN}! กำลังอยากเจออยู่พอดีเลย!\\pกำลังคิดอยู่ว่าท่าไหนจะเหมาะกับ {STR_VAR_1} ของฉัน\\pตัดสินใจไม่ได้ เธอเลือกให้แทนหน่อยสิ\\pอย่างเช่น… ท่า {STR_VAR_2} กับ {STR_VAR_3} ท่าไหนดีกว่ากัน?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks4","th":"{STR_VAR_1} เหรอ? เยี่ยมเลย!\\pรู้ว่าเธอเป็นคนเลือกให้ {PLAYER}{KUN} ต่อให้แพ้ฉันก็คงไม่หงุดหงิดเท่าไหร่\\pโอเค ไว้จะมาขอคำแนะนำอีกนะ บาย!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove5","th":"ทำไมยุ่งขนาดนี้เนี่ย? เฮ้ นั่น {PLAYER}{KUN} นี่! เป็นไงบ้าง?\\pตั้งแต่ตื่นเช้ามา ฉันทั้งวิ่ง ว่ายน้ำ แล้วก็ทำอาหารไปแล้ว!\\pไม่อยากจะเชื่อเลยว่าฉันยุ่งแค่ไหน!\\pยุ่งจนเลือกไม่ได้ด้วยซ้ำ ว่าจะให้ {STR_VAR_1} เรียนท่าอะไร!\\p{STR_VAR_2} ก็ดูดีนะ ว่ามั้ย? แต่ {STR_VAR_3} ก็ไม่เลว\\p{PLAYER}{KUN} ขอคำแนะนำดี ๆ หน่อย! ท่าไหนเหมาะกับฉัน?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks5","th":"โอเค รับทราบ ฉันจะเจียดเวลาไปสอนท่านั้นให้\\pดีใจที่ได้เจออาจารย์ดี ๆ อย่างเธอ ขอบคุณนะ! ไว้เจอกัน!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove6","th":"โอ้! โชคดีจัง! ได้เจอเธออีกแล้ว {PLAYER}!\\pวันนี้ขอยืมสมองเธออีกทีนะ\\pขอเสียงกลองรัวหน่อย! คำถามของฉันคือ…\\pสำหรับ {STR_VAR_1} ของฉัน ท่าไหนเหมาะที่สุด {STR_VAR_2} หรือ {STR_VAR_3}?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks6","th":"อ๊า! {STR_VAR_1} งั้นเหรอ! ขอบคุณสำหรับคำตอบสุดเท่นะ!\\pวันนี้อยากถามแค่นี้แหละ\\pไว้มาเจอกันที่นี่อีกนะ โอเค? ขอบคุณ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove7","th":"อ้อ สวัสดี {PLAYER} สบายดีอยู่ใช่ไหม?\\pฉันต้องขอคำปรึกษาอีกแล้ว เป็นเรื่องของ {STR_VAR_1} ที่รักยิ่งของฉัน\\pท่าแบบไหนจะเหมาะที่สุด สำหรับ {STR_VAR_1} แสนน่ารักของฉัน?\\p{STR_VAR_2} หรือ {STR_VAR_3} ดี?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks7","th":"{STR_VAR_1} สินะ! จะสอนท่านั้นทันทีเลย!\\pขอบคุณ {PLAYER} หวังว่าจะพึ่งพาได้อีกนะ ดูแลตัวเองด้วย!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove8","th":"อุ๊ย! {PLAYER}! ได้เจออีกแล้ว! ฉะ… ฉันดีใจสุด ๆ เลย!\\pเวลาฉันลำบากทีไร เธออยู่ข้าง ๆ ตลอดเลยนะ {PLAYER}!\\pวันนี้อยากให้เธอแนะนำท่าให้หน่อย!\\pช่วยเลือกท่าให้ {STR_VAR_1} ของฉันที!\\pท่าไหนดีกว่ากัน {STR_VAR_2} หรือ {STR_VAR_3}?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks8","th":"โอ้-โอ้-โอ้! ขอบคุณนะ! {STR_VAR_1} นี่แหละ! เข้าใจแจ่มแจ้งเลย!\\pหวังว่าคราวหน้าจะยอมสอนฉันอีกนะ$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove9","th":"โอล่า {PLAYER}{KUN} บวยโน่! วันนี้ขอคำแนะนำเฉียบ ๆ อีกหน่อยนะ!\\pท่าไหนเหมาะกับ {STR_VAR_1} ของฉันที่สุด?\\pต้องเป็นท่าที่ทำให้ชนะได้แบบง่าย ๆ เลยนะ!\\p{STR_VAR_2} ดีมั้ย? หรือ {STR_VAR_3}?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks9","th":"อะฮะ {STR_VAR_1} ใช่มะ! ซี บวยโน่!\\pเดี๋ยวสอนให้แบบ ปั้ง! เลย!\\pเอาล่ะ ขอบใจเหมือนเคยนะ! อาดิโอส!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove10","th":"{PLAYER}{KUN} มันสุดจะบ้าเลย!\\pโปเกมอนของฉัน! มันเรียนท่าได้ตั้งหกท่า!\\pโกหกน่ะสิ! วะฮ่าฮ่าฮ่า!\\pแต่เรื่องนี้ไม่โกหกนะ ฉันเลือกท่าให้โปเกมอนไม่ค่อยเก่งเลย\\pงั้นช่วยเลือกให้หน่อยสิ ว่าควรสอนท่าแบบไหน\\p{STR_VAR_2} หรือ {STR_VAR_3} ท่าไหนเข้ากับ {STR_VAR_1} ของฉันที่สุด?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks10","th":"เลือก {STR_VAR_1} งั้นเหรอ? งั้นฉันเลือกท่าอื่นละกัน!\\pล้อเล่นน่า! จะทำตามคำสอนของอาจารย์เลย!\\pขอบคุณนะอาจารย์! สอนฉันต่อไปอีกนะ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove11","th":"อ-ะ-ฮ-อ-ย! สะกดรวมได้ อะฮอย!\\pกะลาสีสายแร็ปคือตัวข้า! ทันสมัยตลอด ไม่ต้องถามหา!\\pวันนี้ข้ามีคำถามเรื่องท่า อยากให้เธอช่วยแนะนำสักครา!\\p{STR_VAR_2} กับ {STR_VAR_3} คือท่าที่มี ท่าไหนดีสุดให้ {STR_VAR_1} ของข้าได้โยกดี?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks11","th":"{STR_VAR_1} งั้นเหรอ เฮ้ เฮ้! ข้าจะรีบไปสอนเดี๋ยวนี้เลย เอ้!\\pถ้าวันไหนข้าต้องการคำชี้แนะ คำพูด {PLAYER} ข้าจะฟังไม่แปรแน่!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove12","th":"โอ้ เย้ นั่นมัน {PLAYER} นี่นา!\\pจะทำไงดี? ขอคำแนะนำดีมั้ย? ทำไมจะไม่ล่ะ? ก็คุยกันอยู่แล้วนี่!\\p{PLAYER} ตกใจที่เห็นฉันมั้ย? ฉันอยากได้คำแนะนำ ดูไม่ออกเหรอไง?\\pได้ยินฉันมั้ย? ได้ยินแน่นอน!\\p{STR_VAR_1} ของฉัน ควรใช้ท่าไหน? {STR_VAR_2} หรือ {STR_VAR_3} เธอจะเลือกอันไหน?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks12","th":"ถ้า {STR_VAR_1} ดีที่สุดละก็ ฉันจะทำตามที่เธอบอกเลยล่ะ!\\pเอาล่ะ {PLAYER} ฉันต้องออกท่องไปอย่างอิสระ แต่อย่าลืมฉันล่ะ\\pไว้เจอกันใหม่นะ เพื่อนหัวไว!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove13","th":"แค่ก! แค่ก! อ้อ {PLAYER}{KUN}… ฉันเป็นหวัดหนักเลยล่ะ…\\pอยากเลือกท่าให้โปเกมอน แต่ไม่ไหวจริง ๆ…\\pเพราะงั้น ฉันอยากให้เธอช่วยตัดสินใจแทนหน่อย\\p{PLAYER}{KUN} ถ้าต้องเลือกให้ {STR_VAR_1} ของฉัน\\pระหว่าง {STR_VAR_2} กับ {STR_VAR_3} ควรเป็นท่าไหนดี?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks13","th":"อืม {STR_VAR_1} สินะ ได้เลย แค่ก! หายป่วยเมื่อไหร่จะไปสอนให้\\pหวังว่าจะมาขอให้ช่วยแบบนี้ได้อีกนะ$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove14","th":"เอ่อ… อืม… {PLAYER}{KUN}…?\\pได้โปรด อย่ามองกันแบบนั้นสิ ฉันเขินไปหมดแล้ว…\\pฉะ… ฉันอยากขอคำแนะนำหน่อย\\pฉะ… ฉันอายมากเลย แต่ตัดสินใจไม่ได้ว่าจะสอนท่าอะไรให้โปเกมอนดี\\pเป็นเรื่องของ {STR_VAR_1} น่ะ\\pถ้าให้เลือกระหว่าง {STR_VAR_2} กับ {STR_VAR_3} ท่าไหนดีกว่ากัน?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks14","th":"อ๊ะ… โอเค! จะลองใช้ {STR_VAR_1} ดู\\pหวังว่าจะสอนท่านั้นได้นะ… ตื่นเต้นจนใจสั่นไปหมดแล้ว…\\pขอบคุณนะ {PLAYER}{KUN} ถ้าได้เจอกันอีก ช่วยฉันแบบนี้อีกนะ$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWhichMove15","th":"หืม? ดูเหมือนจะเป็น {PLAYER}{KUN}… แต่ตัวจริงแน่หรือ?\\pหรือว่าจะเป็นพวกนักเลียนแบบชื่อดังนั่น?\\pไม่ ๆ ถ้าเป็นตัวจริงก็ดีแล้ว\\pไม่ต้องขุ่นเคืองไปหรอก ฉันรับรอง!\\pว่าแต่ ฉันอยากขอคำแนะนำจากคุณหน่อย\\pเป็นเรื่องของ {STR_VAR_1} ของฉัน\\pท่าไหนเหมาะให้มันใช้มากกว่า {STR_VAR_2} หรือ {STR_VAR_3}?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeMoveThanks15","th":"{STR_VAR_1} หรือ? ไม่มีข้อสงสัยใดเลยใช่ไหม?\\pเข้าใจละ ถ้าเช่นนั้นก็ได้ ขอบคุณที่สละเวลาให้\\pหวังว่าจะเป็นท่าที่แม้แต่โปเกมอนของฉันก็เรียนได้\\pแล้วพบกันใหม่!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech0","th":"อ๊ะ… {PLAYER}? {PLAYER} จริงด้วย!\\pฮึก… ฮือ… ฟังหน่อยนะ!\\pฉะ… เวลาต่อสู้ ฉันจะประหม่ามาก ขนาดชนะยังร้องไห้เลย…\\pอยากพูดอะไรเท่ ๆ ตอนชนะบ้างจัง…\\pได้โปรดเถอะ {PLAYER}!\\pช่วยสอนคำพูดเท่ ๆ ไว้พูดตอนชนะ จะได้ไม่ร้องไห้ ได้มั้ย?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks0","th":"{STR_VAR_1}\\pสุดยอด! เจ๋งเป้ง! อู้ววว! เท่มากเลย!\\pอ๊ะ… ขอโทษนะ… ดีใจจนน้ำตาไหลเลย…\\pฮึก… {PLAYER}! ขอบคุณสำหรับทุกอย่างนะ!\\pฉันจะสู้ให้ดีที่สุดเพื่อเธอเลย {PLAYER}!\\p{PLAYER}… คราวหน้า… มาสู้กันนะ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech1","th":"เย่! {PLAYER} นี่นา! หวัดดี! มีเรื่องอยากถามแน่ะ!\\pอยากพูดอะไรเท่ ๆ ตอนชนะการแข่ง\\pเธอมีคำพูดเท่ ๆ จะแนะนำมั้ย?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks1","th":"{STR_VAR_1}\\pโอ้ ว้าว! เท่สุด ๆ! โอเค จะพูดแบบนี้แหละ!\\pขอบคุณที่สอนฉันมาตลอดนะ!\\pต่อจากนี้ ไปที่ไหนฉันก็จะทำให้ดีที่สุด!\\pถ้าเจอกันอีก ก็มาต่อสู้กันเลยนะ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech2","th":"{PLAYER} หวัดดี!\\pฉันกับโปเกมอนพร้อมทุกอย่างแล้ว ขาดแค่อย่างเดียว\\pคิดว่าถ้ามีคำไว้ตะโกนตอนชนะก็คงดี\\pช่วยคิดอะไรดี ๆ ให้หน่อยได้มั้ย?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks2","th":"{STR_VAR_1}\\p…เท่! จะใช้คำนี้แหละ!\\pฉันจะออกไปต่อสู้ทั่วทุกที่\\pใครจะรู้ สักวันอาจได้สู้กับเธอก็ได้นะ {PLAYER}\\pคราวหน้า มาเจอกันในสนามประลองนะ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech3","th":"หวัดดี {PLAYER}…\\pขอโทษที่มากวนนะ แต่ฉันมันไม่ได้เรื่องเลย…\\pแม้แต่… แม้แต่ตอนชนะ ฉันก็ไม่มีอะไรพิเศษจะพูดเลย…\\pรู้หรอกว่าเรื่องนี้ไม่ได้สำคัญอะไรกับเธอเลย {PLAYER}\\pแต่มันสำคัญกับฉันมาก…\\pได้โปรด {PLAYER} ถ้าชนะการต่อสู้ ฉันควรพูดว่าอะไรดี?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks3","th":"{STR_VAR_1}\\pสุดยอดไปเลย…\\pเอ่อ… คนอย่างฉันจะพูดแบบนี้ได้จริง ๆ เหรอ?\\pไม่สิ! ฉันจะพยายาม!\\p{PLAYER} ขอบคุณมากนะที่ทนฉันมาตั้งนาน…\\pสัญญาว่าต่อจากนี้จะทำให้ดีที่สุด\\pเธอคงลืมคนอย่างฉันไปในไม่ช้า แต่ไว้เจอกันที่ไหนสักแห่งนะ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech4","th":"อ้าว {PLAYER}{KUN} มีเรื่องอยากให้ฟังหน่อย\\pรู้ตัวนะว่าฉันพูดจาไม่ค่อยน่ารักหรือสุภาพเท่าไหร่…\\pเวลาชนะ ฉันคงดูหยิ่งยโสในสายตาคนอื่น\\pไม่อยากให้ใครเกลียด เลยอยากพูดอะไรดี ๆ กับคนที่ฉันชนะ\\pแต่คิดไม่ออกเลย! ช่วยคิดให้หน่อยได้มั้ย?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks4","th":"{STR_VAR_1}\\pไม่เลวนี่! ใช่ เอาอันนี้แหละ!\\pฉันจะออกเดินทาง แล้วทำเต็มที่\\pโดยมีสิ่งที่เธอสอน อยู่ทั้งในหัวและในใจ\\pขอโทษนะที่เซ้าซี้เธอมาตลอด!\\pคราวหน้า มาสู้กันนะ โอเค? ไว้เจอกัน!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech5","th":"โอ๊ย ยุ่งจนไม่ไหวแล้ว!\\pอ้าว เฮ้ กำลังตามหาอยู่เลย {PLAYER}{KUN}\\pสบายดีเหมือนเดิมใช่มั้ย? ฉันก็ไม่มีอะไรเปลี่ยนเลย\\pต้องวิ่ง ต้องสู้ ต้องทำแผนที่ ทำไมฉันยุ่งขนาดนี้นะ?\\pแต่ต่อให้ยุ่ง ชนะแล้วหันหลังเดินจากไปเฉย ๆ\\pโดยไม่พูดอะไรเลย ก็เสียมารยาทไปหน่อย\\pงั้น ควรพูดอะไรเท่ ๆ ตอนเดินจากไป ให้ดูเท่ยิ่งขึ้นดี?\\p{PLAYER}{KUN} ช่วยด้วย!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks5","th":"{STR_VAR_1}\\pโอเค รับทราบ อันนี้พอมีเวลาพูดได้!\\pพูดตรง ๆ ดีใจนะที่ได้เจออาจารย์ดี ๆ อย่างเธอ\\pฉันจะหาเวลาไปลุยการต่อสู้ให้ได้\\pขอบคุณสำหรับทุกอย่าง {PLAYER}{KUN}! สักวันเราต้องมาสู้กันนะ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech6","th":"โชคดีอีกแล้ว! {PLAYER}! ดีใจจังที่ได้เจอ!\\pขอคำแนะนำเหมือนเคยนะ!\\pขอเสียงกลองรัวหน่อย! คำถามสุดท้ายของฉันคือ…\\pถ้าชนะการต่อสู้ แล้วอยากปิดท้ายแบบเท่ ๆ ควรพูดว่าอะไรดี?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks6","th":"{STR_VAR_1}\\pนะ… นั่นมันสุดยอด! ทั้งสง่าทั้งเท่! ขอเอาไปใช้เลย!\\p…นี่ ว่าไป ฉันเริ่มเก่งขึ้นแล้วใช่มั้ย?\\pเลยคิดว่าต่อจากนี้ จะไปท้าสู้เทรนเนอร์คนอื่น ๆ\\p{PLAYER} คำแนะนำของเธอช่วยฉันได้มากจริง ๆ\\pสักวันเราอาจได้สู้กันก็ได้นะ!\\pขอบคุณสำหรับทุกอย่าง!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech7","th":"อ้อ {PLAYER} ดีใจจริง ๆ ที่ได้พบ!\\pตอนนี้ฉันไม่มีเรื่องต้องกังวลเกี่ยวกับโปเกมอนแล้ว\\pที่น่ากังวลคือตัวฉันเองต่างหาก…\\pรู้ใช่ไหม ที่เทรนเนอร์มักพูดอะไรสักหน่อยตอนชนะน่ะ\\pฉันก็อยากทำแบบนั้นบ้างจริง ๆ!\\pได้โปรด ตอนชนะฉันควรพูดว่าอะไรดี?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks7","th":"{STR_VAR_1}\\pอา! คำนั้น! ทำให้ฉันสดชื่นราวกับได้เกิดใหม่!\\pต้องรีบใช้มันแล้ว!\\pและบัดนี้ ฉันต้องขอตัวลา {PLAYER}…\\pฉันจะออกไปต่อสู้กับผู้คนอีกมากมาย\\pแต่จะไม่มีวันลืมคำสอนของคุณ\\pบางทีสักวัน… ลาก่อน!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech8","th":"อุ๊ย! เจอ {PLAYER} แล้ว! ฉะ… ฉันดีใจสุด ๆ ที่ได้เจอ!\\pโอ้-โอ้-โอ้! มีเรื่องที่ต้องถามเธอให้ได้เลย!\\pเมื่อกี้ฉันชนะการต่อสู้มาล่ะ\\pตอนนั้นตื่นเต้นจนหัวหมุนเลย!\\pแต่ดีใจจนจุกอก พูดอะไรไม่ออกเลย!\\pงั้นตอนนี้ {PLAYER} ได้โปรดนะ\\pช่วยคิดคำพูดปิดท้าย ไว้ใช้ตอนชนะให้หน่อย!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks8","th":"{STR_VAR_1}\\pว้ายยย! ฉันจะได้พูดแบบนั้นเหรอ?!\\pฉะ… ฉันดีใจจนเพ้อแล้ว!\\pขะ-ขะ-ขอบคุณนะ! ตอนนี้ไม่มีอะไรต้องเสียใจแล้ว!\\pจากนี้ฉันจะออกเดินทาง ไปสู้กับผู้คนมากมาย\\pทุกอย่างนี้ ฉันเป็นหนี้เธอนะ {PLAYER} ขอบคุณจริง ๆ นะ!\\pต้องไปแล้ว แต่สักวันมาเจอกันในการต่อสู้นะ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech9","th":"โอล่า บวยโน่! {PLAYER}{KUN}!\\pรู้มั้ย ฉันเริ่มคันไม้คันมือ อยากออกท่องไปสู้ที่ไหนก็ได้แล้ว\\pแต่ก่อนไป ขอคำแนะนำจากเธออีกสักครั้งนะ!\\pถ้าชนะการต่อสู้ ควรพูดข่มเทรนเนอร์ที่แพ้ไปว่าอะไรดี?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks9","th":"{STR_VAR_1}\\pอะฮะ เจ๋งอะ! ซี บวยโน่!\\pเดี๋ยวลองพูดดูแบบ แฮ่ม! เลย!\\pและตอนนี้ ได้เวลาบอกลาแล้ว! ขอบใจสำหรับทุกอย่างนะ!\\pสักวันมาสู้กันนะ โอเค? อาดิโอส!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech10","th":"{PLAYER}{KUN} แย่แล้ว!\\pเวลาชนะการต่อสู้ ฉันจะคุยโวอย่างน้อยชั่วโมงนึงเลย!\\pโกหกน่ะสิ! วะฮ่าฮ่าฮ่า!\\pแต่เรื่องนี้ไม่โกหกนะ ฉันพูดคุยไม่ค่อยเก่งเลย\\pงั้นอาจารย์ช่วยเลือกให้หน่อยสิ ว่าชนะแล้วฉันควรพูดว่าอะไรดี?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks10","th":"{STR_VAR_1}\\pต้องพูดแบบนี้สินะ? งั้นจะไม่พูดแบบนั้นเด็ดขาด!\\pล้อเล่นน่า! จะทำตามคำสอนของอาจารย์เลย!\\pขอบคุณที่สอนฉันมาตลอดนะ อาจารย์!\\pในที่สุดฉันก็เริ่มเข้าใจแล้ว ว่าการเป็นเทรนเนอร์คืออะไร\\pฉันจะออกไปเอาชนะเทรนเนอร์ทุกคน\\pสักวันอาจเป็นอาจารย์ก็ได้นะ!\\pแค่นี้แหละ! ลาก่อน อาจารย์ของฉัน!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech11","th":"อ-ะ-ฮ-อ-ย! สะกดรวมได้ อะฮอย!\\pกะลาสีสายแร็ปคือตัวข้า!\\pนี่คำถามสุดท้ายแล้วนะ อย่าร้องไห้ไปล่ะหนา!\\pเป็นคำถามเรื่องคำพูด อยากให้เธอช่วยชี้จุด!\\pถ้าข้าชนะการแข่ง ควรพูดอะไรให้เท่แรง?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks11","th":"{STR_VAR_1}\\pเพอร์เฟกต์! อันนี้แหละข้าใช้เลย! ให้เธอเลือกนี่ถูกแล้วเอ๋ย!\\pและตอนนี้ ข้าว่าดีที่สุด ถ้าข้าจะบินออกจากรังไม่หยุด!\\pขอบใจที่สอนข้ามาทุกอย่าง ข้าจะออกไปลุยสู้ไม่ยั้งทุกทาง!\\pบ-อ-ง-ว-อ-ย-า-จ! สะกดรวมได้ บงวอยาจ!\\pข้าขอคารวะเธอด้วยใจสะอาด!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech12","th":"โอ้ เย้ {PLAYER}! วันนี้ก็เจอเธออีกแล้ว!\\pจะทำไงดี? ถามเธออีกดีมั้ย? ทำไมจะไม่ล่ะ? ก็ถามอยู่นี่แล้ว!\\pยังไงก็ตาม {PLAYER}… ได้ยินฉันมั้ย? ได้ยินแน่นอน!\\pฉันต้องการคำแนะนำอีกแล้วล่ะ!\\pเป็นเรื่องคำที่ฉันจะตะโกน อะไรเท่ ๆ ตอนชนะแล้วกระโดดโลดโผน!\\pเอาเลย อยากได้ยินเธอพูดแล้ว!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks12","th":"{STR_VAR_1}\\pได้เลย ได้เลย! ใช้อันนี้แหละ เพราะมันเจ๋งจริงแท้แน่ะ!\\pไม่มีอะไรจะถามแล้วล่ะ เหลือแค่โบกมือบ๊ายบายเท่านั้นนะ\\pแต่สักวันเราอาจได้พบกัน โดยมีคนหนึ่งต้องพ่ายแพ้ในวันนั้น\\pแต่ ได้เวลาต้องบอกลาจริง ๆ แล้วล่ะ\\pเอาล่ะ {PLAYER} ฉันต้องออกท่องไปอย่างอิสระ แต่อย่าลืมฉันล่ะ!\\pดูแลตัวเองนะ {PLAYER}! รักนะ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech13","th":"{PLAYER}{KUN} ฉันแย่แล้ว… น้ำมูกไหลไม่หยุดเลย…\\pกำลังคิดคำเท่ ๆ ไว้พูดตอนชนะการต่อสู้อยู่\\pยิ่งคิดยิ่งซึ้งจนร้องไห้ แล้วน้ำมูกก็ไหลไม่หยุดเลย…\\pเพราะงั้น ฉันอยากให้เธอช่วยตัดสินใจแทนหน่อย {PLAYER}{KUN}\\pตอนชนะการต่อสู้ ฉันควรพูดว่าอะไรดี?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks13","th":"{STR_VAR_1}\\p… … …ดีนะ ไม่สิ มันน่าทึ่งไปเลย!\\pทำเอาน้ำตาไหลอีกรอบแล้ว!\\pแต่ถึงน้ำตาจะไหล น้ำมูกจะย้อย ฉันก็จะใช้คำนี้แหละ!\\pฉันไม่มีอะไรจะถามเธอแล้วล่ะ {PLAYER}{KUN}\\pต่อจากนี้ เราคือคู่แข่งกัน! ขอบคุณสำหรับทุกอย่างนะ!$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech14","th":"เอ่อ… อืม… {PLAYER}{KUN}…\\pได้โปรด อย่ามองกันแบบนั้นสิ ทำให้ฉันประหม่าไปหมดแล้ว\\pฉะ… ฉันอยากขอคำแนะนำอีกครั้ง แต่จะเป็นครั้งสุดท้ายแล้วนะ…\\pน่าอายมากที่จะถาม แต่ถ้าฉันชนะการต่อสู้ ควรพูดว่าอะไรดี?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks14","th":"{STR_VAR_1}\\pอ๊ะ… โอเค! จะลองพูดแบบนั้นดู!\\pแต่อาจจะประหม่าจนพูดไม่ออกก็ได้…\\pขอบคุณนะ {PLAYER}{KUN} ฉันต้องบอกลาแล้วล่ะ\\pฉันจะทำตามทุกอย่างที่เธอสอนมา {PLAYER}{KUN} และจะทำให้ดีที่สุด$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticePickWinSpeech15","th":"หืม? ดูเหมือนจะเป็น {PLAYER}{KUN}… แต่ใช่จริงหรือ?\\pหรือจะเป็นตุ๊กตา {PLAYER} ที่ทำมาอย่างแนบเนียน?\\pไม่ ไม่ ไม่ อย่ากังวลไปเลย!\\pถ้าเป็นตัวจริง ได้โปรดลืมความเสียมารยาทของฉันเสีย\\pไม่ต้องโกรธขนาดนั้นหรอก\\pฉันแค่อยากได้คำแนะนำดี ๆ จากคุณอีกหน่อย\\pเป็นเรื่องเกี่ยวกับคำพูด\\pพูดให้ชัดคือ ถ้าฉันชนะการต่อสู้ ควรพูดว่าอะไรดี?$"}
+{"id":"data/text/apprentice.inc#gText_ApprenticeWinSpeechThanks15","th":"{STR_VAR_1}\\p… … … … … … ตอนที่ฉันชนะ…\\p{STR_VAR_1}\\p…คุณจริงจังหรือ?\\pเข้าใจละ ถ้าคุณจริงจัง ก็ได้ ขอบคุณที่สละเวลาให้\\pหวังว่าแม้แต่ฉันก็จะใช้คำนั้นให้เกิดประโยชน์ได้\\pดูเหมือนฉันจะไม่มีเรื่องต้องขอคำแนะนำอีกแล้ว\\pคงถึงเวลาที่ฉันต้องกล่าวลา และออกเดินทางด้วยตัวเองแล้ว\\pขอบคุณนะ อาจารย์ของฉัน! ขออภัยที่เคยสงสัยในตัวคุณ!$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential1","th":"ตัวเก็งแชมป์อันดับหนึ่ง!$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential2","th":"ทีมที่ได้เข้ารอบชิงแน่นอน$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential3","th":"ทีมที่น่าจะติดสามอันดับแรก$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential4","th":"ทีมตัวเก็งอันดับหนึ่ง$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential5","th":"ทีมที่มีศักยภาพระดับแนวหน้า$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential6","th":"ทีมม้ามืดของทัวร์นาเมนต์นี้$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential7","th":"ทีมที่เก่งกว่าค่าเฉลี่ย$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential8","th":"ทีมระดับกลางของทัวร์นาเมนต์นี้$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential9","th":"ทีมที่มีศักยภาพระดับกลาง$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential10","th":"ทีมที่อ่อนกว่าค่าเฉลี่ย$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential11","th":"ทีมที่ยังรอชัยชนะแรก$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential12","th":"ทีมที่แค่ชนะครั้งเดียวก็ภูมิใจแล้ว$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential13","th":"โดยรวมเป็นทีมที่อ่อน$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential14","th":"ทีมที่มีศักยภาพต่ำมาก$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential15","th":"ทีมที่ไม่น่าจะคว้าแชมป์ได้$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Potential16","th":"ทีมที่มีโอกาสชนะน้อยที่สุด$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_PotentialDomeAceTucker","th":"ซูเปอร์สตาร์ผู้สมบูรณ์แบบและไร้พ่าย!$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleRiskDisaster","th":"บางครั้งก็กล้าเสี่ยง แม้อาจพังยับ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleEndureLongBattles","th":"ถนัดการต่อสู้ยืดเยื้อ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleVariesTactics","th":"ปรับกลยุทธ์ตามคู่ต่อสู้$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleToughWinningPattern","th":"มีรูปแบบการชนะที่แข็งแกร่ง$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleUsesVeryRareMove","th":"บางครั้งใช้ท่าที่หายากมาก$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleUsesStartlingMoves","th":"ใช้ท่าที่ทำให้ตกใจและป่วนคู่ต่อสู้$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleConstantlyWatchesHP","th":"คอยจับตา HP ตลอดการต่อสู้$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleStoresAndLoosesPower","th":"ถนัดสะสมพลัง แล้วปล่อยออกมา$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleEnfeeblesFoes","th":"ถนัดทำให้คู่ต่อสู้อ่อนแอลง$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StylePrefersLuckTactics","th":"ชอบกลยุทธ์ที่พึ่งดวง$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleRegalAtmosphere","th":"โจมตีด้วยท่วงท่าสง่างามดั่งราชา$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StylePowerfulLowPPMoves","th":"โจมตีด้วยท่าแรงที่มี PP น้อย$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleEnfeebleThenAttack","th":"ถนัดทำให้อ่อนแอลงก่อน แล้วค่อยโจมตี$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleBattlesWhileEnduring","th":"สู้โดยทนรับการโจมตีทุกรูปแบบ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleUpsetsFoesEmotionally","th":"ถนัดปั่นหัวคู่ต่อสู้$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleStrongAndStraightforward","th":"ใช้ท่าแรงและตรงไปตรงมา$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleAggressivelyStrongMoves","th":"ใช้ท่าแรงอย่างดุดัน$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleCleverlyDodgesAttacks","th":"สู้โดยหลบการโจมตีอย่างชาญฉลาด$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleUsesUpsettingMoves","th":"ถนัดใช้ท่าที่ก่อกวนคู่ต่อสู้$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleUsesPopularMoves","th":"ใช้ท่ายอดนิยมมากมาย$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleHasPowerfulComboMoves","th":"มีท่าสำหรับคอมโบที่ทรงพลัง$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleUsesHighProbabilityMoves","th":"ใช้ท่าที่มีโอกาสโดนสูง$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleAggressivelySpectacularMoves","th":"ใช้ท่าอลังการอย่างดุดัน$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleEmphasizesOffenseOverDefense","th":"เน้นบุกมากกว่าตั้งรับ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleEmphasizesDefenseOverOffense","th":"เน้นตั้งรับมากกว่าบุก$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleAttacksQuicklyStrongMoves","th":"โจมตีฉับไวด้วยท่าแรง$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleUsesAddedEffectMoves","th":"มักใช้ท่าที่มีผลพิเศษเพิ่มเติม$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleUsesBalancedMixOfMoves","th":"ใช้ท่าผสมผสานอย่างสมดุล$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleSampleMessage1","th":"นี่คือข้อความตัวอย่าง 1$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleSampleMessage2","th":"นี่คือข้อความตัวอย่าง 2$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleSampleMessage3","th":"นี่คือข้อความตัวอย่าง 3$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_StyleSampleMessage4","th":"นี่คือข้อความตัวอย่าง 4$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesHPAndAtk","th":"เน้น HP และพลังโจมตี$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesHPAndDef","th":"เน้น HP และพลังป้องกัน$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesHPAndSpeed","th":"เน้น HP และความเร็ว$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesHPAndSpAtk","th":"เน้น HP และโจมตีพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesHPAndSpDef","th":"เน้น HP และป้องกันพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesAtkAndDef","th":"เน้นพลังโจมตีและพลังป้องกัน$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesAtkAndSpeed","th":"เน้นพลังโจมตีและความเร็ว$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesAtkAndSpAtk","th":"เน้นพลังโจมตีและโจมตีพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesAtkAndSpDef","th":"เน้นพลังโจมตีและป้องกันพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesDefAndSpeed","th":"เน้นพลังป้องกันและความเร็ว$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesDefAndSpAtk","th":"เน้นพลังป้องกันและโจมตีพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesDefAndSpDef","th":"เน้นพลังป้องกันและป้องกันพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesSpeedAndSpAtk","th":"เน้นความเร็วและโจมตีพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesSpeedAndSpDef","th":"เน้นความเร็วและป้องกันพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesSpAtkAndSpDef","th":"เน้นโจมตีพิเศษและป้องกันพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesHP","th":"เน้น HP$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesAtk","th":"เน้นพลังโจมตี$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesDef","th":"เน้นพลังป้องกัน$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesSpeed","th":"เน้นความเร็ว$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesSpAtk","th":"เน้นโจมตีพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_EmphasizesSpDef","th":"เน้นป้องกันพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsHPAndAtk","th":"ละเลย HP และพลังโจมตี$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsHPAndDef","th":"ละเลย HP และพลังป้องกัน$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsHPAndSpeed","th":"ละเลย HP และความเร็ว$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsHPAndSpAtk","th":"ละเลย HP และโจมตีพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsHPAndSpDef","th":"ละเลย HP และป้องกันพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsAtkAndDef","th":"ละเลยพลังโจมตีและพลังป้องกัน$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsAtkAndSpeed","th":"ละเลยพลังโจมตีและความเร็ว$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsAtkAndSpAtk","th":"ละเลยพลังโจมตีและโจมตีพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsAtkAndSpDef","th":"ละเลยพลังโจมตีและป้องกันพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsDefAndSpeed","th":"ละเลยพลังป้องกันและความเร็ว$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsDefAndSpAtk","th":"ละเลยพลังป้องกันและโจมตีพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsDefAndSpDef","th":"ละเลยพลังป้องกันและป้องกันพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsSpeedAndSpAtk","th":"ละเลยความเร็วและโจมตีพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsSpeedAndSpDef","th":"ละเลยความเร็วและป้องกันพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsSpAtkAndSpDef","th":"ละเลยโจมตีพิเศษและป้องกันพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsHP","th":"ละเลย HP$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsAtk","th":"ละเลยพลังโจมตี$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsDef","th":"ละเลยพลังป้องกัน$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsSpeed","th":"ละเลยความเร็ว$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsSpAtk","th":"ละเลยโจมตีพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_NeglectsSpDef","th":"ละเลยป้องกันพิเศษ$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_RaisesMonsWellBalanced","th":"เลี้ยงโปเกมอนอย่างสมดุล$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_LetTheBattleBegin","th":"เริ่มการต่อสู้ได้!$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_TrainerWonUsingMove","th":"{STR_VAR_1} ชนะด้วยท่า {STR_VAR_2}!$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_TrainerBecameChamp","th":"{STR_VAR_1} คว้าแชมป์!$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_TrainerWonByDefault","th":"{STR_VAR_1} ชนะโดยปริยาย!$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_TrainerWonOutrightByDefault","th":"{STR_VAR_1} ชนะขาดโดยปริยาย!$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_TrainerWonNoMoves","th":"{STR_VAR_1} ชนะโดยไม่ใช้ท่าเลย!$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_TrainerWonOutrightNoMoves","th":"{STR_VAR_1} ชนะขาดโดยไม่ใช้ท่า!$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Round1Match1","th":"รอบ 1 คู่ที่ 1$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Round1Match2","th":"รอบ 1 คู่ที่ 2$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Round1Match3","th":"รอบ 1 คู่ที่ 3$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Round1Match4","th":"รอบ 1 คู่ที่ 4$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Round1Match5","th":"รอบ 1 คู่ที่ 5$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Round1Match6","th":"รอบ 1 คู่ที่ 6$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Round1Match7","th":"รอบ 1 คู่ที่ 7$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Round1Match8","th":"รอบ 1 คู่ที่ 8$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Round2Match1","th":"รอบ 2 คู่ที่ 1$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Round2Match2","th":"รอบ 2 คู่ที่ 2$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Round2Match3","th":"รอบ 2 คู่ที่ 3$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_Round2Match4","th":"รอบ 2 คู่ที่ 4$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_SemifinalMatch1","th":"รอบรองชนะเลิศ คู่ที่ 1$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_SemifinalMatch2","th":"รอบรองชนะเลิศ คู่ที่ 2$"}
+{"id":"data/text/battle_dome.inc#BattleDome_Text_FinalMatch","th":"รอบชิงชนะเลิศ$"}

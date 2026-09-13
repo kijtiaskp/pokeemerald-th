@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,33 +89,50 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
+BATTLE TOWER	แบทเทิลทาวเวอร์	frontier	
+BATTLE TENT	แบทเทิลเต็นท์	frontier	
+SAFARI ZONE	ซาฟารีโซน	frontier	
+NORMAL	NORMAL	type	คงภาษาอังกฤษตามต้นฉบับ
+FLYING	FLYING	type	คงภาษาอังกฤษตามต้นฉบับ
+BUG	BUG	type	คงภาษาอังกฤษตามต้นฉบับ
+GHOST	GHOST	type	คงภาษาอังกฤษตามต้นฉบับ
+FIRE	FIRE	type	คงภาษาอังกฤษตามต้นฉบับ
+DRAGON	DRAGON	type	คงภาษาอังกฤษตามต้นฉบับ
+RARE CANDY	RARE CANDY	item	คงภาษาอังกฤษตามต้นฉบับ
+X SPEED	X SPEED	item	คงภาษาอังกฤษตามต้นฉบับ
+SUPER REPEL	SUPER REPEL	item	คงภาษาอังกฤษตามต้นฉบับ
+REPEL	REPEL	item	คงภาษาอังกฤษตามต้นฉบับ
+MOON STONE	MOON STONE	item	คงภาษาอังกฤษตามต้นฉบับ
+NUGGET	NUGGET	item	คงภาษาอังกฤษตามต้นฉบับ
+HEART SCALE	HEART SCALE	item	คงภาษาอังกฤษตามต้นฉบับ
+MENTAL HERB	MENTAL HERB	item	คงภาษาอังกฤษตามต้นฉบับ
+CHARCOAL	CHARCOAL	item	คงภาษาอังกฤษตามต้นฉบับ
+SILK SCARF	SILK SCARF	item	คงภาษาอังกฤษตามต้นฉบับ
+ACRO BIKE	ACRO BIKE	item	คงภาษาอังกฤษตามต้นฉบับ
+LETTER	LETTER	item	คงภาษาอังกฤษตามต้นฉบับ
+GO-GOGGLES	GO-GOGGLES	item	คงภาษาอังกฤษตามต้นฉบับ
+METEORITE	METEORITE	item	คงภาษาอังกฤษตามต้นฉบับ
+ROOT FOSSIL	ROOT FOSSIL	item	คงภาษาอังกฤษตามต้นฉบับ
+CLAW FOSSIL	CLAW FOSSIL	item	คงภาษาอังกฤษตามต้นฉบับ
+DEVON SCOPE	DEVON SCOPE	item	คงภาษาอังกฤษตามต้นฉบับ
+TM08	TM08	item	คงภาษาอังกฤษตามต้นฉบับ
+TM40	TM40	item	คงภาษาอังกฤษตามต้นฉบับ
+TM50	TM50	item	คงภาษาอังกฤษตามต้นฉบับ
+MAGMA EMBLEM	MAGMA EMBLEM	item	คงภาษาอังกฤษตามต้นฉบับ
+FLY	FLY	move	คงภาษาอังกฤษตามต้นฉบับ
+SLUDGE	SLUDGE	move	คงภาษาอังกฤษตามต้นฉบับ
+FLASH	FLASH	move	คงภาษาอังกฤษตามต้นฉบับ
+SLUDGE BOMB	SLUDGE BOMB	move	คงภาษาอังกฤษตามต้นฉบับ
+HIDDEN POWER	HIDDEN POWER	move	คงภาษาอังกฤษตามต้นฉบับ
+OVERHEAT	OVERHEAT	move	คงภาษาอังกฤษตามต้นฉบับ
+AERIAL ACE	AERIAL ACE	move	คงภาษาอังกฤษตามต้นฉบับ
+BULK UP	BULK UP	move	คงภาษาอังกฤษตามต้นฉบับ
 TV	ทีวี	decoration	
-RARE CANDY	ลูกอมวิเศษ	item	
-X SPEED	สปีดเดอร์	item	
-SUPER REPEL	สเปรย์เงิน	item	
-REPEL	สเปรย์ไล่แมลง	item	
-MOON STONE	หินพระจันทร์	item	
-NUGGET	ลูกทองคำ	item	
-HEART SCALE	เกล็ดหัวใจ	item	
-MENTAL HERB	สมุนไพรจิตใจ	item	
-CHARCOAL	ถ่านไม้	item	
-SILK SCARF	ผ้าพันคอไหม	item	
-ACRO BIKE	จักรยานวิบาก	item	
-LETTER	จดหมาย	item	
-GO-GOGGLES	แว่นโกโก	item	
-METEORITE	อุกกาบาต	item	
-ROOT FOSSIL	ฟอสซิลราก	item	
-CLAW FOSSIL	ฟอสซิลกรงเล็บ	item	
-DEVON SCOPE	สโคปเดวอน	item	
-TM08	TM08	item	
-TM40	TM40	item	
-TM50	TM50	item	
-MAGMA EMBLEM	ตราแม็กม่า	item	
 DEWFORD TOWN	เมืองมุโระ	location	
 LAVARIDGE TOWN	เมืองฟุเอ็น	location	
 FALLARBOR TOWN	เมืองฮาจิตสึเกะ	location	
@@ -146,20 +163,6 @@ ROUTE 12	เส้นทาง 12	location
 VICTORY ROAD	ถนนแชมเปี้ยน	location	
 SAFARI ZONE	ซาฟารีโซน	location	
 POKéMON LEAGUE	โปเกมอนลีก	location	
-NORMAL	ปกติ	type	
-FLYING	บิน	type	
-BUG	แมลง	type	
-GHOST	ผี	type	
-FIRE	ไฟ	type	
-DRAGON	มังกร	type	
-FLY	บินขึ้นฟ้า	move	
-SLUDGE	โคลนพิษ	move	
-FLASH	แฟลช	move	
-SLUDGE BOMB	ระเบิดโคลน	move	
-HIDDEN POWER	พลังแฝง	move	
-OVERHEAT	โอเวอร์ฮีท	move	
-AERIAL ACE	ดาบนางแอ่น	move	
-BULK UP	บิลด์อัพ	move	
 TEAM AQUA	แก๊งอควา	trainer_class	
 TEAM MAGMA	แก๊งแม็กม่า	trainer_class	
 ELITE FOUR	จตุรเทพ	trainer_class	

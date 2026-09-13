@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,14 +89,21 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
-SODA POP	ไซโคโซดา	item	
-WHITE FLUTE	ขลุ่ยขาว	item	
-GO-GOGGLES	แว่นโกโก	item	
+BUG	BUG	type	คงภาษาอังกฤษตามต้นฉบับ
+WATER	WATER	type	คงภาษาอังกฤษตามต้นฉบับ
+SODA POP	SODA POP	item	คงภาษาอังกฤษตามต้นฉบับ
+WHITE FLUTE	WHITE FLUTE	item	คงภาษาอังกฤษตามต้นฉบับ
+GO-GOGGLES	GO-GOGGLES	item	คงภาษาอังกฤษตามต้นฉบับ
+FLY	FLY	move	คงภาษาอังกฤษตามต้นฉบับ
+SURF	SURF	move	คงภาษาอังกฤษตามต้นฉบับ
+PSYCHIC	PSYCHIC	move	คงภาษาอังกฤษตามต้นฉบับ
+TELEPORT	TELEPORT	move	คงภาษาอังกฤษตามต้นฉบับ
+MIMIC	MIMIC	move	คงภาษาอังกฤษตามต้นฉบับ
 MT. CHIMNEY	ภูเขาปล่องไฟ	location	
 ABANDONED SHIP	เรือร้าง	location	
 METEOR FALLS	น้ำตกดาวตก	location	
@@ -105,13 +112,6 @@ MT. PYRE	ภูเขาส่งวิญญาณ	location
 FIERY PATH	ทางลัดเปลวไฟ	location	
 FIERY PATH	ทางลัดเปลวไฟ	location	
 POKéMON LEAGUE	โปเกมอนลีก	location	
-BUG	แมลง	type	
-WATER	น้ำ	type	
-FLY	บินขึ้นฟ้า	move	
-SURF	โต้คลื่น	move	
-PSYCHIC	ไซโคคิเนซิส	move	
-TELEPORT	เทเลพอร์ต	move	
-MIMIC	เลียนแบบ	move	
 HIKER	นักปีนเขา	trainer_class	
 BUG MANIAC	คลั่งแมลง	trainer_class	
 PSYCHIC	ผู้มีพลังจิต	trainer_class	

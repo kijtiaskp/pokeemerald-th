@@ -76,7 +76,7 @@ ROUTE 101	เส้นทาง 101	characters
 POKéMON	โปเกมอน	characters	
 POKéDEX	โปเกเด็กซ์	characters	
 POKéNAV	โปเกนาวี	characters	
-POKé BALL	มอนสเตอร์บอล	characters	
+POKé BALL	POKé BALL	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 POKéMON CENTER	โปเกมอนเซ็นเตอร์	characters	
 POKé MART	โปเกมาร์ท	characters	
 POKéBLOCK	โปเกบล็อก	characters	
@@ -89,45 +89,60 @@ BATTLE FRONTIER	แบทเทิลฟรอนเทียร์	characters
 FRONTIER BRAIN	ฟรอนเทียร์เบรน	characters	
 SECRET BASE	ฐานลับ	characters	
 CONTEST	คอนเทสต์	characters	
-BERRY	เบอร์รี่	characters	
-HM / TM	HM / TM	characters	
+BERRY	เบอร์รี่	characters	คำทั่วไปใช้ เบอร์รี่ แต่ชื่อไอเท็มเบอร์รี่ (เช่น ORAN BERRY) คงภาษาอังกฤษ
+HM / TM	HM / TM	characters	ชื่อไอเท็ม คงภาษาอังกฤษ
 move	ท่า	characters	
 ability	คุณสมบัติ	characters	
 EGG	ไข่	characters	
-GREAT BALL	ซูเปอร์บอล	item	
-POKé BALL	มอนสเตอร์บอล	item	
-REPEAT BALL	รีพีตบอล	item	
-TIMER BALL	ไทเมอร์บอล	item	
-POTION	ยาทาแผล	item	
-ANTIDOTE	ยาแก้พิษ	item	
-BURN HEAL	ยาแก้แผลไหม้	item	
-ICE HEAL	ยาแก้น้ำแข็ง	item	
-AWAKENING	ยาแก้ง่วง	item	
-PARLYZ HEAL	ยาแก้อัมพาต	item	
-BLUE FLUTE	ขลุ่ยน้ำเงิน	item	
-RED SHARD	เศษสีแดง	item	
-BLUE SHARD	เศษสีน้ำเงิน	item	
-YELLOW SHARD	เศษสีเหลือง	item	
-GREEN SHARD	เศษสีเขียว	item	
-ESCAPE ROPE	เชือกหนีถ้ำ	item	
-FIRE STONE	หินไฟ	item	
-THUNDERSTONE	หินสายฟ้า	item	
-WATER STONE	หินน้ำ	item	
-LEAF STONE	หินใบไม้	item	
-MACHO BRACE	เฝือกฝึกพลัง	item	
-EXP. SHARE	อุปกรณ์เรียน	item	
-QUICK CLAW	เล็บชิงจังหวะ	item	
-BLACKGLASSES	แว่นดำ	item	
-GOOD ROD	คันเบ็ดดี	item	
-DEVON GOODS	พัสดุเดวอน	item	
-SOOT SACK	ถุงเก็บเถ้า	item	
-LETTER	จดหมาย	item	
-METEORITE	อุกกาบาต	item	
-ROOT FOSSIL	ฟอสซิลราก	item	
-CLAW FOSSIL	ฟอสซิลกรงเล็บ	item	
-DEVON SCOPE	สโคปเดวอน	item	
-TM05	TM05	item	
-TM39	TM39	item	
+TRAINER HILL	เทรนเนอร์ฮิลล์	frontier	
+ROCK	ROCK	type	คงภาษาอังกฤษตามต้นฉบับ
+FIRE	FIRE	type	คงภาษาอังกฤษตามต้นฉบับ
+WATER	WATER	type	คงภาษาอังกฤษตามต้นฉบับ
+GRASS	GRASS	type	คงภาษาอังกฤษตามต้นฉบับ
+ICE	ICE	type	คงภาษาอังกฤษตามต้นฉบับ
+GREAT BALL	GREAT BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+POKé BALL	POKé BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+REPEAT BALL	REPEAT BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+TIMER BALL	TIMER BALL	item	คงภาษาอังกฤษตามต้นฉบับ
+POTION	POTION	item	คงภาษาอังกฤษตามต้นฉบับ
+ANTIDOTE	ANTIDOTE	item	คงภาษาอังกฤษตามต้นฉบับ
+BURN HEAL	BURN HEAL	item	คงภาษาอังกฤษตามต้นฉบับ
+ICE HEAL	ICE HEAL	item	คงภาษาอังกฤษตามต้นฉบับ
+AWAKENING	AWAKENING	item	คงภาษาอังกฤษตามต้นฉบับ
+PARLYZ HEAL	PARLYZ HEAL	item	คงภาษาอังกฤษตามต้นฉบับ
+BLUE FLUTE	BLUE FLUTE	item	คงภาษาอังกฤษตามต้นฉบับ
+RED SHARD	RED SHARD	item	คงภาษาอังกฤษตามต้นฉบับ
+BLUE SHARD	BLUE SHARD	item	คงภาษาอังกฤษตามต้นฉบับ
+YELLOW SHARD	YELLOW SHARD	item	คงภาษาอังกฤษตามต้นฉบับ
+GREEN SHARD	GREEN SHARD	item	คงภาษาอังกฤษตามต้นฉบับ
+ESCAPE ROPE	ESCAPE ROPE	item	คงภาษาอังกฤษตามต้นฉบับ
+FIRE STONE	FIRE STONE	item	คงภาษาอังกฤษตามต้นฉบับ
+THUNDERSTONE	THUNDERSTONE	item	คงภาษาอังกฤษตามต้นฉบับ
+WATER STONE	WATER STONE	item	คงภาษาอังกฤษตามต้นฉบับ
+LEAF STONE	LEAF STONE	item	คงภาษาอังกฤษตามต้นฉบับ
+MACHO BRACE	MACHO BRACE	item	คงภาษาอังกฤษตามต้นฉบับ
+EXP. SHARE	EXP. SHARE	item	คงภาษาอังกฤษตามต้นฉบับ
+QUICK CLAW	QUICK CLAW	item	คงภาษาอังกฤษตามต้นฉบับ
+BLACKGLASSES	BLACKGLASSES	item	คงภาษาอังกฤษตามต้นฉบับ
+GOOD ROD	GOOD ROD	item	คงภาษาอังกฤษตามต้นฉบับ
+DEVON GOODS	DEVON GOODS	item	คงภาษาอังกฤษตามต้นฉบับ
+SOOT SACK	SOOT SACK	item	คงภาษาอังกฤษตามต้นฉบับ
+LETTER	LETTER	item	คงภาษาอังกฤษตามต้นฉบับ
+METEORITE	METEORITE	item	คงภาษาอังกฤษตามต้นฉบับ
+ROOT FOSSIL	ROOT FOSSIL	item	คงภาษาอังกฤษตามต้นฉบับ
+CLAW FOSSIL	CLAW FOSSIL	item	คงภาษาอังกฤษตามต้นฉบับ
+DEVON SCOPE	DEVON SCOPE	item	คงภาษาอังกฤษตามต้นฉบับ
+TM05	TM05	item	คงภาษาอังกฤษตามต้นฉบับ
+TM39	TM39	item	คงภาษาอังกฤษตามต้นฉบับ
+-	-	move	คงภาษาอังกฤษตามต้นฉบับ
+CUT	CUT	move	คงภาษาอังกฤษตามต้นฉบับ
+FLY	FLY	move	คงภาษาอังกฤษตามต้นฉบับ
+ROAR	ROAR	move	คงภาษาอังกฤษตามต้นฉบับ
+SURF	SURF	move	คงภาษาอังกฤษตามต้นฉบับ
+DIG	DIG	move	คงภาษาอังกฤษตามต้นฉบับ
+REST	REST	move	คงภาษาอังกฤษตามต้นฉบับ
+SECRET POWER	SECRET POWER	move	คงภาษาอังกฤษตามต้นฉบับ
+ROCK TOMB	ROCK TOMB	move	คงภาษาอังกฤษตามต้นฉบับ
 LAVARIDGE TOWN	เมืองฟุเอ็น	location	
 FALLARBOR TOWN	เมืองฮาจิตสึเกะ	location	
 VERDANTURF TOWN	เมืองชิดาเกะ	location	
@@ -159,19 +174,6 @@ ROUTE 12	เส้นทาง 12	location
 POKéMON LEAGUE	โปเกมอนลีก	location	
 MIRAGE TOWER	หอคอยมายา	location	
 TRAINER HILL	เทรนเนอร์ฮิล	location	
-ROCK	หิน	type	
-FIRE	ไฟ	type	
-WATER	น้ำ	type	
-GRASS	หญ้า	type	
-ICE	น้ำแข็ง	type	
-CUT	ชักดาบฟัน	move	
-FLY	บินขึ้นฟ้า	move	
-ROAR	คำราม	move	
-SURF	โต้คลื่น	move	
-DIG	ขุดหลุม	move	
-REST	นอนหลับ	move	
-SECRET POWER	พลังลับ	move	
-ROCK TOMB	หินผนึก	move	
 JOLLY	ร่าเริง	nature	
 NAIVE	ไร้เดียงสา	nature	
 TEAM AQUA	แก๊งอควา	trainer_class	

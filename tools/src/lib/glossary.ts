@@ -10,6 +10,9 @@ export interface GlossaryTerm {
   note?: string;
 }
 
+// Kept in English so players can look them up in English-language resources.
+export const ENGLISH_KINDS = new Set(['move', 'type', 'item', 'berry_name']);
+
 const NAME_KINDS = new Set([
   'species', 'move', 'ability', 'type', 'nature', 'trainer_class', 'item', 'location', 'berry_name', 'decoration',
   'trainer_name', 'frontier_trainer', 'contest_opponent', 'dex_category',
@@ -24,6 +27,10 @@ export function loadGlossary(): GlossaryTerm[] {
   }
 
   const sources = new Map(readJsonl<{ id: string; kind: string; en: string }>(path.join(DATA_DIR, 'strings.jsonl')).map((entry) => [entry.id, entry]));
+  for (const entry of sources.values()) {
+    if (ENGLISH_KINDS.has(entry.kind) && entry.en.trim()) terms.push({ en: entry.en, th: entry.en, kind: entry.kind, note: 'คงภาษาอังกฤษตามต้นฉบับ' });
+  }
+
   const translationDir = path.join(DATA_DIR, 'translations');
   if (!existsSync(translationDir)) return terms;
   for (const name of readdirSync(translationDir).filter((file) => file.startsWith('names-') && file.endsWith('.jsonl'))) {

@@ -1,685 +1,333 @@
-{"id":"src/berry.c#name","th":"คุราโบ"}
-{"id":"src/berry.c#name~2","th":"คาโกะ"}
-{"id":"src/berry.c#name~3","th":"โมมน"}
-{"id":"src/berry.c#name~4","th":"ชีโกะ"}
-{"id":"src/berry.c#name~5","th":"นานาชิ"}
-{"id":"src/berry.c#name~6","th":"ฮิเมริ"}
-{"id":"src/berry.c#name~7","th":"โอเรน"}
-{"id":"src/berry.c#name~8","th":"คี"}
-{"id":"src/berry.c#name~9","th":"รามุ"}
-{"id":"src/berry.c#name~10","th":"โอบน"}
-{"id":"src/berry.c#name~11","th":"ฟิระ"}
-{"id":"src/berry.c#name~12","th":"อุอิ"}
-{"id":"src/berry.c#name~13","th":"มาโกะ"}
-{"id":"src/berry.c#name~14","th":"บันจิ"}
-{"id":"src/berry.c#name~15","th":"อิอะ"}
-{"id":"src/berry.c#name~16","th":"ซุริ"}
-{"id":"src/berry.c#name~17","th":"บูรี"}
-{"id":"src/berry.c#name~18","th":"นานา"}
-{"id":"src/berry.c#name~19","th":"เซชินะ"}
-{"id":"src/berry.c#name~20","th":"ไพรุ"}
-{"id":"src/berry.c#name~21","th":"ซาโรคุ"}
-{"id":"src/berry.c#name~22","th":"เนโคบุ"}
-{"id":"src/berry.c#name~23","th":"ทาโปรุ"}
-{"id":"src/berry.c#name~24","th":"โรเมะ"}
-{"id":"src/berry.c#name~25","th":"อุบุ"}
-{"id":"src/berry.c#name~26","th":"มาโทมะ"}
-{"id":"src/berry.c#name~27","th":"โมโคชิ"}
-{"id":"src/berry.c#name~28","th":"โกสุ"}
-{"id":"src/berry.c#name~29","th":"ราบุตะ"}
-{"id":"src/berry.c#name~30","th":"โนเมรุ"}
-{"id":"src/berry.c#name~31","th":"โนวากิ"}
-{"id":"src/berry.c#name~32","th":"ชียะ"}
-{"id":"src/berry.c#name~33","th":"ไคสุ"}
-{"id":"src/berry.c#name~34","th":"โดริ"}
-{"id":"src/berry.c#name~35","th":"เบริบุ"}
-{"id":"src/berry.c#name~36","th":"ชิอิระ"}
-{"id":"src/berry.c#name~37","th":"ริวกะ"}
-{"id":"src/berry.c#name~38","th":"คามุระ"}
-{"id":"src/berry.c#name~39","th":"ยาทาปิ"}
-{"id":"src/berry.c#name~40","th":"ซุอะ"}
-{"id":"src/berry.c#name~41","th":"ซัน"}
-{"id":"src/berry.c#name~42","th":"สตาร์"}
-{"id":"src/berry.c#name~43","th":"นาโซะ"}
-{"id":"src/data/decoration/header.h#DECOR_NONE.name","th":"โต๊ะเล็ก"}
-{"id":"src/data/decoration/header.h#DECOR_SMALL_DESK.name","th":"โต๊ะเล็ก"}
-{"id":"src/data/decoration/header.h#DECOR_POKEMON_DESK.name","th":"โต๊ะโปเกมอน"}
-{"id":"src/data/decoration/header.h#DECOR_HEAVY_DESK.name","th":"โต๊ะหนัก"}
-{"id":"src/data/decoration/header.h#DECOR_RAGGED_DESK.name","th":"โต๊ะผุพัง"}
-{"id":"src/data/decoration/header.h#DECOR_COMFORT_DESK.name","th":"โต๊ะแสนสบาย"}
-{"id":"src/data/decoration/header.h#DECOR_PRETTY_DESK.name","th":"โต๊ะสวย"}
-{"id":"src/data/decoration/header.h#DECOR_BRICK_DESK.name","th":"โต๊ะอิฐ"}
-{"id":"src/data/decoration/header.h#DECOR_CAMP_DESK.name","th":"โต๊ะแคมป์"}
-{"id":"src/data/decoration/header.h#DECOR_HARD_DESK.name","th":"โต๊ะแข็ง"}
-{"id":"src/data/decoration/header.h#DECOR_SMALL_CHAIR.name","th":"เก้าอี้เล็ก"}
-{"id":"src/data/decoration/header.h#DECOR_POKEMON_CHAIR.name","th":"เก้าอี้โปเกมอน"}
-{"id":"src/data/decoration/header.h#DECOR_HEAVY_CHAIR.name","th":"เก้าอี้หนัก"}
-{"id":"src/data/decoration/header.h#DECOR_PRETTY_CHAIR.name","th":"เก้าอี้สวย"}
-{"id":"src/data/decoration/header.h#DECOR_COMFORT_CHAIR.name","th":"เก้าอี้แสนสบาย"}
-{"id":"src/data/decoration/header.h#DECOR_RAGGED_CHAIR.name","th":"เก้าอี้ผุพัง"}
-{"id":"src/data/decoration/header.h#DECOR_BRICK_CHAIR.name","th":"เก้าอี้อิฐ"}
-{"id":"src/data/decoration/header.h#DECOR_CAMP_CHAIR.name","th":"เก้าอี้แคมป์"}
-{"id":"src/data/decoration/header.h#DECOR_HARD_CHAIR.name","th":"เก้าอี้แข็ง"}
-{"id":"src/data/decoration/header.h#DECOR_RED_PLANT.name","th":"ต้นไม้แดง"}
-{"id":"src/data/decoration/header.h#DECOR_TROPICAL_PLANT.name","th":"ไม้เมืองร้อน"}
-{"id":"src/data/decoration/header.h#DECOR_PRETTY_FLOWERS.name","th":"ดอกไม้สวย"}
-{"id":"src/data/decoration/header.h#DECOR_COLORFUL_PLANT.name","th":"ไม้หลากสี"}
-{"id":"src/data/decoration/header.h#DECOR_BIG_PLANT.name","th":"ต้นไม้ใหญ่"}
-{"id":"src/data/decoration/header.h#DECOR_GORGEOUS_PLANT.name","th":"ไม้ประดับหรู"}
-{"id":"src/data/decoration/header.h#DECOR_RED_BRICK.name","th":"อิฐแดง"}
-{"id":"src/data/decoration/header.h#DECOR_YELLOW_BRICK.name","th":"อิฐเหลือง"}
-{"id":"src/data/decoration/header.h#DECOR_BLUE_BRICK.name","th":"อิฐน้ำเงิน"}
-{"id":"src/data/decoration/header.h#DECOR_RED_BALLOON.name","th":"ลูกโป่งแดง"}
-{"id":"src/data/decoration/header.h#DECOR_BLUE_BALLOON.name","th":"ลูกโป่งน้ำเงิน"}
-{"id":"src/data/decoration/header.h#DECOR_YELLOW_BALLOON.name","th":"ลูกโป่งเหลือง"}
-{"id":"src/data/decoration/header.h#DECOR_RED_TENT.name","th":"เต็นท์แดง"}
-{"id":"src/data/decoration/header.h#DECOR_BLUE_TENT.name","th":"เต็นท์น้ำเงิน"}
-{"id":"src/data/decoration/header.h#DECOR_SOLID_BOARD.name","th":"แผ่นไม้แข็ง"}
-{"id":"src/data/decoration/header.h#DECOR_SLIDE.name","th":"สไลเดอร์"}
-{"id":"src/data/decoration/header.h#DECOR_FENCE_LENGTH.name","th":"รั้วแนวตั้ง"}
-{"id":"src/data/decoration/header.h#DECOR_FENCE_WIDTH.name","th":"รั้วแนวนอน"}
-{"id":"src/data/decoration/header.h#DECOR_TIRE.name","th":"ยางรถ"}
-{"id":"src/data/decoration/header.h#DECOR_STAND.name","th":"แท่นยืน"}
-{"id":"src/data/decoration/header.h#DECOR_MUD_BALL.name","th":"ก้อนโคลน"}
-{"id":"src/data/decoration/header.h#DECOR_BREAKABLE_DOOR.name","th":"ประตูพังได้"}
-{"id":"src/data/decoration/header.h#DECOR_SAND_ORNAMENT.name","th":"รูปปั้นทราย"}
-{"id":"src/data/decoration/header.h#DECOR_SILVER_SHIELD.name","th":"โล่เงิน"}
-{"id":"src/data/decoration/header.h#DECOR_GOLD_SHIELD.name","th":"โล่ทอง"}
-{"id":"src/data/decoration/header.h#DECOR_GLASS_ORNAMENT.name","th":"รูปปั้นแก้ว"}
-{"id":"src/data/decoration/header.h#DECOR_TV.name","th":"ทีวี"}
-{"id":"src/data/decoration/header.h#DECOR_ROUND_TV.name","th":"ทีวีทรงกลม"}
-{"id":"src/data/decoration/header.h#DECOR_CUTE_TV.name","th":"ทีวีน่ารัก"}
-{"id":"src/data/decoration/header.h#DECOR_GLITTER_MAT.name","th":"พรมระยิบระยับ"}
-{"id":"src/data/decoration/header.h#DECOR_JUMP_MAT.name","th":"พรมกระโดด"}
-{"id":"src/data/decoration/header.h#DECOR_SPIN_MAT.name","th":"พรมหมุน"}
-{"id":"src/data/decoration/header.h#DECOR_C_LOW_NOTE_MAT.name","th":"พรมโน้ตโดต่ำ"}
-{"id":"src/data/decoration/header.h#DECOR_D_NOTE_MAT.name","th":"พรมโน้ตเร"}
-{"id":"src/data/decoration/header.h#DECOR_E_NOTE_MAT.name","th":"พรมโน้ตมี"}
-{"id":"src/data/decoration/header.h#DECOR_F_NOTE_MAT.name","th":"พรมโน้ตฟา"}
-{"id":"src/data/decoration/header.h#DECOR_G_NOTE_MAT.name","th":"พรมโน้ตซอล"}
-{"id":"src/data/decoration/header.h#DECOR_A_NOTE_MAT.name","th":"พรมโน้ตลา"}
-{"id":"src/data/decoration/header.h#DECOR_B_NOTE_MAT.name","th":"พรมโน้ตที"}
-{"id":"src/data/decoration/header.h#DECOR_C_HIGH_NOTE_MAT.name","th":"พรมโน้ตโดสูง"}
-{"id":"src/data/decoration/header.h#DECOR_SURF_MAT.name","th":"พรมโต้คลื่น"}
-{"id":"src/data/decoration/header.h#DECOR_THUNDER_MAT.name","th":"พรมสายฟ้า"}
-{"id":"src/data/decoration/header.h#DECOR_FIRE_BLAST_MAT.name","th":"พรมระเบิดไฟ"}
-{"id":"src/data/decoration/header.h#DECOR_POWDER_SNOW_MAT.name","th":"พรมหิมะผง"}
-{"id":"src/data/decoration/header.h#DECOR_ATTRACT_MAT.name","th":"พรมเสน่ห์"}
-{"id":"src/data/decoration/header.h#DECOR_FISSURE_MAT.name","th":"พรมแผ่นดินแยก"}
-{"id":"src/data/decoration/header.h#DECOR_SPIKES_MAT.name","th":"พรมหนามแหลม"}
-{"id":"src/data/decoration/header.h#DECOR_BALL_POSTER.name","th":"โปสเตอร์บอล"}
-{"id":"src/data/decoration/header.h#DECOR_GREEN_POSTER.name","th":"โปสเตอร์เขียว"}
-{"id":"src/data/decoration/header.h#DECOR_RED_POSTER.name","th":"โปสเตอร์แดง"}
-{"id":"src/data/decoration/header.h#DECOR_BLUE_POSTER.name","th":"โปสเตอร์น้ำเงิน"}
-{"id":"src/data/decoration/header.h#DECOR_CUTE_POSTER.name","th":"โปสเตอร์น่ารัก"}
-{"id":"src/data/decoration/header.h#DECOR_PIKA_POSTER.name","th":"โปสเตอร์ปิกา"}
-{"id":"src/data/decoration/header.h#DECOR_LONG_POSTER.name","th":"โปสเตอร์ยาว"}
-{"id":"src/data/decoration/header.h#DECOR_SEA_POSTER.name","th":"โปสเตอร์ทะเล"}
-{"id":"src/data/decoration/header.h#DECOR_SKY_POSTER.name","th":"โปสเตอร์ท้องฟ้า"}
-{"id":"src/data/decoration/header.h#DECOR_KISS_POSTER.name","th":"โปสเตอร์จุ๊บ"}
-{"id":"src/data/decoration/header.h#DECOR_PICHU_DOLL.name","th":"ตุ๊กตาพิชู"}
-{"id":"src/data/decoration/header.h#DECOR_PIKACHU_DOLL.name","th":"ตุ๊กตาปิกาจู"}
-{"id":"src/data/decoration/header.h#DECOR_MARILL_DOLL.name","th":"ตุ๊กตามาริล"}
-{"id":"src/data/decoration/header.h#DECOR_TOGEPI_DOLL.name","th":"ตุ๊กตาโทเกปี"}
-{"id":"src/data/decoration/header.h#DECOR_CYNDAQUIL_DOLL.name","th":"ตุ๊กตาฮิโนอาราชิ"}
-{"id":"src/data/decoration/header.h#DECOR_CHIKORITA_DOLL.name","th":"ตุ๊กตาชิโครีตา"}
-{"id":"src/data/decoration/header.h#DECOR_TOTODILE_DOLL.name","th":"ตุ๊กตาวานิโนโกะ"}
-{"id":"src/data/decoration/header.h#DECOR_JIGGLYPUFF_DOLL.name","th":"ตุ๊กตาพูริน"}
-{"id":"src/data/decoration/header.h#DECOR_MEOWTH_DOLL.name","th":"ตุ๊กตาเนียส"}
-{"id":"src/data/decoration/header.h#DECOR_CLEFAIRY_DOLL.name","th":"ตุ๊กตาปิปปี"}
-{"id":"src/data/decoration/header.h#DECOR_DITTO_DOLL.name","th":"ตุ๊กตาเมตามอน"}
-{"id":"src/data/decoration/header.h#DECOR_SMOOCHUM_DOLL.name","th":"ตุ๊กตามุชูล"}
-{"id":"src/data/decoration/header.h#DECOR_TREECKO_DOLL.name","th":"ตุ๊กตาคิโมริ"}
-{"id":"src/data/decoration/header.h#DECOR_TORCHIC_DOLL.name","th":"ตุ๊กตาอาชาโม"}
-{"id":"src/data/decoration/header.h#DECOR_MUDKIP_DOLL.name","th":"ตุ๊กตามิซึโกโร"}
-{"id":"src/data/decoration/header.h#DECOR_DUSKULL_DOLL.name","th":"ตุ๊กตาโยมาวารุ"}
-{"id":"src/data/decoration/header.h#DECOR_WYNAUT_DOLL.name","th":"ตุ๊กตาโซนาโนะ"}
-{"id":"src/data/decoration/header.h#DECOR_BALTOY_DOLL.name","th":"ตุ๊กตายาจิลอน"}
-{"id":"src/data/decoration/header.h#DECOR_KECLEON_DOLL.name","th":"ตุ๊กตาคาคุเรออน"}
-{"id":"src/data/decoration/header.h#DECOR_AZURILL_DOLL.name","th":"ตุ๊กตารูริริ"}
-{"id":"src/data/decoration/header.h#DECOR_SKITTY_DOLL.name","th":"ตุ๊กตาเอเนโกะ"}
-{"id":"src/data/decoration/header.h#DECOR_SWABLU_DOLL.name","th":"ตุ๊กตาชิรุตโตะ"}
-{"id":"src/data/decoration/header.h#DECOR_GULPIN_DOLL.name","th":"ตุ๊กตาโกคูลิน"}
-{"id":"src/data/decoration/header.h#DECOR_LOTAD_DOLL.name","th":"ตุ๊กตาฮาซึโบ"}
-{"id":"src/data/decoration/header.h#DECOR_SEEDOT_DOLL.name","th":"ตุ๊กตาทาเนโบ"}
-{"id":"src/data/decoration/header.h#DECOR_PIKA_CUSHION.name","th":"เบาะปิกา"}
-{"id":"src/data/decoration/header.h#DECOR_ROUND_CUSHION.name","th":"เบาะกลม"}
-{"id":"src/data/decoration/header.h#DECOR_KISS_CUSHION.name","th":"เบาะจุ๊บ"}
-{"id":"src/data/decoration/header.h#DECOR_ZIGZAG_CUSHION.name","th":"เบาะซิกแซก"}
-{"id":"src/data/decoration/header.h#DECOR_SPIN_CUSHION.name","th":"เบาะหมุน"}
-{"id":"src/data/decoration/header.h#DECOR_DIAMOND_CUSHION.name","th":"เบาะเพชร"}
-{"id":"src/data/decoration/header.h#DECOR_BALL_CUSHION.name","th":"เบาะบอล"}
-{"id":"src/data/decoration/header.h#DECOR_GRASS_CUSHION.name","th":"เบาะหญ้า"}
-{"id":"src/data/decoration/header.h#DECOR_FIRE_CUSHION.name","th":"เบาะไฟ"}
-{"id":"src/data/decoration/header.h#DECOR_WATER_CUSHION.name","th":"เบาะน้ำ"}
-{"id":"src/data/decoration/header.h#DECOR_SNORLAX_DOLL.name","th":"ตุ๊กตาคาบิกอน"}
-{"id":"src/data/decoration/header.h#DECOR_RHYDON_DOLL.name","th":"ตุ๊กตาไซดอน"}
-{"id":"src/data/decoration/header.h#DECOR_LAPRAS_DOLL.name","th":"ตุ๊กตาลาปลาซ"}
-{"id":"src/data/decoration/header.h#DECOR_VENUSAUR_DOLL.name","th":"ตุ๊กตาฟุชิกิบานะ"}
-{"id":"src/data/decoration/header.h#DECOR_CHARIZARD_DOLL.name","th":"ตุ๊กตาลิซาร์ดอน"}
-{"id":"src/data/decoration/header.h#DECOR_BLASTOISE_DOLL.name","th":"ตุ๊กตาคาเม็กซ์"}
-{"id":"src/data/decoration/header.h#DECOR_WAILMER_DOLL.name","th":"ตุ๊กตาโฮเอลโกะ"}
-{"id":"src/data/decoration/header.h#DECOR_REGIROCK_DOLL.name","th":"ตุ๊กตาเรจิร็อค"}
-{"id":"src/data/decoration/header.h#DECOR_REGICE_DOLL.name","th":"ตุ๊กตาเรจิไอซ์"}
-{"id":"src/data/decoration/header.h#DECOR_REGISTEEL_DOLL.name","th":"ตุ๊กตาเรจิสตีล"}
-{"id":"src/data/items.h#ITEM_MASTER_BALL.name","th":"มาสเตอร์บอล"}
-{"id":"src/data/items.h#ITEM_ULTRA_BALL.name","th":"ไฮเปอร์บอล"}
-{"id":"src/data/items.h#ITEM_GREAT_BALL.name","th":"ซูเปอร์บอล"}
-{"id":"src/data/items.h#ITEM_POKE_BALL.name","th":"มอนสเตอร์บอล"}
-{"id":"src/data/items.h#ITEM_SAFARI_BALL.name","th":"ซาฟารีบอล"}
-{"id":"src/data/items.h#ITEM_NET_BALL.name","th":"เน็ตบอล"}
-{"id":"src/data/items.h#ITEM_DIVE_BALL.name","th":"ไดฟ์บอล"}
-{"id":"src/data/items.h#ITEM_NEST_BALL.name","th":"เนสต์บอล"}
-{"id":"src/data/items.h#ITEM_REPEAT_BALL.name","th":"รีพีตบอล"}
-{"id":"src/data/items.h#ITEM_TIMER_BALL.name","th":"ไทเมอร์บอล"}
-{"id":"src/data/items.h#ITEM_LUXURY_BALL.name","th":"กอร์เจียสบอล"}
-{"id":"src/data/items.h#ITEM_PREMIER_BALL.name","th":"พรีเมียร์บอล"}
-{"id":"src/data/items.h#ITEM_POTION.name","th":"ยาทาแผล"}
-{"id":"src/data/items.h#ITEM_ANTIDOTE.name","th":"ยาแก้พิษ"}
-{"id":"src/data/items.h#ITEM_BURN_HEAL.name","th":"ยาแก้แผลไหม้"}
-{"id":"src/data/items.h#ITEM_ICE_HEAL.name","th":"ยาแก้น้ำแข็ง"}
-{"id":"src/data/items.h#ITEM_AWAKENING.name","th":"ยาแก้ง่วง"}
-{"id":"src/data/items.h#ITEM_PARALYZE_HEAL.name","th":"ยาแก้อัมพาต"}
-{"id":"src/data/items.h#ITEM_FULL_RESTORE.name","th":"ยาฟื้นฟู"}
-{"id":"src/data/items.h#ITEM_MAX_POTION.name","th":"ยาเต็มหลอด"}
-{"id":"src/data/items.h#ITEM_HYPER_POTION.name","th":"ยาทาแผลสุดยอด"}
-{"id":"src/data/items.h#ITEM_SUPER_POTION.name","th":"ยาทาแผลดี"}
-{"id":"src/data/items.h#ITEM_FULL_HEAL.name","th":"ยาแก้ทุกอย่าง"}
-{"id":"src/data/items.h#ITEM_REVIVE.name","th":"เศษพลังชีวิต"}
-{"id":"src/data/items.h#ITEM_MAX_REVIVE.name","th":"ก้อนพลังชีวิต"}
-{"id":"src/data/items.h#ITEM_FRESH_WATER.name","th":"น้ำดื่มอร่อย"}
-{"id":"src/data/items.h#ITEM_SODA_POP.name","th":"ไซโคโซดา"}
-{"id":"src/data/items.h#ITEM_LEMONADE.name","th":"มิกซ์โอเล"}
-{"id":"src/data/items.h#ITEM_MOOMOO_MILK.name","th":"นมโมโม"}
-{"id":"src/data/items.h#ITEM_ENERGY_POWDER.name","th":"ผงพลัง"}
-{"id":"src/data/items.h#ITEM_ENERGY_ROOT.name","th":"รากพลัง"}
-{"id":"src/data/items.h#ITEM_HEAL_POWDER.name","th":"ผงอเนกประสงค์"}
-{"id":"src/data/items.h#ITEM_REVIVAL_HERB.name","th":"หญ้าคืนชีพ"}
-{"id":"src/data/items.h#ITEM_ETHER.name","th":"PP เอด"}
-{"id":"src/data/items.h#ITEM_MAX_ETHER.name","th":"PP รีคัฟเวอร์"}
-{"id":"src/data/items.h#ITEM_ELIXIR.name","th":"PP เอดเดอร์"}
-{"id":"src/data/items.h#ITEM_MAX_ELIXIR.name","th":"PP แม็กซ์"}
-{"id":"src/data/items.h#ITEM_LAVA_COOKIE.name","th":"เซมเบ้ฟุเอ็น"}
-{"id":"src/data/items.h#ITEM_BLUE_FLUTE.name","th":"ขลุ่ยน้ำเงิน"}
-{"id":"src/data/items.h#ITEM_YELLOW_FLUTE.name","th":"ขลุ่ยเหลือง"}
-{"id":"src/data/items.h#ITEM_RED_FLUTE.name","th":"ขลุ่ยแดง"}
-{"id":"src/data/items.h#ITEM_BLACK_FLUTE.name","th":"ขลุ่ยดำ"}
-{"id":"src/data/items.h#ITEM_WHITE_FLUTE.name","th":"ขลุ่ยขาว"}
-{"id":"src/data/items.h#ITEM_BERRY_JUICE.name","th":"น้ำเบอร์รี่"}
-{"id":"src/data/items.h#ITEM_SACRED_ASH.name","th":"เถ้าวิเศษ"}
-{"id":"src/data/items.h#ITEM_SHOAL_SALT.name","th":"เกลือหาดตื้น"}
-{"id":"src/data/items.h#ITEM_SHOAL_SHELL.name","th":"หอยหาดตื้น"}
-{"id":"src/data/items.h#ITEM_RED_SHARD.name","th":"เศษสีแดง"}
-{"id":"src/data/items.h#ITEM_BLUE_SHARD.name","th":"เศษสีน้ำเงิน"}
-{"id":"src/data/items.h#ITEM_YELLOW_SHARD.name","th":"เศษสีเหลือง"}
-{"id":"src/data/items.h#ITEM_GREEN_SHARD.name","th":"เศษสีเขียว"}
-{"id":"src/data/items.h#ITEM_HP_UP.name","th":"แม็กซ์อัพ"}
-{"id":"src/data/items.h#ITEM_PROTEIN.name","th":"ทอรีน"}
-{"id":"src/data/items.h#ITEM_IRON.name","th":"โบรมเฮกซีน"}
-{"id":"src/data/items.h#ITEM_CARBOS.name","th":"อินโดเมทาซิน"}
-{"id":"src/data/items.h#ITEM_CALCIUM.name","th":"ลิโซเทียม"}
-{"id":"src/data/items.h#ITEM_RARE_CANDY.name","th":"ลูกอมวิเศษ"}
-{"id":"src/data/items.h#ITEM_PP_UP.name","th":"พอยต์อัพ"}
-{"id":"src/data/items.h#ITEM_ZINC.name","th":"ไคโตซาน"}
-{"id":"src/data/items.h#ITEM_PP_MAX.name","th":"พอยต์แม็กซ์"}
-{"id":"src/data/items.h#ITEM_GUARD_SPEC.name","th":"เอฟเฟกต์การ์ด"}
-{"id":"src/data/items.h#ITEM_DIRE_HIT.name","th":"คริติคัตเตอร์"}
-{"id":"src/data/items.h#ITEM_X_ATTACK.name","th":"พลัสพาวเวอร์"}
-{"id":"src/data/items.h#ITEM_X_DEFEND.name","th":"ดีเฟนเดอร์"}
-{"id":"src/data/items.h#ITEM_X_SPEED.name","th":"สปีดเดอร์"}
-{"id":"src/data/items.h#ITEM_X_ACCURACY.name","th":"โยคุอาทารุ"}
-{"id":"src/data/items.h#ITEM_X_SPECIAL.name","th":"สเปเชียลอัพ"}
-{"id":"src/data/items.h#ITEM_POKE_DOLL.name","th":"ตุ๊กตาปิปปี"}
-{"id":"src/data/items.h#ITEM_FLUFFY_TAIL.name","th":"หางเอเนโกะ"}
-{"id":"src/data/items.h#ITEM_SUPER_REPEL.name","th":"สเปรย์เงิน"}
-{"id":"src/data/items.h#ITEM_MAX_REPEL.name","th":"สเปรย์ทอง"}
-{"id":"src/data/items.h#ITEM_ESCAPE_ROPE.name","th":"เชือกหนีถ้ำ"}
-{"id":"src/data/items.h#ITEM_REPEL.name","th":"สเปรย์ไล่แมลง"}
-{"id":"src/data/items.h#ITEM_SUN_STONE.name","th":"หินพระอาทิตย์"}
-{"id":"src/data/items.h#ITEM_MOON_STONE.name","th":"หินพระจันทร์"}
-{"id":"src/data/items.h#ITEM_FIRE_STONE.name","th":"หินไฟ"}
-{"id":"src/data/items.h#ITEM_THUNDER_STONE.name","th":"หินสายฟ้า"}
-{"id":"src/data/items.h#ITEM_WATER_STONE.name","th":"หินน้ำ"}
-{"id":"src/data/items.h#ITEM_LEAF_STONE.name","th":"หินใบไม้"}
-{"id":"src/data/items.h#ITEM_TINY_MUSHROOM.name","th":"เห็ดเล็ก"}
-{"id":"src/data/items.h#ITEM_BIG_MUSHROOM.name","th":"เห็ดใหญ่"}
-{"id":"src/data/items.h#ITEM_PEARL.name","th":"ไข่มุก"}
-{"id":"src/data/items.h#ITEM_BIG_PEARL.name","th":"ไข่มุกใหญ่"}
-{"id":"src/data/items.h#ITEM_STARDUST.name","th":"ทรายดาว"}
-{"id":"src/data/items.h#ITEM_STAR_PIECE.name","th":"เศษดาว"}
-{"id":"src/data/items.h#ITEM_NUGGET.name","th":"ลูกทองคำ"}
-{"id":"src/data/items.h#ITEM_HEART_SCALE.name","th":"เกล็ดหัวใจ"}
-{"id":"src/data/items.h#ITEM_ORANGE_MAIL.name","th":"จดหมายส้ม"}
-{"id":"src/data/items.h#ITEM_HARBOR_MAIL.name","th":"จดหมายท่าเรือ"}
-{"id":"src/data/items.h#ITEM_GLITTER_MAIL.name","th":"จดหมายระยิบ"}
-{"id":"src/data/items.h#ITEM_MECH_MAIL.name","th":"จดหมายจักรกล"}
-{"id":"src/data/items.h#ITEM_WOOD_MAIL.name","th":"จดหมายไม้"}
-{"id":"src/data/items.h#ITEM_WAVE_MAIL.name","th":"จดหมายคลื่น"}
-{"id":"src/data/items.h#ITEM_BEAD_MAIL.name","th":"จดหมายลูกปัด"}
-{"id":"src/data/items.h#ITEM_SHADOW_MAIL.name","th":"จดหมายเงา"}
-{"id":"src/data/items.h#ITEM_TROPIC_MAIL.name","th":"จดหมายเขตร้อน"}
-{"id":"src/data/items.h#ITEM_DREAM_MAIL.name","th":"จดหมายฝัน"}
-{"id":"src/data/items.h#ITEM_FAB_MAIL.name","th":"จดหมายหรูหรา"}
-{"id":"src/data/items.h#ITEM_RETRO_MAIL.name","th":"จดหมายย้อนยุค"}
-{"id":"src/data/items.h#ITEM_CHERI_BERRY.name","th":"ผลคุราโบ"}
-{"id":"src/data/items.h#ITEM_CHESTO_BERRY.name","th":"ผลคาโกะ"}
-{"id":"src/data/items.h#ITEM_PECHA_BERRY.name","th":"ผลโมมน"}
-{"id":"src/data/items.h#ITEM_RAWST_BERRY.name","th":"ผลชีโกะ"}
-{"id":"src/data/items.h#ITEM_ASPEAR_BERRY.name","th":"ผลนานาชิ"}
-{"id":"src/data/items.h#ITEM_LEPPA_BERRY.name","th":"ผลฮิเมริ"}
-{"id":"src/data/items.h#ITEM_ORAN_BERRY.name","th":"ผลโอเรน"}
-{"id":"src/data/items.h#ITEM_PERSIM_BERRY.name","th":"ผลคี"}
-{"id":"src/data/items.h#ITEM_LUM_BERRY.name","th":"ผลรามุ"}
-{"id":"src/data/items.h#ITEM_SITRUS_BERRY.name","th":"ผลโอบน"}
-{"id":"src/data/items.h#ITEM_FIGY_BERRY.name","th":"ผลฟิระ"}
-{"id":"src/data/items.h#ITEM_WIKI_BERRY.name","th":"ผลอุอิ"}
-{"id":"src/data/items.h#ITEM_MAGO_BERRY.name","th":"ผลมาโกะ"}
-{"id":"src/data/items.h#ITEM_AGUAV_BERRY.name","th":"ผลบันจิ"}
-{"id":"src/data/items.h#ITEM_IAPAPA_BERRY.name","th":"ผลอิอะ"}
-{"id":"src/data/items.h#ITEM_RAZZ_BERRY.name","th":"ผลซุริ"}
-{"id":"src/data/items.h#ITEM_BLUK_BERRY.name","th":"ผลบูรี"}
-{"id":"src/data/items.h#ITEM_NANAB_BERRY.name","th":"ผลนานา"}
-{"id":"src/data/items.h#ITEM_WEPEAR_BERRY.name","th":"ผลเซชินะ"}
-{"id":"src/data/items.h#ITEM_PINAP_BERRY.name","th":"ผลไพรุ"}
-{"id":"src/data/items.h#ITEM_POMEG_BERRY.name","th":"ผลซาโรคุ"}
-{"id":"src/data/items.h#ITEM_KELPSY_BERRY.name","th":"ผลเนโคบุ"}
-{"id":"src/data/items.h#ITEM_QUALOT_BERRY.name","th":"ผลทาโปรุ"}
-{"id":"src/data/items.h#ITEM_HONDEW_BERRY.name","th":"ผลโรเมะ"}
-{"id":"src/data/items.h#ITEM_GREPA_BERRY.name","th":"ผลอุบุ"}
-{"id":"src/data/items.h#ITEM_TAMATO_BERRY.name","th":"ผลมาโทมะ"}
-{"id":"src/data/items.h#ITEM_CORNN_BERRY.name","th":"ผลโมโคชิ"}
-{"id":"src/data/items.h#ITEM_MAGOST_BERRY.name","th":"ผลโกสุ"}
-{"id":"src/data/items.h#ITEM_RABUTA_BERRY.name","th":"ผลราบุตะ"}
-{"id":"src/data/items.h#ITEM_NOMEL_BERRY.name","th":"ผลโนเมรุ"}
-{"id":"src/data/items.h#ITEM_SPELON_BERRY.name","th":"ผลโนวากิ"}
-{"id":"src/data/items.h#ITEM_PAMTRE_BERRY.name","th":"ผลชียะ"}
-{"id":"src/data/items.h#ITEM_WATMEL_BERRY.name","th":"ผลไคสุ"}
-{"id":"src/data/items.h#ITEM_DURIN_BERRY.name","th":"ผลโดริ"}
-{"id":"src/data/items.h#ITEM_BELUE_BERRY.name","th":"ผลเบริบุ"}
-{"id":"src/data/items.h#ITEM_LIECHI_BERRY.name","th":"ผลชิอิระ"}
-{"id":"src/data/items.h#ITEM_GANLON_BERRY.name","th":"ผลริวกะ"}
-{"id":"src/data/items.h#ITEM_SALAC_BERRY.name","th":"ผลคามุระ"}
-{"id":"src/data/items.h#ITEM_PETAYA_BERRY.name","th":"ผลยาทาปิ"}
-{"id":"src/data/items.h#ITEM_APICOT_BERRY.name","th":"ผลซุอะ"}
-{"id":"src/data/items.h#ITEM_LANSAT_BERRY.name","th":"ผลซัน"}
-{"id":"src/data/items.h#ITEM_STARF_BERRY.name","th":"ผลสตาร์"}
-{"id":"src/data/items.h#ITEM_ENIGMA_BERRY.name","th":"ผลนาโซะ"}
-{"id":"src/data/items.h#ITEM_BRIGHT_POWDER.name","th":"ผงเรืองแสง"}
-{"id":"src/data/items.h#ITEM_WHITE_HERB.name","th":"สมุนไพรขาว"}
-{"id":"src/data/items.h#ITEM_MACHO_BRACE.name","th":"เฝือกฝึกพลัง"}
-{"id":"src/data/items.h#ITEM_EXP_SHARE.name","th":"อุปกรณ์เรียน"}
-{"id":"src/data/items.h#ITEM_QUICK_CLAW.name","th":"เล็บชิงจังหวะ"}
-{"id":"src/data/items.h#ITEM_SOOTHE_BELL.name","th":"กระดิ่งสงบใจ"}
-{"id":"src/data/items.h#ITEM_MENTAL_HERB.name","th":"สมุนไพรจิตใจ"}
-{"id":"src/data/items.h#ITEM_CHOICE_BAND.name","th":"ผ้าคาดยึดมั่น"}
-{"id":"src/data/items.h#ITEM_KINGS_ROCK.name","th":"ตราแห่งราชา"}
-{"id":"src/data/items.h#ITEM_SILVER_POWDER.name","th":"ผงเงิน"}
-{"id":"src/data/items.h#ITEM_AMULET_COIN.name","th":"เหรียญนำโชค"}
-{"id":"src/data/items.h#ITEM_CLEANSE_TAG.name","th":"ยันต์ชำระ"}
-{"id":"src/data/items.h#ITEM_SOUL_DEW.name","th":"หยดน้ำหัวใจ"}
-{"id":"src/data/items.h#ITEM_DEEP_SEA_TOOTH.name","th":"เขี้ยวทะเลลึก"}
-{"id":"src/data/items.h#ITEM_DEEP_SEA_SCALE.name","th":"เกล็ดทะเลลึก"}
-{"id":"src/data/items.h#ITEM_SMOKE_BALL.name","th":"ลูกควัน"}
-{"id":"src/data/items.h#ITEM_EVERSTONE.name","th":"หินไม่เปลี่ยน"}
-{"id":"src/data/items.h#ITEM_FOCUS_BAND.name","th":"ผ้าคาดฮึดสู้"}
-{"id":"src/data/items.h#ITEM_LUCKY_EGG.name","th":"ไข่นำโชค"}
-{"id":"src/data/items.h#ITEM_SCOPE_LENS.name","th":"เลนส์โฟกัส"}
-{"id":"src/data/items.h#ITEM_METAL_COAT.name","th":"เมทัลโค้ท"}
-{"id":"src/data/items.h#ITEM_LEFTOVERS.name","th":"อาหารเหลือ"}
-{"id":"src/data/items.h#ITEM_DRAGON_SCALE.name","th":"เกล็ดมังกร"}
-{"id":"src/data/items.h#ITEM_LIGHT_BALL.name","th":"ลูกไฟฟ้า"}
-{"id":"src/data/items.h#ITEM_SOFT_SAND.name","th":"ทรายนุ่ม"}
-{"id":"src/data/items.h#ITEM_HARD_STONE.name","th":"หินแข็ง"}
-{"id":"src/data/items.h#ITEM_MIRACLE_SEED.name","th":"เมล็ดวิเศษ"}
-{"id":"src/data/items.h#ITEM_BLACK_GLASSES.name","th":"แว่นดำ"}
-{"id":"src/data/items.h#ITEM_BLACK_BELT.name","th":"สายดำ"}
-{"id":"src/data/items.h#ITEM_MAGNET.name","th":"แม่เหล็ก"}
-{"id":"src/data/items.h#ITEM_MYSTIC_WATER.name","th":"หยดน้ำลึกลับ"}
-{"id":"src/data/items.h#ITEM_SHARP_BEAK.name","th":"จะงอยปากคม"}
-{"id":"src/data/items.h#ITEM_POISON_BARB.name","th":"เข็มพิษ"}
-{"id":"src/data/items.h#ITEM_NEVER_MELT_ICE.name","th":"น้ำแข็งถาวร"}
-{"id":"src/data/items.h#ITEM_SPELL_TAG.name","th":"ยันต์สาปแช่ง"}
-{"id":"src/data/items.h#ITEM_TWISTED_SPOON.name","th":"ช้อนงอ"}
-{"id":"src/data/items.h#ITEM_CHARCOAL.name","th":"ถ่านไม้"}
-{"id":"src/data/items.h#ITEM_DRAGON_FANG.name","th":"เขี้ยวมังกร"}
-{"id":"src/data/items.h#ITEM_SILK_SCARF.name","th":"ผ้าพันคอไหม"}
-{"id":"src/data/items.h#ITEM_UP_GRADE.name","th":"อัปเกรด"}
-{"id":"src/data/items.h#ITEM_SHELL_BELL.name","th":"กระดิ่งหอย"}
-{"id":"src/data/items.h#ITEM_SEA_INCENSE.name","th":"กำยานทะเล"}
-{"id":"src/data/items.h#ITEM_LAX_INCENSE.name","th":"กำยานสบายใจ"}
-{"id":"src/data/items.h#ITEM_LUCKY_PUNCH.name","th":"ลักกี้พันช์"}
-{"id":"src/data/items.h#ITEM_METAL_POWDER.name","th":"เมทัลพาวเดอร์"}
-{"id":"src/data/items.h#ITEM_THICK_CLUB.name","th":"กระดูกหนา"}
-{"id":"src/data/items.h#ITEM_STICK.name","th":"ต้นหอม"}
-{"id":"src/data/items.h#ITEM_RED_SCARF.name","th":"บันดานาแดง"}
-{"id":"src/data/items.h#ITEM_BLUE_SCARF.name","th":"บันดานาฟ้า"}
-{"id":"src/data/items.h#ITEM_PINK_SCARF.name","th":"บันดานาชมพู"}
-{"id":"src/data/items.h#ITEM_GREEN_SCARF.name","th":"บันดานาเขียว"}
-{"id":"src/data/items.h#ITEM_YELLOW_SCARF.name","th":"บันดานาเหลือง"}
-{"id":"src/data/items.h#ITEM_MACH_BIKE.name","th":"จักรยานมัค"}
-{"id":"src/data/items.h#ITEM_COIN_CASE.name","th":"กล่องเหรียญ"}
-{"id":"src/data/items.h#ITEM_ITEMFINDER.name","th":"เครื่องหาของ"}
-{"id":"src/data/items.h#ITEM_OLD_ROD.name","th":"คันเบ็ดเก่า"}
-{"id":"src/data/items.h#ITEM_GOOD_ROD.name","th":"คันเบ็ดดี"}
-{"id":"src/data/items.h#ITEM_SUPER_ROD.name","th":"คันเบ็ดสุดยอด"}
-{"id":"src/data/items.h#ITEM_SS_TICKET.name","th":"ตั๋วเรือ"}
-{"id":"src/data/items.h#ITEM_CONTEST_PASS.name","th":"บัตรคอนเทสต์"}
-{"id":"src/data/items.h#ITEM_WAILMER_PAIL.name","th":"บัวรดน้ำ"}
-{"id":"src/data/items.h#ITEM_DEVON_GOODS.name","th":"พัสดุเดวอน"}
-{"id":"src/data/items.h#ITEM_SOOT_SACK.name","th":"ถุงเก็บเถ้า"}
-{"id":"src/data/items.h#ITEM_BASEMENT_KEY.name","th":"กุญแจใต้ดิน"}
-{"id":"src/data/items.h#ITEM_ACRO_BIKE.name","th":"จักรยานวิบาก"}
-{"id":"src/data/items.h#ITEM_POKEBLOCK_CASE.name","th":"กล่อง{POKEBLOCK}"}
-{"id":"src/data/items.h#ITEM_LETTER.name","th":"จดหมาย"}
-{"id":"src/data/items.h#ITEM_EON_TICKET.name","th":"ตั๋วอนันต์"}
-{"id":"src/data/items.h#ITEM_RED_ORB.name","th":"ลูกแก้วแดง"}
-{"id":"src/data/items.h#ITEM_BLUE_ORB.name","th":"ลูกแก้วคราม"}
-{"id":"src/data/items.h#ITEM_SCANNER.name","th":"เครื่องสแกน"}
-{"id":"src/data/items.h#ITEM_GO_GOGGLES.name","th":"แว่นโกโก"}
-{"id":"src/data/items.h#ITEM_METEORITE.name","th":"อุกกาบาต"}
-{"id":"src/data/items.h#ITEM_ROOM_1_KEY.name","th":"กุญแจห้อง 1"}
-{"id":"src/data/items.h#ITEM_ROOM_2_KEY.name","th":"กุญแจห้อง 2"}
-{"id":"src/data/items.h#ITEM_ROOM_4_KEY.name","th":"กุญแจห้อง 4"}
-{"id":"src/data/items.h#ITEM_ROOM_6_KEY.name","th":"กุญแจห้อง 6"}
-{"id":"src/data/items.h#ITEM_STORAGE_KEY.name","th":"กุญแจโกดัง"}
-{"id":"src/data/items.h#ITEM_ROOT_FOSSIL.name","th":"ฟอสซิลราก"}
-{"id":"src/data/items.h#ITEM_CLAW_FOSSIL.name","th":"ฟอสซิลกรงเล็บ"}
-{"id":"src/data/items.h#ITEM_DEVON_SCOPE.name","th":"สโคปเดวอน"}
-{"id":"src/data/items.h#ITEM_TM_FOCUS_PUNCH.name","th":"TM01"}
-{"id":"src/data/items.h#ITEM_TM_DRAGON_CLAW.name","th":"TM02"}
-{"id":"src/data/items.h#ITEM_TM_WATER_PULSE.name","th":"TM03"}
-{"id":"src/data/items.h#ITEM_TM_CALM_MIND.name","th":"TM04"}
-{"id":"src/data/items.h#ITEM_TM_ROAR.name","th":"TM05"}
-{"id":"src/data/items.h#ITEM_TM_TOXIC.name","th":"TM06"}
-{"id":"src/data/items.h#ITEM_TM_HAIL.name","th":"TM07"}
-{"id":"src/data/items.h#ITEM_TM_BULK_UP.name","th":"TM08"}
-{"id":"src/data/items.h#ITEM_TM_BULLET_SEED.name","th":"TM09"}
-{"id":"src/data/items.h#ITEM_TM_HIDDEN_POWER.name","th":"TM10"}
-{"id":"src/data/items.h#ITEM_TM_SUNNY_DAY.name","th":"TM11"}
-{"id":"src/data/items.h#ITEM_TM_TAUNT.name","th":"TM12"}
-{"id":"src/data/items.h#ITEM_TM_ICE_BEAM.name","th":"TM13"}
-{"id":"src/data/items.h#ITEM_TM_BLIZZARD.name","th":"TM14"}
-{"id":"src/data/items.h#ITEM_TM_HYPER_BEAM.name","th":"TM15"}
-{"id":"src/data/items.h#ITEM_TM_LIGHT_SCREEN.name","th":"TM16"}
-{"id":"src/data/items.h#ITEM_TM_PROTECT.name","th":"TM17"}
-{"id":"src/data/items.h#ITEM_TM_RAIN_DANCE.name","th":"TM18"}
-{"id":"src/data/items.h#ITEM_TM_GIGA_DRAIN.name","th":"TM19"}
-{"id":"src/data/items.h#ITEM_TM_SAFEGUARD.name","th":"TM20"}
-{"id":"src/data/items.h#ITEM_TM_FRUSTRATION.name","th":"TM21"}
-{"id":"src/data/items.h#ITEM_TM_SOLAR_BEAM.name","th":"TM22"}
-{"id":"src/data/items.h#ITEM_TM_IRON_TAIL.name","th":"TM23"}
-{"id":"src/data/items.h#ITEM_TM_THUNDERBOLT.name","th":"TM24"}
-{"id":"src/data/items.h#ITEM_TM_THUNDER.name","th":"TM25"}
-{"id":"src/data/items.h#ITEM_TM_EARTHQUAKE.name","th":"TM26"}
-{"id":"src/data/items.h#ITEM_TM_RETURN.name","th":"TM27"}
-{"id":"src/data/items.h#ITEM_TM_DIG.name","th":"TM28"}
-{"id":"src/data/items.h#ITEM_TM_PSYCHIC.name","th":"TM29"}
-{"id":"src/data/items.h#ITEM_TM_SHADOW_BALL.name","th":"TM30"}
-{"id":"src/data/items.h#ITEM_TM_BRICK_BREAK.name","th":"TM31"}
-{"id":"src/data/items.h#ITEM_TM_DOUBLE_TEAM.name","th":"TM32"}
-{"id":"src/data/items.h#ITEM_TM_REFLECT.name","th":"TM33"}
-{"id":"src/data/items.h#ITEM_TM_SHOCK_WAVE.name","th":"TM34"}
-{"id":"src/data/items.h#ITEM_TM_FLAMETHROWER.name","th":"TM35"}
-{"id":"src/data/items.h#ITEM_TM_SLUDGE_BOMB.name","th":"TM36"}
-{"id":"src/data/items.h#ITEM_TM_SANDSTORM.name","th":"TM37"}
-{"id":"src/data/items.h#ITEM_TM_FIRE_BLAST.name","th":"TM38"}
-{"id":"src/data/items.h#ITEM_TM_ROCK_TOMB.name","th":"TM39"}
-{"id":"src/data/items.h#ITEM_TM_AERIAL_ACE.name","th":"TM40"}
-{"id":"src/data/items.h#ITEM_TM_TORMENT.name","th":"TM41"}
-{"id":"src/data/items.h#ITEM_TM_FACADE.name","th":"TM42"}
-{"id":"src/data/items.h#ITEM_TM_SECRET_POWER.name","th":"TM43"}
-{"id":"src/data/items.h#ITEM_TM_REST.name","th":"TM44"}
-{"id":"src/data/items.h#ITEM_TM_ATTRACT.name","th":"TM45"}
-{"id":"src/data/items.h#ITEM_TM_THIEF.name","th":"TM46"}
-{"id":"src/data/items.h#ITEM_TM_STEEL_WING.name","th":"TM47"}
-{"id":"src/data/items.h#ITEM_TM_SKILL_SWAP.name","th":"TM48"}
-{"id":"src/data/items.h#ITEM_TM_SNATCH.name","th":"TM49"}
-{"id":"src/data/items.h#ITEM_TM_OVERHEAT.name","th":"TM50"}
-{"id":"src/data/items.h#ITEM_HM_CUT.name","th":"HM01"}
-{"id":"src/data/items.h#ITEM_HM_FLY.name","th":"HM02"}
-{"id":"src/data/items.h#ITEM_HM_SURF.name","th":"HM03"}
-{"id":"src/data/items.h#ITEM_HM_STRENGTH.name","th":"HM04"}
-{"id":"src/data/items.h#ITEM_HM_FLASH.name","th":"HM05"}
-{"id":"src/data/items.h#ITEM_HM_ROCK_SMASH.name","th":"HM06"}
-{"id":"src/data/items.h#ITEM_HM_WATERFALL.name","th":"HM07"}
-{"id":"src/data/items.h#ITEM_HM_DIVE.name","th":"HM08"}
-{"id":"src/data/items.h#ITEM_OAKS_PARCEL.name","th":"พัสดุโอคิโด"}
-{"id":"src/data/items.h#ITEM_POKE_FLUTE.name","th":"ขลุ่ยโปเกมอน"}
-{"id":"src/data/items.h#ITEM_SECRET_KEY.name","th":"กุญแจลับ"}
-{"id":"src/data/items.h#ITEM_BIKE_VOUCHER.name","th":"คูปองจักรยาน"}
-{"id":"src/data/items.h#ITEM_GOLD_TEETH.name","th":"ฟันทอง"}
-{"id":"src/data/items.h#ITEM_OLD_AMBER.name","th":"อำพันลับ"}
-{"id":"src/data/items.h#ITEM_CARD_KEY.name","th":"คีย์การ์ด"}
-{"id":"src/data/items.h#ITEM_LIFT_KEY.name","th":"กุญแจลิฟต์"}
-{"id":"src/data/items.h#ITEM_HELIX_FOSSIL.name","th":"ฟอสซิลหอย"}
-{"id":"src/data/items.h#ITEM_DOME_FOSSIL.name","th":"ฟอสซิลกระดอง"}
-{"id":"src/data/items.h#ITEM_SILPH_SCOPE.name","th":"ซิลฟ์สโคป"}
-{"id":"src/data/items.h#ITEM_BICYCLE.name","th":"จักรยาน"}
-{"id":"src/data/items.h#ITEM_TOWN_MAP.name","th":"แผนที่เมือง"}
-{"id":"src/data/items.h#ITEM_VS_SEEKER.name","th":"เรดาร์ท้าสู้"}
-{"id":"src/data/items.h#ITEM_FAME_CHECKER.name","th":"สมุดคนดัง"}
-{"id":"src/data/items.h#ITEM_TM_CASE.name","th":"กล่อง TM"}
-{"id":"src/data/items.h#ITEM_BERRY_POUCH.name","th":"ถุงเบอร์รี่"}
-{"id":"src/data/items.h#ITEM_TEACHY_TV.name","th":"ทีวีสอนเทคนิค"}
-{"id":"src/data/items.h#ITEM_TRI_PASS.name","th":"ไตรพาส"}
-{"id":"src/data/items.h#ITEM_RAINBOW_PASS.name","th":"เรนโบว์พาส"}
-{"id":"src/data/items.h#ITEM_TEA.name","th":"น้ำชา"}
-{"id":"src/data/items.h#ITEM_MYSTIC_TICKET.name","th":"ตั๋วลึกลับ"}
-{"id":"src/data/items.h#ITEM_AURORA_TICKET.name","th":"ตั๋วออโรรา"}
-{"id":"src/data/items.h#ITEM_POWDER_JAR.name","th":"ขวดใส่ผง"}
-{"id":"src/data/items.h#ITEM_RUBY.name","th":"ทับทิม"}
-{"id":"src/data/items.h#ITEM_SAPPHIRE.name","th":"ไพลิน"}
-{"id":"src/data/items.h#ITEM_MAGMA_EMBLEM.name","th":"ตราแม็กม่า"}
-{"id":"src/data/items.h#ITEM_OLD_SEA_MAP.name","th":"แผนที่เก่า"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_LITTLEROOT_TOWN","th":"เมืองมิชิโระ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_OLDALE_TOWN","th":"เมืองโคโทกิ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_DEWFORD_TOWN","th":"เมืองมุโระ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_LAVARIDGE_TOWN","th":"เมืองฟุเอ็น"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FALLARBOR_TOWN","th":"เมืองฮาจิตสึเกะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_VERDANTURF_TOWN","th":"เมืองชิดาเกะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_PACIFIDLOG_TOWN","th":"เมืองคินางิ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_PETALBURG_CITY","th":"เมืองโทกะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SLATEPORT_CITY","th":"เมืองไคนะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MAUVILLE_CITY","th":"เมืองคินเซ็ตสึ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_RUSTBORO_CITY","th":"เมืองคานาซุมิ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FORTREE_CITY","th":"เมืองฮิวามากิ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_LILYCOVE_CITY","th":"เมืองมินาโมะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MOSSDEEP_CITY","th":"เมืองโทคุซาเนะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SOOTOPOLIS_CITY","th":"เมืองรุเนะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_EVER_GRANDE_CITY","th":"เมืองไซยู"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_101","th":"เส้นทาง 101"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_102","th":"เส้นทาง 102"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_103","th":"เส้นทาง 103"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_104","th":"เส้นทาง 104"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_105","th":"เส้นทาง 105"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_106","th":"เส้นทาง 106"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_107","th":"เส้นทาง 107"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_108","th":"เส้นทาง 108"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_109","th":"เส้นทาง 109"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_110","th":"เส้นทาง 110"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_111","th":"เส้นทาง 111"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_112","th":"เส้นทาง 112"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_113","th":"เส้นทาง 113"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_114","th":"เส้นทาง 114"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_115","th":"เส้นทาง 115"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_116","th":"เส้นทาง 116"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_117","th":"เส้นทาง 117"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_118","th":"เส้นทาง 118"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_119","th":"เส้นทาง 119"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_120","th":"เส้นทาง 120"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_121","th":"เส้นทาง 121"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_122","th":"เส้นทาง 122"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_123","th":"เส้นทาง 123"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_124","th":"เส้นทาง 124"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_125","th":"เส้นทาง 125"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_126","th":"เส้นทาง 126"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_127","th":"เส้นทาง 127"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_128","th":"เส้นทาง 128"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_129","th":"เส้นทาง 129"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_130","th":"เส้นทาง 130"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_131","th":"เส้นทาง 131"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_132","th":"เส้นทาง 132"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_133","th":"เส้นทาง 133"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_134","th":"เส้นทาง 134"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_124","th":"ใต้ทะเล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_126","th":"ใต้ทะเล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_127","th":"ใต้ทะเล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_128","th":"ใต้ทะเล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_SOOTOPOLIS","th":"ใต้ทะเล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_GRANITE_CAVE","th":"ถ้ำหิน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MT_CHIMNEY","th":"ภูเขาปล่องไฟ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SAFARI_ZONE","th":"ซาฟารีโซน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_BATTLE_FRONTIER","th":"แบทเทิลฟรอนเทียร์"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_PETALBURG_WOODS","th":"ป่าโทกะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_RUSTURF_TUNNEL","th":"อุโมงค์คานาชิดะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ABANDONED_SHIP","th":"เรือร้าง"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_NEW_MAUVILLE","th":"นิวคินเซ็ตสึ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_METEOR_FALLS","th":"น้ำตกดาวตก"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_METEOR_FALLS2","th":"น้ำตกดาวตก"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MT_PYRE","th":"ภูเขาส่งวิญญาณ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_AQUA_HIDEOUT_OLD","th":"ฐานแก๊ง{AQUA}"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SHOAL_CAVE","th":"ถ้ำหาดตื้น"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEAFLOOR_CAVERN","th":"ถ้ำใต้ทะเล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_SEAFLOOR_CAVERN","th":"ใต้ทะเล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_VICTORY_ROAD","th":"ถนนแชมเปี้ยน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MIRAGE_ISLAND","th":"เกาะมายา"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CAVE_OF_ORIGIN","th":"ถ้ำแห่งการตื่น"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SOUTHERN_ISLAND","th":"เกาะทางใต้"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FIERY_PATH","th":"ทางลัดเปลวไฟ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FIERY_PATH2","th":"ทางลัดเปลวไฟ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_JAGGED_PASS","th":"ทางภูเขาขรุขระ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_JAGGED_PASS2","th":"ทางภูเขาขรุขระ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEALED_CHAMBER","th":"ห้องหินปิดผนึก"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_SEALED_CHAMBER","th":"ใต้ทะเล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SCORCHED_SLAB","th":"ถ้ำหินแห้งแล้ง"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ISLAND_CAVE","th":"ถ้ำเกาะเล็ก"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_DESERT_RUINS","th":"ซากโบราณทะเลทราย"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ANCIENT_TOMB","th":"สุสานโบราณ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_INSIDE_OF_TRUCK","th":"ในรถบรรทุก"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SKY_PILLAR","th":"เสาแห่งท้องฟ้า"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SECRET_BASE","th":"ฐานลับ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_PALLET_TOWN","th":"เมืองมาซาระ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_VIRIDIAN_CITY","th":"เมืองโทคิวะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_PEWTER_CITY","th":"เมืองนิบิ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CERULEAN_CITY","th":"เมืองฮานาดะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_LAVENDER_TOWN","th":"เมืองชิออน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_VERMILION_CITY","th":"เมืองคุจิบะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CELADON_CITY","th":"เมืองทามามุชิ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FUCHSIA_CITY","th":"เมืองเซคิจิคุ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CINNABAR_ISLAND","th":"เกาะกุเร็น"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_INDIGO_PLATEAU","th":"ที่ราบสูงเซคิเอ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SAFFRON_CITY","th":"เมืองยามาบุกิ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_4_POKECENTER","th":"เส้นทาง 4"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_10_POKECENTER","th":"เส้นทาง 10"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_1","th":"เส้นทาง 1"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_2","th":"เส้นทาง 2"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_3","th":"เส้นทาง 3"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_4","th":"เส้นทาง 4"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_5","th":"เส้นทาง 5"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_6","th":"เส้นทาง 6"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_7","th":"เส้นทาง 7"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_8","th":"เส้นทาง 8"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_9","th":"เส้นทาง 9"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_10","th":"เส้นทาง 10"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_11","th":"เส้นทาง 11"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_12","th":"เส้นทาง 12"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_13","th":"เส้นทาง 13"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_14","th":"เส้นทาง 14"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_15","th":"เส้นทาง 15"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_16","th":"เส้นทาง 16"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_17","th":"เส้นทาง 17"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_18","th":"เส้นทาง 18"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_19","th":"เส้นทาง 19"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_20","th":"เส้นทาง 20"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_21","th":"เส้นทาง 21"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_22","th":"เส้นทาง 22"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_23","th":"เส้นทาง 23"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_24","th":"เส้นทาง 24"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_25","th":"เส้นทาง 25"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_VIRIDIAN_FOREST","th":"ป่าโทคิวะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MT_MOON","th":"ภูเขาชมจันทร์"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_S_S_ANNE","th":"เรือแซงต์แอนน์"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERGROUND_PATH","th":"ทางใต้ดิน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERGROUND_PATH_2","th":"ทางใต้ดิน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_DIGLETTS_CAVE","th":"ถ้ำดิกดา"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_KANTO_VICTORY_ROAD","th":"ถนนแชมเปี้ยน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROCKET_HIDEOUT","th":"ฐานแก๊งร็อกเก็ต"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SILPH_CO","th":"บริษัทซิลฟ์"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_POKEMON_MANSION","th":"คฤหาสน์โปเกมอน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_KANTO_SAFARI_ZONE","th":"ซาฟารีโซน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_POKEMON_LEAGUE","th":"โปเกมอนลีก"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROCK_TUNNEL","th":"อุโมงค์อิวายามะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEAFOAM_ISLANDS","th":"เกาะแฝด"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_POKEMON_TOWER","th":"หอคอยโปเกมอน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CERULEAN_CAVE","th":"ถ้ำฮานาดะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_POWER_PLANT","th":"โรงไฟฟ้าร้าง"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ONE_ISLAND","th":"เกาะที่ 1"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TWO_ISLAND","th":"เกาะที่ 2"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_THREE_ISLAND","th":"เกาะที่ 3"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FOUR_ISLAND","th":"เกาะที่ 4"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FIVE_ISLAND","th":"เกาะที่ 5"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVEN_ISLAND","th":"เกาะที่ 7"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SIX_ISLAND","th":"เกาะที่ 6"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_KINDLE_ROAD","th":"ถนนร้อนผ่าว"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TREASURE_BEACH","th":"หาดสมบัติ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CAPE_BRINK","th":"แหลมสุดขอบ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_BOND_BRIDGE","th":"สะพานสายสัมพันธ์"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_THREE_ISLE_PORT","th":"ท่าเรือเกาะที่ 3"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_6","th":"นานาชิมะ 6"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_7","th":"นานาชิมะ 7"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_8","th":"นานาชิมะ 8"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_9","th":"นานาชิมะ 9"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_RESORT_GORGEOUS","th":"รีสอร์ตกอร์เจียส"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_WATER_LABYRINTH","th":"เขาวงกตน้ำ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FIVE_ISLE_MEADOW","th":"ทุ่งหญ้าเกาะที่ 5"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MEMORIAL_PILLAR","th":"เสาความทรงจำ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_OUTCAST_ISLAND","th":"เกาะห่างไกล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_GREEN_PATH","th":"ทางเดินสีเขียว"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_WATER_PATH","th":"ทางเดินริมน้ำ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_RUIN_VALLEY","th":"หุบเขาซากโบราณ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TRAINER_TOWER","th":"หอคอยเทรนเนอร์"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_CANYON_ENTRANCE","th":"ทางเข้าหุบเขา"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVAULT_CANYON","th":"หุบเขาชิปโป"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TANOBY_RUINS","th":"ซากโบราณอาสึคานะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_22","th":"นานาชิมะ 22"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_23","th":"นานาชิมะ 23"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_24","th":"นานาชิมะ 24"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_NAVEL_ROCK_FRLG","th":"หินสะดือ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MT_EMBER","th":"ภูเขาแสงเทียน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_BERRY_FOREST","th":"ป่าเบอร์รี่"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ICEFALL_CAVE","th":"ถ้ำน้ำตกน้ำแข็ง"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ROCKET_WAREHOUSE","th":"โกดังร็อกเก็ต"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TRAINER_TOWER_2","th":"หอคอยเทรนเนอร์"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_DOTTED_HOLE","th":"โพรงลายจุด"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_LOST_CAVE","th":"ถ้ำไร้ทางกลับ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_PATTERN_BUSH","th":"พุ่มไม้ลวดลาย"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ALTERING_CAVE_FRLG","th":"ถ้ำแปรเปลี่ยน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TANOBY_CHAMBERS","th":"ห้องหินอาสึคานะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_THREE_ISLE_PATH","th":"ทางเกาะที่ 3"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TANOBY_KEY","th":"กุญแจอาสึคานะ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_BIRTH_ISLAND_FRLG","th":"เกาะกำเนิด"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MONEAN_CHAMBER","th":"ห้องโมเนียน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_LIPTOO_CHAMBER","th":"ห้องลิปทู"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_WEEPTH_CHAMBER","th":"ห้องวีปธ์"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_DILFORD_CHAMBER","th":"ห้องดิลฟอร์ด"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SCUFIB_CHAMBER","th":"ห้องสคูฟิบ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_RIXY_CHAMBER","th":"ห้องริกซี"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_VIAPOIS_CHAMBER","th":"ห้องเวียปัวส์"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_EMBER_SPA","th":"ออนเซ็นแสงเทียน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_SPECIAL_AREA","th":"พื้นที่พิเศษ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_AQUA_HIDEOUT","th":"ฐานแก๊งอควา"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MAGMA_HIDEOUT","th":"ฐานแก๊งแม็กม่า"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MIRAGE_TOWER","th":"หอคอยมายา"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_BIRTH_ISLAND","th":"เกาะกำเนิด"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_FARAWAY_ISLAND","th":"เกาะสุดขอบฟ้า"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ARTISAN_CAVE","th":"ถ้ำช่างฝีมือ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_MARINE_CAVE","th":"ถ้ำทะเล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_MARINE_CAVE","th":"ใต้ทะเล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TERRA_CAVE","th":"ถ้ำผืนดิน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_105","th":"ใต้ทะเล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_125","th":"ใต้ทะเล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_129","th":"ใต้ทะเล"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_DESERT_UNDERPASS","th":"อุโมงค์ใต้ทะเลทราย"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_ALTERING_CAVE","th":"ถ้ำแปรเปลี่ยน"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_NAVEL_ROCK","th":"หินสะดือ"}
-{"id":"src/data/region_map/region_map_sections.json#MAPSEC_TRAINER_HILL","th":"เทรนเนอร์ฮิล"}
+{"id": "src/data/decoration/header.h#DECOR_NONE.name", "th": "โต๊ะเล็ก"}
+{"id": "src/data/decoration/header.h#DECOR_SMALL_DESK.name", "th": "โต๊ะเล็ก"}
+{"id": "src/data/decoration/header.h#DECOR_POKEMON_DESK.name", "th": "โต๊ะโปเกมอน"}
+{"id": "src/data/decoration/header.h#DECOR_HEAVY_DESK.name", "th": "โต๊ะหนัก"}
+{"id": "src/data/decoration/header.h#DECOR_RAGGED_DESK.name", "th": "โต๊ะผุพัง"}
+{"id": "src/data/decoration/header.h#DECOR_COMFORT_DESK.name", "th": "โต๊ะแสนสบาย"}
+{"id": "src/data/decoration/header.h#DECOR_PRETTY_DESK.name", "th": "โต๊ะสวย"}
+{"id": "src/data/decoration/header.h#DECOR_BRICK_DESK.name", "th": "โต๊ะอิฐ"}
+{"id": "src/data/decoration/header.h#DECOR_CAMP_DESK.name", "th": "โต๊ะแคมป์"}
+{"id": "src/data/decoration/header.h#DECOR_HARD_DESK.name", "th": "โต๊ะแข็ง"}
+{"id": "src/data/decoration/header.h#DECOR_SMALL_CHAIR.name", "th": "เก้าอี้เล็ก"}
+{"id": "src/data/decoration/header.h#DECOR_POKEMON_CHAIR.name", "th": "เก้าอี้โปเกมอน"}
+{"id": "src/data/decoration/header.h#DECOR_HEAVY_CHAIR.name", "th": "เก้าอี้หนัก"}
+{"id": "src/data/decoration/header.h#DECOR_PRETTY_CHAIR.name", "th": "เก้าอี้สวย"}
+{"id": "src/data/decoration/header.h#DECOR_COMFORT_CHAIR.name", "th": "เก้าอี้แสนสบาย"}
+{"id": "src/data/decoration/header.h#DECOR_RAGGED_CHAIR.name", "th": "เก้าอี้ผุพัง"}
+{"id": "src/data/decoration/header.h#DECOR_BRICK_CHAIR.name", "th": "เก้าอี้อิฐ"}
+{"id": "src/data/decoration/header.h#DECOR_CAMP_CHAIR.name", "th": "เก้าอี้แคมป์"}
+{"id": "src/data/decoration/header.h#DECOR_HARD_CHAIR.name", "th": "เก้าอี้แข็ง"}
+{"id": "src/data/decoration/header.h#DECOR_RED_PLANT.name", "th": "ต้นไม้แดง"}
+{"id": "src/data/decoration/header.h#DECOR_TROPICAL_PLANT.name", "th": "ไม้เมืองร้อน"}
+{"id": "src/data/decoration/header.h#DECOR_PRETTY_FLOWERS.name", "th": "ดอกไม้สวย"}
+{"id": "src/data/decoration/header.h#DECOR_COLORFUL_PLANT.name", "th": "ไม้หลากสี"}
+{"id": "src/data/decoration/header.h#DECOR_BIG_PLANT.name", "th": "ต้นไม้ใหญ่"}
+{"id": "src/data/decoration/header.h#DECOR_GORGEOUS_PLANT.name", "th": "ไม้ประดับหรู"}
+{"id": "src/data/decoration/header.h#DECOR_RED_BRICK.name", "th": "อิฐแดง"}
+{"id": "src/data/decoration/header.h#DECOR_YELLOW_BRICK.name", "th": "อิฐเหลือง"}
+{"id": "src/data/decoration/header.h#DECOR_BLUE_BRICK.name", "th": "อิฐน้ำเงิน"}
+{"id": "src/data/decoration/header.h#DECOR_RED_BALLOON.name", "th": "ลูกโป่งแดง"}
+{"id": "src/data/decoration/header.h#DECOR_BLUE_BALLOON.name", "th": "ลูกโป่งน้ำเงิน"}
+{"id": "src/data/decoration/header.h#DECOR_YELLOW_BALLOON.name", "th": "ลูกโป่งเหลือง"}
+{"id": "src/data/decoration/header.h#DECOR_RED_TENT.name", "th": "เต็นท์แดง"}
+{"id": "src/data/decoration/header.h#DECOR_BLUE_TENT.name", "th": "เต็นท์น้ำเงิน"}
+{"id": "src/data/decoration/header.h#DECOR_SOLID_BOARD.name", "th": "แผ่นไม้แข็ง"}
+{"id": "src/data/decoration/header.h#DECOR_SLIDE.name", "th": "สไลเดอร์"}
+{"id": "src/data/decoration/header.h#DECOR_FENCE_LENGTH.name", "th": "รั้วแนวตั้ง"}
+{"id": "src/data/decoration/header.h#DECOR_FENCE_WIDTH.name", "th": "รั้วแนวนอน"}
+{"id": "src/data/decoration/header.h#DECOR_TIRE.name", "th": "ยางรถ"}
+{"id": "src/data/decoration/header.h#DECOR_STAND.name", "th": "แท่นยืน"}
+{"id": "src/data/decoration/header.h#DECOR_MUD_BALL.name", "th": "ก้อนโคลน"}
+{"id": "src/data/decoration/header.h#DECOR_BREAKABLE_DOOR.name", "th": "ประตูพังได้"}
+{"id": "src/data/decoration/header.h#DECOR_SAND_ORNAMENT.name", "th": "รูปปั้นทราย"}
+{"id": "src/data/decoration/header.h#DECOR_SILVER_SHIELD.name", "th": "โล่เงิน"}
+{"id": "src/data/decoration/header.h#DECOR_GOLD_SHIELD.name", "th": "โล่ทอง"}
+{"id": "src/data/decoration/header.h#DECOR_GLASS_ORNAMENT.name", "th": "รูปปั้นแก้ว"}
+{"id": "src/data/decoration/header.h#DECOR_TV.name", "th": "ทีวี"}
+{"id": "src/data/decoration/header.h#DECOR_ROUND_TV.name", "th": "ทีวีทรงกลม"}
+{"id": "src/data/decoration/header.h#DECOR_CUTE_TV.name", "th": "ทีวีน่ารัก"}
+{"id": "src/data/decoration/header.h#DECOR_GLITTER_MAT.name", "th": "พรมระยิบระยับ"}
+{"id": "src/data/decoration/header.h#DECOR_JUMP_MAT.name", "th": "พรมกระโดด"}
+{"id": "src/data/decoration/header.h#DECOR_SPIN_MAT.name", "th": "พรมหมุน"}
+{"id": "src/data/decoration/header.h#DECOR_C_LOW_NOTE_MAT.name", "th": "พรมโน้ตโดต่ำ"}
+{"id": "src/data/decoration/header.h#DECOR_D_NOTE_MAT.name", "th": "พรมโน้ตเร"}
+{"id": "src/data/decoration/header.h#DECOR_E_NOTE_MAT.name", "th": "พรมโน้ตมี"}
+{"id": "src/data/decoration/header.h#DECOR_F_NOTE_MAT.name", "th": "พรมโน้ตฟา"}
+{"id": "src/data/decoration/header.h#DECOR_G_NOTE_MAT.name", "th": "พรมโน้ตซอล"}
+{"id": "src/data/decoration/header.h#DECOR_A_NOTE_MAT.name", "th": "พรมโน้ตลา"}
+{"id": "src/data/decoration/header.h#DECOR_B_NOTE_MAT.name", "th": "พรมโน้ตที"}
+{"id": "src/data/decoration/header.h#DECOR_C_HIGH_NOTE_MAT.name", "th": "พรมโน้ตโดสูง"}
+{"id": "src/data/decoration/header.h#DECOR_SURF_MAT.name", "th": "พรมโต้คลื่น"}
+{"id": "src/data/decoration/header.h#DECOR_THUNDER_MAT.name", "th": "พรมสายฟ้า"}
+{"id": "src/data/decoration/header.h#DECOR_FIRE_BLAST_MAT.name", "th": "พรมระเบิดไฟ"}
+{"id": "src/data/decoration/header.h#DECOR_POWDER_SNOW_MAT.name", "th": "พรมหิมะผง"}
+{"id": "src/data/decoration/header.h#DECOR_ATTRACT_MAT.name", "th": "พรมเสน่ห์"}
+{"id": "src/data/decoration/header.h#DECOR_FISSURE_MAT.name", "th": "พรมแผ่นดินแยก"}
+{"id": "src/data/decoration/header.h#DECOR_SPIKES_MAT.name", "th": "พรมหนามแหลม"}
+{"id": "src/data/decoration/header.h#DECOR_BALL_POSTER.name", "th": "โปสเตอร์บอล"}
+{"id": "src/data/decoration/header.h#DECOR_GREEN_POSTER.name", "th": "โปสเตอร์เขียว"}
+{"id": "src/data/decoration/header.h#DECOR_RED_POSTER.name", "th": "โปสเตอร์แดง"}
+{"id": "src/data/decoration/header.h#DECOR_BLUE_POSTER.name", "th": "โปสเตอร์น้ำเงิน"}
+{"id": "src/data/decoration/header.h#DECOR_CUTE_POSTER.name", "th": "โปสเตอร์น่ารัก"}
+{"id": "src/data/decoration/header.h#DECOR_PIKA_POSTER.name", "th": "โปสเตอร์ปิกา"}
+{"id": "src/data/decoration/header.h#DECOR_LONG_POSTER.name", "th": "โปสเตอร์ยาว"}
+{"id": "src/data/decoration/header.h#DECOR_SEA_POSTER.name", "th": "โปสเตอร์ทะเล"}
+{"id": "src/data/decoration/header.h#DECOR_SKY_POSTER.name", "th": "โปสเตอร์ท้องฟ้า"}
+{"id": "src/data/decoration/header.h#DECOR_KISS_POSTER.name", "th": "โปสเตอร์จุ๊บ"}
+{"id": "src/data/decoration/header.h#DECOR_PICHU_DOLL.name", "th": "ตุ๊กตาพิชู"}
+{"id": "src/data/decoration/header.h#DECOR_PIKACHU_DOLL.name", "th": "ตุ๊กตาปิกาจู"}
+{"id": "src/data/decoration/header.h#DECOR_MARILL_DOLL.name", "th": "ตุ๊กตามาริล"}
+{"id": "src/data/decoration/header.h#DECOR_TOGEPI_DOLL.name", "th": "ตุ๊กตาโทเกปี"}
+{"id": "src/data/decoration/header.h#DECOR_CYNDAQUIL_DOLL.name", "th": "ตุ๊กตาฮิโนอาราชิ"}
+{"id": "src/data/decoration/header.h#DECOR_CHIKORITA_DOLL.name", "th": "ตุ๊กตาชิโครีตา"}
+{"id": "src/data/decoration/header.h#DECOR_TOTODILE_DOLL.name", "th": "ตุ๊กตาวานิโนโกะ"}
+{"id": "src/data/decoration/header.h#DECOR_JIGGLYPUFF_DOLL.name", "th": "ตุ๊กตาพูริน"}
+{"id": "src/data/decoration/header.h#DECOR_MEOWTH_DOLL.name", "th": "ตุ๊กตาเนียส"}
+{"id": "src/data/decoration/header.h#DECOR_CLEFAIRY_DOLL.name", "th": "ตุ๊กตาปิปปี"}
+{"id": "src/data/decoration/header.h#DECOR_DITTO_DOLL.name", "th": "ตุ๊กตาเมตามอน"}
+{"id": "src/data/decoration/header.h#DECOR_SMOOCHUM_DOLL.name", "th": "ตุ๊กตามุชูล"}
+{"id": "src/data/decoration/header.h#DECOR_TREECKO_DOLL.name", "th": "ตุ๊กตาคิโมริ"}
+{"id": "src/data/decoration/header.h#DECOR_TORCHIC_DOLL.name", "th": "ตุ๊กตาอาชาโม"}
+{"id": "src/data/decoration/header.h#DECOR_MUDKIP_DOLL.name", "th": "ตุ๊กตามิซึโกโร"}
+{"id": "src/data/decoration/header.h#DECOR_DUSKULL_DOLL.name", "th": "ตุ๊กตาโยมาวารุ"}
+{"id": "src/data/decoration/header.h#DECOR_WYNAUT_DOLL.name", "th": "ตุ๊กตาโซนาโนะ"}
+{"id": "src/data/decoration/header.h#DECOR_BALTOY_DOLL.name", "th": "ตุ๊กตายาจิลอน"}
+{"id": "src/data/decoration/header.h#DECOR_KECLEON_DOLL.name", "th": "ตุ๊กตาคาคุเรออน"}
+{"id": "src/data/decoration/header.h#DECOR_AZURILL_DOLL.name", "th": "ตุ๊กตารูริริ"}
+{"id": "src/data/decoration/header.h#DECOR_SKITTY_DOLL.name", "th": "ตุ๊กตาเอเนโกะ"}
+{"id": "src/data/decoration/header.h#DECOR_SWABLU_DOLL.name", "th": "ตุ๊กตาชิรุตโตะ"}
+{"id": "src/data/decoration/header.h#DECOR_GULPIN_DOLL.name", "th": "ตุ๊กตาโกคูลิน"}
+{"id": "src/data/decoration/header.h#DECOR_LOTAD_DOLL.name", "th": "ตุ๊กตาฮาซึโบ"}
+{"id": "src/data/decoration/header.h#DECOR_SEEDOT_DOLL.name", "th": "ตุ๊กตาทาเนโบ"}
+{"id": "src/data/decoration/header.h#DECOR_PIKA_CUSHION.name", "th": "เบาะปิกา"}
+{"id": "src/data/decoration/header.h#DECOR_ROUND_CUSHION.name", "th": "เบาะกลม"}
+{"id": "src/data/decoration/header.h#DECOR_KISS_CUSHION.name", "th": "เบาะจุ๊บ"}
+{"id": "src/data/decoration/header.h#DECOR_ZIGZAG_CUSHION.name", "th": "เบาะซิกแซก"}
+{"id": "src/data/decoration/header.h#DECOR_SPIN_CUSHION.name", "th": "เบาะหมุน"}
+{"id": "src/data/decoration/header.h#DECOR_DIAMOND_CUSHION.name", "th": "เบาะเพชร"}
+{"id": "src/data/decoration/header.h#DECOR_BALL_CUSHION.name", "th": "เบาะบอล"}
+{"id": "src/data/decoration/header.h#DECOR_GRASS_CUSHION.name", "th": "เบาะหญ้า"}
+{"id": "src/data/decoration/header.h#DECOR_FIRE_CUSHION.name", "th": "เบาะไฟ"}
+{"id": "src/data/decoration/header.h#DECOR_WATER_CUSHION.name", "th": "เบาะน้ำ"}
+{"id": "src/data/decoration/header.h#DECOR_SNORLAX_DOLL.name", "th": "ตุ๊กตาคาบิกอน"}
+{"id": "src/data/decoration/header.h#DECOR_RHYDON_DOLL.name", "th": "ตุ๊กตาไซดอน"}
+{"id": "src/data/decoration/header.h#DECOR_LAPRAS_DOLL.name", "th": "ตุ๊กตาลาพลาซ"}
+{"id": "src/data/decoration/header.h#DECOR_VENUSAUR_DOLL.name", "th": "ตุ๊กตาฟุชิกิบานะ"}
+{"id": "src/data/decoration/header.h#DECOR_CHARIZARD_DOLL.name", "th": "ตุ๊กตาลิซาร์ดอน"}
+{"id": "src/data/decoration/header.h#DECOR_BLASTOISE_DOLL.name", "th": "ตุ๊กตาคาเม็กซ์"}
+{"id": "src/data/decoration/header.h#DECOR_WAILMER_DOLL.name", "th": "ตุ๊กตาโฮเอลโกะ"}
+{"id": "src/data/decoration/header.h#DECOR_REGIROCK_DOLL.name", "th": "ตุ๊กตาเรจิร็อค"}
+{"id": "src/data/decoration/header.h#DECOR_REGICE_DOLL.name", "th": "ตุ๊กตาเรจิไอซ์"}
+{"id": "src/data/decoration/header.h#DECOR_REGISTEEL_DOLL.name", "th": "ตุ๊กตาเรจิสตีล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_LITTLEROOT_TOWN", "th": "เมืองมิชิโระ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_OLDALE_TOWN", "th": "เมืองโคโทกิ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_DEWFORD_TOWN", "th": "เมืองมุโระ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_LAVARIDGE_TOWN", "th": "เมืองฟุเอ็น"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_FALLARBOR_TOWN", "th": "เมืองฮาจิตสึเกะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_VERDANTURF_TOWN", "th": "เมืองชิดาเกะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_PACIFIDLOG_TOWN", "th": "เมืองคินางิ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_PETALBURG_CITY", "th": "เมืองโทกะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SLATEPORT_CITY", "th": "เมืองไคนะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_MAUVILLE_CITY", "th": "เมืองคินเซ็ตสึ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_RUSTBORO_CITY", "th": "เมืองคานาซุมิ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_FORTREE_CITY", "th": "เมืองฮิวามากิ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_LILYCOVE_CITY", "th": "เมืองมินาโมะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_MOSSDEEP_CITY", "th": "เมืองโทคุซาเนะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SOOTOPOLIS_CITY", "th": "เมืองรุเนะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_EVER_GRANDE_CITY", "th": "เมืองไซยู"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_101", "th": "เส้นทาง 101"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_102", "th": "เส้นทาง 102"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_103", "th": "เส้นทาง 103"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_104", "th": "เส้นทาง 104"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_105", "th": "เส้นทาง 105"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_106", "th": "เส้นทาง 106"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_107", "th": "เส้นทาง 107"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_108", "th": "เส้นทาง 108"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_109", "th": "เส้นทาง 109"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_110", "th": "เส้นทาง 110"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_111", "th": "เส้นทาง 111"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_112", "th": "เส้นทาง 112"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_113", "th": "เส้นทาง 113"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_114", "th": "เส้นทาง 114"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_115", "th": "เส้นทาง 115"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_116", "th": "เส้นทาง 116"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_117", "th": "เส้นทาง 117"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_118", "th": "เส้นทาง 118"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_119", "th": "เส้นทาง 119"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_120", "th": "เส้นทาง 120"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_121", "th": "เส้นทาง 121"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_122", "th": "เส้นทาง 122"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_123", "th": "เส้นทาง 123"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_124", "th": "เส้นทาง 124"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_125", "th": "เส้นทาง 125"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_126", "th": "เส้นทาง 126"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_127", "th": "เส้นทาง 127"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_128", "th": "เส้นทาง 128"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_129", "th": "เส้นทาง 129"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_130", "th": "เส้นทาง 130"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_131", "th": "เส้นทาง 131"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_132", "th": "เส้นทาง 132"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_133", "th": "เส้นทาง 133"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_134", "th": "เส้นทาง 134"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_124", "th": "ใต้ทะเล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_126", "th": "ใต้ทะเล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_127", "th": "ใต้ทะเล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_128", "th": "ใต้ทะเล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_SOOTOPOLIS", "th": "ใต้ทะเล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_GRANITE_CAVE", "th": "ถ้ำหิน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_MT_CHIMNEY", "th": "ภูเขาปล่องไฟ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SAFARI_ZONE", "th": "ซาฟารีโซน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_BATTLE_FRONTIER", "th": "แบทเทิลฟรอนเทียร์"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_PETALBURG_WOODS", "th": "ป่าโทกะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_RUSTURF_TUNNEL", "th": "อุโมงค์คานาชิดะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ABANDONED_SHIP", "th": "เรือร้าง"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_NEW_MAUVILLE", "th": "นิวคินเซ็ตสึ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_METEOR_FALLS", "th": "น้ำตกดาวตก"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_METEOR_FALLS2", "th": "น้ำตกดาวตก"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_MT_PYRE", "th": "ภูเขาส่งวิญญาณ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_AQUA_HIDEOUT_OLD", "th": "ฐานแก๊ง{AQUA}"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SHOAL_CAVE", "th": "ถ้ำหาดตื้น"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SEAFLOOR_CAVERN", "th": "ถ้ำใต้ทะเล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_SEAFLOOR_CAVERN", "th": "ใต้ทะเล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_VICTORY_ROAD", "th": "ถนนแชมเปี้ยน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_MIRAGE_ISLAND", "th": "เกาะมายา"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_CAVE_OF_ORIGIN", "th": "ถ้ำแห่งการตื่น"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SOUTHERN_ISLAND", "th": "เกาะทางใต้"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_FIERY_PATH", "th": "ทางลัดเปลวไฟ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_FIERY_PATH2", "th": "ทางลัดเปลวไฟ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_JAGGED_PASS", "th": "ทางภูเขาขรุขระ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_JAGGED_PASS2", "th": "ทางภูเขาขรุขระ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SEALED_CHAMBER", "th": "ห้องหินปิดผนึก"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_SEALED_CHAMBER", "th": "ใต้ทะเล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SCORCHED_SLAB", "th": "ถ้ำหินแห้งแล้ง"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ISLAND_CAVE", "th": "ถ้ำเกาะเล็ก"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_DESERT_RUINS", "th": "ซากโบราณทะเลทราย"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ANCIENT_TOMB", "th": "สุสานโบราณ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_INSIDE_OF_TRUCK", "th": "ในรถบรรทุก"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SKY_PILLAR", "th": "เสาแห่งท้องฟ้า"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SECRET_BASE", "th": "ฐานลับ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_PALLET_TOWN", "th": "เมืองมาซาระ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_VIRIDIAN_CITY", "th": "เมืองโทคิวะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_PEWTER_CITY", "th": "เมืองนิบิ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_CERULEAN_CITY", "th": "เมืองฮานาดะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_LAVENDER_TOWN", "th": "เมืองชิออน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_VERMILION_CITY", "th": "เมืองคุจิบะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_CELADON_CITY", "th": "เมืองทามามุชิ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_FUCHSIA_CITY", "th": "เมืองเซคิจิคุ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_CINNABAR_ISLAND", "th": "เกาะกุเร็น"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_INDIGO_PLATEAU", "th": "ที่ราบสูงเซคิเอ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SAFFRON_CITY", "th": "เมืองยามาบุกิ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_4_POKECENTER", "th": "เส้นทาง 4"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_10_POKECENTER", "th": "เส้นทาง 10"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_1", "th": "เส้นทาง 1"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_2", "th": "เส้นทาง 2"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_3", "th": "เส้นทาง 3"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_4", "th": "เส้นทาง 4"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_5", "th": "เส้นทาง 5"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_6", "th": "เส้นทาง 6"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_7", "th": "เส้นทาง 7"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_8", "th": "เส้นทาง 8"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_9", "th": "เส้นทาง 9"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_10", "th": "เส้นทาง 10"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_11", "th": "เส้นทาง 11"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_12", "th": "เส้นทาง 12"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_13", "th": "เส้นทาง 13"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_14", "th": "เส้นทาง 14"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_15", "th": "เส้นทาง 15"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_16", "th": "เส้นทาง 16"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_17", "th": "เส้นทาง 17"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_18", "th": "เส้นทาง 18"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_19", "th": "เส้นทาง 19"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_20", "th": "เส้นทาง 20"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_21", "th": "เส้นทาง 21"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_22", "th": "เส้นทาง 22"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_23", "th": "เส้นทาง 23"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_24", "th": "เส้นทาง 24"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROUTE_25", "th": "เส้นทาง 25"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_VIRIDIAN_FOREST", "th": "ป่าโทคิวะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_MT_MOON", "th": "ภูเขาชมจันทร์"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_S_S_ANNE", "th": "เรือแซงต์แอนน์"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_UNDERGROUND_PATH", "th": "ทางใต้ดิน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_UNDERGROUND_PATH_2", "th": "ทางใต้ดิน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_DIGLETTS_CAVE", "th": "ถ้ำดิกดา"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_KANTO_VICTORY_ROAD", "th": "ถนนแชมเปี้ยน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROCKET_HIDEOUT", "th": "ฐานแก๊งร็อกเก็ต"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SILPH_CO", "th": "บริษัทซิลฟ์"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_POKEMON_MANSION", "th": "คฤหาสน์โปเกมอน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_KANTO_SAFARI_ZONE", "th": "ซาฟารีโซน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_POKEMON_LEAGUE", "th": "โปเกมอนลีก"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROCK_TUNNEL", "th": "อุโมงค์อิวายามะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SEAFOAM_ISLANDS", "th": "เกาะแฝด"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_POKEMON_TOWER", "th": "หอคอยโปเกมอน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_CERULEAN_CAVE", "th": "ถ้ำฮานาดะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_POWER_PLANT", "th": "โรงไฟฟ้าร้าง"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ONE_ISLAND", "th": "เกาะที่ 1"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_TWO_ISLAND", "th": "เกาะที่ 2"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_THREE_ISLAND", "th": "เกาะที่ 3"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_FOUR_ISLAND", "th": "เกาะที่ 4"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_FIVE_ISLAND", "th": "เกาะที่ 5"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SEVEN_ISLAND", "th": "เกาะที่ 7"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SIX_ISLAND", "th": "เกาะที่ 6"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_KINDLE_ROAD", "th": "ถนนร้อนผ่าว"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_TREASURE_BEACH", "th": "หาดสมบัติ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_CAPE_BRINK", "th": "แหลมสุดขอบ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_BOND_BRIDGE", "th": "สะพานสายสัมพันธ์"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_THREE_ISLE_PORT", "th": "ท่าเรือเกาะที่ 3"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_6", "th": "นานาชิมะ 6"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_7", "th": "นานาชิมะ 7"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_8", "th": "นานาชิมะ 8"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_9", "th": "นานาชิมะ 9"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_RESORT_GORGEOUS", "th": "รีสอร์ตกอร์เจียส"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_WATER_LABYRINTH", "th": "เขาวงกตน้ำ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_FIVE_ISLE_MEADOW", "th": "ทุ่งหญ้าเกาะที่ 5"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_MEMORIAL_PILLAR", "th": "เสาความทรงจำ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_OUTCAST_ISLAND", "th": "เกาะห่างไกล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_GREEN_PATH", "th": "ทางเดินสีเขียว"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_WATER_PATH", "th": "ทางเดินริมน้ำ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_RUIN_VALLEY", "th": "หุบเขาซากโบราณ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_TRAINER_TOWER", "th": "หอคอยเทรนเนอร์"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_CANYON_ENTRANCE", "th": "ทางเข้าหุบเขา"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SEVAULT_CANYON", "th": "หุบเขาชิปโป"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_TANOBY_RUINS", "th": "ซากโบราณอาสึคานะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_22", "th": "นานาชิมะ 22"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_23", "th": "นานาชิมะ 23"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SEVII_ISLE_24", "th": "นานาชิมะ 24"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_NAVEL_ROCK_FRLG", "th": "หินสะดือ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_MT_EMBER", "th": "ภูเขาแสงเทียน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_BERRY_FOREST", "th": "ป่าเบอร์รี่"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ICEFALL_CAVE", "th": "ถ้ำน้ำตกน้ำแข็ง"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ROCKET_WAREHOUSE", "th": "โกดังร็อกเก็ต"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_TRAINER_TOWER_2", "th": "หอคอยเทรนเนอร์"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_DOTTED_HOLE", "th": "โพรงลายจุด"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_LOST_CAVE", "th": "ถ้ำไร้ทางกลับ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_PATTERN_BUSH", "th": "พุ่มไม้ลวดลาย"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ALTERING_CAVE_FRLG", "th": "ถ้ำแปรเปลี่ยน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_TANOBY_CHAMBERS", "th": "ห้องหินอาสึคานะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_THREE_ISLE_PATH", "th": "ทางเกาะที่ 3"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_TANOBY_KEY", "th": "กุญแจอาสึคานะ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_BIRTH_ISLAND_FRLG", "th": "เกาะกำเนิด"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_MONEAN_CHAMBER", "th": "ห้องโมเนียน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_LIPTOO_CHAMBER", "th": "ห้องลิปทู"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_WEEPTH_CHAMBER", "th": "ห้องวีปธ์"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_DILFORD_CHAMBER", "th": "ห้องดิลฟอร์ด"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SCUFIB_CHAMBER", "th": "ห้องสคูฟิบ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_RIXY_CHAMBER", "th": "ห้องริกซี"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_VIAPOIS_CHAMBER", "th": "ห้องเวียปัวส์"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_EMBER_SPA", "th": "ออนเซ็นแสงเทียน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_SPECIAL_AREA", "th": "พื้นที่พิเศษ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_AQUA_HIDEOUT", "th": "ฐานแก๊งอควา"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_MAGMA_HIDEOUT", "th": "ฐานแก๊งแม็กม่า"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_MIRAGE_TOWER", "th": "หอคอยมายา"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_BIRTH_ISLAND", "th": "เกาะกำเนิด"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_FARAWAY_ISLAND", "th": "เกาะสุดขอบฟ้า"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ARTISAN_CAVE", "th": "ถ้ำช่างฝีมือ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_MARINE_CAVE", "th": "ถ้ำทะเล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_MARINE_CAVE", "th": "ใต้ทะเล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_TERRA_CAVE", "th": "ถ้ำผืนดิน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_105", "th": "ใต้ทะเล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_125", "th": "ใต้ทะเล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_UNDERWATER_129", "th": "ใต้ทะเล"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_DESERT_UNDERPASS", "th": "อุโมงค์ใต้ทะเลทราย"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_ALTERING_CAVE", "th": "ถ้ำแปรเปลี่ยน"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_NAVEL_ROCK", "th": "หินสะดือ"}
+{"id": "src/data/region_map/region_map_sections.json#MAPSEC_TRAINER_HILL", "th": "เทรนเนอร์ฮิล"}
